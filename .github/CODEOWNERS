@@ -1,5 +1,12 @@
-# Maintainer of record. Do not turn on "Require review from Code Owners"
-# for the whole repo: post pull requests are meant to squash-merge without a review.
-# Ask @zwobill to review changes outside jobs/, talents/, and companies/.
+# Branch protection on main uses "Require review from Code Owners"
+# with 0 required approving reviews. The last matching pattern wins.
+# Content paths are listed after `*` with no owners, so a pull request
+# that only changes jobs/, talents/, or companies/ needs no review.
+# Anything else needs approval from the Softprobe team.
+# The checker also treats @zwobill as a maintainer when this team entry
+# is missing.
 
-* @zwobill
+* @softprobe/openjob-maintainers
+/jobs/
+/talents/
+/companies/

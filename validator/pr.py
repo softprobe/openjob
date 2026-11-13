@@ -136,28 +136,17 @@ def check_pr(*, head: Path, base: Path, author: str, today: date | None = None) 
                 )
 
     post_changes = post_added + post_modified + post_deleted
-    single = _single_submission(post_added, post_modified, post_deleted, head, base_files)
     scope_issue: Issue | None = None
-    maintainer_pr = False
     bot_ready = bot_expiry and not issues
-    if bot_ready:
+    # Any path outside the post trees needs a team review. Several post files are allowed.
+    maintainer_pr = bool(other) and not bot_ready
+    if bot_ready or maintainer_pr:
         pass
-    elif other:
-        maintainer_pr = True
     elif not post_changes:
         scope_issue = Issue(
             "scope",
             "(pull request)",
             "The pull request does not add, edit, or remove a post.",
-            FIX["scope"],
-        )
-    elif not single:
-        scope_issue = Issue(
-            "scope",
-            "(pull request)",
-            "The pull request touches more than one post: "
-            + ", ".join(f"`{rel}`" for rel in post_changes)
-            + ".",
             FIX["scope"],
         )
 
@@ -184,19 +173,18 @@ def check_pr(*, head: Path, base: Path, author: str, today: date | None = None) 
             "This is the expiry workflow removing posts that are already past their expiry date. "
             "It can be squash-merged."
         )
-    elif not issues and maintainer_pr:
+    elif maintainer_pr:
+        outside = ", ".join(f"`{rel}`" for rel in other)
         notes.append(
-            "This pull request changes files outside `jobs/`, `talents/`, and `companies/`. "
-            "Post checks passed. Auto-merge stays off; a maintainer (`@zwobill`) needs to merge it."
+            "This pull request changes files outside `jobs/`, `talents/`, and `companies/` "
+            f"({outside}). Auto-merge stays off. It needs approval from the Softprobe team "
+            "(`@softprobe/openjob-maintainers`)."
         )
     elif not issues:
         automerge = True
-        rel = _share_rel(post_added, post_modified, post_deleted)
-        meta = _meta(head_files.get(rel)) if rel else None
-        if rel and meta:
-            share_comment = render_share_comment(meta, rel)
+        share_comment = _share_comments(post_added, post_modified, head_files)
         note = (
-            "Checks passed and the pull request touches one post. "
+            "Checks passed. Every changed file is a post under `jobs/`, `talents/`, or `companies/`. "
             "It can be squash-merged with the GitHub Actions token."
         )
         if share_comment:
@@ -236,48 +224,18 @@ def _bot_expiry(
     return allowed and not any(issue.code == "bot-expiry" for issue in issues)
 
 
-def _single_submission(
-    added: list[str],
-    modified: list[str],
-    deleted: list[str],
-    head: Path,
-    base_files: dict[str, Path],
-) -> bool:
-    if len(modified) == 1 and not added and not deleted:
-        return True
-    if len(added) == 1 and not modified and not deleted:
-        return True
-    if len(deleted) == 1 and not modified and not added:
-        return True
-    if len(added) == 1 and len(deleted) == 1 and not modified:
-        try:
-            new_meta, _body = load_post(head / added[0])
-            old_meta, _old = load_post(base_files[deleted[0]])
-        except (OSError, PostParseError, KeyError):
-            return False
-        return _same_family(old_meta.get("kind"), new_meta.get("kind")) and owner_of(old_meta) == owner_of(
-            new_meta
-        )
-    return False
-
-
-def _share_rel(added: list[str], modified: list[str], deleted: list[str]) -> str | None:
-    """The post that should be shared after this pull request merges.
-
-    A pure deletion has nothing to share. A rename shares the new path.
-    """
-    if len(modified) == 1 and not added and not deleted:
-        return modified[0]
-    if len(added) == 1 and not modified:
-        return added[0]
-    return None
-
-
-def _same_family(left: object, right: object) -> bool:
-    talents = {"talent", "talent-ref"}
-    if left in talents and right in talents:
-        return True
-    return left == right and left in {"job", "company", "talent", "talent-ref"}
+def _share_comments(
+    added: list[str], modified: list[str], head_files: dict[str, Path]
+) -> str | None:
+    """Share every post this pull request adds or edits. A pure deletion has nothing to share."""
+    parts: list[str] = []
+    for rel in added + modified:
+        meta = _meta(head_files.get(rel))
+        if meta is not None:
+            parts.append(render_share_comment(meta, rel))
+    if not parts:
+        return None
+    return "\n".join(parts)
 
 
 def _meta(path: Path | None) -> dict | None:
