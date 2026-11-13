@@ -1,5 +1,8 @@
 """Permalinks and share links for a public post.
 
+The Pages origin is the project URL of GITHUB_REPOSITORY when Actions sets it,
+and of REPO otherwise.
+
 The prefilled text is the listing, not a way to reach the person. Jobs use the
 role, company, and location. Talent uses the headline. Companies use the name
 and location. Apply links, profile URLs, phone numbers, and email addresses
@@ -10,13 +13,16 @@ the post checker ignores. A job page still shows that address in How to apply.
 from __future__ import annotations
 
 import html
+import os
 import re
 from typing import Mapping
 from urllib.parse import quote, urlencode
 
+from validator.constants import REPO
 from validator.privacy import has_contact_pattern
 
-PAGES_ORIGIN = "https://softprobe.github.io/openjob"
+# GitHub repo and owner names, lowercased. Pages hostnames are lowercase.
+_SLUG = re.compile(r"[a-z0-9](?:[a-z0-9._-]{0,98}[a-z0-9])?")
 GENERIC = "OpenJob"
 HN_TITLE_LIMIT = 80
 
@@ -55,9 +61,46 @@ _FAVICON = (
 )
 
 
+def pages_origin(repository: str | None = None) -> str:
+    """Project Pages origin for the repository that is publishing the board.
+
+    GitHub Actions sets ``GITHUB_REPOSITORY`` to ``owner/name`` before this
+    process starts, including on ``pull_request_target``. That value is the
+    live repository, so a transfer cannot leave new share links on the previous
+    owner's ``github.io`` host. Outside Actions, the origin is ``REPO``.
+
+    ``owner/owner.github.io`` is the site root. Every other repository is
+    ``https://owner.github.io/name``.
+    """
+    if repository is None:
+        repository = os.environ.get("GITHUB_REPOSITORY", "")
+    origin = _origin_for(repository.strip())
+    if origin is None:
+        origin = _origin_for(REPO)
+    if origin is None:
+        raise RuntimeError(f"REPO {REPO!r} is not an owner/name repository.")
+    return origin
+
+
+def _origin_for(repository: str) -> str | None:
+    if repository.count("/") != 1:
+        return None
+    owner, name = (part.strip().lower() for part in repository.split("/", 1))
+    if _SLUG.fullmatch(owner) is None or _SLUG.fullmatch(name) is None:
+        return None
+    if name == f"{owner}.github.io":
+        return f"https://{owner}.github.io"
+    return f"https://{owner}.github.io/{name}"
+
+
+# Value at import. permalink() calls pages_origin() so later reads follow
+# GITHUB_REPOSITORY. This name stays for code that already imported it.
+PAGES_ORIGIN = pages_origin()
+
+
 def permalink(rel: str) -> str:
     slug = _slug(rel)
-    return f"{PAGES_ORIGIN}/p/{slug}/"
+    return f"{pages_origin()}/p/{slug}/"
 
 
 def share_text(meta: Mapping[str, object]) -> str:
