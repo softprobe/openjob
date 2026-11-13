@@ -18,7 +18,7 @@ Posts only. Copy a template into a new post and leave `templates/` unchanged. A 
 
 1. Copy [`templates/job.md`](templates/job.md).
 2. Create the file with [Add file in `jobs/`](https://github.com/softprobe/openjob/new/main/jobs). The file name field is already relative to `jobs/`. Enter `YYYY/MM/<company>-<role-slug>.md`. `YYYY/MM` is the month of `posted`. The filename is the `company` slug, a hyphen, and `role_slug`. Example: `2026/11/example-studio-open-source-maintainer.md`.
-3. Replace the placeholders: `title`, `company`, `company_name`, `role_slug`, `location`, `remote` (`true`, `false`, or `hybrid`), `languages`, `tags`, `apply` (an `https://` careers or application link, or `mailto:` for a hiring address on the company domain), `posted` (`YYYY-MM-DD`), and `posted_by` (your GitHub login). To keep the https link and also offer email, set `apply_email` to the `mailto:` address. Describe the work in the body. Do not add a phone number. Do not put an email in the body.
+3. Replace the placeholders: `title`, `company`, `company_name`, `role_slug`, `location`, `remote` (`true`, `false`, or `hybrid`), `languages`, `tags`, `posted` (`YYYY-MM-DD`), and `posted_by` (your GitHub login). `apply` is required. Set it to an `https://` link for an ATS, careers page, or job posting, or to `mailto:jobs@company.example` on the company website's domain. To offer both, keep the https link in `apply` and set `apply_email` to that `mailto:`. Do not set both to `mailto:`. Personal and other-domain addresses are rejected, and so are phone numbers. Do not put an email in the body. Examples: [Application methods](CONTRIBUTING.md#application-methods).
 4. Open a pull request that changes only post files. On that new-file page, commit and start a pull request. The edit stays in the browser. Another post can be a second file in the same pull request.
 5. The validator runs on the pull request and auto-merges it if the file passes. Share `https://softprobe.github.io/openjob/p/jobs/YYYY/MM/<company>-<role-slug>/` with the share buttons on that page. The merge comment links the same URL.
 
@@ -167,7 +167,7 @@ OpenJob 是一个放在 GitHub 上的开放、隐私优先的职位板：谁都�
 
 1. 复制 [`templates/job.md`](templates/job.md)。
 2. 用 [在 `jobs/` 里新建文件](https://github.com/softprobe/openjob/new/main/jobs) 创建帖子。文件名输入框已经相对于 `jobs/`。填 `YYYY/MM/<company>-<role-slug>.md`。`YYYY/MM` 是 `posted` 的年月，文件名是 `company`、连字符和 `role_slug`。例如 `2026/11/example-studio-open-source-maintainer.md`。
-3. 替换占位符：`title`、`company`、`company_name`、`role_slug`、`location`、`remote`（`true`、`false` 或 `hybrid`）、`languages`、`tags`、`apply`（`https://` 招聘或申请链接，或公司域名上的 `mailto:`）、`posted`（`YYYY-MM-DD`）、`posted_by`（你的 GitHub 登录名）。若要同时保留 https 链接，把 `mailto:` 写在 `apply_email`。在正文里写工作内容。不要写电话，也不要在正文里写邮箱。
+3. 替换占位符：`title`、`company`、`company_name`、`role_slug`、`location`、`remote`（`true`、`false` 或 `hybrid`）、`languages`、`tags`、`posted`（`YYYY-MM-DD`）、`posted_by`（你的 GitHub 登录名）。`apply` 必填：`https://` 指向 ATS、招聘页或职位链接，或公司域名上的 `mailto:jobs@公司域名`。两者都要时，`apply` 保持 https，`apply_email` 写这个 `mailto:`。不能两个都写成 `mailto:`。个人邮箱和其他域名会被拒绝，电话也会被拒绝。不要在正文里写邮箱。示例见 [申请方式](CONTRIBUTING.md#application-methods)。
 4. 打开一个只改帖子文件的 Pull Request。在新建文件的页面上提交并创建 Pull Request，编辑留在浏览器里完成。同一请求里可以再加一篇帖子。
 5. 校验会在 Pull Request 上运行，通过后自动合并。用页面上的分享按钮分享 `https://softprobe.github.io/openjob/p/jobs/YYYY/MM/<company>-<role-slug>/`。合并评论里也有这个链接。
 

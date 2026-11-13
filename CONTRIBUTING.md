@@ -15,7 +15,7 @@ Talent posts cannot contain an email at all. A job may contain one employer hiri
 
 The domain has to match the company website. A leading `www.` on the website host is ignored, and a subdomain of that host matches. The company page's `website` is the source when `companies/<letter>/<company>.md` exists. Otherwise the job's own `website` is the source. `hr@gmail.com` does not match `softprobe.ai`. The same address copied into the job body is still rejected. Phone numbers are rejected even when the hiring address is allowed.
 
-The site may render that address as an Apply by email button. Share text does not include it.
+The site prints that address in the How to apply section, with the address in plain text, a copy button, and a mailto button. An https `apply` link is its own button. Share text does not include the address. See [Application methods](#application-methods).
 
 Use one of these for every other contact:
 
@@ -46,6 +46,37 @@ There is no `phone` field, and no general `email` field. `additionalProperties` 
 `remote` is `true`, `false`, or `hybrid`. `languages` use the codes in the schema (`en`, `zh`, `ja`, `ko`, `es`, `fr`, `de`, `pt`, `ru`). Tags are lowercase slugs. Quote YAML values that are `yes`, `no`, `on`, or `off`.
 
 A job lasts 60 days from `posted`, or from `renewed` if you set it. You may set `expires` sooner. You may not set it later than that cap.
+
+## Application methods
+
+`apply` is required. `apply_email` is optional.
+
+1. **Link only.** `apply` is an `https://` URL of an ATS, a careers page, or a LinkedIn job.
+
+   ```yaml
+   apply: https://jobs.example.com/backend
+   ```
+
+2. **Email only.** `apply` is one `mailto:` on the company website's domain.
+
+   ```yaml
+   apply: mailto:jobs@example.com
+   ```
+
+3. **Link and email.** `apply` stays the https link. `apply_email` is the `mailto:` on that same domain.
+
+   ```yaml
+   apply: https://jobs.example.com/backend
+   apply_email: mailto:jobs@example.com
+   ```
+
+Setting both fields to `mailto:` is rejected. A job has one hiring address.
+
+The email domain must match the company `website`. When `companies/<letter>/<slug>.md` exists, that page's `website` wins. Otherwise set `website` on the job. A leading `www.` is ignored, and a subdomain of that host matches. `hr@gmail.com` does not match `example.com`. `hr@probe.ai` does not match `softprobe.ai`.
+
+Do not write the address in the body. The permalink and the board print it. Share text does not.
+
+Personal addresses, any other domain, and phone numbers are rejected. So are disguises: `name [at] domain`, fullwidth characters, HTML entities, `%40`, `+86` mobiles, and Chinese numerals.
 
 ## Post a talent profile
 
@@ -157,7 +188,7 @@ python -m validator expire --root . --today 2026-11-13
 
 ## 中文步骤
 
-1. 不要写电话。人才帖不能写邮箱。职位只能在 `apply` 或 `apply_email` 里写一个 `mailto:jobs@公司域名`，域名必须和公司网站一致（公司页存在时以公司页的 `website` 为准，忽略 `www.`）。正文里的邮箱会被拒绝。其他联系方式只用 LinkedIn、GitHub、个人网站，或公司的招聘/申请链接。`名字 [at] 域名 [dot] com`、全角 `＠`、以及 `一三八……` 这种中文数字同样会被拒绝。
+1. 不要写电话。人才帖不能写邮箱。职位的 `apply` 必填：`https://` 指向 ATS、招聘页或职位链接，或公司域名上的一个 `mailto:`。两者都要时，`apply` 保持 https，`apply_email` 写 `mailto:`。不能两个都写成 `mailto:`。域名必须和公司网站一致（公司页存在时以公司页的 `website` 为准，忽略 `www.`）。正文里的邮箱会被拒绝。个人邮箱和其他域名会被拒绝。细节见上文 [Application methods](#application-methods)。`名字 [at] 域名 [dot] com`、全角 `＠`、以及 `一三八……` 这种中文数字同样会被拒绝。
 2. 职位文件放在 `jobs/年/月/公司-职位.md`，`posted_by` 必须是你的 GitHub 用户名。默认 60 天后过期。
 3. 人才档案放在 `talents/首字母/用户名.md`，`github` 必须是你自己。默认 180 天。也可以在自己的 `openjob-profile` 仓库放全文，这里只提交 `kind: talent-ref` 的索引。
 4. 公司页放在 `companies/首字母/slug.md`，不过期。

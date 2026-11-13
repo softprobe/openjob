@@ -225,6 +225,47 @@ h2 a { text-decoration-thickness: 1px; text-underline-offset: 3px; }
   gap: 16px;
 }
 
+.apply-how {
+  margin: 0 0 18px;
+  padding: 14px 16px;
+  border: 2px solid var(--line);
+  background: #fff;
+}
+
+.apply-how h2 {
+  margin: 0 0 8px;
+  font-size: 22px;
+  line-height: 1.2;
+}
+
+.apply-address {
+  margin: 0 0 10px;
+  font-family: var(--mono);
+  font-size: 22px;
+  letter-spacing: 0;
+  text-transform: none;
+}
+
+.apply-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.apply-actions a,
+.apply-actions button {
+  font-family: var(--mono);
+  font-size: 13px;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  text-decoration: none;
+  background: var(--ink);
+  color: var(--paper);
+  border: 1px solid var(--ink);
+  padding: 8px 12px;
+  cursor: pointer;
+}
+
 .links { display: flex; flex-wrap: wrap; gap: 14px; margin-top: 8px; }
 
 footer { margin-top: 28px; color: var(--muted); }

@@ -4,7 +4,7 @@ The prefilled text is the listing, not a way to reach the person. Jobs use the
 role, company, and location. Talent uses the headline. Companies use the name
 and location. Apply links, profile URLs, phone numbers, and email addresses
 are left out, including a job's hiring address and the documentation allow-list
-the post checker ignores. The page may still render an Apply by email button.
+the post checker ignores. A job page still shows that address in How to apply.
 """
 
 from __future__ import annotations
@@ -167,6 +167,7 @@ def render_post_page(post: Mapping[str, object], body: str) -> str:
     badges = _badges(post)
     tags = _tags(post.get("tags") or [])
     actions = _actions(post)
+    apply_how = _apply_section(post)
     logo = _logo_html(post)
     share_anchors = "\n".join(
         f'<a href="{e(item["href"], quote=True)}" rel="noopener noreferrer" target="_blank">{e(item["label"])}</a>'
@@ -209,6 +210,7 @@ def render_post_page(post: Mapping[str, object], body: str) -> str:
       </div>
     </header>
     <article>
+      {apply_how}
       <div class="badges">{badges}</div>
       {render_body(body)}
       {tags}
@@ -326,6 +328,40 @@ def _tags(tags: object) -> str:
         return ""
     items = "".join(f"<li>{html.escape(str(tag))}</li>" for tag in tags)
     return f'<ul class="tags">{items}</ul>'
+
+
+def _apply_section(post: Mapping[str, object]) -> str:
+    """Hiring instructions at the top of a job page. Share text stays free of them."""
+    if post.get("kind") != "job":
+        return ""
+    https_apply = _https(post.get("apply"))
+    mailto = _mailto(post.get("apply_email"))
+    address = mailto.split(":", 1)[1] if mailto else ""
+    if not https_apply and not address:
+        return ""
+    buttons: list[str] = []
+    if address and mailto:
+        buttons.append(
+            f'<a href="{html.escape(mailto, quote=True)}" rel="nofollow noopener noreferrer">'
+            "Apply by email · 邮件申请</a>"
+        )
+        buttons.append(
+            f'<button type="button" data-copy-email="{html.escape(address, quote=True)}" '
+            'data-done="Copied · 已复制">Copy email · 复制邮箱</button>'
+        )
+    if https_apply:
+        buttons.append(
+            f'<a href="{html.escape(https_apply, quote=True)}" rel="noopener noreferrer">'
+            "Apply · 申请</a>"
+        )
+    address_html = f'<p class="apply-address">{html.escape(address)}</p>' if address else ""
+    return (
+        '<section class="apply-how" id="apply">'
+        "<h2>How to apply · 如何申请</h2>"
+        f"{address_html}"
+        f'<div class="apply-actions">{"".join(buttons)}</div>'
+        "</section>"
+    )
 
 
 def _actions(post: Mapping[str, object]) -> str:
