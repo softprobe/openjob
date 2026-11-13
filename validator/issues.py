@@ -61,9 +61,9 @@ FIX = {
         "(or the raw file in that repo). The GitHub login in the URL has to match `github`."
     ),
     "scope": (
-        "Submit exactly one post per pull request: one added, edited, or deleted file under "
-        "`jobs/`, `talents/`, or `companies/`. A rename is one delete plus one add of the same kind. "
-        "Open a separate pull request for each additional post."
+        "Change post files under `jobs/`, `talents/`, or `companies/`. Several posts are fine. "
+        "Each file is checked on its own, including ownership. A pull request that also changes "
+        "anything else is not auto-merged; it needs approval from the Softprobe team."
     ),
     "bot-expiry": "The expiry workflow may only delete posts whose effective expiry is before today.",
 }
@@ -91,8 +91,9 @@ def render_report(*, title_failed: bool, issues: list[Issue], notes: list[str]) 
         lines.append("")
     if not issues:
         lines.append(
-            "Auto-merge (squash) runs only when the pull request touches exactly one post file "
-            "and every check passed. A pull request that edits workflows, the site, or docs waits for a maintainer."
+            "Auto-merge (squash) runs when every changed path is a post file under "
+            "`jobs/`, `talents/`, or `companies/` and every check passed. "
+            "A pull request that also changes anything else waits for the Softprobe team."
         )
         lines.append("")
     return "\n".join(lines).rstrip() + "\n"

@@ -18,7 +18,7 @@ The fastest removal of your own post is a pull request that deletes the file. Yo
 
 To report someone else's post, open an **Abuse or takedown** issue, or a private advisory if the report itself would spread personal data. Grounds include a phone number or email, spam, impersonation, harassment, and illegal content. Say which file and why. Do not add your own contact details.
 
-A maintainer (`@zwobill`) removes the file with a pull request and, if branch protection is on, uses the admin bypass because the checker will refuse an edit or deletion by anyone except the original author. The maintainer deletes the post; they do not rewrite it. Git history still contains the old blob. Say so in the takedown pull request. GitHub support can help with cached copies if a later purge is required.
+A maintainer (`@softprobe/openjob-maintainers`, or `@zwobill`) removes the file with a pull request and, if branch protection is on, uses the admin bypass because the checker will refuse an edit or deletion by anyone except the original author. The maintainer deletes the post; they do not rewrite it. Git history still contains the old blob. Say so in the takedown pull request. GitHub support can help with cached copies if a later purge is required.
 
 ## Archive
 
