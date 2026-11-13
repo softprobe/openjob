@@ -2,9 +2,9 @@
 
 ## Do not post private contact details
 
-Phone numbers and personal email addresses do not belong anywhere in this repository, including issue comments and pull request descriptions. The checker rejects them in posts. It also rejects common disguises: `name [at] domain [dot] com`, fullwidth characters, HTML entities, percent-encoding, spaces inside numbers, and Chinese numerals. That is not a promise that every disguise will be caught. Reviewers still remove leaks the checker misses.
+Phone numbers do not belong anywhere in this repository, including issue comments and pull request descriptions. Personal email addresses do not belong in talent posts, in the body of a job, or in issues and pull request descriptions. A job may contain one hiring address in `apply` or `apply_email` when its domain matches the company website. The checker rejects every other address. It also rejects common disguises: `name [at] domain [dot] com`, fullwidth characters, HTML entities, percent-encoding, spaces inside numbers, and Chinese numerals. That is not a promise that every disguise will be caught. Reviewers still remove leaks the checker misses.
 
-Allowed contact: a LinkedIn URL, a GitHub profile, a personal site, or a company careers/apply link.
+Allowed contact: a LinkedIn URL, a GitHub profile, a personal site, a company careers/apply link, or that one hiring address on a job.
 
 ## Report a vulnerability
 

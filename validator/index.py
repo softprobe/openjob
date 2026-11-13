@@ -11,9 +11,11 @@ from jsonschema import Draft202012Validator
 
 from validator.constants import REPO
 from validator.posts import (
+    company_website,
     effective_expiry,
     index_validator,
     iter_post_files,
+    job_contact_links,
     load_post,
     validate_tree,
 )
@@ -31,7 +33,7 @@ def build_index(root: Path, *, today: date | None = None) -> dict:
         if not rel.endswith(".md"):
             continue
         meta, body = load_post(path)
-        posts.append(_project(rel, meta, body))
+        posts.append(_project(rel, meta, body, root=root))
     posts.sort(key=lambda post: post["path"])
     posts.sort(key=lambda post: post["posted"], reverse=True)
     document = {
@@ -68,16 +70,19 @@ def write_pages(root: Path, site_dir: Path, document: dict) -> int:
     return count
 
 
-def _project(rel: str, meta: dict, body: str) -> dict:
+def _project(rel: str, meta: dict, body: str, *, root: Path) -> dict:
     kind = meta["kind"]
     owner = meta.get("github") if kind in {"talent", "talent-ref"} else meta.get("posted_by")
     expires = effective_expiry(meta)
+    https_apply: str | None = None
+    mailto: str | None = None
     if kind == "job":
         title = meta["title"]
         headline = meta["company_name"]
         org = meta["company_name"]
         role = meta["title"]
-        url = meta["apply"]
+        https_apply, mailto = job_contact_links(meta)
+        url = https_apply or _https_url(meta.get("website")) or _https_url(company_website(root, meta)) or ""
     elif kind in {"talent", "talent-ref"}:
         title = meta["name"]
         headline = meta["headline"]
@@ -115,7 +120,9 @@ def _project(rel: str, meta: dict, body: str) -> dict:
         "profile_url": meta.get("profile_url"),
         "website": meta.get("website"),
         "linkedin": meta.get("linkedin"),
-        "apply": meta.get("apply"),
+        "apply": https_apply,
+        "apply_email": mailto,
+        "logo": meta.get("logo") if kind == "company" else None,
         "careers": meta.get("careers"),
         "open_to": list(meta.get("open_to") or []),
         "compensation": meta.get("compensation") or "",
@@ -124,6 +131,12 @@ def _project(rel: str, meta: dict, body: str) -> dict:
         "share_text": blurb,
         "shares": share_links(blurb, page),
     }
+
+
+def _https_url(value: object) -> str | None:
+    if isinstance(value, str) and value.startswith("https://") and not any(char.isspace() for char in value):
+        return value
+    return None
 
 
 def _remote(value: object) -> str:

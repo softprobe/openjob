@@ -225,13 +225,19 @@ def validate_post(
     text = _read_text(path)
     if text is None:
         return issues + [Issue("encoding", rel, "The file is not valid UTF-8.", FIX["encoding"])]
-    issues.extend(_privacy_issues(text, rel))
     try:
         meta, body = parse_post(text)
     except PostParseError as exc:
+        issues.extend(_privacy_issues(text, rel))
         issues.append(Issue("front-matter", rel, str(exc), FIX["front-matter"]))
         return issues
 
+    scan_text = text
+    hiring_issues: list[Issue] = []
+    if meta.get("kind") == "job":
+        scan_text, hiring_issues = _prepare_hiring_email(text, meta, root=root, rel=rel)
+    issues.extend(_privacy_issues(scan_text, rel))
+    issues.extend(hiring_issues)
     issues.extend(_schema_issues(meta, rel))
     issues.extend(_path_issues(rel, meta))
     issues.extend(_body_issues(body, rel))
@@ -387,6 +393,216 @@ def _read_text(path: Path) -> str | None:
         return None
 
 
+_MAILTO_VALUE = re.compile(
+    r"(?i)^mailto:([A-Za-z0-9][A-Za-z0-9._%+-]{0,63}@"
+    r"[A-Za-z0-9](?:[A-Za-z0-9-]{0,62}[A-Za-z0-9])?"
+    r"(?:\.[A-Za-z0-9](?:[A-Za-z0-9-]{0,62}[A-Za-z0-9])?)+)$"
+)
+_HIRING_FIX = (
+    "Put one hiring address in `apply` (`mailto:jobs@company.example`) or in `apply_email`, "
+    "and only when its domain matches the company website (`www.` is ignored). "
+    "The company page is the source when that page exists; otherwise set `website` on the job. "
+    "Remove every other email, including the body. Talent posts cannot include an email. "
+    "Phone numbers are never allowed."
+)
+
+
+def job_contact_links(meta: dict) -> tuple[str | None, str | None]:
+    """Return ``(https apply link, mailto hiring address)`` for a job."""
+    https_apply: str | None = None
+    mailto: str | None = None
+    apply = meta.get("apply")
+    if isinstance(apply, str) and apply.startswith("https://"):
+        https_apply = apply
+    elif isinstance(apply, str) and _mailto_address(apply):
+        mailto = apply.strip()
+    apply_email = meta.get("apply_email")
+    if isinstance(apply_email, str) and _mailto_address(apply_email):
+        mailto = apply_email.strip()
+    return https_apply, mailto
+
+
+def company_website(root: Path, meta: dict) -> str | None:
+    """Website whose domain a hiring address must match.
+
+    A company page wins when the file exists, so a job cannot point `website`
+    at a freemail host while its company page says otherwise. With no company
+    page, the job's own `website` is the source.
+    """
+    page = _company_page_path(root, meta.get("company"))
+    if page is not None:
+        return _read_website(page)
+    own = meta.get("website")
+    if isinstance(own, str) and own.startswith("https://") and not any(char.isspace() for char in own):
+        return own
+    return None
+
+
+def _prepare_hiring_email(
+    text: str,
+    meta: dict,
+    *,
+    root: Path,
+    rel: str,
+) -> tuple[str, list[Issue]]:
+    """Allow one matching-domain hiring address in ``apply`` or ``apply_email``.
+
+    The field is removed from the text the generic scanner sees. A copy in the
+    body, a second address, a mismatched domain, and every talent email stay
+    visible to that scanner or become their own issue. Phone numbers are untouched.
+    """
+    slots = _hiring_slots(meta)
+    if not slots:
+        return text, []
+    issues: list[Issue] = []
+    if len(slots) > 1:
+        issues.append(
+            Issue(
+                "privacy-email",
+                rel,
+                "A job can name one hiring address, in `apply` or in `apply_email`, not both.",
+                _HIRING_FIX,
+            )
+        )
+    website = company_website(root, meta)
+    host = _website_host(website) if website else None
+    for field, _raw, address in slots:
+        domain = _email_domain(address)
+        if host and domain and _domains_match(domain, host):
+            continue
+        if host is None or domain is None:
+            message = (
+                f"The hiring address in `{field}` is only allowed when its domain matches "
+                "a company website. Add `website` on the company page, or on the job when "
+                "there is no company page."
+            )
+        else:
+            message = (
+                f"The hiring address in `{field}` uses `{domain}`, which does not match "
+                f"the company website domain `{host}`."
+            )
+        issues.append(Issue("privacy-email", rel, message, _HIRING_FIX))
+    parts = _split_front_matter(text)
+    if parts is None:
+        return text, issues
+    front, rest = parts
+    for field, raw, _address in slots:
+        front = _neutralize_mailto_field(front, field, raw)
+    return front + rest, issues
+
+
+def _hiring_slots(meta: dict) -> list[tuple[str, str, str]]:
+    found: list[tuple[str, str, str]] = []
+    for field in ("apply", "apply_email"):
+        raw = meta.get(field)
+        address = _mailto_address(raw)
+        if isinstance(raw, str) and address:
+            found.append((field, raw.strip(), address))
+    return found
+
+
+def _mailto_address(value: object) -> str | None:
+    if not isinstance(value, str):
+        return None
+    match = _MAILTO_VALUE.fullmatch(value.strip())
+    if match is None:
+        return None
+    return match.group(1)
+
+
+def _website_host(url: str) -> str | None:
+    parsed = urlparse(url)
+    if parsed.scheme != "https" or not parsed.hostname:
+        return None
+    host = parsed.hostname.lower().rstrip(".")
+    if host.startswith("www."):
+        host = host[4:]
+    if "." not in host or not host:
+        return None
+    return host
+
+
+def _email_domain(address: str) -> str | None:
+    domain = address.rsplit("@", 1)[-1].lower().rstrip(".")
+    if "." not in domain or domain.startswith(".") or ".." in domain:
+        return None
+    return domain
+
+
+def _domains_match(email_domain: str, site_host: str) -> bool:
+    """True when the two hosts are equal, or one is a subdomain of the other."""
+    email_labels = email_domain.split(".")
+    site_labels = site_host.split(".")
+    if len(email_labels) < 2 or len(site_labels) < 2:
+        return False
+    if email_labels == site_labels:
+        return True
+    if len(site_labels) > len(email_labels) and site_labels[-len(email_labels) :] == email_labels:
+        return True
+    if len(email_labels) > len(site_labels) and email_labels[-len(site_labels) :] == site_labels:
+        return True
+    return False
+
+
+def _company_page_path(root: Path, company: object) -> Path | None:
+    if not isinstance(company, str) or not re.fullmatch(r"[a-z0-9]+(?:-[a-z0-9]+)*", company):
+        return None
+    path = root / "companies" / company[0] / f"{company}.md"
+    if path.is_file() and not path.is_symlink():
+        return path
+    return None
+
+
+def _read_website(path: Path) -> str | None:
+    try:
+        meta, _body = load_post(path)
+    except (OSError, PostParseError, UnicodeError):
+        return None
+    website = meta.get("website")
+    if isinstance(website, str) and website.startswith("https://") and not any(char.isspace() for char in website):
+        return website
+    return None
+
+
+def _split_front_matter(text: str) -> tuple[str, str] | None:
+    if not text.startswith("---"):
+        return None
+    marker = "\n---"
+    end = text.find(marker, 3)
+    if end == -1:
+        return None
+    return text[: end + len(marker)], text[end + len(marker) :]
+
+
+def _neutralize_mailto_field(front: str, field: str, raw_value: str) -> str:
+    lines = front.splitlines(keepends=True)
+    replaced = False
+    out: list[str] = []
+    for line in lines:
+        if not replaced and _line_is_field(line, field, raw_value):
+            newline = "\n" if line.endswith("\n") else ""
+            out.append(f"{field}: https://example.com/hiring-contact{newline}")
+            replaced = True
+        else:
+            out.append(line)
+    if replaced:
+        return "".join(out)
+    if raw_value in front:
+        return front.replace(raw_value, "https://example.com/hiring-contact", 1)
+    return front
+
+
+def _line_is_field(line: str, field: str, raw_value: str) -> bool:
+    stripped = line.strip()
+    prefix = field + ":"
+    if not stripped.startswith(prefix):
+        return False
+    value = stripped[len(prefix) :].strip()
+    if len(value) >= 2 and value[0] == value[-1] and value[0] in {'"', "'"}:
+        value = value[1:-1]
+    return value == raw_value
+
+
 def _privacy_issues(text: str, rel: str) -> list[Issue]:
     issues: list[Issue] = []
     findings = find_contacts(text)
@@ -436,8 +652,8 @@ def _schema_issues(meta: dict, rel: str) -> list[Issue]:
         fix = FIX["schema"]
         if error.validator == "additionalProperties":
             fix = (
-                "Remove fields the schema does not define. There is no email or phone field; "
-                "that is deliberate."
+                "Remove fields the schema does not define. There is no phone field. "
+                "A hiring address belongs in `apply` or `apply_email` on a job, not in a field named `email`."
             )
         issues.append(Issue("schema", rel, f"{loc}: {error.message}", fix))
     return issues

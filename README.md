@@ -6,7 +6,7 @@ An open, GitHub-native job board. Anyone can post a job or a talent profile by o
 
 This is a public alternative to LinkedIn and BOSS直聘 for people who want the listing itself to be the product: a text file, a link, and an expiry date. It does not try to be a social network.
 
-**Privacy first.** Do not publish a phone number or a personal email address. Not in a post, not in a pull request, and not in an issue. Contact goes through a LinkedIn URL, a GitHub profile, a personal site, or a company careers/apply link. The checker rejects ordinary addresses and common disguises (`name [at] domain`, fullwidth characters, HTML entities, `%40`, `+86` mobiles, and Chinese numerals). See [Contributing](CONTRIBUTING.md#privacy).
+**Privacy first.** Do not publish a phone number. Do not publish a personal email address. Not in a post, not in a pull request, and not in an issue. Talent posts cannot contain an email at all. A job may put one employer hiring address in `apply` (`mailto:jobs@company.example`) or in `apply_email`, and only when that domain matches the company website (`www.` is ignored). The address is not copied into share text. The site may show it as an Apply by email button. Every other email is rejected, including the job body and a mismatched domain such as gmail.com. Other contact goes through a LinkedIn URL, a GitHub profile, a personal site, or a company careers/apply link. The checker rejects ordinary addresses and common disguises (`name [at] domain`, fullwidth characters, HTML entities, `%40`, `+86` mobiles, and Chinese numerals). See [Contributing](CONTRIBUTING.md#privacy).
 
 Browse the board at <https://softprobe.github.io/openjob/> after GitHub Pages is enabled. Until then, read the files under `jobs/`, `talents/`, and `companies/`.
 
@@ -116,7 +116,7 @@ Abuse reports and the takedown path are in [SECURITY.md](SECURITY.md). Conduct i
 
 OpenJob 是一个放在 GitHub 里的公开职位板。谁都可以用 Pull Request 发布职位或人才档案，用来替代把电话交给 LinkedIn 或 BOSS直聘。仓库就是公告板，搜索页是静态的，没有账号，也没有站内信。
 
-**隐私优先。** 不要公开电话号码或个人邮箱，帖子、Pull Request 和 Issue 里都不要。联系方式只能是 LinkedIn、GitHub 主页、个人网站，或公司的招聘/申请链接。检查脚本会拒绝普通邮箱，也会拒绝 `name [at] domain`、全角字符、`%40`、`+86` 手机号和中文数字写法。细节见 [CONTRIBUTING.md](CONTRIBUTING.md#privacy)。
+**隐私优先。** 不要公开电话号码，也不要公开个人邮箱，帖子、Pull Request 和 Issue 里都不要。人才帖不能写邮箱。职位可以在 `apply` 写 `mailto:jobs@公司域名`，或另写 `apply_email`，但域名必须和公司网站一致（忽略 `www.`）。这个地址不会进入分享文案。网站可以显示「邮件申请」按钮。正文里的邮箱、人才帖里的邮箱，以及 gmail.com 这类不匹配的域名，都会被拒绝。其他联系方式只能是 LinkedIn、GitHub 主页、个人网站，或公司的招聘/申请链接。检查脚本也会拒绝 `name [at] domain`、全角字符、`%40`、`+86` 手机号和中文数字写法。细节见 [CONTRIBUTING.md](CONTRIBUTING.md#privacy)。
 
 | 类型 | 路径 | 期限 |
 | --- | --- | --- |
@@ -131,6 +131,6 @@ OpenJob 是一个放在 GitHub 里的公开职位板。谁都可以用 Pull Requ
 
 启用 GitHub Pages 之后，搜索页在 <https://softprobe.github.io/openjob/>。页面上可以按职位、地点、远程、标签和语言筛选。当前三篇是示例，不是真实招聘或简历。
 
-每篇帖子有一个永久链接：`https://softprobe.github.io/openjob/p/<去掉.md的路径>/`。页面带分享按钮（LinkedIn、X、Reddit、Hacker News、Facebook、Telegram、WhatsApp、微博）和复制链接。微信没有分享链接，页面在浏览器里把永久链接画成二维码。分享文案只包含职位、公司和地点，或人才的 headline，或公司名和地点，不含申请链接、电话或邮箱。自动合并后，机器人会在 Pull Request 里留下这些链接。
+每篇帖子有一个永久链接：`https://softprobe.github.io/openjob/p/<去掉.md的路径>/`。页面带分享按钮（LinkedIn、X、Reddit、Hacker News、Facebook、Telegram、WhatsApp、微博）和复制链接。微信没有分享链接，页面在浏览器里把永久链接画成二维码。分享文案只包含职位、公司和地点，或人才的 headline，或公司名和地点，不含申请链接、电话或邮箱。职位页可以有「邮件申请」按钮，那个地址不在分享文案里。自动合并后，机器人会在 Pull Request 里留下这些链接。
 
 代码用 MIT，帖子用 CC BY 4.0。举报和删除流程在 [SECURITY.md](SECURITY.md)。

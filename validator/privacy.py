@@ -10,6 +10,10 @@ Allow-list, on purpose narrow:
 
 Chinese mobiles such as ``13800138000`` are rejected. That number is widely copied
 as a placeholder and is indistinguishable from a real mobile.
+
+A job's hiring address is not allow-listed here. ``posts.py`` drops one
+matching ``mailto:`` in ``apply`` or ``apply_email`` before this scan. Any
+other copy, including the body and every talent post, still matches.
 """
 
 from __future__ import annotations

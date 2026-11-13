@@ -18,14 +18,15 @@ const STRINGS = {
     sample: "Sample",
     federated: "Own repo",
     apply: "Apply",
+    applyEmail: "Apply by email",
     website: "Website",
     profile: "Profile",
     source: "Source",
     posted: "Posted",
     expires: "Expires",
-    footer: "Contact is a link, not a phone number or an email address. Posts are CC BY 4.0. Code is MIT.",
+    footer: "Phone numbers are not allowed. A job may show Apply by email when the address is on the company domain. Share text never includes a phone number or an email. Posts are CC BY 4.0. Code is MIT.",
     share: "Share",
-    shareNote: "The buttons send this text and the permalink. They do not send an apply link, a phone number, or an email address.",
+    shareNote: "The buttons send this text and the permalink. They do not send an apply link, a phone number, or an email address. An Apply by email button on the page is not part of this text.",
     copy: "Copy link",
     copied: "Copied",
     wechat: "WeChat",
@@ -52,14 +53,15 @@ const STRINGS = {
     sample: "示例",
     federated: "独立仓库",
     apply: "申请",
+    applyEmail: "邮件申请",
     website: "网站",
     profile: "档案",
     source: "源文件",
     posted: "发布",
     expires: "到期",
-    footer: "联系方式是链接，不是电话或邮箱。帖子以 CC BY 4.0 授权，代码以 MIT 授权。",
+    footer: "不允许电话号码。职位可以在公司域名匹配时显示「邮件申请」。分享文字不含电话或邮箱。帖子以 CC BY 4.0 授权，代码以 MIT 授权。",
     share: "分享",
-    shareNote: "按钮只发送这段文字和永久链接，不包含申请链接、电话或邮箱。",
+    shareNote: "按钮只发送这段文字和永久链接，不包含申请链接、电话或邮箱。页面上的「邮件申请」按钮不在这段文字里。",
     copy: "复制链接",
     copied: "已复制",
     wechat: "微信",
@@ -282,6 +284,9 @@ function card(post, target) {
   top.appendChild(badges);
   article.appendChild(top);
 
+  const logo = logoImage(post);
+  if (logo) article.appendChild(logo);
+
   const heading = document.createElement("h2");
   if (post.path && post.permalink) {
     const link = document.createElement("a");
@@ -326,10 +331,17 @@ function card(post, target) {
   }
   const links = document.createElement("div");
   links.className = "links";
-  const actionLabel = post.kind === "job" ? copy.apply : post.kind === "company" ? copy.website : copy.profile;
-  const action = safeLink(post.url, actionLabel);
+  if (post.kind === "job") {
+    const apply = safeLink(post.apply, copy.apply);
+    const email = mailLink(post.apply_email, copy.applyEmail);
+    if (apply) links.appendChild(apply);
+    if (email) links.appendChild(email);
+  } else {
+    const actionLabel = post.kind === "company" ? copy.website : copy.profile;
+    const action = safeLink(post.url, actionLabel);
+    if (action) links.appendChild(action);
+  }
   const source = safeLink(post.source_url, copy.source);
-  if (action) links.appendChild(action);
   if (source) links.appendChild(source);
   const dates = document.createElement("span");
   dates.className = "sub";
@@ -413,6 +425,25 @@ function badge(text, extra) {
   node.className = extra ? `badge ${extra}` : "badge";
   node.textContent = text;
   return node;
+}
+
+function logoImage(post) {
+  if (post.kind !== "company" || !post.logo || !/^https:\/\/\S+$/.test(post.logo)) return null;
+  const img = document.createElement("img");
+  img.className = "logo";
+  img.alt = post.title || "";
+  img.referrerPolicy = "no-referrer";
+  img.src = post.logo;
+  return img;
+}
+
+function mailLink(url, text) {
+  if (!url || !/^mailto:[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}$/i.test(url)) return null;
+  const link = document.createElement("a");
+  link.href = url;
+  link.textContent = text;
+  link.rel = "nofollow noopener noreferrer";
+  return link;
 }
 
 function safeLink(url, text) {
