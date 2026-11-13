@@ -20,7 +20,7 @@ The agent product captures sessions. A team can review every step, including the
 
 There is a free forever tier with unlimited session ingestion, and Teams and Enterprise plans.
 
-Founded in 2025. Headquarters are in Los Altos, California, USA. The company is pre-seed, has 1-10 employees, and the team is distributed across the United States and China (Shanghai). Founder and CEO is Bill Zuo, GitHub login zwobill.
+Founded in 2025. Headquarters are in Los Altos, California, USA. The company has 1-10 employees, and the team is distributed across the United States and China (Shanghai). Founder and CEO is Bill Zuo, GitHub login zwobill.
 
 Site: https://www.softprobe.ai
 
@@ -34,6 +34,6 @@ Agent 产品采集会话。团队可以逐条查看每一步，包括确切的�
 
 有永久免费档，会话采集不限量，另有 Teams 与 Enterprise 方案。
 
-公司 2025 年成立，总部位于美国加利福尼亚州 Los Altos，阶段为 pre-seed，员工 1-10 人，团队分布在美国和中国上海。创始人兼 CEO 是 Bill Zuo，GitHub 登录名 zwobill。
+公司 2025 年成立，总部位于美国加利福尼亚州 Los Altos，员工 1-10 人，团队分布在美国和中国上海。创始人兼 CEO 是 Bill Zuo，GitHub 登录名 zwobill。
 
 官网：https://www.softprobe.ai

@@ -8,7 +8,7 @@ location: "Los Altos, CA / Shanghai"
 remote: hybrid
 languages: [en, zh]
 tags: [ai-agents, observability, java, arex, opencode]
-apply: "mailto:hr@softprobe.ai"
+apply: https://github.com/softprobe/openjob/blob/main/README.md#post-your-resume-talent
 posted: 2026-11-13
 posted_by: zwobill
 ---
@@ -21,11 +21,17 @@ What you'll build: the AREX record/replay engine and the Java agent, and the age
 
 What we look for: an engineer who will work on those systems with the team.
 
-Why join: Softprobe is an early-stage pre-seed team in Los Altos and Shanghai. The record/replay platform is open source, so the work is public in AREX.
+Why join: the record/replay platform is open source, so the work is public in AREX. The team is in Los Altos and Shanghai.
 
 The role is based in Los Altos, California or Shanghai. Remote work is fine.
 
-Apply by email from this page.
+## How to apply
+
+Open a pull request that adds your profile under `talents/`, copied from `templates/talent.md`. The file path is `talents/<first-letter>/<github-username>.md`. Start from the README talent section: https://github.com/softprobe/openjob/blob/main/README.md#post-your-resume-talent
+
+In the profile, say you are applying for Software Engineer at Softprobe and include this page so the team can find it: https://softprobe.github.io/openjob/p/jobs/2026/11/softprobe-software-engineer/
+
+The talent profile has no field for the role, so that line in the text is enough. Do not add a phone number, an email address, or a WeChat ID. A personal site or a LinkedIn URL is allowed.
 
 ## 中文
 
@@ -37,8 +43,14 @@ Softprobe 招聘软件工程师。Softprobe 是开源项目 AREX（https://githu
 
 我们希望你和团队一起做这些系统。
 
-加入的原因：Softprobe 是位于 Los Altos 和上海的早期 pre-seed 团队。录制/回放平台以开源的 AREX 对外。
+加入的原因：录制/回放平台以开源的 AREX 对外。团队在 Los Altos 和上海。
 
 地点是加利福尼亚州 Los Altos 或上海，可以远程。
 
-请用本页的邮件申请。
+## 如何申请
+
+用 Pull Request 在 `talents/` 下添加档案，内容按 `templates/talent.md`。路径是 `talents/<首字母>/<github用户名>.md`。从 README 的人才说明开始：https://github.com/softprobe/openjob/blob/main/README.md#post-your-resume-talent
+
+在档案里写明你申请 Softprobe 的软件工程师，并附上本页链接，方便团队找到：https://softprobe.github.io/openjob/p/jobs/2026/11/softprobe-software-engineer/
+
+人才档案没有申请职位的字段，正文里写这一行即可。不要写电话、邮箱或微信号。可以填写个人网站或 LinkedIn 链接。
