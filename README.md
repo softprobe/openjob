@@ -10,7 +10,7 @@ This is a public alternative to LinkedIn and BOSS直聘 for people who want the 
 
 Browse the board at <https://softprobe.github.io/openjob/> after GitHub Pages is enabled. Until then, read the files under `jobs/`, `talents/`, and `companies/`.
 
-The three files there today are samples (`example: true`). They are not a real opening, a real résumé, or a real company.
+The live board is only those three directories. Sample posts used to sit there so the first page was not empty. They now live under `tests/fixtures/samples/` and are not published. Files in `templates/` are starting points for a pull request. The site index does not read `tests/` or `templates/`.
 
 ## Post something
 
@@ -33,9 +33,9 @@ Each job, talent profile, and company page has a permalink:
 
 `https://softprobe.github.io/openjob/p/<path-without-.md>/`
 
-Example: `https://softprobe.github.io/openjob/p/jobs/2026/11/example-studio-open-source-maintainer/`
+Example: `https://softprobe.github.io/openjob/p/jobs/2026/11/softprobe-software-engineer/`
 
-That page is static HTML. Its title and description are Open Graph and Twitter card tags, so a link unfurls as the public listing. The board also opens the same entry at `#<path-without-.md>`, for example `#jobs/2026/11/example-studio-open-source-maintainer`.
+That page is static HTML. Its title and description are Open Graph and Twitter card tags, so a link unfurls as the public listing. The board also opens the same entry at `#<path-without-.md>`, for example `#jobs/2026/11/softprobe-software-engineer`.
 
 The page has share buttons for LinkedIn, X, Reddit, Hacker News, Facebook, Telegram, WhatsApp, and Weibo. They are ordinary share-intent links. There is no SDK and no third-party script. Copy link copies the permalink. WeChat has no share URL; the page draws a QR code of the permalink in the browser with the MIT library in `site/vendor/`.
 
@@ -47,7 +47,7 @@ After auto-merge, the bot comments on the pull request with that permalink and t
 
 - Sharded paths, so a single directory does not collect every post. Jobs are grouped by month. Talent and company files are grouped by the first letter. If a letter directory approaches about 800 files, maintainers add a second level in a separate change.
 - No binaries in posts.
-- Jobs and talent posts expire. **Git history is the archive.** The scheduled workflow opens a pull request that deletes expired files. Restore one from that commit, set `renewed`, and send it again. Company pages and sample posts are not auto-removed.
+- Jobs and talent posts expire. **Git history is the archive.** The scheduled workflow opens a pull request that deletes expired files. Restore one from that commit, set `renewed`, and send it again. Company pages are not auto-removed. A post marked `example: true` is kept too, but the live tree does not contain one. The samples are test fixtures.
 
 ## Federation
 
@@ -90,10 +90,10 @@ jobs/YYYY/MM/<company>-<role-slug>.md
 talents/<letter>/<github-username>.md
 companies/<letter>/<slug>.md
 schema/          JSON Schema for each kind, plus the public index
-templates/       starting files
+templates/       starting files; not indexed
 validator/       checker, index builder, expiry selection, share text
 site/            static search page; permalink HTML is generated into site/p/
-tests/fixtures/  privacy, path, size, and binary cases
+tests/fixtures/  privacy, path, size, binary, and sample posts; not indexed
 ```
 
 `site/p/` is build output. It is not committed. Git history remains the archive for posts; the Pages site is rebuilt from the live tree.
@@ -129,7 +129,7 @@ OpenJob 是一个放在 GitHub 里的公开职位板。谁都可以用 Pull Requ
 
 过期帖子从目录中删除。**Git 历史就是归档。** 想恢复时，从删除那次提交里取出文件，把 `renewed` 设为新的日期，再开一个 Pull Request。不要修改原来的 `posted`。
 
-启用 GitHub Pages 之后，搜索页在 <https://softprobe.github.io/openjob/>。页面上可以按职位、地点、远程、标签和语言筛选。当前三篇是示例，不是真实招聘或简历。
+启用 GitHub Pages 之后，搜索页在 <https://softprobe.github.io/openjob/>。页面上可以按职位、地点、远程、标签和语言筛选。公告板上只有 `jobs/`、`talents/`、`companies/` 里的帖子。示例帖在 `tests/fixtures/samples/`，模板在 `templates/`，这两处都不会进入索引。
 
 每篇帖子有一个永久链接：`https://softprobe.github.io/openjob/p/<去掉.md的路径>/`。页面带分享按钮（LinkedIn、X、Reddit、Hacker News、Facebook、Telegram、WhatsApp、微博）和复制链接。微信没有分享链接，页面在浏览器里把永久链接画成二维码。分享文案只包含职位、公司和地点，或人才的 headline，或公司名和地点，不含申请链接、电话或邮箱。自动合并后，机器人会在 Pull Request 里留下这些链接。
 

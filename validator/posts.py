@@ -25,6 +25,7 @@ from validator.constants import (
     NEW_POST_MAX_AGE_DAYS,
     POST_ROOTS,
     TALENT_DAYS,
+    UNPUBLISHED_ROOTS,
 )
 from validator.issues import FIX, Issue
 from validator.privacy import find_contacts
@@ -179,15 +180,32 @@ def exempt_binary(rel: str) -> bool:
     return rel in BINARY_FIXTURE_ALLOWLIST
 
 
+def is_unpublished(rel: str) -> bool:
+    """True for ``tests/`` and ``templates/``, which are never published."""
+    top = rel.split("/", 1)[0]
+    return top in UNPUBLISHED_ROOTS
+
+
 def iter_post_files(root: Path) -> list[tuple[str, Path]]:
+    """Files under ``jobs/``, ``talents/``, and ``companies/``.
+
+    ``tests/`` and ``templates/`` are not walked. Sample posts live under
+    ``tests/fixtures/samples/`` and must not enter the site index.
+    """
     found: list[tuple[str, Path]] = []
     for folder in POST_ROOTS:
+        if folder in UNPUBLISHED_ROOTS:
+            continue
         base = root / folder
         if not base.exists():
             continue
         for path in sorted(base.rglob("*")):
-            if path.is_file() or path.is_symlink():
-                found.append((path.relative_to(root).as_posix(), path))
+            if not path.is_file() and not path.is_symlink():
+                continue
+            rel = path.relative_to(root).as_posix()
+            if is_unpublished(rel):
+                continue
+            found.append((rel, path))
     return found
 
 
