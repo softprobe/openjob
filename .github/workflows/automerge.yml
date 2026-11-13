@@ -7,6 +7,10 @@
 # the Validate workflow's `validate` check succeeded for the same head SHA.
 # Several posts are fine. Anything outside those directories is left open for
 # the Softprobe team, with a comment. Posts are not reviewed by hand.
+#
+# The squash uses this workflow's GITHUB_TOKEN. A push made with that token
+# does not start the Pages workflow, so after a merge this file dispatches
+# Pages on main. workflow_dispatch is one of the events that token may start.
 
 name: Auto-merge
 
@@ -18,6 +22,7 @@ permissions:
   contents: write
   pull-requests: write
   checks: read
+  actions: write
 
 jobs:
   trusted-validate:
@@ -310,6 +315,13 @@ jobs:
                 String(error)
               );
             }
+
+      - name: Publish the board
+        if: success()
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+        run: gh workflow run pages.yml --ref main
 
       - name: Comment with the permalink and share links
         if: success() && needs.trusted-validate.outputs.share_b64 != ''

@@ -1,3 +1,8 @@
+# Deletes expired posts on a branch and opens a pull request. It does not push
+# or merge main, so it does not dispatch Pages. A merge onto main publishes the
+# board: a person's merge starts the Pages push workflow, and Auto-merge
+# dispatches Pages after its own squash.
+
 name: Expire posts
 
 on:
