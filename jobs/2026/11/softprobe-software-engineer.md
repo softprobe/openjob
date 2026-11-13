@@ -8,8 +8,7 @@ location: "Los Altos, CA / Shanghai"
 remote: hybrid
 languages: [en, zh]
 tags: [ai-agents, observability, java, arex, opencode]
-apply: https://www.linkedin.com/company/softprobe/jobs/
-apply_email: "mailto:hr@softprobe.ai"
+apply: "mailto:hr@softprobe.ai"
 posted: 2026-11-13
 posted_by: zwobill
 ---
@@ -26,7 +25,7 @@ Why join: Softprobe is an early-stage pre-seed team in Los Altos and Shanghai. T
 
 The role is based in Los Altos, California or Shanghai. Remote work is fine.
 
-Apply by email from this page, or through the LinkedIn jobs link: https://www.linkedin.com/company/softprobe/jobs/.
+Apply by email from this page.
 
 ## 中文
 
@@ -42,4 +41,4 @@ Softprobe 招聘软件工程师。Softprobe 是开源项目 AREX（https://githu
 
 地点是加利福尼亚州 Los Altos 或上海，可以远程。
 
-请用本页的邮件申请，或通过 LinkedIn 职位链接申请：https://www.linkedin.com/company/softprobe/jobs/。
+请用本页的邮件申请。
