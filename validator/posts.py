@@ -27,7 +27,7 @@ from validator.constants import (
     TALENT_DAYS,
     UNPUBLISHED_ROOTS,
 )
-from validator.issues import FIX, Issue
+from validator.issues import APPLY_DOC, FIX, Issue
 from validator.privacy import find_contacts
 
 BINARY_EXTENSIONS = frozenset(
@@ -423,7 +423,8 @@ _HIRING_FIX = (
     "and only when its domain matches the company website (`www.` is ignored). "
     "The company page is the source when that page exists; otherwise set `website` on the job. "
     "Remove every other email, including the body. Talent posts cannot include an email. "
-    "Phone numbers are never allowed."
+    "Phone numbers are never allowed. "
+    + APPLY_DOC
 )
 
 
@@ -683,12 +684,21 @@ def _schema_issues(meta: dict, rel: str) -> list[Issue]:
         ]
     issues: list[Issue] = []
     for error in sorted(schemas[kind].iter_errors(meta), key=_error_key):
-        loc = "/".join(str(part) for part in error.absolute_path) or "front matter"
+        path_parts = [str(part) for part in error.absolute_path]
+        loc = "/".join(path_parts) or "front matter"
         fix = FIX["schema"]
-        if error.validator == "additionalProperties":
+        if path_parts and path_parts[0] in {"apply", "apply_email"}:
+            fix = (
+                "`apply` is required. Use an https ATS, careers, or job link, or one "
+                "`mailto:` on the company website's domain. `apply_email` is that "
+                "`mailto:` only when `apply` is https. Do not set both fields to mailto. "
+                + APPLY_DOC
+            )
+        elif error.validator == "additionalProperties":
             fix = (
                 "Remove fields the schema does not define. There is no phone field. "
-                "A hiring address belongs in `apply` or `apply_email` on a job, not in a field named `email`."
+                "A hiring address belongs in `apply` or `apply_email` on a job, not in a field named `email`. "
+                + APPLY_DOC
             )
         issues.append(Issue("schema", rel, f"{loc}: {error.message}", fix))
     return issues

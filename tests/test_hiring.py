@@ -75,6 +75,10 @@ class HiringEmailTests(unittest.TestCase):
         self.assertIn("Apply by email", before)
         self.assertIn(HIRING, before)
         self.assertIn("https://www.softprobe.ai/jobs", before)
+        self.assertIn("How to apply · 如何申请", before)
+        self.assertIn('class="apply-address">hr@softprobe.ai<', before)
+        self.assertIn('data-copy-email="hr@softprobe.ai"', before)
+        self.assertIn("Copy email · 复制邮箱", before)
         self.assertNotIn("hr@softprobe.ai", after)
         self.assertNotIn("mailto:", after)
 
@@ -107,6 +111,7 @@ class HiringEmailTests(unittest.TestCase):
             shutil.rmtree(root)
         self.assertIn("privacy-email", codes(issues))
         self.assertTrue(any("gmail.com" in issue.message and "softprobe.ai" in issue.message for issue in issues))
+        self.assertTrue(any("CONTRIBUTING.md#application-methods" in issue.fix for issue in issues))
         self.assertNotIn("phone", codes(issues))
 
     def test_company_page_wins_over_a_job_website(self) -> None:
@@ -192,6 +197,39 @@ class HiringEmailTests(unittest.TestCase):
 
 
 class LogoTests(unittest.TestCase):
+    def test_mailto_only_how_to_apply_writes_the_address(self) -> None:
+        root = _tree({COMPANY: _company(), JOB: _job(apply=HIRING)})
+        site = Path(tempfile.mkdtemp())
+        try:
+            document = build_index(root, today=TODAY)
+            write_pages(root, site, document)
+        finally:
+            shutil.rmtree(root)
+        post = next(item for item in document["posts"] if item["path"] == JOB)
+        self.assertIsNone(post["apply"])
+        self.assertEqual(post["apply_email"], HIRING)
+        self.assertNotIn("hr@softprobe.ai", post["share_text"])
+        page = (site / "p" / JOB[:-3] / "index.html").read_text(encoding="utf-8")
+        shutil.rmtree(site)
+        how, _, _rest = page.partition("</section>")
+        self.assertIn('class="apply-how"', how)
+        self.assertIn("hr@softprobe.ai", how)
+        self.assertIn("mailto:hr@softprobe.ai", how)
+        self.assertNotIn("https://www.softprobe.ai/jobs", how)
+        head, _body = page.split("</head>", 1)
+        self.assertNotIn("hr@softprobe.ai", head)
+        self.assertNotIn("hr@softprobe.ai", page.split('id="share"', 1)[1])
+
+    def test_bad_apply_points_at_application_methods(self) -> None:
+        root = _tree({COMPANY: _company(), JOB: _job(apply="not a url")})
+        try:
+            issues = validate_post(root=root, rel=JOB, today=TODAY, author="ada", new_file=True)
+        finally:
+            shutil.rmtree(root)
+        schema = [issue for issue in issues if issue.code == "schema"]
+        self.assertTrue(schema)
+        self.assertTrue(all("CONTRIBUTING.md#application-methods" in issue.fix for issue in schema))
+
     def test_https_logo_is_indexed_and_rendered(self) -> None:
         root = _tree({COMPANY: _company(logo=LOGO)})
         site = Path(tempfile.mkdtemp())

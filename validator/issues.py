@@ -16,6 +16,8 @@ class Issue:
         return f"### `{self.code}` — `{self.path}`\n\n{self.message}\n\n**How to fix:** {self.fix}"
 
 
+APPLY_DOC = "See `CONTRIBUTING.md#application-methods`."
+
 FIX = {
     "privacy-email": (
         "Delete the address. A job may keep one hiring address in `apply` "
@@ -23,7 +25,8 @@ FIX = {
         "the company website. Talent posts cannot include an email. Anywhere else, "
         "use a LinkedIn URL, a GitHub profile, a personal site, or a company "
         "careers/apply link. The check looks through `name [at] domain [dot] com`, "
-        "fullwidth characters, HTML entities, and `%40` encoding."
+        "fullwidth characters, HTML entities, and `%40` encoding. "
+        + APPLY_DOC
     ),
     "privacy-phone": (
         "Delete the number, including `+86` mobiles, numbers split by spaces or dashes, "

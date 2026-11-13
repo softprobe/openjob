@@ -19,6 +19,9 @@ const STRINGS = {
     federated: "Own repo",
     apply: "Apply",
     applyEmail: "Apply by email",
+    howToApply: "How to apply",
+    copyEmail: "Copy email",
+    copiedEmail: "Copied",
     website: "Website",
     profile: "Profile",
     source: "Source",
@@ -54,6 +57,9 @@ const STRINGS = {
     federated: "独立仓库",
     apply: "申请",
     applyEmail: "邮件申请",
+    howToApply: "如何申请",
+    copyEmail: "复制邮箱",
+    copiedEmail: "已复制",
     website: "网站",
     profile: "档案",
     source: "源文件",
@@ -334,14 +340,11 @@ function card(post, target) {
     });
     article.appendChild(tags);
   }
+  const applyHow = applyHowBlock(post, copy);
+  if (applyHow) article.appendChild(applyHow);
   const links = document.createElement("div");
   links.className = "links";
-  if (post.kind === "job") {
-    const apply = safeLink(post.apply, copy.apply);
-    const email = mailLink(post.apply_email, copy.applyEmail);
-    if (apply) links.appendChild(apply);
-    if (email) links.appendChild(email);
-  } else {
+  if (post.kind !== "job") {
     const actionLabel = post.kind === "company" ? copy.website : copy.profile;
     const action = safeLink(post.url, actionLabel);
     if (action) links.appendChild(action);
@@ -430,6 +433,58 @@ function badge(text, extra) {
   node.className = extra ? `badge ${extra}` : "badge";
   node.textContent = text;
   return node;
+}
+
+function applyHowBlock(post, copy) {
+  if (post.kind !== "job") return null;
+  const https = safeLink(post.apply, copy.apply);
+  const email = mailLink(post.apply_email, copy.applyEmail);
+  if (!https && !email) return null;
+  const box = document.createElement("div");
+  box.className = "apply-how";
+  const heading = document.createElement("p");
+  heading.className = "kicker";
+  heading.textContent = copy.howToApply;
+  box.appendChild(heading);
+  const actions = document.createElement("div");
+  actions.className = "apply-actions";
+  if (email) {
+    const address = document.createElement("p");
+    address.className = "apply-address";
+    address.textContent = emailAddress(post.apply_email);
+    box.appendChild(address);
+    actions.appendChild(email);
+    const copyButton = document.createElement("button");
+    copyButton.type = "button";
+    copyButton.textContent = copy.copyEmail;
+    copyButton.addEventListener("click", () => {
+      copyAddress(copyButton, address.textContent, copy.copiedEmail);
+    });
+    actions.appendChild(copyButton);
+  }
+  if (https) actions.appendChild(https);
+  box.appendChild(actions);
+  return box;
+}
+
+function emailAddress(url) {
+  const match = /^mailto:([^\s?]+)$/i.exec(url || "");
+  return match ? match[1] : "";
+}
+
+function copyAddress(button, text, doneLabel) {
+  const previous = button.textContent;
+  const finish = () => {
+    button.textContent = doneLabel;
+    window.setTimeout(() => {
+      button.textContent = previous;
+    }, 1600);
+  };
+  if (navigator.clipboard && navigator.clipboard.writeText) {
+    navigator.clipboard.writeText(text).then(finish).catch(finish);
+    return;
+  }
+  finish();
 }
 
 function logoImage(post) {

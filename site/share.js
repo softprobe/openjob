@@ -1,6 +1,11 @@
 /* Copy the permalink and draw a WeChat QR code. No network requests. */
 
 document.addEventListener("click", (event) => {
+  const emailButton = event.target.closest("[data-copy-email]");
+  if (emailButton) {
+    copyText(emailButton.getAttribute("data-copy-email") || "", emailButton);
+    return;
+  }
   const copy = event.target.closest("[data-copy]");
   if (copy) {
     const root = copy.closest("[data-permalink]");
@@ -23,6 +28,17 @@ function copyPermalink(root, button) {
     input.focus();
     input.select();
   }
+  const fallback = () => {
+    try {
+      document.execCommand("copy");
+    } catch (error) {
+      /* The permalink field stays selected when the clipboard is blocked. */
+    }
+  };
+  copyText(url, button, fallback);
+}
+
+function copyText(text, button, fallback) {
   const done = () => {
     const label = button.getAttribute("data-done") || "Copied";
     const previous = button.textContent;
@@ -31,21 +47,14 @@ function copyPermalink(root, button) {
       button.textContent = previous;
     }, 1600);
   };
-  const fallback = () => {
-    try {
-      document.execCommand("copy");
-    } catch (error) {
-      /* The permalink field stays selected when the clipboard is blocked. */
-    }
-  };
   if (navigator.clipboard && navigator.clipboard.writeText) {
-    navigator.clipboard.writeText(url).then(done).catch(() => {
-      fallback();
+    navigator.clipboard.writeText(text).then(done).catch(() => {
+      if (fallback) fallback();
       done();
     });
     return;
   }
-  fallback();
+  if (fallback) fallback();
   done();
 }
 
