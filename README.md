@@ -10,7 +10,7 @@ The live board is <https://softprobe.github.io/openjob/>.
 
 ## Quick start
 
-One file, one pull request. Copy a template into a new post and leave `templates/` unchanged. You can do every step in the GitHub web UI (**Add file → Create new file**, or edit on github.com). If you cannot push here, GitHub asks you to fork the repository and open the pull request from the fork.
+Posts only. Copy a template into a new post and leave `templates/` unchanged. A pull request may change any number of posts. Every changed file has to stay under `jobs/`, `talents/`, or `companies/`. You can do every step in the GitHub web UI (**Add file → Create new file**, or edit on github.com). If you cannot push here, GitHub asks you to fork the repository and open the pull request from the fork.
 
 **Find jobs and talent:** search <https://softprobe.github.io/openjob/>. A file with `example: true` is a sample.
 
@@ -19,7 +19,7 @@ One file, one pull request. Copy a template into a new post and leave `templates
 1. Copy [`templates/job.md`](templates/job.md).
 2. Create the file with [Add file in `jobs/`](https://github.com/softprobe/openjob/new/main/jobs). The file name field is already relative to `jobs/`. Enter `YYYY/MM/<company>-<role-slug>.md`. `YYYY/MM` is the month of `posted`. The filename is the `company` slug, a hyphen, and `role_slug`. Example: `2026/11/example-studio-open-source-maintainer.md`.
 3. Replace the placeholders: `title`, `company`, `company_name`, `role_slug`, `location`, `remote` (`true`, `false`, or `hybrid`), `languages`, `tags`, `apply` (an `https://` careers or application link), `posted` (`YYYY-MM-DD`), and `posted_by` (your GitHub login). Describe the work in the body. Do not add a phone number or an email address.
-4. Open a pull request that changes only this file. On that new-file page, commit and start a pull request. The edit stays in the browser.
+4. Open a pull request that changes only post files. On that new-file page, commit and start a pull request. The edit stays in the browser. Another post can be a second file in the same pull request.
 5. The validator runs on the pull request and auto-merges it if the file passes. Share `https://softprobe.github.io/openjob/p/jobs/YYYY/MM/<company>-<role-slug>/` with the share buttons on that page. The merge comment links the same URL.
 
 ### Post your resume (talent)
@@ -27,7 +27,7 @@ One file, one pull request. Copy a template into a new post and leave `templates
 1. Copy [`templates/talent.md`](templates/talent.md).
 2. Create the file with [Add file in `talents/`](https://github.com/softprobe/openjob/new/main/talents). The file name field is already relative to `talents/`. Enter `<first-letter>/<github-username>.md`, lowercase. The letter is the first character of your GitHub login, and the filename is that login. Example: `z/zwobill.md` is `talents/z/zwobill.md`.
 3. Set `github` to that same login. It has to match the filename and the pull request author. Fill in `name`, `headline`, `location`, `remote`, `languages`, `tags`, `open_to` (`full-time`, `part-time`, `contract`, or `internship`), and `posted`. Optional: `website`, or `linkedin` (`https://www.linkedin.com/in/…`). No phone number, email address, or WeChat ID.
-4. Open a pull request that changes only this file, entirely in the GitHub web UI (**Add file**, then commit and start a pull request).
+4. Open a pull request that changes only post files, entirely in the GitHub web UI (**Add file**, then commit and start a pull request).
 5. The validator runs and auto-merges the pull request if the file passes. Share `https://softprobe.github.io/openjob/p/talents/<letter>/<github-username>/` with the share buttons on that page.
 
 To keep the full résumé in your own repository, copy [`templates/talent-ref.md`](templates/talent-ref.md) to the same kind of path. This repository stores the index entry. See [Federation](CONTRIBUTING.md#federation).
@@ -37,7 +37,7 @@ To keep the full résumé in your own repository, copy [`templates/talent-ref.md
 1. Copy [`templates/company.md`](templates/company.md).
 2. Create the file with [Add file in `companies/`](https://github.com/softprobe/openjob/new/main/companies). The file name field is already relative to `companies/`. Enter `<first-letter>/<slug>.md`. The letter is the first character of `slug`. Example: `s/softprobe.md` is `companies/s/softprobe.md`.
 3. Fill in `slug`, `name`, `website`, `careers`, `location`, `tags`, `languages`, `posted`, and `posted_by` (your GitHub login). Use `https://` links. Do not put a recruiting phone number or a recruiting email on the page.
-4. Open a pull request that changes only this file, entirely in the GitHub web UI. A job for that company is a different file and a different pull request.
+4. Open a pull request that changes only post files, entirely in the GitHub web UI. A job for that company can be another post file in the same pull request.
 5. The validator runs and auto-merges the pull request if the file passes. Company pages stay until the owner deletes them. Share `https://softprobe.github.io/openjob/p/companies/<letter>/<slug>/` with the share buttons on that page.
 
 If a check fails, the bot comments and leaves the pull request open. Fix the file and push to the same pull request. Lifetimes, the privacy rules, and the schemas are in the sections below and in [CONTRIBUTING.md](CONTRIBUTING.md).
@@ -57,7 +57,7 @@ A file with `example: true` is a sample. It is not a real opening, a real résum
 | Federated talent | same talent path, `kind: talent-ref` | 180 days; the full profile stays in your repo |
 | Company | `companies/<first-letter>/<slug>.md` | kept until the owner deletes it |
 
-Copy a file from `templates/`. One post per pull request. Set `posted_by` or `github` to your GitHub login. The check squash-merges the pull request when it only touches that file and the file is valid. Anything else waits for a maintainer (`@zwobill`).
+Copy a file from `templates/`. A pull request may add, edit, or delete any number of posts. Set `posted_by` or `github` on each file to your GitHub login. The check squash-merges the pull request when every changed path is a post under `jobs/`, `talents/`, or `companies/` and each file is valid. Anything outside those directories waits for the Softprobe team (`@softprobe/openjob-maintainers`).
 
 Posts are text, UTF-8, and at most 10 KB. Images, PDFs, and other binaries are rejected.
 
@@ -96,7 +96,7 @@ A profile can live in `<your-username>/openjob-profile`. This repository then ho
 | Workflow | When | Effect |
 | --- | --- | --- |
 | `validate` | every pull request | tests, schema, path, size, privacy, ownership, scope; comments on failure |
-| `automerge` | pull requests after this file is on `main` | runs the trusted checker and its unit tests from `main`, then squash-merges a single-post pull request only after `validate` has succeeded for that same commit. A failed or missing check is commented and left open. Posts merge on their own. Workflow, code, and doc changes stay for a maintainer |
+| `automerge` | pull requests after this file is on `main` | runs the trusted checker and its unit tests from `main`, then squash-merges a pull request whose changes are only post files once `validate` has succeeded for that same commit. Several posts are fine. A failed or missing check is commented and left open. Anything outside `jobs/`, `talents/`, and `companies/` stays for the Softprobe team |
 | `expire` | daily, 03:17 UTC | opens a pull request that deletes expired posts |
 | `pages` | push to `main` | builds `index.json` and the permalink pages, then deploys the site |
 
@@ -112,7 +112,8 @@ The workflows cannot flip these switches.
 4. **Branch protection or a ruleset on `main`:**
    - Require a pull request.
    - Require the status check `validate`. After `automerge.yml` has run once, also require `trusted-validate`.
-   - Leave required approving reviews **off**, and leave "Require review from Code Owners" **off**. Otherwise a valid post waits forever. `CODEOWNERS` still names `@zwobill` for maintainer changes.
+   - Set required approving reviews to **0**.
+   - Turn **on** "Require review from Code Owners". `CODEOWNERS` gives `*` to `@softprobe/openjob-maintainers`, then lists `/jobs/`, `/talents/`, and `/companies/` with no owner. A content-only pull request has nobody to request, so it needs no review. Every other change needs a team approval. `@zwobill` remains a maintainer in the checker.
    - Pull requests opened by `GITHUB_TOKEN` do not trigger other workflows. The expiry pull request will sit without `validate`. Merge it yourself, or let the GitHub Actions bot bypass the rule.
 5. **Settings → Pages → Build and deployment → Source:** GitHub Actions. The site URL is `https://softprobe.github.io/openjob/`. Until this is on, the Pages workflow builds the site and then `deploy-pages` fails with HTTP 404, “Ensure GitHub Pages has been enabled.”
 6. Optional: set the repository description, the homepage URL above, and topics such as `jobs`, `hiring`, and `privacy`.
@@ -158,7 +159,7 @@ OpenJob 是一个放在 GitHub 上的开放、隐私优先的职位板：谁都�
 
 ### 快速开始
 
-一篇帖子、一个 Pull Request。把模板复制成新文件，不要在这个 Pull Request 里修改 `templates/`。全程可以在 GitHub 网页上完成（**Add file → Create new file**，或直接在 github.com 上编辑）。没有写权限时，GitHub 会让你先 Fork，再从 Fork 开 Pull Request。
+只改帖子。把模板复制成新文件，不要在这个 Pull Request 里修改 `templates/`。一个 Pull Request 可以改多篇帖子，但每个改动都必须在 `jobs/`、`talents/` 或 `companies/` 里。全程可以在 GitHub 网页上完成（**Add file → Create new file**，或直接在 github.com 上编辑）。没有写权限时，GitHub 会让你先 Fork，再从 Fork 开 Pull Request。
 
 **找职位和人才：** 在 <https://softprobe.github.io/openjob/> 搜索。带 `example: true` 的是示例。
 
@@ -167,7 +168,7 @@ OpenJob 是一个放在 GitHub 上的开放、隐私优先的职位板：谁都�
 1. 复制 [`templates/job.md`](templates/job.md)。
 2. 用 [在 `jobs/` 里新建文件](https://github.com/softprobe/openjob/new/main/jobs) 创建帖子。文件名输入框已经相对于 `jobs/`。填 `YYYY/MM/<company>-<role-slug>.md`。`YYYY/MM` 是 `posted` 的年月，文件名是 `company`、连字符和 `role_slug`。例如 `2026/11/example-studio-open-source-maintainer.md`。
 3. 替换占位符：`title`、`company`、`company_name`、`role_slug`、`location`、`remote`（`true`、`false` 或 `hybrid`）、`languages`、`tags`、`apply`（`https://` 招聘或申请链接）、`posted`（`YYYY-MM-DD`）、`posted_by`（你的 GitHub 登录名）。在正文里写工作内容。不要写电话或邮箱。
-4. 打开一个只包含这个文件的 Pull Request。在新建文件的页面上提交并创建 Pull Request，编辑留在浏览器里完成。
+4. 打开一个只改帖子文件的 Pull Request。在新建文件的页面上提交并创建 Pull Request，编辑留在浏览器里完成。同一请求里可以再加一篇帖子。
 5. 校验会在 Pull Request 上运行，通过后自动合并。用页面上的分享按钮分享 `https://softprobe.github.io/openjob/p/jobs/YYYY/MM/<company>-<role-slug>/`。合并评论里也有这个链接。
 
 #### 发布简历（人才）
@@ -175,7 +176,7 @@ OpenJob 是一个放在 GitHub 上的开放、隐私优先的职位板：谁都�
 1. 复制 [`templates/talent.md`](templates/talent.md)。
 2. 用 [在 `talents/` 里新建文件](https://github.com/softprobe/openjob/new/main/talents) 创建档案。文件名输入框已经相对于 `talents/`。填 `<首字母>/<github用户名>.md`，全部小写。首字母是 GitHub 登录名的第一个字符，文件名就是这个登录名。例如 `z/zwobill.md`，完整路径是 `talents/z/zwobill.md`。
 3. `github` 必须是这个登录名，并且与文件名、Pull Request 作者一致。填好 `name`、`headline`、`location`、`remote`、`languages`、`tags`、`open_to`（`full-time`、`part-time`、`contract` 或 `internship`）和 `posted`。可选 `website`，或 `linkedin`（`https://www.linkedin.com/in/…`）。不要写电话、邮箱或微信号。
-4. 打开一个只包含这个文件的 Pull Request，全程在 GitHub 网页上完成（**Add file**，然后提交并创建 Pull Request）。
+4. 打开一个只改帖子文件的 Pull Request，全程在 GitHub 网页上完成（**Add file**，然后提交并创建 Pull Request）。
 5. 校验通过后自动合并。用分享按钮分享 `https://softprobe.github.io/openjob/p/talents/<首字母>/<用户名>/`。
 
 简历全文可以放在你自己的仓库里。把 [`templates/talent-ref.md`](templates/talent-ref.md) 复制到同样规则的路径，本仓库只留索引。见 [联邦档案](CONTRIBUTING.md#federation)。
@@ -185,7 +186,7 @@ OpenJob 是一个放在 GitHub 上的开放、隐私优先的职位板：谁都�
 1. 复制 [`templates/company.md`](templates/company.md)。
 2. 用 [在 `companies/` 里新建文件](https://github.com/softprobe/openjob/new/main/companies) 创建页面。文件名输入框已经相对于 `companies/`。填 `<首字母>/<slug>.md`。首字母是 `slug` 的第一个字符。例如 `s/softprobe.md`，完整路径是 `companies/s/softprobe.md`。
 3. 填好 `slug`、`name`、`website`、`careers`、`location`、`tags`、`languages`、`posted` 和 `posted_by`（你的 GitHub 登录名）。链接用 `https://`。不要写招聘电话或招聘邮箱。
-4. 打开一个只包含这个文件的 Pull Request，全程在 GitHub 网页上完成。该公司的职位是另一个文件、另一个 Pull Request。
+4. 打开一个只改帖子文件的 Pull Request，全程在 GitHub 网页上完成。该公司的职位可以是同一个 Pull Request 里的另一篇帖子。
 5. 校验通过后自动合并。公司页会一直保留，直到所有者删除。用分享按钮分享 `https://softprobe.github.io/openjob/p/companies/<首字母>/<slug>/`。
 
 检查没通过时，机器人会在 Pull Request 里留言并保持打开。改完文件后再推送到同一个 Pull Request。期限、隐私规则和 schema 见下文和 [CONTRIBUTING.md](CONTRIBUTING.md)。
@@ -205,7 +206,7 @@ OpenJob 是一个放在 GitHub 上的开放、隐私优先的职位板：谁都�
 | 联邦档案 | 同上，`kind: talent-ref` | 正文放在你自己的 `openjob-profile` 仓库，这里只留索引 |
 | 公司 | `companies/首字母/slug.md` | 不自动过期 |
 
-一个 Pull Request 只提交一篇。路径、大小（10 KB 以内）、纯文本、所有权和隐私都通过后，会自动 squash 合并。改工作流、网站或文档需要维护者 `@zwobill` 合并。
+一个 Pull Request 可以提交多篇帖子。路径、大小（10 KB 以内）、纯文本、所有权和隐私都通过，且改动都在 `jobs/`、`talents/`、`companies/` 里时，会自动 squash 合并。改工作流、网站或文档需要 Softprobe 团队 `@softprobe/openjob-maintainers` 批准。
 
 过期帖子从目录中删除。**Git 历史就是归档。** 想恢复时，从删除那次提交里取出文件，把 `renewed` 设为新的日期，再开一个 Pull Request。不要修改原来的 `posted`。
 

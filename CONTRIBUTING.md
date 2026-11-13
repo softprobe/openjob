@@ -1,6 +1,6 @@
 # Contributing
 
-Posts are pull requests. One post per pull request. The checker squash-merges it when the file is valid and the pull request does not touch anything else.
+Posts are pull requests. A pull request may change any number of posts. The checker squash-merges it when every changed path is a post file under `jobs/`, `talents/`, or `companies/` and each file is valid. Anything else needs approval from the Softprobe team.
 
 English is the normative set of rules. A short Chinese walkthrough is at the bottom.
 
@@ -32,7 +32,7 @@ There is no `email` or `phone` field. `additionalProperties` is false. WeChat ID
 2. Save it as `jobs/YYYY/MM/<company>-<role-slug>.md`. `YYYY/MM` is the `posted` month. Example: `jobs/2026/11/example-studio-open-source-maintainer.md`.
 3. Set `posted_by` to your GitHub login. That login has to be the pull request author.
 4. Set `apply` to an `https://` careers or application link. No shorteners (`bit.ly`, `t.co`, `t.cn`, `lnkd.in`, and similar).
-5. Open a pull request that changes only that file.
+5. Open a pull request that changes only post files. Another post may be in the same pull request.
 
 `remote` is `true`, `false`, or `hybrid`. `languages` use the codes in the schema (`en`, `zh`, `ja`, `ko`, `es`, `fr`, `de`, `pt`, `ru`). Tags are lowercase slugs. Quote YAML values that are `yes`, `no`, `on`, or `off`.
 
@@ -48,7 +48,7 @@ Save `templates/talent.md` as `talents/<first-letter>/<github-username>.md`, low
 
 ## Post a company
 
-Save `templates/company.md` as `companies/<first-letter>/<slug>.md`. Company pages do not expire. The account in `posted_by` owns later edits. Jobs are separate files, so one pull request cannot add both.
+Save `templates/company.md` as `companies/<first-letter>/<slug>.md`. Company pages do not expire. The account in `posted_by` owns later edits. A job for that company is a separate file. Both files may be in one pull request when you own each of them.
 
 ## Federation
 
@@ -73,7 +73,7 @@ The entry expires like any other talent post (180 days, or sooner if you set `ex
 
 `posted` never changes after the file is merged. To renew, set `renewed` to the day you open the pull request and leave `posted` alone. A new post's `posted` date has to be within the last 45 days (and not more than two days in the future).
 
-**Git history is the archive.** A scheduled workflow deletes expired files from the live tree and opens a pull request listing them. Copies under `archive/` would grow the repository forever and crowd directories, so they are not kept. To restore a post, take the file from the parent of the expiry commit, set `renewed`, keep the original `posted`, and open a new pull request. If the `posted` month and the path disagree, fix the path in that same pull request only when you are the owner; a path change is a delete plus an add and counts as one post.
+**Git history is the archive.** A scheduled workflow deletes expired files from the live tree and opens a pull request listing them. Copies under `archive/` would grow the repository forever and crowd directories, so they are not kept. To restore a post, take the file from the parent of the expiry commit, set `renewed`, keep the original `posted`, and open a new pull request. If the `posted` month and the path disagree, fix the path in a pull request you own. A path change is a delete plus an add, and ownership is checked on each file.
 
 Sample posts (`example: true`) are not removed by the workflow. They exist so the first page is not empty. A maintainer can delete them once real posts exist.
 
@@ -87,16 +87,16 @@ On a pull request the `validate` workflow runs the unit tests and `python -m val
 - path and filename
 - UTF-8 text, 10 KB maximum, no images, PDFs, or other binaries
 - privacy, as above
-- one post per pull request (a rename is one delete and one add of the same kind and owner)
-- the author owns the file, on add, edit, and delete
+- every changed path is a post file under `jobs/`, `talents/`, or `companies/` (several posts are fine; a rename is a delete plus an add)
+- the author owns each file, on add, edit, and delete
 - link count (12), `https` on the structured links, no shorteners, no `javascript:` URLs
 - files over 1 MB are rejected even outside the post folders
 
-If the pull request also edits workflows, docs, or the site, the post checks can still pass, but auto-merge stays off. `@zwobill` merges those.
+If the pull request also edits workflows, docs, or the site, the post checks can still pass, but auto-merge stays off. The bot comment says the Softprobe team (`@softprobe/openjob-maintainers`) has to approve it. `@zwobill` can still do maintainer-only actions in the checker, such as sample posts.
 
-After this workflow file is on `main`, `.github/workflows/automerge.yml` repeats the check from the base branch (so a pull request cannot swap in a weaker checker). A single-post pull request squash-merges itself when that trusted check accepts it and the `validate` check succeeded for the same head commit. The workflow then comments with the permalink and the share links. A deletion has no permalink to share, so that comment is skipped.
+After this workflow file is on `main`, `.github/workflows/automerge.yml` repeats the check from the base branch (so a pull request cannot swap in a weaker checker). A pull request that only changes post files squash-merges itself when that trusted check accepts every file and the `validate` check succeeded for the same head commit. The workflow then comments with the permalink and the share links for each added or edited post. A deletion has no permalink to share, so that comment is skipped.
 
-Posts are not reviewed by hand. The checker is the gate. If `validate` fails, is still running when the wait ends, is missing, or belongs to a different commit, auto-merge comments and leaves the pull request open. Push a fix and both checks run again. Edits to workflows, the checker, the site, or the docs are not auto-merged; a maintainer merges those.
+Posts are not reviewed by hand. The checker is the gate. If `validate` fails, is still running when the wait ends, is missing, or belongs to a different commit, auto-merge comments and leaves the pull request open. Push a fix and both checks run again. Edits to workflows, the checker, the site, or the docs are not auto-merged; the Softprobe team merges those.
 
 Pull requests #2 and #3 merged while `validate` was red, because auto-merge did not look at that check and branch protection was off. The merge job now waits for the `validate` check on the pull request head SHA and runs `python -m validator merge-gate` before it calls the merge API. The squash is pinned to that SHA. The gate exits 0 only when the conclusion is `success` and the check SHA is that head SHA. Any other conclusion, a missing check, or a different SHA exits 1, the job comments, and the squash step does not run.
 
@@ -150,6 +150,6 @@ python -m validator expire --root . --today 2026-11-13
 2. 职位文件放在 `jobs/年/月/公司-职位.md`，`posted_by` 必须是你的 GitHub 用户名。默认 60 天后过期。
 3. 人才档案放在 `talents/首字母/用户名.md`，`github` 必须是你自己。默认 180 天。也可以在自己的 `openjob-profile` 仓库放全文，这里只提交 `kind: talent-ref` 的索引。
 4. 公司页放在 `companies/首字母/slug.md`，不过期。
-5. 一个 Pull Request 只改一篇帖子。检查通过后会 squash 合并。改工作流或文档需要维护者合并。
+5. 一个 Pull Request 可以改多篇帖子，但每个文件都要在 `jobs/`、`talents/` 或 `companies/` 里。检查通过后会 squash 合并。改工作流或文档需要 Softprobe 团队批准。
 6. 续期时不要改 `posted`，把 `renewed` 设成提交当天。过期文件会从目录删除，Git 历史就是归档，需要时从历史恢复再续期。
-7. 合并后的永久链接是 `https://softprobe.github.io/openjob/p/` 加上去掉 `.md` 的路径。分享文案只有职位、公司和地点，或 headline，或公司名和地点，不含电话、邮箱和申请链接。自动合并的评论里会带上这些分享链接。
+7. 合并后的永久链接是 `https://softprobe.github.io/openjob/p/` 加上去掉 `.md` 的路径。分享文案只有职位、公司和地点，或 headline，或公司名和地点，不含电话、邮箱和申请链接。自动合并的评论里会带上每一篇新增或修改的帖子的分享链接。

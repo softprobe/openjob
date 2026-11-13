@@ -334,8 +334,10 @@ def maintainers_from(root: Path) -> set[str]:
             for token in stripped.split()[1:]:
                 if token.startswith("@") and len(token) > 1:
                     owners.add(token[1:].lower())
-    # Person who maintains the board when CODEOWNERS is missing. Not the repo owner.
-    return owners or {"zwobill"}
+    # @zwobill can still perform maintainer-only actions (such as example posts)
+    # when CODEOWNERS names the team, and when the file is missing.
+    owners.add("zwobill")
+    return owners
 
 
 def _structural(path: Path, rel: str) -> list[Issue]:

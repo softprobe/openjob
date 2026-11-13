@@ -10,6 +10,7 @@ from pathlib import Path
 
 import yaml
 
+from validator.posts import maintainers_from
 from validator.pr import check_pr
 
 TODAY = date(2026, 11, 13)
@@ -27,13 +28,38 @@ class CheckPrTests(unittest.TestCase):
         self.assertEqual(result.issues, [])
         self.assertTrue(result.automerge)
 
-    def test_two_posts_are_rejected(self) -> None:
+    def test_several_posts_can_automerge(self) -> None:
         head = _tree(
             {
                 "jobs/2026/11/acme-backend-engineer.md": _job(),
                 "jobs/2026/11/acme-designer.md": _job(
                     title="Product designer",
                     role_slug="designer",
+                ),
+                "talents/a/ada.md": _talent(),
+            }
+        )
+        base = _tree({})
+        try:
+            result = check_pr(head=head, base=base, author="ada", today=TODAY)
+        finally:
+            shutil.rmtree(head)
+            shutil.rmtree(base)
+        self.assertEqual(result.issues, [], [issue.message for issue in result.issues])
+        self.assertTrue(result.automerge)
+        comment = result.share_comment or ""
+        self.assertIn("jobs/2026/11/acme-backend-engineer", comment)
+        self.assertIn("jobs/2026/11/acme-designer", comment)
+        self.assertIn("talents/a/ada", comment)
+
+    def test_ownership_is_checked_on_each_file(self) -> None:
+        head = _tree(
+            {
+                "jobs/2026/11/acme-backend-engineer.md": _job(),
+                "jobs/2026/11/acme-designer.md": _job(
+                    title="Product designer",
+                    role_slug="designer",
+                    posted_by="mallory",
                 ),
             }
         )
@@ -43,10 +69,11 @@ class CheckPrTests(unittest.TestCase):
         finally:
             shutil.rmtree(head)
             shutil.rmtree(base)
-        self.assertIn("scope", {issue.code for issue in result.issues})
+        owned = [issue for issue in result.issues if issue.code == "ownership"]
+        self.assertEqual([issue.path for issue in owned], ["jobs/2026/11/acme-designer.md"])
         self.assertFalse(result.automerge)
 
-    def test_project_files_need_a_maintainer(self) -> None:
+    def test_mixed_content_and_code_needs_the_team(self) -> None:
         head = _tree(
             {
                 "README.md": "# changed\n",
@@ -54,14 +81,42 @@ class CheckPrTests(unittest.TestCase):
             }
         )
         base = _tree({"README.md": "# openjob\n"})
+        docs = _tree({"README.md": "# changed\n"})
+        docs_base = _tree({"README.md": "# openjob\n"})
         try:
-            result = check_pr(head=head, base=base, author="ada", today=TODAY)
+            mixed = check_pr(head=head, base=base, author="ada", today=TODAY)
+            only_docs = check_pr(head=docs, base=docs_base, author="ada", today=TODAY)
         finally:
             shutil.rmtree(head)
             shutil.rmtree(base)
-        self.assertEqual(result.issues, [])
-        self.assertFalse(result.automerge)
-        self.assertTrue(any("maintainer" in note for note in result.notes))
+            shutil.rmtree(docs)
+            shutil.rmtree(docs_base)
+        for result in (mixed, only_docs):
+            self.assertEqual(result.issues, [])
+            self.assertFalse(result.automerge)
+            report = result.report()
+            self.assertIn("Softprobe team", report)
+            self.assertIn("@softprobe/openjob-maintainers", report)
+            self.assertIn("Auto-merge stays off", report)
+
+    def test_maintainers_are_the_team_or_zwobill(self) -> None:
+        listed = _tree(
+            {
+                ".github/CODEOWNERS": (
+                    "* @softprobe/openjob-maintainers\n/jobs/\n/talents/\n/companies/\n"
+                )
+            }
+        )
+        missing = _tree({})
+        try:
+            owners = maintainers_from(listed)
+            fallback = maintainers_from(missing)
+        finally:
+            shutil.rmtree(listed)
+            shutil.rmtree(missing)
+        self.assertIn("softprobe/openjob-maintainers", owners)
+        self.assertIn("zwobill", owners)
+        self.assertEqual(fallback, {"zwobill"})
 
     def test_cannot_edit_someone_elses_post(self) -> None:
         original = _talent(handle="ada")
