@@ -1,18 +1,54 @@
 # OpenJob
 
+OpenJob is an open, privacy-first job board on GitHub where anyone posts jobs and resumes as Markdown pull requests, auto-validated and auto-merged, with no emails or phone numbers.
+
+The live board is <https://softprobe.github.io/openjob/>.
+
 [![Validate](https://github.com/softprobe/openjob/actions/workflows/validate.yml/badge.svg)](https://github.com/softprobe/openjob/actions/workflows/validate.yml)
 
-An open, GitHub-native job board. Anyone can post a job or a talent profile by opening a pull request. The board is the repository. Search is a static page. There is no account system and no inbox.
+[中文](#中文)
 
-This is a public alternative to LinkedIn and BOSS直聘 for people who want the listing itself to be the product: a text file, a link, and an expiry date. It does not try to be a social network.
+## Quick start
+
+One file, one pull request. Copy a template into a new post and leave `templates/` unchanged. You can do every step in the GitHub web UI (**Add file → Create new file**, or edit on github.com). If you cannot push here, GitHub asks you to fork the repository and open the pull request from the fork.
+
+**Find jobs and talent:** search <https://softprobe.github.io/openjob/>. A file with `example: true` is a sample.
+
+### Post a job
+
+1. Copy [`templates/job.md`](templates/job.md).
+2. Create the file with [Add file in `jobs/`](https://github.com/softprobe/openjob/new/main/jobs). The file name field is already relative to `jobs/`. Enter `YYYY/MM/<company>-<role-slug>.md`. `YYYY/MM` is the month of `posted`. The filename is the `company` slug, a hyphen, and `role_slug`. Example: `2026/11/example-studio-open-source-maintainer.md`.
+3. Replace the placeholders: `title`, `company`, `company_name`, `role_slug`, `location`, `remote` (`true`, `false`, or `hybrid`), `languages`, `tags`, `apply` (an `https://` careers or application link), `posted` (`YYYY-MM-DD`), and `posted_by` (your GitHub login). Describe the work in the body. Do not add a phone number or an email address.
+4. Open a pull request that changes only this file. On that new-file page, commit and start a pull request. The edit stays in the browser.
+5. The validator runs on the pull request and auto-merges it if the file passes. Share `https://softprobe.github.io/openjob/p/jobs/YYYY/MM/<company>-<role-slug>/` with the share buttons on that page. The merge comment links the same URL.
+
+### Post your resume (talent)
+
+1. Copy [`templates/talent.md`](templates/talent.md).
+2. Create the file with [Add file in `talents/`](https://github.com/softprobe/openjob/new/main/talents). The file name field is already relative to `talents/`. Enter `<first-letter>/<github-username>.md`, lowercase. The letter is the first character of your GitHub login, and the filename is that login. Example: `z/zwobill.md` is `talents/z/zwobill.md`.
+3. Set `github` to that same login. It has to match the filename and the pull request author. Fill in `name`, `headline`, `location`, `remote`, `languages`, `tags`, `open_to` (`full-time`, `part-time`, `contract`, or `internship`), and `posted`. Optional: `website`, or `linkedin` (`https://www.linkedin.com/in/…`). No phone number, email address, or WeChat ID.
+4. Open a pull request that changes only this file, entirely in the GitHub web UI (**Add file**, then commit and start a pull request).
+5. The validator runs and auto-merges the pull request if the file passes. Share `https://softprobe.github.io/openjob/p/talents/<letter>/<github-username>/` with the share buttons on that page.
+
+To keep the full résumé in your own repository, copy [`templates/talent-ref.md`](templates/talent-ref.md) to the same kind of path. This repository stores the index entry. See [Federation](CONTRIBUTING.md#federation).
+
+### Add a company page
+
+1. Copy [`templates/company.md`](templates/company.md).
+2. Create the file with [Add file in `companies/`](https://github.com/softprobe/openjob/new/main/companies). The file name field is already relative to `companies/`. Enter `<first-letter>/<slug>.md`. The letter is the first character of `slug`. Example: `s/softprobe.md` is `companies/s/softprobe.md`.
+3. Fill in `slug`, `name`, `website`, `careers`, `location`, `tags`, `languages`, `posted`, and `posted_by` (your GitHub login). Use `https://` links. Do not put a recruiting phone number or a recruiting email on the page.
+4. Open a pull request that changes only this file, entirely in the GitHub web UI. A job for that company is a different file and a different pull request.
+5. The validator runs and auto-merges the pull request if the file passes. Company pages stay until the owner deletes them. Share `https://softprobe.github.io/openjob/p/companies/<letter>/<slug>/` with the share buttons on that page.
+
+If a check fails, the bot comments and leaves the pull request open. Fix the file and push to the same pull request. Lifetimes, the privacy rules, and the schemas are in the sections below and in [CONTRIBUTING.md](CONTRIBUTING.md).
+
+## Post something
+
+The board is the repository. Search is a static page. There is no account system and no inbox. This is a public alternative to LinkedIn and BOSS直聘 for people who want the listing itself to be the product: a text file, a link, and an expiry date. It does not try to be a social network.
 
 **Privacy first.** Do not publish a phone number. Do not publish a personal email address. Not in a post, not in a pull request, and not in an issue. Talent posts cannot contain an email at all. A job may put one employer hiring address in `apply` (`mailto:jobs@company.example`) or in `apply_email`, and only when that domain matches the company website (`www.` is ignored). The address is not copied into share text. The site may show it as an Apply by email button. Every other email is rejected, including the job body and a mismatched domain such as gmail.com. Other contact goes through a LinkedIn URL, a GitHub profile, a personal site, or a company careers/apply link. The checker rejects ordinary addresses and common disguises (`name [at] domain`, fullwidth characters, HTML entities, `%40`, `+86` mobiles, and Chinese numerals). See [Contributing](CONTRIBUTING.md#privacy).
 
-Browse the board at <https://softprobe.github.io/openjob/> after GitHub Pages is enabled. Until then, read the files under `jobs/`, `talents/`, and `companies/`.
-
-The three files there today are samples (`example: true`). They are not a real opening, a real résumé, or a real company.
-
-## Post something
+A file with `example: true` is a sample. It is not a real opening, a real résumé, or a real company.
 
 | Kind | Path | Lifetime |
 | --- | --- | --- |
@@ -25,7 +61,7 @@ Copy a file from `templates/`. One post per pull request. Set `posted_by` or `gi
 
 Posts are text, UTF-8, and at most 10 KB. Images, PDFs, and other binaries are rejected.
 
-Full steps, the federation layout, and the renewal rules are in [CONTRIBUTING.md](CONTRIBUTING.md).
+The click-through steps are in [Quick start](#quick-start). Field rules, the federation layout, and the renewal rules are in [CONTRIBUTING.md](CONTRIBUTING.md). Schemas are the JSON files in `schema/`.
 
 ## Share your post
 
@@ -114,9 +150,53 @@ Abuse reports and the takedown path are in [SECURITY.md](SECURITY.md). Conduct i
 
 ## 中文
 
-OpenJob 是一个放在 GitHub 里的公开职位板。谁都可以用 Pull Request 发布职位或人才档案，用来替代把电话交给 LinkedIn 或 BOSS直聘。仓库就是公告板，搜索页是静态的，没有账号，也没有站内信。
+[English](#openjob)
+
+OpenJob 是一个放在 GitHub 上的开放、隐私优先的职位板：谁都可以用 Markdown Pull Request 发布职位和简历，自动校验并自动合并，不留邮箱和电话。
+
+在线看板：<https://softprobe.github.io/openjob/>。
+
+### 快速开始
+
+一篇帖子、一个 Pull Request。把模板复制成新文件，不要在这个 Pull Request 里修改 `templates/`。全程可以在 GitHub 网页上完成（**Add file → Create new file**，或直接在 github.com 上编辑）。没有写权限时，GitHub 会让你先 Fork，再从 Fork 开 Pull Request。
+
+**找职位和人才：** 在 <https://softprobe.github.io/openjob/> 搜索。带 `example: true` 的是示例。
+
+#### 发布职位
+
+1. 复制 [`templates/job.md`](templates/job.md)。
+2. 用 [在 `jobs/` 里新建文件](https://github.com/softprobe/openjob/new/main/jobs) 创建帖子。文件名输入框已经相对于 `jobs/`。填 `YYYY/MM/<company>-<role-slug>.md`。`YYYY/MM` 是 `posted` 的年月，文件名是 `company`、连字符和 `role_slug`。例如 `2026/11/example-studio-open-source-maintainer.md`。
+3. 替换占位符：`title`、`company`、`company_name`、`role_slug`、`location`、`remote`（`true`、`false` 或 `hybrid`）、`languages`、`tags`、`apply`（`https://` 招聘或申请链接）、`posted`（`YYYY-MM-DD`）、`posted_by`（你的 GitHub 登录名）。在正文里写工作内容。不要写电话或邮箱。
+4. 打开一个只包含这个文件的 Pull Request。在新建文件的页面上提交并创建 Pull Request，编辑留在浏览器里完成。
+5. 校验会在 Pull Request 上运行，通过后自动合并。用页面上的分享按钮分享 `https://softprobe.github.io/openjob/p/jobs/YYYY/MM/<company>-<role-slug>/`。合并评论里也有这个链接。
+
+#### 发布简历（人才）
+
+1. 复制 [`templates/talent.md`](templates/talent.md)。
+2. 用 [在 `talents/` 里新建文件](https://github.com/softprobe/openjob/new/main/talents) 创建档案。文件名输入框已经相对于 `talents/`。填 `<首字母>/<github用户名>.md`，全部小写。首字母是 GitHub 登录名的第一个字符，文件名就是这个登录名。例如 `z/zwobill.md`，完整路径是 `talents/z/zwobill.md`。
+3. `github` 必须是这个登录名，并且与文件名、Pull Request 作者一致。填好 `name`、`headline`、`location`、`remote`、`languages`、`tags`、`open_to`（`full-time`、`part-time`、`contract` 或 `internship`）和 `posted`。可选 `website`，或 `linkedin`（`https://www.linkedin.com/in/…`）。不要写电话、邮箱或微信号。
+4. 打开一个只包含这个文件的 Pull Request，全程在 GitHub 网页上完成（**Add file**，然后提交并创建 Pull Request）。
+5. 校验通过后自动合并。用分享按钮分享 `https://softprobe.github.io/openjob/p/talents/<首字母>/<用户名>/`。
+
+简历全文可以放在你自己的仓库里。把 [`templates/talent-ref.md`](templates/talent-ref.md) 复制到同样规则的路径，本仓库只留索引。见 [联邦档案](CONTRIBUTING.md#federation)。
+
+#### 添加公司页
+
+1. 复制 [`templates/company.md`](templates/company.md)。
+2. 用 [在 `companies/` 里新建文件](https://github.com/softprobe/openjob/new/main/companies) 创建页面。文件名输入框已经相对于 `companies/`。填 `<首字母>/<slug>.md`。首字母是 `slug` 的第一个字符。例如 `s/softprobe.md`，完整路径是 `companies/s/softprobe.md`。
+3. 填好 `slug`、`name`、`website`、`careers`、`location`、`tags`、`languages`、`posted` 和 `posted_by`（你的 GitHub 登录名）。链接用 `https://`。不要写招聘电话或招聘邮箱。
+4. 打开一个只包含这个文件的 Pull Request，全程在 GitHub 网页上完成。该公司的职位是另一个文件、另一个 Pull Request。
+5. 校验通过后自动合并。公司页会一直保留，直到所有者删除。用分享按钮分享 `https://softprobe.github.io/openjob/p/companies/<首字母>/<slug>/`。
+
+检查没通过时，机器人会在 Pull Request 里留言并保持打开。改完文件后再推送到同一个 Pull Request。期限、隐私规则和 schema 见下文和 [CONTRIBUTING.md](CONTRIBUTING.md)。
+
+### 参考
+
+仓库就是公告板，搜索页是静态的，没有账号，也没有站内信。它是 LinkedIn 和 BOSS直聘 的公开替代：公告本身就是一份文本、一个链接和一个到期日，而不是社交网络。
 
 **隐私优先。** 不要公开电话号码，也不要公开个人邮箱，帖子、Pull Request 和 Issue 里都不要。人才帖不能写邮箱。职位可以在 `apply` 写 `mailto:jobs@公司域名`，或另写 `apply_email`，但域名必须和公司网站一致（忽略 `www.`）。这个地址不会进入分享文案。网站可以显示「邮件申请」按钮。正文里的邮箱、人才帖里的邮箱，以及 gmail.com 这类不匹配的域名，都会被拒绝。其他联系方式只能是 LinkedIn、GitHub 主页、个人网站，或公司的招聘/申请链接。检查脚本也会拒绝 `name [at] domain`、全角字符、`%40`、`+86` 手机号和中文数字写法。细节见 [CONTRIBUTING.md](CONTRIBUTING.md#privacy)。
+
+带 `example: true` 的文件是示例，不是真实招聘、简历或公司。
 
 | 类型 | 路径 | 期限 |
 | --- | --- | --- |
@@ -129,8 +209,8 @@ OpenJob 是一个放在 GitHub 里的公开职位板。谁都可以用 Pull Requ
 
 过期帖子从目录中删除。**Git 历史就是归档。** 想恢复时，从删除那次提交里取出文件，把 `renewed` 设为新的日期，再开一个 Pull Request。不要修改原来的 `posted`。
 
-启用 GitHub Pages 之后，搜索页在 <https://softprobe.github.io/openjob/>。页面上可以按职位、地点、远程、标签和语言筛选。当前三篇是示例，不是真实招聘或简历。
+搜索页可以按职位、地点、远程、标签和语言筛选。
 
 每篇帖子有一个永久链接：`https://softprobe.github.io/openjob/p/<去掉.md的路径>/`。页面带分享按钮（LinkedIn、X、Reddit、Hacker News、Facebook、Telegram、WhatsApp、微博）和复制链接。微信没有分享链接，页面在浏览器里把永久链接画成二维码。分享文案只包含职位、公司和地点，或人才的 headline，或公司名和地点，不含申请链接、电话或邮箱。职位页可以有「邮件申请」按钮，那个地址不在分享文案里。自动合并后，机器人会在 Pull Request 里留下这些链接。
 
-代码用 MIT，帖子用 CC BY 4.0。举报和删除流程在 [SECURITY.md](SECURITY.md)。
+代码用 MIT，帖子用 CC BY 4.0。举报和删除流程在 [SECURITY.md](SECURITY.md)。工作流、仓库设置和目录布局见上方英文部分。
