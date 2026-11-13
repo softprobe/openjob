@@ -11,6 +11,7 @@ from jsonschema import Draft202012Validator
 
 from validator.constants import REPO
 from validator.posts import (
+    company_logo,
     company_website,
     effective_expiry,
     index_validator,
@@ -128,7 +129,7 @@ def _project(rel: str, meta: dict, body: str, *, root: Path) -> dict:
         "linkedin": meta.get("linkedin"),
         "apply": https_apply,
         "apply_email": mailto,
-        "logo": meta.get("logo") if kind == "company" else None,
+        "logo": _logo(kind, meta, root),
         "careers": meta.get("careers"),
         "open_to": list(meta.get("open_to") or []),
         "compensation": meta.get("compensation") or "",
@@ -137,6 +138,15 @@ def _project(rel: str, meta: dict, body: str, *, root: Path) -> dict:
         "share_text": blurb,
         "shares": share_links(blurb, page),
     }
+
+
+def _logo(kind: str, meta: dict, root: Path) -> str | None:
+    """Company pages use their own logo. Jobs use the logo on that company's page."""
+    if kind == "company":
+        return _https_url(meta.get("logo"))
+    if kind == "job":
+        return company_logo(root, meta.get("company"))
+    return None
 
 
 def _https_url(value: object) -> str | None:

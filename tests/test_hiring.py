@@ -209,9 +209,50 @@ class LogoTests(unittest.TestCase):
         page = (site / "p" / "companies" / "s" / "softprobe" / "index.html").read_text(encoding="utf-8")
         shutil.rmtree(site)
         self.assertIn(f'<img class="logo" src="{LOGO}"', page)
+        self.assertIn('width="48"', page)
+        self.assertIn('height="48"', page)
         self.assertIn('referrerpolicy="no-referrer"', page)
         head, _body = page.split("</head>", 1)
         self.assertNotIn(LOGO, head)
+
+    def test_job_copies_the_company_logo(self) -> None:
+        root = _tree({COMPANY: _company(logo=LOGO), JOB: _job()})
+        site = Path(tempfile.mkdtemp())
+        try:
+            document = build_index(root, today=TODAY)
+            write_pages(root, site, document)
+        finally:
+            shutil.rmtree(root)
+        by_path = {post["path"]: post for post in document["posts"]}
+        self.assertEqual(by_path[COMPANY]["logo"], LOGO)
+        self.assertEqual(by_path[JOB]["logo"], LOGO)
+        self.assertNotIn(LOGO, by_path[JOB]["share_text"])
+        self.assertNotIn("cdn.example.com", by_path[JOB]["share_text"])
+        page = (site / "p" / JOB[:-3] / "index.html").read_text(encoding="utf-8")
+        shutil.rmtree(site)
+        self.assertIn(f'<img class="logo" src="{LOGO}" alt="Softprobe" width="48" height="48"', page)
+        self.assertIn('class="identity"', page)
+        head, _body = page.split("</head>", 1)
+        self.assertNotIn(LOGO, head)
+
+    def test_job_without_a_company_logo_stays_blank(self) -> None:
+        root = _tree({COMPANY: _company(), JOB: _job()})
+        try:
+            document = build_index(root, today=TODAY)
+        finally:
+            shutil.rmtree(root)
+        job = next(post for post in document["posts"] if post["path"] == JOB)
+        company = next(post for post in document["posts"] if post["path"] == COMPANY)
+        self.assertIsNone(job["logo"])
+        self.assertIsNone(company["logo"])
+
+    def test_job_without_a_company_page_has_no_logo(self) -> None:
+        root = _tree({JOB: _job()})
+        try:
+            document = build_index(root, today=TODAY)
+        finally:
+            shutil.rmtree(root)
+        self.assertIsNone(document["posts"][0]["logo"])
 
     def test_logo_must_be_https(self) -> None:
         for logo in ("logo.png", "http://cdn.example.com/logo.png", "https://cdn.example.com/logo.png "):

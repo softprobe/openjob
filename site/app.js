@@ -285,8 +285,6 @@ function card(post, target) {
   article.appendChild(top);
 
   const logo = logoImage(post);
-  if (logo) article.appendChild(logo);
-
   const heading = document.createElement("h2");
   if (post.path && post.permalink) {
     const link = document.createElement("a");
@@ -296,7 +294,14 @@ function card(post, target) {
   } else {
     heading.textContent = post.title;
   }
-  article.appendChild(heading);
+  if (logo) {
+    const titleRow = document.createElement("div");
+    titleRow.className = "title-row";
+    titleRow.append(logo, heading);
+    article.appendChild(titleRow);
+  } else {
+    article.appendChild(heading);
+  }
 
   const bits = [
     post.headline,
@@ -428,10 +433,13 @@ function badge(text, extra) {
 }
 
 function logoImage(post) {
-  if (post.kind !== "company" || !post.logo || !/^https:\/\/\S+$/.test(post.logo)) return null;
+  if (!post.logo || !/^https:\/\/\S+$/.test(post.logo)) return null;
+  if (post.kind !== "company" && post.kind !== "job") return null;
   const img = document.createElement("img");
   img.className = "logo";
-  img.alt = post.title || "";
+  img.alt = post.kind === "job" ? post.org || post.title || "" : post.title || "";
+  img.width = 48;
+  img.height = 48;
   img.referrerPolicy = "no-referrer";
   img.src = post.logo;
   return img;

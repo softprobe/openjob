@@ -59,7 +59,7 @@ Save `templates/talent.md` as `talents/<first-letter>/<github-username>.md`, low
 
 Save `templates/company.md` as `companies/<first-letter>/<slug>.md`. Company pages do not expire. The account in `posted_by` owns later edits. A job for that company is a separate file. Both files may be in one pull request when you own each of them.
 
-An optional `logo` is an `https://` URL of an image already hosted somewhere else. Do not commit the image. The board and the permalink page render it. Share text does not include the URL. A company page still cannot contain an email address. The hiring address belongs on the job.
+An optional `logo` is an `https://` URL of an image already hosted somewhere else. Do not commit the image. The board and the company permalink render it at 48px on a light chip. A job does not have its own logo field: the index copies the logo from that company's page onto the job card and the job permalink. Share text does not include the URL. A company page still cannot contain an email address. The hiring address belongs on the job.
 
 ## Federation
 
