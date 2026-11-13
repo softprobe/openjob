@@ -16,6 +16,7 @@ from urllib.parse import parse_qs, urlparse
 
 import yaml
 
+from samples import SAMPLES, sample_tree
 from validator.index import build_index, write_pages
 from validator.pr import check_pr
 from validator.privacy import find_contacts, has_contact_pattern
@@ -257,50 +258,56 @@ class CommentTests(unittest.TestCase):
 
 class PageTests(unittest.TestCase):
     def test_sample_pages_have_cards_and_local_scripts(self) -> None:
-        document = build_index(ROOT, today=TODAY)
+        root = sample_tree()
         site = Path(tempfile.mkdtemp())
         try:
+            document = build_index(root, today=TODAY)
             (site / "p" / "stale").mkdir(parents=True)
             (site / "p" / "stale" / "index.html").write_text("old", encoding="utf-8")
-            count = write_pages(ROOT, site, document)
-            self.assertEqual(count, 3)
+            count = write_pages(root, site, document)
+            self.assertEqual(count, len(SAMPLES))
             self.assertFalse((site / "p" / "stale").exists())
-            job = next(post for post in document["posts"] if post["kind"] == "job")
-            talent = next(post for post in document["posts"] if post["kind"] == "talent")
-            company = next(post for post in document["posts"] if post["kind"] == "company")
+            by_path = {post["path"]: post for post in document["posts"]}
+            job = by_path["jobs/2026/11/example-studio-open-source-maintainer.md"]
+            talent = by_path["talents/z/zwobill.md"]
+            company = by_path["companies/e/example-studio.md"]
             job_html = (site / "p" / job["path"][:-3] / "index.html").read_text(encoding="utf-8")
             talent_html = (site / "p" / talent["path"][:-3] / "index.html").read_text(encoding="utf-8")
+            self.assertEqual(job["share_text"], "Example role: open source maintainer — Example Studio — Example City")
+            self.assertEqual(talent["share_text"], "Format sample, not a real profile")
+            self.assertNotIn("Example Candidate", talent["share_text"])
+            self.assertEqual(company["share_text"], "Example Studio — Example City")
+            self.assertEqual(job["permalink"], permalink(job["path"]))
+            self.assertEqual(_meta(job_html, "og:title"), job["share_text"])
+            self.assertEqual(_meta(job_html, "og:url"), job["permalink"])
+            self.assertEqual(_name(job_html, "twitter:card"), "summary")
+            self.assertEqual(_name(job_html, "twitter:title"), job["share_text"])
+            head, body = job_html.split("</head>", 1)
+            self.assertNotIn("example.com", head)
+            self.assertNotIn("http", _meta(job_html, "og:description"))
+            before, _, after = body.partition('id="share"')
+            self.assertIn("https://example.com/careers/open-source-maintainer", before)
+            self.assertNotIn("example.com", after)
+            srcs = re.findall(r'<script[^>]+src="([^"]+)"', job_html)
+            self.assertTrue(srcs)
+            self.assertTrue(all(src.startswith("../") for src in srcs))
+            self.assertTrue(any(src.endswith("vendor/qrcode.js") for src in srcs))
+            self.assertTrue(any(src.endswith("share.js") for src in srcs))
+            self.assertNotIn("cdn", job_html.lower())
+            self.assertEqual(_meta(talent_html, "og:title"), talent["share_text"])
+            self.assertNotIn("example.com", talent_html.split("</head>", 1)[0])
         finally:
             shutil.rmtree(site)
-        self.assertEqual(job["share_text"], "Example role: open source maintainer — Example Studio — Example City")
-        self.assertEqual(talent["share_text"], "Format sample, not a real profile")
-        self.assertNotIn("Example Candidate", talent["share_text"])
-        self.assertEqual(company["share_text"], "Example Studio — Example City")
-        self.assertEqual(job["permalink"], permalink(job["path"]))
-        self.assertEqual(_meta(job_html, "og:title"), job["share_text"])
-        self.assertEqual(_meta(job_html, "og:url"), job["permalink"])
-        self.assertEqual(_name(job_html, "twitter:card"), "summary")
-        self.assertEqual(_name(job_html, "twitter:title"), job["share_text"])
-        head, body = job_html.split("</head>", 1)
-        self.assertNotIn("example.com", head)
-        self.assertNotIn("http", _meta(job_html, "og:description"))
-        before, _, after = body.partition('id="share"')
-        self.assertIn("https://example.com/careers/open-source-maintainer", before)
-        self.assertNotIn("example.com", after)
-        srcs = re.findall(r'<script[^>]+src="([^"]+)"', job_html)
-        self.assertTrue(srcs)
-        self.assertTrue(all(src.startswith("../") for src in srcs))
-        self.assertTrue(any(src.endswith("vendor/qrcode.js") for src in srcs))
-        self.assertTrue(any(src.endswith("share.js") for src in srcs))
-        self.assertNotIn("cdn", job_html.lower())
-        self.assertEqual(_meta(talent_html, "og:title"), talent["share_text"])
-        self.assertNotIn("example.com", talent_html.split("</head>", 1)[0])
+            shutil.rmtree(root)
 
     def test_marketing_is_not_in_the_repo(self) -> None:
         self.assertFalse((ROOT / "marketing").exists())
         hits: list[str] = []
         for path in ROOT.rglob("*"):
             if not path.is_file():
+                continue
+            relative = path.relative_to(ROOT)
+            if relative.parts and relative.parts[0] in {"jobs", "talents", "companies"}:
                 continue
             if ".git" in path.parts or "__pycache__" in path.parts:
                 continue

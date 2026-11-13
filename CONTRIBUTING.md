@@ -81,7 +81,7 @@ When a letter directory approaches about 800 files, maintainers should add a sec
 
 ## What the check enforces
 
-On a pull request the `validate` workflow runs the unit tests and `python -m validator check-pr`. It comments on failure with the code and a fix.
+On a pull request the `validate` workflow runs the unit tests and `python -m validator check-pr`. It comments on failure with the code and a fix. The post checker still runs when the unit tests fail, so the comment includes that fix. The pull request stays open.
 
 - JSON Schema for the `kind`
 - path and filename
@@ -94,7 +94,23 @@ On a pull request the `validate` workflow runs the unit tests and `python -m val
 
 If the pull request also edits workflows, docs, or the site, the post checks can still pass, but auto-merge stays off. `@zwobill` merges those.
 
-After this workflow file is on `main`, `.github/workflows/automerge.yml` repeats the check from the base branch (so a pull request cannot swap in a weaker checker) and squash-merges a passing single-post pull request. It then comments with the permalink and the share links. A deletion has no permalink to share, so that comment is skipped.
+After this workflow file is on `main`, `.github/workflows/automerge.yml` repeats the check from the base branch (so a pull request cannot swap in a weaker checker). A single-post pull request squash-merges itself when that trusted check accepts it and the `validate` check succeeded for the same head commit. The workflow then comments with the permalink and the share links. A deletion has no permalink to share, so that comment is skipped.
+
+Posts are not reviewed by hand. The checker is the gate. If `validate` fails, is still running when the wait ends, is missing, or belongs to a different commit, auto-merge comments and leaves the pull request open. Push a fix and both checks run again. Edits to workflows, the checker, the site, or the docs are not auto-merged; a maintainer merges those.
+
+Pull requests #2 and #3 merged while `validate` was red, because auto-merge did not look at that check and branch protection was off. The merge job now waits for the `validate` check on the pull request head SHA and runs `python -m validator merge-gate` before it calls the merge API. The squash is pinned to that SHA. The gate exits 0 only when the conclusion is `success` and the check SHA is that head SHA. Any other conclusion, a missing check, or a different SHA exits 1, the job comments, and the squash step does not run.
+
+`tests/test_gate.py` is the automated proof. The same command is the manual check:
+
+```bash
+python -m validator merge-gate \
+  --automerge true \
+  --validate-conclusion failure \
+  --validate-sha aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa \
+  --head-sha aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+```
+
+That exits 1 and prints the “left this pull request open” comment. Repeat it with `--validate-conclusion success` and the same SHA twice: it exits 0. A green Validate on a different SHA still exits 1. In the workflow, exit 0 is what allows the squash; exit 1 stops the job first.
 
 The expiry workflow opens its own pull request as `github-actions[bot]`. Pull requests created with `GITHUB_TOKEN` do not trigger other workflows, so that pull request will not receive the `validate` check. Merge it by hand, or allow the Actions bot to bypass branch protection. The bot may only delete posts that are already expired.
 

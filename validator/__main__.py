@@ -10,6 +10,7 @@ from datetime import date, datetime, timezone
 from pathlib import Path
 
 from validator.expire import apply_removals, render_expiry_report, select_expired
+from validator.gate import merge_allowed, refusal_comment
 from validator.index import build_index, write_pages
 from validator.posts import validate_tree
 from validator.pr import check_pr
@@ -43,6 +44,16 @@ def main(argv: list[str] | None = None) -> int:
     expire.add_argument("--apply", action="store_true")
     expire.add_argument("--report", type=Path)
 
+    gate = sub.add_parser(
+        "merge-gate",
+        help="exit 0 only when auto-merge may proceed for this head SHA",
+    )
+    gate.add_argument("--automerge", required=True, choices=["true", "false"])
+    gate.add_argument("--validate-conclusion", default="")
+    gate.add_argument("--validate-sha", default="")
+    gate.add_argument("--head-sha", default="")
+    gate.add_argument("--comment", type=Path)
+
     args = parser.parse_args(argv)
     try:
         if args.command == "check-pr":
@@ -53,6 +64,8 @@ def main(argv: list[str] | None = None) -> int:
             return _build_index(args)
         if args.command == "expire":
             return _expire(args)
+        if args.command == "merge-gate":
+            return _merge_gate(args)
     except ValueError as exc:
         print(str(exc), file=sys.stderr)
         return 1
@@ -111,6 +124,30 @@ def _expire(args: argparse.Namespace) -> int:
     if args.report:
         args.report.write_text(report, encoding="utf-8")
     return 0
+
+
+def _merge_gate(args: argparse.Namespace) -> int:
+    conclusion = args.validate_conclusion or None
+    validate_sha = args.validate_sha or None
+    head_sha = args.head_sha or None
+    allowed = merge_allowed(
+        automerge=args.automerge == "true",
+        validate_conclusion=conclusion,
+        validate_sha=validate_sha,
+        head_sha=head_sha,
+    )
+    if allowed:
+        print(f"merge allowed for {head_sha}")
+        return 0
+    text = refusal_comment(
+        head_sha=head_sha,
+        validate_conclusion=conclusion,
+        validate_sha=validate_sha,
+    )
+    sys.stdout.write(text)
+    if args.comment:
+        args.comment.write_text(text, encoding="utf-8")
+    return 1
 
 
 def _today(value: str | None) -> date:

@@ -1,6 +1,11 @@
 # Trusted auto-merge. This file runs from the base branch (pull_request_target),
 # so a pull request cannot rewrite the checker that decides to merge it.
 # The head checkout is data only: do not pip-install it and do not run its scripts.
+#
+# A post merges on its own when both of these are true for the same head SHA:
+# the trusted checker accepts it, and the Validate workflow's `validate` check
+# succeeded. Anything else is left open, with a comment. Workflow, code, and
+# documentation changes are not auto-merged. Posts are not reviewed by hand.
 
 name: Auto-merge
 
@@ -11,13 +16,14 @@ on:
 permissions:
   contents: write
   pull-requests: write
+  checks: read
 
 jobs:
   trusted-validate:
     runs-on: ubuntu-latest
     outputs:
-      automerge: ${{ steps.check.outputs.automerge }}
-      share_b64: ${{ steps.check.outputs.share_b64 }}
+      automerge: ${{ steps.tests.outcome == 'success' && steps.check.outputs.automerge == 'true' && 'true' || 'false' }}
+      share_b64: ${{ steps.tests.outcome == 'success' && steps.check.outputs.automerge == 'true' && steps.check.outputs.share_b64 || '' }}
     steps:
       - name: Check out the trusted base
         uses: actions/checkout@v4
@@ -41,8 +47,14 @@ jobs:
       - name: Install checker dependencies from the base branch
         run: pip install -r base/requirements.txt
 
+      - name: Unit tests of the trusted checker
+        id: tests
+        working-directory: base
+        run: python -m unittest discover -s tests -v
+
       - name: Validate with the base-branch checker
         id: check
+        if: success() || failure()
         working-directory: base
         env:
           PR_AUTHOR: ${{ github.event.pull_request.user.login }}
@@ -67,15 +79,30 @@ jobs:
         uses: actions/github-script@v7
         env:
           REPORT: ${{ runner.temp }}/openjob-report.md
+          TESTS_OUTCOME: ${{ steps.tests.outcome }}
+          CHECK_OUTCOME: ${{ steps.check.outcome }}
         with:
           script: |
             const fs = require("fs");
             const marker = "<!-- openjob-bot -->";
-            let report = "OpenJob checks failed before a report was written. Open the workflow log.";
-            if (process.env.REPORT && fs.existsSync(process.env.REPORT)) {
-              report = fs.readFileSync(process.env.REPORT, "utf8");
+            const parts = [];
+            if (process.env.TESTS_OUTCOME === "failure") {
+              parts.push(
+                "Unit tests failed, so this pull request stays open. " +
+                "The Unit tests step in the workflow log has the traceback."
+              );
             }
-            const body = `${marker}\n${report}`;
+            if (
+              process.env.CHECK_OUTCOME === "failure" &&
+              process.env.REPORT &&
+              fs.existsSync(process.env.REPORT)
+            ) {
+              parts.push(fs.readFileSync(process.env.REPORT, "utf8"));
+            }
+            if (parts.length === 0) {
+              parts.push("OpenJob checks failed before a report was written. Open the workflow log.");
+            }
+            const body = `${marker}\n${parts.join("\n\n")}`;
             const { data: comments } = await github.rest.issues.listComments({
               owner: context.repo.owner,
               repo: context.repo.repo,
@@ -102,43 +129,146 @@ jobs:
 
   merge:
     needs: trusted-validate
-    if: needs.trusted-validate.outputs.automerge == 'true'
+    if: needs.trusted-validate.result == 'success' && needs.trusted-validate.outputs.automerge == 'true'
     runs-on: ubuntu-latest
+    timeout-minutes: 20
     steps:
-      - name: Squash-merge the post
+      - name: Check out the trusted base
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.pull_request.base.sha }}
+          path: base
+          persist-credentials: false
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install checker dependencies from the base branch
+        run: pip install -r base/requirements.txt
+
+      - name: Wait for Validate on this head SHA
+        id: validate
         uses: actions/github-script@v7
         with:
           script: |
-            const pull_number = context.payload.pull_request.number;
-            const common = {
+            const sha = context.payload.pull_request.head.sha;
+            const deadline = Date.now() + 15 * 60 * 1000;
+            const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
+            let conclusion = "";
+            let validateSha = "";
+            try {
+              while (Date.now() < deadline) {
+                const { data } = await github.rest.checks.listForRef({
+                  owner: context.repo.owner,
+                  repo: context.repo.repo,
+                  ref: sha,
+                  check_name: "validate",
+                  per_page: 100,
+                });
+                const runs = (data.check_runs || []).filter(
+                  (run) => run.name === "validate" && run.app && run.app.slug === "github-actions"
+                );
+                const pending = runs.some((run) => run.status !== "completed");
+                if (runs.length === 0 || pending) {
+                  core.info(runs.length === 0 ? "validate has not started" : "validate is still running");
+                  await sleep(15000);
+                  continue;
+                }
+                runs.sort(
+                  (a, b) => Date.parse(b.started_at || 0) - Date.parse(a.started_at || 0)
+                );
+                conclusion = runs[0].conclusion || "";
+                validateSha = runs[0].head_sha || "";
+                break;
+              }
+            } catch (error) {
+              core.warning(String(error));
+              conclusion = "";
+              validateSha = "";
+            }
+            core.setOutput("conclusion", conclusion);
+            core.setOutput("validate_sha", validateSha);
+            core.setOutput("head_sha", sha);
+
+      - name: Require a successful Validate check
+        id: gate
+        working-directory: base
+        env:
+          CONCLUSION: ${{ steps.validate.outputs.conclusion }}
+          VALIDATE_SHA: ${{ steps.validate.outputs.validate_sha }}
+          HEAD_SHA: ${{ steps.validate.outputs.head_sha }}
+        run: |
+          python -m validator merge-gate \
+            --automerge true \
+            --validate-conclusion "$CONCLUSION" \
+            --validate-sha "$VALIDATE_SHA" \
+            --head-sha "$HEAD_SHA" \
+            --comment "$RUNNER_TEMP/merge-gate.md"
+
+      - name: Comment and stop when Validate did not pass
+        if: failure()
+        continue-on-error: true
+        uses: actions/github-script@v7
+        env:
+          REPORT: ${{ runner.temp }}/merge-gate.md
+        with:
+          script: |
+            const fs = require("fs");
+            const marker = "<!-- openjob-merge-gate -->";
+            let body = `${marker}\nAuto-merge left this pull request open because Validate did not succeed for this commit.`;
+            if (process.env.REPORT && fs.existsSync(process.env.REPORT)) {
+              body = fs.readFileSync(process.env.REPORT, "utf8");
+            }
+            const { data: comments } = await github.rest.issues.listComments({
               owner: context.repo.owner,
               repo: context.repo.repo,
-              pull_number,
-            };
+              issue_number: context.issue.number,
+              per_page: 100,
+            });
+            const existing = comments.find(
+              (comment) => comment.user && comment.body && comment.body.includes(marker)
+            );
+            if (existing) {
+              await github.rest.issues.updateComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                comment_id: existing.id,
+                body,
+              });
+            } else {
+              await github.rest.issues.createComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: context.issue.number,
+                body,
+              });
+            }
+            core.setFailed("Validate did not succeed for this head SHA. The pull request stays open.");
+
+      - name: Squash-merge the post
+        if: success()
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const sha = context.payload.pull_request.head.sha;
+            const pull_number = context.payload.pull_request.number;
             try {
               await github.rest.pulls.merge({
-                ...common,
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                pull_number,
                 merge_method: "squash",
+                sha,
               });
-              return;
-            } catch (directError) {
-              try {
-                await github.graphql(
-                  `mutation($id: ID!) {
-                    enablePullRequestAutoMerge(input: {pullRequestId: $id, mergeMethod: SQUASH}) {
-                      clientMutationId
-                    }
-                  }`,
-                  { id: context.payload.pull_request.node_id }
-                );
-              } catch (autoError) {
-                core.setFailed(
-                  "The post passed validation, but GitHub did not merge it. " +
-                  "Enable squash merges and auto-merge, leave required reviews off, " +
-                  "and allow Actions to satisfy the required status check.\n" +
-                  String(directError) + "\n" + String(autoError)
-                );
-              }
+            } catch (error) {
+              core.setFailed(
+                "The post passed every check for " + sha + ", but GitHub did not merge it. " +
+                "Enable squash merges, leave required reviews off, and allow this workflow to merge. " +
+                "The merge is pinned to that commit, so a later push is a new run.\n" +
+                String(error)
+              );
             }
 
       - name: Comment with the permalink and share links

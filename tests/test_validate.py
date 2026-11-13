@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import json
+import shutil
 import unittest
 from datetime import date
 from pathlib import Path
@@ -10,6 +11,7 @@ from pathlib import Path
 import yaml
 from jsonschema.validators import Draft202012Validator
 
+from samples import sample_tree
 from validator.posts import binary_issues, validate_post, validate_tree
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -70,7 +72,11 @@ class SchemaTests(unittest.TestCase):
         self.assertIn("privacy-email", codes(issues))
 
     def test_seed_posts_are_valid(self) -> None:
-        issues = validate_tree(ROOT, today=TODAY)
+        root = sample_tree()
+        try:
+            issues = validate_tree(root, today=TODAY)
+        finally:
+            shutil.rmtree(root)
         self.assertEqual(issues, [], [f"{issue.path}: {issue.message}" for issue in issues])
 
 
