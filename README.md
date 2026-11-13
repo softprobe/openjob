@@ -27,6 +27,22 @@ Posts are text, UTF-8, and at most 10 KB. Images, PDFs, and other binaries are r
 
 Full steps, the federation layout, and the renewal rules are in [CONTRIBUTING.md](CONTRIBUTING.md).
 
+## Share your post
+
+Each job, talent profile, and company page has a permalink:
+
+`https://zwobill.github.io/openjob/p/<path-without-.md>/`
+
+Example: `https://zwobill.github.io/openjob/p/jobs/2026/11/example-studio-open-source-maintainer/`
+
+That page is static HTML. Its title and description are Open Graph and Twitter card tags, so a link unfurls as the public listing. The board also opens the same entry at `#<path-without-.md>`, for example `#jobs/2026/11/example-studio-open-source-maintainer`.
+
+The page has share buttons for LinkedIn, X, Reddit, Hacker News, Facebook, Telegram, WhatsApp, and Weibo. They are ordinary share-intent links. There is no SDK and no third-party script. Copy link copies the permalink. WeChat has no share URL; the page draws a QR code of the permalink in the browser with the MIT library in `site/vendor/`.
+
+The prefilled text is the role, company, and location for a job, the headline for a talent profile, and the name and location for a company. It does not include an apply link, a profile URL, a phone number, or an email address. LinkedIn and Facebook take the permalink and read the title from the page. Hacker News uses the same text, shortened to 80 characters.
+
+After auto-merge, the bot comments on the pull request with that permalink and the same links. The comment is part of `automerge.yml`, so it starts once that workflow is on `main`. The permalink itself goes live when the Pages workflow finishes.
+
 ## How it stays small
 
 - Sharded paths, so a single directory does not collect every post. Jobs are grouped by month. Talent and company files are grouped by the first letter. If a letter directory approaches about 800 files, maintainers add a second level in a separate change.
@@ -44,9 +60,9 @@ A profile can live in `<your-username>/openjob-profile`. This repository then ho
 | Workflow | When | Effect |
 | --- | --- | --- |
 | `validate` | every pull request | tests, schema, path, size, privacy, ownership, scope; comments on failure |
-| `automerge` | pull requests after this file is on `main` | repeats the check with the code already on `main`, then squash-merges a single-post pull request |
+| `automerge` | pull requests after this file is on `main` | repeats the check with the code already on `main`, squash-merges a single-post pull request, and comments with the permalink and share links |
 | `expire` | daily, 03:17 UTC | opens a pull request that deletes expired posts |
-| `pages` | push to `main` | builds `index.json` and deploys the search page |
+| `pages` | push to `main` | builds `index.json` and the permalink pages, then deploys the site |
 
 `validate` is the check on this pull request. `automerge` cannot run until that workflow exists on the default branch, because `pull_request_target` uses the workflow from `main`, not from the pull request. That is deliberate: a pull request must not be able to replace the checker and then merge itself.
 
@@ -75,23 +91,24 @@ talents/<letter>/<github-username>.md
 companies/<letter>/<slug>.md
 schema/          JSON Schema for each kind, plus the public index
 templates/       starting files
-validator/       checker, index builder, expiry selection
-site/            static search page
+validator/       checker, index builder, expiry selection, share text
+site/            static search page; permalink HTML is generated into site/p/
 tests/fixtures/  privacy, path, size, and binary cases
-marketing/       launch drafts, not posted anywhere
 ```
+
+`site/p/` is build output. It is not committed. Git history remains the archive for posts; the Pages site is rebuilt from the live tree.
 
 Run the checker locally:
 
 ```bash
 pip install -r requirements.txt
 python -m unittest discover -s tests -v
-python -m validator build-index --root . --out site/index.json
+python -m validator build-index --root . --out site/index.json --pages site
 ```
 
 ## Licenses
 
-Code, schemas, workflows, and the site are [MIT](LICENSE). Posts, templates, and the marketing drafts are [CC BY 4.0](LICENSE-CONTENT.md). Say who wrote the post and link the file if you reuse it.
+Code, schemas, workflows, and the site are [MIT](LICENSE). The QR code library in `site/vendor/` is also MIT, under its own copyright (`site/vendor/LICENSE-qrcode.txt`). Posts and templates are [CC BY 4.0](LICENSE-CONTENT.md). Say who wrote the post and link the file if you reuse it.
 
 Abuse reports and the takedown path are in [SECURITY.md](SECURITY.md). Conduct is the [Contributor Covenant](CODE_OF_CONDUCT.md).
 
@@ -113,5 +130,7 @@ OpenJob 是一个放在 GitHub 里的公开职位板。谁都可以用 Pull Requ
 过期帖子从目录中删除。**Git 历史就是归档。** 想恢复时，从删除那次提交里取出文件，把 `renewed` 设为新的日期，再开一个 Pull Request。不要修改原来的 `posted`。
 
 启用 GitHub Pages 之后，搜索页在 <https://zwobill.github.io/openjob/>。页面上可以按职位、地点、远程、标签和语言筛选。当前三篇是示例，不是真实招聘或简历。
+
+每篇帖子有一个永久链接：`https://zwobill.github.io/openjob/p/<去掉.md的路径>/`。页面带分享按钮（LinkedIn、X、Reddit、Hacker News、Facebook、Telegram、WhatsApp、微博）和复制链接。微信没有分享链接，页面在浏览器里把永久链接画成二维码。分享文案只包含职位、公司和地点，或人才的 headline，或公司名和地点，不含申请链接、电话或邮箱。自动合并后，机器人会在 Pull Request 里留下这些链接。
 
 代码用 MIT，帖子用 CC BY 4.0。举报和删除流程在 [SECURITY.md](SECURITY.md)。

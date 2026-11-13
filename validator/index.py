@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import re
+import shutil
 from datetime import date, datetime, timezone
 from pathlib import Path
 
@@ -16,6 +17,7 @@ from validator.posts import (
     load_post,
     validate_tree,
 )
+from validator.share import permalink, render_post_page, share_links, share_text
 
 
 def build_index(root: Path, *, today: date | None = None) -> dict:
@@ -39,6 +41,31 @@ def build_index(root: Path, *, today: date | None = None) -> dict:
     }
     _validate_index(document)
     return document
+
+
+def write_pages(root: Path, site_dir: Path, document: dict) -> int:
+    """Write one static permalink page per post under ``site_dir/p/``.
+
+    A previous ``p/`` directory is replaced so an expired post does not leave
+    a stale page in the Pages artifact.
+    """
+    pages = site_dir / "p"
+    if pages.is_symlink():
+        raise ValueError("Refusing to replace a symlinked permalink directory.")
+    if pages.exists():
+        shutil.rmtree(pages)
+    by_path = {post["path"]: post for post in document["posts"]}
+    count = 0
+    for rel, path in iter_post_files(root):
+        post = by_path.get(rel)
+        if post is None:
+            continue
+        _meta, body = load_post(path)
+        dest = site_dir / "p" / rel[:-3] / "index.html"
+        dest.parent.mkdir(parents=True, exist_ok=True)
+        dest.write_text(render_post_page(post, body), encoding="utf-8")
+        count += 1
+    return count
 
 
 def _project(rel: str, meta: dict, body: str) -> dict:
@@ -65,6 +92,8 @@ def _project(rel: str, meta: dict, body: str) -> dict:
         org = meta["name"]
         role = meta["name"]
         url = meta.get("careers") or meta["website"]
+    blurb = share_text(meta)
+    page = permalink(rel)
     return {
         "kind": kind,
         "path": rel,
@@ -91,6 +120,9 @@ def _project(rel: str, meta: dict, body: str) -> dict:
         "open_to": list(meta.get("open_to") or []),
         "compensation": meta.get("compensation") or "",
         "excerpt": _excerpt(body),
+        "permalink": page,
+        "share_text": blurb,
+        "shares": share_links(blurb, page),
     }
 
 

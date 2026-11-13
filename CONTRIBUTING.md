@@ -94,9 +94,29 @@ On a pull request the `validate` workflow runs the unit tests and `python -m val
 
 If the pull request also edits workflows, docs, or the site, the post checks can still pass, but auto-merge stays off. `@zwobill` merges those.
 
-After this workflow file is on `main`, `.github/workflows/automerge.yml` repeats the check from the base branch (so a pull request cannot swap in a weaker checker) and squash-merges a passing single-post pull request.
+After this workflow file is on `main`, `.github/workflows/automerge.yml` repeats the check from the base branch (so a pull request cannot swap in a weaker checker) and squash-merges a passing single-post pull request. It then comments with the permalink and the share links. A deletion has no permalink to share, so that comment is skipped.
 
 The expiry workflow opens its own pull request as `github-actions[bot]`. Pull requests created with `GITHUB_TOKEN` do not trigger other workflows, so that pull request will not receive the `validate` check. Merge it by hand, or allow the Actions bot to bypass branch protection. The bot may only delete posts that are already expired.
+
+## Share your post
+
+The permalink of a merged post is:
+
+`https://zwobill.github.io/openjob/p/` plus the file path without `.md`, with a trailing slash.
+
+The Pages workflow writes that HTML file when it builds the site. The board hash `#` plus the same path (no `.md`) scrolls to the entry. Share buttons and unfurls use the permalink, because that page carries the Open Graph and Twitter card tags.
+
+| Kind | Prefilled text |
+| --- | --- |
+| Job | role, company, and location |
+| Talent and talent-ref | headline |
+| Company | name and location |
+
+The text is built only from those fields. `apply`, `website`, `linkedin`, `careers`, `profile_url`, phone numbers, and email addresses are not copied into it, including `example.com` addresses and fictional `555-01xx` numbers. If one of those fields itself contains a phone number or an email address, the share text is replaced with `OpenJob` and the permalink is still shared.
+
+LinkedIn and Facebook do not accept a prefilled body. Their buttons open the network's share page with the permalink, and the card uses the page title and description. Hacker News receives the same text, cut at 80 characters. Copy link copies the permalink. WeChat has no public share URL. The QR code on the page is the permalink, drawn by `site/vendor/qrcode.js` in the browser.
+
+The auto-merge comment repeats these links. It does not repeat the apply link.
 
 ## Local commands
 
@@ -104,7 +124,7 @@ The expiry workflow opens its own pull request as `github-actions[bot]`. Pull re
 pip install -r requirements.txt
 python -m unittest discover -s tests -v
 python -m validator check-tree --root .
-python -m validator build-index --root . --out site/index.json
+python -m validator build-index --root . --out site/index.json --pages site
 python -m validator expire --root . --today 2026-11-13
 ```
 
@@ -116,3 +136,4 @@ python -m validator expire --root . --today 2026-11-13
 4. 公司页放在 `companies/首字母/slug.md`，不过期。
 5. 一个 Pull Request 只改一篇帖子。检查通过后会 squash 合并。改工作流或文档需要维护者合并。
 6. 续期时不要改 `posted`，把 `renewed` 设成提交当天。过期文件会从目录删除，Git 历史就是归档，需要时从历史恢复再续期。
+7. 合并后的永久链接是 `https://zwobill.github.io/openjob/p/` 加上去掉 `.md` 的路径。分享文案只有职位、公司和地点，或 headline，或公司名和地点，不含电话、邮箱和申请链接。自动合并的评论里会带上这些分享链接。

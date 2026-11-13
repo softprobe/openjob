@@ -1,6 +1,6 @@
 # Content license
 
-Posts under `jobs/`, `talents/`, `companies/`, and `templates/`, and the drafts under `marketing/`, are licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+Posts under `jobs/`, `talents/`, `companies/`, and `templates/` are licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
 
 You can copy, share, and adapt a post, including commercially, as long as you give appropriate credit, link to the license, and say if you changed it. Credit the GitHub account in `posted_by` or `github`, and link the file in this repository (or the federated `profile_url` when the post is only an index entry).
 

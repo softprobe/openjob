@@ -136,7 +136,27 @@ class Finding:
 
 
 def find_contacts(text: str) -> list[Finding]:
-    """Return redacted email, phone, and hidden-character findings."""
+    """Return redacted email, phone, and hidden-character findings.
+
+    Documentation addresses (``example.com`` and the other three) and fictional
+    NANP ``555-01xx`` numbers are ignored here so the docs and the tests can
+    name the format. Share text uses :func:`has_contact_pattern`, which does not
+    ignore them.
+    """
+    return _scan(text, include_allowed=False)
+
+
+def has_contact_pattern(text: str) -> bool:
+    """True when ``text`` contains an email or phone shape.
+
+    Unlike :func:`find_contacts`, this includes the narrow documentation
+    allow-list. A prefilled share blurb should not carry ``ada@example.com``
+    or ``(415) 555-0100`` either.
+    """
+    return bool(_scan(text, include_allowed=True))
+
+
+def _scan(text: str, *, include_allowed: bool) -> list[Finding]:
     findings: list[Finding] = []
     for match in HIDDEN_CHARS.finditer(text):
         findings.append(Finding("hidden", _line_at(text, match.start()), "hidden character"))
@@ -149,7 +169,7 @@ def find_contacts(text: str) -> list[Finding]:
             spans.append((match.start(), match.end(), "email", match.group(0)))
     for match in WORD_HOST_EMAIL.finditer(prepared):
         domain = match.group(2).lower().strip(".")
-        if domain in MAIL_HOSTS:
+        if include_allowed or domain in MAIL_HOSTS:
             spans.append((match.start(), match.end(), "email", match.group(0)))
     if MAILTO.search(prepared):
         match = MAILTO.search(prepared)
@@ -178,9 +198,9 @@ def find_contacts(text: str) -> list[Finding]:
         if start < last_end:
             continue
         last_end = end
-        if kind == "email" and _email_allowed(raw):
+        if not include_allowed and kind == "email" and _email_allowed(raw):
             continue
-        if kind == "phone" and _phone_allowed(raw):
+        if not include_allowed and kind == "phone" and _phone_allowed(raw):
             continue
         detail = _redact_email(raw) if kind == "email" else _redact_phone(raw)
         findings.append(Finding(kind, _line_at(prepared, start), detail))

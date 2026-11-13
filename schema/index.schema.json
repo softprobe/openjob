@@ -42,7 +42,10 @@
         "careers",
         "open_to",
         "compensation",
-        "excerpt"
+        "excerpt",
+        "permalink",
+        "share_text",
+        "shares"
       ],
       "properties": {
         "kind": { "enum": ["job", "talent", "talent-ref", "company"] },
@@ -72,7 +75,38 @@
         "careers": { "type": ["string", "null"] },
         "open_to": { "type": "array", "items": { "type": "string" } },
         "compensation": { "type": "string" },
-        "excerpt": { "type": "string", "minLength": 1, "maxLength": 280 }
+        "excerpt": { "type": "string", "minLength": 1, "maxLength": 280 },
+        "permalink": {
+          "type": "string",
+          "pattern": "^https://zwobill\\.github\\.io/openjob/p/\\S+/$"
+        },
+        "share_text": { "type": "string", "minLength": 1, "maxLength": 320 },
+        "shares": {
+          "type": "array",
+          "minItems": 8,
+          "maxItems": 8,
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": ["id", "label", "href"],
+            "properties": {
+              "id": {
+                "enum": [
+                  "linkedin",
+                  "x",
+                  "reddit",
+                  "hackernews",
+                  "facebook",
+                  "telegram",
+                  "whatsapp",
+                  "weibo"
+                ]
+              },
+              "label": { "type": "string", "minLength": 1 },
+              "href": { "type": "string", "pattern": "^https://\\S+$" }
+            }
+          }
+        }
       }
     }
   }

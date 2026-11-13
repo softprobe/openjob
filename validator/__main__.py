@@ -3,13 +3,14 @@
 from __future__ import annotations
 
 import argparse
+import base64
 import json
 import sys
 from datetime import date, datetime, timezone
 from pathlib import Path
 
 from validator.expire import apply_removals, render_expiry_report, select_expired
-from validator.index import build_index
+from validator.index import build_index, write_pages
 from validator.posts import validate_tree
 from validator.pr import check_pr
 
@@ -33,6 +34,7 @@ def main(argv: list[str] | None = None) -> int:
     index = sub.add_parser("build-index", help="write the public JSON index")
     index.add_argument("--root", type=Path, default=Path("."))
     index.add_argument("--out", type=Path, required=True)
+    index.add_argument("--pages", type=Path, help="site directory that receives p/<path>/index.html")
     index.add_argument("--today")
 
     expire = sub.add_parser("expire", help="list or delete expired posts")
@@ -69,8 +71,12 @@ def _check_pr(args: argparse.Namespace) -> int:
     if args.report:
         args.report.write_text(report, encoding="utf-8")
     if args.github_output:
+        payload = ""
+        if result.share_comment:
+            payload = base64.b64encode(result.share_comment.encode("utf-8")).decode("ascii")
         with args.github_output.open("a", encoding="utf-8") as handle:
             handle.write(f"automerge={'true' if result.automerge else 'false'}\n")
+            handle.write(f"share_b64={payload}\n")
     return 1 if result.issues else 0
 
 
@@ -89,6 +95,9 @@ def _build_index(args: argparse.Namespace) -> int:
     args.out.parent.mkdir(parents=True, exist_ok=True)
     args.out.write_text(json.dumps(document, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     print(f"Wrote {len(document['posts'])} posts to {args.out}")
+    if args.pages:
+        count = write_pages(args.root, args.pages, document)
+        print(f"Wrote {count} permalink pages under {args.pages / 'p'}")
     return 0
 
 

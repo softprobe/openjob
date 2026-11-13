@@ -24,6 +24,14 @@ const STRINGS = {
     posted: "Posted",
     expires: "Expires",
     footer: "Contact is a link, not a phone number or an email address. Posts are CC BY 4.0. Code is MIT.",
+    share: "Share",
+    shareNote: "The buttons send this text and the permalink. They do not send an apply link, a phone number, or an email address.",
+    copy: "Copy link",
+    copied: "Copied",
+    wechat: "WeChat",
+    wechatHelp: "Scan with WeChat. This code is the permalink, drawn in your browser.",
+    permalink: "Permalink",
+    qrLabel: "QR code for this permalink",
   },
   zh: {
     kicker: "用 Pull Request 发布的分类信息",
@@ -50,6 +58,14 @@ const STRINGS = {
     posted: "发布",
     expires: "到期",
     footer: "联系方式是链接，不是电话或邮箱。帖子以 CC BY 4.0 授权，代码以 MIT 授权。",
+    share: "分享",
+    shareNote: "按钮只发送这段文字和永久链接，不包含申请链接、电话或邮箱。",
+    copy: "复制链接",
+    copied: "已复制",
+    wechat: "微信",
+    wechatHelp: "用微信扫描。二维码是本条永久链接，由浏览器在本地生成。",
+    permalink: "永久链接",
+    qrLabel: "本条永久链接的二维码",
   },
 };
 
@@ -111,7 +127,9 @@ function writeQuery() {
   if (state.tag !== "any") params.set("tag", state.tag);
   if (!state.examples) params.set("examples", "0");
   const next = params.toString();
-  history.replaceState(null, "", next ? `?${next}` : location.pathname);
+  const hash = location.hash || "";
+  const nextUrl = next ? `?${next}${hash}` : `${location.pathname}${hash}`;
+  history.replaceState(null, "", nextUrl);
 }
 
 function applyChrome() {
@@ -194,10 +212,24 @@ function matches(post) {
 
 function render() {
   applyChrome();
-  paint();
+  paint({ scroll: true });
 }
 
-function paint() {
+function entryPath(post) {
+  return String(post.path || "").replace(/\.md$/, "");
+}
+
+function targetPath() {
+  const raw = location.hash.startsWith("#") ? location.hash.slice(1) : "";
+  if (!raw) return "";
+  try {
+    return decodeURIComponent(raw);
+  } catch (error) {
+    return raw;
+  }
+}
+
+function paint(options = {}) {
   els.results.replaceChildren();
   if (loadError) {
     els.count.textContent = "";
@@ -207,20 +239,34 @@ function paint() {
     els.results.appendChild(note);
     return;
   }
-  const visible = posts.filter(matches).slice(0, 200);
+  const target = targetPath();
+  let visible = posts.filter(matches).slice(0, 200);
+  if (target) {
+    const pinned = posts.find((post) => entryPath(post) === target);
+    if (pinned && !visible.some((post) => post.path === pinned.path)) {
+      visible = [pinned, ...visible].slice(0, 200);
+    }
+  }
   els.count.textContent = t().count(visible.length, posts.length);
   if (!visible.length) {
     els.results.appendChild(Object.assign(document.createElement("p"), { className: "empty", textContent: t().empty }));
     return;
   }
   const list = document.createElement("div");
-  visible.forEach((post) => list.appendChild(card(post)));
+  visible.forEach((post) => list.appendChild(card(post, target)));
   els.results.appendChild(list);
+  if (options.scroll && target) {
+    const node = document.getElementById(target);
+    if (node) node.scrollIntoView({ block: "start" });
+  }
 }
 
-function card(post) {
+function card(post, target) {
   const copy = t();
   const article = document.createElement("article");
+  const path = entryPath(post);
+  if (path) article.id = path;
+  if (path && path === target) article.classList.add("is-target");
   const top = document.createElement("div");
   top.className = "row";
   const badges = document.createElement("div");
@@ -237,9 +283,14 @@ function card(post) {
   article.appendChild(top);
 
   const heading = document.createElement("h2");
-  const primary = safeLink(post.url, post.title);
-  if (primary) heading.appendChild(primary);
-  else heading.textContent = post.title;
+  if (post.path && post.permalink) {
+    const link = document.createElement("a");
+    link.href = `p/${entryPath(post)}/`;
+    link.textContent = post.title;
+    heading.appendChild(link);
+  } else {
+    heading.textContent = post.title;
+  }
   article.appendChild(heading);
 
   const bits = [
@@ -287,7 +338,74 @@ function card(post) {
     : `${copy.posted} ${post.posted}`;
   links.appendChild(dates);
   article.appendChild(links);
+  if (post.permalink) article.appendChild(shareBlock(post, path === target));
   return article;
+}
+
+function shareBlock(post, open) {
+  const copy = t();
+  const details = document.createElement("details");
+  details.className = "share";
+  details.open = Boolean(open);
+  details.dataset.permalink = post.permalink;
+  details.dataset.shareText = post.share_text || "";
+  const summary = document.createElement("summary");
+  summary.textContent = copy.share;
+  details.appendChild(summary);
+  const blurb = document.createElement("p");
+  blurb.className = "share-text";
+  blurb.textContent = post.share_text || "";
+  details.appendChild(blurb);
+  const note = document.createElement("p");
+  note.className = "sub";
+  note.textContent = copy.shareNote;
+  details.appendChild(note);
+  const row = document.createElement("div");
+  row.className = "share-links";
+  (post.shares || []).forEach((item) => {
+    if (!item || !item.href || !/^https:\/\//.test(item.href)) return;
+    const link = document.createElement("a");
+    link.href = item.href;
+    link.textContent = item.label;
+    link.rel = "noopener noreferrer";
+    link.target = "_blank";
+    row.appendChild(link);
+  });
+  const copyButton = document.createElement("button");
+  copyButton.type = "button";
+  copyButton.dataset.copy = "";
+  copyButton.dataset.done = copy.copied;
+  copyButton.textContent = copy.copy;
+  row.appendChild(copyButton);
+  const wechat = document.createElement("button");
+  wechat.type = "button";
+  wechat.dataset.wechat = "";
+  wechat.setAttribute("aria-expanded", "false");
+  wechat.textContent = copy.wechat;
+  row.appendChild(wechat);
+  details.appendChild(row);
+  const field = document.createElement("label");
+  field.className = "permalink-label";
+  const caption = document.createElement("span");
+  caption.className = "sub";
+  caption.textContent = copy.permalink;
+  const input = document.createElement("input");
+  input.className = "permalink";
+  input.readOnly = true;
+  input.value = post.permalink;
+  field.append(caption, input);
+  details.appendChild(field);
+  const panel = document.createElement("div");
+  panel.className = "qr-panel";
+  panel.hidden = true;
+  const canvas = document.createElement("canvas");
+  canvas.setAttribute("aria-label", copy.qrLabel);
+  const help = document.createElement("p");
+  help.className = "sub";
+  help.textContent = copy.wechatHelp;
+  panel.append(canvas, help);
+  details.appendChild(panel);
+  return details;
 }
 
 function badge(text, extra) {
@@ -345,6 +463,7 @@ function bind() {
       els.q.focus();
     }
   });
+  window.addEventListener("hashchange", () => paint({ scroll: true }));
 }
 
 async function main() {

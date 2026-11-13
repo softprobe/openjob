@@ -19,6 +19,7 @@ from validator.posts import (
     owner_of,
     validate_post,
 )
+from validator.share import render_share_comment
 
 BOT = "github-actions[bot]"
 
@@ -28,6 +29,7 @@ class Result:
     issues: list[Issue]
     notes: list[str]
     automerge: bool
+    share_comment: str | None = None
 
     def report(self) -> str:
         return render_report(title_failed=bool(self.issues), issues=self.issues, notes=self.notes)
@@ -175,6 +177,7 @@ def check_pr(*, head: Path, base: Path, author: str, today: date | None = None) 
         issues.append(scope_issue)
     notes: list[str] = []
     automerge = False
+    share_comment: str | None = None
     if not issues and bot_ready:
         automerge = True
         notes.append(
@@ -188,11 +191,18 @@ def check_pr(*, head: Path, base: Path, author: str, today: date | None = None) 
         )
     elif not issues:
         automerge = True
-        notes.append(
+        rel = _share_rel(post_added, post_modified, post_deleted)
+        meta = _meta(head_files.get(rel)) if rel else None
+        if rel and meta:
+            share_comment = render_share_comment(meta, rel)
+        note = (
             "Checks passed and the pull request touches one post. "
             "It can be squash-merged with the GitHub Actions token."
         )
-    return Result(issues=issues, notes=notes, automerge=automerge)
+        if share_comment:
+            note += " The merge comment includes the permalink and the share links."
+        notes.append(note)
+    return Result(issues=issues, notes=notes, automerge=automerge, share_comment=share_comment)
 
 
 def _bot_expiry(
@@ -249,6 +259,18 @@ def _single_submission(
             new_meta
         )
     return False
+
+
+def _share_rel(added: list[str], modified: list[str], deleted: list[str]) -> str | None:
+    """The post that should be shared after this pull request merges.
+
+    A pure deletion has nothing to share. A rename shares the new path.
+    """
+    if len(modified) == 1 and not added and not deleted:
+        return modified[0]
+    if len(added) == 1 and not modified:
+        return added[0]
+    return None
 
 
 def _same_family(left: object, right: object) -> bool:

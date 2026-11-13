@@ -23,8 +23,8 @@ jobs:
         with:
           python-version: "3.12"
       - run: pip install -r requirements.txt
-      - name: Build the search index
-        run: python -m validator build-index --root . --out site/index.json
+      - name: Build the search index and permalink pages
+        run: python -m validator build-index --root . --out site/index.json --pages site
       - uses: actions/upload-pages-artifact@v3
         with:
           path: site
