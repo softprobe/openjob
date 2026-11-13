@@ -1,6 +1,6 @@
 # OpenJob
 
-OpenJob is an open, privacy-first job board on GitHub where anyone posts jobs and resumes as Markdown pull requests, auto-validated and auto-merged, with no emails or phone numbers.
+OpenJob is an open, privacy-first job board on GitHub where anyone posts jobs and resumes as Markdown pull requests, auto-validated and auto-merged, with no phone numbers and no personal email except one company hiring address on a job.
 
 The live board is <https://softprobe.github.io/openjob/>.
 
@@ -18,7 +18,7 @@ One file, one pull request. Copy a template into a new post and leave `templates
 
 1. Copy [`templates/job.md`](templates/job.md).
 2. Create the file with [Add file in `jobs/`](https://github.com/softprobe/openjob/new/main/jobs). The file name field is already relative to `jobs/`. Enter `YYYY/MM/<company>-<role-slug>.md`. `YYYY/MM` is the month of `posted`. The filename is the `company` slug, a hyphen, and `role_slug`. Example: `2026/11/example-studio-open-source-maintainer.md`.
-3. Replace the placeholders: `title`, `company`, `company_name`, `role_slug`, `location`, `remote` (`true`, `false`, or `hybrid`), `languages`, `tags`, `apply` (an `https://` careers or application link), `posted` (`YYYY-MM-DD`), and `posted_by` (your GitHub login). Describe the work in the body. Do not add a phone number or an email address.
+3. Replace the placeholders: `title`, `company`, `company_name`, `role_slug`, `location`, `remote` (`true`, `false`, or `hybrid`), `languages`, `tags`, `apply` (an `https://` careers or application link, or `mailto:` for a hiring address on the company domain), `posted` (`YYYY-MM-DD`), and `posted_by` (your GitHub login). To keep the https link and also offer email, set `apply_email` to the `mailto:` address. Describe the work in the body. Do not add a phone number. Do not put an email in the body.
 4. Open a pull request that changes only this file. On that new-file page, commit and start a pull request. The edit stays in the browser.
 5. The validator runs on the pull request and auto-merges it if the file passes. Share `https://softprobe.github.io/openjob/p/jobs/YYYY/MM/<company>-<role-slug>/` with the share buttons on that page. The merge comment links the same URL.
 
@@ -36,7 +36,7 @@ To keep the full résumé in your own repository, copy [`templates/talent-ref.md
 
 1. Copy [`templates/company.md`](templates/company.md).
 2. Create the file with [Add file in `companies/`](https://github.com/softprobe/openjob/new/main/companies). The file name field is already relative to `companies/`. Enter `<first-letter>/<slug>.md`. The letter is the first character of `slug`. Example: `s/softprobe.md` is `companies/s/softprobe.md`.
-3. Fill in `slug`, `name`, `website`, `careers`, `location`, `tags`, `languages`, `posted`, and `posted_by` (your GitHub login). Use `https://` links. Do not put a recruiting phone number or a recruiting email on the page.
+3. Fill in `slug`, `name`, `website`, `careers`, `location`, `tags`, `languages`, `posted`, and `posted_by` (your GitHub login). Use `https://` links. Optional `logo` is an `https://` image URL; do not commit the file. Do not put a recruiting phone number or a recruiting email on the page. The hiring address belongs on the job.
 4. Open a pull request that changes only this file, entirely in the GitHub web UI. A job for that company is a different file and a different pull request.
 5. The validator runs and auto-merges the pull request if the file passes. Company pages stay until the owner deletes them. Share `https://softprobe.github.io/openjob/p/companies/<letter>/<slug>/` with the share buttons on that page.
 
@@ -75,7 +75,7 @@ That page is static HTML. Its title and description are Open Graph and Twitter c
 
 The page has share buttons for LinkedIn, X, Reddit, Hacker News, Facebook, Telegram, WhatsApp, and Weibo. They are ordinary share-intent links. There is no SDK and no third-party script. Copy link copies the permalink. WeChat has no share URL; the page draws a QR code of the permalink in the browser with the MIT library in `site/vendor/`.
 
-The prefilled text is the role, company, and location for a job, the headline for a talent profile, and the name and location for a company. It does not include an apply link, a profile URL, a phone number, or an email address. LinkedIn and Facebook take the permalink and read the title from the page. Hacker News uses the same text, shortened to 80 characters.
+The prefilled text is the role, company, and location for a job, the headline for a talent profile, and the name and location for a company. It does not include an apply link, a profile URL, a phone number, or an email address. A permalink may show an Apply by email button. That address is not part of the share text. LinkedIn and Facebook take the permalink and read the title from the page. Hacker News uses the same text, shortened to 80 characters.
 
 After auto-merge, the bot comments on the pull request with that permalink and the same links. The comment is part of `automerge.yml`, so it starts once that workflow is on `main`. The permalink itself goes live when the Pages workflow finishes.
 
@@ -152,7 +152,7 @@ Abuse reports and the takedown path are in [SECURITY.md](SECURITY.md). Conduct i
 
 [English](#openjob)
 
-OpenJob 是一个放在 GitHub 上的开放、隐私优先的职位板：谁都可以用 Markdown Pull Request 发布职位和简历，自动校验并自动合并，不留邮箱和电话。
+OpenJob 是一个放在 GitHub 上的开放、隐私优先的职位板：谁都可以用 Markdown Pull Request 发布职位和简历，自动校验并自动合并。不留电话。除了职位上一个公司域名的招聘邮箱，不留个人邮箱。
 
 在线看板：<https://softprobe.github.io/openjob/>。
 
@@ -166,7 +166,7 @@ OpenJob 是一个放在 GitHub 上的开放、隐私优先的职位板：谁都�
 
 1. 复制 [`templates/job.md`](templates/job.md)。
 2. 用 [在 `jobs/` 里新建文件](https://github.com/softprobe/openjob/new/main/jobs) 创建帖子。文件名输入框已经相对于 `jobs/`。填 `YYYY/MM/<company>-<role-slug>.md`。`YYYY/MM` 是 `posted` 的年月，文件名是 `company`、连字符和 `role_slug`。例如 `2026/11/example-studio-open-source-maintainer.md`。
-3. 替换占位符：`title`、`company`、`company_name`、`role_slug`、`location`、`remote`（`true`、`false` 或 `hybrid`）、`languages`、`tags`、`apply`（`https://` 招聘或申请链接）、`posted`（`YYYY-MM-DD`）、`posted_by`（你的 GitHub 登录名）。在正文里写工作内容。不要写电话或邮箱。
+3. 替换占位符：`title`、`company`、`company_name`、`role_slug`、`location`、`remote`（`true`、`false` 或 `hybrid`）、`languages`、`tags`、`apply`（`https://` 招聘或申请链接，或公司域名上的 `mailto:`）、`posted`（`YYYY-MM-DD`）、`posted_by`（你的 GitHub 登录名）。若要同时保留 https 链接，把 `mailto:` 写在 `apply_email`。在正文里写工作内容。不要写电话，也不要在正文里写邮箱。
 4. 打开一个只包含这个文件的 Pull Request。在新建文件的页面上提交并创建 Pull Request，编辑留在浏览器里完成。
 5. 校验会在 Pull Request 上运行，通过后自动合并。用页面上的分享按钮分享 `https://softprobe.github.io/openjob/p/jobs/YYYY/MM/<company>-<role-slug>/`。合并评论里也有这个链接。
 
@@ -184,7 +184,7 @@ OpenJob 是一个放在 GitHub 上的开放、隐私优先的职位板：谁都�
 
 1. 复制 [`templates/company.md`](templates/company.md)。
 2. 用 [在 `companies/` 里新建文件](https://github.com/softprobe/openjob/new/main/companies) 创建页面。文件名输入框已经相对于 `companies/`。填 `<首字母>/<slug>.md`。首字母是 `slug` 的第一个字符。例如 `s/softprobe.md`，完整路径是 `companies/s/softprobe.md`。
-3. 填好 `slug`、`name`、`website`、`careers`、`location`、`tags`、`languages`、`posted` 和 `posted_by`（你的 GitHub 登录名）。链接用 `https://`。不要写招聘电话或招聘邮箱。
+3. 填好 `slug`、`name`、`website`、`careers`、`location`、`tags`、`languages`、`posted` 和 `posted_by`（你的 GitHub 登录名）。链接用 `https://`。可选 `logo` 是仓库外的 https 图片地址，不要提交图片文件。不要写招聘电话或招聘邮箱。招聘邮箱写在职位帖上。
 4. 打开一个只包含这个文件的 Pull Request，全程在 GitHub 网页上完成。该公司的职位是另一个文件、另一个 Pull Request。
 5. 校验通过后自动合并。公司页会一直保留，直到所有者删除。用分享按钮分享 `https://softprobe.github.io/openjob/p/companies/<首字母>/<slug>/`。
 
