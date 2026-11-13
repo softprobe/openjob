@@ -25,6 +25,13 @@
       "maxLength": 300,
       "pattern": "^https://\\S+$"
     },
+    "mailtoUrl": {
+      "description": "A single hiring address. No display name, query string, or second recipient.",
+      "type": "string",
+      "minLength": 12,
+      "maxLength": 300,
+      "pattern": "^mailto:[A-Za-z0-9][A-Za-z0-9._%+-]{0,63}@[A-Za-z0-9](?:[A-Za-z0-9-]{0,62}[A-Za-z0-9])?(?:\\.[A-Za-z0-9](?:[A-Za-z0-9-]{0,62}[A-Za-z0-9])?)+$"
+    },
     "remote": {
       "oneOf": [
         { "type": "boolean" },

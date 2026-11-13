@@ -205,6 +205,20 @@ h2 a { text-decoration-thickness: 1px; text-underline-offset: 3px; }
   text-transform: uppercase;
 }
 
+.logo {
+  width: 48px;
+  height: 48px;
+  object-fit: contain;
+  flex: none;
+  background: transparent;
+}
+
+.identity {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
 .links { display: flex; flex-wrap: wrap; gap: 14px; margin-top: 8px; }
 
 footer { margin-top: 28px; color: var(--muted); }

@@ -28,7 +28,21 @@
     "remote": { "$ref": "https://github.com/softprobe/openjob/schema/common.json#/$defs/remote" },
     "languages": { "$ref": "https://github.com/softprobe/openjob/schema/common.json#/$defs/languages" },
     "tags": { "$ref": "https://github.com/softprobe/openjob/schema/common.json#/$defs/tags" },
-    "apply": { "$ref": "https://github.com/softprobe/openjob/schema/common.json#/$defs/httpsUrl" },
+    "apply": {
+      "description": "An https application link, or mailto: for one hiring address on the company website's domain.",
+      "oneOf": [
+        { "$ref": "https://github.com/softprobe/openjob/schema/common.json#/$defs/httpsUrl" },
+        { "$ref": "https://github.com/softprobe/openjob/schema/common.json#/$defs/mailtoUrl" }
+      ]
+    },
+    "apply_email": {
+      "description": "Optional mailto: hiring address on the company website's domain, used when apply is an https link.",
+      "$ref": "https://github.com/softprobe/openjob/schema/common.json#/$defs/mailtoUrl"
+    },
+    "website": {
+      "description": "Company site used to check a hiring address when this job has no company page.",
+      "$ref": "https://github.com/softprobe/openjob/schema/common.json#/$defs/httpsUrl"
+    },
     "posted": { "$ref": "https://github.com/softprobe/openjob/schema/common.json#/$defs/date" },
     "posted_by": { "$ref": "https://github.com/softprobe/openjob/schema/common.json#/$defs/github" },
     "expires": { "$ref": "https://github.com/softprobe/openjob/schema/common.json#/$defs/date" },

@@ -18,10 +18,12 @@ class Issue:
 
 FIX = {
     "privacy-email": (
-        "Delete the address. Contact belongs in a LinkedIn URL, a GitHub profile, "
-        "a personal site, or a company careers/apply link. The check looks through "
-        "`name [at] domain [dot] com`, fullwidth characters, HTML entities, and "
-        "`%40` encoding."
+        "Delete the address. A job may keep one hiring address in `apply` "
+        "(`mailto:jobs@company.example`) or `apply_email` when its domain matches "
+        "the company website. Talent posts cannot include an email. Anywhere else, "
+        "use a LinkedIn URL, a GitHub profile, a personal site, or a company "
+        "careers/apply link. The check looks through `name [at] domain [dot] com`, "
+        "fullwidth characters, HTML entities, and `%40` encoding."
     ),
     "privacy-phone": (
         "Delete the number, including `+86` mobiles, numbers split by spaces or dashes, "
@@ -76,7 +78,8 @@ def render_report(*, title_failed: bool, issues: list[Issue], notes: list[str]) 
         lines.append("")
         lines.append(
             "Nothing was merged. Fix every item, push to this branch, and the check will run again. "
-            "Contact details do not belong in the repo: use a LinkedIn URL, GitHub profile, personal site, "
+            "Phone numbers are never allowed. A job may include one hiring address when its domain "
+            "matches the company website. Otherwise use a LinkedIn URL, GitHub profile, personal site, "
             "or a company careers/apply link."
         )
         lines.append("")

@@ -24,7 +24,7 @@ Examples of unacceptable behavior include:
 - Publishing others' private information, such as a physical or email address, without their explicit permission
 - Other conduct which could reasonably be considered inappropriate in a professional setting
 
-Publishing your own phone number or personal email in a post is also out of bounds here. Contact details in this project are links: LinkedIn, GitHub, a personal site, or a company careers page. See `SECURITY.md`.
+Publishing your own phone number or personal email in a post is also out of bounds here. A job may list one company hiring address in `apply` or `apply_email` when the domain matches the company website. Talent posts cannot include an email. Other contact details in this project are links: LinkedIn, GitHub, a personal site, or a company careers page. See `SECURITY.md`.
 
 ## Enforcement Responsibilities
 

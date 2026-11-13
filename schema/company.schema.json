@@ -10,6 +10,10 @@
     "slug": { "$ref": "https://github.com/softprobe/openjob/schema/common.json#/$defs/slug" },
     "name": { "type": "string", "minLength": 1, "maxLength": 80 },
     "website": { "$ref": "https://github.com/softprobe/openjob/schema/common.json#/$defs/httpsUrl" },
+    "logo": {
+      "description": "HTTPS URL of a logo hosted outside this repository. Do not commit the image.",
+      "$ref": "https://github.com/softprobe/openjob/schema/common.json#/$defs/httpsUrl"
+    },
     "careers": { "$ref": "https://github.com/softprobe/openjob/schema/common.json#/$defs/httpsUrl" },
     "location": { "type": "string", "minLength": 1, "maxLength": 80 },
     "remote": { "$ref": "https://github.com/softprobe/openjob/schema/common.json#/$defs/remote" },

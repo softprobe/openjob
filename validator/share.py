@@ -3,7 +3,8 @@
 The prefilled text is the listing, not a way to reach the person. Jobs use the
 role, company, and location. Talent uses the headline. Companies use the name
 and location. Apply links, profile URLs, phone numbers, and email addresses
-are left out, including the documentation allow-list the post checker ignores.
+are left out, including a job's hiring address and the documentation allow-list
+the post checker ignores. The page may still render an Apply by email button.
 """
 
 from __future__ import annotations
@@ -20,6 +21,10 @@ GENERIC = "OpenJob"
 HN_TITLE_LIMIT = 80
 
 _URL = re.compile(r"(?i)\b(?:https?://|mailto:|tel:)\S+")
+_MAILTO_HREF = re.compile(
+    r"(?i)^mailto:[A-Za-z0-9][A-Za-z0-9._%+-]{0,63}@[A-Za-z0-9]"
+    r"(?:[A-Za-z0-9-]{0,62}[A-Za-z0-9])?(?:\.[A-Za-z0-9](?:[A-Za-z0-9-]{0,62}[A-Za-z0-9])?)+$"
+)
 _PLATFORMS = (
     ("linkedin", "LinkedIn"),
     ("x", "X"),
@@ -162,6 +167,7 @@ def render_post_page(post: Mapping[str, object], body: str) -> str:
     badges = _badges(post)
     tags = _tags(post.get("tags") or [])
     actions = _actions(post)
+    logo = _logo_html(post)
     share_anchors = "\n".join(
         f'<a href="{e(item["href"], quote=True)}" rel="noopener noreferrer" target="_blank">{e(item["label"])}</a>'
         for item in post.get("shares") or []
@@ -190,10 +196,13 @@ def render_post_page(post: Mapping[str, object], body: str) -> str:
   <a class="skip" href="#share">Skip to share</a>
   <div class="wrap">
     <header class="mast">
-      <div>
-        <p class="kicker">{e(_KIND_LABEL.get(kind, kind))}</p>
-        <h1>{e(title)}</h1>
-        <p class="deck">{e(deck)}</p>
+      <div class="identity">
+        {logo}
+        <div>
+          <p class="kicker">{e(_KIND_LABEL.get(kind, kind))}</p>
+          <h1>{e(title)}</h1>
+          <p class="deck">{e(deck)}</p>
+        </div>
       </div>
       <div class="mast-side">
         <a href="{prefix}index.html">OpenJob</a>
@@ -207,7 +216,7 @@ def render_post_page(post: Mapping[str, object], body: str) -> str:
       <section class="share" id="share" data-permalink="{e(url, quote=True)}" data-share-text="{e(text, quote=True)}">
         <h2>Share · 分享</h2>
         <p class="share-text">{e(text)}</p>
-        <p class="sub">The buttons send this text and the permalink. They do not send an apply link, a phone number, or an email address. 按钮只发送这段文字和本页链接，不含申请链接、电话或邮箱。</p>
+        <p class="sub">The buttons send this text and the permalink. They do not send an apply link, a phone number, or an email address. An Apply by email button on this page is not part of this text. 按钮只发送这段文字和本页链接，不含申请链接、电话或邮箱。页面上的「邮件申请」按钮不在这段文字里。</p>
         <div class="share-links">
           {share_anchors}
           <button type="button" data-copy data-done="Copied">Copy link</button>
@@ -224,7 +233,7 @@ def render_post_page(post: Mapping[str, object], body: str) -> str:
       </section>
     </article>
     <footer>
-      <p>Contact is a link, not a phone number or an email address. Posts are CC BY 4.0. Code is MIT.</p>
+      <p>Phone numbers are not allowed. A job may show Apply by email when the address is on the company domain. Share text never includes a phone number or an email. Posts are CC BY 4.0. Code is MIT.</p>
     </footer>
   </div>
   <script src="{prefix}vendor/qrcode.js"></script>
@@ -321,24 +330,45 @@ def _tags(tags: object) -> str:
 
 def _actions(post: Mapping[str, object]) -> str:
     kind = str(post.get("kind") or "")
-    if kind == "job":
-        label = "Apply · 申请"
-    elif kind == "company":
-        label = "Website · 网站"
-    else:
-        label = "Profile · 档案"
     links: list[str] = []
-    outbound = _https(post.get("url"))
+    if kind == "job":
+        https_apply = _https(post.get("apply"))
+        mailto = _mailto(post.get("apply_email"))
+        if https_apply:
+            links.append(
+                f'<a href="{html.escape(https_apply, quote=True)}" rel="noopener noreferrer">Apply · 申请</a>'
+            )
+        if mailto:
+            links.append(
+                f'<a href="{html.escape(mailto, quote=True)}" rel="nofollow noopener noreferrer">Apply by email · 邮件申请</a>'
+            )
+    else:
+        if kind == "company":
+            label = "Website · 网站"
+        else:
+            label = "Profile · 档案"
+        outbound = _https(post.get("url"))
+        if outbound:
+            links.append(
+                f'<a href="{html.escape(outbound, quote=True)}" rel="noopener noreferrer">{label}</a>'
+            )
     source = _https(post.get("source_url"))
-    if outbound:
-        links.append(
-            f'<a href="{html.escape(outbound, quote=True)}" rel="noopener noreferrer">{label}</a>'
-        )
     if source:
         links.append(
             f'<a href="{html.escape(source, quote=True)}" rel="noopener noreferrer">Source · 源文件</a>'
         )
     return "".join(links)
+
+
+def _logo_html(post: Mapping[str, object]) -> str:
+    if post.get("kind") != "company":
+        return ""
+    url = _https(post.get("logo"))
+    if not url:
+        return ""
+    alt = html.escape(str(post.get("title") or "Company"), quote=True)
+    src = html.escape(url, quote=True)
+    return f'<img class="logo" src="{src}" alt="{alt}" referrerpolicy="no-referrer">'
 
 
 def _dates(post: Mapping[str, object]) -> str:
@@ -351,5 +381,11 @@ def _dates(post: Mapping[str, object]) -> str:
 
 def _https(url: object) -> str | None:
     if isinstance(url, str) and url.startswith("https://") and not any(char.isspace() for char in url):
+        return url
+    return None
+
+
+def _mailto(url: object) -> str | None:
+    if isinstance(url, str) and _MAILTO_HREF.fullmatch(url):
         return url
     return None

@@ -6,9 +6,18 @@ English is the normative set of rules. A short Chinese walkthrough is at the bot
 
 ## Privacy
 
-Do not publish a phone number or a personal email address. Not in the post, not in the pull request body, not in an issue.
+Do not publish a phone number. Do not publish a personal email address. Not in the post, not in the pull request body, not in an issue.
 
-Use one of these instead:
+Talent posts cannot contain an email at all. A job may contain one employer hiring address, and only in `apply` or `apply_email`:
+
+- `apply: mailto:jobs@company.example` when that is the only application method
+- `apply_email: mailto:jobs@company.example` when `apply` is an `https://` careers or application link
+
+The domain has to match the company website. A leading `www.` on the website host is ignored, and a subdomain of that host matches. The company page's `website` is the source when `companies/<letter>/<company>.md` exists. Otherwise the job's own `website` is the source. `hr@gmail.com` does not match `softprobe.ai`. The same address copied into the job body is still rejected. Phone numbers are rejected even when the hiring address is allowed.
+
+The site may render that address as an Apply by email button. Share text does not include it.
+
+Use one of these for every other contact:
 
 - a LinkedIn profile URL (`https://www.linkedin.com/in/…`)
 - the GitHub profile implied by your login
@@ -17,21 +26,21 @@ Use one of these instead:
 
 The checker rejects addresses that use `@`, and disguises such as `name [at] domain [dot] com`, `(at)` / `(dot)`, fullwidth `＠` and `．`, HTML entities, and `%40`. It rejects phone numbers in international form, Chinese mobiles (including `+86` and numbers written with Chinese numerals such as `一三八…`), landlines written with a separator, and `tel:` links.
 
-It allows only two narrow cases, so the docs and tests can talk about the format:
+It allows only two narrow cases besides that one hiring address, so the docs and tests can talk about the format:
 
 - email domains `example.com`, `example.org`, `example.net`, and `example.edu`
 - fictional NANP numbers whose exchange is `555` and whose line starts with `01`, such as `(415) 555-0100`, when they are formatted as phone numbers
 
 A bare number such as `13800138000` is rejected. People paste it as a placeholder, and it looks like a real mobile.
 
-There is no `email` or `phone` field. `additionalProperties` is false. WeChat IDs, WhatsApp links, and Telegram handles are not allowed contact channels either. The checker may miss a handle that is not a phone number; maintainers remove those on report.
+There is no `phone` field, and no general `email` field. `additionalProperties` is false. WeChat IDs, WhatsApp links, and Telegram handles are not allowed contact channels either. The checker may miss a handle that is not a phone number; maintainers remove those on report.
 
 ## Post a job
 
 1. Copy `templates/job.md`.
 2. Save it as `jobs/YYYY/MM/<company>-<role-slug>.md`. `YYYY/MM` is the `posted` month. Example: `jobs/2026/11/example-studio-open-source-maintainer.md`.
 3. Set `posted_by` to your GitHub login. That login has to be the pull request author.
-4. Set `apply` to an `https://` careers or application link. No shorteners (`bit.ly`, `t.co`, `t.cn`, `lnkd.in`, and similar).
+4. Set `apply` to an `https://` careers or application link, or to `mailto:jobs@company.example` for a hiring address on the company domain. To keep the https link and also offer email, leave `apply` as the https link and set `apply_email` to the `mailto:` address. No shorteners (`bit.ly`, `t.co`, `t.cn`, `lnkd.in`, and similar).
 5. Open a pull request that changes only post files. Another post may be in the same pull request.
 
 `remote` is `true`, `false`, or `hybrid`. `languages` use the codes in the schema (`en`, `zh`, `ja`, `ko`, `es`, `fr`, `de`, `pt`, `ru`). Tags are lowercase slugs. Quote YAML values that are `yes`, `no`, `on`, or `off`.
@@ -49,6 +58,8 @@ Save `templates/talent.md` as `talents/<first-letter>/<github-username>.md`, low
 ## Post a company
 
 Save `templates/company.md` as `companies/<first-letter>/<slug>.md`. Company pages do not expire. The account in `posted_by` owns later edits. A job for that company is a separate file. Both files may be in one pull request when you own each of them.
+
+An optional `logo` is an `https://` URL of an image already hosted somewhere else. Do not commit the image. The board and the permalink page render it. Share text does not include the URL. A company page still cannot contain an email address. The hiring address belongs on the job.
 
 ## Federation
 
@@ -128,7 +139,7 @@ The Pages workflow writes that HTML file when it builds the site. The board hash
 | Talent and talent-ref | headline |
 | Company | name and location |
 
-The text is built only from those fields. `apply`, `website`, `linkedin`, `careers`, `profile_url`, phone numbers, and email addresses are not copied into it, including `example.com` addresses and fictional `555-01xx` numbers. If one of those fields itself contains a phone number or an email address, the share text is replaced with `OpenJob` and the permalink is still shared.
+The text is built only from those fields. `apply`, `apply_email`, `website`, `logo`, `linkedin`, `careers`, `profile_url`, phone numbers, and email addresses are not copied into it, including `example.com` addresses, a matching hiring address, and fictional `555-01xx` numbers. If one of those fields itself contains a phone number or an email address, the share text is replaced with `OpenJob` and the permalink is still shared. The permalink page may show an Apply by email button. That button is not part of the share text.
 
 LinkedIn and Facebook do not accept a prefilled body. Their buttons open the network's share page with the permalink, and the card uses the page title and description. Hacker News receives the same text, cut at 80 characters. Copy link copies the permalink. WeChat has no public share URL. The QR code on the page is the permalink, drawn by `site/vendor/qrcode.js` in the browser.
 
@@ -146,10 +157,10 @@ python -m validator expire --root . --today 2026-11-13
 
 ## 中文步骤
 
-1. 不要写电话或个人邮箱，包括 `名字 [at] 域名 [dot] com`、全角 `＠`、以及 `一三八……` 这种中文数字。联系方式只用 LinkedIn、GitHub、个人网站，或公司的招聘/申请链接。
+1. 不要写电话。人才帖不能写邮箱。职位只能在 `apply` 或 `apply_email` 里写一个 `mailto:jobs@公司域名`，域名必须和公司网站一致（公司页存在时以公司页的 `website` 为准，忽略 `www.`）。正文里的邮箱会被拒绝。其他联系方式只用 LinkedIn、GitHub、个人网站，或公司的招聘/申请链接。`名字 [at] 域名 [dot] com`、全角 `＠`、以及 `一三八……` 这种中文数字同样会被拒绝。
 2. 职位文件放在 `jobs/年/月/公司-职位.md`，`posted_by` 必须是你的 GitHub 用户名。默认 60 天后过期。
 3. 人才档案放在 `talents/首字母/用户名.md`，`github` 必须是你自己。默认 180 天。也可以在自己的 `openjob-profile` 仓库放全文，这里只提交 `kind: talent-ref` 的索引。
 4. 公司页放在 `companies/首字母/slug.md`，不过期。
 5. 一个 Pull Request 可以改多篇帖子，但每个文件都要在 `jobs/`、`talents/` 或 `companies/` 里。检查通过后会 squash 合并。改工作流或文档需要 Softprobe 团队批准。
 6. 续期时不要改 `posted`，把 `renewed` 设成提交当天。过期文件会从目录删除，Git 历史就是归档，需要时从历史恢复再续期。
-7. 合并后的永久链接是 `https://softprobe.github.io/openjob/p/` 加上去掉 `.md` 的路径。分享文案只有职位、公司和地点，或 headline，或公司名和地点，不含电话、邮箱和申请链接。自动合并的评论里会带上每一篇新增或修改的帖子的分享链接。
+7. 合并后的永久链接是 `https://softprobe.github.io/openjob/p/` 加上去掉 `.md` 的路径。分享文案只有职位、公司和地点，或 headline，或公司名和地点，不含电话、邮箱和申请链接。页面可以显示「邮件申请」按钮，那个地址不在分享文案里。自动合并的评论里会带上每一篇新增或修改的帖子的分享链接。

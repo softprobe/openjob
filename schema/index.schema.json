@@ -39,6 +39,8 @@
         "website",
         "linkedin",
         "apply",
+        "apply_email",
+        "logo",
         "careers",
         "open_to",
         "compensation",
@@ -72,6 +74,18 @@
         "website": { "type": ["string", "null"] },
         "linkedin": { "type": ["string", "null"] },
         "apply": { "type": ["string", "null"] },
+        "apply_email": {
+          "anyOf": [
+            { "type": "null" },
+            { "type": "string", "minLength": 12, "maxLength": 300, "pattern": "^mailto:\\S+$" }
+          ]
+        },
+        "logo": {
+          "anyOf": [
+            { "type": "null" },
+            { "type": "string", "minLength": 12, "maxLength": 300, "pattern": "^https://\\S+$" }
+          ]
+        },
         "careers": { "type": ["string", "null"] },
         "open_to": { "type": "array", "items": { "type": "string" } },
         "compensation": { "type": "string" },
