@@ -118,7 +118,7 @@ The expiry workflow opens its own pull request as `github-actions[bot]`. Pull re
 
 The permalink of a merged post is:
 
-`https://zwobill.github.io/openjob/p/` plus the file path without `.md`, with a trailing slash.
+`https://softprobe.github.io/openjob/p/` plus the file path without `.md`, with a trailing slash.
 
 The Pages workflow writes that HTML file when it builds the site. The board hash `#` plus the same path (no `.md`) scrolls to the entry. Share buttons and unfurls use the permalink, because that page carries the Open Graph and Twitter card tags.
 
@@ -152,4 +152,4 @@ python -m validator expire --root . --today 2026-11-13
 4. 公司页放在 `companies/首字母/slug.md`，不过期。
 5. 一个 Pull Request 只改一篇帖子。检查通过后会 squash 合并。改工作流或文档需要维护者合并。
 6. 续期时不要改 `posted`，把 `renewed` 设成提交当天。过期文件会从目录删除，Git 历史就是归档，需要时从历史恢复再续期。
-7. 合并后的永久链接是 `https://zwobill.github.io/openjob/p/` 加上去掉 `.md` 的路径。分享文案只有职位、公司和地点，或 headline，或公司名和地点，不含电话、邮箱和申请链接。自动合并的评论里会带上这些分享链接。
+7. 合并后的永久链接是 `https://softprobe.github.io/openjob/p/` 加上去掉 `.md` 的路径。分享文案只有职位、公司和地点，或 headline，或公司名和地点，不含电话、邮箱和申请链接。自动合并的评论里会带上这些分享链接。

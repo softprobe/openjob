@@ -7,8 +7,9 @@ MAX_LINKS = 12
 MIN_BODY_CHARS = 40
 NEW_POST_MAX_AGE_DAYS = 45
 FUTURE_SKEW_DAYS = 2
-REPO = "zwobill/openjob"
-REPO_OWNER = "zwobill"
+# GitHub account that owns this repository. The maintainer is still @zwobill.
+REPO = "softprobe/openjob"
+REPO_OWNER = "softprobe"
 
 # These two files exist so the tests can prove binaries are rejected.
 # Any other binary in a pull request still fails.

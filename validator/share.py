@@ -15,7 +15,7 @@ from urllib.parse import quote, urlencode
 
 from validator.privacy import has_contact_pattern
 
-PAGES_ORIGIN = "https://zwobill.github.io/openjob"
+PAGES_ORIGIN = "https://softprobe.github.io/openjob"
 GENERIC = "OpenJob"
 HN_TITLE_LIMIT = 80
 

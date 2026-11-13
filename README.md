@@ -1,6 +1,6 @@
 # OpenJob
 
-[![Validate](https://github.com/zwobill/openjob/actions/workflows/validate.yml/badge.svg)](https://github.com/zwobill/openjob/actions/workflows/validate.yml)
+[![Validate](https://github.com/softprobe/openjob/actions/workflows/validate.yml/badge.svg)](https://github.com/softprobe/openjob/actions/workflows/validate.yml)
 
 An open, GitHub-native job board. Anyone can post a job or a talent profile by opening a pull request. The board is the repository. Search is a static page. There is no account system and no inbox.
 
@@ -8,7 +8,7 @@ This is a public alternative to LinkedIn and BOSS直聘 for people who want the 
 
 **Privacy first.** Do not publish a phone number or a personal email address. Not in a post, not in a pull request, and not in an issue. Contact goes through a LinkedIn URL, a GitHub profile, a personal site, or a company careers/apply link. The checker rejects ordinary addresses and common disguises (`name [at] domain`, fullwidth characters, HTML entities, `%40`, `+86` mobiles, and Chinese numerals). See [Contributing](CONTRIBUTING.md#privacy).
 
-Browse the board at <https://zwobill.github.io/openjob/> after GitHub Pages is enabled. Until then, read the files under `jobs/`, `talents/`, and `companies/`.
+Browse the board at <https://softprobe.github.io/openjob/> after GitHub Pages is enabled. Until then, read the files under `jobs/`, `talents/`, and `companies/`.
 
 The three files there today are samples (`example: true`). They are not a real opening, a real résumé, or a real company.
 
@@ -31,9 +31,9 @@ Full steps, the federation layout, and the renewal rules are in [CONTRIBUTING.md
 
 Each job, talent profile, and company page has a permalink:
 
-`https://zwobill.github.io/openjob/p/<path-without-.md>/`
+`https://softprobe.github.io/openjob/p/<path-without-.md>/`
 
-Example: `https://zwobill.github.io/openjob/p/jobs/2026/11/example-studio-open-source-maintainer/`
+Example: `https://softprobe.github.io/openjob/p/jobs/2026/11/example-studio-open-source-maintainer/`
 
 That page is static HTML. Its title and description are Open Graph and Twitter card tags, so a link unfurls as the public listing. The board also opens the same entry at `#<path-without-.md>`, for example `#jobs/2026/11/example-studio-open-source-maintainer`.
 
@@ -78,7 +78,7 @@ The workflows cannot flip these switches.
    - Require the status check `validate`. After `automerge.yml` has run once, also require `trusted-validate`.
    - Leave required approving reviews **off**, and leave "Require review from Code Owners" **off**. Otherwise a valid post waits forever. `CODEOWNERS` still names `@zwobill` for maintainer changes.
    - Pull requests opened by `GITHUB_TOKEN` do not trigger other workflows. The expiry pull request will sit without `validate`. Merge it yourself, or let the GitHub Actions bot bypass the rule.
-5. **Settings → Pages → Build and deployment → Source:** GitHub Actions. The site URL is `https://zwobill.github.io/openjob/`. Until this is on, the Pages workflow builds the site and then `deploy-pages` fails with HTTP 404, “Ensure GitHub Pages has been enabled.”
+5. **Settings → Pages → Build and deployment → Source:** GitHub Actions. The site URL is `https://softprobe.github.io/openjob/`. Until this is on, the Pages workflow builds the site and then `deploy-pages` fails with HTTP 404, “Ensure GitHub Pages has been enabled.”
 6. Optional: set the repository description, the homepage URL above, and topics such as `jobs`, `hiring`, and `privacy`.
 
 GitHub also asks a maintainer to approve Actions the first time a new fork contributor opens a pull request. That click is manual.
@@ -129,8 +129,8 @@ OpenJob 是一个放在 GitHub 里的公开职位板。谁都可以用 Pull Requ
 
 过期帖子从目录中删除。**Git 历史就是归档。** 想恢复时，从删除那次提交里取出文件，把 `renewed` 设为新的日期，再开一个 Pull Request。不要修改原来的 `posted`。
 
-启用 GitHub Pages 之后，搜索页在 <https://zwobill.github.io/openjob/>。页面上可以按职位、地点、远程、标签和语言筛选。当前三篇是示例，不是真实招聘或简历。
+启用 GitHub Pages 之后，搜索页在 <https://softprobe.github.io/openjob/>。页面上可以按职位、地点、远程、标签和语言筛选。当前三篇是示例，不是真实招聘或简历。
 
-每篇帖子有一个永久链接：`https://zwobill.github.io/openjob/p/<去掉.md的路径>/`。页面带分享按钮（LinkedIn、X、Reddit、Hacker News、Facebook、Telegram、WhatsApp、微博）和复制链接。微信没有分享链接，页面在浏览器里把永久链接画成二维码。分享文案只包含职位、公司和地点，或人才的 headline，或公司名和地点，不含申请链接、电话或邮箱。自动合并后，机器人会在 Pull Request 里留下这些链接。
+每篇帖子有一个永久链接：`https://softprobe.github.io/openjob/p/<去掉.md的路径>/`。页面带分享按钮（LinkedIn、X、Reddit、Hacker News、Facebook、Telegram、WhatsApp、微博）和复制链接。微信没有分享链接，页面在浏览器里把永久链接画成二维码。分享文案只包含职位、公司和地点，或人才的 headline，或公司名和地点，不含申请链接、电话或邮箱。自动合并后，机器人会在 Pull Request 里留下这些链接。
 
 代码用 MIT，帖子用 CC BY 4.0。举报和删除流程在 [SECURITY.md](SECURITY.md)。

@@ -7,7 +7,7 @@ body:
     attributes:
       label: Link to the post
       description: A GitHub URL of the file, or the path in this repository.
-      placeholder: https://github.com/zwobill/openjob/blob/main/jobs/2026/11/example.md
+      placeholder: https://github.com/softprobe/openjob/blob/main/jobs/2026/11/example.md
     validations:
       required: true
   - type: dropdown
