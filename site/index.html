@@ -4,7 +4,23 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>OpenJob — jobs and talent as pull requests</title>
-  <meta name="description" content="An open, GitHub-native job board. Post a job or a talent profile with a pull request. No phone numbers. A job may show Apply by email when the address is on the company domain.">
+  <meta name="description" content="OpenJob is a job board that lives in a Git repository: you post a role or a profile with a pull request, people find it on a static page, and the file expires unless someone renews it.">
+  <link rel="canonical" href="https://softprobe.github.io/openjob/">
+  <link rel="alternate" type="application/rss+xml" title="OpenJob" href="feed.xml">
+  <link rel="alternate" type="application/rss+xml" title="OpenJob jobs" href="jobs.xml">
+  <link rel="alternate" type="application/atom+xml" title="OpenJob" href="atom.xml">
+  <link rel="alternate" type="application/atom+xml" title="OpenJob jobs" href="jobs.atom">
+  <link rel="alternate" type="application/feed+json" title="OpenJob" href="feed.json">
+  <link rel="describedby" href="llms.txt">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="OpenJob">
+  <meta property="og:title" content="OpenJob — jobs and talent as pull requests">
+  <meta property="og:description" content="OpenJob is a job board that lives in a Git repository: you post a role or a profile with a pull request, people find it on a static page, and the file expires unless someone renews it.">
+  <meta property="og:url" content="https://softprobe.github.io/openjob/">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="OpenJob — jobs and talent as pull requests">
+  <meta name="twitter:description" content="OpenJob is a job board that lives in a Git repository: you post a role or a profile with a pull request, people find it on a static page, and the file expires unless someone renews it.">
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","name":"OpenJob","url":"https://softprobe.github.io/openjob/","description":"OpenJob is a job board that lives in a Git repository: you post a role or a profile with a pull request, people find it on a static page, and the file expires unless someone renews it.","publisher":{"@type":"Organization","name":"OpenJob","url":"https://softprobe.github.io/openjob/","sameAs":"https://github.com/softprobe/openjob"}}</script>
   <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' fill='%23f3efe4'/%3E%3Crect x='4' y='4' width='24' height='24' fill='none' stroke='%23b42318' stroke-width='2'/%3E%3C/svg%3E">
   <link rel="stylesheet" href="style.css">
 </head>
@@ -62,13 +78,16 @@
     </form>
 
     <p id="count" class="count" aria-live="polite"></p>
-    <div id="results"></div>
+    <div id="results">
+      <!-- openjob:posts -->
+    </div>
     <noscript>
-      <p>This page searches in the browser. Enable JavaScript, or read the posts in the repository.</p>
-      <p>页面在浏览器里搜索。请启用 JavaScript，或直接阅读仓库里的帖子。</p>
+      <p>Search runs in the browser. The list above is the full board and does not need JavaScript.</p>
+      <p>搜索在浏览器里进行。上面的列表是完整看板，不需要 JavaScript。</p>
     </noscript>
     <footer>
-      <p id="footer-note"></p>
+      <p id="footer-note">Phone numbers are not allowed. A job may show Apply by email when the address is on the company domain. Share text never includes a phone number or an email. Posts are CC BY 4.0. Code is MIT.</p>
+      <p><a href="about/">About</a> · <a href="https://github.com/softprobe/openjob">Source</a> · <a href="feed.xml">Feed</a></p>
     </footer>
   </div>
   <script src="vendor/qrcode.js"></script>

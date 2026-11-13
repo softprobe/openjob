@@ -238,15 +238,18 @@ function targetPath() {
 }
 
 function paint(options = {}) {
-  els.results.replaceChildren();
   if (loadError) {
     els.count.textContent = "";
-    const note = document.createElement("p");
-    note.className = "empty";
-    note.textContent = t().missing;
-    els.results.appendChild(note);
+    if (!document.getElementById("post-list")) {
+      els.results.replaceChildren();
+      const note = document.createElement("p");
+      note.className = "empty";
+      note.textContent = t().missing;
+      els.results.appendChild(note);
+    }
     return;
   }
+  els.results.replaceChildren();
   const target = targetPath();
   let visible = posts.filter(matches).slice(0, 200);
   if (target) {

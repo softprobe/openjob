@@ -2,7 +2,6 @@
 
 from __future__ import annotations
 
-import re
 import shutil
 from datetime import date, datetime, timezone
 from pathlib import Path
@@ -20,7 +19,10 @@ from validator.posts import (
     job_contact_links,
     load_post,
     validate_tree,
+    _company_page_path,
 )
+from validator.prose import excerpt as prose_excerpt
+from validator.publish import write_discovery
 from validator.share import permalink, render_post_page, share_links, share_text
 
 
@@ -72,8 +74,18 @@ def write_pages(root: Path, site_dir: Path, document: dict) -> int:
         _meta, body = load_post(path)
         dest = site_dir / "p" / rel[:-3] / "index.html"
         dest.parent.mkdir(parents=True, exist_ok=True)
-        dest.write_text(render_post_page(post, body), encoding="utf-8")
+        view = dict(post)
+        if post.get("kind") == "company":
+            view["open_jobs"] = [
+                item
+                for item in document["posts"]
+                if item.get("kind") == "job" and item.get("company_permalink") == post.get("permalink")
+            ]
+        dest.write_text(render_post_page(view, body), encoding="utf-8")
+        md = dest.parent / "index.md"
+        md.write_text(path.read_text(encoding="utf-8"), encoding="utf-8")
         count += 1
+    write_discovery(site_dir, document)
     return count
 
 
@@ -133,7 +145,9 @@ def _project(rel: str, meta: dict, body: str, *, root: Path) -> dict:
         "careers": meta.get("careers"),
         "open_to": list(meta.get("open_to") or []),
         "compensation": meta.get("compensation") or "",
-        "excerpt": _excerpt(body),
+        "excerpt": prose_excerpt(body),
+        "org_website": _org_website(kind, meta, root),
+        "company_permalink": _company_permalink(kind, meta, root),
         "permalink": page,
         "share_text": blurb,
         "shares": share_links(blurb, page),
@@ -165,14 +179,21 @@ def _remote(value: object) -> str:
     return "unspecified"
 
 
-def _excerpt(body: str, limit: int = 240) -> str:
-    text = re.sub(r"```.*?```", " ", body, flags=re.DOTALL)
-    text = re.sub(r"[#>*_`\[\]]", " ", text)
-    text = re.sub(r"\([^)]*\)", " ", text)
-    text = re.sub(r"\s+", " ", text).strip()
-    if len(text) <= limit:
-        return text
-    return text[: limit - 1].rstrip() + "…"
+def _org_website(kind: str, meta: dict, root: Path) -> str | None:
+    if kind == "job":
+        return company_website(root, meta)
+    if kind == "company":
+        return _https_url(meta.get("website"))
+    return None
+
+
+def _company_permalink(kind: str, meta: dict, root: Path) -> str | None:
+    if kind != "job":
+        return None
+    page = _company_page_path(root, meta.get("company"))
+    if page is None:
+        return None
+    return permalink(page.relative_to(root).as_posix())
 
 
 def _validate_index(document: dict) -> None:

@@ -78,13 +78,13 @@ def share_text(meta: Mapping[str, object]) -> str:
 
 
 def card_description(excerpt: str) -> str:
-    """Open Graph description. URLs and contact shapes are removed."""
-    text = _clean(excerpt)
+    """Open Graph description. Emails are removed. URLs become their host."""
+    from validator.prose import clean_prose, truncate_words
+
+    text = clean_prose(excerpt)
     if len(text) < 20 or has_contact_pattern(text):
         return "A public post on OpenJob."
-    if len(text) > 200:
-        return text[:199].rstrip() + "…"
-    return text
+    return truncate_words(text, 200)
 
 
 def share_links(text: str, url: str) -> list[dict[str, str]]:
@@ -174,7 +174,14 @@ def render_post_page(post: Mapping[str, object], body: str) -> str:
         f'<a href="{e(item["href"], quote=True)}" rel="noopener noreferrer" target="_blank">{e(item["label"])}</a>'
         for item in post.get("shares") or []
     )
-    board = f"{prefix}index.html#{_slug(path)}"
+    home = PAGES_ORIGIN.rstrip("/") + "/"
+    board = f"{home}#{_slug(path)}"
+    description_html = apply_how + render_body(body)
+    from validator.jsonld import post_jsonld
+
+    structured = post_jsonld(post, description_html, body)
+    company_link = _company_link(post)
+    open_jobs = _open_jobs(post)
     return f"""<!DOCTYPE html>
 <html lang="{lang}">
 <head>
@@ -183,6 +190,8 @@ def render_post_page(post: Mapping[str, object], body: str) -> str:
   <title>{e(text)} — OpenJob</title>
   <meta name="description" content="{e(description, quote=True)}">
   <link rel="canonical" href="{e(url, quote=True)}">
+  <link rel="alternate" type="text/markdown" href="index.md">
+  <link rel="describedby" href="{e(home, quote=True)}llms.txt">
   <meta property="og:type" content="article">
   <meta property="og:site_name" content="OpenJob">
   <meta property="og:title" content="{e(text, quote=True)}">
@@ -207,15 +216,17 @@ def render_post_page(post: Mapping[str, object], body: str) -> str:
         </div>
       </div>
       <div class="mast-side">
-        <a href="{prefix}index.html">OpenJob</a>
+        <a href="{e(home, quote=True)}">OpenJob</a>
       </div>
     </header>
     <article>
+      {structured}
       {apply_how}
       <div class="badges">{badges}</div>
       {render_body(body)}
+      {open_jobs}
       {tags}
-      <div class="links">{actions}<a href="{e(board, quote=True)}">Board · 公告板</a><span class="sub">{e(_dates(post))}</span></div>
+      <div class="links">{company_link}{actions}<a href="{e(board, quote=True)}">Board · 公告板</a><span class="sub">{e(_dates(post))}</span></div>
       <section class="share" id="share" data-permalink="{e(url, quote=True)}" data-share-text="{e(text, quote=True)}">
         <h2>Share · 分享</h2>
         <p class="share-text">{e(text)}</p>
@@ -237,6 +248,7 @@ def render_post_page(post: Mapping[str, object], body: str) -> str:
     </article>
     <footer>
       <p>Phone numbers are not allowed. A job may show Apply by email when the address is on the company domain. Share text never includes a phone number or an email. Posts are CC BY 4.0. Code is MIT.</p>
+      <p><a href="{e(home, quote=True)}">OpenJob</a> · <a href="{e(home, quote=True)}about/">About</a> · <a href="https://github.com/softprobe/openjob">Source</a></p>
     </footer>
   </div>
   <script src="{prefix}vendor/qrcode.js"></script>
@@ -244,6 +256,34 @@ def render_post_page(post: Mapping[str, object], body: str) -> str:
 </body>
 </html>
 """
+
+
+def _company_link(post: Mapping[str, object]) -> str:
+    href = post.get("company_permalink")
+    name = post.get("org")
+    if post.get("kind") != "job" or not isinstance(href, str) or not href or not name:
+        return ""
+    return (
+        f'<a href="{html.escape(href, quote=True)}">{html.escape(str(name))}</a>'
+    )
+
+
+def _open_jobs(post: Mapping[str, object]) -> str:
+    jobs = post.get("open_jobs")
+    if post.get("kind") != "company" or not isinstance(jobs, list) or not jobs:
+        return ""
+    items = []
+    for job in jobs:
+        if not isinstance(job, Mapping):
+            continue
+        href = job.get("permalink")
+        title = job.get("title")
+        if not isinstance(href, str) or not isinstance(title, str):
+            continue
+        items.append(f'<li><a href="{html.escape(href, quote=True)}">{html.escape(title)}</a></li>')
+    if not items:
+        return ""
+    return '<section class="open-jobs"><h2>Open jobs</h2><ul>' + "".join(items) + "</ul></section>"
 
 
 def render_body(body: str) -> str:
