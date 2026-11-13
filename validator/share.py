@@ -283,7 +283,14 @@ def _open_jobs(post: Mapping[str, object]) -> str:
         items.append(f'<li><a href="{html.escape(href, quote=True)}">{html.escape(title)}</a></li>')
     if not items:
         return ""
-    return '<section class="open-jobs"><h2>Open jobs</h2><ul>' + "".join(items) + "</ul></section>"
+    more = post.get("open_jobs_more")
+    more_html = ""
+    if isinstance(more, int) and more > 0:
+        archive = html.escape(PAGES_ORIGIN.rstrip("/") + "/jobs/page/1/", quote=True)
+        more_html = (
+            f'<p><a href="{archive}">The jobs archive lists every open role.</a></p>'
+        )
+    return '<section class="open-jobs"><h2>Open jobs</h2><ul>' + "".join(items) + "</ul>" + more_html + "</section>"
 
 
 def render_body(body: str) -> str:

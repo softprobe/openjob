@@ -25,6 +25,9 @@ from validator.prose import excerpt as prose_excerpt
 from validator.publish import write_discovery
 from validator.share import permalink, render_post_page, share_links, share_text
 
+# A company page links its newest roles. The jobs archive lists every role.
+_OPEN_JOBS_ON_PAGE = 100
+
 
 def build_index(root: Path, *, today: date | None = None) -> dict:
     today = today or datetime.now(timezone.utc).date()
@@ -64,6 +67,7 @@ def write_pages(root: Path, site_dir: Path, document: dict) -> int:
     if pages.exists():
         shutil.rmtree(pages)
     by_path = {post["path"]: post for post in document["posts"]}
+    jobs_for_company = _jobs_for_company(document["posts"])
     count = 0
     for rel, path in iter_post_files(root):
         if is_unpublished(rel):
@@ -76,17 +80,29 @@ def write_pages(root: Path, site_dir: Path, document: dict) -> int:
         dest.parent.mkdir(parents=True, exist_ok=True)
         view = dict(post)
         if post.get("kind") == "company":
-            view["open_jobs"] = [
-                item
-                for item in document["posts"]
-                if item.get("kind") == "job" and item.get("company_permalink") == post.get("permalink")
-            ]
+            jobs = jobs_for_company.get(str(post.get("permalink") or ""), [])
+            view["open_jobs"] = jobs[:_OPEN_JOBS_ON_PAGE]
+            extra = len(jobs) - len(view["open_jobs"])
+            if extra:
+                view["open_jobs_more"] = extra
         dest.write_text(render_post_page(view, body), encoding="utf-8")
         md = dest.parent / "index.md"
         md.write_text(path.read_text(encoding="utf-8"), encoding="utf-8")
         count += 1
     write_discovery(site_dir, document)
     return count
+
+
+def _jobs_for_company(posts: list[dict]) -> dict[str, list[dict]]:
+    """Jobs grouped by company permalink. One pass, newest first."""
+    grouped: dict[str, list[dict]] = {}
+    for post in posts:
+        if post.get("kind") != "job":
+            continue
+        company = post.get("company_permalink")
+        if isinstance(company, str) and company:
+            grouped.setdefault(company, []).append(post)
+    return grouped
 
 
 def _project(rel: str, meta: dict, body: str, *, root: Path) -> dict:
