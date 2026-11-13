@@ -12,7 +12,7 @@ The live board is <https://softprobe.github.io/openjob/>.
 
 Posts only. Copy a template into a new post and leave `templates/` unchanged. A pull request may change any number of posts. Every changed file has to stay under `jobs/`, `talents/`, or `companies/`. You can do every step in the GitHub web UI (**Add file → Create new file**, or edit on github.com). If you cannot push here, GitHub asks you to fork the repository and open the pull request from the fork.
 
-**Find jobs and talent:** search <https://softprobe.github.io/openjob/>. A file with `example: true` is a sample.
+**Find jobs and talent:** search <https://softprobe.github.io/openjob/>. The live board lists `jobs/`, `talents/`, and `companies/` only.
 
 ### Post a job
 
@@ -48,7 +48,7 @@ The board is the repository. Search is a static page. There is no account system
 
 **Privacy first.** Do not publish a phone number. Do not publish a personal email address. Not in a post, not in a pull request, and not in an issue. Talent posts cannot contain an email at all. A job may put one employer hiring address in `apply` (`mailto:jobs@company.example`) or in `apply_email`, and only when that domain matches the company website (`www.` is ignored). The address is not copied into share text. The site may show it as an Apply by email button. Every other email is rejected, including the job body and a mismatched domain such as gmail.com. Other contact goes through a LinkedIn URL, a GitHub profile, a personal site, or a company careers/apply link. The checker rejects ordinary addresses and common disguises (`name [at] domain`, fullwidth characters, HTML entities, `%40`, `+86` mobiles, and Chinese numerals). See [Contributing](CONTRIBUTING.md#privacy).
 
-A file with `example: true` is a sample. It is not a real opening, a real résumé, or a real company.
+The live board is only `jobs/`, `talents/`, and `companies/`. Sample posts used to sit there so the first page was not empty. They now live under `tests/fixtures/samples/` and are not published. A file with `example: true` is a sample. It is not a real opening, a real résumé, or a real company. Files in `templates/` are starting points for a pull request. The site index does not read `tests/` or `templates/`.
 
 | Kind | Path | Lifetime |
 | --- | --- | --- |
@@ -69,9 +69,9 @@ Each job, talent profile, and company page has a permalink:
 
 `https://softprobe.github.io/openjob/p/<path-without-.md>/`
 
-Example: `https://softprobe.github.io/openjob/p/jobs/2026/11/example-studio-open-source-maintainer/`
+Example: `https://softprobe.github.io/openjob/p/jobs/2026/11/softprobe-software-engineer/`
 
-That page is static HTML. Its title and description are Open Graph and Twitter card tags, so a link unfurls as the public listing. The board also opens the same entry at `#<path-without-.md>`, for example `#jobs/2026/11/example-studio-open-source-maintainer`.
+That page is static HTML. Its title and description are Open Graph and Twitter card tags, so a link unfurls as the public listing. The board also opens the same entry at `#<path-without-.md>`, for example `#jobs/2026/11/softprobe-software-engineer`.
 
 The page has share buttons for LinkedIn, X, Reddit, Hacker News, Facebook, Telegram, WhatsApp, and Weibo. They are ordinary share-intent links. There is no SDK and no third-party script. Copy link copies the permalink. WeChat has no share URL; the page draws a QR code of the permalink in the browser with the MIT library in `site/vendor/`.
 
@@ -83,7 +83,7 @@ After auto-merge, the bot comments on the pull request with that permalink and t
 
 - Sharded paths, so a single directory does not collect every post. Jobs are grouped by month. Talent and company files are grouped by the first letter. If a letter directory approaches about 800 files, maintainers add a second level in a separate change.
 - No binaries in posts.
-- Jobs and talent posts expire. **Git history is the archive.** The scheduled workflow opens a pull request that deletes expired files. Restore one from that commit, set `renewed`, and send it again. Company pages and sample posts are not auto-removed.
+- Jobs and talent posts expire. **Git history is the archive.** The scheduled workflow opens a pull request that deletes expired files. Restore one from that commit, set `renewed`, and send it again. Company pages are not auto-removed. A post marked `example: true` is kept too, but the live tree does not contain one. The samples are test fixtures.
 
 ## Federation
 
@@ -127,10 +127,10 @@ jobs/YYYY/MM/<company>-<role-slug>.md
 talents/<letter>/<github-username>.md
 companies/<letter>/<slug>.md
 schema/          JSON Schema for each kind, plus the public index
-templates/       starting files
+templates/       starting files; not indexed
 validator/       checker, index builder, expiry selection, share text
 site/            static search page; permalink HTML is generated into site/p/
-tests/fixtures/  privacy, path, size, and binary cases
+tests/fixtures/  privacy, path, size, binary, and sample posts; not indexed
 ```
 
 `site/p/` is build output. It is not committed. Git history remains the archive for posts; the Pages site is rebuilt from the live tree.
@@ -161,7 +161,7 @@ OpenJob 是一个放在 GitHub 上的开放、隐私优先的职位板：谁都�
 
 只改帖子。把模板复制成新文件，不要在这个 Pull Request 里修改 `templates/`。一个 Pull Request 可以改多篇帖子，但每个改动都必须在 `jobs/`、`talents/` 或 `companies/` 里。全程可以在 GitHub 网页上完成（**Add file → Create new file**，或直接在 github.com 上编辑）。没有写权限时，GitHub 会让你先 Fork，再从 Fork 开 Pull Request。
 
-**找职位和人才：** 在 <https://softprobe.github.io/openjob/> 搜索。带 `example: true` 的是示例。
+**找职位和人才：** 在 <https://softprobe.github.io/openjob/> 搜索。在线看板只列出 `jobs/`、`talents/` 和 `companies/`。
 
 #### 发布职位
 
@@ -197,7 +197,7 @@ OpenJob 是一个放在 GitHub 上的开放、隐私优先的职位板：谁都�
 
 **隐私优先。** 不要公开电话号码，也不要公开个人邮箱，帖子、Pull Request 和 Issue 里都不要。人才帖不能写邮箱。职位可以在 `apply` 写 `mailto:jobs@公司域名`，或另写 `apply_email`，但域名必须和公司网站一致（忽略 `www.`）。这个地址不会进入分享文案。网站可以显示「邮件申请」按钮。正文里的邮箱、人才帖里的邮箱，以及 gmail.com 这类不匹配的域名，都会被拒绝。其他联系方式只能是 LinkedIn、GitHub 主页、个人网站，或公司的招聘/申请链接。检查脚本也会拒绝 `name [at] domain`、全角字符、`%40`、`+86` 手机号和中文数字写法。细节见 [CONTRIBUTING.md](CONTRIBUTING.md#privacy)。
 
-带 `example: true` 的文件是示例，不是真实招聘、简历或公司。
+在线看板只有 `jobs/`、`talents/` 和 `companies/`。示例帖曾经放在这三处，现在在 `tests/fixtures/samples/`，不会发布。带 `example: true` 的文件是示例，不是真实招聘、简历或公司。`templates/` 是开 Pull Request 时复制的起点。站点索引不读取 `tests/` 或 `templates/`。
 
 | 类型 | 路径 | 期限 |
 | --- | --- | --- |
@@ -210,7 +210,7 @@ OpenJob 是一个放在 GitHub 上的开放、隐私优先的职位板：谁都�
 
 过期帖子从目录中删除。**Git 历史就是归档。** 想恢复时，从删除那次提交里取出文件，把 `renewed` 设为新的日期，再开一个 Pull Request。不要修改原来的 `posted`。
 
-搜索页可以按职位、地点、远程、标签和语言筛选。
+搜索页可以按职位、地点、远程、标签和语言筛选。公告板上只有 `jobs/`、`talents/`、`companies/` 里的帖子。示例帖在 `tests/fixtures/samples/`，模板在 `templates/`，这两处都不会进入索引。
 
 每篇帖子有一个永久链接：`https://softprobe.github.io/openjob/p/<去掉.md的路径>/`。页面带分享按钮（LinkedIn、X、Reddit、Hacker News、Facebook、Telegram、WhatsApp、微博）和复制链接。微信没有分享链接，页面在浏览器里把永久链接画成二维码。分享文案只包含职位、公司和地点，或人才的 headline，或公司名和地点，不含申请链接、电话或邮箱。职位页可以有「邮件申请」按钮，那个地址不在分享文案里。自动合并后，机器人会在 Pull Request 里留下这些链接。
 

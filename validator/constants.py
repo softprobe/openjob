@@ -21,6 +21,9 @@ BINARY_FIXTURE_ALLOWLIST = frozenset(
 )
 
 POST_ROOTS = ("jobs", "talents", "companies")
+# Starting files and test fixtures are not posts. The site index, the expiry
+# walk, and ``check-tree`` never read these directories.
+UNPUBLISHED_ROOTS = frozenset({"tests", "templates"})
 KIND_ROOT = {
     "job": "jobs",
     "talent": "talents",

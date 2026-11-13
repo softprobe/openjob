@@ -14,6 +14,7 @@ from validator.posts import (
     company_website,
     effective_expiry,
     index_validator,
+    is_unpublished,
     iter_post_files,
     job_contact_links,
     load_post,
@@ -30,7 +31,10 @@ def build_index(root: Path, *, today: date | None = None) -> dict:
         raise ValueError(f"Refusing to index invalid posts.\n{details}")
     posts = []
     for rel, path in iter_post_files(root):
-        if not rel.endswith(".md"):
+        # ``iter_post_files`` already skips these. The second check is here so
+        # a future walk of the whole tree still cannot publish fixtures or
+        # starting files.
+        if is_unpublished(rel) or not rel.endswith(".md"):
             continue
         meta, body = load_post(path)
         posts.append(_project(rel, meta, body, root=root))
@@ -59,6 +63,8 @@ def write_pages(root: Path, site_dir: Path, document: dict) -> int:
     by_path = {post["path"]: post for post in document["posts"]}
     count = 0
     for rel, path in iter_post_files(root):
+        if is_unpublished(rel):
+            continue
         post = by_path.get(rel)
         if post is None:
             continue

@@ -86,7 +86,7 @@ The entry expires like any other talent post (180 days, or sooner if you set `ex
 
 **Git history is the archive.** A scheduled workflow deletes expired files from the live tree and opens a pull request listing them. Copies under `archive/` would grow the repository forever and crowd directories, so they are not kept. To restore a post, take the file from the parent of the expiry commit, set `renewed`, keep the original `posted`, and open a new pull request. If the `posted` month and the path disagree, fix the path in a pull request you own. A path change is a delete plus an add, and ownership is checked on each file.
 
-Sample posts (`example: true`) are not removed by the workflow. They exist so the first page is not empty. A maintainer can delete them once real posts exist.
+Sample posts (`example: true`) are not removed by the expiry workflow. They are not on the live board. The three original samples (a job, a talent profile, and a company page) are fixtures under `tests/fixtures/samples/`. The tests copy them into a temporary tree. `templates/` stays the files a contributor copies. The site build indexes `jobs/`, `talents/`, and `companies/` only, so nothing under `tests/` or `templates/` is published.
 
 When a letter directory approaches about 800 files, maintainers should add a second shard (`talents/a/b/…`) in a deliberate migration. Version 1 is one letter, one directory, which is the layout contributors should use now. Jobs are already sharded by month.
 

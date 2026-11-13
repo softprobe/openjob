@@ -20,6 +20,38 @@ TODAY = date(2026, 11, 13)
 
 
 class IndexTests(unittest.TestCase):
+    def test_repository_index_skips_tests_templates_and_samples(self) -> None:
+        document = build_index(ROOT, today=TODAY)
+        paths = {post["path"] for post in document["posts"]}
+        self.assertIn("companies/s/softprobe.md", paths)
+        self.assertIn("jobs/2026/11/softprobe-software-engineer.md", paths)
+        for path in paths:
+            top = path.split("/", 1)[0]
+            self.assertIn(top, {"jobs", "talents", "companies"})
+            self.assertNotIn(top, {"tests", "templates"})
+        self.assertNotIn("jobs/2026/11/example-studio-open-source-maintainer.md", paths)
+        self.assertNotIn("talents/z/zwobill.md", paths)
+        self.assertNotIn("companies/e/example-studio.md", paths)
+        self.assertTrue((ROOT / "templates" / "job.md").is_file())
+        for rel in SAMPLES:
+            self.assertTrue((ROOT / "tests" / "fixtures" / "samples" / rel).is_file())
+            self.assertFalse((ROOT / rel).exists())
+
+    def test_fixtures_beside_a_post_are_not_indexed(self) -> None:
+        root = Path(tempfile.mkdtemp())
+        try:
+            _write(root, "jobs/2026/11/acme-backend-engineer.md", _job())
+            _write(root, "tests/fixtures/samples/jobs/2026/11/acme-backend-engineer.md", _job())
+            _write(root, "templates/job.md", _job())
+            _write(root, "tests/jobs/2026/11/hidden-role.md", _job(role_slug="hidden-role", title="Hidden role"))
+            document = build_index(root, today=TODAY)
+        finally:
+            shutil.rmtree(root)
+        self.assertEqual(
+            [post["path"] for post in document["posts"]],
+            ["jobs/2026/11/acme-backend-engineer.md"],
+        )
+
     def test_seed_index_includes_samples(self) -> None:
         root = sample_tree()
         try:
