@@ -361,14 +361,22 @@ def _actions(post: Mapping[str, object]) -> str:
 
 
 def _logo_html(post: Mapping[str, object]) -> str:
-    if post.get("kind") != "company":
+    kind = post.get("kind")
+    if kind not in {"company", "job"}:
         return ""
     url = _https(post.get("logo"))
     if not url:
         return ""
-    alt = html.escape(str(post.get("title") or "Company"), quote=True)
+    if kind == "job":
+        name = str(post.get("org") or post.get("title") or "Company")
+    else:
+        name = str(post.get("title") or "Company")
+    alt = html.escape(name, quote=True)
     src = html.escape(url, quote=True)
-    return f'<img class="logo" src="{src}" alt="{alt}" referrerpolicy="no-referrer">'
+    return (
+        f'<img class="logo" src="{src}" alt="{alt}" width="48" height="48" '
+        f'referrerpolicy="no-referrer">'
+    )
 
 
 def _dates(post: Mapping[str, object]) -> str:

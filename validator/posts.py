@@ -458,6 +458,21 @@ def company_website(root: Path, meta: dict) -> str | None:
     return None
 
 
+def company_logo(root: Path, company: object) -> str | None:
+    """HTTPS logo from the company page for this slug, when that page has one."""
+    page = _company_page_path(root, company)
+    if page is None:
+        return None
+    try:
+        meta, _body = load_post(page)
+    except (OSError, PostParseError, UnicodeError):
+        return None
+    logo = meta.get("logo")
+    if isinstance(logo, str) and logo.startswith("https://") and not any(char.isspace() for char in logo):
+        return logo
+    return None
+
+
 def _prepare_hiring_email(
     text: str,
     meta: dict,
