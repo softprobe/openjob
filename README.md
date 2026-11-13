@@ -60,7 +60,7 @@ A profile can live in `<your-username>/openjob-profile`. This repository then ho
 | Workflow | When | Effect |
 | --- | --- | --- |
 | `validate` | every pull request | tests, schema, path, size, privacy, ownership, scope; comments on failure |
-| `automerge` | pull requests after this file is on `main` | repeats the check with the code already on `main`, squash-merges a single-post pull request, and comments with the permalink and share links |
+| `automerge` | pull requests after this file is on `main` | runs the trusted checker and its unit tests from `main`, then squash-merges a single-post pull request only after `validate` has succeeded for that same commit. A failed or missing check is commented and left open. Posts merge on their own. Workflow, code, and doc changes stay for a maintainer |
 | `expire` | daily, 03:17 UTC | opens a pull request that deletes expired posts |
 | `pages` | push to `main` | builds `index.json` and the permalink pages, then deploys the site |
 
@@ -78,7 +78,7 @@ The workflows cannot flip these switches.
    - Require the status check `validate`. After `automerge.yml` has run once, also require `trusted-validate`.
    - Leave required approving reviews **off**, and leave "Require review from Code Owners" **off**. Otherwise a valid post waits forever. `CODEOWNERS` still names `@zwobill` for maintainer changes.
    - Pull requests opened by `GITHUB_TOKEN` do not trigger other workflows. The expiry pull request will sit without `validate`. Merge it yourself, or let the GitHub Actions bot bypass the rule.
-5. **Settings → Pages → Build and deployment → Source:** GitHub Actions. The site URL is `https://zwobill.github.io/openjob/`.
+5. **Settings → Pages → Build and deployment → Source:** GitHub Actions. The site URL is `https://zwobill.github.io/openjob/`. Until this is on, the Pages workflow builds the site and then `deploy-pages` fails with HTTP 404, “Ensure GitHub Pages has been enabled.”
 6. Optional: set the repository description, the homepage URL above, and topics such as `jobs`, `hiring`, and `privacy`.
 
 GitHub also asks a maintainer to approve Actions the first time a new fork contributor opens a pull request. That click is manual.

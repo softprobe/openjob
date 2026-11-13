@@ -25,10 +25,12 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Unit tests
+        id: tests
         run: python -m unittest discover -s tests -v
 
       - name: Check posts
         id: check
+        if: success() || failure()
         env:
           PR_AUTHOR: ${{ github.event.pull_request.user.login }}
           BASE_REF: ${{ github.base_ref }}
@@ -55,15 +57,30 @@ jobs:
         uses: actions/github-script@v7
         env:
           REPORT: ${{ runner.temp }}/openjob-report.md
+          TESTS_OUTCOME: ${{ steps.tests.outcome }}
+          CHECK_OUTCOME: ${{ steps.check.outcome }}
         with:
           script: |
             const fs = require("fs");
             const marker = "<!-- openjob-bot -->";
-            let report = "OpenJob checks failed before a report was written. Open the workflow log.";
-            if (process.env.REPORT && fs.existsSync(process.env.REPORT)) {
-              report = fs.readFileSync(process.env.REPORT, "utf8");
+            const parts = [];
+            if (process.env.TESTS_OUTCOME === "failure") {
+              parts.push(
+                "Unit tests failed, so this pull request stays open. " +
+                "The Unit tests step in the workflow log has the traceback."
+              );
             }
-            const body = `${marker}\n${report}`;
+            if (
+              process.env.CHECK_OUTCOME === "failure" &&
+              process.env.REPORT &&
+              fs.existsSync(process.env.REPORT)
+            ) {
+              parts.push(fs.readFileSync(process.env.REPORT, "utf8"));
+            }
+            if (parts.length === 0) {
+              parts.push("OpenJob checks failed before a report was written. Open the workflow log.");
+            }
+            const body = `${marker}\n${parts.join("\n\n")}`;
             const { data: comments } = await github.rest.issues.listComments({
               owner: context.repo.owner,
               repo: context.repo.repo,

@@ -10,6 +10,7 @@ from pathlib import Path
 
 import yaml
 
+from samples import SAMPLES, sample_tree
 from validator.expire import select_expired
 from validator.index import build_index
 
@@ -20,11 +21,36 @@ TODAY = date(2026, 11, 13)
 
 class IndexTests(unittest.TestCase):
     def test_seed_index_includes_samples(self) -> None:
-        document = build_index(ROOT, today=TODAY)
+        root = sample_tree()
+        try:
+            document = build_index(root, today=TODAY)
+        finally:
+            shutil.rmtree(root)
+        self.assertEqual({post["path"] for post in document["posts"]}, set(SAMPLES))
         kinds = {post["kind"] for post in document["posts"]}
         self.assertEqual(kinds, {"job", "talent", "company"})
         self.assertTrue(all(post["example"] for post in document["posts"]))
         self.assertTrue(all(post["expires"] is None for post in document["posts"]))
+
+    def test_a_real_post_does_not_change_the_sample_index(self) -> None:
+        root = sample_tree()
+        try:
+            extra = root / "companies" / "n" / "northwind.md"
+            extra.parent.mkdir(parents=True)
+            text = (root / "companies/e/example-studio.md").read_text(encoding="utf-8")
+            text = text.replace("slug: example-studio", "slug: northwind")
+            text = text.replace("name: Example Studio", "name: Northwind")
+            text = text.replace("example: true", "example: false")
+            extra.write_text(text, encoding="utf-8")
+            document = build_index(root, today=TODAY)
+        finally:
+            shutil.rmtree(root)
+        by_path = {post["path"]: post for post in document["posts"]}
+        self.assertEqual(len(by_path), 4)
+        self.assertFalse(by_path["companies/n/northwind.md"]["example"])
+        for rel in SAMPLES:
+            self.assertTrue(by_path[rel]["example"])
+            self.assertIsNone(by_path[rel]["expires"])
 
     def test_federated_profile_is_indexed(self) -> None:
         document = build_index(FEDERATED, today=TODAY)
