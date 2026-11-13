@@ -1,0 +1,5 @@
+# Maintainer of record. Do not turn on "Require review from Code Owners"
+# for the whole repo: post pull requests are meant to squash-merge without a review.
+# Ask @zwobill to review changes outside jobs/, talents/, and companies/.
+
+* @zwobill

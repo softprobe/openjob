@@ -1,0 +1,18 @@
+---
+kind: job
+title: "Example role: open source maintainer"
+company: example-studio
+company_name: Example Studio
+role_slug: open-source-maintainer
+location: Example City
+remote: true
+languages: [en]
+tags: [sample]
+apply: https://example.com/careers/open-source-maintainer
+posted: 2026-11-13
+posted_by: zwobill
+compensation: "Sample listing, not a real opening"
+example: true
+---
+
+This fixture is a valid post stored at the wrong path. The checker should reject the path and explain the sharded layout.

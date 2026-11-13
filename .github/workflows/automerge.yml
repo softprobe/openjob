@@ -1,0 +1,141 @@
+# Trusted auto-merge. This file runs from the base branch (pull_request_target),
+# so a pull request cannot rewrite the checker that decides to merge it.
+# The head checkout is data only: do not pip-install it and do not run its scripts.
+
+name: Auto-merge
+
+on:
+  pull_request_target:
+    types: [opened, synchronize, reopened]
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  trusted-validate:
+    runs-on: ubuntu-latest
+    outputs:
+      automerge: ${{ steps.check.outputs.automerge }}
+    steps:
+      - name: Check out the trusted base
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.pull_request.base.sha }}
+          path: base
+          persist-credentials: false
+
+      - name: Check out the pull request files
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.pull_request.head.sha }}
+          path: head
+          persist-credentials: false
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install checker dependencies from the base branch
+        run: pip install -r base/requirements.txt
+
+      - name: Validate with the base-branch checker
+        id: check
+        working-directory: base
+        env:
+          PR_AUTHOR: ${{ github.event.pull_request.user.login }}
+        run: |
+          python -m validator check-pr \
+            --head ../head \
+            --base . \
+            --author "$PR_AUTHOR" \
+            --report "$RUNNER_TEMP/openjob-report.md" \
+            --github-output "$GITHUB_OUTPUT"
+
+      - name: Add the report to the job summary
+        if: always()
+        run: |
+          if [ -f "$RUNNER_TEMP/openjob-report.md" ]; then
+            cat "$RUNNER_TEMP/openjob-report.md" >> "$GITHUB_STEP_SUMMARY"
+          fi
+
+      - name: Comment on failure
+        if: failure()
+        continue-on-error: true
+        uses: actions/github-script@v7
+        env:
+          REPORT: ${{ runner.temp }}/openjob-report.md
+        with:
+          script: |
+            const fs = require("fs");
+            const marker = "<!-- openjob-bot -->";
+            let report = "OpenJob checks failed before a report was written. Open the workflow log.";
+            if (process.env.REPORT && fs.existsSync(process.env.REPORT)) {
+              report = fs.readFileSync(process.env.REPORT, "utf8");
+            }
+            const body = `${marker}\n${report}`;
+            const { data: comments } = await github.rest.issues.listComments({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+            });
+            const existing = comments.find(
+              (comment) => comment.user && comment.body && comment.body.includes(marker)
+            );
+            if (existing) {
+              await github.rest.issues.updateComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                comment_id: existing.id,
+                body,
+              });
+            } else {
+              await github.rest.issues.createComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: context.issue.number,
+                body,
+              });
+            }
+
+  merge:
+    needs: trusted-validate
+    if: needs.trusted-validate.outputs.automerge == 'true'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Squash-merge the post
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const pull_number = context.payload.pull_request.number;
+            const common = {
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              pull_number,
+            };
+            try {
+              await github.rest.pulls.merge({
+                ...common,
+                merge_method: "squash",
+              });
+              return;
+            } catch (directError) {
+              try {
+                await github.graphql(
+                  `mutation($id: ID!) {
+                    enablePullRequestAutoMerge(input: {pullRequestId: $id, mergeMethod: SQUASH}) {
+                      clientMutationId
+                    }
+                  }`,
+                  { id: context.payload.pull_request.node_id }
+                );
+              } catch (autoError) {
+                core.setFailed(
+                  "The post passed validation, but GitHub did not merge it. " +
+                  "Enable squash merges and auto-merge, leave required reviews off, " +
+                  "and allow Actions to satisfy the required status check.\n" +
+                  String(directError) + "\n" + String(autoError)
+                );
+              }
+            }

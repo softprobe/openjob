@@ -1,0 +1,11 @@
+name: Question
+description: A question about posting or about the checker.
+title: "[question] "
+body:
+  - type: textarea
+    id: question
+    attributes:
+      label: What do you need?
+      description: Do not include a phone number or personal email.
+    validations:
+      required: true

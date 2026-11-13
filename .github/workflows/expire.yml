@@ -1,0 +1,59 @@
+name: Expire posts
+
+on:
+  schedule:
+    - cron: "17 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: expire-posts
+  cancel-in-progress: false
+
+jobs:
+  expire:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out main
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install checker dependencies
+        run: pip install -r requirements.txt
+
+      - name: Delete expired posts
+        id: expire
+        run: |
+          python -m validator expire --root . --apply --report "$RUNNER_TEMP/expired.md"
+          if git diff --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Open the expiry pull request
+        if: steps.expire.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          date=$(date -u +%F)
+          branch="expiry/${date}-${GITHUB_RUN_ID}"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout -b "$branch"
+          git add -A
+          git commit -m "Remove posts expired as of ${date}"
+          git push origin "HEAD:${branch}"
+          gh pr create \
+            --base main \
+            --head "$branch" \
+            --title "Remove posts expired as of ${date}" \
+            --body-file "$RUNNER_TEMP/expired.md"
+          echo "Opened ${branch}. Actions-created pull requests do not trigger other workflows, so merge this one by hand unless the Actions bot can bypass branch protection."
