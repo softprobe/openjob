@@ -3,7 +3,6 @@ kind: company
 slug: softprobe
 name: Softprobe
 website: https://www.softprobe.ai
-careers: https://www.linkedin.com/company/softprobe/jobs/
 logo: https://framerusercontent.com/images/iX00VcC2XKPqC6dkXF4KXvZXCA.svg
 location: "Los Altos, California, USA"
 remote: hybrid
@@ -25,8 +24,6 @@ Founded in 2025. Headquarters are in Los Altos, California, USA. The company is 
 
 Site: https://www.softprobe.ai
 
-Open roles: https://www.linkedin.com/company/softprobe/jobs/
-
 ## 中文
 
 Softprobe 是开源项目 AREX（https://github.com/arextest）背后的团队。AREX 是一个自动化的录制/回放回归测试平台。
@@ -40,5 +37,3 @@ Agent 产品采集会话。团队可以逐条查看每一步，包括确切的�
 公司 2025 年成立，总部位于美国加利福尼亚州 Los Altos，阶段为 pre-seed，员工 1-10 人，团队分布在美国和中国上海。创始人兼 CEO 是 Bill Zuo，GitHub 登录名 zwobill。
 
 官网：https://www.softprobe.ai
-
-职位：https://www.linkedin.com/company/softprobe/jobs/
