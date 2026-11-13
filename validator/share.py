@@ -21,6 +21,7 @@ GENERIC = "OpenJob"
 HN_TITLE_LIMIT = 80
 
 _URL = re.compile(r"(?i)\b(?:https?://|mailto:|tel:)\S+")
+_BODY_LINK = re.compile(r"https://[A-Za-z0-9._~:/?#\[\]@!$&'*+,;=%-]+")
 _MAILTO_HREF = re.compile(
     r"(?i)^mailto:[A-Za-z0-9][A-Za-z0-9._%+-]{0,63}@[A-Za-z0-9]"
     r"(?:[A-Za-z0-9-]{0,62}[A-Za-z0-9])?(?:\.[A-Za-z0-9](?:[A-Za-z0-9-]{0,62}[A-Za-z0-9])?)+$"
@@ -256,9 +257,40 @@ def render_body(body: str) -> str:
             level = min(max(len(heading.group(1)), 2), 3)
             blocks.append(f"<h{level}>{html.escape(heading.group(2).strip())}</h{level}>")
             continue
-        escaped = "<br>\n".join(html.escape(line) for line in lines)
-        blocks.append(f"<p>{escaped}</p>")
+        rendered = "<br>\n".join(_inline(line) for line in lines)
+        blocks.append(f"<p>{rendered}</p>")
     return "\n".join(blocks)
+
+
+def _inline(line: str) -> str:
+    """Escape a paragraph line, keep `code` as text, and turn https URLs into links."""
+    parts = re.split(r"(`[^`\n]+`)", line)
+    rendered: list[str] = []
+    for part in parts:
+        if len(part) >= 2 and part.startswith("`") and part.endswith("`"):
+            rendered.append(f"<code>{html.escape(part[1:-1])}</code>")
+        else:
+            rendered.append(_linkify(part))
+    return "".join(rendered)
+
+
+def _linkify(text: str) -> str:
+    pieces: list[str] = []
+    cursor = 0
+    for match in _BODY_LINK.finditer(text):
+        pieces.append(html.escape(text[cursor:match.start()]))
+        raw = match.group(0)
+        url = raw.rstrip(".,);]}>\"'")
+        if len(url) < 12:
+            pieces.append(html.escape(raw))
+            cursor = match.end()
+            continue
+        href = html.escape(url, quote=True)
+        pieces.append(f'<a href="{href}" rel="noopener noreferrer">{html.escape(url)}</a>')
+        pieces.append(html.escape(raw[len(url):]))
+        cursor = match.end()
+    pieces.append(html.escape(text[cursor:]))
+    return "".join(pieces)
 
 
 def _clean(value: object) -> str:
