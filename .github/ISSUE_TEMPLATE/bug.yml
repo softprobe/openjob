@@ -1,0 +1,16 @@
+name: Bug
+description: The checker, the expiry workflow, or the search page misbehaved.
+title: "[bug] "
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened?
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: What did you expect?
+    validations:
+      required: true

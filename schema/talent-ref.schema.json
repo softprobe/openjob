@@ -1,0 +1,47 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/zwobill/openjob/schema/talent-ref.schema.json",
+  "title": "Federated talent index entry",
+  "description": "A short pointer at a profile kept in the author's own openjob-profile repository.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "kind",
+    "name",
+    "github",
+    "headline",
+    "location",
+    "remote",
+    "languages",
+    "tags",
+    "open_to",
+    "posted",
+    "profile_url"
+  ],
+  "properties": {
+    "kind": { "const": "talent-ref" },
+    "name": { "type": "string", "minLength": 1, "maxLength": 80 },
+    "github": { "$ref": "https://github.com/zwobill/openjob/schema/common.json#/$defs/github" },
+    "headline": { "type": "string", "minLength": 4, "maxLength": 140 },
+    "location": { "type": "string", "minLength": 1, "maxLength": 80 },
+    "remote": { "$ref": "https://github.com/zwobill/openjob/schema/common.json#/$defs/remote" },
+    "languages": { "$ref": "https://github.com/zwobill/openjob/schema/common.json#/$defs/languages" },
+    "tags": { "$ref": "https://github.com/zwobill/openjob/schema/common.json#/$defs/tags" },
+    "open_to": { "$ref": "https://github.com/zwobill/openjob/schema/common.json#/$defs/openTo" },
+    "posted": { "$ref": "https://github.com/zwobill/openjob/schema/common.json#/$defs/date" },
+    "profile_url": {
+      "type": "string",
+      "maxLength": 300,
+      "pattern": "^https://(github\\.com|raw\\.githubusercontent\\.com)/[A-Za-z0-9-]+/openjob-profile(/.*)?$"
+    },
+    "website": { "$ref": "https://github.com/zwobill/openjob/schema/common.json#/$defs/httpsUrl" },
+    "linkedin": {
+      "type": "string",
+      "maxLength": 300,
+      "pattern": "^https://([a-z]{2,3}\\.)?linkedin\\.com/in/[A-Za-z0-9\\-%]+/?$"
+    },
+    "expires": { "$ref": "https://github.com/zwobill/openjob/schema/common.json#/$defs/date" },
+    "renewed": { "$ref": "https://github.com/zwobill/openjob/schema/common.json#/$defs/date" },
+    "example": { "type": "boolean" }
+  }
+}

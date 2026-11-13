@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>OpenJob — jobs and talent as pull requests</title>
+  <meta name="description" content="An open, GitHub-native job board. Post a job or a talent profile with a pull request. No phone numbers, no personal email.">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' fill='%23f3efe4'/%3E%3Crect x='4' y='4' width='24' height='24' fill='none' stroke='%23b42318' stroke-width='2'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <a class="skip" href="#results">Skip to results</a>
+  <div class="wrap">
+    <header class="mast">
+      <div>
+        <p class="kicker" id="kicker">GitHub-native classifieds</p>
+        <div class="title-row">
+          <h1>OpenJob</h1>
+          <span class="stamp" aria-hidden="true">PR</span>
+        </div>
+        <p class="deck" id="deck">Jobs and talent profiles, published as pull requests. No accounts. No phone numbers.</p>
+      </div>
+      <div class="mast-side">
+        <button type="button" id="lang" class="text-button" aria-pressed="false">中文</button>
+        <a id="repo-link" href="https://github.com/zwobill/openjob">zwobill/openjob</a>
+      </div>
+    </header>
+
+    <form id="filters" role="search">
+      <div class="tabs" role="tablist" aria-label="Post type">
+        <button type="button" class="tab" data-kind="all" aria-pressed="true">All</button>
+        <button type="button" class="tab" data-kind="job" aria-pressed="false">Jobs</button>
+        <button type="button" class="tab" data-kind="talent" aria-pressed="false">Talent</button>
+        <button type="button" class="tab" data-kind="company" aria-pressed="false">Companies</button>
+      </div>
+      <div class="fields">
+        <label class="grow">
+          <span id="label-q">Role, skill, or keyword</span>
+          <input id="q" type="search" autocomplete="off">
+        </label>
+        <label>
+          <span id="label-location">Location</span>
+          <input id="location" type="search" autocomplete="off">
+        </label>
+        <label>
+          <span id="label-remote">Remote</span>
+          <select id="remote"></select>
+        </label>
+        <label>
+          <span id="label-language">Language</span>
+          <select id="language"></select>
+        </label>
+        <label>
+          <span id="label-tag">Tag</span>
+          <select id="tag"></select>
+        </label>
+        <label class="check">
+          <input id="examples" type="checkbox" checked>
+          <span id="label-examples">Show samples</span>
+        </label>
+      </div>
+    </form>
+
+    <p id="count" class="count" aria-live="polite"></p>
+    <div id="results"></div>
+    <noscript>
+      <p>This page searches in the browser. Enable JavaScript, or read the posts in the repository.</p>
+      <p>页面在浏览器里搜索。请启用 JavaScript，或直接阅读仓库里的帖子。</p>
+    </noscript>
+    <footer>
+      <p id="footer-note"></p>
+    </footer>
+  </div>
+  <script src="vendor/qrcode.js"></script>
+  <script src="share.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

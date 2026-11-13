@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+site/index.json
+site/p/
+.openjob-validation.md
+.DS_Store

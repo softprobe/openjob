@@ -1,0 +1,32 @@
+name: Abuse or takedown
+description: Ask for a post to be removed. Do not include phone numbers or personal email addresses.
+title: "[takedown] "
+body:
+  - type: input
+    id: url
+    attributes:
+      label: Link to the post
+      description: A GitHub URL of the file, or the path in this repository.
+      placeholder: https://github.com/zwobill/openjob/blob/main/jobs/2026/11/example.md
+    validations:
+      required: true
+  - type: dropdown
+    id: reason
+    attributes:
+      label: Reason
+      options:
+        - Privacy (phone, email, or other personal contact)
+        - Spam or scraper content
+        - Impersonation
+        - Harassment
+        - Illegal content
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: What should be removed, and why
+      description: Do not add your own phone number or email. The maintainer replies on GitHub.
+    validations:
+      required: true
