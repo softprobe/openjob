@@ -169,6 +169,20 @@ article {
   border-bottom: 1px solid var(--wash);
 }
 
+.entry article p {
+  overflow-wrap: anywhere;
+}
+
+.entry article p a {
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.entry article code {
+  font-family: var(--mono);
+  font-size: 0.85em;
+}
+
 .row {
   display: flex;
   justify-content: space-between;

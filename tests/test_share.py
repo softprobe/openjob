@@ -20,7 +20,7 @@ from samples import SAMPLES, sample_tree
 from validator.index import build_index, write_pages
 from validator.pr import check_pr
 from validator.privacy import find_contacts, has_contact_pattern
-from validator.share import card_description, hn_title, permalink, share_links, share_text
+from validator.share import card_description, hn_title, permalink, render_body, share_links, share_text
 
 ROOT = Path(__file__).resolve().parents[1]
 TODAY = date(2026, 11, 13)
@@ -257,6 +257,29 @@ class CommentTests(unittest.TestCase):
 
 
 class PageTests(unittest.TestCase):
+    def test_body_urls_are_links_and_code_stays_text(self) -> None:
+        page = render_body(
+            "The profile pull request starts here: "
+            "https://github.com/softprobe/openjob/blob/main/README.md#post-your-resume-talent.\n\n"
+            "The file path is `talents/<first-letter>/<github-username>.md`.\n"
+        )
+        self.assertIn(
+            'href="https://github.com/softprobe/openjob/blob/main/README.md#post-your-resume-talent"',
+            page,
+        )
+        self.assertIn(
+            ">https://github.com/softprobe/openjob/blob/main/README.md#post-your-resume-talent</a>.",
+            page,
+        )
+        self.assertIn("<code>talents/&lt;first-letter&gt;/&lt;github-username&gt;.md</code>", page)
+        self.assertNotIn("<first-letter>", page)
+        self.assertNotIn("<github-username>", page)
+        chinese = render_body("官网是 https://www.softprobe.ai。项目是 https://github.com/arextest）背后的团队。")
+        self.assertIn('href="https://www.softprobe.ai"', chinese)
+        self.assertIn('href="https://github.com/arextest"', chinese)
+        self.assertNotIn("softprobe.ai。", chinese)
+        self.assertNotIn("arextest）", chinese)
+
     def test_sample_pages_have_cards_and_local_scripts(self) -> None:
         root = sample_tree()
         site = Path(tempfile.mkdtemp())
