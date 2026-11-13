@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import base64
+import os
 import re
 import shutil
 import subprocess
@@ -20,7 +21,15 @@ from samples import SAMPLES, sample_tree
 from validator.index import build_index, write_pages
 from validator.pr import check_pr
 from validator.privacy import find_contacts, has_contact_pattern
-from validator.share import card_description, hn_title, permalink, render_body, share_links, share_text
+from validator.share import (
+    card_description,
+    hn_title,
+    pages_origin,
+    permalink,
+    render_body,
+    share_links,
+    share_text,
+)
 
 ROOT = Path(__file__).resolve().parents[1]
 TODAY = date(2026, 11, 13)
@@ -179,6 +188,33 @@ class CommentTests(unittest.TestCase):
         self.assertNotIn(APPLY, comment)
         self.assertNotIn("linkedin.com/in", comment)
         self.assertNotIn("@", quoted[0])
+
+    def test_share_links_follow_github_repository(self) -> None:
+        self.assertEqual(pages_origin("softprobe/openjob"), "https://softprobe.github.io/openjob")
+        self.assertEqual(pages_origin("SOFTPROBE/OpenJob"), "https://softprobe.github.io/openjob")
+        self.assertEqual(pages_origin("zwobill/openjob"), "https://zwobill.github.io/openjob")
+        self.assertEqual(pages_origin("softprobe/softprobe.github.io"), "https://softprobe.github.io")
+        self.assertEqual(pages_origin(""), "https://softprobe.github.io/openjob")
+        self.assertEqual(pages_origin("not a repo"), "https://softprobe.github.io/openjob")
+        old = os.environ.get("GITHUB_REPOSITORY")
+        os.environ["GITHUB_REPOSITORY"] = "zwobill/openjob"
+        head = _tree({JOB: _job()})
+        base = _tree({})
+        try:
+            comment = check_pr(head=head, base=base, author="ada", today=TODAY).share_comment or ""
+        finally:
+            if old is None:
+                os.environ.pop("GITHUB_REPOSITORY", None)
+            else:
+                os.environ["GITHUB_REPOSITORY"] = old
+            shutil.rmtree(head)
+            shutil.rmtree(base)
+        page = "https://zwobill.github.io/openjob/p/jobs/2026/11/acme-backend-engineer/"
+        encoded = "https%3A%2F%2Fzwobill.github.io%2Fopenjob%2Fp%2Fjobs%2F2026%2F11%2Facme-backend-engineer%2F"
+        self.assertIn(page, comment)
+        self.assertIn(encoded, comment)
+        self.assertNotIn("softprobe.github.io", comment)
+        self.assertEqual(permalink(JOB), PAGE)
 
     def test_talent_comment_is_the_headline_only(self) -> None:
         rel = "talents/a/ada.md"
