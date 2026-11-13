@@ -9,6 +9,7 @@ remote: hybrid
 languages: [en, zh]
 tags: [ai-agents, observability, java, arex, opencode]
 apply: https://github.com/softprobe/openjob/blob/main/README.md#post-your-resume-talent
+apply_email: mailto:hr@softprobe.ai
 posted: 2026-11-13
 posted_by: zwobill
 ---
@@ -27,7 +28,7 @@ The role is based in Los Altos, California or Shanghai. Remote work is fine.
 
 ## How to apply
 
-Open a pull request that adds your profile under `talents/`, copied from `templates/talent.md`. The file path is `talents/<first-letter>/<github-username>.md`. Start from the README talent section: https://github.com/softprobe/openjob/blob/main/README.md#post-your-resume-talent
+Apply by the email on this page, or open a pull request that adds your profile under `talents/`, copied from `templates/talent.md`. The file path is `talents/<first-letter>/<github-username>.md`. The profile pull request starts here: https://github.com/softprobe/openjob/blob/main/README.md#post-your-resume-talent
 
 In the profile, say you are applying for Software Engineer at Softprobe and include this page so the team can find it: https://softprobe.github.io/openjob/p/jobs/2026/11/softprobe-software-engineer/
 
@@ -49,7 +50,7 @@ Softprobe 招聘软件工程师。Softprobe 是开源项目 AREX（https://githu
 
 ## 如何申请
 
-用 Pull Request 在 `talents/` 下添加档案，内容按 `templates/talent.md`。路径是 `talents/<首字母>/<github用户名>.md`。从 README 的人才说明开始：https://github.com/softprobe/openjob/blob/main/README.md#post-your-resume-talent
+可以用本页上的邮箱申请，也可以用 Pull Request 在 `talents/` 下添加档案，内容按 `templates/talent.md`。路径是 `talents/<首字母>/<github用户名>.md`。档案申请从这里开始：https://github.com/softprobe/openjob/blob/main/README.md#post-your-resume-talent
 
 在档案里写明你申请 Softprobe 的软件工程师，并附上本页链接，方便团队找到：https://softprobe.github.io/openjob/p/jobs/2026/11/softprobe-software-engineer/
 
