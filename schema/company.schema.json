@@ -1,22 +1,22 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://github.com/zwobill/openjob/schema/company.schema.json",
+  "$id": "https://github.com/softprobe/openjob/schema/company.schema.json",
   "title": "Company",
   "type": "object",
   "additionalProperties": false,
   "required": ["kind", "slug", "name", "website", "location", "tags", "posted", "posted_by"],
   "properties": {
     "kind": { "const": "company" },
-    "slug": { "$ref": "https://github.com/zwobill/openjob/schema/common.json#/$defs/slug" },
+    "slug": { "$ref": "https://github.com/softprobe/openjob/schema/common.json#/$defs/slug" },
     "name": { "type": "string", "minLength": 1, "maxLength": 80 },
-    "website": { "$ref": "https://github.com/zwobill/openjob/schema/common.json#/$defs/httpsUrl" },
-    "careers": { "$ref": "https://github.com/zwobill/openjob/schema/common.json#/$defs/httpsUrl" },
+    "website": { "$ref": "https://github.com/softprobe/openjob/schema/common.json#/$defs/httpsUrl" },
+    "careers": { "$ref": "https://github.com/softprobe/openjob/schema/common.json#/$defs/httpsUrl" },
     "location": { "type": "string", "minLength": 1, "maxLength": 80 },
-    "remote": { "$ref": "https://github.com/zwobill/openjob/schema/common.json#/$defs/remote" },
-    "languages": { "$ref": "https://github.com/zwobill/openjob/schema/common.json#/$defs/languages" },
-    "tags": { "$ref": "https://github.com/zwobill/openjob/schema/common.json#/$defs/tags" },
-    "posted": { "$ref": "https://github.com/zwobill/openjob/schema/common.json#/$defs/date" },
-    "posted_by": { "$ref": "https://github.com/zwobill/openjob/schema/common.json#/$defs/github" },
+    "remote": { "$ref": "https://github.com/softprobe/openjob/schema/common.json#/$defs/remote" },
+    "languages": { "$ref": "https://github.com/softprobe/openjob/schema/common.json#/$defs/languages" },
+    "tags": { "$ref": "https://github.com/softprobe/openjob/schema/common.json#/$defs/tags" },
+    "posted": { "$ref": "https://github.com/softprobe/openjob/schema/common.json#/$defs/date" },
+    "posted_by": { "$ref": "https://github.com/softprobe/openjob/schema/common.json#/$defs/github" },
     "example": { "type": "boolean" }
   }
 }

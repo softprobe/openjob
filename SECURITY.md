@@ -8,7 +8,7 @@ Allowed contact: a LinkedIn URL, a GitHub profile, a personal site, or a company
 
 ## Report a vulnerability
 
-For a bug in the checker, the workflows, or the Pages site, open a [private security advisory](https://github.com/zwobill/openjob/security/advisories/new). Do not include a phone number or a personal email. Describe the behavior and the file.
+For a bug in the checker, the workflows, or the Pages site, open a [private security advisory](https://github.com/softprobe/openjob/security/advisories/new). Do not include a phone number or a personal email. Describe the behavior and the file.
 
 The auto-merge workflow uses `pull_request_target` so the checker that runs is the one already on `main`. It reads the pull request as data. It does not install the pull request's dependencies and it does not execute the pull request's scripts. A pull request that edits `.github/workflows/` does not auto-merge.
 

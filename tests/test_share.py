@@ -26,7 +26,7 @@ ROOT = Path(__file__).resolve().parents[1]
 TODAY = date(2026, 11, 13)
 JOB = "jobs/2026/11/acme-backend-engineer.md"
 APPLY = "https://example.com/jobs/backend-engineer"
-PAGE = "https://zwobill.github.io/openjob/p/jobs/2026/11/acme-backend-engineer/"
+PAGE = "https://softprobe.github.io/openjob/p/jobs/2026/11/acme-backend-engineer/"
 BLURB = "Backend engineer — Acme — Example City"
 
 

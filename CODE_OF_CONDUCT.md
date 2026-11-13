@@ -38,7 +38,7 @@ This Code of Conduct applies within all community spaces, and also applies when 
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders through a [private security advisory](https://github.com/zwobill/openjob/security/advisories/new). For a public post that should be taken down, you can also open an Abuse or takedown issue. Do not include a phone number or a personal email address in the report. All complaints will be reviewed and investigated promptly and fairly.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders through a [private security advisory](https://github.com/softprobe/openjob/security/advisories/new). For a public post that should be taken down, you can also open an Abuse or takedown issue. Do not include a phone number or a personal email address in the report. All complaints will be reviewed and investigated promptly and fairly.
 
 All community leaders are obligated to respect the privacy and security of the reporter of any incident.
 

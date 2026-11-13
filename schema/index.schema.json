@@ -1,13 +1,13 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://github.com/zwobill/openjob/schema/index.schema.json",
+  "$id": "https://github.com/softprobe/openjob/schema/index.schema.json",
   "title": "OpenJob public index",
   "type": "object",
   "additionalProperties": false,
   "required": ["generated", "source", "posts"],
   "properties": {
     "generated": { "type": "string", "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}Z$" },
-    "source": { "const": "https://github.com/zwobill/openjob" },
+    "source": { "const": "https://github.com/softprobe/openjob" },
     "posts": {
       "type": "array",
       "items": { "$ref": "#/$defs/post" }
@@ -67,7 +67,7 @@
         "example": { "type": "boolean" },
         "federated": { "type": "boolean" },
         "url": { "type": "string", "pattern": "^https://\\S+$" },
-        "source_url": { "type": "string", "pattern": "^https://github\\.com/zwobill/openjob/blob/main/\\S+$" },
+        "source_url": { "type": "string", "pattern": "^https://github\\.com/softprobe/openjob/blob/main/\\S+$" },
         "profile_url": { "type": ["string", "null"] },
         "website": { "type": ["string", "null"] },
         "linkedin": { "type": ["string", "null"] },
@@ -78,7 +78,7 @@
         "excerpt": { "type": "string", "minLength": 1, "maxLength": 280 },
         "permalink": {
           "type": "string",
-          "pattern": "^https://zwobill\\.github\\.io/openjob/p/\\S+/$"
+          "pattern": "^https://softprobe\\.github\\.io/openjob/p/\\S+/$"
         },
         "share_text": { "type": "string", "minLength": 1, "maxLength": 320 },
         "shares": {

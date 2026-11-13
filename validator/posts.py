@@ -334,6 +334,7 @@ def maintainers_from(root: Path) -> set[str]:
             for token in stripped.split()[1:]:
                 if token.startswith("@") and len(token) > 1:
                     owners.add(token[1:].lower())
+    # Person who maintains the board when CODEOWNERS is missing. Not the repo owner.
     return owners or {"zwobill"}
 
 
