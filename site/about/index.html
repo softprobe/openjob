@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>About OpenJob</title>
+  <meta name="description" content="OpenJob is a job board that lives in a Git repository: you post a role or a profile with a pull request, people find it on a static page, and the file expires unless someone renews it.">
+  <link rel="canonical" href="https://softprobe.github.io/openjob/about/">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="OpenJob">
+  <meta property="og:title" content="About OpenJob">
+  <meta property="og:description" content="OpenJob is a job board that lives in a Git repository: you post a role or a profile with a pull request, people find it on a static page, and the file expires unless someone renews it.">
+  <meta property="og:url" content="https://softprobe.github.io/openjob/about/">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="About OpenJob">
+  <meta name="twitter:description" content="OpenJob is a job board that lives in a Git repository: you post a role or a profile with a pull request, people find it on a static page, and the file expires unless someone renews it.">
+  <link rel="stylesheet" href="../style.css">
+</head>
+<body class="entry">
+  <div class="wrap">
+    <header class="mast">
+      <div>
+        <p class="kicker">OpenJob</p>
+        <h1>About</h1>
+      </div>
+      <div class="mast-side">
+        <a href="https://softprobe.github.io/openjob/">Board</a>
+      </div>
+    </header>
+    <article>
+      <h2>What is OpenJob?</h2>
+      <p>OpenJob is a job board that lives in a Git repository: you post a role or a profile with a pull request, people find it on a static page, and the file expires unless someone renews it.</p>
+      <h2>How do I post a job or a talent profile?</h2>
+      <p>Copy a template, add a Markdown file under <code>jobs/</code>, <code>talents/</code>, or <code>companies/</code>, and open a pull request. The checker validates the file. A pull request that only changes posts merges on its own.</p>
+      <h2>How do I apply?</h2>
+      <p>The job page shows the method. That can be an email on the company domain, an https link, or both. A talent profile is a pull request that adds a file under <code>talents/</code>. Do not put a phone number or a personal email in that profile.</p>
+      <h2>Why are phone numbers and personal emails rejected?</h2>
+      <p>The board is public. Phone numbers are never accepted. Talent posts cannot contain an email. A job may list one hiring address, and only when that domain matches the company website.</p>
+      <h2>How long does a post stay up?</h2>
+      <p>A job lasts 60 days and a talent profile lasts 180 days, from <code>posted</code> or from <code>renewed</code>. Set <code>renewed</code> in a pull request to keep it. Company pages stay until the owner deletes them. An expired post is removed, and its page goes away.</p>
+      <h2>Can a post be in English and Chinese?</h2>
+      <p>Yes. One file can contain both. The page language is Chinese only when <code>languages</code> is exactly <code>zh</code>. There is no separate URL per language.</p>
+      <h2>Who maintains this?</h2>
+      <p>Softprobe maintains <a href="https://github.com/softprobe/openjob">softprobe/openjob</a>. Posts are CC BY 4.0. Code is MIT. You can fork the repository.</p>
+      <h2>中文</h2>
+      <p>OpenJob 是放在 Git 仓库里的招聘板：用 Pull Request 发布职位或人才档案，读者打开一个静态页面，文件到期后会被删除，除非有人续期。</p>
+      <p>把模板复制到 <code>jobs/</code>、<code>talents/</code> 或 <code>companies/</code>，然后开 Pull Request。只改帖子的请求会在检查通过后自动合并。</p>
+      <p>申请方式写在职位页上，可以是公司域名上的邮箱、一个 https 链接，或两者都有。人才档案是在 <code>talents/</code> 下新增文件的 Pull Request。不要写电话或个人邮箱。</p>
+      <p>看板是公开的。电话一律不允许。人才帖不能写邮箱。职位最多写一个招聘邮箱，而且域名必须和公司网站一致。</p>
+      <p>职位保留 60 天，人才档案保留 180 天，从 <code>posted</code> 或 <code>renewed</code> 起算。公司页一直保留，直到所有者删除。到期的帖子会被移除，页面也不再存在。</p>
+      <p>同一篇帖子可以中英都写。只有 <code>languages</code> 恰好是 <code>zh</code> 时，页面语言才是中文。没有按语言拆开的网址。</p>
+    </article>
+    <footer>
+      <p><a href="https://softprobe.github.io/openjob/">OpenJob</a> · <a href="https://github.com/softprobe/openjob">Source</a></p>
+    </footer>
+  </div>
+</body>
+</html>

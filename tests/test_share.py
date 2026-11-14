@@ -116,10 +116,17 @@ class ShareTextTests(unittest.TestCase):
         self.assertTrue(has_contact_pattern("Call (415) 555-0100."))
         self.assertTrue(has_contact_pattern("docs@example.com"))
 
-    def test_card_description_drops_links_and_contacts(self) -> None:
+    def test_card_description_keeps_the_sentence_around_a_link(self) -> None:
         text = card_description("See https://example.com/apply for the role and the team today.")
         self.assertNotIn("http", text)
-        self.assertNotIn("example.com", text)
+        self.assertIn("example.com", text)
+        self.assertIn("for the role", text)
+        site = card_description(
+            "The public site is https://www.softprobe.ai. The company builds two products."
+        )
+        self.assertIn("softprobe.ai.", site)
+        self.assertIn("The company builds", site)
+        self.assertNotIn("The public site is The company", site)
         self.assertEqual(card_description("Write ada@gmail.com about this opening please."), "A public post on OpenJob.")
 
     def test_share_intents_are_public_urls(self) -> None:

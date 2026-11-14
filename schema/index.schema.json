@@ -45,6 +45,8 @@
         "open_to",
         "compensation",
         "excerpt",
+        "org_website",
+        "company_permalink",
         "permalink",
         "share_text",
         "shares"
@@ -89,6 +91,18 @@
         "careers": { "type": ["string", "null"] },
         "open_to": { "type": "array", "items": { "type": "string" } },
         "compensation": { "type": "string" },
+        "org_website": {
+          "anyOf": [
+            { "type": "null" },
+            { "type": "string", "minLength": 12, "maxLength": 300, "pattern": "^https://\\S+$" }
+          ]
+        },
+        "company_permalink": {
+          "anyOf": [
+            { "type": "null" },
+            { "type": "string", "pattern": "^https://softprobe\\.github\\.io/openjob/p/\\S+/$" }
+          ]
+        },
         "excerpt": { "type": "string", "minLength": 1, "maxLength": 280 },
         "permalink": {
           "type": "string",
