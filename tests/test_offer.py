@@ -138,14 +138,18 @@ class StructuredJobTests(unittest.TestCase):
         self.assertIn("ZZ", messages)
         self.assertIn("ISO 3166-1", messages)
 
-    def test_softprobe_does_not_invent_salary_or_employment_type(self) -> None:
+    def test_softprobe_places_match_the_post_and_invent_nothing_else(self) -> None:
         text = (ROOT / "jobs/2026/11/softprobe-software-engineer.md").read_text(encoding="utf-8")
         front = text.split("---", 2)[1]
         self.assertIn('location: "Los Altos, CA / Shanghai"', front)
         self.assertIn("remote: hybrid", front)
+        self.assertIn("city: Los Altos", front)
+        self.assertIn("region: CA", front)
+        self.assertIn("country: US", front)
+        self.assertIn("city: Shanghai", front)
+        self.assertIn("country: CN", front)
         self.assertNotIn("salary:", front)
         self.assertNotIn("employment_type:", front)
-        self.assertNotIn("locations:", front)
 
 
 class OriginAndVerificationTests(unittest.TestCase):
