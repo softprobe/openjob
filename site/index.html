@@ -34,54 +34,54 @@
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <a class="skip" href="#results">Skip to results</a>
+  <a class="skip" href="#results" data-i18n="skipResults">Skip to results</a>
   <div class="wrap">
     <header class="mast">
       <div>
-        <p class="kicker" id="kicker">GitHub-native classifieds</p>
+        <p class="kicker" id="kicker" data-i18n="kicker">GitHub-native classifieds</p>
         <div class="title-row">
           <h1>OpenJob</h1>
           <span class="stamp" aria-hidden="true">PR</span>
         </div>
-        <p class="deck" id="deck">Jobs and talent profiles, published as pull requests. No accounts. No phone numbers.</p>
+        <p class="deck" id="deck" data-i18n="deck">Jobs and talent profiles, published as pull requests. No accounts. No phone numbers.</p>
       </div>
       <div class="mast-side">
-        <button type="button" id="lang" class="text-button" aria-pressed="false">中文</button>
+        <button type="button" id="lang" class="text-button" data-lang-toggle aria-pressed="false">中文</button>
         <a id="repo-link" href="https://github.com/softprobe/openjob">softprobe/openjob</a>
       </div>
     </header>
 
     <form id="filters" role="search">
-      <div class="tabs" role="tablist" aria-label="Post type">
-        <button type="button" class="tab" data-kind="all" aria-pressed="true">All</button>
-        <button type="button" class="tab" data-kind="job" aria-pressed="false">Jobs</button>
-        <button type="button" class="tab" data-kind="talent" aria-pressed="false">Talent</button>
-        <button type="button" class="tab" data-kind="company" aria-pressed="false">Companies</button>
+      <div class="tabs" role="tablist" aria-label="Post type" data-i18n-attrs="aria-label:postType">
+        <button type="button" class="tab" data-kind="all" data-i18n="tabs.all" aria-pressed="true">All</button>
+        <button type="button" class="tab" data-kind="job" data-i18n="tabs.job" aria-pressed="false">Jobs</button>
+        <button type="button" class="tab" data-kind="talent" data-i18n="tabs.talent" aria-pressed="false">Talent</button>
+        <button type="button" class="tab" data-kind="company" data-i18n="tabs.company" aria-pressed="false">Companies</button>
       </div>
       <div class="fields">
         <label class="grow">
-          <span id="label-q">Role, skill, or keyword</span>
-          <input id="q" type="search" autocomplete="off">
+          <span id="label-q" data-i18n="q">Role, skill, or keyword</span>
+          <input id="q" type="search" autocomplete="off" data-i18n-attrs="placeholder:q">
         </label>
         <label>
-          <span id="label-location">Location</span>
-          <input id="location" type="search" autocomplete="off">
+          <span id="label-location" data-i18n="location">Location</span>
+          <input id="location" type="search" autocomplete="off" data-i18n-attrs="placeholder:location">
         </label>
         <label>
-          <span id="label-remote">Remote</span>
+          <span id="label-remote" data-i18n="remote">Remote</span>
           <select id="remote"></select>
         </label>
         <label>
-          <span id="label-language">Language</span>
+          <span id="label-language" data-i18n="language">Language</span>
           <select id="language"></select>
         </label>
         <label>
-          <span id="label-tag">Tag</span>
+          <span id="label-tag" data-i18n="tag">Tag</span>
           <select id="tag"></select>
         </label>
         <label class="check">
           <input id="examples" type="checkbox" checked>
-          <span id="label-examples">Show samples</span>
+          <span id="label-examples" data-i18n="examples">Show samples</span>
         </label>
       </div>
     </form>
@@ -92,13 +92,13 @@
     </div>
     <noscript>
       <p>Search runs in the browser. The list above is the newest posts and does not need JavaScript. Older posts are on the archive pages linked there.</p>
-      <p>搜索在浏览器里进行。上面是最新的帖子，不需要 JavaScript。更早的帖子在旁边的归档页。</p>
     </noscript>
     <footer>
-      <p id="footer-note">Phone numbers are not allowed. A job may show Apply by email when the address is on the company domain. Share text never includes a phone number or an email. Posts are CC BY 4.0. Code is MIT.</p>
-      <p><a href="about/">About</a> · <a href="https://github.com/softprobe/openjob">Source</a> · <a href="feed.xml">Feed</a></p>
+      <p id="footer-note" data-i18n="footer">Phone numbers are not allowed. A job may show Apply by email when the address is on the company domain. Share text never includes a phone number or an email. Posts are CC BY 4.0. Code is MIT.</p>
+      <p><a href="about/" data-i18n="about">About</a> · <a href="https://github.com/softprobe/openjob" data-i18n="source">Source</a> · <a href="feed.xml" data-i18n="feed">Feed</a></p>
     </footer>
   </div>
+  <script src="i18n.js"></script>
   <script src="vendor/qrcode.js"></script>
   <script src="share.js"></script>
   <script src="app.js"></script>

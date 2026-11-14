@@ -61,15 +61,26 @@ _PLATFORMS = (
 )
 
 _KIND_LABEL = {
-    "job": "Job · 职位",
-    "talent": "Talent · 人才",
-    "talent-ref": "Talent · 人才",
-    "company": "Company · 公司",
+    "job": "Job",
+    "talent": "Talent",
+    "talent-ref": "Talent",
+    "company": "Company",
+}
+_KIND_KEY = {
+    "job": "kind.job",
+    "talent": "kind.talent",
+    "talent-ref": "kind.talent",
+    "company": "kind.company",
 }
 _REMOTE_LABEL = {
-    "remote": "Remote · 远程",
-    "onsite": "On-site · 到岗",
-    "hybrid": "Hybrid · 混合",
+    "remote": "Remote",
+    "onsite": "On-site",
+    "hybrid": "Hybrid",
+}
+_REMOTE_KEY = {
+    "remote": "remoteOpt.remote",
+    "onsite": "remoteOpt.onsite",
+    "hybrid": "remoteOpt.hybrid",
 }
 _FAVICON = (
     "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E"
@@ -341,18 +352,19 @@ def render_post_page(post: Mapping[str, object], body: str) -> str:
   <link rel="stylesheet" href="{prefix}style.css">
 </head>
 <body class="entry">
-  <a class="skip" href="#share">Skip to share</a>
+  <a class="skip" href="#share" data-i18n="skipShare">Skip to share</a>
   <div class="wrap">
     <header class="mast">
       <div class="identity">
         {logo}
         <div>
-          <p class="kicker">{e(_KIND_LABEL.get(kind, kind))}</p>
+          <p class="kicker" data-i18n="{e(_KIND_KEY.get(kind, ""), quote=True)}">{e(_KIND_LABEL.get(kind, kind))}</p>
           <h1>{e(title)}</h1>
           <p class="deck">{e(deck)}</p>
         </div>
       </div>
       <div class="mast-side">
+        <button type="button" class="text-button" data-lang-toggle aria-pressed="false">中文</button>
         <a href="{e(home, quote=True)}">OpenJob</a>
       </div>
     </header>
@@ -364,31 +376,32 @@ def render_post_page(post: Mapping[str, object], body: str) -> str:
       {render_body(body)}
       {open_jobs}
       {tags}
-      <div class="links">{company_link}{actions}<a href="{e(board, quote=True)}">Board · 公告板</a><span class="sub">{e(_dates(post))}</span></div>
+      <div class="links">{company_link}{actions}<a href="{e(board, quote=True)}" data-i18n="board">Board</a><span class="sub">{_dates(post)}</span></div>
       <section class="share" id="share" data-permalink="{e(url, quote=True)}" data-share-text="{e(text, quote=True)}">
-        <h2>Share · 分享</h2>
+        <h2 data-i18n="share">Share</h2>
         <p class="share-text">{e(text)}</p>
-        <p class="sub">The buttons send this text and the permalink. They do not send an apply link, a phone number, or an email address. An Apply by email button on this page is not part of this text. 按钮只发送这段文字和本页链接，不含申请链接、电话或邮箱。页面上的「邮件申请」按钮不在这段文字里。</p>
+        <p class="sub" data-i18n="shareNote">The buttons send this text and the permalink. They do not send an apply link, a phone number, or an email address. An Apply by email button on this page is not part of this text.</p>
         <div class="share-links">
           {share_anchors}
-          <button type="button" data-copy data-done="Copied">Copy link</button>
-          <button type="button" data-wechat aria-expanded="false">WeChat</button>
+          <button type="button" data-copy data-i18n="copy" data-done="Copied" data-i18n-attrs="data-done:copied">Copy link</button>
+          <button type="button" data-wechat data-i18n="wechat" aria-expanded="false">WeChat</button>
         </div>
         <label class="permalink-label">
-          <span class="sub">Permalink · 永久链接</span>
+          <span class="sub" data-i18n="permalink">Permalink</span>
           <input class="permalink" readonly value="{e(url, quote=True)}">
         </label>
         <div class="qr-panel" hidden>
-          <canvas aria-label="QR code for this permalink"></canvas>
-          <p class="sub">Scan with WeChat. The code is drawn in your browser from the permalink. 用微信扫描。二维码由浏览器根据本页链接生成。</p>
+          <canvas aria-label="QR code for this permalink" data-i18n-attrs="aria-label:qrLabel"></canvas>
+          <p class="sub" data-i18n="wechatHelp">Scan with WeChat. This code is the permalink, drawn in your browser.</p>
         </div>
       </section>
     </article>
     <footer>
-      <p>Phone numbers are not allowed. A job may show Apply by email when the address is on the company domain. Share text never includes a phone number or an email. Posts are CC BY 4.0. Code is MIT.</p>
-      <p><a href="{e(home, quote=True)}">OpenJob</a> · <a href="{e(home, quote=True)}about/">About</a> · <a href="https://github.com/softprobe/openjob">Source</a></p>
+      <p data-i18n="footer">Phone numbers are not allowed. A job may show Apply by email when the address is on the company domain. Share text never includes a phone number or an email. Posts are CC BY 4.0. Code is MIT.</p>
+      <p><a href="{e(home, quote=True)}">OpenJob</a> · <a href="{e(home, quote=True)}about/" data-i18n="about">About</a> · <a href="https://github.com/softprobe/openjob" data-i18n="source">Source</a></p>
     </footer>
   </div>
+  <script src="{prefix}i18n.js"></script>
   <script src="{prefix}vendor/qrcode.js"></script>
   <script src="{prefix}share.js"></script>
 </body>
@@ -426,9 +439,15 @@ def _open_jobs(post: Mapping[str, object]) -> str:
     if isinstance(more, int) and more > 0:
         archive = html.escape(pages_origin().rstrip("/") + "/jobs/page/1/", quote=True)
         more_html = (
-            f'<p><a href="{archive}">The jobs archive lists every open role.</a></p>'
+            f'<p><a href="{archive}" data-i18n="openJobsMore">The jobs archive lists every open role.</a></p>'
         )
-    return '<section class="open-jobs"><h2>Open jobs</h2><ul>' + "".join(items) + "</ul>" + more_html + "</section>"
+    return (
+        '<section class="open-jobs"><h2 data-i18n="openJobs">Open jobs</h2><ul>'
+        + "".join(items)
+        + "</ul>"
+        + more_html
+        + "</section>"
+    )
 
 
 def render_body(body: str) -> str:
@@ -576,23 +595,28 @@ def _page_deck(post: Mapping[str, object]) -> str:
     return str(post.get("location") or "")
 
 
+def _chip(text: str, key: str | None = None) -> str:
+    attr = f' data-i18n="{html.escape(key, quote=True)}"' if key else ""
+    return f'<span class="badge"{attr}>{html.escape(text)}</span>'
+
+
 def _badges(post: Mapping[str, object]) -> str:
     kind = str(post.get("kind") or "")
-    chips = [_KIND_LABEL.get(kind, kind)]
+    chips = [_chip(_KIND_LABEL.get(kind, kind), _KIND_KEY.get(kind))]
     remote = str(post.get("remote") or "")
     if remote in _REMOTE_LABEL:
-        chips.append(_REMOTE_LABEL[remote])
+        chips.append(_chip(_REMOTE_LABEL[remote], _REMOTE_KEY[remote]))
     if kind == "job":
         for code in _employment_list(post.get("employment_type")):
-            chips.append(_EMPLOYMENT.get(code, code))
+            chips.append(_chip(_EMPLOYMENT.get(code, code), f"employment.{code}"))
     languages = post.get("languages") or []
     if isinstance(languages, list):
-        chips.extend(str(language) for language in languages)
+        chips.extend(_chip(str(language)) for language in languages)
     if post.get("example"):
-        chips.append("Sample · 示例")
+        chips.append(_chip("Sample", "sample"))
     if post.get("federated"):
-        chips.append("Own repo · 独立仓库")
-    return "".join(f'<span class="badge">{html.escape(chip)}</span>' for chip in chips)
+        chips.append(_chip("Own repo", "federated"))
+    return "".join(chips)
 
 
 def _tags(tags: object) -> str:
@@ -614,22 +638,23 @@ def _apply_section(post: Mapping[str, object]) -> str:
     buttons: list[str] = []
     if address and mailto:
         buttons.append(
-            f'<a href="{html.escape(mailto, quote=True)}" rel="nofollow noopener noreferrer">'
-            "Apply by email · 邮件申请</a>"
+            f'<a href="{html.escape(mailto, quote=True)}" rel="nofollow noopener noreferrer" '
+            'data-i18n="applyEmail">Apply by email</a>'
         )
         buttons.append(
             f'<button type="button" data-copy-email="{html.escape(address, quote=True)}" '
-            'data-done="Copied · 已复制">Copy email · 复制邮箱</button>'
+            'data-i18n="copyEmail" data-done="Copied" data-i18n-attrs="data-done:copied">'
+            "Copy email</button>"
         )
     if https_apply:
         buttons.append(
-            f'<a href="{html.escape(https_apply, quote=True)}" rel="noopener noreferrer">'
-            "Apply · 申请</a>"
+            f'<a href="{html.escape(https_apply, quote=True)}" rel="noopener noreferrer" '
+            'data-i18n="apply">Apply</a>'
         )
     address_html = f'<p class="apply-address">{html.escape(address)}</p>' if address else ""
     return (
         '<section class="apply-how" id="apply">'
-        "<h2>How to apply · 如何申请</h2>"
+        '<h2 data-i18n="howToApply">How to apply</h2>'
         f"{address_html}"
         f'<div class="apply-actions">{"".join(buttons)}</div>'
         "</section>"
@@ -644,26 +669,30 @@ def _actions(post: Mapping[str, object]) -> str:
         mailto = _mailto(post.get("apply_email"))
         if https_apply:
             links.append(
-                f'<a href="{html.escape(https_apply, quote=True)}" rel="noopener noreferrer">Apply · 申请</a>'
+                f'<a href="{html.escape(https_apply, quote=True)}" rel="noopener noreferrer" '
+                'data-i18n="apply">Apply</a>'
             )
         if mailto:
             links.append(
-                f'<a href="{html.escape(mailto, quote=True)}" rel="nofollow noopener noreferrer">Apply by email · 邮件申请</a>'
+                f'<a href="{html.escape(mailto, quote=True)}" rel="nofollow noopener noreferrer" '
+                'data-i18n="applyEmail">Apply by email</a>'
             )
     else:
         if kind == "company":
-            label = "Website · 网站"
+            label, key = "Website", "website"
         else:
-            label = "Profile · 档案"
+            label, key = "Profile", "profile"
         outbound = _https(post.get("url"))
         if outbound:
             links.append(
-                f'<a href="{html.escape(outbound, quote=True)}" rel="noopener noreferrer">{label}</a>'
+                f'<a href="{html.escape(outbound, quote=True)}" rel="noopener noreferrer" '
+                f'data-i18n="{key}">{label}</a>'
             )
     source = _https(post.get("source_url"))
     if source:
         links.append(
-            f'<a href="{html.escape(source, quote=True)}" rel="noopener noreferrer">Source · 源文件</a>'
+            f'<a href="{html.escape(source, quote=True)}" rel="noopener noreferrer" '
+            'data-i18n="source">Source</a>'
         )
     return "".join(links)
 
@@ -688,11 +717,12 @@ def _logo_html(post: Mapping[str, object]) -> str:
 
 
 def _dates(post: Mapping[str, object]) -> str:
-    posted = str(post.get("posted") or "")
+    posted = html.escape(str(post.get("posted") or ""))
+    opened = f'<span data-i18n="posted">Posted</span> {posted}'
     expires = post.get("expires")
     if expires:
-        return f"Posted {posted} · Expires {expires}"
-    return f"Posted {posted}"
+        return opened + f' · <span data-i18n="expires">Expires</span> {html.escape(str(expires))}'
+    return opened
 
 
 def _https(url: object) -> str | None:

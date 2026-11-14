@@ -77,7 +77,7 @@ function toggleWeChat(root, button) {
   } catch (error) {
     const note = document.createElement("p");
     note.className = "sub";
-    note.textContent = "Copy the link and paste it into WeChat.";
+    note.textContent = window.OpenJobUI ? OpenJobUI.text("wechatPaste") : "Copy the link and paste it into WeChat.";
     panel.appendChild(note);
     canvas.dataset.ready = "1";
   }

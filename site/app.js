@@ -1,84 +1,5 @@
-const STRINGS = {
-  en: {
-    kicker: "GitHub-native classifieds",
-    deck: "Jobs and talent profiles, published as pull requests. No accounts. No phone numbers.",
-    lang: "中文",
-    tabs: { all: "All", job: "Jobs", talent: "Talent", company: "Companies" },
-    q: "Role, skill, or keyword",
-    location: "Location",
-    remote: "Remote",
-    language: "Language",
-    tag: "Tag",
-    examples: "Show samples",
-    any: "Any",
-    remoteOpt: { remote: "Remote", onsite: "On-site", hybrid: "Hybrid", unspecified: "Not set" },
-    count: (n, total) => `${n} shown of ${total}`,
-    empty: "Nothing matches these filters.",
-    missing: "The index is not here yet. GitHub Pages builds it from the posts. Locally, from the repo root: python -m validator build-index --root . --out site/index.json",
-    sample: "Sample",
-    federated: "Own repo",
-    apply: "Apply",
-    applyEmail: "Apply by email",
-    howToApply: "How to apply",
-    copyEmail: "Copy email",
-    copiedEmail: "Copied",
-    website: "Website",
-    profile: "Profile",
-    source: "Source",
-    posted: "Posted",
-    expires: "Expires",
-    footer: "Phone numbers are not allowed. A job may show Apply by email when the address is on the company domain. Share text never includes a phone number or an email. Posts are CC BY 4.0. Code is MIT.",
-    share: "Share",
-    shareNote: "The buttons send this text and the permalink. They do not send an apply link, a phone number, or an email address. An Apply by email button on the page is not part of this text.",
-    copy: "Copy link",
-    copied: "Copied",
-    wechat: "WeChat",
-    wechatHelp: "Scan with WeChat. This code is the permalink, drawn in your browser.",
-    permalink: "Permalink",
-    qrLabel: "QR code for this permalink",
-  },
-  zh: {
-    kicker: "用 Pull Request 发布的分类信息",
-    deck: "职位和人才档案都通过 Pull Request 发布。没有账号系统，也不收集电话。",
-    lang: "EN",
-    tabs: { all: "全部", job: "职位", talent: "人才", company: "公司" },
-    q: "职位、技能或关键词",
-    location: "地点",
-    remote: "远程",
-    language: "语言",
-    tag: "标签",
-    examples: "显示示例",
-    any: "不限",
-    remoteOpt: { remote: "远程", onsite: "到岗", hybrid: "混合", unspecified: "未标明" },
-    count: (n, total) => `显示 ${n} / ${total}`,
-    empty: "没有符合这些条件的帖子。",
-    missing: "索引还没生成。GitHub Pages 会根据帖子构建。本地在仓库根目录运行：python -m validator build-index --root . --out site/index.json",
-    sample: "示例",
-    federated: "独立仓库",
-    apply: "申请",
-    applyEmail: "邮件申请",
-    howToApply: "如何申请",
-    copyEmail: "复制邮箱",
-    copiedEmail: "已复制",
-    website: "网站",
-    profile: "档案",
-    source: "源文件",
-    posted: "发布",
-    expires: "到期",
-    footer: "不允许电话号码。职位可以在公司域名匹配时显示「邮件申请」。分享文字不含电话或邮箱。帖子以 CC BY 4.0 授权，代码以 MIT 授权。",
-    share: "分享",
-    shareNote: "按钮只发送这段文字和永久链接，不包含申请链接、电话或邮箱。页面上的「邮件申请」按钮不在这段文字里。",
-    copy: "复制链接",
-    copied: "已复制",
-    wechat: "微信",
-    wechatHelp: "用微信扫描。二维码是本条永久链接，由浏览器在本地生成。",
-    permalink: "永久链接",
-    qrLabel: "本条永久链接的二维码",
-  },
-};
-
 const state = {
-  ui: localStorage.getItem("openjob-ui") === "zh" ? "zh" : "en",
+  ui: window.OpenJobUI.preferred(),
   kind: "all",
   q: "",
   location: "",
@@ -91,7 +12,6 @@ const state = {
 const els = {
   kicker: document.querySelector("#kicker"),
   deck: document.querySelector("#deck"),
-  lang: document.querySelector("#lang"),
   tabs: [...document.querySelectorAll(".tab")],
   q: document.querySelector("#q"),
   location: document.querySelector("#location"),
@@ -108,12 +28,11 @@ let posts = [];
 let loadError = false;
 
 function t() {
-  return STRINGS[state.ui];
+  return OpenJobUI.strings[state.ui] || OpenJobUI.strings.en;
 }
 
 function readQuery() {
   const params = new URLSearchParams(location.search);
-  if (params.get("ui") === "zh" || params.get("ui") === "en") state.ui = params.get("ui");
   const kind = params.get("kind");
   if (kind && ["all", "job", "talent", "company"].includes(kind)) state.kind = kind;
   state.q = params.get("q") || "";
@@ -126,7 +45,6 @@ function readQuery() {
 
 function writeQuery() {
   const params = new URLSearchParams();
-  if (state.ui !== "en") params.set("ui", state.ui);
   if (state.kind !== "all") params.set("kind", state.kind);
   if (state.q) params.set("q", state.q);
   if (state.location) params.set("location", state.location);
@@ -142,11 +60,9 @@ function writeQuery() {
 
 function applyChrome() {
   const copy = t();
-  document.documentElement.lang = state.ui === "zh" ? "zh" : "en";
+  OpenJobUI.apply(state.ui);
   els.kicker.textContent = copy.kicker;
   els.deck.textContent = copy.deck;
-  els.lang.textContent = copy.lang;
-  els.lang.setAttribute("aria-pressed", state.ui === "zh" ? "true" : "false");
   document.querySelector("#label-q").textContent = copy.q;
   document.querySelector("#label-location").textContent = copy.location;
   document.querySelector("#label-remote").textContent = copy.remote;
@@ -283,7 +199,7 @@ function card(post, target) {
   const badges = document.createElement("div");
   badges.className = "badges";
   const kindKey = post.kind === "talent-ref" ? "talent" : post.kind;
-  badges.append(badge(copy.tabs[kindKey] || kindKey));
+  badges.append(badge((copy.kind && copy.kind[kindKey]) || kindKey));
   if (post.remote && post.remote !== "unspecified") {
     badges.append(badge(copy.remoteOpt[post.remote] || post.remote));
   }
@@ -461,7 +377,7 @@ function applyHowBlock(post, copy) {
     copyButton.type = "button";
     copyButton.textContent = copy.copyEmail;
     copyButton.addEventListener("click", () => {
-      copyAddress(copyButton, address.textContent, copy.copiedEmail);
+      copyAddress(copyButton, address.textContent, copy.copied);
     });
     actions.appendChild(copyButton);
   }
@@ -523,9 +439,8 @@ function safeLink(url, text) {
 }
 
 function bind() {
-  els.lang.addEventListener("click", () => {
-    state.ui = state.ui === "en" ? "zh" : "en";
-    localStorage.setItem("openjob-ui", state.ui);
+  document.addEventListener("openjob-ui", (event) => {
+    state.ui = event.detail === "zh" ? "zh" : "en";
     writeQuery();
     render();
   });
