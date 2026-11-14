@@ -33,9 +33,10 @@
       "pattern": "^mailto:[A-Za-z0-9][A-Za-z0-9._%+-]{0,63}@[A-Za-z0-9](?:[A-Za-z0-9-]{0,62}[A-Za-z0-9])?(?:\\.[A-Za-z0-9](?:[A-Za-z0-9-]{0,62}[A-Za-z0-9])?)+$"
     },
     "remote": {
+      "description": "true or remote means fully remote. false or onsite means on-site. hybrid means both.",
       "oneOf": [
         { "type": "boolean" },
-        { "type": "string", "enum": ["hybrid"] }
+        { "type": "string", "enum": ["onsite", "hybrid", "remote"] }
       ]
     },
     "languages": {

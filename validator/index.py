@@ -161,6 +161,9 @@ def _project(rel: str, meta: dict, body: str, *, root: Path) -> dict:
         "careers": meta.get("careers"),
         "open_to": list(meta.get("open_to") or []),
         "compensation": meta.get("compensation") or "",
+        "employment_type": _employment_type(kind, meta),
+        "salary": _salary(kind, meta),
+        "locations": _locations(kind, meta),
         "excerpt": prose_excerpt(body),
         "org_website": _org_website(kind, meta, root),
         "company_permalink": _company_permalink(kind, meta, root),
@@ -186,13 +189,50 @@ def _https_url(value: object) -> str | None:
 
 
 def _remote(value: object) -> str:
-    if value is True:
+    if value is True or value == "remote":
         return "remote"
-    if value is False:
+    if value is False or value == "onsite":
         return "onsite"
     if value == "hybrid":
         return "hybrid"
     return "unspecified"
+
+
+def _employment_type(kind: str, meta: dict) -> list[str] | None:
+    if kind != "job":
+        return None
+    value = meta.get("employment_type")
+    if isinstance(value, str) and value:
+        return [value]
+    if isinstance(value, list) and value:
+        return [str(item) for item in value]
+    return None
+
+
+def _salary(kind: str, meta: dict) -> dict | None:
+    if kind != "job" or not isinstance(meta.get("salary"), dict):
+        return None
+    raw = meta["salary"]
+    salary = {"min": raw["min"], "currency": raw["currency"], "unit": raw["unit"]}
+    if "max" in raw:
+        salary["max"] = raw["max"]
+    return salary
+
+
+def _locations(kind: str, meta: dict) -> list[dict] | None:
+    if kind != "job" or not isinstance(meta.get("locations"), list):
+        return None
+    places = []
+    for item in meta["locations"]:
+        if not isinstance(item, dict):
+            continue
+        place = {"country": item["country"]}
+        if item.get("city"):
+            place["city"] = item["city"]
+        if item.get("region"):
+            place["region"] = item["region"]
+        places.append(place)
+    return places or None
 
 
 def _org_website(kind: str, meta: dict, root: Path) -> str | None:

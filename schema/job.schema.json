@@ -48,6 +48,53 @@
     "expires": { "$ref": "https://github.com/softprobe/openjob/schema/common.json#/$defs/date" },
     "renewed": { "$ref": "https://github.com/softprobe/openjob/schema/common.json#/$defs/date" },
     "compensation": { "type": "string", "minLength": 1, "maxLength": 80 },
+    "employment_type": {
+      "description": "schema.org employmentType. One value, or a list.",
+      "oneOf": [
+        {
+          "type": "string",
+          "enum": ["FULL_TIME", "PART_TIME", "CONTRACTOR", "TEMPORARY", "INTERN", "VOLUNTEER", "PER_DIEM", "OTHER"]
+        },
+        {
+          "type": "array",
+          "minItems": 1,
+          "maxItems": 8,
+          "uniqueItems": true,
+          "items": {
+            "type": "string",
+            "enum": ["FULL_TIME", "PART_TIME", "CONTRACTOR", "TEMPORARY", "INTERN", "VOLUNTEER", "PER_DIEM", "OTHER"]
+          }
+        }
+      ]
+    },
+    "salary": {
+      "description": "Structured pay. currency is ISO 4217. unit is the pay period. max, when set, is at least min.",
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["min", "currency", "unit"],
+      "properties": {
+        "min": { "type": "number", "exclusiveMinimum": 0 },
+        "max": { "type": "number", "exclusiveMinimum": 0 },
+        "currency": { "type": "string", "pattern": "^[A-Z]{3}$" },
+        "unit": { "enum": ["HOUR", "DAY", "WEEK", "MONTH", "YEAR"] }
+      }
+    },
+    "locations": {
+      "description": "Structured places. country is ISO 3166-1 alpha-2. The free-text location field is still required.",
+      "type": "array",
+      "minItems": 1,
+      "maxItems": 8,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["country"],
+        "properties": {
+          "city": { "type": "string", "minLength": 1, "maxLength": 80 },
+          "region": { "type": "string", "minLength": 1, "maxLength": 40 },
+          "country": { "type": "string", "pattern": "^[A-Z]{2}$" }
+        }
+      }
+    },
     "example": { "type": "boolean" }
   }
 }

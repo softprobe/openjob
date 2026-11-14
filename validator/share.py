@@ -1,7 +1,8 @@
 """Permalinks and share links for a public post.
 
-The Pages origin is the project URL of GITHUB_REPOSITORY when Actions sets it,
-and of REPO otherwise.
+The Pages origin is the Actions variable ``PAGES_ORIGIN`` when that is set.
+Otherwise it is the project URL of ``GITHUB_REPOSITORY``, and of ``REPO``
+outside Actions. The default is ``https://softprobe.github.io/openjob``.
 
 The prefilled text is the listing, not a way to reach the person. Jobs use the
 role, company, and location. Talent uses the headline. Companies use the name
@@ -16,7 +17,7 @@ import html
 import os
 import re
 from typing import Mapping
-from urllib.parse import quote, urlencode
+from urllib.parse import quote, urlencode, urlsplit
 
 from validator.constants import REPO
 from validator.privacy import has_contact_pattern
@@ -25,6 +26,22 @@ from validator.privacy import has_contact_pattern
 _SLUG = re.compile(r"[a-z0-9](?:[a-z0-9._-]{0,98}[a-z0-9])?")
 GENERIC = "OpenJob"
 HN_TITLE_LIMIT = 80
+TEMPLATE_ORIGIN = "https://softprobe.github.io/openjob"
+OG_ALT = "OpenJob. Open, privacy-first job board on GitHub"
+GOOGLE_SITE_VERIFICATION = "a2xq4xTZGnwkNdS2FSOJ9EGiUwnSmcRUcCAa2CUkiPI"
+GOOGLE_VERIFICATION_FILE = "googlea714d55b74530204.html"
+GOOGLE_VERIFICATION_BODY = "google-site-verification: googlea714d55b74530204.html\n"
+_EMPLOYMENT = {
+    "FULL_TIME": "Full-time",
+    "PART_TIME": "Part-time",
+    "CONTRACTOR": "Contractor",
+    "TEMPORARY": "Temporary",
+    "INTERN": "Intern",
+    "VOLUNTEER": "Volunteer",
+    "PER_DIEM": "Per diem",
+    "OTHER": "Other",
+}
+_SALARY_UNIT = {"HOUR": "hour", "DAY": "day", "WEEK": "week", "MONTH": "month", "YEAR": "year"}
 
 _URL = re.compile(r"(?i)\b(?:https?://|mailto:|tel:)\S+")
 _BODY_LINK = re.compile(r"https://[A-Za-z0-9._~:/?#\[\]@!$&'*+,;=%-]+")
@@ -64,15 +81,18 @@ _FAVICON = (
 def pages_origin(repository: str | None = None) -> str:
     """Project Pages origin for the repository that is publishing the board.
 
-    GitHub Actions sets ``GITHUB_REPOSITORY`` to ``owner/name`` before this
-    process starts, including on ``pull_request_target``. That value is the
-    live repository, so a transfer cannot leave new share links on the previous
-    owner's ``github.io`` host. Outside Actions, the origin is ``REPO``.
+    An Actions variable ``PAGES_ORIGIN`` wins when this is called with no
+    repository argument. Otherwise GitHub Actions sets ``GITHUB_REPOSITORY``
+    to ``owner/name``, including on ``pull_request_target``. Outside Actions,
+    the origin is ``REPO``.
 
     ``owner/owner.github.io`` is the site root. Every other repository is
     ``https://owner.github.io/name``.
     """
     if repository is None:
+        configured = configured_origin()
+        if configured is not None:
+            return configured
         repository = os.environ.get("GITHUB_REPOSITORY", "")
     origin = _origin_for(repository.strip())
     if origin is None:
@@ -80,6 +100,78 @@ def pages_origin(repository: str | None = None) -> str:
     if origin is None:
         raise RuntimeError(f"REPO {REPO!r} is not an owner/name repository.")
     return origin
+
+
+def configured_origin() -> str | None:
+    """``PAGES_ORIGIN`` with one trailing slash removed, or None when unset."""
+    raw = os.environ.get("PAGES_ORIGIN", "").strip()
+    if not raw:
+        return None
+    origin = _public_origin(raw)
+    if origin is None:
+        raise ValueError(
+            "PAGES_ORIGIN must be an https origin such as "
+            "https://softprobe.github.io/openjob or https://jobs.example.com."
+        )
+    return origin
+
+
+def _public_origin(raw: str) -> str | None:
+    parsed = urlsplit(raw.strip())
+    if parsed.scheme != "https" or not parsed.hostname:
+        return None
+    if parsed.username or parsed.password or parsed.query or parsed.fragment or parsed.port:
+        return None
+    path = parsed.path.rstrip("/")
+    if path and not path.startswith("/"):
+        return None
+    if "//" in path or " " in path:
+        return None
+    host = parsed.hostname.lower()
+    if path:
+        return f"https://{host}{path}"
+    return f"https://{host}"
+
+
+def bare_host(origin: str | None = None) -> str | None:
+    """Hostname of a custom-domain origin. A github.io URL has no CNAME."""
+    parsed = urlsplit(origin if origin is not None else pages_origin())
+    if parsed.scheme != "https" or parsed.path not in ("", "/"):
+        return None
+    host = (parsed.hostname or "").lower()
+    if not host or host == "github.io" or host.endswith(".github.io"):
+        return None
+    return host
+
+
+def google_site_verification() -> str:
+    value = os.environ.get("GOOGLE_SITE_VERIFICATION", "").strip()
+    return value or GOOGLE_SITE_VERIFICATION
+
+
+def bing_site_verification() -> str:
+    return os.environ.get("BING_SITE_VERIFICATION", "").strip()
+
+
+def social_meta(origin: str | None = None) -> str:
+    """Open Graph image, Twitter card, and site-verification tags."""
+    root = (origin or pages_origin()).rstrip("/")
+    image = f"{root}/og.png"
+    e = html.escape
+    lines = [
+        f'<meta property="og:image" content="{e(image, quote=True)}">',
+        '<meta property="og:image:width" content="1200">',
+        '<meta property="og:image:height" content="630">',
+        f'<meta property="og:image:alt" content="{e(OG_ALT, quote=True)}">',
+        '<meta name="twitter:card" content="summary_large_image">',
+        f'<meta name="twitter:image" content="{e(image, quote=True)}">',
+        f'<meta name="twitter:image:alt" content="{e(OG_ALT, quote=True)}">',
+        f'<meta name="google-site-verification" content="{e(google_site_verification(), quote=True)}">',
+    ]
+    bing = bing_site_verification()
+    if bing:
+        lines.append(f'<meta name="msvalidate.01" content="{e(bing, quote=True)}">')
+    return "\n".join(lines)
 
 
 def _origin_for(repository: str) -> str | None:
@@ -217,7 +309,7 @@ def render_post_page(post: Mapping[str, object], body: str) -> str:
         f'<a href="{e(item["href"], quote=True)}" rel="noopener noreferrer" target="_blank">{e(item["label"])}</a>'
         for item in post.get("shares") or []
     )
-    home = PAGES_ORIGIN.rstrip("/") + "/"
+    home = pages_origin().rstrip("/") + "/"
     board = f"{home}#{_slug(path)}"
     description_html = apply_how + render_body(body)
     from validator.jsonld import post_jsonld
@@ -225,6 +317,8 @@ def render_post_page(post: Mapping[str, object], body: str) -> str:
     structured = post_jsonld(post, description_html, body)
     company_link = _company_link(post)
     open_jobs = _open_jobs(post)
+    facts = _offer_facts(post)
+    social = social_meta(home)
     return f"""<!DOCTYPE html>
 <html lang="{lang}">
 <head>
@@ -240,7 +334,7 @@ def render_post_page(post: Mapping[str, object], body: str) -> str:
   <meta property="og:title" content="{e(text, quote=True)}">
   <meta property="og:description" content="{e(description, quote=True)}">
   <meta property="og:url" content="{e(url, quote=True)}">
-  <meta name="twitter:card" content="summary">
+  {social}
   <meta name="twitter:title" content="{e(text, quote=True)}">
   <meta name="twitter:description" content="{e(description, quote=True)}">
   <link rel="icon" href="{_FAVICON}">
@@ -266,6 +360,7 @@ def render_post_page(post: Mapping[str, object], body: str) -> str:
       {structured}
       {apply_how}
       <div class="badges">{badges}</div>
+      {facts}
       {render_body(body)}
       {open_jobs}
       {tags}
@@ -329,7 +424,7 @@ def _open_jobs(post: Mapping[str, object]) -> str:
     more = post.get("open_jobs_more")
     more_html = ""
     if isinstance(more, int) and more > 0:
-        archive = html.escape(PAGES_ORIGIN.rstrip("/") + "/jobs/page/1/", quote=True)
+        archive = html.escape(pages_origin().rstrip("/") + "/jobs/page/1/", quote=True)
         more_html = (
             f'<p><a href="{archive}">The jobs archive lists every open role.</a></p>'
         )
@@ -406,6 +501,58 @@ def _only_zh(languages: object) -> bool:
     return isinstance(languages, list) and languages == ["zh"]
 
 
+def _employment_list(value: object) -> list[str]:
+    if isinstance(value, str) and value:
+        return [value]
+    if isinstance(value, list):
+        return [str(item) for item in value if isinstance(item, str) and item]
+    return []
+
+
+def _salary_label(salary: object) -> str:
+    if not isinstance(salary, Mapping):
+        return ""
+    unit = _SALARY_UNIT.get(str(salary.get("unit") or ""))
+    currency = salary.get("currency")
+    minimum = _amount(salary.get("min"))
+    if not unit or not isinstance(currency, str) or not minimum:
+        return ""
+    maximum = _amount(salary.get("max"))
+    amount = f"{minimum}–{maximum}" if maximum else minimum
+    return f"{currency} {amount} / {unit}"
+
+
+def _amount(value: object) -> str:
+    if isinstance(value, bool) or not isinstance(value, (int, float)):
+        return ""
+    if isinstance(value, float) and value.is_integer():
+        return str(int(value))
+    return format(value, "g")
+
+
+def _location_label(place: object) -> str:
+    if not isinstance(place, Mapping):
+        return ""
+    parts = [place.get("city"), place.get("region"), place.get("country")]
+    return ", ".join(str(part) for part in parts if isinstance(part, str) and part)
+
+
+def _offer_facts(post: Mapping[str, object]) -> str:
+    if post.get("kind") != "job":
+        return ""
+    items = []
+    pay = _salary_label(post.get("salary"))
+    if pay:
+        items.append(pay)
+    locations = post.get("locations")
+    if isinstance(locations, list):
+        items.extend(label for label in (_location_label(place) for place in locations) if label)
+    if not items:
+        return ""
+    lis = "".join(f"<li>{html.escape(item)}</li>" for item in items)
+    return f'<ul class="facts">{lis}</ul>'
+
+
 def _page_heading(post: Mapping[str, object]) -> str:
     kind = post.get("kind")
     if kind == "job":
@@ -435,6 +582,9 @@ def _badges(post: Mapping[str, object]) -> str:
     remote = str(post.get("remote") or "")
     if remote in _REMOTE_LABEL:
         chips.append(_REMOTE_LABEL[remote])
+    if kind == "job":
+        for code in _employment_list(post.get("employment_type")):
+            chips.append(_EMPLOYMENT.get(code, code))
     languages = post.get("languages") or []
     if isinstance(languages, list):
         chips.extend(str(language) for language in languages)

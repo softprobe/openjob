@@ -5,6 +5,12 @@ company: softprobe
 company_name: Softprobe
 role_slug: software-engineer
 location: "Los Altos, CA / Shanghai"
+locations:
+  - city: Los Altos
+    region: CA
+    country: US
+  - city: Shanghai
+    country: CN
 remote: hybrid
 languages: [en]
 tags: [ai-agents, observability, java, arex, opencode]

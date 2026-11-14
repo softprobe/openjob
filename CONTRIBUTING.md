@@ -43,7 +43,13 @@ There is no `phone` field, and no general `email` field. `additionalProperties` 
 4. Set `apply` to an `https://` careers or application link, or to `mailto:jobs@company.example` for a hiring address on the company domain. To keep the https link and also offer email, leave `apply` as the https link and set `apply_email` to the `mailto:` address. No shorteners (`bit.ly`, `t.co`, `t.cn`, `lnkd.in`, and similar).
 5. Open a pull request that changes only post files. Another post may be in the same pull request.
 
-`remote` is `true`, `false`, or `hybrid`. `languages` use the codes in the schema (`en`, `zh`, `ja`, `ko`, `es`, `fr`, `de`, `pt`, `ru`). Tags are lowercase slugs. Quote YAML values that are `yes`, `no`, `on`, or `off`.
+`remote` is `true`, `false`, or `hybrid`. The words `remote`, `onsite`, and `hybrid` mean the same three cases. `languages` use the codes in the schema (`en`, `zh`, `ja`, `ko`, `es`, `fr`, `de`, `pt`, `ru`). Tags are lowercase slugs. Quote YAML values that are `yes`, `no`, `on`, or `off`.
+
+Optional job fields, all backward compatible:
+
+- `employment_type`: one schema.org value, or a list. `FULL_TIME`, `PART_TIME`, `CONTRACTOR`, `TEMPORARY`, `INTERN`, `VOLUNTEER`, `PER_DIEM`, `OTHER`.
+- `salary`: `min`, optional `max` (at least `min`), `currency` (ISO 4217, such as `USD`), and `unit` (`HOUR`, `DAY`, `WEEK`, `MONTH`, or `YEAR`). Do not invent a number. The free-text `compensation` note can stay.
+- `locations`: a list of `city`, `region`, and `country`. `country` is ISO 3166-1 alpha-2, such as `US`. The free-text `location` field is still required. Structured places are what the job page and JobPosting use when they are present.
 
 A job lasts 60 days from `posted`, or from `renewed` if you set it. You may set `expires` sooner. You may not set it later than that cap.
 
