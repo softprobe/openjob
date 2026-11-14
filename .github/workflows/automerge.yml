@@ -64,6 +64,7 @@ jobs:
         working-directory: base
         env:
           PR_AUTHOR: ${{ github.event.pull_request.user.login }}
+          PAGES_ORIGIN: ${{ vars.PAGES_ORIGIN }}
         run: |
           python -m validator check-pr \
             --head ../head \

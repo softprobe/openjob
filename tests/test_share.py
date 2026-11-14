@@ -346,7 +346,7 @@ class PageTests(unittest.TestCase):
             self.assertEqual(job["permalink"], permalink(job["path"]))
             self.assertEqual(_meta(job_html, "og:title"), job["share_text"])
             self.assertEqual(_meta(job_html, "og:url"), job["permalink"])
-            self.assertEqual(_name(job_html, "twitter:card"), "summary")
+            self.assertEqual(_name(job_html, "twitter:card"), "summary_large_image")
             self.assertEqual(_name(job_html, "twitter:title"), job["share_text"])
             head, body = job_html.split("</head>", 1)
             self.assertNotIn("example.com", head)

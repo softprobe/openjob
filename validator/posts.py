@@ -14,6 +14,7 @@ from jsonschema import Draft202012Validator
 from jsonschema.exceptions import ValidationError
 from referencing import Registry, Resource
 
+from validator.codes import COUNTRIES, CURRENCIES
 from validator.constants import (
     BINARY_FIXTURE_ALLOWLIST,
     FUTURE_SKEW_DAYS,
@@ -256,7 +257,10 @@ def validate_post(
         scan_text, hiring_issues = _prepare_hiring_email(text, meta, root=root, rel=rel)
     issues.extend(_privacy_issues(scan_text, rel))
     issues.extend(hiring_issues)
-    issues.extend(_schema_issues(meta, rel))
+    schema_issues = _schema_issues(meta, rel)
+    issues.extend(schema_issues)
+    if not schema_issues:
+        issues.extend(_structured_job_issues(meta, rel))
     issues.extend(_path_issues(rel, meta))
     issues.extend(_body_issues(body, rel))
     issues.extend(_link_issues(meta, body, rel))
@@ -701,6 +705,46 @@ def _schema_issues(meta: dict, rel: str) -> list[Issue]:
                 + APPLY_DOC
             )
         issues.append(Issue("schema", rel, f"{loc}: {error.message}", fix))
+    return issues
+
+
+def _structured_job_issues(meta: dict, rel: str) -> list[Issue]:
+    """Codes that match the schema shape and are still not assigned values."""
+    if meta.get("kind") != "job":
+        return []
+    issues: list[Issue] = []
+    salary = meta.get("salary")
+    if isinstance(salary, dict):
+        minimum = salary.get("min")
+        maximum = salary.get("max")
+        if (
+            isinstance(minimum, (int, float))
+            and not isinstance(minimum, bool)
+            and isinstance(maximum, (int, float))
+            and not isinstance(maximum, bool)
+            and maximum < minimum
+        ):
+            issues.append(Issue("schema", rel, "salary/max: max is less than min.", FIX["schema"]))
+        currency = salary.get("currency")
+        if isinstance(currency, str) and currency not in CURRENCIES:
+            issues.append(
+                Issue("schema", rel, f"salary/currency: {currency} is not an ISO 4217 code.", FIX["schema"])
+            )
+    locations = meta.get("locations")
+    if isinstance(locations, list):
+        for index, place in enumerate(locations):
+            if not isinstance(place, dict):
+                continue
+            country = place.get("country")
+            if isinstance(country, str) and country not in COUNTRIES:
+                issues.append(
+                    Issue(
+                        "schema",
+                        rel,
+                        f"locations/{index}/country: {country} is not an ISO 3166-1 alpha-2 code.",
+                        FIX["schema"],
+                    )
+                )
     return issues
 
 

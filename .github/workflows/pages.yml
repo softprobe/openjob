@@ -24,6 +24,10 @@ jobs:
           python-version: "3.12"
       - run: pip install -r requirements.txt
       - name: Build the search index and permalink pages
+        env:
+          PAGES_ORIGIN: ${{ vars.PAGES_ORIGIN }}
+          GOOGLE_SITE_VERIFICATION: ${{ vars.GOOGLE_SITE_VERIFICATION }}
+          BING_SITE_VERIFICATION: ${{ vars.BING_SITE_VERIFICATION }}
         run: python -m validator build-index --root . --out site/index.json --pages site
       - uses: actions/upload-pages-artifact@v3
         with:

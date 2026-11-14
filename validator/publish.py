@@ -12,6 +12,7 @@ It becomes the host file when the board is served from its own domain.
 
 from __future__ import annotations
 
+import base64
 import json
 import shutil
 from datetime import datetime, timezone
@@ -19,12 +20,19 @@ from email.utils import format_datetime
 from pathlib import Path
 from xml.sax.saxutils import escape
 
-from validator.share import PAGES_ORIGIN
+from validator.share import (
+    GOOGLE_VERIFICATION_BODY,
+    GOOGLE_VERIFICATION_FILE,
+    TEMPLATE_ORIGIN,
+    bare_host,
+    pages_origin,
+    social_meta,
+)
 
 _REPO_ROOT = Path(__file__).resolve().parents[1]
 _TEMPLATE = _REPO_ROOT / "site" / "index.html"
-_ORIGIN = PAGES_ORIGIN.rstrip("/")
-_HOME = _ORIGIN + "/"
+_ABOUT = _REPO_ROOT / "site" / "about" / "index.html"
+_OG_B64 = _REPO_ROOT / "site" / "og.png.b64"
 _POSITIONING = (
     "OpenJob is a job board that lives in a Git repository: you post a role or a profile "
     "with a pull request, people find it on a static page, and the file expires unless someone renews it."
@@ -74,22 +82,22 @@ def write_discovery(
     _write_homepage(site_dir, grouped, homepage_per_kind, archive_page_size)
     jobs = grouped["job"]
     (site_dir / "feed.xml").write_text(
-        _rss(posts[:feed_limit], "OpenJob", f"{_ORIGIN}/feed.xml"), encoding="utf-8"
+        _rss(posts[:feed_limit], "OpenJob", f"{_origin()}/feed.xml"), encoding="utf-8"
     )
     (site_dir / "jobs.xml").write_text(
-        _rss(jobs[:feed_limit], "OpenJob jobs", f"{_ORIGIN}/jobs.xml"), encoding="utf-8"
+        _rss(jobs[:feed_limit], "OpenJob jobs", f"{_origin()}/jobs.xml"), encoding="utf-8"
     )
     (site_dir / "atom.xml").write_text(
-        _atom(posts[:feed_limit], "OpenJob", f"{_ORIGIN}/atom.xml"), encoding="utf-8"
+        _atom(posts[:feed_limit], "OpenJob", f"{_origin()}/atom.xml"), encoding="utf-8"
     )
     (site_dir / "jobs.atom").write_text(
-        _atom(jobs[:feed_limit], "OpenJob jobs", f"{_ORIGIN}/jobs.atom"), encoding="utf-8"
+        _atom(jobs[:feed_limit], "OpenJob jobs", f"{_origin()}/jobs.atom"), encoding="utf-8"
     )
     (site_dir / "feed.json").write_text(
-        _json_feed(posts[:feed_limit], "OpenJob", f"{_ORIGIN}/feed.json"), encoding="utf-8"
+        _json_feed(posts[:feed_limit], "OpenJob", f"{_origin()}/feed.json"), encoding="utf-8"
     )
     (site_dir / "jobs.json").write_text(
-        _json_feed(jobs[:feed_limit], "OpenJob jobs", f"{_ORIGIN}/jobs.json"), encoding="utf-8"
+        _json_feed(jobs[:feed_limit], "OpenJob jobs", f"{_origin()}/jobs.json"), encoding="utf-8"
     )
     (site_dir / "llms.txt").write_text(_llms(grouped), encoding="utf-8")
     (site_dir / "llms-full.txt").write_text(_llms_full(posts, llms_full_limit), encoding="utf-8")
@@ -101,6 +109,35 @@ def write_discovery(
         url_limit=sitemap_url_limit,
         byte_limit=sitemap_byte_limit,
     )
+    _write_about(site_dir)
+    _write_cname(site_dir)
+    _write_google_file(site_dir)
+    _write_og_image(site_dir)
+
+
+def _origin() -> str:
+    return pages_origin().rstrip("/")
+
+
+def _home() -> str:
+    return _origin() + "/"
+
+
+def _with_origin(text: str) -> str:
+    live = _origin()
+    if live == TEMPLATE_ORIGIN:
+        return text
+    return text.replace(TEMPLATE_ORIGIN, live)
+
+
+def _apply_social(text: str) -> str:
+    start = "<!-- openjob:social -->"
+    end = "<!-- /openjob:social -->"
+    if start not in text or end not in text:
+        return text
+    pre, _, rest = text.partition(start)
+    _, _, post = rest.partition(end)
+    return f"{pre}{start}\n{social_meta()}\n  {end}{post}"
 
 
 def _group(posts: list[dict]) -> dict[str, list[dict]]:
@@ -128,7 +165,7 @@ def _write_homepage(
     if marker not in template:
         raise ValueError("site/index.html is missing the <!-- openjob:posts --> marker")
     page = template.replace(marker, _homepage_list(grouped, per_kind, page_size), 1)
-    (site_dir / "index.html").write_text(page, encoding="utf-8")
+    (site_dir / "index.html").write_text(_with_origin(_apply_social(page)), encoding="utf-8")
 
 
 def _homepage_list(grouped: dict[str, list[dict]], per_kind: int, page_size: int) -> str:
@@ -183,14 +220,14 @@ def _write_archives(
                 _archive_page(slug, title, number, pages, chunk),
                 encoding="utf-8",
             )
-            urls.append((f"{_ORIGIN}/{slug}/page/{number}/", lastmod))
+            urls.append((f"{_origin()}/{slug}/page/{number}/", lastmod))
     return urls
 
 
 def _archive_page(slug: str, title: str, number: int, pages: int, posts: list[dict]) -> str:
-    canonical = f"{_ORIGIN}/{slug}/page/{number}/"
-    prev_href = f"{_ORIGIN}/{slug}/page/{number - 1}/" if number > 1 else ""
-    next_href = f"{_ORIGIN}/{slug}/page/{number + 1}/" if number < pages else ""
+    canonical = f"{_origin()}/{slug}/page/{number}/"
+    prev_href = f"{_origin()}/{slug}/page/{number - 1}/" if number > 1 else ""
+    next_href = f"{_origin()}/{slug}/page/{number + 1}/" if number < pages else ""
     head = [
         "<!DOCTYPE html>",
         '<html lang="en">',
@@ -204,6 +241,7 @@ def _archive_page(slug: str, title: str, number: int, pages: int, posts: list[di
         head.append(f'<link rel="prev" href="{escape(prev_href)}">')
     if next_href:
         head.append(f'<link rel="next" href="{escape(next_href)}">')
+    head.extend(social_meta().splitlines())
     head.extend(
         [
             '<link rel="stylesheet" href="../../../style.css">',
@@ -238,7 +276,7 @@ def _page_count(count: int, page_size: int) -> int:
 
 
 def _sitemap_locs(lastmod: str, archive_urls: list[tuple[str, str]], posts: list[dict]):
-    yield _HOME, lastmod
+    yield _home(), lastmod
     yield from archive_urls
     for post in posts:
         posted = str(post.get("posted") or lastmod)
@@ -300,7 +338,7 @@ def _write_sitemap_index(site_dir: Path, names: list[str], lastmod: str) -> None
         lines.extend(
             [
                 "  <sitemap>",
-                f"    <loc>{escape(f'{_ORIGIN}/{name}')}</loc>",
+                f"    <loc>{escape(f'{_origin()}/{name}')}</loc>",
                 f"    <lastmod>{escape(lastmod)}</lastmod>",
                 "  </sitemap>",
             ]
@@ -322,14 +360,47 @@ def _label(post: dict) -> str:
 
 
 def _robots() -> str:
-    return (
-        "# On a github.io project site, crawlers read the host root robots.txt,\n"
-        "# not this file. This file applies once the board has its own hostname.\n"
-        "User-agent: *\n"
-        "Allow: /\n"
-        "\n"
-        f"Sitemap: {_ORIGIN}/sitemap.xml\n"
-    )
+    if bare_host():
+        note = "# This file is served at the host root, so crawlers use it.\n"
+    else:
+        note = (
+            "# On a github.io project site, crawlers read the host root robots.txt,\n"
+            "# not this file. This file applies once the board has its own hostname.\n"
+        )
+    return note + "User-agent: *\nAllow: /\n\n" + f"Sitemap: {_origin()}/sitemap.xml\n"
+
+
+def _write_about(site_dir: Path) -> None:
+    if not _ABOUT.is_file():
+        return
+    text = _with_origin(_apply_social(_ABOUT.read_text(encoding="utf-8")))
+    dest = site_dir / "about" / "index.html"
+    dest.parent.mkdir(parents=True, exist_ok=True)
+    dest.write_text(text, encoding="utf-8")
+
+
+def _write_cname(site_dir: Path) -> None:
+    path = site_dir / "CNAME"
+    host = bare_host()
+    if host is None:
+        if path.is_file() and not path.is_symlink():
+            path.unlink()
+        return
+    path.write_text(host + "\n", encoding="utf-8")
+
+
+def _write_google_file(site_dir: Path) -> None:
+    (site_dir / GOOGLE_VERIFICATION_FILE).write_text(GOOGLE_VERIFICATION_BODY, encoding="utf-8")
+
+
+def _write_og_image(site_dir: Path) -> None:
+    """Decode the committed ASCII payload into the Pages artifact.
+
+    The checker rejects a ``.png`` in a pull request. ``site/og.png.b64`` is
+    the same image as text. The build writes ``og.png`` next to the HTML.
+    """
+    payload = "".join(_OG_B64.read_text(encoding="ascii").split())
+    (site_dir / "og.png").write_bytes(base64.b64decode(payload, validate=True))
 
 
 def _rss(posts: list[dict], title: str, self_url: str) -> str:
@@ -357,7 +428,7 @@ def _rss(posts: list[dict], title: str, self_url: str) -> str:
         '<rss version="2.0">\n'
         "  <channel>\n"
         f"    <title>{escape(title)}</title>\n"
-        f"    <link>{escape(_HOME)}</link>\n"
+        f"    <link>{escape(_home())}</link>\n"
         f"    <description>{escape(_POSITIONING)}</description>\n"
         f"    <atom:link xmlns:atom=\"http://www.w3.org/2005/Atom\" href=\"{escape(self_url)}\" rel=\"self\" type=\"application/rss+xml\"/>\n"
         f"{inner}\n"
@@ -391,9 +462,9 @@ def _atom(posts: list[dict], title: str, self_url: str) -> str:
         '<?xml version="1.0" encoding="UTF-8"?>\n'
         '<feed xmlns="http://www.w3.org/2005/Atom">\n'
         f"  <title>{escape(title)}</title>\n"
-        f"  <link href=\"{escape(_HOME)}\" rel=\"alternate\"/>\n"
+        f"  <link href=\"{escape(_home())}\" rel=\"alternate\"/>\n"
         f"  <link href=\"{escape(self_url)}\" rel=\"self\"/>\n"
-        f"  <id>{escape(_HOME)}</id>\n"
+        f"  <id>{escape(_home())}</id>\n"
         f"  <updated>{updated}</updated>\n"
         f"{inner}\n"
         "</feed>\n"
@@ -417,7 +488,7 @@ def _json_feed(posts: list[dict], title: str, self_url: str) -> str:
     document = {
         "version": "https://jsonfeed.org/version/1.1",
         "title": title,
-        "home_page_url": _HOME,
+        "home_page_url": _home(),
         "feed_url": self_url,
         "description": _POSITIONING,
         "items": items,
@@ -435,7 +506,7 @@ def _llms(grouped: dict[str, list[dict]]) -> str:
         "There are no accounts and no tracking. Phone numbers are not allowed. A job may show one "
         "hiring address when its domain matches the company website. Jobs last 60 days and talent "
         "profiles last 180 days unless renewed. Company pages do not expire. Expired posts leave "
-        f"the index at {_ORIGIN}/index.json.",
+        f"the index at {_origin()}/index.json.",
         "",
         "## Board",
         "",
@@ -443,19 +514,19 @@ def _llms(grouped: dict[str, list[dict]]) -> str:
     for key, slug, title in _SECTIONS:
         count = len(grouped[key])
         if count:
-            lines.append(f"- {title}: {count}. [Archive]({_ORIGIN}/{slug}/page/1/)")
+            lines.append(f"- {title}: {count}. [Archive]({_origin()}/{slug}/page/1/)")
         else:
             lines.append(f"- {title}: 0")
     lines.extend(
         [
-            f"- [Sitemap]({_ORIGIN}/sitemap.xml)",
+            f"- [Sitemap]({_origin()}/sitemap.xml)",
             "",
             "## Docs",
             "",
             "- [README](https://github.com/softprobe/openjob/blob/main/README.md)",
             "- [Contributing](https://github.com/softprobe/openjob/blob/main/CONTRIBUTING.md)",
-            f"- [Live index]({_ORIGIN}/index.json)",
-            f"- [About]({_ORIGIN}/about/)",
+            f"- [Live index]({_origin()}/index.json)",
+            f"- [About]({_origin()}/about/)",
             "",
         ]
     )
@@ -490,7 +561,7 @@ Softprobe maintains https://github.com/softprobe/openjob. Posts are CC BY 4.0. C
     if len(posts) > limit:
         coverage = (
             f"The board has {len(posts)} live posts. This file includes the newest {limit}. "
-            f"Every post is linked from the archives and listed in {_ORIGIN}/sitemap.xml."
+            f"Every post is linked from the archives and listed in {_origin()}/sitemap.xml."
         )
     else:
         coverage = f"The board has {len(posts)} live posts. This file includes every one."

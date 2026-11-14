@@ -1,10 +1,10 @@
 """schema.org objects for permalinks.
 
-JobPosting is only for a job leaf page. Countries are emitted when the free-text
-location names a US state, a country, or a city in the table below. Anything
-else is omitted rather than guessed. ``employmentType`` and ``baseSalary`` are
-omitted until a post has structured fields for them. ``TELECOMMUTE`` is used
-only when ``remote`` is fully remote, never for hybrid.
+JobPosting is only for a job leaf page. Structured ``locations``,
+``employment_type``, and ``salary`` are used when the post has them. Otherwise
+countries come from the free-text location when it names a US state, a country,
+or a city in the table below. Anything else is omitted rather than guessed.
+``TELECOMMUTE`` is used only when ``remote`` is fully remote, never for hybrid.
 """
 
 from __future__ import annotations
@@ -137,7 +137,13 @@ def job_posting(post: Mapping[str, object], description_html: str, body: str = "
     expires = post.get("expires")
     if isinstance(expires, str) and expires:
         data["validThrough"] = f"{expires}T23:59:59Z"
-    places = places_for(post.get("location"))
+    employment = _employment(post.get("employment_type"))
+    if employment:
+        data["employmentType"] = employment
+    salary = _base_salary(post.get("salary"))
+    if salary:
+        data["baseSalary"] = salary
+    places = _places(post)
     remote = post.get("remote")
     if remote == "remote":
         data["jobLocationType"] = "TELECOMMUTE"
@@ -192,9 +198,9 @@ def person(post: Mapping[str, object]) -> dict:
 
 
 def breadcrumb(post: Mapping[str, object]) -> dict:
-    from validator.share import PAGES_ORIGIN
+    from validator.share import pages_origin
 
-    home = PAGES_ORIGIN.rstrip("/") + "/"
+    home = pages_origin().rstrip("/") + "/"
     kind = str(post.get("kind") or "")
     section = {"job": "Jobs", "company": "Companies", "talent": "Talent", "talent-ref": "Talent"}.get(kind, "Posts")
     title = str(post.get("title") or "Post")
@@ -242,6 +248,57 @@ def _apply_action(post: Mapping[str, object]) -> dict | None:
     if target is None:
         return None
     return {"@type": "ApplyAction", "target": target}
+
+
+def _employment(value: object) -> list[str]:
+    if isinstance(value, str) and value:
+        return [value]
+    if isinstance(value, list):
+        return [str(item) for item in value if isinstance(item, str) and item]
+    return []
+
+
+def _places(post: Mapping[str, object]) -> list[dict[str, str]]:
+    structured = post.get("locations")
+    if isinstance(structured, list) and structured:
+        places: list[dict[str, str]] = []
+        for item in structured:
+            if not isinstance(item, Mapping):
+                continue
+            country = item.get("country")
+            if not isinstance(country, str) or not country:
+                continue
+            place = {"country": country}
+            city = item.get("city")
+            region = item.get("region")
+            if isinstance(city, str) and city:
+                place["locality"] = city
+            if isinstance(region, str) and region:
+                place["region"] = region
+            places.append(place)
+        if places:
+            return places
+    return places_for(post.get("location"))
+
+
+def _base_salary(salary: object) -> dict | None:
+    if not isinstance(salary, Mapping):
+        return None
+    currency = salary.get("currency")
+    unit = salary.get("unit")
+    minimum = salary.get("min")
+    if not isinstance(currency, str) or not isinstance(unit, str):
+        return None
+    if isinstance(minimum, bool) or not isinstance(minimum, (int, float)):
+        return None
+    value: dict = {"@type": "QuantitativeValue", "unitText": unit}
+    maximum = salary.get("max")
+    if isinstance(maximum, (int, float)) and not isinstance(maximum, bool):
+        value["minValue"] = minimum
+        value["maxValue"] = maximum
+    else:
+        value["value"] = minimum
+    return {"@type": "MonetaryAmount", "currency": currency, "value": value}
 
 
 def _place_node(place: dict[str, str]) -> dict:

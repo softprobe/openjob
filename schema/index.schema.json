@@ -44,6 +44,9 @@
         "careers",
         "open_to",
         "compensation",
+        "employment_type",
+        "salary",
+        "locations",
         "excerpt",
         "org_website",
         "company_permalink",
@@ -91,6 +94,51 @@
         "careers": { "type": ["string", "null"] },
         "open_to": { "type": "array", "items": { "type": "string" } },
         "compensation": { "type": "string" },
+        "employment_type": {
+          "anyOf": [
+            { "type": "null" },
+            {
+              "type": "array",
+              "items": {
+                "enum": ["FULL_TIME", "PART_TIME", "CONTRACTOR", "TEMPORARY", "INTERN", "VOLUNTEER", "PER_DIEM", "OTHER"]
+              }
+            }
+          ]
+        },
+        "salary": {
+          "anyOf": [
+            { "type": "null" },
+            {
+              "type": "object",
+              "additionalProperties": false,
+              "required": ["min", "currency", "unit"],
+              "properties": {
+                "min": { "type": "number", "exclusiveMinimum": 0 },
+                "max": { "type": "number", "exclusiveMinimum": 0 },
+                "currency": { "type": "string", "pattern": "^[A-Z]{3}$" },
+                "unit": { "enum": ["HOUR", "DAY", "WEEK", "MONTH", "YEAR"] }
+              }
+            }
+          ]
+        },
+        "locations": {
+          "anyOf": [
+            { "type": "null" },
+            {
+              "type": "array",
+              "items": {
+                "type": "object",
+                "additionalProperties": false,
+                "required": ["country"],
+                "properties": {
+                  "city": { "type": "string" },
+                  "region": { "type": "string" },
+                  "country": { "type": "string", "pattern": "^[A-Z]{2}$" }
+                }
+              }
+            }
+          ]
+        },
         "org_website": {
           "anyOf": [
             { "type": "null" },
@@ -100,13 +148,13 @@
         "company_permalink": {
           "anyOf": [
             { "type": "null" },
-            { "type": "string", "pattern": "^https://softprobe\\.github\\.io/openjob/p/\\S+/$" }
+            { "type": "string", "pattern": "^https://\\S+/p/\\S+/$" }
           ]
         },
         "excerpt": { "type": "string", "minLength": 1, "maxLength": 280 },
         "permalink": {
           "type": "string",
-          "pattern": "^https://softprobe\\.github\\.io/openjob/p/\\S+/$"
+          "pattern": "^https://\\S+/p/\\S+/$"
         },
         "share_text": { "type": "string", "minLength": 1, "maxLength": 320 },
         "shares": {
