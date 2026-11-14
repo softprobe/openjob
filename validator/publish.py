@@ -175,17 +175,19 @@ def _homepage_list(grouped: dict[str, list[dict]], per_kind: int, page_size: int
         if not posts:
             continue
         items = "\n".join(_post_item(post, "p/" + str(post["path"]).removesuffix(".md") + "/") for post in posts[:per_kind])
-        pages = _page_count(len(posts), page_size)
         archive = f"{slug}/page/1/"
         sections.append(
             "\n".join(
                 [
                     "<section>",
-                    f"<h2>{title}</h2>",
+                    f'<h2 data-i18n="tabs.{key}">{escape(title)}</h2>',
                     "<ul>",
                     items,
                     "</ul>",
-                    f'<p><a href="{archive}">{title} archive, {len(posts)} posts</a></p>',
+                    (
+                        f'<p><a href="{archive}" data-i18n="archive.{key}" data-count="{len(posts)}">'
+                        f"{escape(title)} archive, {len(posts)} posts</a></p>"
+                    ),
                     "</section>",
                 ]
             )
@@ -217,14 +219,14 @@ def _write_archives(
             dest = directory / "page" / str(number) / "index.html"
             dest.parent.mkdir(parents=True, exist_ok=True)
             dest.write_text(
-                _archive_page(slug, title, number, pages, chunk),
+                _archive_page(key, slug, title, number, pages, chunk),
                 encoding="utf-8",
             )
             urls.append((f"{_origin()}/{slug}/page/{number}/", lastmod))
     return urls
 
 
-def _archive_page(slug: str, title: str, number: int, pages: int, posts: list[dict]) -> str:
+def _archive_page(key: str, slug: str, title: str, number: int, pages: int, posts: list[dict]) -> str:
     canonical = f"{_origin()}/{slug}/page/{number}/"
     prev_href = f"{_origin()}/{slug}/page/{number - 1}/" if number > 1 else ""
     next_href = f"{_origin()}/{slug}/page/{number + 1}/" if number < pages else ""
@@ -251,21 +253,36 @@ def _archive_page(slug: str, title: str, number: int, pages: int, posts: list[di
             '<header class="mast">',
             "<div>",
             '<p class="kicker"><a href="../../../">OpenJob</a></p>',
-            f"<h1>{escape(title)}</h1>",
+            f'<h1 data-i18n="tabs.{escape(key)}">{escape(title)}</h1>',
+            "</div>",
+            '<div class="mast-side">',
+            '<button type="button" class="text-button" data-lang-toggle aria-pressed="false">中文</button>',
             "</div>",
             "</header>",
-            f'<p class="count">Page {number} of {pages}</p>',
+            (
+                f'<p class="count" data-i18n="pageOf" data-count="{number}" data-pages="{pages}">'
+                f"Page {number} of {pages}</p>"
+            ),
             "<nav>",
         ]
     )
     if prev_href:
-        head.append(f'<a rel="prev" href="{escape(prev_href)}">Previous</a>')
+        head.append(f'<a rel="prev" href="{escape(prev_href)}" data-i18n="previous">Previous</a>')
     if next_href:
-        head.append(f'<a rel="next" href="{escape(next_href)}">Next</a>')
+        head.append(f'<a rel="next" href="{escape(next_href)}" data-i18n="next">Next</a>')
     head.append("</nav>")
     head.append("<ul>")
     head.extend(_post_item(post, str(post["permalink"])) for post in posts)
-    head.extend(["</ul>", "</div>", "</body>", "</html>", ""])
+    head.extend(
+        [
+            "</ul>",
+            "</div>",
+            '<script src="../../../i18n.js"></script>',
+            "</body>",
+            "</html>",
+            "",
+        ]
+    )
     return "\n".join(head)
 
 
