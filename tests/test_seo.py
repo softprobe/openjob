@@ -87,7 +87,7 @@ class StructuredDataTests(unittest.TestCase):
         self.assertNotIn("employmentType", posting)
         self.assertNotIn("baseSalary", posting)
         self.assertTrue(posting["directApply"])
-        self.assertEqual(posting["potentialAction"]["target"], "https://github.com/softprobe/openjob/blob/main/README.md")
+        self.assertEqual(posting["potentialAction"]["target"], "mailto:hr@softprobe.ai")
         self.assertEqual(
             [item["address"]["addressCountry"] for item in posting["jobLocation"]],
             ["US", "CN"],

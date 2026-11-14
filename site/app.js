@@ -80,6 +80,7 @@ function applyChrome() {
   fillSelect(els.tag, tags, (value) => (value === "any" ? copy.any : value));
   els.q.value = state.q;
   els.location.value = state.location;
+  paintAgent();
 }
 
 function fillSelect(select, values, label) {
@@ -180,7 +181,13 @@ function emptyState() {
   const addProfile = document.createElement("a");
   addProfile.href = `${QUICKSTART}#add-your-profile`;
   addProfile.textContent = copy.addProfile;
-  actions.append(postJob, document.createTextNode(" · "), addProfile);
+  if (state.kind === "talent") {
+    actions.append(addProfile);
+  } else if (state.kind === "job") {
+    actions.append(postJob);
+  } else {
+    actions.append(postJob, document.createTextNode(" · "), addProfile);
+  }
   box.appendChild(actions);
   return box;
 }
@@ -267,7 +274,10 @@ function card(post, target) {
   ]
     .filter(Boolean)
     .filter((value, index, all) => all.indexOf(value) === index);
-  if (post.open_to && post.open_to.length) bits.push(post.open_to.join(" · "));
+  if (post.open_to && post.open_to.length) {
+    const labels = post.open_to.map((value) => (copy.openTo && copy.openTo[value]) || value);
+    bits.push(labels.join(" · "));
+  }
   if (bits.length) {
     const sub = document.createElement("p");
     sub.className = "sub";
@@ -292,12 +302,19 @@ function card(post, target) {
   }
   const applyHow = applyHowBlock(post, copy);
   if (applyHow) article.appendChild(applyHow);
+  if (post.kind === "talent" || post.kind === "talent-ref") {
+    const reach = document.createElement("p");
+    reach.className = "reach";
+    reach.textContent = copy.reachNote;
+    article.appendChild(reach);
+  }
   const links = document.createElement("div");
   links.className = "links";
-  if (post.kind !== "job") {
-    const actionLabel = post.kind === "company" ? copy.website : copy.profile;
-    const action = safeLink(post.url, actionLabel);
+  if (post.kind === "company") {
+    const action = safeLink(post.url, copy.website);
     if (action) links.appendChild(action);
+  } else if (post.kind === "talent" || post.kind === "talent-ref") {
+    talentLinks(post, copy).forEach((node) => links.appendChild(node));
   }
   const source = safeLink(post.source_url, copy.source);
   if (source) links.appendChild(source);
@@ -387,15 +404,18 @@ function badge(text, extra) {
 
 function applyHowBlock(post, copy) {
   if (post.kind !== "job") return null;
-  const https = safeLink(post.apply, copy.apply);
+  const guide = isProfileGuide(post.apply);
+  const https = guide ? null : safeLink(post.apply, copy.apply);
   const email = mailLink(post.apply_email, copy.applyEmail);
-  if (!https && !email) return null;
+  if (!https && !email && !guide) return null;
   const box = document.createElement("div");
   box.className = "apply-how";
-  const heading = document.createElement("p");
-  heading.className = "kicker";
-  heading.textContent = copy.howToApply;
-  box.appendChild(heading);
+  if (https || email) {
+    const heading = document.createElement("p");
+    heading.className = "kicker";
+    heading.textContent = copy.howToApply;
+    box.appendChild(heading);
+  }
   const actions = document.createElement("div");
   actions.className = "apply-actions";
   if (email) {
@@ -413,8 +433,63 @@ function applyHowBlock(post, copy) {
     actions.appendChild(copyButton);
   }
   if (https) actions.appendChild(https);
-  box.appendChild(actions);
+  if (https || email) box.appendChild(actions);
+  if (guide) box.appendChild(profileInvite(copy));
   return box;
+}
+
+function profileInvite(copy) {
+  const note = document.createElement("p");
+  note.className = "also-profile";
+  const link = document.createElement("a");
+  link.href = `${QUICKSTART}#add-your-profile`;
+  link.textContent = copy.alsoProfile;
+  note.appendChild(link);
+  return note;
+}
+
+function talentLinks(post, copy) {
+  const links = [];
+  if (githubLogin(post.owner)) {
+    const github = safeLink(`https://github.com/${post.owner}`, copy.github);
+    if (github) links.push(github);
+  }
+  const linkedin = safeLink(post.linkedin, copy.linkedin);
+  if (linkedin) links.push(linkedin);
+  const website = safeLink(post.website, copy.website);
+  if (website) links.push(website);
+  return links;
+}
+
+function githubLogin(value) {
+  return typeof value === "string" && /^[A-Za-z0-9](?:[A-Za-z0-9-]{0,37}[A-Za-z0-9])?$/.test(value);
+}
+
+function isProfileGuide(url) {
+  if (!url || !String(url).startsWith("https://") || /\s/.test(url)) return false;
+  let parsed;
+  try {
+    parsed = new URL(url);
+  } catch (error) {
+    return false;
+  }
+  const fragment = (parsed.hash || "").replace(/^#/, "").toLowerCase();
+  if (fragment === "add-your-profile" || fragment === "post-your-resume-talent") return true;
+  const host = parsed.hostname.toLowerCase();
+  const path = parsed.pathname.replace(/\/$/, "").toLowerCase();
+  if ((host === "github.com" || host === "www.github.com") &&
+      (path === "/softprobe/openjob" || path.startsWith("/softprobe/openjob/"))) {
+    return true;
+  }
+  let board;
+  try {
+    board = new URL(boardOrigin());
+  } catch (error) {
+    return false;
+  }
+  if (host !== board.hostname.toLowerCase()) return false;
+  const prefix = board.pathname.replace(/\/$/, "");
+  return parsed.pathname.replace(/\/$/, "") === prefix || parsed.pathname.startsWith(`${prefix}/`);
 }
 
 function emailAddress(url) {
@@ -469,19 +544,15 @@ function safeLink(url, text) {
   return link;
 }
 
-const AGENT_LABEL = {
-  job: "job",
-  talent: "talent profile",
-  company: "company",
-};
-
 const AGENT_NEW = {
   job: "https://github.com/softprobe/openjob/new/main/jobs",
   talent: "https://github.com/softprobe/openjob/new/main/talents",
   company: "https://github.com/softprobe/openjob/new/main/companies",
 };
 
-let agentKind = "job";
+let agentKind = "find";
+let audienceChoice = "";
+let agentTouched = false;
 
 function boardOrigin() {
   const canonical = document.querySelector('link[rel="canonical"]');
@@ -490,22 +561,48 @@ function boardOrigin() {
   return href.endsWith("/") ? href : `${href}/`;
 }
 
+function agentForFilter(kind) {
+  if (audienceChoice === "hiring") return "job";
+  if (audienceChoice === "looking") return "talent";
+  if (kind === "job") return "talent";
+  if (kind === "company") return "company";
+  if (kind === "talent") {
+    const anyTalent = posts.some((post) => post.kind === "talent" || post.kind === "talent-ref");
+    return anyTalent ? "job" : "talent";
+  }
+  return "find";
+}
+
 function agentPrompt(kind) {
-  const label = AGENT_LABEL[kind] || AGENT_LABEL.job;
-  return (
-    `Read ${boardOrigin()}llms.txt and follow it. ` +
-    `Turn the details below into an OpenJob ${label} post and open a pull request ` +
-    "to github.com/softprobe/openjob. Details: <paste here>"
-  );
+  const copy = t();
+  const prompts = copy.agentPrompt || {};
+  const writer = prompts[kind] || prompts.find || prompts.job;
+  if (typeof writer === "function") return writer(boardOrigin());
+  return String(writer || "");
 }
 
 function paintAgent() {
+  const copy = t();
   const prompt = document.querySelector("#agent-prompt");
   const link = document.querySelector("#agent-new-link");
+  const finding = agentKind === "find";
   if (prompt) prompt.textContent = agentPrompt(agentKind);
-  if (link) link.href = AGENT_NEW[agentKind] || AGENT_NEW.job;
+  if (link) link.href = AGENT_NEW[agentKind] || AGENT_NEW.talent;
   document.querySelectorAll("[data-agent]").forEach((button) => {
     button.setAttribute("aria-pressed", button.dataset.agent === agentKind ? "true" : "false");
+  });
+  document.querySelectorAll("[data-agent-find]").forEach((node) => {
+    node.hidden = !finding;
+  });
+  document.querySelectorAll("[data-agent-create]").forEach((node) => {
+    node.hidden = finding;
+  });
+  const fallback = document.querySelector("[data-agent-find].agent-fallback");
+  if (fallback) fallback.textContent = copy.agentFindFallback;
+  const createFallback = document.querySelector("[data-agent-create].agent-fallback");
+  if (createFallback) createFallback.textContent = copy.agentFallback;
+  document.querySelectorAll("[data-audience]").forEach((button) => {
+    button.setAttribute("aria-pressed", button.dataset.audience === audienceChoice ? "true" : "false");
   });
 }
 
@@ -514,7 +611,8 @@ function bindAgent() {
   if (!root) return;
   root.querySelectorAll("[data-agent]").forEach((button) => {
     button.addEventListener("click", () => {
-      agentKind = button.dataset.agent || "job";
+      agentTouched = true;
+      agentKind = button.dataset.agent || "find";
       paintAgent();
     });
   });
@@ -528,6 +626,21 @@ function bindAgent() {
   paintAgent();
 }
 
+function bindAudience() {
+  document.querySelectorAll("[data-audience]").forEach((button) => {
+    button.addEventListener("click", () => {
+      audienceChoice = button.dataset.audience === "hiring" ? "hiring" : "looking";
+      state.kind = audienceChoice === "hiring" ? "talent" : "job";
+      agentTouched = true;
+      agentKind = agentForFilter(state.kind);
+      const details = document.querySelector("#agent");
+      if (details) details.open = true;
+      writeQuery();
+      render();
+    });
+  });
+}
+
 function bind() {
   document.addEventListener("openjob-ui", (event) => {
     state.ui = event.detail === "zh" ? "zh" : "en";
@@ -536,7 +649,10 @@ function bind() {
   });
   els.tabs.forEach((button) => {
     button.addEventListener("click", () => {
+      if (button.dataset.kind !== state.kind) audienceChoice = "";
       state.kind = button.dataset.kind;
+      agentTouched = true;
+      agentKind = agentForFilter(state.kind);
       writeQuery();
       render();
     });
@@ -570,16 +686,17 @@ async function main() {
   readQuery();
   bind();
   bindAgent();
+  bindAudience();
   try {
     const response = await fetch("./index.json");
     if (!response.ok) throw new Error(String(response.status));
     const documentIndex = await response.json();
     posts = documentIndex.posts || [];
-    render();
   } catch (error) {
     loadError = true;
-    render();
   }
+  if (!agentTouched) agentKind = agentForFilter(state.kind);
+  render();
 }
 
 main();

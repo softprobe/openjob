@@ -82,6 +82,14 @@ _REMOTE_KEY = {
     "onsite": "remoteOpt.onsite",
     "hybrid": "remoteOpt.hybrid",
 }
+_OPEN_TO = {
+    "full-time": "Full-time",
+    "part-time": "Part-time",
+    "contract": "Contract",
+    "internship": "Internship",
+}
+_PROFILE_FRAGMENTS = {"add-your-profile", "post-your-resume-talent"}
+_GITHUB_LOGIN = re.compile(r"^[A-Za-z0-9](?:[A-Za-z0-9-]{0,37}[A-Za-z0-9])?$")
 _FAVICON = (
     "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E"
     "%3Crect width='32' height='32' fill='%23f3efe4'/%3E%3Crect x='4' y='4' width='24' "
@@ -323,6 +331,7 @@ def render_post_page(post: Mapping[str, object], body: str) -> str:
     home = pages_origin().rstrip("/") + "/"
     board = f"{home}#{_slug(path)}"
     description_html = apply_how + render_body(body)
+    reach = _reach_note(post)
     from validator.jsonld import post_jsonld
 
     structured = post_jsonld(post, description_html, body)
@@ -376,6 +385,7 @@ def render_post_page(post: Mapping[str, object], body: str) -> str:
       {render_body(body)}
       {open_jobs}
       {tags}
+      {reach}
       <div class="links">{company_link}{actions}<a href="{e(board, quote=True)}" data-i18n="board">Board</a><span class="sub">{_dates(post)}</span></div>
       <section class="share" id="share" data-permalink="{e(url, quote=True)}" data-share-text="{e(text, quote=True)}">
         <h2 data-i18n="share">Share</h2>
@@ -614,6 +624,13 @@ def _badges(post: Mapping[str, object]) -> str:
         chips.extend(_chip(str(language)) for language in languages)
     if post.get("federated"):
         chips.append(_chip("Own repo", "federated"))
+    if kind in {"talent", "talent-ref"}:
+        values = post.get("open_to") or []
+        if isinstance(values, list):
+            for value in values:
+                label = _OPEN_TO.get(str(value))
+                if label:
+                    chips.append(_chip(label, f"openTo.{value}"))
     return "".join(chips)
 
 
@@ -624,14 +641,50 @@ def _tags(tags: object) -> str:
     return f'<ul class="tags">{items}</ul>'
 
 
+def is_profile_guide(url: object) -> bool:
+    """True when a URL points at this board or its profile instructions.
+
+    That address is not an application route. Callers render it as a separate
+    invitation to add a profile, never as Apply.
+    """
+    if not isinstance(url, str) or not url.startswith("https://") or any(char.isspace() for char in url):
+        return False
+    parsed = urlsplit(url)
+    host = (parsed.hostname or "").lower()
+    path = parsed.path or ""
+    fragment = (parsed.fragment or "").lower()
+    if fragment in _PROFILE_FRAGMENTS:
+        return True
+    if host in {"github.com", "www.github.com"}:
+        lowered = path.lower().rstrip("/")
+        prefix = f"/{REPO.lower()}"
+        if lowered == prefix or lowered.startswith(prefix + "/"):
+            return True
+    for origin in (pages_origin(), TEMPLATE_ORIGIN):
+        board = urlsplit(origin)
+        if host != (board.hostname or "").lower():
+            continue
+        prefix = board.path.rstrip("/")
+        if path.rstrip("/") == prefix or path.startswith(prefix + "/"):
+            return True
+    return False
+
+
+def profile_guide_url() -> str:
+    """README section that explains how to add a talent profile."""
+    return f"https://github.com/{REPO}#add-your-profile"
+
+
 def _apply_section(post: Mapping[str, object]) -> str:
     """Hiring instructions at the top of a job page. Share text stays free of them."""
     if post.get("kind") != "job":
         return ""
-    https_apply = _https(post.get("apply"))
+    raw_apply = _https(post.get("apply"))
+    guide = is_profile_guide(raw_apply)
+    https_apply = None if guide else raw_apply
     mailto = _mailto(post.get("apply_email"))
     address = mailto.split(":", 1)[1] if mailto else ""
-    if not https_apply and not address:
+    if not https_apply and not address and not guide:
         return ""
     buttons: list[str] = []
     if address and mailto:
@@ -650,20 +703,67 @@ def _apply_section(post: Mapping[str, object]) -> str:
             'data-i18n="apply">Apply</a>'
         )
     address_html = f'<p class="apply-address">{html.escape(address)}</p>' if address else ""
+    heading = ""
+    actions = ""
+    if https_apply or address:
+        heading = '<h2 data-i18n="howToApply">How to apply</h2>'
+        actions = f'<div class="apply-actions">{"".join(buttons)}</div>'
+    profile = _profile_invite() if guide else ""
     return (
         '<section class="apply-how" id="apply">'
-        '<h2 data-i18n="howToApply">How to apply</h2>'
+        f"{heading}"
         f"{address_html}"
-        f'<div class="apply-actions">{"".join(buttons)}</div>'
+        f"{actions}"
+        f"{profile}"
         "</section>"
     )
+
+
+def _profile_invite() -> str:
+    href = html.escape(profile_guide_url(), quote=True)
+    return (
+        f'<p class="also-profile"><a href="{href}" data-i18n="alsoProfile">'
+        "Also add your profile</a></p>"
+    )
+
+
+def _reach_note(post: Mapping[str, object]) -> str:
+    if post.get("kind") not in {"talent", "talent-ref"}:
+        return ""
+    return (
+        '<p class="reach" data-i18n="reachNote">This board does not list an email or a phone number. '
+        "Reach this person through the GitHub, LinkedIn, or website link.</p>"
+    )
+
+
+def _outbound(url: str, label: str, key: str) -> str:
+    return (
+        f'<a href="{html.escape(url, quote=True)}" rel="noopener noreferrer" '
+        f'data-i18n="{key}">{label}</a>'
+    )
+
+
+def _talent_links(post: Mapping[str, object]) -> list[str]:
+    links: list[str] = []
+    owner = post.get("owner")
+    if isinstance(owner, str) and _GITHUB_LOGIN.fullmatch(owner):
+        links.append(_outbound(f"https://github.com/{owner}", "GitHub", "github"))
+    linkedin = _https(post.get("linkedin"))
+    if linkedin:
+        links.append(_outbound(linkedin, "LinkedIn", "linkedin"))
+    website = _https(post.get("website"))
+    if website:
+        links.append(_outbound(website, "Website", "website"))
+    return links
 
 
 def _actions(post: Mapping[str, object]) -> str:
     kind = str(post.get("kind") or "")
     links: list[str] = []
     if kind == "job":
-        https_apply = _https(post.get("apply"))
+        raw_apply = _https(post.get("apply"))
+        guide = is_profile_guide(raw_apply)
+        https_apply = None if guide else raw_apply
         mailto = _mailto(post.get("apply_email"))
         if https_apply:
             links.append(
@@ -675,17 +775,17 @@ def _actions(post: Mapping[str, object]) -> str:
                 f'<a href="{html.escape(mailto, quote=True)}" rel="nofollow noopener noreferrer" '
                 'data-i18n="applyEmail">Apply by email</a>'
             )
-    else:
-        if kind == "company":
-            label, key = "Website", "website"
-        else:
-            label, key = "Profile", "profile"
+        if guide:
+            links.append(
+                f'<a href="{html.escape(profile_guide_url(), quote=True)}" data-i18n="alsoProfile">'
+                "Also add your profile</a>"
+            )
+    elif kind == "company":
         outbound = _https(post.get("url"))
         if outbound:
-            links.append(
-                f'<a href="{html.escape(outbound, quote=True)}" rel="noopener noreferrer" '
-                f'data-i18n="{key}">{label}</a>'
-            )
+            links.append(_outbound(outbound, "Website", "website"))
+    else:
+        links.extend(_talent_links(post))
     source = _https(post.get("source_url"))
     if source:
         links.append(

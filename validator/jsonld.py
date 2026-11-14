@@ -240,7 +240,11 @@ def _direct_apply(post: Mapping[str, object], body: str) -> bool:
 
 
 def _apply_action(post: Mapping[str, object]) -> dict | None:
+    from validator.share import is_profile_guide
+
     target = _https(post.get("apply"))
+    if target is not None and is_profile_guide(target):
+        target = None
     if target is None and isinstance(post.get("apply_email"), str):
         email = str(post["apply_email"])
         if email.startswith("mailto:"):

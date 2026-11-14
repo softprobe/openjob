@@ -46,23 +46,57 @@ else, including an empty list, stays English.
       },
       postJob: "Post a job",
       addProfile: "Add your profile",
+      looking: "I'm looking for work",
+      hiring: "I'm hiring",
+      audienceLabel: "Who you are",
+      githubAccount: "Publishing a post needs a free GitHub account.",
       useAgent: "Use your AI agent",
+      agentFind: "Find jobs",
       agentJob: "Job",
       agentTalent: "Talent profile",
       agentCompany: "Company",
       agentCopy: "Copy prompt",
       agentCopied: "Copied",
       agentFallback: "If your agent cannot open a pull request, ask it to print the Markdown file. Paste that file with the GitHub new-file link for the folder.",
+      agentFindFallback: "This prompt does not open a pull request. The agent reads the public index and returns matching permalinks.",
+      agentIndex: "Read the live index",
       agentNew: "Create the file on GitHub",
+      agentPrompt: {
+        find: function (origin) {
+          return "Read " + origin + "llms.txt and follow it. GET " + origin +
+            "index.json (jobs are also in " + origin +
+            "jobs.json). Rank the live jobs against the resume or bio below. Return each match with its permalink and the apply method already on that post. Do not invent an email or a phone number. Resume or bio: <paste here>";
+        },
+        talent: function (origin) {
+          return "Read " + origin + "llms.txt and follow it. Turn the resume or bio below into an OpenJob talent profile and open a pull request to github.com/softprobe/openjob. Use " + origin +
+            "schema/talent.json. Do not add an email or a phone number. Resume or bio: <paste here>";
+        },
+        job: function (origin) {
+          return "Read " + origin + "llms.txt and follow it. Turn the details below into an OpenJob job post and open a pull request to github.com/softprobe/openjob. Details: <paste here>";
+        },
+        company: function (origin) {
+          return "Read " + origin + "llms.txt and follow it. Turn the details below into an OpenJob company post and open a pull request to github.com/softprobe/openjob. Details: <paste here>";
+        },
+      },
       missing: "The index is not here yet. GitHub Pages builds it from the posts. Locally, from the repo root: python -m validator build-index --root . --out site/index.json",
       federated: "Own repo",
       apply: "Apply",
       applyEmail: "Apply by email",
       howToApply: "How to apply",
+      alsoProfile: "Also add your profile",
       copyEmail: "Copy email",
       copied: "Copied",
       website: "Website",
+      github: "GitHub",
+      linkedin: "LinkedIn",
       profile: "Profile",
+      reachNote: "This board does not list an email or a phone number. Reach this person through the GitHub, LinkedIn, or website link.",
+      openTo: {
+        "full-time": "Full-time",
+        "part-time": "Part-time",
+        contract: "Contract",
+        internship: "Internship",
+      },
       source: "Source",
       posted: "Posted",
       expires: "Expires",
@@ -78,6 +112,8 @@ else, including an empty list, stays English.
       board: "Board",
       about: "About",
       feed: "Feed",
+      jobsFeed: "New jobs",
+      talentsFeed: "New profiles",
       skipResults: "Skip to results",
       skipShare: "Skip to share",
       postType: "Post type",
@@ -98,6 +134,11 @@ else, including an empty list, stays English.
       aboutWhatBody: "OpenJob is a job board that lives in a Git repository: you post a role or a profile with a pull request, people find it on a static page, and the file expires unless someone renews it.",
       aboutPost: "How do I post a job or a talent profile?",
       aboutApply: "How do I apply?",
+      aboutApplyBody: "The job page shows the method. That is an email on the company domain, an https link, or both. A link to this board's profile guide is not an application.",
+      aboutProfile: "How do I add a profile?",
+      aboutProfileBody: "A talent profile is a pull request that adds a file under talents/. It is not how you apply to a job. Do not put a phone number or a personal email in that profile. You need a free GitHub account.",
+      aboutFeeds: "How do I hear about new posts?",
+      aboutFeedsBody: "New jobs are in jobs.xml. New profiles are in talents.xml. Every post is in feed.xml. The catalog is index.json.",
       aboutPrivacy: "Why are phone numbers and personal emails rejected?",
       aboutPrivacyBody: "The board is public. Phone numbers are never accepted. Talent posts cannot contain an email. A job may list one hiring address, and only when that domain matches the company website.",
       aboutDuration: "How long does a post stay up?",
@@ -136,23 +177,57 @@ else, including an empty list, stays English.
       },
       postJob: "发布职位",
       addProfile: "添加档案",
+      looking: "我在找工作",
+      hiring: "我在招聘",
+      audienceLabel: "你是哪一方",
+      githubAccount: "发布帖子需要一个免费的 GitHub 账号。",
       useAgent: "使用你的 AI 助手",
+      agentFind: "找职位",
       agentJob: "职位",
       agentTalent: "人才档案",
       agentCompany: "公司",
       agentCopy: "复制提示",
       agentCopied: "已复制",
       agentFallback: "如果助手不能开 Pull Request，让它输出 Markdown 文件，再用下面的 GitHub 新文件链接粘贴进去。",
+      agentFindFallback: "这段提示不需要开 Pull Request。助手读取公开索引，并返回匹配的永久链接。",
+      agentIndex: "阅读实时索引",
       agentNew: "在 GitHub 上新建文件",
+      agentPrompt: {
+        find: function (origin) {
+          return "阅读 " + origin + "llms.txt 并按它执行。GET " + origin +
+            "index.json（职位也在 " + origin +
+            "jobs.json）。根据下面的简历或简介，给正在招的职位排序。每条写出永久链接，以及帖子上已有的申请方式。不要编造邮箱或电话。简历或简介：<粘贴在这里>";
+        },
+        talent: function (origin) {
+          return "阅读 " + origin + "llms.txt 并按它执行。把下面的简历或简介写成 OpenJob 人才档案，并向 github.com/softprobe/openjob 开一个 Pull Request。使用 " + origin +
+            "schema/talent.json。不要写邮箱或电话。简历或简介：<粘贴在这里>";
+        },
+        job: function (origin) {
+          return "阅读 " + origin + "llms.txt 并按它执行。把下面的内容写成 OpenJob 职位帖，并向 github.com/softprobe/openjob 开一个 Pull Request。内容：<粘贴在这里>";
+        },
+        company: function (origin) {
+          return "阅读 " + origin + "llms.txt 并按它执行。把下面的内容写成 OpenJob 公司页，并向 github.com/softprobe/openjob 开一个 Pull Request。内容：<粘贴在这里>";
+        },
+      },
       missing: "索引还没生成。GitHub Pages 会根据帖子构建。本地在仓库根目录运行：python -m validator build-index --root . --out site/index.json",
       federated: "独立仓库",
       apply: "申请",
       applyEmail: "邮件申请",
       howToApply: "如何申请",
+      alsoProfile: "也可以添加档案",
       copyEmail: "复制邮箱",
       copied: "已复制",
       website: "网站",
+      github: "GitHub",
+      linkedin: "LinkedIn",
       profile: "档案",
+      reachNote: "看板上不列出邮箱或电话。请通过 GitHub、LinkedIn 或网站链接联系。",
+      openTo: {
+        "full-time": "全职",
+        "part-time": "兼职",
+        contract: "合同",
+        internship: "实习",
+      },
       source: "源文件",
       posted: "发布",
       expires: "到期",
@@ -168,6 +243,8 @@ else, including an empty list, stays English.
       board: "公告板",
       about: "关于",
       feed: "订阅",
+      jobsFeed: "新职位",
+      talentsFeed: "新档案",
       skipResults: "跳到结果",
       skipShare: "跳到分享",
       postType: "帖子类型",
@@ -189,7 +266,11 @@ else, including an empty list, stays English.
       aboutPost: "如何发布职位或人才档案？",
       aboutPostBody: "把模板复制到 <code>jobs/</code>、<code>talents/</code> 或 <code>companies/</code>，然后开 Pull Request。只改帖子的请求会在检查通过后自动合并。",
       aboutApply: "如何申请？",
-      aboutApplyBody: "申请方式写在职位页上，可以是公司域名上的邮箱、一个 https 链接，或两者都有。人才档案是在 <code>talents/</code> 下新增文件的 Pull Request。不要写电话或个人邮箱。",
+      aboutApplyBody: "申请方式写在职位页上，是公司域名上的邮箱、一个 https 链接，或两者都有。指向本看板档案说明的链接不是申请方式。",
+      aboutProfile: "如何添加档案？",
+      aboutProfileBody: "人才档案是在 <code>talents/</code> 下新增文件的 Pull Request。这不是申请某个职位的方式。不要写电话或个人邮箱。需要一个免费的 GitHub 账号。步骤见 <a href=\"https://github.com/softprobe/openjob#add-your-profile\">添加档案</a>。",
+      aboutFeeds: "如何知道有新帖子？",
+      aboutFeedsBody: "新职位：<a href=\"../jobs.xml\">jobs.xml</a>（另有 <a href=\"../jobs.atom\">jobs.atom</a> 和 <a href=\"../jobs.json\">jobs.json</a>）。新档案：<a href=\"../talents.xml\">talents.xml</a>（另有 <a href=\"../talents.atom\">talents.atom</a> 和 <a href=\"../talents.json\">talents.json</a>）。全部帖子在 <a href=\"../feed.xml\">feed.xml</a>。目录是 <a href=\"../index.json\">index.json</a>。",
       aboutPrivacy: "为什么拒绝电话和个人邮箱？",
       aboutPrivacyBody: "看板是公开的。电话一律不允许。人才帖不能写邮箱。职位最多写一个招聘邮箱，而且域名必须和公司网站一致。",
       aboutDuration: "帖子保留多久？",

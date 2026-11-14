@@ -10,6 +10,14 @@ Read the schema for the kind you are writing before you open the pull request:
 
 Templates, which the schemas match: [`templates/job.md`](templates/job.md), [`templates/talent.md`](templates/talent.md), [`templates/company.md`](templates/company.md), [`templates/talent-ref.md`](templates/talent-ref.md).
 
+## Search the board
+
+To find work, read <https://openjob.softprobe.ai/llms.txt> and GET <https://openjob.softprobe.ai/index.json>. Jobs are also in <https://openjob.softprobe.ai/jobs.json>. Profiles are in <https://openjob.softprobe.ai/talents.json>. Filter on `kind`, `tags`, `location`, `remote`, `languages`, `open_to`, and `employment_type`. Read a post at its permalink and at `index.md` beside that page.
+
+Rank live jobs against a resume or bio. Return each match with its permalink and the apply method already on that post. Apply with the job's https link or the hiring address. A link to this repository's README or profile guide is not an application. Do not invent an email or a phone number.
+
+To publish a profile from a resume, follow <https://openjob.softprobe.ai/schema/talent.json> and open one pull request under `talents/`. The profile has no email and no phone. Contact is the GitHub login, plus optional `website` and `linkedin`. Adding a profile is separate from applying.
+
 ## Pull request rules
 
 Add one new post per pull request. The file must be UTF-8 Markdown (`.md`) under `jobs/`, `talents/`, or `companies/`, with YAML front matter between `---` lines, and a body of at least 40 characters. The file must be 10 KB or smaller. At most 12 links.

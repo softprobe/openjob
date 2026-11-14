@@ -8,8 +8,10 @@
   <link rel="canonical" href="https://softprobe.github.io/openjob/">
   <link rel="alternate" type="application/rss+xml" title="OpenJob" href="feed.xml">
   <link rel="alternate" type="application/rss+xml" title="OpenJob jobs" href="jobs.xml">
+  <link rel="alternate" type="application/rss+xml" title="OpenJob talent" href="talents.xml">
   <link rel="alternate" type="application/atom+xml" title="OpenJob" href="atom.xml">
   <link rel="alternate" type="application/atom+xml" title="OpenJob jobs" href="jobs.atom">
+  <link rel="alternate" type="application/atom+xml" title="OpenJob talent" href="talents.atom">
   <link rel="alternate" type="application/feed+json" title="OpenJob" href="feed.json">
   <link rel="describedby" href="llms.txt">
   <meta property="og:type" content="website">
@@ -83,24 +85,32 @@
     </form>
 
     <section class="post-bar" id="post-bar">
+      <div class="audience" role="group" aria-label="Who you are" data-i18n-attrs="aria-label:audienceLabel">
+        <button type="button" data-audience="looking" aria-pressed="false" data-i18n="looking">I'm looking for work</button>
+        <button type="button" data-audience="hiring" aria-pressed="false" data-i18n="hiring">I'm hiring</button>
+      </div>
       <p class="empty-actions">
         <a data-i18n="postJob" href="https://github.com/softprobe/openjob#post-a-job-in-2-minutes">Post a job</a>
         ·
         <a data-i18n="addProfile" href="https://github.com/softprobe/openjob#add-your-profile">Add your profile</a>
       </p>
+      <p class="sub" data-i18n="githubAccount">Publishing a post needs a free GitHub account.</p>
       <details class="agent" id="agent">
         <summary data-i18n="useAgent">Use your AI agent</summary>
         <div class="agent-kinds" role="group" aria-label="Post type" data-i18n-attrs="aria-label:postType">
-          <button type="button" class="text-button" data-agent="job" aria-pressed="true" data-i18n="agentJob">Job</button>
+          <button type="button" class="text-button" data-agent="find" aria-pressed="true" data-i18n="agentFind">Find jobs</button>
           <button type="button" class="text-button" data-agent="talent" aria-pressed="false" data-i18n="agentTalent">Talent profile</button>
+          <button type="button" class="text-button" data-agent="job" aria-pressed="false" data-i18n="agentJob">Job</button>
           <button type="button" class="text-button" data-agent="company" aria-pressed="false" data-i18n="agentCompany">Company</button>
         </div>
-        <pre id="agent-prompt">Read https://softprobe.github.io/openjob/llms.txt and follow it. Turn the details below into an OpenJob job post and open a pull request to github.com/softprobe/openjob. Details: &lt;paste here&gt;</pre>
+        <pre id="agent-prompt">Read https://softprobe.github.io/openjob/llms.txt and follow it. GET https://softprobe.github.io/openjob/index.json (jobs are also in https://softprobe.github.io/openjob/jobs.json). Rank the live jobs against the resume or bio below. Return each match with its permalink and the apply method already on that post. Do not invent an email or a phone number. Resume or bio: &lt;paste here&gt;</pre>
         <p class="agent-actions">
           <button type="button" id="agent-copy" class="text-button" data-i18n="agentCopy">Copy prompt</button>
         </p>
-        <p class="agent-fallback" data-i18n="agentFallback">If your agent cannot open a pull request, ask it to print the Markdown file. Paste that file with the GitHub new-file link for the folder.</p>
-        <p><a id="agent-new-link" href="https://github.com/softprobe/openjob/new/main/jobs" data-i18n="agentNew">Create the file on GitHub</a></p>
+        <p class="agent-fallback" data-agent-find data-i18n="agentFindFallback">This prompt does not open a pull request. The agent reads the public index and returns matching permalinks.</p>
+        <p data-agent-find><a id="agent-index-link" href="index.json" data-i18n="agentIndex">Read the live index</a></p>
+        <p class="agent-fallback" data-agent-create hidden data-i18n="agentFallback">If your agent cannot open a pull request, ask it to print the Markdown file. Paste that file with the GitHub new-file link for the folder.</p>
+        <p data-agent-create hidden><a id="agent-new-link" href="https://github.com/softprobe/openjob/new/main/talents" data-i18n="agentNew">Create the file on GitHub</a></p>
       </details>
     </section>
 
@@ -113,7 +123,7 @@
     </noscript>
     <footer>
       <p id="footer-note" data-i18n="footer">Phone numbers are not allowed. A job may show Apply by email when the address is on the company domain. Share text never includes a phone number or an email. Posts are CC BY 4.0. Code is MIT.</p>
-      <p><a href="about/" data-i18n="about">About</a> · <a href="https://github.com/softprobe/openjob" data-i18n="source">Source</a> · <a href="feed.xml" data-i18n="feed">Feed</a></p>
+      <p><a href="about/" data-i18n="about">About</a> · <a href="https://github.com/softprobe/openjob" data-i18n="source">Source</a> · <a href="jobs.xml" data-i18n="jobsFeed">New jobs</a> · <a href="talents.xml" data-i18n="talentsFeed">New profiles</a> · <a href="feed.xml" data-i18n="feed">Feed</a></p>
     </footer>
   </div>
   <script src="i18n.js"></script>

@@ -99,6 +99,16 @@ def write_discovery(
     (site_dir / "jobs.json").write_text(
         _json_feed(jobs[:feed_limit], "OpenJob jobs", f"{_origin()}/jobs.json"), encoding="utf-8"
     )
+    talents = grouped["talent"]
+    (site_dir / "talents.xml").write_text(
+        _rss(talents[:feed_limit], "OpenJob talent", f"{_origin()}/talents.xml"), encoding="utf-8"
+    )
+    (site_dir / "talents.atom").write_text(
+        _atom(talents[:feed_limit], "OpenJob talent", f"{_origin()}/talents.atom"), encoding="utf-8"
+    )
+    (site_dir / "talents.json").write_text(
+        _json_feed(talents[:feed_limit], "OpenJob talent", f"{_origin()}/talents.json"), encoding="utf-8"
+    )
     (site_dir / "llms.txt").write_text(_llms(grouped), encoding="utf-8")
     (site_dir / "llms-full.txt").write_text(_llms_full(posts, llms_full_limit), encoding="utf-8")
     _write_schemas(site_dir)
@@ -111,6 +121,7 @@ def write_discovery(
         byte_limit=sitemap_byte_limit,
     )
     _write_about(site_dir)
+    _write_not_found(site_dir)
     _write_cname(site_dir)
     _write_google_file(site_dir)
     _write_og_image(site_dir)
@@ -280,11 +291,19 @@ def _archive_page(key: str, slug: str, title: str, number: int, pages: int, post
     if next_href:
         head.append(f'<a rel="next" href="{escape(next_href)}" data-i18n="next">Next</a>')
     head.append("</nav>")
-    head.append("<ul>")
-    head.extend(_post_item(post, str(post["permalink"])) for post in posts)
+    if posts:
+        head.append("<ul>")
+        head.extend(_post_item(post, str(post["permalink"])) for post in posts)
+        head.append("</ul>")
+    else:
+        empty = {
+            "job": "No jobs yet.",
+            "talent": "No profiles yet.",
+            "company": "No company pages yet.",
+        }
+        head.append(f'<p data-i18n="emptyLead.{escape(key)}">{escape(empty[key])}</p>')
     head.extend(
         [
-            "</ul>",
             "</div>",
             '<script src="../../../i18n.js"></script>',
             "</body>",
@@ -296,8 +315,9 @@ def _archive_page(key: str, slug: str, title: str, number: int, pages: int, post
 
 
 def _page_count(count: int, page_size: int) -> int:
+    """Page 1 exists even when a section has no posts, so the archive URL does not 404."""
     if count <= 0:
-        return 0
+        return 1
     return (count + page_size - 1) // page_size
 
 
@@ -394,6 +414,21 @@ def _robots() -> str:
             "# not this file. This file applies once the board has its own hostname.\n"
         )
     return note + "User-agent: *\nAllow: /\n\n" + f"Sitemap: {_origin()}/sitemap.xml\n"
+
+
+def _write_not_found(site_dir: Path) -> None:
+    """Rewrite the 404 back link to the configured origin.
+
+    Asset paths in the source file are root-absolute, so a nested miss such as
+    ``/talents/`` still loads the stylesheet from the host root.
+    """
+    source = _REPO_ROOT / "site" / "404.html"
+    if not source.is_file():
+        return
+    (site_dir / "404.html").write_text(
+        _with_origin(source.read_text(encoding="utf-8")),
+        encoding="utf-8",
+    )
 
 
 def _write_about(site_dir: Path) -> None:
@@ -539,6 +574,25 @@ def _llms(grouped: dict[str, list[dict]]) -> str:
         "profiles last 180 days unless renewed. Company pages do not expire. Expired posts leave "
         f"the index at {origin}/index.json.",
         "",
+        "## Find work",
+        "",
+        f"- GET [{origin}/index.json]({origin}/index.json). Filter on `kind`, `tags`, `location`, "
+        "`remote`, `languages`, `open_to`, and `employment_type`. Read a post at its permalink "
+        "and at `index.md` beside that page.",
+        f"- Jobs only: [{origin}/jobs.json]({origin}/jobs.json), "
+        f"[{origin}/jobs.xml]({origin}/jobs.xml), and [{origin}/jobs.atom]({origin}/jobs.atom).",
+        f"- Profiles only: [{origin}/talents.json]({origin}/talents.json), "
+        f"[{origin}/talents.xml]({origin}/talents.xml), and [{origin}/talents.atom]({origin}/talents.atom).",
+        "- Rank live jobs against a resume or bio. Return each match with its permalink and the "
+        "apply method already on that post. Do not invent an email or a phone number.",
+        f"- A resume becomes a talent profile: follow [{origin}/schema/talent.json]({origin}/schema/talent.json), "
+        f"use the talent template, and open one pull request. No email and no phone. "
+        f"[New talent file]({repo}/new/main/talents).",
+        "- Apply with the job's https link or the hiring address on the post. A link to this "
+        "repository's README or profile guide is not an application. Adding a profile is optional "
+        "and separate.",
+        f"- [Catalog schema]({origin}/schema/index.json).",
+        "",
         "## Post",
         "",
         f"- [AGENTS.md]({raw}/AGENTS.md): how an agent writes a valid post and opens the pull request",
@@ -557,10 +611,7 @@ def _llms(grouped: dict[str, list[dict]]) -> str:
     ]
     for key, slug, title in _SECTIONS:
         count = len(grouped[key])
-        if count:
-            lines.append(f"- {title}: {count}. [Archive]({_origin()}/{slug}/page/1/)")
-        else:
-            lines.append(f"- {title}: 0")
+        lines.append(f"- {title}: {count}. [Archive]({_origin()}/{slug}/page/1/)")
     lines.extend(
         [
             f"- [Sitemap]({_origin()}/sitemap.xml)",
@@ -588,7 +639,13 @@ How do I post a job or a talent profile?
 Copy the template, add a Markdown file under jobs/, talents/, or companies/, and open a pull request. The checker validates it. A post-only pull request merges on its own.
 
 How do I apply?
-The job page shows the application method: an email on the company domain, an https link, or both. A talent profile is another pull request under talents/. Do not put a phone number or a personal email in the profile.
+The job page shows the application method: an email on the company domain, an https link, or both. A link to this board's profile guide is not an application.
+
+How do I add a profile?
+A talent profile is a separate pull request under talents/. It is not how you apply to a job. Do not put a phone number or a personal email in the profile. You need a free GitHub account.
+
+How do I hear about new posts?
+New jobs are in /jobs.xml, /jobs.atom, and /jobs.json. New profiles are in /talents.xml, /talents.atom, and /talents.json. The mixed feed is /feed.xml. The catalog is /index.json.
 
 Why are phone numbers and personal emails rejected?
 The board is public. Phone numbers are never accepted. Talent posts cannot contain an email. A job may list one hiring address, and only when that domain matches the company website.
@@ -641,6 +698,7 @@ _SCHEMA_PUBLIC = {
     "talent.schema.json": "talent.json",
     "company.schema.json": "company.json",
     "talent-ref.schema.json": "talent-ref.json",
+    "index.schema.json": "index.json",
     "common.json": "common.json",
 }
 

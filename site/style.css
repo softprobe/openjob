@@ -292,6 +292,33 @@ footer { margin-top: 28px; color: var(--muted); }
 
 .post-bar { margin: 18px 0 0; }
 
+.audience {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+  margin: 0 0 12px;
+}
+
+.audience button {
+  font-family: var(--mono);
+  font-size: 13px;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  background: transparent;
+  color: var(--ink);
+  border: 1px solid var(--ink);
+  padding: 12px 10px;
+  min-height: 44px;
+  cursor: pointer;
+}
+
+.audience button[aria-pressed="true"] {
+  background: var(--ink);
+  color: var(--paper);
+}
+
+.reach, .also-profile { margin: 8px 0 0; }
+
 .agent { margin-top: 10px; }
 
 .agent summary { cursor: pointer; }
@@ -389,4 +416,8 @@ body.entry h1 {
   h2 { font-size: 24px; }
   label { min-width: 100%; }
   .share-text { font-size: 18px; }
+  .audience { grid-template-columns: 1fr; }
+  .agent-kinds .text-button,
+  .text-button,
+  .tab { min-height: 44px; }
 }
