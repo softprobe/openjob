@@ -4,6 +4,46 @@ Posts are pull requests. A pull request may change any number of posts. The chec
 
 English is the normative set of rules. A short Chinese walkthrough is at the bottom.
 
+## Reviews
+
+A content pull request only adds, edits, or removes Markdown under `jobs/`, `talents/`, or `companies/`. Several posts are fine. `validate` runs the unit tests and `python -m validator check-pr`. When that check succeeds for the same head commit, `automerge` squash-merges the pull request and comments with each permalink. Posts are not reviewed by hand.
+
+A pull request that also changes code, the site, docs, schemas, or workflows does not auto-merge. It needs approval from `@softprobe/openjob-maintainers`. The bot comment names the files outside the post folders. `@zwobill` remains a maintainer in the checker.
+
+## Run it locally
+
+```bash
+pip install -r requirements.txt
+python -m unittest discover -s tests -v
+python -m validator check-tree --root .
+python -m validator build-index --root . --out site/index.json --pages site
+```
+
+Serve `site/` afterward (`python -m http.server` in that directory) and open the local root. `site/index.json`, `site/p/`, and `site/og.png` are build output. They are not committed. The README screenshot is [`docs/board.png`](docs/board.png).
+
+`python -m validator expire --root . --today 2026-11-13` lists posts that would be removed on that day. It does not delete them unless you pass `--apply`.
+
+## Conduct
+
+[CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) is the [Contributor Covenant](https://www.contributor-covenant.org/version/2/1/code_of_conduct.html), version 2.1. Report abusive or harassing behavior through the [private security advisory](https://github.com/softprobe/openjob/security/advisories/new) named there. Do not include a phone number or a personal email in the report. A public post that should come down can also use the Abuse or takedown issue template. The hiring address on a job is for applicants. It is not the conduct contact.
+
+## Fork and self-host
+
+Fork the repository. Settings → Pages → Build and deployment → Source: GitHub Actions. The `pages` workflow builds the site and deploys it.
+
+`PAGES_ORIGIN` is an Actions variable, not a committed file.
+
+- Unset or empty: the site is the github.io project URL, `https://<owner>.github.io/<repo>/`. For this repository that default is `https://softprobe.github.io/openjob/`.
+- Set to `https://your.host` with no path: canonical URLs, the sitemap, feeds, and share comments use that origin. This repository's live board is <https://openjob.softprobe.ai>.
+- A bare hostname writes `CNAME` into the Pages artifact. A path, or a `github.io` host, does not. Do not commit a `CNAME` file.
+- An origin that is not `https` is rejected.
+
+The homepage also carries a Google Search Console meta tag. `GOOGLE_SITE_VERIFICATION` replaces the default token. `BING_SITE_VERIFICATION` adds `<meta name="msvalidate.01">` when set. `site/googlea714d55b74530204.html` is the HTML-file check.
+
+Workflow permissions need to be read and write, and GitHub Actions must be allowed to create pull requests, so the expiry job can open one. Squash merging has to be allowed. Branch protection on `main` should require a pull request and the `validate` check, and, once `automerge.yml` has run, `trusted-validate`. Required approving reviews stay at 0. "Require review from Code Owners" stays on: `CODEOWNERS` gives `*` to `@softprobe/openjob-maintainers` and leaves `/jobs/`, `/talents/`, and `/companies/` with no owner, so a content-only pull request has nobody to request.
+
+Pull requests opened by `GITHUB_TOKEN` do not trigger other workflows. The expiry pull request will not receive `validate`. Merge it yourself, or let the Actions bot bypass that rule. A new fork contributor's first pull request also waits for a maintainer to approve Actions.
+
 ## Privacy
 
 Do not publish a phone number. Do not publish a personal email address. Not in the post, not in the pull request body, not in an issue.
@@ -164,9 +204,11 @@ The expiry workflow opens its own pull request as `github-actions[bot]`. Pull re
 
 ## Share your post
 
-The permalink of a merged post is:
+The permalink of a merged post on the live board is:
 
-`https://softprobe.github.io/openjob/p/` plus the file path without `.md`, with a trailing slash.
+`https://openjob.softprobe.ai/p/` plus the file path without `.md`, with a trailing slash.
+
+A fork that does not set `PAGES_ORIGIN` uses its github.io project URL instead. The comment and the page use whichever origin the build was given.
 
 The Pages workflow writes that HTML file when it builds the site. The board hash `#` plus the same path (no `.md`) scrolls to the entry. Share buttons and unfurls use the permalink, because that page carries the Open Graph and Twitter card tags.
 
@@ -182,22 +224,12 @@ LinkedIn and Facebook do not accept a prefilled body. Their buttons open the net
 
 The auto-merge comment repeats these links. It does not repeat the apply link.
 
-## Local commands
-
-```bash
-pip install -r requirements.txt
-python -m unittest discover -s tests -v
-python -m validator check-tree --root .
-python -m validator build-index --root . --out site/index.json --pages site
-python -m validator expire --root . --today 2026-11-13
-```
-
 ## 中文步骤
 
 1. 不要写电话。人才帖不能写邮箱。职位的 `apply` 必填：`https://` 指向 ATS、招聘页或职位链接，或公司域名上的一个 `mailto:`。两者都要时，`apply` 保持 https，`apply_email` 写 `mailto:`。不能两个都写成 `mailto:`。域名必须和公司网站一致（公司页存在时以公司页的 `website` 为准，忽略 `www.`）。正文里的邮箱会被拒绝。个人邮箱和其他域名会被拒绝。细节见上文 [Application methods](#application-methods)。`名字 [at] 域名 [dot] com`、全角 `＠`、以及 `一三八……` 这种中文数字同样会被拒绝。
 2. 职位文件放在 `jobs/年/月/公司-职位.md`，`posted_by` 必须是你的 GitHub 用户名。默认 60 天后过期。
 3. 人才档案放在 `talents/首字母/用户名.md`，`github` 必须是你自己。默认 180 天。也可以在自己的 `openjob-profile` 仓库放全文，这里只提交 `kind: talent-ref` 的索引。
 4. 公司页放在 `companies/首字母/slug.md`，不过期。
-5. 一个 Pull Request 可以改多篇帖子，但每个文件都要在 `jobs/`、`talents/` 或 `companies/` 里，并且必须是符合模板的 Markdown。这些目录会被渲染成 HTML 页面，所以 PDF、图片或其他文件会被拒绝。检查通过后会 squash 合并。其他目录里的图片不会因此被拒绝，但改工作流或文档需要 Softprobe 团队批准。
+5. 一个 Pull Request 可以改多篇帖子，但每个文件都要在 `jobs/`、`talents/` 或 `companies/` 里，并且必须是符合模板的 Markdown。这些目录会被渲染成 HTML 页面，所以 PDF、图片或其他文件会被拒绝。检查通过后会 squash 合并。`docs/` 里的图片不会因此被拒绝，但改工作流或文档需要 Softprobe 团队批准。
 6. 续期时不要改 `posted`，把 `renewed` 设成提交当天。过期文件会从目录删除，Git 历史就是归档，需要时从历史恢复再续期。
-7. 合并后的永久链接是 `https://softprobe.github.io/openjob/p/` 加上去掉 `.md` 的路径。分享文案只有职位、公司和地点，或 headline，或公司名和地点，不含电话、邮箱和申请链接。页面可以显示「邮件申请」按钮，那个地址不在分享文案里。自动合并的评论里会带上每一篇新增或修改的帖子的分享链接。
+7. 合并后的永久链接是 `https://openjob.softprobe.ai/p/` 加上去掉 `.md` 的路径。没有设置 `PAGES_ORIGIN` 的 fork 用自己的 github.io 项目地址。分享文案只有职位、公司和地点，或 headline，或公司名和地点，不含电话、邮箱和申请链接。页面可以显示「邮件申请」按钮，那个地址不在分享文案里。自动合并的评论里会带上每一篇新增或修改的帖子的分享链接。

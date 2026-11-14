@@ -167,6 +167,21 @@ class OriginAndVerificationTests(unittest.TestCase):
         finally:
             shutil.rmtree(site)
 
+    def test_board_screenshot_is_a_png_and_is_not_a_build_output(self) -> None:
+        source = ROOT / "docs" / "board.png"
+        data = source.read_bytes()
+        self.assertFalse((ROOT / "docs" / "board.png.b64").exists())
+        self.assertTrue(data.startswith(b"\x89PNG\r\n\x1a\n"))
+        self.assertEqual(int.from_bytes(data[16:20], "big"), 1280)
+        self.assertEqual(int.from_bytes(data[20:24], "big"), 1343)
+        self.assertLess(len(data), 1_000_000)
+        site = Path(tempfile.mkdtemp())
+        try:
+            write_discovery(site, {"generated": "2026-11-13T00:00:00Z", "posts": []})
+            self.assertFalse((site / "board.png").exists())
+        finally:
+            shutil.rmtree(site)
+
     def test_default_origin_has_no_cname_and_keeps_the_google_token(self) -> None:
         site = Path(tempfile.mkdtemp())
         try:

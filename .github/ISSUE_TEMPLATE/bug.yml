@@ -1,4 +1,4 @@
-name: Bug
+name: Bug report
 description: The checker, the expiry workflow, or the search page misbehaved.
 title: "[bug] "
 body:
@@ -6,11 +6,19 @@ body:
     id: what
     attributes:
       label: What happened?
+      description: Do not include a phone number or a personal email.
     validations:
       required: true
   - type: textarea
     id: expected
     attributes:
       label: What did you expect?
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: How can someone else see it?
+      description: A pull request link, a page URL, or the command you ran.
     validations:
       required: true

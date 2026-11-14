@@ -1,5 +1,11 @@
 blank_issues_enabled: false
 contact_links:
+  - name: Post a job
+    url: https://github.com/softprobe/openjob/blob/main/README.md#post-a-job-in-2-minutes
+    about: Copy the job template, open a pull request, and let the checker merge it
+  - name: Add your profile
+    url: https://github.com/softprobe/openjob/blob/main/README.md#add-your-profile
+    about: Copy the talent template into talents/ and open a pull request
   - name: Contributing guide
     url: https://github.com/softprobe/openjob/blob/main/CONTRIBUTING.md
-    about: How to post a job, a talent profile, or a company page
+    about: Content pull requests, maintainer review, and how to run the site locally

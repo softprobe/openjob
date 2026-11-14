@@ -1,0 +1,27 @@
+name: Post help
+description: Help posting a job, a talent profile, or a company page.
+title: "[post] "
+body:
+  - type: dropdown
+    id: kind
+    attributes:
+      label: What are you posting?
+      options:
+        - Job (`jobs/`)
+        - Talent profile (`talents/`)
+        - Company page (`companies/`)
+    validations:
+      required: true
+  - type: input
+    id: path
+    attributes:
+      label: File path or pull request
+      description: For example `jobs/2026/11/example-studio-open-source-maintainer.md`.
+      placeholder: jobs/YYYY/MM/company-role.md
+  - type: textarea
+    id: tried
+    attributes:
+      label: What did you try, and what did the check say?
+      description: Paste the validator comment if you have one. Do not include a phone number or a personal email. A hiring address belongs in the job file, not here.
+    validations:
+      required: true

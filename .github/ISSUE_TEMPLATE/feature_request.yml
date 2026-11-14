@@ -1,0 +1,17 @@
+name: Feature request
+description: A change to the checker, the site, or the way posts work.
+title: "[feature] "
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: What is missing?
+      description: Do not include a phone number or a personal email.
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: What should it do?
+    validations:
+      required: true
