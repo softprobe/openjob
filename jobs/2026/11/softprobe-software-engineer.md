@@ -14,8 +14,7 @@ locations:
 remote: hybrid
 languages: [en]
 tags: [ai-agents, observability, java, arex, opencode]
-apply: https://github.com/softprobe/openjob/blob/main/README.md#post-your-resume-talent
-apply_email: mailto:hr@softprobe.ai
+apply: mailto:hr@softprobe.ai
 posted: 2026-11-13
 posted_by: zwobill
 ---
@@ -34,8 +33,10 @@ The role is based in Los Altos, California or Shanghai. Remote work is fine.
 
 ## How to apply
 
-Apply by the email on this page, or open a pull request that adds your profile under `talents/`, copied from `templates/talent.md`. The file path is `talents/<first-letter>/<github-username>.md`. The profile pull request starts here: https://github.com/softprobe/openjob/blob/main/README.md#post-your-resume-talent
+Apply by the email on this page. That is the application route.
 
-In the profile, say you are applying for Software Engineer at Softprobe and include this page so the team can find it: https://softprobe.github.io/openjob/p/jobs/2026/11/softprobe-software-engineer/
+You can also add a profile on this board. That step is optional, and it is not the application. The instructions are in the README: https://github.com/softprobe/openjob/blob/main/README.md#add-your-profile
+
+If you add a profile, say you are applying for Software Engineer at Softprobe and include this page so the team can find it: https://openjob.softprobe.ai/p/jobs/2026/11/softprobe-software-engineer/
 
 The talent profile has no field for the role, so that line in the text is enough. Do not add a phone number, an email address, or a WeChat ID. A personal site or a LinkedIn URL is allowed.
