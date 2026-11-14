@@ -13,6 +13,8 @@ import yaml
 from samples import SAMPLES, sample_tree
 from validator.expire import select_expired
 from validator.index import build_index
+from validator.posts import validate_post
+from validator.publish import _homepage_list
 
 ROOT = Path(__file__).resolve().parents[1]
 FEDERATED = Path(__file__).resolve().parent / "fixtures" / "federated"
@@ -25,6 +27,8 @@ class IndexTests(unittest.TestCase):
         paths = {post["path"] for post in document["posts"]}
         self.assertIn("companies/s/softprobe.md", paths)
         self.assertIn("jobs/2026/11/softprobe-software-engineer.md", paths)
+        for post in document["posts"]:
+            self.assertNotIn("example", post)
         for path in paths:
             top = path.split("/", 1)[0]
             self.assertIn(top, {"jobs", "talents", "companies"})
@@ -61,8 +65,12 @@ class IndexTests(unittest.TestCase):
         self.assertEqual({post["path"] for post in document["posts"]}, set(SAMPLES))
         kinds = {post["kind"] for post in document["posts"]}
         self.assertEqual(kinds, {"job", "talent", "company"})
-        self.assertTrue(all(post["example"] for post in document["posts"]))
-        self.assertTrue(all(post["expires"] is None for post in document["posts"]))
+        by_kind = {post["kind"]: post for post in document["posts"]}
+        for post in document["posts"]:
+            self.assertNotIn("example", post)
+        self.assertEqual(by_kind["job"]["expires"], "2027-01-12")
+        self.assertEqual(by_kind["talent"]["expires"], "2027-05-12")
+        self.assertIsNone(by_kind["company"]["expires"])
 
     def test_a_real_post_does_not_change_the_sample_index(self) -> None:
         root = sample_tree()
@@ -72,17 +80,15 @@ class IndexTests(unittest.TestCase):
             text = (root / "companies/e/example-studio.md").read_text(encoding="utf-8")
             text = text.replace("slug: example-studio", "slug: northwind")
             text = text.replace("name: Example Studio", "name: Northwind")
-            text = text.replace("example: true", "example: false")
             extra.write_text(text, encoding="utf-8")
             document = build_index(root, today=TODAY)
         finally:
             shutil.rmtree(root)
         by_path = {post["path"]: post for post in document["posts"]}
         self.assertEqual(len(by_path), 4)
-        self.assertFalse(by_path["companies/n/northwind.md"]["example"])
-        for rel in SAMPLES:
-            self.assertTrue(by_path[rel]["example"])
-            self.assertIsNone(by_path[rel]["expires"])
+        for post in document["posts"]:
+            self.assertNotIn("example", post)
+        self.assertIsNone(by_path["companies/n/northwind.md"]["expires"])
 
     def test_federated_profile_is_indexed(self) -> None:
         document = build_index(FEDERATED, today=TODAY)
@@ -92,6 +98,27 @@ class IndexTests(unittest.TestCase):
         self.assertTrue(post["federated"])
         self.assertEqual(post["profile_url"], "https://github.com/ada/openjob-profile")
         self.assertEqual(post["owner"], "ada")
+        self.assertNotIn("example", post)
+
+    def test_example_true_is_rejected_and_not_indexed(self) -> None:
+        root = Path(tempfile.mkdtemp())
+        rel = "jobs/2026/11/acme-backend-engineer.md"
+        try:
+            _write(root, rel, _job(example=True))
+            issues = validate_post(root=root, rel=rel, today=TODAY)
+            self.assertIn("example", {issue.code for issue in issues})
+            with self.assertRaises(ValueError):
+                build_index(root, today=TODAY)
+        finally:
+            shutil.rmtree(root)
+
+    def test_empty_homepage_invites_a_real_post(self) -> None:
+        html = _homepage_list({"job": [], "talent": [], "company": []}, 10, 10)
+        self.assertIn("No posts yet.", html)
+        self.assertIn("https://github.com/softprobe/openjob#post-a-job-in-2-minutes", html)
+        self.assertIn("https://github.com/softprobe/openjob#add-your-profile", html)
+        self.assertNotIn("Show samples", html)
+        self.assertNotIn("Sample", html)
 
 
 class ExpiryTests(unittest.TestCase):
@@ -132,7 +159,7 @@ class ExpiryTests(unittest.TestCase):
         self.assertIn("jobs/2026/01/acme-old-role.md", expired)
         self.assertIn("talents/a/ada.md", expired)
         self.assertNotIn("jobs/2026/11/acme-backend-engineer.md", expired)
-        self.assertNotIn("jobs/2026/01/acme-sample-role.md", expired)
+        self.assertIn("jobs/2026/01/acme-sample-role.md", expired)
         self.assertNotIn("talents/a/ada-new.md", expired)
         self.assertNotIn("talents/r/renewed-person.md", expired)
         self.assertNotIn("companies/a/acme.md", expired)

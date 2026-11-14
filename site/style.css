@@ -198,7 +198,7 @@ article {
   text-transform: uppercase;
 }
 
-.badge.sample, .badge.federated { color: var(--seal); }
+.badge.federated { color: var(--seal); }
 
 h2 { margin: 6px 0 2px; font-size: 28px; line-height: 1.15; font-weight: 700; }
 
@@ -285,6 +285,10 @@ h2 a { text-decoration-thickness: 1px; text-underline-offset: 3px; }
 footer { margin-top: 28px; color: var(--muted); }
 
 .empty { padding: 24px 0; }
+
+.empty-actions { margin: 8px 0 0; }
+
+.empty a { text-decoration: underline; text-underline-offset: 3px; }
 
 .share {
   margin-top: 14px;

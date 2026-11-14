@@ -63,7 +63,7 @@ def render_expiry_report(expired: list[Expired], *, today: date) -> str:
         "Git history is the archive. These files are deleted from the live tree so the repository stays small.",
         "Each post remains in the history of this pull request. To put one back, restore the file from the parent commit, set `renewed` to the new day, and open a pull request.",
         "",
-        "Sample posts (`example: true`) and company pages are not removed.",
+        "Company pages are not removed.",
         "",
     ]
     if not expired:

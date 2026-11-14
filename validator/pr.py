@@ -148,14 +148,14 @@ def check_pr(*, head: Path, base: Path, author: str, today: date | None = None) 
             FIX["scope"],
         )
 
-    # Re-check the whole head tree so a maintainer pull request cannot land a broken sample.
+    # Re-check the whole head tree so a maintainer pull request cannot land a post the checker rejects.
     if not bot_expiry:
         from validator.posts import validate_tree
 
         known = {(issue.code, issue.path, issue.message) for issue in issues}
         for issue in validate_tree(head, today=today):
             key = (issue.code, issue.path, issue.message)
-            if key in known or issue.code in {"ownership", "example"}:
+            if key in known or issue.code == "ownership":
                 continue
             issues.append(issue)
             known.add(key)

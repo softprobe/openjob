@@ -6,7 +6,6 @@ const state = {
   remote: "any",
   language: "any",
   tag: "any",
-  examples: true,
 };
 
 const els = {
@@ -18,7 +17,6 @@ const els = {
   remote: document.querySelector("#remote"),
   language: document.querySelector("#language"),
   tag: document.querySelector("#tag"),
-  examples: document.querySelector("#examples"),
   count: document.querySelector("#count"),
   results: document.querySelector("#results"),
   footer: document.querySelector("#footer-note"),
@@ -40,7 +38,6 @@ function readQuery() {
   state.remote = params.get("remote") || "any";
   state.language = params.get("language") || "any";
   state.tag = params.get("tag") || "any";
-  if (params.get("examples") === "0") state.examples = false;
 }
 
 function writeQuery() {
@@ -51,7 +48,6 @@ function writeQuery() {
   if (state.remote !== "any") params.set("remote", state.remote);
   if (state.language !== "any") params.set("language", state.language);
   if (state.tag !== "any") params.set("tag", state.tag);
-  if (!state.examples) params.set("examples", "0");
   const next = params.toString();
   const hash = location.hash || "";
   const nextUrl = next ? `?${next}${hash}` : `${location.pathname}${hash}`;
@@ -68,7 +64,6 @@ function applyChrome() {
   document.querySelector("#label-remote").textContent = copy.remote;
   document.querySelector("#label-language").textContent = copy.language;
   document.querySelector("#label-tag").textContent = copy.tag;
-  document.querySelector("#label-examples").textContent = copy.examples;
   els.q.placeholder = copy.q;
   els.location.placeholder = copy.location;
   els.tabs.forEach((button) => {
@@ -85,7 +80,6 @@ function applyChrome() {
   fillSelect(els.tag, tags, (value) => (value === "any" ? copy.any : value));
   els.q.value = state.q;
   els.location.value = state.location;
-  els.examples.checked = state.examples;
 }
 
 function fillSelect(select, values, label) {
@@ -122,7 +116,6 @@ function haystack(post) {
 }
 
 function matches(post) {
-  if (!state.examples && post.example) return false;
   if (state.kind === "job" && post.kind !== "job") return false;
   if (state.kind === "company" && post.kind !== "company") return false;
   if (state.kind === "talent" && post.kind !== "talent" && post.kind !== "talent-ref") return false;
@@ -153,6 +146,45 @@ function targetPath() {
   }
 }
 
+const QUICKSTART = "https://github.com/softprobe/openjob";
+
+function filtersActive() {
+  return Boolean(
+    state.q ||
+      state.location ||
+      state.remote !== "any" ||
+      state.language !== "any" ||
+      state.tag !== "any"
+  );
+}
+
+function emptyState() {
+  const copy = t();
+  const box = document.createElement("div");
+  box.id = "post-list";
+  box.className = "empty";
+  const note = document.createElement("p");
+  if (filtersActive()) {
+    note.textContent = copy.empty;
+    box.appendChild(note);
+    return box;
+  }
+  const leads = copy.emptyLead || {};
+  note.textContent = leads[state.kind] || leads.all;
+  box.appendChild(note);
+  const actions = document.createElement("p");
+  actions.className = "empty-actions";
+  const postJob = document.createElement("a");
+  postJob.href = `${QUICKSTART}#post-a-job-in-2-minutes`;
+  postJob.textContent = copy.postJob;
+  const addProfile = document.createElement("a");
+  addProfile.href = `${QUICKSTART}#add-your-profile`;
+  addProfile.textContent = copy.addProfile;
+  actions.append(postJob, document.createTextNode(" · "), addProfile);
+  box.appendChild(actions);
+  return box;
+}
+
 function paint(options = {}) {
   if (loadError) {
     els.count.textContent = "";
@@ -176,7 +208,7 @@ function paint(options = {}) {
   }
   els.count.textContent = t().count(visible.length, posts.length);
   if (!visible.length) {
-    els.results.appendChild(Object.assign(document.createElement("p"), { className: "empty", textContent: t().empty }));
+    els.results.appendChild(emptyState());
     return;
   }
   const list = document.createElement("div");
@@ -204,7 +236,6 @@ function card(post, target) {
     badges.append(badge(copy.remoteOpt[post.remote] || post.remote));
   }
   (post.languages || []).forEach((language) => badges.appendChild(badge(language)));
-  if (post.example) badges.appendChild(badge(copy.sample, "sample"));
   if (post.federated) badges.appendChild(badge(copy.federated, "federated"));
   top.appendChild(badges);
   article.appendChild(top);
@@ -457,7 +488,6 @@ function bind() {
     state.remote = els.remote.value;
     state.language = els.language.value;
     state.tag = els.tag.value;
-    state.examples = els.examples.checked;
     writeQuery();
     paint();
   };
@@ -467,7 +497,6 @@ function bind() {
     els.remote.addEventListener(eventName, sync);
     els.language.addEventListener(eventName, sync);
     els.tag.addEventListener(eventName, sync);
-    els.examples.addEventListener(eventName, sync);
   });
   document.addEventListener("keydown", (event) => {
     if (event.key === "/" && document.activeElement.tagName !== "INPUT") {

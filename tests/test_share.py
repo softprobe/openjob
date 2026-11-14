@@ -360,6 +360,8 @@ class PageTests(unittest.TestCase):
             self.assertTrue(any(src.endswith("vendor/qrcode.js") for src in srcs))
             self.assertTrue(any(src.endswith("share.js") for src in srcs))
             self.assertNotIn("cdn", job_html.lower())
+            self.assertNotIn('data-i18n="sample"', job_html)
+            self.assertNotIn(">Sample<", job_html)
             self.assertEqual(_meta(talent_html, "og:title"), talent["share_text"])
             self.assertNotIn("example.com", talent_html.split("</head>", 1)[0])
         finally:

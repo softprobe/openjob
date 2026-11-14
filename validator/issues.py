@@ -64,7 +64,7 @@ FIX = {
     "posted-immutable": "Keep the original `posted` date. Set `renewed` to the day you renew.",
     "dates": "Use real `YYYY-MM-DD` dates. A new post's `posted` date has to be recent.",
     "expiry": "Jobs last at most 60 days and talent posts 180 days from `posted` or `renewed`.",
-    "example": "Only a maintainer can set `example: true`, and only on a post they own.",
+    "example": "Remove `example`. The board publishes real posts only.",
     "federated-url": (
         "Point `profile_url` at `https://github.com/<your-username>/openjob-profile` "
         "(or the raw file in that repo). The GitHub login in the URL has to match `github`."

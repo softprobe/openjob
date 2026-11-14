@@ -193,7 +193,15 @@ def _homepage_list(grouped: dict[str, list[dict]], per_kind: int, page_size: int
             )
         )
     if not sections:
-        return '<p id="post-list">No posts yet.</p>'
+        return (
+            '<div id="post-list" class="empty">'
+            '<p data-i18n="emptyLead.all">No posts yet.</p>'
+            '<p class="empty-actions">'
+            '<a data-i18n="postJob" href="https://github.com/softprobe/openjob#post-a-job-in-2-minutes">Post a job</a>'
+            " · "
+            '<a data-i18n="addProfile" href="https://github.com/softprobe/openjob#add-your-profile">Add your profile</a>'
+            "</p></div>"
+        )
     return '<div id="post-list">\n' + "\n".join(sections) + "\n</div>"
 
 

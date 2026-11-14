@@ -148,7 +148,6 @@ def _project(rel: str, meta: dict, body: str, *, root: Path) -> dict:
         "tags": list(meta.get("tags") or []),
         "posted": meta["posted"],
         "expires": expires.isoformat() if expires else None,
-        "example": meta.get("example") is True,
         "federated": kind == "talent-ref",
         "url": url,
         "source_url": f"https://github.com/{REPO}/blob/main/{rel}",

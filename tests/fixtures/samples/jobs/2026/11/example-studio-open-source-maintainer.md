@@ -12,7 +12,6 @@ apply: https://example.com/careers/open-source-maintainer
 posted: 2026-11-13
 posted_by: zwobill
 compensation: "Sample listing, not a real opening"
-example: true
 ---
 
 This file is a sample post so the board and the checker have a known-good job. It is not a real opening, and Example Studio is not a real organization.

@@ -157,13 +157,12 @@ The entry expires like any other talent post (180 days, or sooner if you set `ex
 | Job | 60 days from `posted` or `renewed` | 60 days |
 | Talent and talent-ref | 180 days from `posted` or `renewed` | 180 days |
 | Company | does not expire | — |
-| `example: true` | kept until a maintainer deletes it | samples only |
 
 `posted` never changes after the file is merged. To renew, set `renewed` to the day you open the pull request and leave `posted` alone. A new post's `posted` date has to be within the last 45 days (and not more than two days in the future).
 
 **Git history is the archive.** A scheduled workflow deletes expired files from the live tree and opens a pull request listing them. Copies under `archive/` would grow the repository forever and crowd directories, so they are not kept. To restore a post, take the file from the parent of the expiry commit, set `renewed`, keep the original `posted`, and open a new pull request. If the `posted` month and the path disagree, fix the path in a pull request you own. A path change is a delete plus an add, and ownership is checked on each file.
 
-Sample posts (`example: true`) are not removed by the expiry workflow. They are not on the live board. The three original samples (a job, a talent profile, and a company page) are fixtures under `tests/fixtures/samples/`. The tests copy them into a temporary tree. `templates/` stays the files a contributor copies. The site build indexes `jobs/`, `talents/`, and `companies/` only, so nothing under `tests/` or `templates/` is published.
+The checker rejects `example: true`. The board lists real posts only. Known-good posts used by the tests live under `tests/fixtures/samples/`. The tests copy them into a temporary tree. `templates/` stays the files a contributor copies. The site build indexes `jobs/`, `talents/`, and `companies/` only, so nothing under `tests/` or `templates/` is published.
 
 When a letter directory approaches about 800 files, maintainers should add a second shard (`talents/a/b/…`) in a deliberate migration. Version 1 is one letter, one directory, which is the layout contributors should use now. Jobs are already sharded by month.
 
@@ -180,7 +179,7 @@ On a pull request the `validate` workflow runs the unit tests and `python -m val
 - link count (12), `https` on the structured links, no shorteners, no `javascript:` URLs
 - files over 1 MB are rejected even outside the post folders
 
-If the pull request also edits workflows, docs, or the site, the post checks can still pass, but auto-merge stays off. The bot comment says the Softprobe team (`@softprobe/openjob-maintainers`) has to approve it. `@zwobill` can still do maintainer-only actions in the checker, such as sample posts.
+If the pull request also edits workflows, docs, or the site, the post checks can still pass, but auto-merge stays off. The bot comment says the Softprobe team (`@softprobe/openjob-maintainers`) has to approve it. `@zwobill` remains a maintainer in the checker.
 
 After this workflow file is on `main`, `.github/workflows/automerge.yml` repeats the check from the base branch (so a pull request cannot swap in a weaker checker). A pull request that only changes post files squash-merges itself when that trusted check accepts every file and the `validate` check succeeded for the same head commit. The workflow then comments with the permalink and the share links for each added or edited post. A deletion has no permalink to share, so that comment is skipped.
 

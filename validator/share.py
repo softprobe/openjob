@@ -612,8 +612,6 @@ def _badges(post: Mapping[str, object]) -> str:
     languages = post.get("languages") or []
     if isinstance(languages, list):
         chips.extend(_chip(str(language)) for language in languages)
-    if post.get("example"):
-        chips.append(_chip("Sample", "sample"))
     if post.get("federated"):
         chips.append(_chip("Own repo", "federated"))
     return "".join(chips)

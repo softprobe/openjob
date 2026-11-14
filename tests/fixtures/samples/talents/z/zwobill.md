@@ -10,7 +10,6 @@ tags: [sample, documentation]
 open_to: [contract]
 website: https://example.com
 posted: 2026-11-13
-example: true
 ---
 
 This file is a sample profile owned by the GitHub account that seeded the board. It is not a résumé and it is not a job application. The display name is a placeholder.
