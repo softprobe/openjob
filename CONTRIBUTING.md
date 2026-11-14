@@ -1,12 +1,12 @@
 # Contributing
 
-Posts are pull requests. A pull request may change any number of posts. The checker squash-merges it when every changed path is a post file under `jobs/`, `talents/`, or `companies/` and each file is valid. Anything else needs approval from the Softprobe team.
+Posts are pull requests. One new post per pull request. The checker squash-merges it when the only change is that post, the file is under `jobs/`, `talents/`, or `companies/`, and the file is valid. A second new post, or any other file, needs approval from the Softprobe team. Editing an existing post you own is the way to update it.
 
 English is the normative set of rules. A short Chinese walkthrough is at the bottom.
 
 ## Reviews
 
-A content pull request only adds, edits, or removes Markdown under `jobs/`, `talents/`, or `companies/`. Several posts are fine. `validate` runs the unit tests and `python -m validator check-pr`. When that check succeeds for the same head commit, `automerge` squash-merges the pull request and comments with each permalink. Posts are not reviewed by hand.
+A content pull request adds one new Markdown file, or edits or removes a Markdown file, under `jobs/`, `talents/`, or `companies/`. `validate` runs the unit tests and `python -m validator check-pr`. When that check succeeds for the same head commit, `automerge` squash-merges the pull request and comments with each permalink. Posts are not reviewed by hand.
 
 A pull request that also changes code, the site, docs, schemas, or workflows does not auto-merge. It needs approval from `@softprobe/openjob-maintainers`. The bot comment names the files outside the post folders. `@zwobill` remains a maintainer in the checker.
 
@@ -81,7 +81,7 @@ There is no `phone` field, and no general `email` field. `additionalProperties` 
 2. Save it as `jobs/YYYY/MM/<company>-<role-slug>.md`. `YYYY/MM` is the `posted` month. Example: `jobs/2026/11/example-studio-open-source-maintainer.md`.
 3. Set `posted_by` to your GitHub login. That login has to be the pull request author.
 4. Set `apply` to an `https://` careers or application link, or to `mailto:jobs@company.example` for a hiring address on the company domain. To keep the https link and also offer email, leave `apply` as the https link and set `apply_email` to the `mailto:` address. No shorteners (`bit.ly`, `t.co`, `t.cn`, `lnkd.in`, and similar).
-5. Open a pull request that changes only post files. Another post may be in the same pull request.
+5. Open a pull request that adds only that file. A second new post is a separate pull request. To change this job later, edit this file and leave `posted` as it is.
 
 `remote` is `true`, `false`, or `hybrid`. The words `remote`, `onsite`, and `hybrid` mean the same three cases. `languages` use the codes in the schema (`en`, `zh`, `ja`, `ko`, `es`, `fr`, `de`, `pt`, `ru`). Tags are lowercase slugs. Quote YAML values that are `yes`, `no`, `on`, or `off`.
 
@@ -136,7 +136,7 @@ Save `templates/talent.md` as `talents/<first-letter>/<github-username>.md`, low
 
 Save `templates/company.md` as `companies/<first-letter>/<slug>.md`. Company pages do not expire. The account in `posted_by` owns later edits. A job for that company is a separate file. Both files may be in one pull request when you own each of them.
 
-An optional `logo` is an `https://` URL of an image already hosted somewhere else. Do not commit the image. The board and the company permalink render it at 48px on a light chip. A job does not have its own logo field: the index copies the logo from that company's page onto the job card and the job permalink. Share text does not include the URL. A company page still cannot contain an email address. The hiring address belongs on the job.
+An optional `logo` is an `https://` URL of an image already hosted somewhere else. Do not commit the image. The board and the company permalink render it at 48px on a light chip. A job does not have its own logo field: the index copies the logo from that company's page onto the job card and the job permalink. Share text does not include the URL. A company page still cannot contain an email address. The hiring address belongs on the job. The job is its own pull request.
 
 ## Federation
 
@@ -174,7 +174,7 @@ On a pull request the `validate` workflow runs the unit tests and `python -m val
 - path and filename
 - UTF-8 Markdown, 10 KB maximum. Each post is rendered into an HTML page, so a PDF, an image, or any other file under `jobs/`, `talents/`, or `companies/` is rejected. An image elsewhere, such as `docs/`, is not a post and is not rejected for its format. A file over 1 MB is still rejected, and so is a symlink.
 - privacy, as above
-- every changed path is a post file under `jobs/`, `talents/`, or `companies/` (several posts are fine; a rename is a delete plus an add)
+- the pull request adds one new post, or edits or removes a post, under `jobs/`, `talents/`, or `companies/` (a rename is a delete plus an add)
 - the author owns each file, on add, edit, and delete
 - link count (12), `https` on the structured links, no shorteners, no `javascript:` URLs
 - files over 1 MB are rejected even outside the post folders
@@ -229,6 +229,6 @@ The auto-merge comment repeats these links. It does not repeat the apply link.
 2. 职位文件放在 `jobs/年/月/公司-职位.md`，`posted_by` 必须是你的 GitHub 用户名。默认 60 天后过期。
 3. 人才档案放在 `talents/首字母/用户名.md`，`github` 必须是你自己。默认 180 天。也可以在自己的 `openjob-profile` 仓库放全文，这里只提交 `kind: talent-ref` 的索引。
 4. 公司页放在 `companies/首字母/slug.md`，不过期。
-5. 一个 Pull Request 可以改多篇帖子，但每个文件都要在 `jobs/`、`talents/` 或 `companies/` 里，并且必须是符合模板的 Markdown。这些目录会被渲染成 HTML 页面，所以 PDF、图片或其他文件会被拒绝。检查通过后会 squash 合并。`docs/` 里的图片不会因此被拒绝，但改工作流或文档需要 Softprobe 团队批准。
+5. 一个 Pull Request 只新增一篇帖子。文件必须在 `jobs/`、`talents/` 或 `companies/` 里，并且必须是符合模板的 Markdown。这些目录会被渲染成 HTML 页面，所以 PDF、图片或其他文件会被拒绝。检查通过后会 squash 合并。更新已有帖子时编辑原文件。`docs/` 里的图片不会因此被拒绝，但改工作流或文档需要 Softprobe 团队批准。
 6. 续期时不要改 `posted`，把 `renewed` 设成提交当天。过期文件会从目录删除，Git 历史就是归档，需要时从历史恢复再续期。
 7. 合并后的永久链接是 `https://openjob.softprobe.ai/p/` 加上去掉 `.md` 的路径。没有设置 `PAGES_ORIGIN` 的 fork 用自己的 github.io 项目地址。分享文案只有职位、公司和地点，或 headline，或公司名和地点，不含电话、邮箱和申请链接。页面可以显示「邮件申请」按钮，那个地址不在分享文案里。自动合并的评论里会带上每一篇新增或修改的帖子的分享链接。

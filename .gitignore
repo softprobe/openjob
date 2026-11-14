@@ -5,5 +5,8 @@ __pycache__/
 site/index.json
 site/p/
 site/og.png
+site/schema/
+site/llms.txt
+site/llms-full.txt
 .openjob-validation.md
 .DS_Store

@@ -132,6 +132,18 @@ def check_pr(*, head: Path, base: Path, author: str, today: date | None = None) 
                         FIX["ownership"],
                     )
                 )
+        if len(post_added) > 1:
+            listed = ", ".join(f"`{rel}`" for rel in post_added)
+            issues.append(
+                Issue(
+                    "one-post",
+                    "(pull request)",
+                    f"This pull request adds {len(post_added)} new posts ({listed}). "
+                    "Add one new post per pull request.",
+                    FIX["one-post"],
+                )
+            )
+        issues.extend(_duplicate_issues(head, post_added))
 
     post_changes = post_added + post_modified + post_deleted
     scope_issue: Issue | None = None
@@ -220,6 +232,65 @@ def _bot_expiry(
                 )
             )
     return allowed and not any(issue.code == "bot-expiry" for issue in issues)
+
+
+def _duplicate_issues(head: Path, added: list[str]) -> list[Issue]:
+    """Flag a new job that repeats a company and title, or a new talent login."""
+    from validator.posts import PostParseError, iter_post_files, load_post
+
+    metas: dict[str, dict] = {}
+    for rel, path in iter_post_files(head):
+        try:
+            meta, _body = load_post(path)
+        except (OSError, PostParseError, UnicodeError):
+            continue
+        metas[rel] = meta
+    issues: list[Issue] = []
+    for rel in added:
+        meta = metas.get(rel)
+        if meta is None:
+            continue
+        kind = meta.get("kind")
+        if kind == "job":
+            company = str(meta.get("company") or "").casefold()
+            title = str(meta.get("title") or "").strip().casefold()
+            if not company or not title:
+                continue
+            for other, other_meta in metas.items():
+                if other == rel or other_meta.get("kind") != "job":
+                    continue
+                same_company = str(other_meta.get("company") or "").casefold() == company
+                same_title = str(other_meta.get("title") or "").strip().casefold() == title
+                if same_company and same_title:
+                    issues.append(
+                        Issue(
+                            "duplicate",
+                            rel,
+                            f"{rel}: company `{meta.get('company')}` and title `{meta.get('title')}` "
+                            f"already exist at `{other}`. Edit that file instead of adding another.",
+                            FIX["duplicate"],
+                        )
+                    )
+                    break
+        elif kind in {"talent", "talent-ref"}:
+            handle = str(meta.get("github") or "").casefold()
+            if not handle:
+                continue
+            for other, other_meta in metas.items():
+                if other == rel or other_meta.get("kind") not in {"talent", "talent-ref"}:
+                    continue
+                if str(other_meta.get("github") or "").casefold() == handle:
+                    issues.append(
+                        Issue(
+                            "duplicate",
+                            rel,
+                            f"{rel}: GitHub login `{meta.get('github')}` already has `{other}`. "
+                            "Edit that file instead of adding another.",
+                            FIX["duplicate"],
+                        )
+                    )
+                    break
+    return issues
 
 
 def _share_comments(

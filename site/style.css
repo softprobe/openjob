@@ -288,7 +288,29 @@ footer { margin-top: 28px; color: var(--muted); }
 
 .empty-actions { margin: 8px 0 0; }
 
-.empty a { text-decoration: underline; text-underline-offset: 3px; }
+.empty a, .post-bar a { text-decoration: underline; text-underline-offset: 3px; }
+
+.post-bar { margin: 18px 0 0; }
+
+.agent { margin-top: 10px; }
+
+.agent summary { cursor: pointer; }
+
+.agent-kinds { display: flex; flex-wrap: wrap; gap: 8px; margin: 10px 0; }
+
+.agent pre {
+  margin: 0;
+  padding: 10px 12px;
+  white-space: pre-wrap;
+  background: var(--wash);
+  font-family: var(--mono);
+  font-size: 13px;
+  line-height: 1.45;
+}
+
+.agent-actions { margin: 10px 0; }
+
+.agent-fallback { margin: 0 0 8px; color: var(--muted); }
 
 .share {
   margin-top: 14px;

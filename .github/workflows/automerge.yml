@@ -5,7 +5,7 @@
 # A pull request merges on its own when every changed path is a post file under
 # jobs/, talents/, or companies/, the trusted checker accepts each file, and
 # the Validate workflow's `validate` check succeeded for the same head SHA.
-# Several posts are fine. Anything outside those directories is left open for
+# One new post per pull request. Anything outside those directories is left open for
 # the Softprobe team, with a comment. Posts are not reviewed by hand.
 #
 # The squash uses this workflow's GITHUB_TOKEN. A push made with that token

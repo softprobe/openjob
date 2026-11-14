@@ -674,34 +674,41 @@ def _schema_issues(meta: dict, rel: str) -> list[Issue]:
     kind = meta.get("kind")
     schemas = _validators()
     if kind not in schemas:
+        from validator.schema_report import schema_public_url
+
         allowed = ", ".join(sorted(schemas))
+        url = schema_public_url("job")
         return [
             Issue(
                 "schema",
                 rel,
-                f"`kind` must be one of: {allowed}.",
-                FIX["schema"],
+                f"{rel}: field `kind` is missing or not one of: {allowed}.",
+                f"Set `kind` to one of: {allowed}. See {url}.",
             )
         ]
+    from validator.schema_report import schema_failure
+
     issues: list[Issue] = []
     for error in sorted(schemas[kind].iter_errors(meta), key=_error_key):
-        path_parts = [str(part) for part in error.absolute_path]
-        loc = "/".join(path_parts) or "front matter"
-        fix = FIX["schema"]
-        if path_parts and path_parts[0] in {"apply", "apply_email"}:
+        message, fix = schema_failure(rel, kind, error)
+        if error.absolute_path and str(error.absolute_path[0]) in {"apply", "apply_email"}:
             fix = (
                 "`apply` is required. Use an https ATS, careers, or job link, or one "
                 "`mailto:` on the company website's domain. `apply_email` is that "
                 "`mailto:` only when `apply` is https. Do not set both fields to mailto. "
                 + APPLY_DOC
+                + " "
+                + fix
             )
         elif error.validator == "additionalProperties":
             fix = (
                 "Remove fields the schema does not define. There is no phone field. "
                 "A hiring address belongs in `apply` or `apply_email` on a job, not in a field named `email`. "
                 + APPLY_DOC
+                + " "
+                + fix
             )
-        issues.append(Issue("schema", rel, f"{loc}: {error.message}", fix))
+        issues.append(Issue("schema", rel, message, fix))
     return issues
 
 

@@ -18,7 +18,7 @@ For a company.
 
 1. Copy [`templates/job.md`](templates/job.md) to `jobs/YYYY/MM/<company>-<role-slug>.md`. `YYYY/MM` is the month of `posted`. Example: `jobs/2026/11/example-studio-open-source-maintainer.md`.
 2. Set `posted_by` to your GitHub login. `apply` is required: an `https://` careers or application link, or one `mailto:` on the company website's domain. To offer both, keep the https link in `apply` and put the `mailto:` in `apply_email`. Do not invent a salary. Do not put a phone number or an email address in the body.
-3. Open a pull request that changes only files under `jobs/`, `talents/`, or `companies/`. On GitHub: [Add file in `jobs/`](https://github.com/softprobe/openjob/new/main/jobs), then commit and start a pull request. Another post can be a second file in the same pull request.
+3. Open a pull request that adds that one file. On GitHub: [Add file in `jobs/`](https://github.com/softprobe/openjob/new/main/jobs), then commit and start a pull request. A second new post belongs in its own pull request.
 
 `validate` checks the file. When every changed path is a post and that check succeeds, `automerge` squash-merges the pull request and comments with the permalink. The Pages workflow then publishes the page. If a check fails, the bot comments and leaves the pull request open. Push the fix to the same pull request.
 
@@ -35,6 +35,12 @@ For a candidate.
 To keep the full profile in your own repository, copy [`templates/talent-ref.md`](templates/talent-ref.md) to the same kind of path. This repository then stores the index entry. See [Federation](CONTRIBUTING.md#federation).
 
 A company page uses [`templates/company.md`](templates/company.md) at `companies/<first-letter>/<slug>.md`. It does not expire. The hiring address belongs on the job, not on the company page.
+
+One new post per pull request. To change a post that is already on the board, edit that file. Do not add a second file for the same role or the same person.
+
+## Post with your AI agent
+
+[AGENTS.md](AGENTS.md) is the instruction file. The live copy for agents is [llms.txt](https://openjob.softprobe.ai/llms.txt), which links the schemas and the GitHub new-file pages. On the board, open **Use your AI agent**, copy the prompt, and paste the role or the profile under `Details:`. An agent that can open a pull request should follow `llms.txt`. If it cannot, it prints the Markdown file and you paste that file at the new-file link in the prompt.
 
 ## Why OpenJob
 

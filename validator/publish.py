@@ -101,6 +101,7 @@ def write_discovery(
     )
     (site_dir / "llms.txt").write_text(_llms(grouped), encoding="utf-8")
     (site_dir / "llms-full.txt").write_text(_llms_full(posts, llms_full_limit), encoding="utf-8")
+    _write_schemas(site_dir)
     (site_dir / "robots.txt").write_text(_robots(), encoding="utf-8")
     _write_sitemaps(
         site_dir,
@@ -522,16 +523,34 @@ def _json_feed(posts: list[dict], title: str, self_url: str) -> str:
 
 
 def _llms(grouped: dict[str, list[dict]]) -> str:
+    origin = _origin()
+    repo = "https://github.com/softprobe/openjob"
+    raw = "https://raw.githubusercontent.com/softprobe/openjob/main"
     lines = [
         "# OpenJob",
         "",
         f"> {_POSITIONING}",
         "",
         "Jobs, talent profiles, and company pages are Markdown files in a public GitHub repository. "
-        "There are no accounts and no tracking. Phone numbers are not allowed. A job may show one "
+        "One new post per pull request. A pull request that only changes the author's own post is "
+        "squash-merged after the checker passes. Any other change needs a maintainer. "
+        "Phone numbers are not allowed. A talent post cannot contain an email. A job may show one "
         "hiring address when its domain matches the company website. Jobs last 60 days and talent "
         "profiles last 180 days unless renewed. Company pages do not expire. Expired posts leave "
-        f"the index at {_origin()}/index.json.",
+        f"the index at {origin}/index.json.",
+        "",
+        "## Post",
+        "",
+        f"- [AGENTS.md]({raw}/AGENTS.md): how an agent writes a valid post and opens the pull request",
+        f"- [Job template]({repo}/blob/main/templates/job.md)",
+        f"- [Talent template]({repo}/blob/main/templates/talent.md)",
+        f"- [Company template]({repo}/blob/main/templates/company.md)",
+        f"- [Job schema]({origin}/schema/job.json)",
+        f"- [Talent schema]({origin}/schema/talent.json)",
+        f"- [Company schema]({origin}/schema/company.json)",
+        f"- [New job file]({repo}/new/main/jobs)",
+        f"- [New talent file]({repo}/new/main/talents)",
+        f"- [New company file]({repo}/new/main/companies)",
         "",
         "## Board",
         "",
@@ -590,7 +609,11 @@ Softprobe maintains https://github.com/softprobe/openjob. Posts are CC BY 4.0. C
         )
     else:
         coverage = f"The board has {len(posts)} live posts. This file includes every one."
-    blocks = ["# OpenJob", "", f"> {_POSITIONING}", "", faq, "## Posts", "", coverage, ""]
+    agents = _agents_text()
+    blocks = ["# OpenJob", "", f"> {_POSITIONING}", ""]
+    if agents:
+        blocks.extend(["## Agent instructions", "", agents, ""])
+    blocks.extend([faq, "## Posts", "", coverage, ""])
     for post in shown:
         org = post.get("org") or ""
         location = post.get("location") or ""
@@ -604,6 +627,54 @@ Softprobe maintains https://github.com/softprobe/openjob. Posts are CC BY 4.0. C
         blocks.append(f"Excerpt: {post.get('excerpt') or ''}")
         blocks.append("")
     return "\n".join(blocks)
+
+
+def _agents_text() -> str:
+    path = _REPO_ROOT / "AGENTS.md"
+    if not path.is_file():
+        return ""
+    return path.read_text(encoding="utf-8").strip()
+
+
+_SCHEMA_PUBLIC = {
+    "job.schema.json": "job.json",
+    "talent.schema.json": "talent.json",
+    "company.schema.json": "company.json",
+    "talent-ref.schema.json": "talent-ref.json",
+    "common.json": "common.json",
+}
+
+
+def _write_schemas(site_dir: Path) -> None:
+    """Publish the checker schemas under /schema/<kind>.json."""
+    source = _REPO_ROOT / "schema"
+    dest = site_dir / "schema"
+    dest.mkdir(parents=True, exist_ok=True)
+    origin = _origin()
+    for name, public in _SCHEMA_PUBLIC.items():
+        document = json.loads((source / name).read_text(encoding="utf-8"))
+        document["$id"] = f"{origin}/schema/{public}"
+        _rewrite_schema_refs(document)
+        (dest / public).write_text(
+            json.dumps(document, ensure_ascii=False, indent=2) + "\n",
+            encoding="utf-8",
+        )
+
+
+def _rewrite_schema_refs(node: object) -> None:
+    if isinstance(node, dict):
+        for key, value in list(node.items()):
+            if (
+                key == "$ref"
+                and isinstance(value, str)
+                and value.startswith("https://github.com/softprobe/openjob/schema/common.json#")
+            ):
+                node[key] = "common.json#" + value.split("#", 1)[1]
+            else:
+                _rewrite_schema_refs(value)
+    elif isinstance(node, list):
+        for item in node:
+            _rewrite_schema_refs(item)
 
 
 def _rfc822(day: str) -> str:

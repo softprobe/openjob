@@ -28,7 +28,7 @@ class CheckPrTests(unittest.TestCase):
         self.assertEqual(result.issues, [])
         self.assertTrue(result.automerge)
 
-    def test_several_posts_can_automerge(self) -> None:
+    def test_several_new_posts_are_rejected(self) -> None:
         head = _tree(
             {
                 "jobs/2026/11/acme-backend-engineer.md": _job(),
@@ -45,12 +45,10 @@ class CheckPrTests(unittest.TestCase):
         finally:
             shutil.rmtree(head)
             shutil.rmtree(base)
-        self.assertEqual(result.issues, [], [issue.message for issue in result.issues])
-        self.assertTrue(result.automerge)
-        comment = result.share_comment or ""
-        self.assertIn("jobs/2026/11/acme-backend-engineer", comment)
-        self.assertIn("jobs/2026/11/acme-designer", comment)
-        self.assertIn("talents/a/ada", comment)
+        codes = [issue.code for issue in result.issues]
+        self.assertIn("one-post", codes)
+        self.assertFalse(result.automerge)
+        self.assertIsNone(result.share_comment)
 
     def test_ownership_is_checked_on_each_file(self) -> None:
         head = _tree(

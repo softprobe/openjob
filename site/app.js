@@ -469,6 +469,65 @@ function safeLink(url, text) {
   return link;
 }
 
+const AGENT_LABEL = {
+  job: "job",
+  talent: "talent profile",
+  company: "company",
+};
+
+const AGENT_NEW = {
+  job: "https://github.com/softprobe/openjob/new/main/jobs",
+  talent: "https://github.com/softprobe/openjob/new/main/talents",
+  company: "https://github.com/softprobe/openjob/new/main/companies",
+};
+
+let agentKind = "job";
+
+function boardOrigin() {
+  const canonical = document.querySelector('link[rel="canonical"]');
+  const href = canonical && canonical.getAttribute("href");
+  if (!href) return "https://softprobe.github.io/openjob/";
+  return href.endsWith("/") ? href : `${href}/`;
+}
+
+function agentPrompt(kind) {
+  const label = AGENT_LABEL[kind] || AGENT_LABEL.job;
+  return (
+    `Read ${boardOrigin()}llms.txt and follow it. ` +
+    `Turn the details below into an OpenJob ${label} post and open a pull request ` +
+    "to github.com/softprobe/openjob. Details: <paste here>"
+  );
+}
+
+function paintAgent() {
+  const prompt = document.querySelector("#agent-prompt");
+  const link = document.querySelector("#agent-new-link");
+  if (prompt) prompt.textContent = agentPrompt(agentKind);
+  if (link) link.href = AGENT_NEW[agentKind] || AGENT_NEW.job;
+  document.querySelectorAll("[data-agent]").forEach((button) => {
+    button.setAttribute("aria-pressed", button.dataset.agent === agentKind ? "true" : "false");
+  });
+}
+
+function bindAgent() {
+  const root = document.querySelector("#agent");
+  if (!root) return;
+  root.querySelectorAll("[data-agent]").forEach((button) => {
+    button.addEventListener("click", () => {
+      agentKind = button.dataset.agent || "job";
+      paintAgent();
+    });
+  });
+  const copyButton = document.querySelector("#agent-copy");
+  const prompt = document.querySelector("#agent-prompt");
+  if (copyButton && prompt) {
+    copyButton.addEventListener("click", () => {
+      copyAddress(copyButton, prompt.textContent, t().agentCopied);
+    });
+  }
+  paintAgent();
+}
+
 function bind() {
   document.addEventListener("openjob-ui", (event) => {
     state.ui = event.detail === "zh" ? "zh" : "en";
@@ -510,6 +569,7 @@ function bind() {
 async function main() {
   readQuery();
   bind();
+  bindAgent();
   try {
     const response = await fetch("./index.json");
     if (!response.ok) throw new Error(String(response.status));

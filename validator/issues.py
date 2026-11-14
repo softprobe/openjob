@@ -13,7 +13,10 @@ class Issue:
     fix: str
 
     def format_block(self) -> str:
-        return f"### `{self.code}` — `{self.path}`\n\n{self.message}\n\n**How to fix:** {self.fix}"
+        block = f"### `{self.code}` — `{self.path}`\n\n{self.message}"
+        if self.fix and self.fix not in self.message:
+            block += f"\n\n**How to fix:** {self.fix}"
+        return block
 
 
 APPLY_DOC = "See `CONTRIBUTING.md#application-methods`."
@@ -36,7 +39,7 @@ FIX = {
         "Remove zero-width and bidirectional override characters. They are treated as "
         "an attempt to hide an address or a number."
     ),
-    "schema": "Match the template and the JSON Schema for this kind of post. Field names are exact.",
+    "schema": "Match the JSON Schema for this kind of post. The comment names the field and the schema URL.",
     "bad-path": (
         "Move the file to the sharded path for its kind: "
         "`jobs/YYYY/MM/<company>-<role-slug>.md`, "
@@ -70,9 +73,17 @@ FIX = {
         "(or the raw file in that repo). The GitHub login in the URL has to match `github`."
     ),
     "scope": (
-        "Change post files under `jobs/`, `talents/`, or `companies/`. Several posts are fine. "
-        "Each file is checked on its own, including ownership. A pull request that also changes "
-        "anything else is not auto-merged; it needs approval from the Softprobe team."
+        "Change one post file under `jobs/`, `talents/`, or `companies/`. "
+        "A pull request that also changes anything else is not auto-merged; "
+        "it needs approval from the Softprobe team."
+    ),
+    "one-post": (
+        "Open a separate pull request for each new post. "
+        "To change a post that is already on the board, edit that file."
+    ),
+    "duplicate": (
+        "Edit the existing file. A new job cannot repeat a company and title, "
+        "and a new talent file cannot repeat a GitHub login."
     ),
     "bot-expiry": "The expiry workflow may only delete posts whose effective expiry is before today.",
 }
