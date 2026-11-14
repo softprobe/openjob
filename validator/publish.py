@@ -12,6 +12,7 @@ It becomes the host file when the board is served from its own domain.
 
 from __future__ import annotations
 
+import base64
 import json
 import shutil
 from datetime import datetime, timezone
@@ -31,6 +32,7 @@ from validator.share import (
 _REPO_ROOT = Path(__file__).resolve().parents[1]
 _TEMPLATE = _REPO_ROOT / "site" / "index.html"
 _ABOUT = _REPO_ROOT / "site" / "about" / "index.html"
+_OG_B64 = _REPO_ROOT / "site" / "og.png.b64"
 _POSITIONING = (
     "OpenJob is a job board that lives in a Git repository: you post a role or a profile "
     "with a pull request, people find it on a static page, and the file expires unless someone renews it."
@@ -110,6 +112,7 @@ def write_discovery(
     _write_about(site_dir)
     _write_cname(site_dir)
     _write_google_file(site_dir)
+    _write_og_image(site_dir)
 
 
 def _origin() -> str:
@@ -388,6 +391,16 @@ def _write_cname(site_dir: Path) -> None:
 
 def _write_google_file(site_dir: Path) -> None:
     (site_dir / GOOGLE_VERIFICATION_FILE).write_text(GOOGLE_VERIFICATION_BODY, encoding="utf-8")
+
+
+def _write_og_image(site_dir: Path) -> None:
+    """Decode the committed ASCII payload into the Pages artifact.
+
+    The checker rejects a ``.png`` in a pull request. ``site/og.png.b64`` is
+    the same image as text. The build writes ``og.png`` next to the HTML.
+    """
+    payload = "".join(_OG_B64.read_text(encoding="ascii").split())
+    (site_dir / "og.png").write_bytes(base64.b64decode(payload, validate=True))
 
 
 def _rss(posts: list[dict], title: str, self_url: str) -> str:

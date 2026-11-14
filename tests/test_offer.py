@@ -2,6 +2,7 @@
 
 from __future__ import annotations
 
+import base64
 import os
 import shutil
 import tempfile
@@ -13,7 +14,7 @@ import yaml
 
 from validator.index import build_index, write_pages
 from validator.jsonld import job_posting
-from validator.posts import validate_post
+from validator.posts import binary_issues, validate_post
 from validator.publish import write_discovery
 from validator.share import (
     GOOGLE_SITE_VERIFICATION,
@@ -150,10 +151,18 @@ class StructuredJobTests(unittest.TestCase):
 
 class OriginAndVerificationTests(unittest.TestCase):
     def test_share_image_is_1200_by_630(self) -> None:
-        data = (ROOT / "site" / "og.png").read_bytes()
+        source = ROOT / "site" / "og.png.b64"
+        self.assertEqual(binary_issues(source, "site/og.png.b64"), [])
+        data = base64.b64decode("".join(source.read_text(encoding="ascii").split()), validate=True)
         self.assertTrue(data.startswith(b"\x89PNG\r\n\x1a\n"))
         self.assertEqual(int.from_bytes(data[16:20], "big"), 1200)
         self.assertEqual(int.from_bytes(data[20:24], "big"), 630)
+        site = Path(tempfile.mkdtemp())
+        try:
+            write_discovery(site, {"generated": "2026-11-13T00:00:00Z", "posts": []})
+            self.assertEqual((site / "og.png").read_bytes(), data)
+        finally:
+            shutil.rmtree(site)
 
     def test_default_origin_has_no_cname_and_keeps_the_google_token(self) -> None:
         site = Path(tempfile.mkdtemp())

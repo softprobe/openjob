@@ -71,7 +71,7 @@ Each job, talent profile, and company page has a permalink:
 
 Example: `https://softprobe.github.io/openjob/p/jobs/2026/11/softprobe-software-engineer/`
 
-That page is static HTML. Its title and description are Open Graph and Twitter card tags, so a link unfurls as the public listing. The board also opens the same entry at `#<path-without-.md>`, for example `#jobs/2026/11/softprobe-software-engineer`.
+That page is static HTML. Its title and description are Open Graph and Twitter card tags, so a link unfurls as the public listing. The default card image is `og.png` (1200×630) in the Pages artifact. The repository stores that image as ASCII in `site/og.png.b64`, because the checker rejects a binary file in a pull request. The Pages build decodes it to `site/og.png`. The board also opens the same entry at `#<path-without-.md>`, for example `#jobs/2026/11/softprobe-software-engineer`.
 
 The page has share buttons for LinkedIn, X, Reddit, Hacker News, Facebook, Telegram, WhatsApp, and Weibo. They are ordinary share-intent links. There is no SDK and no third-party script. Copy link copies the permalink. WeChat has no share URL; the page draws a QR code of the permalink in the browser with the MIT library in `site/vendor/`.
 

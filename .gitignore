@@ -4,5 +4,6 @@ __pycache__/
 .venv/
 site/index.json
 site/p/
+site/og.png
 .openjob-validation.md
 .DS_Store
