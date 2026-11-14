@@ -9,8 +9,7 @@ from pathlib import Path
 from validator.issues import FIX, Issue, render_report
 from validator.posts import (
     PostParseError,
-    binary_issues,
-    exempt_binary,
+    foreign_post_issues,
     is_expired,
     is_post_path,
     is_post_tree,
@@ -57,22 +56,21 @@ def check_pr(*, head: Path, base: Path, author: str, today: date | None = None) 
                     FIX["oversize"],
                 )
             )
-        if not exempt_binary(rel):
-            issues.extend(binary_issues(path, rel))
 
     post_added = [rel for rel in added if is_post_path(rel)]
     post_modified = [rel for rel in modified if is_post_path(rel)]
     post_deleted = [rel for rel in deleted if is_post_path(rel)]
-    stray = [rel for rel in added + modified + deleted if is_post_tree(rel) and not is_post_path(rel)]
+    stray = [
+        rel
+        for rel in added + modified + deleted
+        if is_post_tree(rel) and not is_post_path(rel)
+    ]
     for rel in stray:
-        issues.append(
-            Issue(
-                "bad-path",
-                rel,
-                "Only `.md` posts belong under jobs/, talents/, and companies/.",
-                FIX["bad-path"],
-            )
-        )
+        path = head_files.get(rel)
+        if path is not None and path.is_file() and not path.is_symlink():
+            issues.extend(foreign_post_issues(path, rel))
+        elif rel in base_files:
+            issues.extend(foreign_post_issues(base_files[rel], rel))
 
     other = [rel for rel in added + modified + deleted if not is_post_tree(rel)]
 

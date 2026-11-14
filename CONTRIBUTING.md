@@ -133,7 +133,7 @@ On a pull request the `validate` workflow runs the unit tests and `python -m val
 
 - JSON Schema for the `kind`
 - path and filename
-- UTF-8 text, 10 KB maximum, no images, PDFs, or other binaries
+- UTF-8 Markdown, 10 KB maximum. Each post is rendered into an HTML page, so a PDF, an image, or any other file under `jobs/`, `talents/`, or `companies/` is rejected. An image elsewhere, such as `docs/`, is not a post and is not rejected for its format. A file over 1 MB is still rejected, and so is a symlink.
 - privacy, as above
 - every changed path is a post file under `jobs/`, `talents/`, or `companies/` (several posts are fine; a rename is a delete plus an add)
 - the author owns each file, on add, edit, and delete
@@ -198,6 +198,6 @@ python -m validator expire --root . --today 2026-11-13
 2. 职位文件放在 `jobs/年/月/公司-职位.md`，`posted_by` 必须是你的 GitHub 用户名。默认 60 天后过期。
 3. 人才档案放在 `talents/首字母/用户名.md`，`github` 必须是你自己。默认 180 天。也可以在自己的 `openjob-profile` 仓库放全文，这里只提交 `kind: talent-ref` 的索引。
 4. 公司页放在 `companies/首字母/slug.md`，不过期。
-5. 一个 Pull Request 可以改多篇帖子，但每个文件都要在 `jobs/`、`talents/` 或 `companies/` 里。检查通过后会 squash 合并。改工作流或文档需要 Softprobe 团队批准。
+5. 一个 Pull Request 可以改多篇帖子，但每个文件都要在 `jobs/`、`talents/` 或 `companies/` 里，并且必须是符合模板的 Markdown。这些目录会被渲染成 HTML 页面，所以 PDF、图片或其他文件会被拒绝。检查通过后会 squash 合并。其他目录里的图片不会因此被拒绝，但改工作流或文档需要 Softprobe 团队批准。
 6. 续期时不要改 `posted`，把 `renewed` 设成提交当天。过期文件会从目录删除，Git 历史就是归档，需要时从历史恢复再续期。
 7. 合并后的永久链接是 `https://softprobe.github.io/openjob/p/` 加上去掉 `.md` 的路径。分享文案只有职位、公司和地点，或 headline，或公司名和地点，不含电话、邮箱和申请链接。页面可以显示「邮件申请」按钮，那个地址不在分享文案里。自动合并的评论里会带上每一篇新增或修改的帖子的分享链接。

@@ -11,15 +11,6 @@ FUTURE_SKEW_DAYS = 2
 REPO = "softprobe/openjob"
 REPO_OWNER = "softprobe"
 
-# These two files exist so the tests can prove binaries are rejected.
-# Any other binary in a pull request still fails.
-BINARY_FIXTURE_ALLOWLIST = frozenset(
-    {
-        "tests/fixtures/binary/resume.pdf",
-        "tests/fixtures/binary/avatar.png",
-    }
-)
-
 POST_ROOTS = ("jobs", "talents", "companies")
 # Starting files and test fixtures are not posts. The site index, the expiry
 # walk, and ``check-tree`` never read these directories.

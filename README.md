@@ -59,7 +59,7 @@ The live board is only `jobs/`, `talents/`, and `companies/`. Sample posts used 
 
 Copy a file from `templates/`. A pull request may add, edit, or delete any number of posts. Set `posted_by` or `github` on each file to your GitHub login. The check squash-merges the pull request when every changed path is a post under `jobs/`, `talents/`, or `companies/` and each file is valid. Anything outside those directories waits for the Softprobe team (`@softprobe/openjob-maintainers`).
 
-Posts are text, UTF-8, and at most 10 KB. Images, PDFs, and other binaries are rejected.
+Posts are Markdown, UTF-8, and at most 10 KB. The board renders each file under `jobs/`, `talents/`, and `companies/` into an HTML page, so a PDF, an image, or any other file there is rejected. An image outside those folders is not rejected for its format.
 
 The click-through steps are in [Quick start](#quick-start). Field rules, the federation layout, and the renewal rules are in [CONTRIBUTING.md](CONTRIBUTING.md). Schemas are the JSON files in `schema/`.
 
@@ -71,7 +71,7 @@ Each job, talent profile, and company page has a permalink:
 
 Example: `https://softprobe.github.io/openjob/p/jobs/2026/11/softprobe-software-engineer/`
 
-That page is static HTML. Its title and description are Open Graph and Twitter card tags, so a link unfurls as the public listing. The default card image is `og.png` (1200×630) in the Pages artifact. The repository stores that image as ASCII in `site/og.png.b64`, because the checker rejects a binary file in a pull request. The Pages build decodes it to `site/og.png`. The board also opens the same entry at `#<path-without-.md>`, for example `#jobs/2026/11/softprobe-software-engineer`.
+That page is static HTML. Its title and description are Open Graph and Twitter card tags, so a link unfurls as the public listing. The default card image is `og.png` (1200×630) in the Pages artifact. The repository stores that image as ASCII in `site/og.png.b64`. The Pages build decodes it to `site/og.png`. The board also opens the same entry at `#<path-without-.md>`, for example `#jobs/2026/11/softprobe-software-engineer`.
 
 The page has share buttons for LinkedIn, X, Reddit, Hacker News, Facebook, Telegram, WhatsApp, and Weibo. They are ordinary share-intent links. There is no SDK and no third-party script. Copy link copies the permalink. WeChat has no share URL; the page draws a QR code of the permalink in the browser with the MIT library in `site/vendor/`.
 
@@ -212,7 +212,7 @@ OpenJob 是一个放在 GitHub 上的开放、隐私优先的职位板：谁都�
 | 联邦档案 | 同上，`kind: talent-ref` | 正文放在你自己的 `openjob-profile` 仓库，这里只留索引 |
 | 公司 | `companies/首字母/slug.md` | 不自动过期 |
 
-一个 Pull Request 可以提交多篇帖子。路径、大小（10 KB 以内）、纯文本、所有权和隐私都通过，且改动都在 `jobs/`、`talents/`、`companies/` 里时，会自动 squash 合并。改工作流、网站或文档需要 Softprobe 团队 `@softprobe/openjob-maintainers` 批准。
+一个 Pull Request 可以提交多篇帖子。路径、大小（10 KB 以内）、Markdown 格式、所有权和隐私都通过，且改动都在 `jobs/`、`talents/`、`companies/` 里时，会自动 squash 合并。这些目录会被渲染成 HTML 页面，所以 PDF、图片或其他非 Markdown 文件会被拒绝。其他目录里的图片不会因此被拒绝。改工作流、网站或文档需要 Softprobe 团队 `@softprobe/openjob-maintainers` 批准。
 
 过期帖子从目录中删除。**Git 历史就是归档。** 想恢复时，从删除那次提交里取出文件，把 `renewed` 设为新的日期，再开一个 Pull Request。不要修改原来的 `posted`。
 

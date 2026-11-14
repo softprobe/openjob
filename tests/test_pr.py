@@ -133,18 +133,48 @@ class CheckPrTests(unittest.TestCase):
         self.assertIn("ownership", {issue.code for issue in result.issues})
         self.assertFalse(result.automerge)
 
-    def test_binary_in_a_pull_request_is_rejected(self) -> None:
-        png = (Path(__file__).resolve().parent / "fixtures" / "binary" / "avatar.png").read_bytes()
-        head = _tree({"jobs/2026/11/acme-backend-engineer.md": _job(), "logo.png": "ignored"})
-        (head / "logo.png").write_bytes(png)
+    def test_non_markdown_under_a_post_root_is_rejected(self) -> None:
+        fixtures = Path(__file__).resolve().parent / "fixtures" / "binary"
+        png = (fixtures / "avatar.png").read_bytes()
+        pdf = (fixtures / "resume.pdf").read_bytes()
+        head = _tree(
+            {
+                "jobs/2026/11/acme-backend-engineer.md": _job(),
+                "companies/n/notes.txt": "This is not a company page.\n",
+            }
+        )
+        (head / "jobs" / "logo.png").write_bytes(png)
+        (head / "talents").mkdir()
+        (head / "talents" / "resume.pdf").write_bytes(pdf)
         base = _tree({})
         try:
             result = check_pr(head=head, base=base, author="ada", today=TODAY)
         finally:
             shutil.rmtree(head)
             shutil.rmtree(base)
-        self.assertIn("binary", {issue.code for issue in result.issues})
+        by_path = {issue.path: issue for issue in result.issues}
+        self.assertEqual(by_path["jobs/logo.png"].code, "binary")
+        self.assertEqual(by_path["talents/resume.pdf"].code, "binary")
+        self.assertEqual(by_path["companies/n/notes.txt"].code, "bad-path")
+        for issue in by_path.values():
+            self.assertIn("HTML", issue.message)
         self.assertFalse(result.automerge)
+
+    def test_png_outside_post_roots_passes_and_does_not_automerge(self) -> None:
+        png = (Path(__file__).resolve().parent / "fixtures" / "binary" / "avatar.png").read_bytes()
+        head = _tree({"docs/board.png": "placeholder"})
+        (head / "docs" / "board.png").write_bytes(png)
+        base = _tree({})
+        try:
+            result = check_pr(head=head, base=base, author="ada", today=TODAY)
+        finally:
+            shutil.rmtree(head)
+            shutil.rmtree(base)
+        self.assertEqual(result.issues, [], [issue.message for issue in result.issues])
+        self.assertFalse(result.automerge)
+        report = result.report()
+        self.assertIn("@softprobe/openjob-maintainers", report)
+        self.assertIn("docs/board.png", report)
 
     def test_email_and_phone_in_a_post_are_rejected(self) -> None:
         dirty = _job() + "\nReach ada@gmail.com or +1 415 555 2671.\n"

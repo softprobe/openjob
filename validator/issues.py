@@ -44,7 +44,11 @@ FIX = {
         "`companies/<first-letter>/<slug>.md`. Use lowercase. `YYYY/MM` is the `posted` month."
     ),
     "oversize": f"Shorten the file to {10 * 1024} bytes or fewer. Posts are text only.",
-    "binary": "Remove the file. Images, PDFs, archives, and other binaries are not accepted.",
+    "binary": (
+        "The board renders each file under jobs/, talents/, and companies/ into an HTML page. "
+        "Replace this file with a Markdown post that follows the template: UTF-8 text, a `.md` name, "
+        "and YAML front matter. A PDF, an image, or any other file type cannot be that page."
+    ),
     "encoding": "Save the file as UTF-8 without a binary payload.",
     "symlink": "Replace the symlink with a normal Markdown file.",
     "front-matter": "Start the file with `---` YAML front matter and close it with a `---` line.",

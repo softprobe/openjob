@@ -413,8 +413,8 @@ def _write_google_file(site_dir: Path) -> None:
 def _write_og_image(site_dir: Path) -> None:
     """Decode the committed ASCII payload into the Pages artifact.
 
-    The checker rejects a ``.png`` in a pull request. ``site/og.png.b64`` is
-    the same image as text. The build writes ``og.png`` next to the HTML.
+    ``site/og.png.b64`` is the default share image as text. The build writes
+    ``og.png`` next to the HTML.
     """
     payload = "".join(_OG_B64.read_text(encoding="ascii").split())
     (site_dir / "og.png").write_bytes(base64.b64decode(payload, validate=True))

@@ -16,7 +16,6 @@ from referencing import Registry, Resource
 
 from validator.codes import COUNTRIES, CURRENCIES
 from validator.constants import (
-    BINARY_FIXTURE_ALLOWLIST,
     FUTURE_SKEW_DAYS,
     JOB_DAYS,
     KIND_ROOT,
@@ -142,43 +141,53 @@ def is_post_tree(rel: str) -> bool:
     return rel.startswith(tuple(f"{root}/" for root in POST_ROOTS))
 
 
+# Why a non-Markdown file under a post root is rejected. The site publishes HTML.
+POST_FORMAT = (
+    "The board renders each file under jobs/, talents/, and companies/ into an HTML page, "
+    "so the file has to be Markdown that follows the template: UTF-8 text, a `.md` name, and YAML front matter."
+)
+
+
 def binary_issues(path: Path, rel: str) -> list[Issue]:
-    """Report binaries. Callers decide whether a fixture path is exempt."""
-    issues: list[Issue] = []
+    """Report a file that cannot be rendered as a Markdown post.
+
+    Callers use this for files under jobs/, talents/, and companies/. A PNG in
+    docs/ or elsewhere is not a post, and this function is not the policy for it.
+    """
     suffix = path.suffix.lower()
     if suffix in BINARY_EXTENSIONS:
-        issues.append(
+        return [
             Issue(
                 "binary",
                 rel,
-                f"`{rel}` is a `{suffix}` file. Posts are Markdown text.",
+                f"`{rel}` is a `{suffix}` file, not a Markdown post. {POST_FORMAT}",
                 FIX["binary"],
             )
-        )
-        return issues
+        ]
     try:
         data = path.read_bytes() if not path.is_symlink() else b""
     except OSError:
-        return issues
+        return []
     if b"\x00" in data[:8192]:
-        issues.append(Issue("binary", rel, f"`{rel}` contains binary data.", FIX["binary"]))
-        return issues
+        return [
+            Issue(
+                "binary",
+                rel,
+                f"`{rel}` contains binary data, not Markdown. {POST_FORMAT}",
+                FIX["binary"],
+            )
+        ]
     for magic, label in MAGIC:
         if data.startswith(magic):
-            issues.append(
+            return [
                 Issue(
                     "binary",
                     rel,
-                    f"`{rel}` looks like a {label} file.",
+                    f"`{rel}` looks like a {label} file, not a Markdown post. {POST_FORMAT}",
                     FIX["binary"],
                 )
-            )
-            return issues
-    return issues
-
-
-def exempt_binary(rel: str) -> bool:
-    return rel in BINARY_FIXTURE_ALLOWLIST
+            ]
+    return []
 
 
 def is_unpublished(rel: str) -> bool:
@@ -215,7 +224,7 @@ def validate_tree(root: Path, *, today: date | None = None) -> list[Issue]:
     issues: list[Issue] = []
     for rel, path in iter_post_files(root):
         if not rel.endswith(".md"):
-            issues.extend(_binary_or_type(path, rel))
+            issues.extend(foreign_post_issues(path, rel))
             continue
         issues.extend(validate_post(root=root, rel=rel, today=today))
     return issues
@@ -390,9 +399,7 @@ def _structural(path: Path, rel: str) -> list[Issue]:
     return issues
 
 
-def _binary_or_type(path: Path, rel: str) -> list[Issue]:
-    if exempt_binary(rel):
-        return []
+def foreign_post_issues(path: Path, rel: str) -> list[Issue]:
     found = binary_issues(path, rel)
     if found:
         return found
@@ -400,8 +407,8 @@ def _binary_or_type(path: Path, rel: str) -> list[Issue]:
         Issue(
             "bad-path",
             rel,
-            "Only Markdown posts belong under jobs/, talents/, and companies/.",
-            FIX["bad-path"],
+            f"`{rel}` is not a Markdown post. {POST_FORMAT}",
+            FIX["binary"],
         )
     ]
 

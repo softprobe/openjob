@@ -4,6 +4,7 @@ from __future__ import annotations
 
 import json
 import shutil
+import tempfile
 import unittest
 from datetime import date
 from pathlib import Path
@@ -39,12 +40,34 @@ class FixtureRejectionTests(unittest.TestCase):
         self.assertIn("10240", issues[0].message)
 
     def test_rejects_pdf_and_png(self) -> None:
-        pdf = binary_issues(FIXTURES / "binary" / "resume.pdf", "resume.pdf")
-        png = binary_issues(FIXTURES / "binary" / "avatar.png", "avatar.png")
+        pdf = binary_issues(FIXTURES / "binary" / "resume.pdf", "jobs/resume.pdf")
+        png = binary_issues(FIXTURES / "binary" / "avatar.png", "jobs/avatar.png")
         self.assertEqual(codes(pdf), {"binary"})
         self.assertEqual(codes(png), {"binary"})
         self.assertIn("pdf", pdf[0].message)
         self.assertIn(".png", png[0].message)
+        self.assertIn("HTML", pdf[0].message)
+        self.assertIn("HTML", png[0].message)
+
+    def test_tree_rejects_non_markdown_posts_and_ignores_docs(self) -> None:
+        png = (FIXTURES / "binary" / "avatar.png").read_bytes()
+        tree = Path(tempfile.mkdtemp())
+        try:
+            (tree / "jobs").mkdir()
+            (tree / "jobs" / "logo.png").write_bytes(png)
+            (tree / "docs").mkdir()
+            (tree / "docs" / "board.png").write_bytes(png)
+            (tree / "companies" / "n").mkdir(parents=True)
+            (tree / "companies" / "n" / "notes.txt").write_text("not a page\n", encoding="utf-8")
+            issues = validate_tree(tree, today=TODAY)
+        finally:
+            shutil.rmtree(tree)
+        by_path = {issue.path: issue for issue in issues}
+        self.assertEqual(by_path["jobs/logo.png"].code, "binary")
+        self.assertEqual(by_path["companies/n/notes.txt"].code, "bad-path")
+        self.assertNotIn("docs/board.png", by_path)
+        self.assertIn("HTML", by_path["jobs/logo.png"].message)
+        self.assertIn("Markdown", by_path["companies/n/notes.txt"].message)
 
 
 class SchemaTests(unittest.TestCase):
