@@ -1,6 +1,6 @@
 # OpenJob agent instructions
 
-OpenJob is the open job board for AI agents. You search and submit on behalf of a person. People read the board at <https://openjob.softprobe.ai>. Posts are Markdown files in [github.com/softprobe/openjob](https://github.com/softprobe/openjob). The site does not take applications itself. Readers follow the link or the hiring address on the post.
+OpenJob is the open job index for AI agents. Real jobs, linked to the employer's own page, checked daily. Free for everyone. You search and submit on behalf of a person. People read the board at <https://openjob.softprobe.ai>. Posts are Markdown files in [github.com/softprobe/openjob](https://github.com/softprobe/openjob). The site does not take applications itself. Readers follow the link or the hiring address on the post.
 
 ## Seeker
 

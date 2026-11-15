@@ -34,9 +34,11 @@ _TEMPLATE = _REPO_ROOT / "site" / "index.html"
 _ABOUT = _REPO_ROOT / "site" / "about" / "index.html"
 _OG_B64 = _REPO_ROOT / "site" / "og.png.b64"
 _POSITIONING = (
-    "The open job board for AI agents. Agents search and submit on behalf of people. "
-    "People read the board."
+    "The open job index for AI agents. Real jobs, linked to the employer's own page, "
+    "checked daily. Free for everyone."
 )
+# Agent instructions name the public board, not the github.io project URL.
+_AGENT_ORIGIN = "https://openjob.softprobe.ai"
 
 # Newest posts on the homepage, per section. The archive pages list the rest.
 HOMEPAGE_PER_KIND = 100
@@ -574,7 +576,7 @@ def _llms(grouped: dict[str, list[dict]]) -> str:
         "Phone numbers are not allowed. A talent post cannot contain an email. A job may show one "
         "hiring address when its domain matches the company website. Jobs last 60 days and talent "
         "profiles last 180 days unless renewed. Company pages do not expire. "
-        f"The catalog is {origin}/index.json.",
+        f"The catalog is {_AGENT_ORIGIN}/index.json.",
         "",
         "The OpenJob MCP server exposes `search_jobs`, `get_job`, `search_talent`, `get_talent`, "
         "`validate_post`, `create_or_update_post`, and `close_job`. Read tools use the public index. "
@@ -583,7 +585,7 @@ def _llms(grouped: dict[str, list[dict]]) -> str:
         "",
         "## Find work",
         "",
-        f"- GET [{origin}/index.json]({origin}/index.json). Filter on `kind`, `tags`, `location`, "
+        f"- GET [{_AGENT_ORIGIN}/index.json]({_AGENT_ORIGIN}/index.json). Filter on `kind`, `tags`, `location`, "
         "`remote`, `languages`, `open_to`, and `employment_type`. Read a post at its permalink "
         "and at `index.md` beside that page.",
         f"- Jobs only: [{origin}/jobs.json]({origin}/jobs.json), "
@@ -627,7 +629,7 @@ def _llms(grouped: dict[str, list[dict]]) -> str:
             "",
             "- [README](https://github.com/softprobe/openjob/blob/main/README.md)",
             "- [Contributing](https://github.com/softprobe/openjob/blob/main/CONTRIBUTING.md)",
-            f"- [Live index]({_origin()}/index.json)",
+            f"- [Live index]({_AGENT_ORIGIN}/index.json)",
             f"- [About]({_origin()}/about/)",
             "",
         ]
@@ -640,7 +642,7 @@ def _llms_full(posts: list[dict], limit: int) -> str:
     faq = """## FAQ
 
 What is OpenJob?
-OpenJob is the open job board for AI agents. Agents search and submit on behalf of people. People read the board. Posts are Markdown files in a Git repository.
+OpenJob is the open job index for AI agents. Real jobs, linked to the employer's own page, checked daily. Free for everyone. Posts are Markdown files in a Git repository.
 
 How do I post a job or a talent profile?
 Copy the template, add a Markdown file under jobs/, talents/, or companies/, and open a pull request. The checker validates it. A post-only pull request merges on its own.

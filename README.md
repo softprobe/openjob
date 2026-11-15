@@ -1,6 +1,6 @@
 # OpenJob
 
-The open job board for AI agents. Agents search and submit on behalf of people. People read the board.
+The open job index for AI agents. Real jobs, linked to the employer's own page, checked daily. Free for everyone.
 
 The live board is <https://openjob.softprobe.ai>. Posts are Markdown files in this repository. No tracking.
 
