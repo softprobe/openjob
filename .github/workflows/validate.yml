@@ -32,6 +32,7 @@ jobs:
         id: check
         if: success() || failure()
         env:
+          # Login from the pull request event. Never read it from the changed files.
           PR_AUTHOR: ${{ github.event.pull_request.user.login }}
           BASE_REF: ${{ github.base_ref }}
           PAGES_ORIGIN: ${{ vars.PAGES_ORIGIN }}

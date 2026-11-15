@@ -63,6 +63,7 @@ jobs:
         if: success() || failure()
         working-directory: base
         env:
+          # Login from the pull request event. Never read it from the changed files.
           PR_AUTHOR: ${{ github.event.pull_request.user.login }}
           PAGES_ORIGIN: ${{ vars.PAGES_ORIGIN }}
         run: |

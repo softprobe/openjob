@@ -188,8 +188,8 @@ def _talent() -> dict:
     return {
         "kind": "talent",
         "title": "Ada Lovelace",
-        "path": "talents/a/ada.md",
-        "permalink": f"{ORIGIN}/p/talents/a/ada/",
+        "path": "talents/ada.md",
+        "permalink": f"{ORIGIN}/p/talents/ada/",
         "share_text": "Site reliability engineer open to contract work",
         "excerpt": "A short public excerpt for the profile.",
         "headline": "Site reliability engineer open to contract work",

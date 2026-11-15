@@ -10,9 +10,10 @@ tags: [example-tag]
 languages: [en]
 posted: YYYY-MM-DD
 posted_by: YOUR_GITHUB
+owners: [YOUR_GITHUB]
 ---
 
-Move this file to `companies/<first-letter>/<slug>.md`. Company pages do not expire. Jobs that mention the company are separate files.
+Move this file to `companies/<first-letter>/<slug>.md`. `owners` lists the GitHub logins who can edit this page and its jobs. Include yourself. A new company page is reviewed once. Company pages do not expire. Jobs are separate files.
 
 Do not put a recruiting phone number or a recruiting inbox on this page. A job post can carry the hiring address. Use `website`, `careers`, and an optional `logo` URL. Do not commit the logo file. This folder is rendered into an HTML page from Markdown, so the logo stays at an https URL.
 

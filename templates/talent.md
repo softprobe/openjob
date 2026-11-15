@@ -12,10 +12,10 @@ website: https://example.com
 posted: YYYY-MM-DD
 ---
 
-Move this file to `talents/<first-letter>/<github-username>.md`. The letter and the filename are your GitHub login, in lowercase.
+Move this file to `talents/<your-github-name>.md`. The filename is your GitHub login. Set `github` to that same login.
 
 Say what you do and what you are open to. Link a personal site or add a `linkedin` field with `https://www.linkedin.com/in/…`. Do not add a phone number, an email address, or a WeChat ID.
 
 ## 说明
 
-路径是 `talents/首字母/github用户名.md`。不要写电话、邮箱或微信号。
+路径是 `talents/你的github用户名.md`。不要写电话、邮箱或微信号。

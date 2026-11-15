@@ -4,9 +4,10 @@
 # that only changes jobs/, talents/, or companies/ needs no review.
 # Anything else needs approval from the Softprobe team.
 # The checker also treats @zwobill as a maintainer when this team entry
-# is missing.
+# is missing. A @user on this line (not @org/team) may edit any post
+# through review. Auto-merge still requires that login to own every file.
 
-* @softprobe/openjob-maintainers
+* @softprobe/openjob-maintainers @lcunsp @zwobill
 /jobs/
 /talents/
 /companies/

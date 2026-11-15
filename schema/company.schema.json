@@ -21,6 +21,14 @@
     "tags": { "$ref": "https://github.com/softprobe/openjob/schema/common.json#/$defs/tags" },
     "posted": { "$ref": "https://github.com/softprobe/openjob/schema/common.json#/$defs/date" },
     "posted_by": { "$ref": "https://github.com/softprobe/openjob/schema/common.json#/$defs/github" },
+    "owners": {
+      "description": "GitHub logins who can edit this page and its jobs. Required on a new page and on later edits. The pull request author has to be in the list when the page is created.",
+      "type": "array",
+      "minItems": 1,
+      "maxItems": 12,
+      "uniqueItems": true,
+      "items": { "$ref": "https://github.com/softprobe/openjob/schema/common.json#/$defs/github" }
+    },
     "example": { "type": "boolean" }
   }
 }

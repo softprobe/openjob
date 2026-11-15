@@ -34,7 +34,7 @@ class IndexTests(unittest.TestCase):
             self.assertIn(top, {"jobs", "talents", "companies"})
             self.assertNotIn(top, {"tests", "templates"})
         self.assertNotIn("jobs/2026/11/example-studio-open-source-maintainer.md", paths)
-        self.assertNotIn("talents/z/zwobill.md", paths)
+        self.assertNotIn("talents/zwobill.md", paths)
         self.assertNotIn("companies/e/example-studio.md", paths)
         self.assertTrue((ROOT / "templates" / "job.md").is_file())
         for rel in SAMPLES:
@@ -136,15 +136,15 @@ class ExpiryTests(unittest.TestCase):
                 "jobs/2026/01/acme-sample-role.md",
                 _job(role_slug="sample-role", title="Sample role", example=True, posted="2026-01-01"),
             )
-            _write(root, "talents/a/ada.md", _talent(posted="2025-01-01"))
+            _write(root, "talents/ada.md", _talent(posted="2025-01-01"))
             _write(
                 root,
-                "talents/a/ada-new.md",
+                "talents/ada-new.md",
                 _talent(github="ada-new", name="Ada New", posted="2026-08-01"),
             )
             _write(
                 root,
-                "talents/r/renewed-person.md",
+                "talents/renewed-person.md",
                 _talent(
                     github="renewed-person",
                     name="Renewed",
@@ -157,11 +157,11 @@ class ExpiryTests(unittest.TestCase):
         finally:
             shutil.rmtree(root)
         self.assertIn("jobs/2026/01/acme-old-role.md", expired)
-        self.assertIn("talents/a/ada.md", expired)
+        self.assertIn("talents/ada.md", expired)
         self.assertNotIn("jobs/2026/11/acme-backend-engineer.md", expired)
         self.assertIn("jobs/2026/01/acme-sample-role.md", expired)
-        self.assertNotIn("talents/a/ada-new.md", expired)
-        self.assertNotIn("talents/r/renewed-person.md", expired)
+        self.assertNotIn("talents/ada-new.md", expired)
+        self.assertNotIn("talents/renewed-person.md", expired)
         self.assertNotIn("companies/a/acme.md", expired)
 
 

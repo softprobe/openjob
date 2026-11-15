@@ -36,7 +36,7 @@ class CheckPrTests(unittest.TestCase):
                     title="Product designer",
                     role_slug="designer",
                 ),
-                "talents/a/ada.md": _talent(),
+                "talents/ada.md": _talent(),
             }
         )
         base = _tree({})
@@ -119,8 +119,8 @@ class CheckPrTests(unittest.TestCase):
     def test_cannot_edit_someone_elses_post(self) -> None:
         original = _talent(handle="ada")
         stolen = _talent(handle="mallory", name="Mallory")
-        base = _tree({"talents/a/ada.md": original})
-        head = _tree({"talents/m/mallory.md": stolen})
+        base = _tree({"talents/ada.md": original})
+        head = _tree({"talents/mallory.md": stolen})
         # A delete of ada plus an add of mallory is a rename only when the owner matches.
         # Here the head simply adds mallory and deletes ada.
         try:

@@ -79,7 +79,7 @@ There is no `phone` field, and no general `email` field. `additionalProperties` 
 
 1. Copy `templates/job.md`.
 2. Save it as `jobs/YYYY/MM/<company>-<role-slug>.md`. `YYYY/MM` is the `posted` month. Example: `jobs/2026/11/example-studio-open-source-maintainer.md`.
-3. Set `posted_by` to your GitHub login. That login has to be the pull request author.
+3. Set `posted_by` to your GitHub login. If the company has a page, that login has to be in `owners`. If it does not, only this login can edit the job later.
 4. Set `apply` to an `https://` careers or application link, or to `mailto:jobs@company.example` for a hiring address on the company domain. To keep the https link and also offer email, leave `apply` as the https link and set `apply_email` to the `mailto:` address. No shorteners (`bit.ly`, `t.co`, `t.cn`, `lnkd.in`, and similar).
 5. Open a pull request that adds only that file. A second new post is a separate pull request. To change this job later, edit this file and leave `posted` as it is.
 
@@ -126,7 +126,7 @@ Personal addresses, any other domain, and phone numbers are rejected. So are dis
 
 ## Post a talent profile
 
-Save `templates/talent.md` as `talents/<first-letter>/<github-username>.md`, lowercase. Example: `talents/z/zwobill.md`.
+Save `templates/talent.md` as `talents/<your-github-name>.md`. Example: `talents/ada.md`. The filename is your GitHub login.
 
 `github` must match the filename and the pull request author. A profile lasts 180 days unless you renew it.
 
@@ -134,7 +134,7 @@ Save `templates/talent.md` as `talents/<first-letter>/<github-username>.md`, low
 
 ## Post a company
 
-Save `templates/company.md` as `companies/<first-letter>/<slug>.md`. Company pages do not expire. The account in `posted_by` owns later edits. A job for that company is a separate file. Both files may be in one pull request when you own each of them.
+Save `templates/company.md` as `companies/<first-letter>/<slug>.md`. Set `owners` to the GitHub logins who can edit the page. Include yourself. A new company page is reviewed once and does not auto-merge. After that, only those owners can edit the page and the company's jobs. Company pages do not expire. A job is a separate file.
 
 An optional `logo` is an `https://` URL of an image already hosted somewhere else. Do not commit the image. The board and the company permalink render it at 48px on a light chip. A job does not have its own logo field: the index copies the logo from that company's page onto the job card and the job permalink. Share text does not include the URL. A company page still cannot contain an email address. The hiring address belongs on the job. The job is its own pull request.
 
@@ -144,7 +144,7 @@ You can keep the canonical profile in your own repository and store only an inde
 
 1. Create a public repository named `openjob-profile` on your account.
 2. Add `profile.md` there. Use the same front matter as `schema/talent.schema.json`.
-3. Open a pull request here that adds `talents/<letter>/<handle>.md` from `templates/talent-ref.md`.
+3. Open a pull request here that adds `talents/<your-github-name>.md` from `templates/talent-ref.md`.
 
 `profile_url` must be `https://github.com/<your-login>/openjob-profile` or a file under that repository on `raw.githubusercontent.com`. The login in the URL, the `github` field, the filename, and the pull request author all have to match. The entry is searchable. The site links out. It does not fetch the other repository at browse time.
 
@@ -164,7 +164,7 @@ The entry expires like any other talent post (180 days, or sooner if you set `ex
 
 The checker rejects `example: true`. The board lists real posts only. Known-good posts used by the tests live under `tests/fixtures/samples/`. The tests copy them into a temporary tree. `templates/` stays the files a contributor copies. The site build indexes `jobs/`, `talents/`, and `companies/` only, so nothing under `tests/` or `templates/` is published.
 
-When a letter directory approaches about 800 files, maintainers should add a second shard (`talents/a/b/…`) in a deliberate migration. Version 1 is one letter, one directory, which is the layout contributors should use now. Jobs are already sharded by month.
+Talent profiles are one file per login, `talents/<github-login>.md`. Jobs stay sharded by the `posted` month. Company pages stay under `companies/<first-letter>/`.
 
 ## What the check enforces
 
@@ -227,7 +227,7 @@ The auto-merge comment repeats these links. It does not repeat the apply link.
 
 1. 不要写电话。人才帖不能写邮箱。职位的 `apply` 必填：`https://` 指向 ATS、招聘页或职位链接，或公司域名上的一个 `mailto:`。两者都要时，`apply` 保持 https，`apply_email` 写 `mailto:`。不能两个都写成 `mailto:`。域名必须和公司网站一致（公司页存在时以公司页的 `website` 为准，忽略 `www.`）。正文里的邮箱会被拒绝。个人邮箱和其他域名会被拒绝。细节见上文 [Application methods](#application-methods)。`名字 [at] 域名 [dot] com`、全角 `＠`、以及 `一三八……` 这种中文数字同样会被拒绝。
 2. 职位文件放在 `jobs/年/月/公司-职位.md`，`posted_by` 必须是你的 GitHub 用户名。默认 60 天后过期。
-3. 人才档案放在 `talents/首字母/用户名.md`，`github` 必须是你自己。默认 180 天。也可以在自己的 `openjob-profile` 仓库放全文，这里只提交 `kind: talent-ref` 的索引。
+3. 人才档案放在 `talents/你的github用户名.md`，`github` 必须是你自己。默认 180 天。也可以在自己的 `openjob-profile` 仓库放全文，这里只提交 `kind: talent-ref` 的索引。
 4. 公司页放在 `companies/首字母/slug.md`，不过期。
 5. 一个 Pull Request 只新增一篇帖子。文件必须在 `jobs/`、`talents/` 或 `companies/` 里，并且必须是符合模板的 Markdown。这些目录会被渲染成 HTML 页面，所以 PDF、图片或其他文件会被拒绝。检查通过后会 squash 合并。更新已有帖子时编辑原文件。`docs/` 里的图片不会因此被拒绝，但改工作流或文档需要 Softprobe 团队批准。
 6. 续期时不要改 `posted`，把 `renewed` 设成提交当天。过期文件会从目录删除，Git 历史就是归档，需要时从历史恢复再续期。

@@ -18,7 +18,7 @@ from validator.privacy import find_contacts, has_contact_pattern
 TODAY = date(2026, 11, 13)
 JOB = "jobs/2026/11/softprobe-software-engineer.md"
 COMPANY = "companies/s/softprobe.md"
-TALENT = "talents/a/ada.md"
+TALENT = "talents/ada.md"
 BODY = "Build the record and replay engine and the agent observability product with the team.\n"
 HIRING = "mailto:hr@softprobe.ai"
 LOGO = "https://cdn.example.com/softprobe.svg"
@@ -316,6 +316,7 @@ def _company(**extra: object) -> str:
         "tags": ["observability"],
         "posted": "2026-11-13",
         "posted_by": "ada",
+        "owners": ["ada"],
     }
     meta.update(extra)
     return _dump(

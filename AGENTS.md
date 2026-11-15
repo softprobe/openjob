@@ -16,15 +16,20 @@ To find work, read <https://openjob.softprobe.ai/llms.txt> and GET <https://open
 
 Rank live jobs against a resume or bio. Return each match with its permalink and the apply method already on that post. Apply with the job's https link or the hiring address. A link to this repository's README or profile guide is not an application. Do not invent an email or a phone number.
 
-To publish a profile from a resume, follow <https://openjob.softprobe.ai/schema/talent.json> and open one pull request under `talents/`. The profile has no email and no phone. Contact is the GitHub login, plus optional `website` and `linkedin`. Adding a profile is separate from applying.
+To publish a profile from a resume, follow <https://openjob.softprobe.ai/schema/talent.json> and open one pull request that adds `talents/<github-login>.md`. The filename is the GitHub login of the account that opens the pull request. The profile has no email and no phone. Contact is that login, plus optional `website` and `linkedin`. Adding a profile is separate from applying.
 
 ## Pull request rules
 
 Add one new post per pull request. The file must be UTF-8 Markdown (`.md`) under `jobs/`, `talents/`, or `companies/`, with YAML front matter between `---` lines, and a body of at least 40 characters. The file must be 10 KB or smaller. At most 12 links.
 
-A pull request that only adds or edits the author's own post under those folders is squash-merged after `validate` and `trusted-validate` pass. The author is the GitHub login that opens the pull request. `posted_by` (job or company) or `github` (talent) must be that login.
+A pull request that only adds or edits posts the author owns is squash-merged after `validate` and `trusted-validate` pass. The author is the GitHub login on the pull request. Do not copy that login from a field in the file.
 
-Anything else needs approval from `@softprobe/openjob-maintainers` and does not auto-merge: a second new post, a file outside those folders, or a post owned by someone else.
+- A profile is `talents/<login>.md`. `github` is that login. Only that person can add, edit, or delete it.
+- A company page lists `owners`. The author has to be in that list. A new company page is reviewed once and does not auto-merge. After that, only those owners can edit the page, including `owners`.
+- A job sets `company` to the company slug. Only that company's owners can add, edit, or close it. If the company has no page yet, `posted_by` has to be the author, and only that person can edit the job later.
+- Maintainers can change a file they do not own in a reviewed pull request. Auto-merge happens only when the author owns every file in the pull request.
+
+Anything else needs approval from `@softprobe/openjob-maintainers` and does not auto-merge: a second new post, a file outside those folders, or a post the author does not own.
 
 To update a post, edit the existing file in a new pull request. Do not add a second file. Keep `posted` unchanged. Set `renewed` to the day you open the pull request when you want to extend the lifetime. The checker rejects a new job whose `company` and `title` already exist, and a new talent file whose `github` login already has a profile.
 
@@ -86,11 +91,11 @@ posted_by: ada
 Northwind is hiring a site reliability engineer in Berlin. The work is keeping the production platform healthy: incidents, capacity, and the path from commit to deploy. Hybrid, with the team in Berlin. Apply at the careers link in the front matter.
 ```
 
-Replace `ada` with the pull request author. Replace `posted` with the day you open the pull request. Replace Northwind, the city, and the apply link with the real ones.
+Replace `ada` with the GitHub login that will open the pull request. Set `company` to a company that lists that login in `owners`, or omit the company page and keep `posted_by` as that login. Replace `posted` with the day you open the pull request. Replace Northwind, the city, and the apply link with the real ones.
 
 ## Talent profile
 
-Path: `talents/<first-letter>/<github-login>.md`, lowercase. The letter is the first character of the login. `github` is that same login. New file: <https://github.com/softprobe/openjob/new/main/talents>.
+Path: `talents/<github-login>.md`. The filename is the GitHub login. `github` is that same login. New file: <https://github.com/softprobe/openjob/new/main/talents>.
 
 Required: `kind` (`talent`), `name`, `github`, `headline` (4–140), `location`, `remote`, `languages`, `tags`, `open_to`, `posted`.
 
@@ -124,7 +129,7 @@ Replace `ada` with the pull request author, and replace the name, city, and site
 
 Path: `companies/<first-letter>/<slug>.md`. The letter is the first character of `slug`. New file: <https://github.com/softprobe/openjob/new/main/companies>.
 
-Required: `kind` (`company`), `slug`, `name`, `website`, `location`, `tags`, `posted`, `posted_by`.
+Required: `kind` (`company`), `slug`, `name`, `website`, `location`, `tags`, `posted`, `posted_by`, `owners` (one or more GitHub logins, including the pull request author).
 
 Optional: `careers`, `logo` (https URL of an image hosted outside this repository), `remote`, `languages`. No email. A job for this company is a later pull request, not a second file in this one.
 
@@ -140,9 +145,10 @@ tags: [reliability]
 languages: [en]
 posted: 2026-11-14
 posted_by: ada
+owners: [ada]
 ---
 
-Northwind builds a production platform and hires through the careers page linked above. This page names the company and the site. Open roles are separate job files.
+Northwind builds a production platform and hires through the careers page linked above. This page names the company and the site. Open roles are separate job files. Only the logins in `owners` can edit this page and those jobs.
 ```
 
 ## If you cannot open the pull request
