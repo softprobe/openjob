@@ -23,13 +23,14 @@ from validator.posts import (
 )
 from validator.prose import excerpt as prose_excerpt
 from validator.publish import write_discovery
+from indexer.catalog import INDEXED_NOTICE, claimed_slugs, indexed_posts
 from validator.share import permalink, render_post_page, share_links, share_text
 
 # A company page links its newest roles. The jobs archive lists every role.
 _OPEN_JOBS_ON_PAGE = 100
 
 
-def build_index(root: Path, *, today: date | None = None) -> dict:
+def build_index(root: Path, *, today: date | None = None, index_data: Path | None = None) -> dict:
     today = today or datetime.now(timezone.utc).date()
     issues = validate_tree(root, today=today)
     if issues:
@@ -44,11 +45,18 @@ def build_index(root: Path, *, today: date | None = None) -> dict:
             continue
         meta, body = load_post(path)
         posts.append(_project(rel, meta, body, root=root))
-    posts.sort(key=lambda post: post["path"])
+    owner_urls = {post["url"] for post in posts if post.get("kind") == "job" and post.get("url")}
+    owner_urls.update(post["apply"] for post in posts if post.get("kind") == "job" and post.get("apply"))
+    now = datetime.now(timezone.utc)
+    posts.extend(
+        indexed_posts(index_data, now=now, owner_urls=owner_urls, claimed=claimed_slugs(root))
+    )
     posts.sort(key=lambda post: post["posted"], reverse=True)
+    posts.sort(key=lambda post: 0 if post.get("origin", "owner") == "owner" else 1)
     document = {
-        "generated": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
+        "generated": now.strftime("%Y-%m-%dT%H:%M:%SZ"),
         "source": f"https://github.com/{REPO}",
+        "indexed_notice": INDEXED_NOTICE,
         "posts": posts,
     }
     _validate_index(document)
@@ -169,6 +177,7 @@ def _project(rel: str, meta: dict, body: str, *, root: Path) -> dict:
         "permalink": page,
         "share_text": blurb,
         "shares": share_links(blurb, page),
+        "origin": "owner",
     }
 
 

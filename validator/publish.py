@@ -576,7 +576,11 @@ def _llms(grouped: dict[str, list[dict]]) -> str:
         "Phone numbers are not allowed. A talent post cannot contain an email. A job may show one "
         "hiring address when its domain matches the company website. Jobs last 60 days and talent "
         "profiles last 180 days unless renewed. Company pages do not expire. "
-        f"The catalog is {_AGENT_ORIGIN}/index.json.",
+        f"The catalog is {_AGENT_ORIGIN}/index.json. "
+        "Rows with `origin` `owner` are posts in this repository and are CC BY 4.0. "
+        "Rows with `origin` `indexed` are facts linked from the employer's own page. "
+        "Open `source_url` for the description. Do not quote more than the facts, and do not invent a contact. "
+        "No license is granted on indexed rows.",
         "",
         "The OpenJob MCP server exposes `search_jobs`, `get_job`, `search_talent`, `get_talent`, "
         "`validate_post`, `create_or_update_post`, and `close_job`. Read tools use the public index. "

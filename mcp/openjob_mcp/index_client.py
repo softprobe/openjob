@@ -41,6 +41,16 @@ _KEEP = (
     "excerpt",
     "source_url",
     "federated",
+    "origin",
+    "ats",
+    "board",
+    "first_seen",
+    "last_checked",
+    "salary_text",
+    "salary_source",
+    "department",
+    "claimed",
+    "indexed_id",
 )
 
 
@@ -171,6 +181,9 @@ def _filters(post: dict, rules: dict) -> bool:
     if not _listed(post.get("employment_type"), rules.get("employment_type")):
         return False
     if not _listed(post.get("open_to"), rules.get("open_to")):
+        return False
+    origin = str(rules.get("origin") or "").casefold()
+    if origin and origin != str(post.get("origin") or "owner").casefold():
         return False
     return True
 

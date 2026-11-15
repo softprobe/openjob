@@ -36,6 +36,7 @@ def main(argv: list[str] | None = None) -> int:
     index.add_argument("--root", type=Path, default=Path("."))
     index.add_argument("--out", type=Path, required=True)
     index.add_argument("--pages", type=Path, help="site directory that receives p/<path>/index.html")
+    index.add_argument("--index-data", type=Path, help="directory of the index-data branch")
     index.add_argument("--today")
 
     expire = sub.add_parser("expire", help="list or delete expired posts")
@@ -104,7 +105,7 @@ def _check_tree(args: argparse.Namespace) -> int:
 
 
 def _build_index(args: argparse.Namespace) -> int:
-    document = build_index(args.root, today=_today(args.today))
+    document = build_index(args.root, today=_today(args.today), index_data=args.index_data)
     args.out.parent.mkdir(parents=True, exist_ok=True)
     args.out.write_text(json.dumps(document, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     print(f"Wrote {len(document['posts'])} posts to {args.out}")

@@ -45,7 +45,7 @@ def main(argv: list[str] | None = None) -> int:
     args = parser.parse_args(argv)
     filters = {
         key: getattr(args, key)
-        for key in ("location", "remote", "language", "tag", "employment_type", "open_to")
+        for key in ("location", "remote", "language", "tag", "employment_type", "open_to", "origin")
         if getattr(args, key, None)
     }
     if args.command == "search-jobs":
@@ -78,6 +78,7 @@ def _filter_args(parser: argparse.ArgumentParser) -> None:
     parser.add_argument("--tag")
     parser.add_argument("--employment-type", dest="employment_type")
     parser.add_argument("--open-to", dest="open_to")
+    parser.add_argument("--origin", choices=("owner", "indexed"))
 
 
 if __name__ == "__main__":

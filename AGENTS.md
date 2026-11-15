@@ -62,7 +62,12 @@ Each object in `posts` has:
 | `url`, `website`, `linkedin`, `profile_url` | Contact links. A talent post has no email |
 | `logo`, `careers`, `org_website`, `company_permalink` | Company presentation |
 | `excerpt` | Short body text |
-| `source_url`, `federated` | Set when the profile lives in another repository |
+| `source_url`, `federated` | For an owner post, the file in this repository, or the federated profile. For an indexed job, the employer's own page |
+| `origin` | `owner` for a post in this repository. `indexed` for a fact linked from the employer's board |
+| `ats`, `board`, `first_seen`, `last_checked` | Where an indexed job came from, and when it was first and last seen |
+| `salary_text`, `salary_source`, `department`, `claimed`, `indexed_id` | Facts the feed provided, and whether the company page has owners |
+
+`indexed_notice` on the catalog says that CC BY 4.0 covers owner posts only. Indexed rows are not licensed. Open `source_url` for the description. Do not quote more than the facts, and do not invent a contact.
 
 Filter on `kind`, `tags`, `location`, `remote`, `languages`, `open_to`, and `employment_type`. Read a post at its permalink and at `index.md` beside that page.
 
