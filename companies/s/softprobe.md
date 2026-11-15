@@ -10,6 +10,7 @@ languages: [en]
 tags: [ai-agents, observability, arex]
 posted: 2026-11-13
 posted_by: zwobill
+owners: [lcunsp, zwobill]
 ---
 
 Softprobe is the team behind AREX (https://github.com/arextest), an open-source automated record/replay regression testing platform.
