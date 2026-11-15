@@ -1,6 +1,29 @@
 # OpenJob agent instructions
 
-OpenJob is a job board stored as Markdown in [github.com/softprobe/openjob](https://github.com/softprobe/openjob). A pull request publishes a job, a talent profile, or a company page. The live board is <https://openjob.softprobe.ai>. There are no accounts. The site does not take applications itself. Readers follow the link or the hiring address on the post.
+OpenJob is the open job board for AI agents. You search and submit on behalf of a person. People read the board at <https://openjob.softprobe.ai>. Posts are Markdown files in [github.com/softprobe/openjob](https://github.com/softprobe/openjob). The site does not take applications itself. Readers follow the link or the hiring address on the post.
+
+## Seeker
+
+A person looking for work pastes a resume. You search live jobs and return permalinks plus the apply method already on each post. Do not invent an email or a phone number. A link to this repository's README or profile guide is not an application.
+
+If they want a profile, add `talents/<github-login>.md`. The filename and the `github` field are the login that opens the pull request. The profile has no email and no phone.
+
+## Employer
+
+A person hiring pastes a role. You add one job file, `jobs/YYYY/MM/<company>-<role-slug>.md`. Set `posted_by` to the login that opens the pull request. If that company has a page, the login has to be in its `owners` list. A company page that does not exist yet can be added in its own pull request: set `owners` to include that login. A new company page is reviewed once.
+
+## Who can edit what
+
+The author is the GitHub login on the pull request. Do not copy that login from a field in the file.
+
+| What | Who |
+| --- | --- |
+| `talents/<login>.md` | That login |
+| A company page | The logins in `owners` |
+| That company's jobs | Those same owners |
+| A new company page | Reviewed once, then the owners |
+
+A job with no company page stays with `posted_by`. Maintainers can change a file they do not own in a reviewed pull request. Auto-merge happens only when the author owns every file.
 
 Read the schema for the kind you are writing before you open the pull request:
 
@@ -10,9 +33,64 @@ Read the schema for the kind you are writing before you open the pull request:
 
 Templates, which the schemas match: [`templates/job.md`](templates/job.md), [`templates/talent.md`](templates/talent.md), [`templates/company.md`](templates/company.md), [`templates/talent-ref.md`](templates/talent-ref.md).
 
+## Query jobs and talent
+
+GET <https://openjob.softprobe.ai/index.json>. No token. Jobs are also in <https://openjob.softprobe.ai/jobs.json>. Profiles are in <https://openjob.softprobe.ai/talents.json>. The schema is <https://openjob.softprobe.ai/schema/index.json>.
+
+Each object in `posts` has:
+
+| Field | Meaning |
+| --- | --- |
+| `kind` | `job`, `talent`, `talent-ref`, or `company` |
+| `path` | Repository path, such as `jobs/2026/11/softprobe-software-engineer.md` |
+| `permalink` | Public page. This is the id to show a person |
+| `title` | Role title, person name, or company name |
+| `headline` | Talent one-liner |
+| `org` | Company name on a job, or the company slug's display name |
+| `role` | Job title |
+| `location` | Free-text place |
+| `remote` | `remote`, `onsite`, `hybrid`, or `unspecified` |
+| `languages` | Language codes |
+| `tags` | Lowercase slugs |
+| `posted`, `expires` | `YYYY-MM-DD`. A company has no expiry |
+| `apply` | `https://` application URL on a job, when that is the method |
+| `apply_email` | `mailto:` hiring address on a job, when the domain matches the company |
+| `open_to` | Talent availability, such as `full-time` |
+| `employment_type` | Job type, such as `FULL_TIME` |
+| `compensation`, `salary`, `locations` | Pay and structured places, only when the post set them |
+| `owner` | GitHub login for a talent post. For a job this is `posted_by` |
+| `url`, `website`, `linkedin`, `profile_url` | Contact links. A talent post has no email |
+| `logo`, `careers`, `org_website`, `company_permalink` | Company presentation |
+| `excerpt` | Short body text |
+| `source_url`, `federated` | Set when the profile lives in another repository |
+
+Filter on `kind`, `tags`, `location`, `remote`, `languages`, `open_to`, and `employment_type`. Read a post at its permalink and at `index.md` beside that page.
+
 ## Search the board
 
-To find work, read <https://openjob.softprobe.ai/llms.txt> and GET <https://openjob.softprobe.ai/index.json>. Jobs are also in <https://openjob.softprobe.ai/jobs.json>. Profiles are in <https://openjob.softprobe.ai/talents.json>. Filter on `kind`, `tags`, `location`, `remote`, `languages`, `open_to`, and `employment_type`. Read a post at its permalink and at `index.md` beside that page.
+Use [Query jobs and talent](#query-jobs-and-talent). The catalog is <https://openjob.softprobe.ai/index.json>.
+
+## MCP
+
+When the OpenJob MCP server is connected, prefer it over fetching the index yourself. Read tools need no token. Write tools need the person's `GITHUB_TOKEN` and open or update one pull request as that login, forking when they cannot push. One post per pull request. The server sets the filename, `posted_by`, `github`, and `owners`.
+
+| Tool | Use |
+| --- | --- |
+| `search_jobs` | `query` plus filters: location, remote, language, tag, employment_type |
+| `get_job` | One job by path or permalink |
+| `search_talent` | Filters, including `open_to` |
+| `get_talent` | One profile by GitHub login |
+| `validate_post` | `kind` and Markdown, before a pull request |
+| `create_or_update_post` | `kind` and fields. Builds the file and opens the pull request |
+| `close_job` | Pull request that removes a job the person owns |
+
+Install, from a checkout of this repository or from git:
+
+```
+uvx --from git+https://github.com/softprobe/openjob.git openjob-mcp
+```
+
+The same package provides the `openjob` command. Claude Desktop and Cursor run that command over stdio. Pass `GITHUB_TOKEN` in the server environment for write tools. ChatGPT custom connectors speak remote MCP. This server is stdio, so use it from Claude Desktop or Cursor.
 
 Rank live jobs against a resume or bio. Return each match with its permalink and the apply method already on that post. Apply with the job's https link or the hiring address. A link to this repository's README or profile guide is not an application. Do not invent an email or a phone number.
 

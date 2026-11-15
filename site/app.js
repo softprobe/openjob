@@ -544,12 +544,6 @@ function safeLink(url, text) {
   return link;
 }
 
-const AGENT_NEW = {
-  job: "https://github.com/softprobe/openjob/new/main/jobs",
-  talent: "https://github.com/softprobe/openjob/new/main/talents",
-  company: "https://github.com/softprobe/openjob/new/main/companies",
-};
-
 let agentKind = "find";
 let audienceChoice = "";
 let agentTouched = false;
@@ -582,47 +576,19 @@ function agentPrompt(kind) {
 }
 
 function paintAgent() {
-  const copy = t();
-  const prompt = document.querySelector("#agent-prompt");
-  const link = document.querySelector("#agent-new-link");
-  const finding = agentKind === "find";
-  if (prompt) prompt.textContent = agentPrompt(agentKind);
-  if (link) link.href = AGENT_NEW[agentKind] || AGENT_NEW.talent;
-  document.querySelectorAll("[data-agent]").forEach((button) => {
-    button.setAttribute("aria-pressed", button.dataset.agent === agentKind ? "true" : "false");
-  });
-  document.querySelectorAll("[data-agent-find]").forEach((node) => {
-    node.hidden = !finding;
-  });
-  document.querySelectorAll("[data-agent-create]").forEach((node) => {
-    node.hidden = finding;
-  });
-  const fallback = document.querySelector("[data-agent-find].agent-fallback");
-  if (fallback) fallback.textContent = copy.agentFindFallback;
-  const createFallback = document.querySelector("[data-agent-create].agent-fallback");
-  if (createFallback) createFallback.textContent = copy.agentFallback;
-  document.querySelectorAll("[data-audience]").forEach((button) => {
-    button.setAttribute("aria-pressed", button.dataset.audience === audienceChoice ? "true" : "false");
+  document.querySelectorAll("[data-prompt]").forEach((node) => {
+    node.textContent = agentPrompt(node.dataset.prompt || "find");
   });
 }
 
 function bindAgent() {
-  const root = document.querySelector("#agent");
-  if (!root) return;
-  root.querySelectorAll("[data-agent]").forEach((button) => {
+  document.querySelectorAll("[data-copy-prompt]").forEach((button) => {
     button.addEventListener("click", () => {
-      agentTouched = true;
-      agentKind = button.dataset.agent || "find";
-      paintAgent();
+      const node = document.getElementById(button.dataset.copyPrompt);
+      if (!node) return;
+      copyAddress(button, node.textContent, t().agentCopied);
     });
   });
-  const copyButton = document.querySelector("#agent-copy");
-  const prompt = document.querySelector("#agent-prompt");
-  if (copyButton && prompt) {
-    copyButton.addEventListener("click", () => {
-      copyAddress(copyButton, prompt.textContent, t().agentCopied);
-    });
-  }
   paintAgent();
 }
 

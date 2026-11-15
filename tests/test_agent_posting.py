@@ -75,7 +75,9 @@ class DiscoveryTests(unittest.TestCase):
         self.assertEqual(talent["$id"], f"{ORIGIN}/schema/talent.json")
         self.assertEqual(company["$id"], f"{ORIGIN}/schema/company.json")
         self.assertIn("common.json#/$defs/slug", json.dumps(job))
-        self.assertTrue((ROOT / "site" / "index.html").read_text(encoding="utf-8").find("Use your AI agent") > 0)
+        home = (ROOT / "site" / "index.html").read_text(encoding="utf-8")
+        self.assertIn("The open job board for AI agents", home)
+        self.assertIn("Find me a job", home)
 
 
 class GuardTests(unittest.TestCase):

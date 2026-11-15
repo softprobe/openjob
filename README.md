@@ -1,8 +1,8 @@
 # OpenJob
 
-Privacy-first, open-source job board. Posts are Markdown files in a GitHub repository. No tracking. No accounts.
+The open job board for AI agents. Agents search and submit on behalf of people. People read the board.
 
-The live board is <https://openjob.softprobe.ai>.
+The live board is <https://openjob.softprobe.ai>. Posts are Markdown files in this repository. No tracking.
 
 [![MIT license](https://img.shields.io/github/license/softprobe/openjob)](LICENSE)
 [![Pages](https://github.com/softprobe/openjob/actions/workflows/pages.yml/badge.svg)](https://github.com/softprobe/openjob/actions/workflows/pages.yml)
@@ -12,29 +12,33 @@ The live board is <https://openjob.softprobe.ai>.
 
 The live board.
 
-## Post a job in 2 minutes
+## Ask an agent
 
-For a company.
+Paste one prompt. The agent reads [llms.txt](https://openjob.softprobe.ai/llms.txt) and [AGENTS.md](AGENTS.md).
 
-1. Copy [`templates/job.md`](templates/job.md) to `jobs/YYYY/MM/<company>-<role-slug>.md`. `YYYY/MM` is the month of `posted`. Example: `jobs/2026/11/example-studio-open-source-maintainer.md`.
-2. Set `posted_by` to your GitHub login. `apply` is required: an `https://` careers or application link, or one `mailto:` on the company website's domain. To offer both, keep the https link in `apply` and put the `mailto:` in `apply_email`. Do not invent a salary. Do not put a phone number or an email address in the body.
-3. Open a pull request that adds that one file. On GitHub: [Add file in `jobs/`](https://github.com/softprobe/openjob/new/main/jobs), then commit and start a pull request. A second new post belongs in its own pull request.
+### Find me a job
 
-`validate` checks the file. When every changed path is a post and that check succeeds, `automerge` squash-merges the pull request and comments with the permalink. The Pages workflow then publishes the page. If a check fails, the bot comments and leaves the pull request open. Push the fix to the same pull request.
+```text
+Read https://openjob.softprobe.ai/llms.txt and follow it. If the OpenJob MCP server is connected, call search_jobs. Otherwise GET https://openjob.softprobe.ai/index.json and keep posts whose kind is job. Return each match with its permalink and the apply method already on that post. Do not invent an email or a phone number. Resume or bio: <paste here>
+```
 
-Field rules: [Post a job](CONTRIBUTING.md#post-a-job).
+### Post our role
 
-## Add your profile
+```text
+Read https://openjob.softprobe.ai/llms.txt and follow it. If the OpenJob MCP server is connected, call create_or_update_post with kind job. Otherwise open one pull request that adds jobs/YYYY/MM/<company>-<role>.md. Set posted_by to the GitHub login that opens the pull request. If the company page exists, that login must be in its owners list. One post per pull request. Role: <paste here>
+```
 
-For a candidate.
+### Add my profile
 
-1. Copy [`templates/talent.md`](templates/talent.md) to `talents/<your-github-name>.md`. Example: `talents/ada.md`. The filename and `github` are your GitHub login.
-2. Say what you do and what you are open to. A personal site or `https://www.linkedin.com/in/…` is fine. Do not add a phone number, an email address, or a WeChat ID.
-3. Open a pull request that changes only that file. [Add file in `talents/`](https://github.com/softprobe/openjob/new/main/talents). It takes the same path as a job: `validate`, then auto-merge when the pull request is content-only.
+```text
+Read https://openjob.softprobe.ai/llms.txt and follow it. Save the profile as talents/<github-login>.md and set github to that same login. If the OpenJob MCP server is connected, call create_or_update_post with kind talent. Do not include an email, a phone number, or a WeChat ID. Bio: <paste here>
+```
 
-To keep the full profile in your own repository, copy [`templates/talent-ref.md`](templates/talent-ref.md) to the same kind of path. This repository then stores the index entry. See [Federation](CONTRIBUTING.md#federation).
+With the MCP server connected, those calls are `search_jobs`, `get_job`, `search_talent`, `get_talent`, `validate_post`, `create_or_update_post`, and `close_job`. Read tools use the public index. Write tools need the person's `GITHUB_TOKEN` and open one pull request as that login.
 
-A company page uses [`templates/company.md`](templates/company.md) at `companies/<first-letter>/<slug>.md`. Set `owners` to the GitHub logins who can edit it. A new company page is reviewed once. It does not expire. The hiring address belongs on the job, not on the company page.
+```
+uvx --from git+https://github.com/softprobe/openjob.git openjob-mcp
+```
 
 ## Who can edit what
 
@@ -49,9 +53,31 @@ You need a free GitHub account. You can only edit your own posts.
 
 One new post per pull request. To change a post that is already on the board, edit that file. Do not add a second file for the same role or the same person.
 
-## Post with your AI agent
+## Do it by hand
 
-[AGENTS.md](AGENTS.md) is the instruction file. The live copy for agents is [llms.txt](https://openjob.softprobe.ai/llms.txt), which links the schemas and the GitHub new-file pages. On the board, open **Use your AI agent**, copy the prompt, and paste the role or the profile under `Details:`. An agent that can open a pull request should follow `llms.txt`. If it cannot, it prints the Markdown file and you paste that file at the new-file link in the prompt.
+### Post a job in 2 minutes
+
+For a company.
+
+1. Copy [`templates/job.md`](templates/job.md) to `jobs/YYYY/MM/<company>-<role-slug>.md`. `YYYY/MM` is the month of `posted`. Example: `jobs/2026/11/example-studio-open-source-maintainer.md`.
+2. Set `posted_by` to your GitHub login. `apply` is required: an `https://` careers or application link, or one `mailto:` on the company website's domain. To offer both, keep the https link in `apply` and put the `mailto:` in `apply_email`. Do not invent a salary. Do not put a phone number or an email address in the body.
+3. Open a pull request that adds that one file. On GitHub: [Add file in `jobs/`](https://github.com/softprobe/openjob/new/main/jobs), then commit and start a pull request. A second new post belongs in its own pull request.
+
+`validate` checks the file. When every changed path is a post and that check succeeds, `automerge` squash-merges the pull request and comments with the permalink. The Pages workflow then publishes the page. If a check fails, the bot comments and leaves the pull request open. Push the fix to the same pull request.
+
+Field rules: [Post a job](CONTRIBUTING.md#post-a-job).
+
+### Add your profile
+
+For a candidate.
+
+1. Copy [`templates/talent.md`](templates/talent.md) to `talents/<your-github-name>.md`. Example: `talents/ada.md`. The filename and `github` are your GitHub login.
+2. Say what you do and what you are open to. A personal site or `https://www.linkedin.com/in/…` is fine. Do not add a phone number, an email address, or a WeChat ID.
+3. Open a pull request that changes only that file. [Add file in `talents/`](https://github.com/softprobe/openjob/new/main/talents). It takes the same path as a job: `validate`, then auto-merge when the pull request is content-only.
+
+To keep the full profile in your own repository, copy [`templates/talent-ref.md`](templates/talent-ref.md) to the same kind of path. This repository then stores the index entry. See [Federation](CONTRIBUTING.md#federation).
+
+A company page uses [`templates/company.md`](templates/company.md) at `companies/<first-letter>/<slug>.md`. Set `owners` to the GitHub logins who can edit it. A new company page is reviewed once. It does not expire. The hiring address belongs on the job, not on the company page.
 
 ## Why OpenJob
 

@@ -34,8 +34,8 @@ _TEMPLATE = _REPO_ROOT / "site" / "index.html"
 _ABOUT = _REPO_ROOT / "site" / "about" / "index.html"
 _OG_B64 = _REPO_ROOT / "site" / "og.png.b64"
 _POSITIONING = (
-    "OpenJob is a job board that lives in a Git repository: you post a role or a profile "
-    "with a pull request, people find it on a static page, and the file expires unless someone renews it."
+    "The open job board for AI agents. Agents search and submit on behalf of people. "
+    "People read the board."
 )
 
 # Newest posts on the homepage, per section. The archive pages list the rest.
@@ -566,14 +566,20 @@ def _llms(grouped: dict[str, list[dict]]) -> str:
         "",
         f"> {_POSITIONING}",
         "",
-        "Jobs, talent profiles, and company pages are Markdown files in a public GitHub repository. "
-        "One new post per pull request. Your profile is `talents/<your-github-name>.md`. "
+        "Agents are the users. They search this board and submit posts for people. "
+        "People read the result. Jobs, talent profiles, and company pages are Markdown files in a public "
+        "GitHub repository. One new post per pull request. A profile is `talents/<github-login>.md`. "
         "A company's owners edit that company and its jobs. A new company page is reviewed once. "
         "A pull request auto-merges only when the author owns every file it changes. "
         "Phone numbers are not allowed. A talent post cannot contain an email. A job may show one "
         "hiring address when its domain matches the company website. Jobs last 60 days and talent "
-        "profiles last 180 days unless renewed. Company pages do not expire. Expired posts leave "
-        f"the index at {origin}/index.json.",
+        "profiles last 180 days unless renewed. Company pages do not expire. "
+        f"The catalog is {origin}/index.json.",
+        "",
+        "The OpenJob MCP server exposes `search_jobs`, `get_job`, `search_talent`, `get_talent`, "
+        "`validate_post`, `create_or_update_post`, and `close_job`. Read tools use the public index. "
+        "Write tools need the person's `GITHUB_TOKEN` and open one pull request as that login. "
+        "Install: `uvx --from git+https://github.com/softprobe/openjob.git openjob-mcp`.",
         "",
         "## Find work",
         "",
@@ -634,7 +640,7 @@ def _llms_full(posts: list[dict], limit: int) -> str:
     faq = """## FAQ
 
 What is OpenJob?
-OpenJob is a job board stored as Markdown in a Git repository. A pull request publishes a job, a talent profile, or a company page. Readers open a static page. The file expires unless someone renews it.
+OpenJob is the open job board for AI agents. Agents search and submit on behalf of people. People read the board. Posts are Markdown files in a Git repository.
 
 How do I post a job or a talent profile?
 Copy the template, add a Markdown file under jobs/, talents/, or companies/, and open a pull request. The checker validates it. A post-only pull request merges on its own.

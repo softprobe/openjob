@@ -15,8 +15,13 @@ else, including an empty list, stays English.
 
   var STRINGS = {
     en: {
-      kicker: "GitHub-native classifieds",
-      deck: "Jobs and talent profiles, published as pull requests. No accounts. No phone numbers.",
+      kicker: "OpenJob",
+      hero: "The open job board for AI agents",
+      deck: "Agents search and submit on behalf of people. People read the board.",
+      findMe: "Find me a job",
+      postRole: "Post our role",
+      addMine: "Add my profile",
+      byHand: "Do it by hand",
       tabs: { all: "All", job: "Jobs", talent: "Talent", company: "Companies" },
       kind: { job: "Job", talent: "Talent", company: "Company" },
       q: "Role, skill, or keyword",
@@ -63,16 +68,14 @@ else, including an empty list, stays English.
       agentNew: "Create the file on GitHub",
       agentPrompt: {
         find: function (origin) {
-          return "Read " + origin + "llms.txt and follow it. GET " + origin +
-            "index.json (jobs are also in " + origin +
-            "jobs.json). Rank the live jobs against the resume or bio below. Return each match with its permalink and the apply method already on that post. Do not invent an email or a phone number. Resume or bio: <paste here>";
+          return "Read " + origin + "llms.txt and follow it. If the OpenJob MCP server is connected, call search_jobs. Otherwise GET " + origin +
+            "index.json and keep posts whose kind is job. Return each match with its permalink and the apply method already on that post. Do not invent an email or a phone number. Resume or bio: <paste here>";
         },
         talent: function (origin) {
-          return "Read " + origin + "llms.txt and follow it. Turn the resume or bio below into an OpenJob talent profile. Save it as talents/<github-login>.md, using the login of the account that opens the pull request. Open one pull request to github.com/softprobe/openjob. Use " + origin +
-            "schema/talent.json. Do not add an email or a phone number. Resume or bio: <paste here>";
+          return "Read " + origin + "llms.txt and follow it. Save the profile as talents/<github-login>.md and set github to that same login. If the OpenJob MCP server is connected, call create_or_update_post with kind talent. Do not include an email, a phone number, or a WeChat ID. Bio: <paste here>";
         },
         job: function (origin) {
-          return "Read " + origin + "llms.txt and follow it. Turn the details below into an OpenJob job post. Set company to the company slug and posted_by to the account that opens the pull request. Only that company's owners can post it. If the company has no page yet, posted_by is the only editor. Open one pull request to github.com/softprobe/openjob. Details: <paste here>";
+          return "Read " + origin + "llms.txt and follow it. If the OpenJob MCP server is connected, call create_or_update_post with kind job. Otherwise open one pull request that adds jobs/YYYY/MM/<company>-<role>.md. Set posted_by to the GitHub login that opens the pull request. If the company page exists, that login must be in its owners list. One post per pull request. Role: <paste here>";
         },
         company: function (origin) {
           return "Read " + origin + "llms.txt and follow it. Turn the details below into an OpenJob company page. Set owners to GitHub logins that include the account opening the pull request, and posted_by to that same login. A new company page is reviewed once. Open one pull request to github.com/softprobe/openjob. Details: <paste here>";
@@ -131,7 +134,7 @@ else, including an empty list, stays English.
       notFoundBody: "That page is not on the board. It may have expired, or the address may be wrong.",
       back: "Back to the board",
       aboutWhat: "What is OpenJob?",
-      aboutWhatBody: "OpenJob is a job board that lives in a Git repository: you post a role or a profile with a pull request, people find it on a static page, and the file expires unless someone renews it.",
+      aboutWhatBody: "The open job board for AI agents. Agents search and submit on behalf of people. People read the board.",
       aboutPost: "How do I post a job or a talent profile?",
       aboutApply: "How do I apply?",
       aboutApplyBody: "The job page shows the method. That is an email on the company domain, an https link, or both. A link to this board's profile guide is not an application.",
@@ -146,8 +149,13 @@ else, including an empty list, stays English.
       aboutWho: "Who maintains this?",
     },
     zh: {
-      kicker: "用 Pull Request 发布的分类信息",
-      deck: "职位和人才档案都通过 Pull Request 发布。没有账号系统，也不收集电话。",
+      kicker: "OpenJob",
+      hero: "面向 AI 代理的开放职位板",
+      deck: "代理替人搜索和提交。人来读这块板。",
+      findMe: "帮我找工作",
+      postRole: "发布我们的职位",
+      addMine: "添加我的档案",
+      byHand: "自己动手",
       tabs: { all: "全部", job: "职位", talent: "人才", company: "公司" },
       kind: { job: "职位", talent: "人才", company: "公司" },
       q: "职位、技能或关键词",
@@ -194,16 +202,14 @@ else, including an empty list, stays English.
       agentNew: "在 GitHub 上新建文件",
       agentPrompt: {
         find: function (origin) {
-          return "阅读 " + origin + "llms.txt 并按它执行。GET " + origin +
-            "index.json（职位也在 " + origin +
-            "jobs.json）。根据下面的简历或简介，给正在招的职位排序。每条写出永久链接，以及帖子上已有的申请方式。不要编造邮箱或电话。简历或简介：<粘贴在这里>";
+          return "阅读 " + origin + "llms.txt 并按它执行。如果已连接 OpenJob MCP，调用 search_jobs。否则 GET " + origin +
+            "index.json，只保留 kind 为 job 的帖子。每条写出永久链接，以及帖子上已有的申请方式。不要编造邮箱或电话。简历或简介：<粘贴在这里>";
         },
         talent: function (origin) {
-          return "阅读 " + origin + "llms.txt 并按它执行。把下面的简历或简介写成 OpenJob 人才档案。文件名是开 Pull Request 的 GitHub 登录名，路径为 talents/<github-login>.md。向 github.com/softprobe/openjob 开一个 Pull Request。使用 " + origin +
-            "schema/talent.json。不要写邮箱或电话。简历或简介：<粘贴在这里>";
+          return "阅读 " + origin + "llms.txt 并按它执行。档案保存为 talents/<github-login>.md，github 填同一个登录名。如果已连接 OpenJob MCP，用 kind talent 调用 create_or_update_post。不要写邮箱、电话或微信号。简介：<粘贴在这里>";
         },
         job: function (origin) {
-          return "阅读 " + origin + "llms.txt 并按它执行。把下面的内容写成 OpenJob 职位帖。company 填公司 slug，posted_by 填开 Pull Request 的登录名。只有该公司的 owners 能发布。公司还没有页面时，只有 posted_by 能改。向 github.com/softprobe/openjob 开一个 Pull Request。内容：<粘贴在这里>";
+          return "阅读 " + origin + "llms.txt 并按它执行。如果已连接 OpenJob MCP，用 kind job 调用 create_or_update_post。否则开一个 Pull Request，只添加 jobs/YYYY/MM/<company>-<role>.md。posted_by 填开这个 Pull Request 的 GitHub 登录名。公司页已存在时，这个登录名必须在 owners 里。一个 Pull Request 只放一篇帖子。职位：<粘贴在这里>";
         },
         company: function (origin) {
           return "阅读 " + origin + "llms.txt 并按它执行。把下面的内容写成 OpenJob 公司页。owners 要包含开 Pull Request 的登录名，posted_by 也填这个登录名。新公司页会先审核一次。向 github.com/softprobe/openjob 开一个 Pull Request。内容：<粘贴在这里>";
@@ -262,7 +268,7 @@ else, including an empty list, stays English.
       notFoundBody: "这个页面不在看板上。它可能已经到期，或者地址不对。",
       back: "返回看板",
       aboutWhat: "OpenJob 是什么？",
-      aboutWhatBody: "OpenJob 是放在 Git 仓库里的招聘板：用 Pull Request 发布职位或人才档案，读者打开一个静态页面，文件到期后会被删除，除非有人续期。",
+      aboutWhatBody: "面向 AI 代理的开放职位板。代理替人搜索和提交。人来读这块板。",
       aboutPost: "如何发布职位或人才档案？",
       aboutPostBody: "把模板复制到 <code>jobs/</code>、<code>talents/</code> 或 <code>companies/</code>，然后开 Pull Request。只改帖子的请求会在检查通过后自动合并。",
       aboutApply: "如何申请？",
