@@ -53,22 +53,39 @@
       </div>
     </header>
 
-    <section class="prompts" id="prompts" aria-label="Ask an agent">
-      <article class="prompt">
-        <h2 data-i18n="findMe">Find me a job</h2>
-        <pre id="prompt-find" data-prompt="find">Read https://openjob.softprobe.ai/llms.txt and follow it. If the OpenJob MCP server is connected, call search_jobs. Otherwise GET https://openjob.softprobe.ai/index.json and keep posts whose kind is job. Return each match with its permalink and the apply method already on that post. Do not invent an email or a phone number. Resume or bio: &lt;paste here&gt;</pre>
-        <p class="agent-actions"><button type="button" class="text-button" data-copy-prompt="prompt-find" data-i18n="agentCopy">Copy prompt</button></p>
-      </article>
-      <article class="prompt">
-        <h2 data-i18n="postRole">Post our role</h2>
-        <pre id="prompt-job" data-prompt="job">Read https://softprobe.github.io/openjob/llms.txt and follow it. If the OpenJob MCP server is connected, call create_or_update_post with kind job. Otherwise open one pull request that adds jobs/YYYY/MM/&lt;company&gt;-&lt;role&gt;.md. Set posted_by to the GitHub login that opens the pull request. If the company page exists, that login must be in its owners list. One post per pull request. Role: &lt;paste here&gt;</pre>
-        <p class="agent-actions"><button type="button" class="text-button" data-copy-prompt="prompt-job" data-i18n="agentCopy">Copy prompt</button></p>
-      </article>
-      <article class="prompt">
-        <h2 data-i18n="addMine">Add my profile</h2>
-        <pre id="prompt-talent" data-prompt="talent">Read https://softprobe.github.io/openjob/llms.txt and follow it. Save the profile as talents/&lt;github-login&gt;.md and set github to that same login. If the OpenJob MCP server is connected, call create_or_update_post with kind talent. Do not include an email, a phone number, or a WeChat ID. Bio: &lt;paste here&gt;</pre>
-        <p class="agent-actions"><button type="button" class="text-button" data-copy-prompt="prompt-talent" data-i18n="agentCopy">Copy prompt</button></p>
-      </article>
+    <section class="prompts" id="prompts" aria-label="Choose your goal">
+      <div class="audience" role="tablist" aria-label="Who are you?" data-i18n-attrs="aria-label:audienceLabel">
+        <button type="button" id="looking-tab" role="tab" aria-selected="true" aria-controls="looking-panel" tabindex="0" data-audience="looking" data-i18n="looking">I am looking for a job</button>
+        <button type="button" id="hiring-tab" role="tab" aria-selected="false" aria-controls="hiring-panel" tabindex="-1" data-audience="hiring" data-i18n="hiring">I am hiring</button>
+      </div>
+      <div class="audience-panel" id="looking-panel" role="tabpanel" aria-labelledby="looking-tab" data-audience-panel="looking">
+        <div class="prompt-grid">
+          <article class="prompt">
+            <h2 data-i18n="findMe">Find me a job</h2>
+            <pre id="prompt-find" data-prompt="find">Read https://openjob.softprobe.ai/llms.txt and follow it. If the OpenJob MCP server is connected, call search_jobs. Otherwise GET https://openjob.softprobe.ai/index.json and keep posts whose kind is job. Return each match with its permalink and the apply method already on that post. Do not invent an email or a phone number. Resume or bio: &lt;paste here&gt;</pre>
+            <p class="agent-actions"><button type="button" class="text-button" data-copy-prompt="prompt-find" data-i18n="agentCopy">Copy prompt</button></p>
+          </article>
+          <article class="prompt">
+            <h2 data-i18n="addMine">Let the right job find me</h2>
+            <pre id="prompt-talent" data-prompt="talent">Read https://softprobe.github.io/openjob/llms.txt and follow it. Save the profile as talents/&lt;github-login&gt;.md and set github to that same login. If the OpenJob MCP server is connected, call create_or_update_post with kind talent. Do not include an email, a phone number, or a WeChat ID. Bio: &lt;paste here&gt;</pre>
+            <p class="agent-actions"><button type="button" class="text-button" data-copy-prompt="prompt-talent" data-i18n="agentCopy">Copy prompt</button></p>
+          </article>
+        </div>
+      </div>
+      <div class="audience-panel" id="hiring-panel" role="tabpanel" aria-labelledby="hiring-tab" data-audience-panel="hiring" hidden>
+        <div class="prompt-grid">
+          <article class="prompt">
+            <h2 data-i18n="postRole">Post our role</h2>
+            <pre id="prompt-job" data-prompt="job">Read https://softprobe.github.io/openjob/llms.txt and follow it. If the OpenJob MCP server is connected, call create_or_update_post with kind job. Otherwise open one pull request that adds jobs/YYYY/MM/&lt;company&gt;-&lt;role&gt;.md. Set posted_by to the GitHub login that opens the pull request. If the company page exists, that login must be in its owners list. One post per pull request. Role: &lt;paste here&gt;</pre>
+            <p class="agent-actions"><button type="button" class="text-button" data-copy-prompt="prompt-job" data-i18n="agentCopy">Copy prompt</button></p>
+          </article>
+          <article class="prompt">
+            <h2 data-i18n="findTalents">Search Talents</h2>
+            <pre id="prompt-talent-search" data-prompt="talentSearch">Read https://openjob.softprobe.ai/llms.txt and follow it. If the OpenJob MCP server is connected, call search_talent. Otherwise GET https://openjob.softprobe.ai/index.json and keep posts whose kind is talent or talent-ref. Match profiles to this role and return each match with its permalink and the contact links already on the profile. Do not invent an email or phone number. Role: &lt;paste here&gt;</pre>
+            <p class="agent-actions"><button type="button" class="text-button" data-copy-prompt="prompt-talent-search" data-i18n="agentCopy">Copy prompt</button></p>
+          </article>
+        </div>
+      </div>
       <p class="by-hand"><a data-i18n="byHand" href="https://github.com/softprobe/openjob#do-it-by-hand">Do it by hand</a></p>
       <p class="sub" data-i18n="githubAccount">You need a free GitHub account. You can only edit your own posts.</p>
     </section>
@@ -108,6 +125,7 @@
       </div>
     </form>
 
+    <p id="job-total" class="job-total" aria-live="polite"></p>
     <p id="count" class="count" aria-live="polite"></p>
     <div id="results">
       <!-- openjob:posts -->

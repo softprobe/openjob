@@ -9,6 +9,12 @@ const state = {
   origin: "all",
 };
 
+const PAGE_SIZE = 200;
+let visibleLimit = PAGE_SIZE;
+let matchingPosts = [];
+let renderedMatchCount = 0;
+let renderedPaths = new Set();
+
 const els = {
   kicker: document.querySelector("#kicker"),
   deck: document.querySelector("#deck"),
@@ -19,6 +25,7 @@ const els = {
   language: document.querySelector("#language"),
   tag: document.querySelector("#tag"),
   origin: document.querySelector("#origin"),
+  jobTotal: document.querySelector("#job-total"),
   count: document.querySelector("#count"),
   results: document.querySelector("#results"),
   footer: document.querySelector("#footer-note"),
@@ -204,6 +211,7 @@ function emptyState() {
 
 function paint(options = {}) {
   if (loadError) {
+    els.jobTotal.textContent = "";
     els.count.textContent = "";
     if (!document.getElementById("post-list")) {
       els.results.replaceChildren();
@@ -215,26 +223,62 @@ function paint(options = {}) {
     return;
   }
   els.results.replaceChildren();
+  matchingPosts = posts.filter(matches).sort(ownerFirst);
+  const totalJobs = posts.filter((post) => post.kind === "job").length;
+  els.jobTotal.textContent = t().totalJobs(totalJobs);
+  renderedMatchCount = 0;
+  renderedPaths = new Set();
   const target = targetPath();
-  let visible = posts.filter(matches).sort(ownerFirst).slice(0, 200);
+  let visible = matchingPosts.slice(0, visibleLimit);
+  const pagePaths = new Set(visible.map((post) => post.path));
+  let pinnedOutsidePage = false;
   if (target) {
     const pinned = posts.find((post) => entryPath(post) === target);
-    if (pinned && !visible.some((post) => post.path === pinned.path)) {
-      visible = [pinned, ...visible].slice(0, 200);
+    if (pinned && !pagePaths.has(pinned.path)) {
+      visible = [pinned, ...visible].slice(0, visibleLimit);
+      pinnedOutsidePage = true;
     }
   }
-  els.count.textContent = t().count(visible.length, posts.length);
+  renderedMatchCount = pinnedOutsidePage
+    ? Math.min(Math.max(visibleLimit - 1, 0), matchingPosts.length)
+    : visible.length;
+  els.count.textContent = t().count(visible.length, matchingPosts.length);
   if (!visible.length) {
     els.results.appendChild(emptyState());
     return;
   }
   const list = document.createElement("div");
+  list.id = "post-list";
   visible.forEach((post) => list.appendChild(card(post, target)));
+  visible.forEach((post) => renderedPaths.add(post.path));
   els.results.appendChild(list);
+  appendLoadMoreButton(list);
   if (options.scroll && target) {
     const node = document.getElementById(target);
     if (node) node.scrollIntoView({ block: "start" });
   }
+}
+
+function appendLoadMoreButton(list) {
+  if (renderedMatchCount >= matchingPosts.length) return;
+  const button = document.createElement("button");
+  button.type = "button";
+  button.className = "load-more";
+  button.textContent = t().loadMore;
+  button.addEventListener("click", () => {
+    const batch = matchingPosts.slice(renderedMatchCount, renderedMatchCount + PAGE_SIZE);
+    batch.forEach((post) => {
+      if (!renderedPaths.has(post.path)) {
+        list.appendChild(card(post, targetPath()));
+        renderedPaths.add(post.path);
+      }
+    });
+    renderedMatchCount += batch.length;
+    visibleLimit += PAGE_SIZE;
+    els.count.textContent = t().count(list.childElementCount, matchingPosts.length);
+    if (renderedMatchCount >= matchingPosts.length) button.remove();
+  });
+  els.results.appendChild(button);
 }
 
 function ownerFirst(a, b) {
@@ -606,27 +650,11 @@ function safeLink(url, text) {
   return link;
 }
 
-let agentKind = "find";
-let audienceChoice = "";
-let agentTouched = false;
-
 function boardOrigin() {
   const canonical = document.querySelector('link[rel="canonical"]');
   const href = canonical && canonical.getAttribute("href");
   if (!href) return "https://softprobe.github.io/openjob/";
   return href.endsWith("/") ? href : `${href}/`;
-}
-
-function agentForFilter(kind) {
-  if (audienceChoice === "hiring") return "job";
-  if (audienceChoice === "looking") return "talent";
-  if (kind === "job") return "talent";
-  if (kind === "company") return "company";
-  if (kind === "talent") {
-    const anyTalent = posts.some((post) => post.kind === "talent" || post.kind === "talent-ref");
-    return anyTalent ? "job" : "talent";
-  }
-  return "find";
 }
 
 function agentPrompt(kind) {
@@ -655,16 +683,32 @@ function bindAgent() {
 }
 
 function bindAudience() {
-  document.querySelectorAll("[data-audience]").forEach((button) => {
+  const buttons = [...document.querySelectorAll("[data-audience]")];
+  const panels = [...document.querySelectorAll("[data-audience-panel]")];
+  const selectAudience = (name, focus = false) => {
+    buttons.forEach((button) => {
+      const selected = button.dataset.audience === name;
+      button.setAttribute("aria-selected", selected ? "true" : "false");
+      button.tabIndex = selected ? 0 : -1;
+      if (selected && focus) button.focus();
+    });
+    panels.forEach((panel) => {
+      panel.hidden = panel.dataset.audiencePanel !== name;
+    });
+  };
+  buttons.forEach((button, index) => {
     button.addEventListener("click", () => {
-      audienceChoice = button.dataset.audience === "hiring" ? "hiring" : "looking";
-      state.kind = audienceChoice === "hiring" ? "talent" : "job";
-      agentTouched = true;
-      agentKind = agentForFilter(state.kind);
-      const details = document.querySelector("#agent");
-      if (details) details.open = true;
-      writeQuery();
-      render();
+      selectAudience(button.dataset.audience);
+    });
+    button.addEventListener("keydown", (event) => {
+      let next = null;
+      if (event.key === "ArrowRight" || event.key === "ArrowDown") next = (index + 1) % buttons.length;
+      if (event.key === "ArrowLeft" || event.key === "ArrowUp") next = (index + buttons.length - 1) % buttons.length;
+      if (event.key === "Home") next = 0;
+      if (event.key === "End") next = buttons.length - 1;
+      if (next === null) return;
+      event.preventDefault();
+      selectAudience(buttons[next].dataset.audience, true);
     });
   });
 }
@@ -677,15 +721,14 @@ function bind() {
   });
   els.tabs.forEach((button) => {
     button.addEventListener("click", () => {
-      if (button.dataset.kind !== state.kind) audienceChoice = "";
       state.kind = button.dataset.kind;
-      agentTouched = true;
-      agentKind = agentForFilter(state.kind);
+      visibleLimit = PAGE_SIZE;
       writeQuery();
       render();
     });
   });
   const sync = () => {
+    visibleLimit = PAGE_SIZE;
     state.q = els.q.value.trim();
     state.location = els.location.value.trim();
     state.remote = els.remote.value;
@@ -725,7 +768,6 @@ async function main() {
   } catch (error) {
     loadError = true;
   }
-  if (!agentTouched) agentKind = agentForFilter(state.kind);
   render();
 }
 

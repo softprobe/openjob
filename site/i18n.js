@@ -20,7 +20,7 @@ else, including an empty list, stays English.
       deck: "Real jobs, linked to the employer's own page, checked daily. Free for everyone.",
       findMe: "Find me a job",
       postRole: "Post our role",
-      addMine: "Add my profile",
+      addMine: "Let the right job find me",
       byHand: "Do it by hand",
       tabs: { all: "All", job: "Jobs", talent: "Talent", company: "Companies" },
       kind: { job: "Job", talent: "Talent", company: "Company" },
@@ -45,7 +45,9 @@ else, including an empty list, stays English.
         PER_DIEM: "Per diem",
         OTHER: "Other",
       },
-      count: function (n, total) { return n + " shown of " + total; },
+      totalJobs: function (n) { return n.toLocaleString() + " open jobs indexed"; },
+      count: function (n, total) { return n.toLocaleString() + " shown · " + total.toLocaleString() + " results"; },
+      loadMore: "Load more",
       empty: "Nothing matches these filters.",
       emptyLead: {
         all: "No posts yet.",
@@ -55,9 +57,10 @@ else, including an empty list, stays English.
       },
       postJob: "Post a job",
       addProfile: "Add your profile",
-      looking: "I'm looking for work",
-      hiring: "I'm hiring",
-      audienceLabel: "Who you are",
+      looking: "I am looking for a job",
+      hiring: "I am hiring",
+      audienceLabel: "Choose an audience",
+      findTalents: "Search Talents",
       githubAccount: "You need a free GitHub account. You can only edit your own posts.",
       useAgent: "Use your AI agent",
       agentFind: "Find jobs",
@@ -73,6 +76,9 @@ else, including an empty list, stays English.
       agentPrompt: {
         find: function () {
           return "Read https://openjob.softprobe.ai/llms.txt and follow it. If the OpenJob MCP server is connected, call search_jobs. Otherwise GET https://openjob.softprobe.ai/index.json and keep posts whose kind is job. Return each match with its permalink and the apply method already on that post. Do not invent an email or a phone number. Resume or bio: <paste here>";
+        },
+        talentSearch: function () {
+          return "Read https://openjob.softprobe.ai/llms.txt and follow it. If the OpenJob MCP server is connected, call search_talent. Otherwise GET https://openjob.softprobe.ai/index.json and keep posts whose kind is talent or talent-ref. Match profiles to this role and return each match with its permalink and the contact links already on the profile. Do not invent an email or phone number. Role: <paste here>";
         },
         talent: function (origin) {
           return "Read " + origin + "llms.txt and follow it. Save the profile as talents/<github-login>.md and set github to that same login. If the OpenJob MCP server is connected, call create_or_update_post with kind talent. Do not include an email, a phone number, or a WeChat ID. Bio: <paste here>";
@@ -163,7 +169,7 @@ else, including an empty list, stays English.
       deck: "真实职位，链到雇主自己的页面，每天检查。对所有人免费。",
       findMe: "帮我找工作",
       postRole: "发布我们的职位",
-      addMine: "添加我的档案",
+      addMine: "让好工作找到我",
       byHand: "自己动手",
       tabs: { all: "全部", job: "职位", talent: "人才", company: "公司" },
       kind: { job: "职位", talent: "人才", company: "公司" },
@@ -188,7 +194,9 @@ else, including an empty list, stays English.
         PER_DIEM: "按日",
         OTHER: "其他",
       },
-      count: function (n, total) { return "显示 " + n + " / " + total; },
+      totalJobs: function (n) { return n.toLocaleString() + " 个在招职位已收录"; },
+      count: function (n, total) { return "显示 " + n.toLocaleString() + " / " + total.toLocaleString() + " 个结果"; },
+      loadMore: "加载更多",
       empty: "没有符合这些条件的帖子。",
       emptyLead: {
         all: "还没有帖子。",
@@ -200,7 +208,8 @@ else, including an empty list, stays English.
       addProfile: "添加档案",
       looking: "我在找工作",
       hiring: "我在招聘",
-      audienceLabel: "你是哪一方",
+      audienceLabel: "选择你的身份",
+      findTalents: "搜索人才",
       githubAccount: "你需要一个免费的 GitHub 账号。你只能改自己的帖子。",
       useAgent: "使用你的 AI 助手",
       agentFind: "找职位",
@@ -216,6 +225,9 @@ else, including an empty list, stays English.
       agentPrompt: {
         find: function () {
           return "阅读 https://openjob.softprobe.ai/llms.txt 并按它执行。如果已连接 OpenJob MCP，调用 search_jobs。否则 GET https://openjob.softprobe.ai/index.json，只保留 kind 为 job 的帖子。每条写出永久链接，以及帖子上已有的申请方式。不要编造邮箱或电话。简历或简介：<粘贴在这里>";
+        },
+        talentSearch: function () {
+          return "阅读 https://openjob.softprobe.ai/llms.txt 并按它执行。如果已连接 OpenJob MCP，调用 search_talent。否则 GET https://openjob.softprobe.ai/index.json，只保留 kind 为 talent 或 talent-ref 的帖子。根据这个职位匹配档案，并列出每位候选人的永久链接和档案上已有的联系链接。不要编造邮箱或电话。职位：<粘贴在这里>";
         },
         talent: function (origin) {
           return "阅读 " + origin + "llms.txt 并按它执行。档案保存为 talents/<github-login>.md，github 填同一个登录名。如果已连接 OpenJob MCP，用 kind talent 调用 create_or_update_post。不要写邮箱、电话或微信号。简介：<粘贴在这里>";

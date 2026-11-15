@@ -162,7 +162,25 @@ input:focus, select:focus, button:focus-visible, a:focus-visible {
   outline-offset: 2px;
 }
 
-.count { color: var(--muted); min-height: 1.2em; }
+.job-total {
+  margin: 14px 0 0;
+  font-size: clamp(20px, 2.4vw, 26px);
+  font-weight: 700;
+  line-height: 1.2;
+}
+
+.count { color: var(--muted); min-height: 1.2em; margin-top: 4px; }
+
+.load-more {
+  display: block;
+  min-height: 44px;
+  margin: 24px auto 12px;
+  padding: 8px 18px;
+  border: 1px solid var(--ink);
+  background: var(--ink);
+  color: var(--paper);
+  cursor: pointer;
+}
 
 article {
   padding: 16px 0 18px;
@@ -335,9 +353,9 @@ footer { margin-top: 28px; color: var(--muted); }
 
 .audience {
   display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 10px;
-  margin: 0 0 12px;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0;
+  margin: 0;
 }
 
 .audience button {
@@ -348,14 +366,22 @@ footer { margin-top: 28px; color: var(--muted); }
   background: transparent;
   color: var(--ink);
   border: 1px solid var(--ink);
-  padding: 12px 10px;
-  min-height: 44px;
+  padding: 12px;
+  min-height: 48px;
   cursor: pointer;
 }
 
-.audience button[aria-pressed="true"] {
+.audience button + button { border-left: 0; }
+
+.audience button[aria-selected="true"] {
   background: var(--ink);
   color: var(--paper);
+}
+
+.prompt-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 12px;
 }
 
 .reach, .also-profile { margin: 8px 0 0; }
@@ -457,7 +483,7 @@ body.entry h1 {
   h2 { font-size: 24px; }
   label { min-width: 100%; }
   .share-text { font-size: 18px; }
-  .audience { grid-template-columns: 1fr; }
+  .prompt-grid { grid-template-columns: 1fr; }
   .agent-kinds .text-button,
   .text-button,
   .tab { min-height: 44px; }
