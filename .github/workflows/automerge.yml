@@ -1,6 +1,9 @@
 # Trusted auto-merge. This file runs from the base branch (pull_request_target),
 # so a pull request cannot rewrite the checker that decides to merge it.
-# The head checkout is data only: do not pip-install it and do not run its scripts.
+# The head tree is data only: do not pip-install it and do not run its scripts.
+# A fork's commit is not on a branch of this repository. actions/checkout refuses
+# that commit in a pull_request_target job. Fetch refs/pull/<n>/head from this
+# repository over HTTPS, with no token, and do not run the checker if that fetch fails.
 #
 # A pull request merges on its own when every changed path is a post file under
 # jobs/, talents/, or companies/, the trusted checker accepts each file, and
@@ -38,12 +41,35 @@ jobs:
           path: base
           persist-credentials: false
 
-      - name: Check out the pull request files
-        uses: actions/checkout@v4
-        with:
-          ref: ${{ github.event.pull_request.head.sha }}
-          path: head
-          persist-credentials: false
+      - name: Fetch the pull request files
+        id: head
+        env:
+          PR_NUMBER: ${{ github.event.pull_request.number }}
+          HEAD_SHA: ${{ github.event.pull_request.head.sha }}
+          GIT_TERMINAL_PROMPT: "0"
+        run: |
+          set -euo pipefail
+          ok=0
+          cleanup() {
+            if [ "$ok" != 1 ]; then
+              rm -rf head
+            fi
+          }
+          trap cleanup EXIT
+          git init -b main head
+          git -C head remote add origin "https://github.com/${GITHUB_REPOSITORY}.git"
+          # No token. This ref is this repository's copy of the head commit,
+          # for a branch in this repository and for a fork.
+          git -C head -c credential.helper= -c http.extraheader= \
+            fetch --depth=1 origin "refs/pull/${PR_NUMBER}/head"
+          git -C head checkout --detach FETCH_HEAD
+          got="$(git -C head rev-parse HEAD)"
+          if [ "$got" != "$HEAD_SHA" ]; then
+            echo "Fetched ${got}, which is not the pull request head ${HEAD_SHA}." >&2
+            exit 1
+          fi
+          rm -rf head/.git
+          ok=1
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -60,7 +86,7 @@ jobs:
 
       - name: Validate with the base-branch checker
         id: check
-        if: success() || failure()
+        if: steps.head.outcome == 'success' && (success() || failure())
         working-directory: base
         env:
           # Login from the pull request event. Never read it from the changed files.
@@ -128,23 +154,31 @@ jobs:
           REPORT: ${{ runner.temp }}/openjob-report.md
           TESTS_OUTCOME: ${{ steps.tests.outcome }}
           CHECK_OUTCOME: ${{ steps.check.outcome }}
+          HEAD_OUTCOME: ${{ steps.head.outcome }}
         with:
           script: |
             const fs = require("fs");
             const marker = "<!-- openjob-bot -->";
             const parts = [];
-            if (process.env.TESTS_OUTCOME === "failure") {
+            if (process.env.HEAD_OUTCOME !== "success") {
               parts.push(
-                "Unit tests failed, so this pull request stays open. " +
-                "The Unit tests step in the workflow log has the traceback."
+                "The pull request files could not be fetched, so nothing was checked. " +
+                "Open the workflow log. No post was judged."
               );
-            }
-            if (
-              process.env.CHECK_OUTCOME === "failure" &&
-              process.env.REPORT &&
-              fs.existsSync(process.env.REPORT)
-            ) {
-              parts.push(fs.readFileSync(process.env.REPORT, "utf8"));
+            } else {
+              if (process.env.TESTS_OUTCOME === "failure") {
+                parts.push(
+                  "Unit tests failed, so this pull request stays open. " +
+                  "The Unit tests step in the workflow log has the traceback."
+                );
+              }
+              if (
+                process.env.CHECK_OUTCOME === "failure" &&
+                process.env.REPORT &&
+                fs.existsSync(process.env.REPORT)
+              ) {
+                parts.push(fs.readFileSync(process.env.REPORT, "utf8"));
+              }
             }
             if (parts.length === 0) {
               parts.push("OpenJob checks failed before a report was written. Open the workflow log.");

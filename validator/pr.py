@@ -37,6 +37,19 @@ class Result:
 
 def check_pr(*, head: Path, base: Path, author: str, today: date | None = None) -> Result:
     today = today or datetime.now(timezone.utc).date()
+    if not head.is_dir():
+        return Result(
+            issues=[
+                Issue(
+                    "checkout",
+                    ".",
+                    "The pull request files are not on disk, so this run did not judge any post.",
+                    FIX["checkout"],
+                )
+            ],
+            notes=[],
+            automerge=False,
+        )
     maintainers = maintainers_from(base)
     head_files = _files(head)
     base_files = _files(base)

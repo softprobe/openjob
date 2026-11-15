@@ -22,6 +22,10 @@ class Issue:
 APPLY_DOC = "See `CONTRIBUTING.md#application-methods`."
 
 FIX = {
+    "checkout": (
+        "The workflow has to fetch refs/pull/<number>/head before it runs the checker. "
+        "A missing tree is not a deletion."
+    ),
     "privacy-email": (
         "Delete the address. A job may keep one hiring address in `apply` "
         "(`mailto:jobs@company.example`) or `apply_email` when its domain matches "
