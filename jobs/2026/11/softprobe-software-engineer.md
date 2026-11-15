@@ -4,24 +4,23 @@ title: "Software Engineer — AI Agent QA & Observability"
 company: softprobe
 company_name: Softprobe
 role_slug: software-engineer
-location: "Hangzhou, China / San Francisco Bay Area, CA / Remote"
+location: "Los Altos, CA / Shanghai"
 locations:
-  - city: Hangzhou
-    country: CN
-  - city: San Francisco Bay Area
+  - city: Los Altos
     region: CA
     country: US
+  - city: Shanghai
+    country: CN
 remote: hybrid
 languages: [en]
 tags: [ai-agents, llm-evaluation, observability, python, java, rust, arex, thelake]
-employment_type: FULL_TIME
 apply: https://wellfound.com/jobs/5079523-software-engineer-ai-agent-qa-observability
 apply_email: mailto:hr@softprobe.ai
 posted: 2026-11-13
 posted_by: zwobill
 ---
 
-Softprobe is hiring a full-time software engineer for AI Agent QA and observability. The role offers onsite or remote work, with locations in Hangzhou, China, and the San Francisco Bay Area, plus remote hiring worldwide. The Wellfound listing notes Pacific Time and China Standard Time as preferred time zones. Softprobe is the team behind AREX (https://github.com/arextest), an open-source automated record/replay regression testing platform. The public site is https://www.softprobe.ai.
+Softprobe is hiring a full-time software engineer for AI Agent QA and observability. The Wellfound listing describes onsite or remote work and remote hiring worldwide, with Pacific Time and China Standard Time as preferred time zones. This OpenJob post retains the existing structured locations of Los Altos, California, and Shanghai. Softprobe is the team behind AREX (https://github.com/arextest), an open-source automated record/replay regression testing platform. The public site is https://www.softprobe.ai.
 
 The engineer will build and ship across Arex's traffic capture and replay engine and thelake's OTLP ingestion, DuckLake storage, and query layer. They will also build Softprobe Agent QA's evaluation, Explorer, diagnosis, and collaboration features on top of the evidence lake. The work includes designing explainable evaluations of business outcomes and replaying production agent sessions to find regressions.
 
