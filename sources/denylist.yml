@@ -1,0 +1,3 @@
+# Boards removed on request. A pull request that adds a board here needs a maintainer.
+# Each entry is the ATS and the board slug from sources/*.yml.
+boards: []

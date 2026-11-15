@@ -1,0 +1,16 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/softprobe/openjob/schema/source.schema.json",
+  "title": "Indexed employer board",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["slug", "name", "website", "ats", "board"],
+  "properties": {
+    "slug": { "$ref": "https://github.com/softprobe/openjob/schema/common.json#/$defs/slug" },
+    "name": { "type": "string", "minLength": 1, "maxLength": 80 },
+    "website": { "$ref": "https://github.com/softprobe/openjob/schema/common.json#/$defs/httpsUrl" },
+    "ats": { "enum": ["greenhouse", "lever", "ashby", "workable"] },
+    "board": { "type": "string", "minLength": 1, "maxLength": 80, "pattern": "^[A-Za-z0-9][A-Za-z0-9_-]*$" },
+    "added_by": { "$ref": "https://github.com/softprobe/openjob/schema/common.json#/$defs/github" }
+  }
+}
