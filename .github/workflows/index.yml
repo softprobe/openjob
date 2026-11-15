@@ -55,11 +55,19 @@ jobs:
           python -m indexer run --sources sources --data ../data --root .
           code=$?
           set -e
-          if [ "$code" -eq 2 ]; then
-            echo "publish=false" >> "$GITHUB_OUTPUT"
-          elif [ "$code" -eq 0 ]; then
+          report="../data/report.json"
+          if [ "$code" -eq 0 ]; then
             echo "publish=true" >> "$GITHUB_OUTPUT"
+          elif [ "$code" -eq 3 ]; then
+            if [ ! -f "$report" ]; then
+              echo "Indexer exited 3 (hold) but ${report} does not exist." >&2
+              exit 1
+            fi
+            python -c 'import json,sys; d=json.load(open(sys.argv[1],encoding="utf-8")); sys.exit(0 if d.get("publish") is False else 1)' "$report" \
+              || { echo "Indexer exited 3 but report.json does not set publish to false." >&2; exit 1; }
+            echo "publish=false" >> "$GITHUB_OUTPUT"
           else
+            echo "Indexer failed with exit ${code}. A held publish is exit 3 and writes report.json." >&2
             exit "$code"
           fi
 
@@ -69,7 +77,16 @@ jobs:
         with:
           script: |
             const fs = require("fs");
-            const report = JSON.parse(fs.readFileSync("data/report.json", "utf8"));
+            const path = "data/report.json";
+            if (!fs.existsSync(path)) {
+              throw new Error(
+                "data/report.json does not exist. A held publish must exit 3 and write that file. This step will not open an issue."
+              );
+            }
+            const report = JSON.parse(fs.readFileSync(path, "utf8"));
+            if (report.publish !== false) {
+              throw new Error("data/report.json does not set publish to false. Refusing to open a hold issue.");
+            }
             const marker = "<!-- openjob-index -->";
             const dropped = (report.dropped || []).join(", ");
             const body = [
@@ -110,7 +127,11 @@ jobs:
         with:
           script: |
             const fs = require("fs");
-            const report = JSON.parse(fs.readFileSync("data/report.json", "utf8"));
+            const path = "data/report.json";
+            if (!fs.existsSync(path)) {
+              throw new Error("data/report.json does not exist, so hidden boards cannot be reported.");
+            }
+            const report = JSON.parse(fs.readFileSync(path, "utf8"));
             const hidden = report.hidden || [];
             if (!hidden.length) return;
             const marker = "<!-- openjob-index-stale -->";
