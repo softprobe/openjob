@@ -1,0 +1,30 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "openjob"
+version = "0.1.0"
+description = "MCP server and command line for the OpenJob board"
+readme = "mcp/README.md"
+requires-python = ">=3.11"
+dependencies = [
+  "pyyaml==6.0.2",
+  "jsonschema==4.23.0",
+  "referencing==0.37.0",
+  "rpds-py==2026.9.1",
+  "attrs==26.1.0",
+  "jsonschema-specifications==2025.9.1",
+]
+
+[project.scripts]
+openjob-mcp = "openjob_mcp.server:main"
+openjob = "openjob_cli.__main__:main"
+
+[tool.setuptools]
+packages = ["openjob_mcp", "openjob_cli", "validator"]
+
+[tool.setuptools.package-dir]
+openjob_mcp = "mcp/openjob_mcp"
+openjob_cli = "cli/openjob_cli"
+validator = "validator"

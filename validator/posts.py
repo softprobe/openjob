@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import json
+import os
 import re
 from datetime import date, datetime, timedelta, timezone
 from functools import lru_cache
@@ -1442,12 +1443,20 @@ def _utc_today() -> date:
     return datetime.now(timezone.utc).date()
 
 
+def schema_dir() -> Path:
+    """Directory of the JSON schemas. OPENJOB_SCHEMA overrides the repo checkout."""
+    override = os.environ.get("OPENJOB_SCHEMA")
+    if override:
+        return Path(override)
+    return Path(__file__).resolve().parent.parent / "schema"
+
+
 @lru_cache(maxsize=1)
 def _validators() -> dict[str, Draft202012Validator]:
-    schema_dir = Path(__file__).resolve().parent.parent / "schema"
+    schema_dir_path = schema_dir()
     resources: list[tuple[str, Resource]] = []
     documents: dict[str, dict] = {}
-    for path in sorted(schema_dir.glob("*.json")):
+    for path in sorted(schema_dir_path.glob("*.json")):
         document = json.loads(path.read_text(encoding="utf-8"))
         documents[path.name] = document
         resources.append((document["$id"], Resource.from_contents(document)))
@@ -1465,6 +1474,5 @@ def _validators() -> dict[str, Draft202012Validator]:
 
 
 def index_validator() -> Draft202012Validator:
-    schema_dir = Path(__file__).resolve().parent.parent / "schema"
-    document = json.loads((schema_dir / "index.schema.json").read_text(encoding="utf-8"))
+    document = json.loads((schema_dir() / "index.schema.json").read_text(encoding="utf-8"))
     return Draft202012Validator(document)
