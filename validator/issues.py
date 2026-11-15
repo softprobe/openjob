@@ -41,10 +41,11 @@ FIX = {
     ),
     "schema": "Match the JSON Schema for this kind of post. The comment names the field and the schema URL.",
     "bad-path": (
-        "Move the file to the sharded path for its kind: "
+        "Move the file to the path for its kind: "
         "`jobs/YYYY/MM/<company>-<role-slug>.md`, "
-        "`talents/<first-letter>/<github-username>.md`, or "
-        "`companies/<first-letter>/<slug>.md`. Use lowercase. `YYYY/MM` is the `posted` month."
+        "`talents/<github-login>.md`, or "
+        "`companies/<first-letter>/<slug>.md`. The profile filename is the GitHub login. "
+        "`YYYY/MM` is the `posted` month."
     ),
     "oversize": f"Shorten the file to {10 * 1024} bytes or fewer. Posts are text only.",
     "binary": (
@@ -61,8 +62,9 @@ FIX = {
         "`javascript:` URLs, and links with a username or password are rejected."
     ),
     "ownership": (
-        "The GitHub login on the post (`github` for a talent, `posted_by` for a job or company) "
-        "must be the pull request author. Only that account can edit or delete the file."
+        "You can only change a post you own. A profile filename is your GitHub login. "
+        "A company lists its owners, and those owners edit its jobs. "
+        "A job with no company page stays with the `posted_by` login."
     ),
     "posted-immutable": "Keep the original `posted` date. Set `renewed` to the day you renew.",
     "dates": "Use real `YYYY-MM-DD` dates. A new post's `posted` date has to be recent.",

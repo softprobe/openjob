@@ -122,8 +122,9 @@ SHORTENERS = frozenset(
 
 JOB_PATH = re.compile(r"^jobs/(\d{4})/(\d{2})/([a-z0-9]+(?:-[a-z0-9]+)*)\.md$")
 TALENT_PATH = re.compile(
-    r"^talents/([a-z0-9])/([a-z0-9](?:[a-z0-9]|-(?=[a-z0-9])){0,38})\.md$"
+    r"^talents/([A-Za-z0-9](?:[A-Za-z0-9]|-(?=[A-Za-z0-9])){0,38})\.md$"
 )
+GITHUB_LOGIN = re.compile(r"^[A-Za-z0-9](?:[A-Za-z0-9]|-(?=[A-Za-z0-9])){0,38}$")
 COMPANY_PATH = re.compile(r"^companies/([a-z0-9])/([a-z0-9]+(?:-[a-z0-9]+)*)\.md$")
 DATE_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 PROFILE_URL = re.compile(
@@ -238,6 +239,7 @@ def validate_post(
     author: str | None = None,
     maintainers: set[str] | None = None,
     base_meta: dict | None = None,
+    base_root: Path | None = None,
     new_file: bool = False,
 ) -> list[Issue]:
     path = root / rel
@@ -278,11 +280,15 @@ def validate_post(
     issues.extend(_federated_issues(meta, rel))
     if author is not None:
         issues.extend(
-            _ownership_issues(
+            ownership_issues(
                 meta,
                 rel=rel,
                 author=author,
                 base_meta=base_meta,
+                head=root,
+                base=base_root,
+                new_file=new_file,
+                maintainers=maintainers,
             )
         )
     return issues
@@ -779,14 +785,22 @@ def _path_issues(rel: str, meta: dict) -> list[Issue]:
                 issues.append(_bad_path(rel, f"jobs/{match.group(1)}/{match.group(2)}/{expect}.md"))
         return issues
     if kind in {"talent", "talent-ref"}:
-        match = TALENT_PATH.fullmatch(rel)
-        if match is None:
-            return [_bad_path(rel, "talents/<first-letter>/<github-username>.md")]
         github = meta.get("github")
-        if isinstance(github, str) and github:
-            handle = github.lower()
-            if match.group(2) != handle or match.group(1) != handle[0]:
-                return [_bad_path(rel, f"talents/{handle[0]}/{handle}.md")]
+        handle = github.casefold() if isinstance(github, str) and github else "your-login"
+        expected = f"talents/{handle}.md"
+        match = TALENT_PATH.fullmatch(rel)
+        if match is None or (
+            isinstance(github, str) and github and match.group(1).casefold() != github.casefold()
+        ):
+            return [
+                Issue(
+                    "bad-path",
+                    rel,
+                    f"Save this profile as `{expected}`. The filename is the GitHub login. "
+                    "A letter folder is not used.",
+                    FIX["bad-path"],
+                )
+            ]
         return []
     if kind == "company":
         match = COMPANY_PATH.fullmatch(rel)
@@ -1009,33 +1023,382 @@ def _federated_issues(meta: dict, rel: str) -> list[Issue]:
     return []
 
 
+def ownership_issues(
+    meta: dict,
+    *,
+    rel: str,
+    author: str,
+    base_meta: dict | None,
+    head: Path,
+    base: Path | None,
+    new_file: bool,
+    maintainers: set[str] | None,
+    deleting: bool = False,
+) -> list[Issue]:
+    """Who may add, edit, or delete this file.
+
+    Maintainers skip the block so a reviewed pull request can land. Auto-merge
+    still requires `author_owns`, which does not grant that bypass.
+    """
+    if is_maintainer(author, maintainers):
+        return []
+    return _ownership_issues(
+        meta,
+        rel=rel,
+        author=author,
+        base_meta=base_meta,
+        head=head,
+        base=base,
+        new_file=new_file,
+        deleting=deleting,
+    )
+
+
+def author_owns(
+    meta: dict,
+    *,
+    rel: str,
+    author: str,
+    base_meta: dict | None,
+    head: Path,
+    base: Path | None,
+    new_file: bool,
+    deleting: bool = False,
+) -> bool:
+    """True when this login owns the file. Maintainer status does not count."""
+    return not _ownership_issues(
+        meta,
+        rel=rel,
+        author=author,
+        base_meta=base_meta,
+        head=head,
+        base=base,
+        new_file=new_file,
+        deleting=deleting,
+    )
+
+
+def is_maintainer(author: str, maintainers: set[str] | None) -> bool:
+    if not maintainers:
+        return False
+    return author.casefold() in {item.casefold() for item in maintainers}
+
+
+def company_rel_for(slug: str) -> str:
+    return f"companies/{slug[0]}/{slug}.md"
+
+
+def owner_logins(meta: dict) -> list[str]:
+    """GitHub logins who may edit a company. `owners` wins; otherwise `posted_by`."""
+    state, owners = _owners_state(meta)
+    if state == "ok":
+        return owners
+    posted = meta.get("posted_by")
+    if isinstance(posted, str) and posted:
+        return [posted]
+    return []
+
+
+def _owners_state(meta: dict) -> tuple[str, list[str]]:
+    if "owners" not in meta:
+        return "missing", []
+    value = meta.get("owners")
+    if (
+        not isinstance(value, list)
+        or not value
+        or not all(isinstance(item, str) and GITHUB_LOGIN.fullmatch(item) for item in value)
+    ):
+        return "invalid", []
+    folded = [item.casefold() for item in value]
+    if len(set(folded)) != len(folded):
+        return "duplicate", list(value)
+    return "ok", list(value)
+
+
+def _same(login: str, other: str) -> bool:
+    return login.casefold() == other.casefold()
+
+
+def _listed(logins: list[str]) -> str:
+    names = [f"`{login}`" for login in logins]
+    if not names:
+        return "nobody"
+    if len(names) == 1:
+        return names[0]
+    if len(names) == 2:
+        return f"{names[0]} and {names[1]}"
+    return ", ".join(names[:-1]) + f", and {names[-1]}"
+
+
+def _in(author: str, logins: list[str]) -> bool:
+    return any(_same(author, login) for login in logins)
+
+
+def _read_meta(root: Path | None, rel: str) -> dict | None:
+    if root is None:
+        return None
+    path = root / rel
+    if not path.is_file() or path.is_symlink():
+        return None
+    try:
+        meta, _body = load_post(path)
+    except (OSError, PostParseError, UnicodeError):
+        return None
+    return meta
+
+
+def _job_control(meta: dict, *, head: Path, base: Path | None) -> tuple[str, list[str]]:
+    """('company', owners) when a company page exists, else ('poster', [posted_by])."""
+    slug = meta.get("company")
+    posted = meta.get("posted_by")
+    poster = [posted] if isinstance(posted, str) and posted else []
+    if not isinstance(slug, str) or not slug:
+        return "poster", poster
+    rel = company_rel_for(slug)
+    published = _read_meta(base, rel)
+    current = _read_meta(head, rel)
+    chosen = published if published is not None and published.get("kind") == "company" else None
+    if chosen is None and current is not None and current.get("kind") == "company":
+        chosen = current
+    if chosen is None:
+        return "poster", poster
+    return "company", owner_logins(chosen)
+
+
 def _ownership_issues(
     meta: dict,
     *,
     rel: str,
     author: str,
     base_meta: dict | None,
+    head: Path,
+    base: Path | None,
+    new_file: bool,
+    deleting: bool,
 ) -> list[Issue]:
-    author_l = author.lower()
-    owner = owner_of(meta)
+    kind = (base_meta or meta).get("kind")
+    if kind in {"talent", "talent-ref"}:
+        return _talent_ownership(
+            meta, rel=rel, author=author, base_meta=base_meta, deleting=deleting
+        )
+    if kind == "company":
+        return _company_ownership(
+            meta, rel=rel, author=author, base_meta=base_meta, new_file=new_file, deleting=deleting
+        )
+    if kind == "job":
+        return _job_ownership(
+            meta,
+            rel=rel,
+            author=author,
+            base_meta=base_meta,
+            head=head,
+            base=base,
+            new_file=new_file,
+            deleting=deleting,
+        )
+    return []
+
+
+def _talent_ownership(
+    meta: dict,
+    *,
+    rel: str,
+    author: str,
+    base_meta: dict | None,
+    deleting: bool,
+) -> list[Issue]:
+    source = base_meta if deleting and base_meta is not None else meta
+    github = source.get("github")
+    handle = github if isinstance(github, str) and github else ""
     issues: list[Issue] = []
-    if owner != author_l:
+    if not handle or not _same(handle, author):
+        yours = f"talents/{author.casefold()}.md"
+        whose = f"`{handle}`" if handle else "nobody"
         issues.append(
             Issue(
                 "ownership",
                 rel,
-                f"This post is tied to `{owner or 'nobody'}` but the pull request author is `{author}`.",
-                FIX["ownership"],
+                f"This profile belongs to {whose}. You are `{author}`, so you cannot change it. "
+                f"Your profile is `{yours}`.",
+                f"Edit `{yours}` from the `{author}` account, or leave this file to {whose}.",
             )
         )
-    if base_meta is not None and owner_of(base_meta) != author_l:
+    if (
+        not deleting
+        and base_meta is not None
+        and isinstance(base_meta.get("github"), str)
+        and not _same(str(base_meta["github"]), author)
+    ):
+        previous = base_meta["github"]
         issues.append(
             Issue(
                 "ownership",
                 rel,
-                f"The published post belongs to `{owner_of(base_meta)}`. "
-                f"`{author}` cannot edit or replace it.",
-                FIX["ownership"],
+                f"The published profile belongs to `{previous}`. You are `{author}`, so you cannot edit it.",
+                f"Only `{previous}` can change this file.",
+            )
+        )
+    return issues
+
+
+def _company_ownership(
+    meta: dict,
+    *,
+    rel: str,
+    author: str,
+    base_meta: dict | None,
+    new_file: bool,
+    deleting: bool,
+) -> list[Issue]:
+    if deleting and base_meta is not None:
+        allowed = owner_logins(base_meta)
+        if _in(author, allowed):
+            return []
+        return [
+            Issue(
+                "ownership",
+                rel,
+                f"Only the owners of this company can remove it: {_listed(allowed)}. You are `{author}`.",
+                "Ask an owner to delete the file.",
+            )
+        ]
+    issues: list[Issue] = []
+    state, owners = _owners_state(meta)
+    if state == "duplicate":
+        issues.append(
+            Issue(
+                "ownership",
+                rel,
+                "`owners` lists the same GitHub login more than once. Keep each login once.",
+                "Remove the repeated login. Matching is case-insensitive.",
+            )
+        )
+    elif state == "missing" and (new_file or base_meta is not None):
+        issues.append(
+            Issue(
+                "ownership",
+                rel,
+                f"Add `owners:` with the GitHub logins who can edit this company. "
+                f"You are `{author}`, so include `{author}`. "
+                "A new company page is reviewed once. After that, only the owners can edit it.",
+                f"Add `owners: [{author}]` to the front matter.",
+            )
+        )
+    elif state == "ok" and new_file and not _in(author, owners):
+        issues.append(
+            Issue(
+                "ownership",
+                rel,
+                f"You are `{author}`. Add yourself to `owners`. "
+                "A new company page is reviewed once, then only those logins can edit it.",
+                f"Set `owners` to a list that includes `{author}`.",
+            )
+        )
+    if new_file:
+        posted = meta.get("posted_by")
+        if not isinstance(posted, str) or not _same(posted, author):
+            issues.append(
+                Issue(
+                    "ownership",
+                    rel,
+                    f"Set `posted_by` to your GitHub login (`{author}`). It records who opened this page.",
+                    f"Change `posted_by` to `{author}`.",
+                )
+            )
+    if base_meta is not None and not deleting:
+        allowed = owner_logins(base_meta)
+        if not _in(author, allowed):
+            issues.append(
+                Issue(
+                    "ownership",
+                    rel,
+                    f"Only the owners of this company can edit it: {_listed(allowed)}. You are `{author}`.",
+                    "Ask an owner to make the change, or to add your GitHub login to `owners`.",
+                )
+            )
+        previous = base_meta.get("posted_by")
+        current = meta.get("posted_by")
+        if previous != current:
+            issues.append(
+                Issue(
+                    "ownership",
+                    rel,
+                    f"`posted_by` stays `{previous}`. It records who opened the page. "
+                    "Change `owners` when someone else should be able to edit it.",
+                    f"Put `posted_by` back to `{previous}`.",
+                )
+            )
+    return issues
+
+
+def _job_ownership(
+    meta: dict,
+    *,
+    rel: str,
+    author: str,
+    base_meta: dict | None,
+    head: Path,
+    base: Path | None,
+    new_file: bool,
+    deleting: bool,
+) -> list[Issue]:
+    source = base_meta if deleting and base_meta is not None else meta
+    kind, allowed = _job_control(source, head=base if deleting else head, base=base)
+    issues: list[Issue] = []
+    if not _in(author, allowed):
+        if kind == "company":
+            slug = source.get("company") or "this company"
+            issues.append(
+                Issue(
+                    "ownership",
+                    rel,
+                    f"`{slug}` is owned by {_listed(allowed)}. You are `{author}`. "
+                    "Only those owners can add, edit, or close this job.",
+                    "Ask an owner to open the pull request.",
+                )
+            )
+        else:
+            poster = allowed[0] if allowed else "nobody"
+            if new_file:
+                issues.append(
+                    Issue(
+                        "ownership",
+                        rel,
+                        f"This job has no company page. Set `posted_by` to your GitHub login (`{author}`). "
+                        "After that, only you can edit it.",
+                        f"Change `posted_by` to `{author}`.",
+                    )
+                )
+            else:
+                issues.append(
+                    Issue(
+                        "ownership",
+                        rel,
+                        f"This job has no company page. It was posted by `{poster}`. "
+                        f"You are `{author}`, so only `{poster}` can edit it.",
+                        f"Open the pull request as `{poster}`.",
+                    )
+                )
+    if new_file:
+        posted = meta.get("posted_by")
+        if not isinstance(posted, str) or not _same(posted, author):
+            if not any(issue.message.startswith("This job has no company page. Set `posted_by`") for issue in issues):
+                issues.append(
+                    Issue(
+                        "ownership",
+                        rel,
+                        f"Set `posted_by` to your GitHub login (`{author}`). It records who opened this job.",
+                        f"Change `posted_by` to `{author}`.",
+                    )
+                )
+    if base_meta is not None and not deleting and base_meta.get("posted_by") != meta.get("posted_by"):
+        previous = base_meta.get("posted_by")
+        issues.append(
+            Issue(
+                "ownership",
+                rel,
+                f"`posted_by` stays `{previous}`. It records who opened the job.",
+                f"Put `posted_by` back to `{previous}`.",
             )
         )
     return issues

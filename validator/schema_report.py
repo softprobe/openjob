@@ -30,6 +30,7 @@ _ADD = {
     "apply": ("https://example.com/jobs/role", "an https URL, or one mailto: on the company domain"),
     "posted": ("2026-11-14", "YYYY-MM-DD, within the last 45 days"),
     "posted_by": ("ada", "the pull request author's GitHub login"),
+    "owners": ("[ada]", "a list of GitHub logins, including yours"),
     "name": ("Ada Lovelace", "a string of 1 to 80 characters"),
     "github": ("ada", "the pull request author's GitHub login"),
     "headline": ("Site reliability engineer", "a string of 4 to 140 characters"),

@@ -28,13 +28,24 @@ Field rules: [Post a job](CONTRIBUTING.md#post-a-job).
 
 For a candidate.
 
-1. Copy [`templates/talent.md`](templates/talent.md) to `talents/<first-letter>/<github-username>.md`, lowercase. Example: `talents/z/zwobill.md`.
-2. Set `github` to that same login. Say what you do and what you are open to. A personal site or `https://www.linkedin.com/in/…` is fine. Do not add a phone number, an email address, or a WeChat ID.
+1. Copy [`templates/talent.md`](templates/talent.md) to `talents/<your-github-name>.md`. Example: `talents/ada.md`. The filename and `github` are your GitHub login.
+2. Say what you do and what you are open to. A personal site or `https://www.linkedin.com/in/…` is fine. Do not add a phone number, an email address, or a WeChat ID.
 3. Open a pull request that changes only that file. [Add file in `talents/`](https://github.com/softprobe/openjob/new/main/talents). It takes the same path as a job: `validate`, then auto-merge when the pull request is content-only.
 
 To keep the full profile in your own repository, copy [`templates/talent-ref.md`](templates/talent-ref.md) to the same kind of path. This repository then stores the index entry. See [Federation](CONTRIBUTING.md#federation).
 
-A company page uses [`templates/company.md`](templates/company.md) at `companies/<first-letter>/<slug>.md`. It does not expire. The hiring address belongs on the job, not on the company page.
+A company page uses [`templates/company.md`](templates/company.md) at `companies/<first-letter>/<slug>.md`. Set `owners` to the GitHub logins who can edit it. A new company page is reviewed once. It does not expire. The hiring address belongs on the job, not on the company page.
+
+## Who can edit what
+
+| What | Who |
+| --- | --- |
+| Your profile, `talents/<your-github-name>.md` | You |
+| A company page | The GitHub logins in its `owners` list |
+| That company's jobs | Those same owners |
+| A new company page | Reviewed once, then the owners |
+
+You need a free GitHub account. You can only edit your own posts.
 
 One new post per pull request. To change a post that is already on the board, edit that file. Do not add a second file for the same role or the same person.
 

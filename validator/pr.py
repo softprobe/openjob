@@ -9,13 +9,14 @@ from pathlib import Path
 from validator.issues import FIX, Issue, render_report
 from validator.posts import (
     PostParseError,
+    author_owns,
     foreign_post_issues,
     is_expired,
     is_post_path,
     is_post_tree,
     load_post,
     maintainers_from,
-    owner_of,
+    ownership_issues,
     validate_post,
 )
 from validator.share import render_share_comment
@@ -94,6 +95,7 @@ def check_pr(*, head: Path, base: Path, author: str, today: date | None = None) 
                     today=today,
                     author=author,
                     maintainers=maintainers,
+                    base_root=base,
                     new_file=True,
                 )
             )
@@ -107,6 +109,7 @@ def check_pr(*, head: Path, base: Path, author: str, today: date | None = None) 
                     author=author,
                     maintainers=maintainers,
                     base_meta=base_meta,
+                    base_root=base,
                     new_file=False,
                 )
             )
@@ -122,16 +125,19 @@ def check_pr(*, head: Path, base: Path, author: str, today: date | None = None) 
                     )
                 )
                 continue
-            if owner_of(base_meta) != author.lower():
-                issues.append(
-                    Issue(
-                        "ownership",
-                        rel,
-                        f"The deleted post belongs to `{owner_of(base_meta)}`. "
-                        f"`{author}` cannot remove it.",
-                        FIX["ownership"],
-                    )
+            issues.extend(
+                ownership_issues(
+                    base_meta,
+                    rel=rel,
+                    author=author,
+                    base_meta=base_meta,
+                    head=base,
+                    base=base,
+                    new_file=False,
+                    maintainers=maintainers,
+                    deleting=True,
                 )
+            )
         if len(post_added) > 1:
             listed = ", ".join(f"`{rel}`" for rel in post_added)
             issues.append(
@@ -177,6 +183,17 @@ def check_pr(*, head: Path, base: Path, author: str, today: date | None = None) 
     notes: list[str] = []
     automerge = False
     share_comment: str | None = None
+    new_companies = _new_companies(post_added, head_files)
+    owns_every_file = bot_expiry or _author_owns_every(
+        author=author,
+        head=head,
+        base=base,
+        head_files=head_files,
+        base_files=base_files,
+        post_added=post_added,
+        post_modified=post_modified,
+        post_deleted=post_deleted,
+    )
     if not issues and bot_ready:
         automerge = True
         notes.append(
@@ -190,17 +207,89 @@ def check_pr(*, head: Path, base: Path, author: str, today: date | None = None) 
             f"({outside}). Auto-merge stays off. It needs approval from the Softprobe team "
             "(`@softprobe/openjob-maintainers`)."
         )
+    elif not issues and new_companies:
+        notes.append(
+            "A new company page is reviewed once by `@softprobe/openjob-maintainers`. "
+            "Auto-merge stays off. After it is on the board, the people in `owners` can edit "
+            "the page and its jobs, and those pull requests can auto-merge."
+        )
+    elif not issues and not owns_every_file:
+        notes.append(
+            f"`{author}` does not own every file in this pull request. Auto-merge stays off. "
+            "A maintainer (`@softprobe/openjob-maintainers`) can merge it after review."
+        )
     elif not issues:
         automerge = True
         share_comment = _share_comments(post_added, post_modified, head_files)
         note = (
             "Checks passed. Every changed file is a post under `jobs/`, `talents/`, or `companies/`. "
-            "It can be squash-merged with the GitHub Actions token."
+            "The author owns each one. It can be squash-merged with the GitHub Actions token."
         )
         if share_comment:
             note += " The merge comment includes the permalink and the share links."
         notes.append(note)
     return Result(issues=issues, notes=notes, automerge=automerge, share_comment=share_comment)
+
+
+def _new_companies(added: list[str], head_files: dict[str, Path]) -> list[str]:
+    found: list[str] = []
+    for rel in added:
+        meta = _meta(head_files.get(rel))
+        if meta is not None and meta.get("kind") == "company":
+            found.append(rel)
+    return found
+
+
+def _author_owns_every(
+    *,
+    author: str,
+    head: Path,
+    base: Path,
+    head_files: dict[str, Path],
+    base_files: dict[str, Path],
+    post_added: list[str],
+    post_modified: list[str],
+    post_deleted: list[str],
+) -> bool:
+    for rel in post_added:
+        meta = _meta(head_files.get(rel))
+        if meta is None or not author_owns(
+            meta,
+            rel=rel,
+            author=author,
+            base_meta=None,
+            head=head,
+            base=base,
+            new_file=True,
+        ):
+            return False
+    for rel in post_modified:
+        meta = _meta(head_files.get(rel))
+        base_meta = _meta(base_files.get(rel))
+        if meta is None or not author_owns(
+            meta,
+            rel=rel,
+            author=author,
+            base_meta=base_meta,
+            head=head,
+            base=base,
+            new_file=False,
+        ):
+            return False
+    for rel in post_deleted:
+        base_meta = _meta(base_files.get(rel))
+        if base_meta is None or not author_owns(
+            base_meta,
+            rel=rel,
+            author=author,
+            base_meta=base_meta,
+            head=base,
+            base=base,
+            new_file=False,
+            deleting=True,
+        ):
+            return False
+    return True
 
 
 def _bot_expiry(

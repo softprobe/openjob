@@ -41,6 +41,7 @@ apply: https://example.com/careers/ROLE
 # apply_email: mailto:jobs@example.com
 # website: https://example.com
 posted: YYYY-MM-DD
+# Your GitHub login. If this company has a page, your login has to be in its owners list.
 posted_by: YOUR_GITHUB
 compensation: "Optional short note"
 ---

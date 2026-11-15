@@ -14,11 +14,11 @@ The auto-merge workflow uses `pull_request_target` so the checker that runs is t
 
 ## Ask for a post to be removed
 
-The fastest removal of your own post is a pull request that deletes the file. You have to be the `github` or `posted_by` account. That pull request can squash-merge on its own.
+The fastest removal of your own post is a pull request that deletes the file. A profile belongs to the GitHub login in its filename. A company and its jobs belong to the logins in `owners`. A job with no company page belongs to `posted_by`. That pull request can squash-merge on its own.
 
 To report someone else's post, open an **Abuse or takedown** issue, or a private advisory if the report itself would spread personal data. Grounds include a phone number or email, spam, impersonation, harassment, and illegal content. Say which file and why. Do not add your own contact details.
 
-A maintainer (`@softprobe/openjob-maintainers`, or `@zwobill`) removes the file with a pull request and, if branch protection is on, uses the admin bypass because the checker will refuse an edit or deletion by anyone except the original author. The maintainer deletes the post; they do not rewrite it. Git history still contains the old blob. Say so in the takedown pull request. GitHub support can help with cached copies if a later purge is required.
+A maintainer (`@softprobe/openjob-maintainers`) can delete the file in a reviewed pull request. The checker allows that edit and does not auto-merge it. Git history still contains the old blob. Say so in the takedown pull request. GitHub support can help with cached copies if a later purge is required.
 
 ## Archive
 

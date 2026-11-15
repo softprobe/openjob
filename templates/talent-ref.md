@@ -12,7 +12,7 @@ posted: YYYY-MM-DD
 profile_url: https://github.com/YOUR_GITHUB/openjob-profile
 ---
 
-Use this when the full profile lives in your own repository named `openjob-profile`. This file is only the index entry. Put it at `talents/<first-letter>/<github-username>.md`.
+Use this when the full profile lives in your own repository named `openjob-profile`. This file is only the index entry. Put it at `talents/<your-github-name>.md`.
 
 The GitHub login in `profile_url` must match `github`, and `github` must match the pull request author. Keep the canonical profile in that repo as `profile.md` using the talent schema.
 

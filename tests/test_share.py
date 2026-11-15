@@ -224,7 +224,7 @@ class CommentTests(unittest.TestCase):
         self.assertEqual(permalink(JOB), PAGE)
 
     def test_talent_comment_is_the_headline_only(self) -> None:
-        rel = "talents/a/ada.md"
+        rel = "talents/ada.md"
         head = _tree({rel: _talent()})
         base = _tree({})
         try:
@@ -335,7 +335,7 @@ class PageTests(unittest.TestCase):
             self.assertFalse((site / "p" / "stale").exists())
             by_path = {post["path"]: post for post in document["posts"]}
             job = by_path["jobs/2026/11/example-studio-open-source-maintainer.md"]
-            talent = by_path["talents/z/zwobill.md"]
+            talent = by_path["talents/zwobill.md"]
             company = by_path["companies/e/example-studio.md"]
             job_html = (site / "p" / job["path"][:-3] / "index.html").read_text(encoding="utf-8")
             talent_html = (site / "p" / talent["path"][:-3] / "index.html").read_text(encoding="utf-8")

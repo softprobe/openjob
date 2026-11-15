@@ -9,6 +9,7 @@ tags: [sample, documentation]
 languages: [en, zh]
 posted: 2026-11-13
 posted_by: zwobill
+owners: [zwobill]
 ---
 
 Example Studio is a fictional company page so the directory is not empty. A real page says what the organization does and links to its site and careers page.

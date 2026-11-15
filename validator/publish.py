@@ -567,8 +567,9 @@ def _llms(grouped: dict[str, list[dict]]) -> str:
         f"> {_POSITIONING}",
         "",
         "Jobs, talent profiles, and company pages are Markdown files in a public GitHub repository. "
-        "One new post per pull request. A pull request that only changes the author's own post is "
-        "squash-merged after the checker passes. Any other change needs a maintainer. "
+        "One new post per pull request. Your profile is `talents/<your-github-name>.md`. "
+        "A company's owners edit that company and its jobs. A new company page is reviewed once. "
+        "A pull request auto-merges only when the author owns every file it changes. "
         "Phone numbers are not allowed. A talent post cannot contain an email. A job may show one "
         "hiring address when its domain matches the company website. Jobs last 60 days and talent "
         "profiles last 180 days unless renewed. Company pages do not expire. Expired posts leave "
@@ -585,9 +586,9 @@ def _llms(grouped: dict[str, list[dict]]) -> str:
         f"[{origin}/talents.xml]({origin}/talents.xml), and [{origin}/talents.atom]({origin}/talents.atom).",
         "- Rank live jobs against a resume or bio. Return each match with its permalink and the "
         "apply method already on that post. Do not invent an email or a phone number.",
-        f"- A resume becomes a talent profile: follow [{origin}/schema/talent.json]({origin}/schema/talent.json), "
-        f"use the talent template, and open one pull request. No email and no phone. "
-        f"[New talent file]({repo}/new/main/talents).",
+        f"- A resume becomes a talent profile at `talents/<github-login>.md`. The filename is the "
+        f"login that opens the pull request. Follow [{origin}/schema/talent.json]({origin}/schema/talent.json). "
+        f"No email and no phone. [New talent file]({repo}/new/main/talents).",
         "- Apply with the job's https link or the hiring address on the post. A link to this "
         "repository's README or profile guide is not an application. Adding a profile is optional "
         "and separate.",
@@ -642,7 +643,10 @@ How do I apply?
 The job page shows the application method: an email on the company domain, an https link, or both. A link to this board's profile guide is not an application.
 
 How do I add a profile?
-A talent profile is a separate pull request under talents/. It is not how you apply to a job. Do not put a phone number or a personal email in the profile. You need a free GitHub account.
+A talent profile is talents/<your-github-name>.md. It is not how you apply to a job. Do not put a phone number or a personal email in the profile. You need a free GitHub account. You can only edit your own posts.
+
+Who can edit a post?
+Your profile is talents/<your-github-name>.md. A company page lists owners. Those owners edit the company and its jobs. A job with no company page stays with the posted_by login. A new company page is reviewed once.
 
 How do I hear about new posts?
 New jobs are in /jobs.xml, /jobs.atom, and /jobs.json. New profiles are in /talents.xml, /talents.atom, and /talents.json. The mixed feed is /feed.xml. The catalog is /index.json.

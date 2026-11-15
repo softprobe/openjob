@@ -17,7 +17,7 @@ FIXTURES = Path(__file__).resolve().parent / "fixtures" / "samples"
 
 SAMPLES = (
     "jobs/2026/11/example-studio-open-source-maintainer.md",
-    "talents/z/zwobill.md",
+    "talents/zwobill.md",
     "companies/e/example-studio.md",
 )
 
