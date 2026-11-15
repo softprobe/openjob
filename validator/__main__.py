@@ -13,6 +13,7 @@ from validator.expire import apply_removals, render_expiry_report, select_expire
 from validator.gate import merge_allowed, refusal_comment
 from validator.index import build_index, write_pages
 from validator.posts import validate_tree
+from validator.claim import fetch_well_known
 from validator.pr import check_pr
 
 
@@ -73,12 +74,17 @@ def main(argv: list[str] | None = None) -> int:
     return 2
 
 
+def _live_claim_fetch(url: str) -> str:
+    return fetch_well_known(url)
+
+
 def _check_pr(args: argparse.Namespace) -> int:
     result = check_pr(
         head=args.head,
         base=args.base,
         author=args.author,
         today=_today(args.today),
+        claim_fetch=_live_claim_fetch,
     )
     report = result.report()
     sys.stdout.write(report)

@@ -7,6 +7,7 @@ from datetime import date, datetime, timezone
 from pathlib import Path
 
 from validator.issues import FIX, Issue, render_report
+from validator.claim import owners_listed, well_known_url
 from validator.posts import (
     PostParseError,
     author_owns,
@@ -35,7 +36,14 @@ class Result:
         return render_report(title_failed=bool(self.issues), issues=self.issues, notes=self.notes)
 
 
-def check_pr(*, head: Path, base: Path, author: str, today: date | None = None) -> Result:
+def check_pr(
+    *,
+    head: Path,
+    base: Path,
+    author: str,
+    today: date | None = None,
+    claim_fetch=None,
+) -> Result:
     today = today or datetime.now(timezone.utc).date()
     if not head.is_dir():
         return Result(
@@ -220,11 +228,13 @@ def check_pr(*, head: Path, base: Path, author: str, today: date | None = None) 
             f"({outside}). Auto-merge stays off. It needs approval from the Softprobe team "
             "(`@softprobe/openjob-maintainers`)."
         )
-    elif not issues and new_companies:
+    elif not issues and new_companies and not _claims_verified(new_companies, head_files, claim_fetch):
         notes.append(
             "A new company page is reviewed once by `@softprobe/openjob-maintainers`. "
             "Auto-merge stays off. After it is on the board, the people in `owners` can edit "
-            "the page and its jobs, and those pull requests can auto-merge."
+            "the page and its jobs, and those pull requests can auto-merge. "
+            "A page whose `https://<company-domain>/.well-known/openjob.txt` lists every owner "
+            "can auto-merge. Maintainer review is the fallback."
         )
     elif not issues and not owns_every_file:
         notes.append(
@@ -242,6 +252,23 @@ def check_pr(*, head: Path, base: Path, author: str, today: date | None = None) 
             note += " The merge comment includes the permalink and the share links."
         notes.append(note)
     return Result(issues=issues, notes=notes, automerge=automerge, share_comment=share_comment)
+
+
+def _claims_verified(companies: list[str], head_files: dict[str, Path], claim_fetch) -> bool:
+    if claim_fetch is None:
+        return False
+    for rel in companies:
+        meta = _meta(head_files.get(rel)) or {}
+        url = well_known_url(meta.get("website"))
+        if url is None:
+            return False
+        try:
+            body = claim_fetch(url)
+        except Exception:
+            return False
+        if not isinstance(body, str) or not owners_listed(meta, body):
+            return False
+    return True
 
 
 def _new_companies(added: list[str], head_files: dict[str, Path]) -> list[str]:

@@ -21,6 +21,10 @@
     "tags": { "$ref": "https://github.com/softprobe/openjob/schema/common.json#/$defs/tags" },
     "posted": { "$ref": "https://github.com/softprobe/openjob/schema/common.json#/$defs/date" },
     "posted_by": { "$ref": "https://github.com/softprobe/openjob/schema/common.json#/$defs/github" },
+    "index": {
+      "description": "Quoted on or off. off stops indexing this company's public ATS board. Unquoted off is a YAML boolean and is rejected.",
+      "enum": ["on", "off"]
+    },
     "owners": {
       "description": "GitHub logins who can edit this page and its jobs. Required on a new page and on later edits. The pull request author has to be in the list when the page is created.",
       "type": "array",
