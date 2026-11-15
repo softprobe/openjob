@@ -1,0 +1,174 @@
+# Daily index of public employer feeds. This file runs from main.
+# Shards are written to the index-data branch. They are not files on main.
+# A sharp drop opens an issue and does not publish. ATS requests use no token.
+
+name: Index
+
+on:
+  schedule:
+    - cron: "17 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+  actions: write
+
+jobs:
+  index:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out main
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          path: repo
+          persist-credentials: false
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r repo/requirements.txt
+
+      - name: Prepare the data branch
+        env:
+          GIT_TERMINAL_PROMPT: "0"
+        run: |
+          set -euo pipefail
+          git init -b index-data data
+          git -C data config user.email "github-actions[bot]@users.noreply.github.com"
+          git -C data config user.name "github-actions[bot]"
+          git -C data remote add origin "https://github.com/${GITHUB_REPOSITORY}.git"
+          if git -C data -c credential.helper= -c http.extraheader= fetch --depth=1 origin index-data; then
+            git -C data checkout --detach FETCH_HEAD
+          else
+            git -C data commit --allow-empty -m "Start the index data branch."
+          fi
+
+      - name: Fetch the public boards
+        id: index
+        working-directory: repo
+        run: |
+          set +e
+          python -m indexer run --sources sources --data ../data --root .
+          code=$?
+          set -e
+          if [ "$code" -eq 2 ]; then
+            echo "publish=false" >> "$GITHUB_OUTPUT"
+          elif [ "$code" -eq 0 ]; then
+            echo "publish=true" >> "$GITHUB_OUTPUT"
+          else
+            exit "$code"
+          fi
+
+      - name: Open an issue instead of publishing a bad snapshot
+        if: steps.index.outputs.publish == 'false'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require("fs");
+            const report = JSON.parse(fs.readFileSync("data/report.json", "utf8"));
+            const marker = "<!-- openjob-index -->";
+            const dropped = (report.dropped || []).join(", ");
+            const body = [
+              marker,
+              `The index was not published. These feeds dropped by half or more: ${dropped}.`,
+              "The previous snapshot on `index-data` is unchanged.",
+              "```json",
+              JSON.stringify({ before: report.before, after: report.after }, null, 2),
+              "```",
+            ].join("\n");
+            const title = "Index held: a feed count dropped sharply";
+            const { data: issues } = await github.rest.issues.listForRepo({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              state: "open",
+              per_page: 50,
+            });
+            const existing = issues.find((issue) => issue.title === title);
+            if (existing) {
+              await github.rest.issues.createComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: existing.number,
+                body,
+              });
+            } else {
+              await github.rest.issues.create({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                title,
+                body,
+              });
+            }
+
+      - name: Note boards hidden after 48 hours
+        if: steps.index.outputs.publish == 'true'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require("fs");
+            const report = JSON.parse(fs.readFileSync("data/report.json", "utf8"));
+            const hidden = report.hidden || [];
+            if (!hidden.length) return;
+            const marker = "<!-- openjob-index-stale -->";
+            const lines = hidden.map((board) => `- ${board.slug} (${board.ats} / ${board.board})`);
+            const body = [
+              marker,
+              "These boards have failed for 48 hours and are hidden from the index.",
+              ...lines,
+            ].join("\n");
+            const title = "Index: a board is hidden after 48 hours";
+            const { data: issues } = await github.rest.issues.listForRepo({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              state: "open",
+              per_page: 50,
+            });
+            const existing = issues.find((issue) => issue.title === title);
+            if (existing) {
+              await github.rest.issues.createComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: existing.number,
+                body,
+              });
+            } else {
+              await github.rest.issues.create({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                title,
+                body,
+              });
+            }
+
+      - name: Publish the data branch
+        if: steps.index.outputs.publish == 'true'
+        env:
+          GIT_TERMINAL_PROMPT: "0"
+          TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          git -C data add shards report.json
+          if git -C data diff --cached --quiet; then
+            echo "No index changes."
+            exit 0
+          fi
+          git -C data commit -m "Index public jobs."
+          git -C data \
+            -c http.extraheader="AUTHORIZATION: bearer ${TOKEN}" \
+            push origin HEAD:index-data
+
+      - name: Refresh the site
+        if: steps.index.outputs.publish == 'true'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            await github.rest.actions.createWorkflowDispatch({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              workflow_id: "pages.yml",
+              ref: "main",
+            });
