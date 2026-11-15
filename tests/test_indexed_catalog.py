@@ -69,6 +69,12 @@ class CatalogTests(unittest.TestCase):
         sitemap = (site / "sitemap-1.xml").read_text(encoding="utf-8")
         self.assertIn("/c/acme/", sitemap)
         self.assertNotIn("indexed/greenhouse", sitemap)
+        home = (site / "index.html").read_text(encoding="utf-8")
+        self.assertIn("https://boards.example/live", home)
+        self.assertNotIn("p/indexed/", home)
+        feed = (site / "jobs.xml").read_text(encoding="utf-8")
+        self.assertNotIn("boards.example/live", feed)
+        self.assertNotIn(">None<", feed)
 
 
 def _shard(*, status, failed_at, checked, ats="greenhouse", board="acme", job_id="live") -> dict:

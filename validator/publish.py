@@ -84,23 +84,26 @@ def write_discovery(
     archive_urls = _write_archives(site_dir, grouped, lastmod, archive_page_size)
     _write_homepage(site_dir, grouped, homepage_per_kind, archive_page_size)
     jobs = grouped["job"]
+    # Feeds carry posts that have a page on this site. Indexed jobs stay in index.json.
+    owned = [post for post in posts if post.get("permalink")]
+    owned_jobs = [post for post in jobs if post.get("permalink")]
     (site_dir / "feed.xml").write_text(
-        _rss(posts[:feed_limit], "OpenJob", f"{_origin()}/feed.xml"), encoding="utf-8"
+        _rss(owned[:feed_limit], "OpenJob", f"{_origin()}/feed.xml"), encoding="utf-8"
     )
     (site_dir / "jobs.xml").write_text(
-        _rss(jobs[:feed_limit], "OpenJob jobs", f"{_origin()}/jobs.xml"), encoding="utf-8"
+        _rss(owned_jobs[:feed_limit], "OpenJob jobs", f"{_origin()}/jobs.xml"), encoding="utf-8"
     )
     (site_dir / "atom.xml").write_text(
-        _atom(posts[:feed_limit], "OpenJob", f"{_origin()}/atom.xml"), encoding="utf-8"
+        _atom(owned[:feed_limit], "OpenJob", f"{_origin()}/atom.xml"), encoding="utf-8"
     )
     (site_dir / "jobs.atom").write_text(
-        _atom(jobs[:feed_limit], "OpenJob jobs", f"{_origin()}/jobs.atom"), encoding="utf-8"
+        _atom(owned_jobs[:feed_limit], "OpenJob jobs", f"{_origin()}/jobs.atom"), encoding="utf-8"
     )
     (site_dir / "feed.json").write_text(
-        _json_feed(posts[:feed_limit], "OpenJob", f"{_origin()}/feed.json"), encoding="utf-8"
+        _json_feed(owned[:feed_limit], "OpenJob", f"{_origin()}/feed.json"), encoding="utf-8"
     )
     (site_dir / "jobs.json").write_text(
-        _json_feed(jobs[:feed_limit], "OpenJob jobs", f"{_origin()}/jobs.json"), encoding="utf-8"
+        _json_feed(owned_jobs[:feed_limit], "OpenJob jobs", f"{_origin()}/jobs.json"), encoding="utf-8"
     )
     talents = grouped["talent"]
     (site_dir / "talents.xml").write_text(
@@ -113,7 +116,7 @@ def write_discovery(
         _json_feed(talents[:feed_limit], "OpenJob talent", f"{_origin()}/talents.json"), encoding="utf-8"
     )
     (site_dir / "llms.txt").write_text(_llms(grouped), encoding="utf-8")
-    (site_dir / "llms-full.txt").write_text(_llms_full(posts, llms_full_limit), encoding="utf-8")
+    (site_dir / "llms-full.txt").write_text(_llms_full(owned, llms_full_limit), encoding="utf-8")
     _write_schemas(site_dir)
     (site_dir / "robots.txt").write_text(_robots(), encoding="utf-8")
     _write_sitemaps(
@@ -190,7 +193,11 @@ def _homepage_list(grouped: dict[str, list[dict]], per_kind: int, page_size: int
         posts = grouped[key]
         if not posts:
             continue
-        items = "\n".join(_post_item(post, "p/" + str(post["path"]).removesuffix(".md") + "/") for post in posts[:per_kind])
+        items = "\n".join(
+            item
+            for post in posts[:per_kind]
+            if (item := _post_item(post, "p/" + str(post["path"]).removesuffix(".md") + "/"))
+        )
         archive = f"{slug}/page/1/"
         sections.append(
             "\n".join(
@@ -222,6 +229,10 @@ def _homepage_list(grouped: dict[str, list[dict]], per_kind: int, page_size: int
 
 
 def _post_item(post: dict, href: str) -> str:
+    if post.get("origin") == "indexed":
+        href = str(post.get("source_url") or "")
+    if not href or href == "None":
+        return ""
     return f'<li><a href="{escape(href)}">{escape(_label(post))}</a></li>'
 
 
@@ -297,7 +308,7 @@ def _archive_page(key: str, slug: str, title: str, number: int, pages: int, post
     head.append("</nav>")
     if posts:
         head.append("<ul>")
-        head.extend(_post_item(post, str(post["permalink"])) for post in posts)
+        head.extend(item for post in posts if (item := _post_item(post, str(post.get("permalink") or ""))))
         head.append("</ul>")
     else:
         empty = {
