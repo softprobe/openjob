@@ -13,6 +13,7 @@ It becomes the host file when the board is served from its own domain.
 from __future__ import annotations
 
 import base64
+import html
 import json
 import shutil
 from datetime import datetime, timezone
@@ -122,6 +123,7 @@ def write_discovery(
         url_limit=sitemap_url_limit,
         byte_limit=sitemap_byte_limit,
     )
+    _write_hubs(site_dir, posts)
     _write_about(site_dir)
     _write_not_found(site_dir)
     _write_cname(site_dir)
@@ -323,12 +325,87 @@ def _page_count(count: int, page_size: int) -> int:
     return (count + page_size - 1) // page_size
 
 
+def _write_hubs(site_dir: Path, posts: list[dict]) -> None:
+    """Indexable company hubs for boards that have no company page. No JobPosting markup."""
+    groups: dict[str, list[dict]] = {}
+    for post in posts:
+        if post.get("origin") != "indexed" or post.get("company_permalink"):
+            continue
+        slug = str(post.get("owner") or "")
+        if slug:
+            groups.setdefault(slug, []).append(post)
+    dest_root = site_dir / "c"
+    if dest_root.is_symlink():
+        raise ValueError("Refusing to replace a symlinked company hub directory.")
+    if dest_root.exists():
+        shutil.rmtree(dest_root)
+    for slug, jobs in groups.items():
+        dest = dest_root / slug / "index.html"
+        dest.parent.mkdir(parents=True, exist_ok=True)
+        dest.write_text(_hub_html(slug, jobs), encoding="utf-8")
+
+
+def _hub_html(slug: str, jobs: list[dict]) -> str:
+    name = str(jobs[0].get("org") or slug)
+    rows = []
+    for job in jobs:
+        title = html.escape(str(job.get("title") or ""))
+        url = html.escape(str(job.get("source_url") or job.get("apply") or ""), quote=True)
+        place = html.escape(str(job.get("location") or ""))
+        checked = html.escape(str(job.get("last_checked") or ""))
+        rows.append(
+            f'<li><a href="{url}" rel="noopener noreferrer">{title}</a>'
+            f" · {place} · checked {checked}</li>"
+        )
+    body = "\n".join(rows)
+    home = html.escape(_home(), quote=True)
+    return f"""<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Jobs at {html.escape(name)}</title>
+  <meta name="description" content="Jobs at {html.escape(name)}, linked from the employer's own board and checked daily.">
+  <link rel="canonical" href="{html.escape(_origin(), quote=True)}/c/{html.escape(slug, quote=True)}/">
+  <link rel="stylesheet" href="../../style.css">
+</head>
+<body class="entry">
+  <div class="wrap">
+    <p><a href="{home}">OpenJob</a></p>
+    <h1>Jobs at {html.escape(name)}</h1>
+    <p>These roles are indexed from {html.escape(name)}'s own board. OpenJob did not write them. Checked daily.</p>
+    <ul>
+{body}
+    </ul>
+    <p><a href="../../about/#claim">Claim this page</a></p>
+  </div>
+</body>
+</html>
+"""
+
+
+def _hub_locs(posts: list[dict], lastmod: str):
+    seen: set[str] = set()
+    for post in posts:
+        if post.get("origin") != "indexed" or post.get("company_permalink"):
+            continue
+        slug = str(post.get("owner") or "")
+        if not slug or slug in seen:
+            continue
+        seen.add(slug)
+        posted = str(post.get("posted") or lastmod)
+        yield f"{_origin()}/c/{slug}/", posted[:10]
+
+
 def _sitemap_locs(lastmod: str, archive_urls: list[tuple[str, str]], posts: list[dict]):
     yield _home(), lastmod
     yield from archive_urls
     for post in posts:
+        page = post.get("permalink")
+        if not page:
+            continue
         posted = str(post.get("posted") or lastmod)
-        yield str(post["permalink"]), posted[:10]
+        yield str(page), posted[:10]
+    yield from _hub_locs(posts, lastmod)
 
 
 def _write_sitemaps(site_dir: Path, locs, lastmod: str, *, url_limit: int, byte_limit: int) -> None:

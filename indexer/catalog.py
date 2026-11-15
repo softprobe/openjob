@@ -36,14 +36,20 @@ def indexed_posts(data_dir: Path | None, *, now: datetime, owner_urls: set[str],
     return posts
 
 
-def claimed_slugs(root: Path) -> set[str]:
-    found = set()
+def company_pages(root: Path) -> dict[str, str]:
+    """Slug to repository path for a company page that has owners."""
+    found = {}
     for path in (root / "companies").glob("*/*.md"):
         meta = _front_matter(path)
         owners = meta.get("owners") or []
-        if meta.get("slug") and isinstance(owners, list) and owners:
-            found.add(str(meta["slug"]))
+        slug = meta.get("slug")
+        if slug and isinstance(owners, list) and owners:
+            found[str(slug)] = path.relative_to(root).as_posix()
     return found
+
+
+def claimed_slugs(root: Path) -> set[str]:
+    return set(company_pages(root))
 
 
 def _row(shard: dict, job: dict, *, claimed: bool) -> dict:

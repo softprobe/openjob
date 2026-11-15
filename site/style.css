@@ -199,6 +199,7 @@ article {
 }
 
 .badge.federated { color: var(--seal); }
+.badge.indexed { text-transform: none; letter-spacing: 0; }
 
 h2 { margin: 6px 0 2px; font-size: 28px; line-height: 1.15; font-weight: 700; }
 

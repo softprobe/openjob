@@ -14,7 +14,8 @@ sys.path.insert(0, str(ROOT / "mcp"))
 
 from indexer.catalog import INDEXED_NOTICE  # noqa: E402
 from openjob_mcp.index_client import search_jobs  # noqa: E402
-from validator.index import build_index  # noqa: E402
+from validator.index import build_index
+from validator.publish import write_discovery  # noqa: E402
 
 NOW = datetime(2026, 11, 15, 6, 0, tzinfo=timezone.utc)
 
@@ -59,6 +60,15 @@ class CatalogTests(unittest.TestCase):
         self.assertEqual(found[0]["ats"], "greenhouse")
         self.assertEqual(found[0]["origin"], "indexed")
         self.assertEqual(search_jobs("", {"origin": "owner"}, posts=document["posts"])[0]["origin"], "owner")
+        site = data / "site"
+        write_discovery(site, document)
+        hub = (site / "c" / "acme" / "index.html").read_text(encoding="utf-8")
+        self.assertIn("Jobs at Acme", hub)
+        self.assertIn("Claim this page", hub)
+        self.assertNotIn("JobPosting", hub)
+        sitemap = (site / "sitemap-1.xml").read_text(encoding="utf-8")
+        self.assertIn("/c/acme/", sitemap)
+        self.assertNotIn("indexed/greenhouse", sitemap)
 
 
 def _shard(*, status, failed_at, checked, ats="greenhouse", board="acme", job_id="live") -> dict:

@@ -23,7 +23,7 @@ from validator.posts import (
 )
 from validator.prose import excerpt as prose_excerpt
 from validator.publish import write_discovery
-from indexer.catalog import INDEXED_NOTICE, claimed_slugs, indexed_posts
+from indexer.catalog import INDEXED_NOTICE, company_pages, indexed_posts
 from validator.share import permalink, render_post_page, share_links, share_text
 
 # A company page links its newest roles. The jobs archive lists every role.
@@ -47,10 +47,16 @@ def build_index(root: Path, *, today: date | None = None, index_data: Path | Non
         posts.append(_project(rel, meta, body, root=root))
     owner_urls = {post["url"] for post in posts if post.get("kind") == "job" and post.get("url")}
     owner_urls.update(post["apply"] for post in posts if post.get("kind") == "job" and post.get("apply"))
+    pages = company_pages(root)
     now = datetime.now(timezone.utc)
     posts.extend(
-        indexed_posts(index_data, now=now, owner_urls=owner_urls, claimed=claimed_slugs(root))
+        indexed_posts(index_data, now=now, owner_urls=owner_urls, claimed=set(pages))
     )
+    for post in posts:
+        rel = pages.get(str(post.get("owner") or "")) if post.get("origin") == "indexed" else None
+        if rel:
+            post["company_permalink"] = permalink(rel)
+            post["claimed"] = True
     posts.sort(key=lambda post: post["posted"], reverse=True)
     posts.sort(key=lambda post: 0 if post.get("origin", "owner") == "owner" else 1)
     document = {

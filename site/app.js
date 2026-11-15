@@ -6,6 +6,7 @@ const state = {
   remote: "any",
   language: "any",
   tag: "any",
+  origin: "all",
 };
 
 const els = {
@@ -17,6 +18,7 @@ const els = {
   remote: document.querySelector("#remote"),
   language: document.querySelector("#language"),
   tag: document.querySelector("#tag"),
+  origin: document.querySelector("#origin"),
   count: document.querySelector("#count"),
   results: document.querySelector("#results"),
   footer: document.querySelector("#footer-note"),
@@ -38,6 +40,8 @@ function readQuery() {
   state.remote = params.get("remote") || "any";
   state.language = params.get("language") || "any";
   state.tag = params.get("tag") || "any";
+  const origin = params.get("origin");
+  state.origin = origin === "owner" || origin === "indexed" ? origin : "all";
 }
 
 function writeQuery() {
@@ -48,6 +52,7 @@ function writeQuery() {
   if (state.remote !== "any") params.set("remote", state.remote);
   if (state.language !== "any") params.set("language", state.language);
   if (state.tag !== "any") params.set("tag", state.tag);
+  if (state.origin !== "all") params.set("origin", state.origin);
   const next = params.toString();
   const hash = location.hash || "";
   const nextUrl = next ? `?${next}${hash}` : `${location.pathname}${hash}`;
@@ -64,6 +69,7 @@ function applyChrome() {
   document.querySelector("#label-remote").textContent = copy.remote;
   document.querySelector("#label-language").textContent = copy.language;
   document.querySelector("#label-tag").textContent = copy.tag;
+  document.querySelector("#label-origin").textContent = copy.origin;
   els.q.placeholder = copy.q;
   els.location.placeholder = copy.location;
   els.tabs.forEach((button) => {
@@ -78,6 +84,7 @@ function applyChrome() {
   fillSelect(els.language, languages, (value) => (value === "any" ? copy.any : value));
   const tags = ["any", ...unique(posts.flatMap((post) => post.tags || [])).sort()];
   fillSelect(els.tag, tags, (value) => (value === "any" ? copy.any : value));
+  fillSelect(els.origin, ["all", "owner", "indexed"], (value) => copy.originOpt[value]);
   els.q.value = state.q;
   els.location.value = state.location;
   paintAgent();
@@ -125,6 +132,8 @@ function matches(post) {
   if (state.tag !== "any" && !(post.tags || []).includes(state.tag)) return false;
   if (state.location && !(post.location || "").toLowerCase().includes(state.location.toLowerCase())) return false;
   if (state.q && !haystack(post).includes(state.q.toLowerCase())) return false;
+  if (state.origin === "owner" && post.origin === "indexed") return false;
+  if (state.origin === "indexed" && post.origin !== "indexed") return false;
   return true;
 }
 
@@ -155,7 +164,8 @@ function filtersActive() {
       state.location ||
       state.remote !== "any" ||
       state.language !== "any" ||
-      state.tag !== "any"
+      state.tag !== "any" ||
+      state.origin !== "all"
   );
 }
 
@@ -206,7 +216,7 @@ function paint(options = {}) {
   }
   els.results.replaceChildren();
   const target = targetPath();
-  let visible = posts.filter(matches).slice(0, 200);
+  let visible = posts.filter(matches).sort(ownerFirst).slice(0, 200);
   if (target) {
     const pinned = posts.find((post) => entryPath(post) === target);
     if (pinned && !visible.some((post) => post.path === pinned.path)) {
@@ -227,6 +237,18 @@ function paint(options = {}) {
   }
 }
 
+function ownerFirst(a, b) {
+  const rank = (post) => (post.origin === "indexed" ? 1 : 0);
+  if (rank(a) !== rank(b)) return rank(a) - rank(b);
+  return String(b.posted || "").localeCompare(String(a.posted || ""));
+}
+
+function hoursSince(stamp) {
+  const then = Date.parse(stamp || "");
+  if (!then) return 0;
+  return Math.max(0, Math.round((Date.now() - then) / 3600000));
+}
+
 function card(post, target) {
   const copy = t();
   const article = document.createElement("article");
@@ -244,12 +266,22 @@ function card(post, target) {
   }
   (post.languages || []).forEach((language) => badges.appendChild(badge(language)));
   if (post.federated) badges.appendChild(badge(copy.federated, "federated"));
+  if (post.origin === "indexed") {
+    badges.appendChild(badge(copy.indexedBadge(hoursSince(post.last_checked)), "indexed"));
+  }
   top.appendChild(badges);
   article.appendChild(top);
 
   const logo = logoImage(post);
   const heading = document.createElement("h2");
-  if (post.path && post.permalink) {
+  if (post.origin === "indexed" && post.source_url) {
+    const link = document.createElement("a");
+    link.href = post.source_url;
+    link.textContent = post.title;
+    link.rel = "noopener noreferrer";
+    link.target = "_blank";
+    heading.appendChild(link);
+  } else if (post.path && post.permalink) {
     const link = document.createElement("a");
     link.href = `p/${entryPath(post)}/`;
     link.textContent = post.title;
@@ -316,7 +348,11 @@ function card(post, target) {
   } else if (post.kind === "talent" || post.kind === "talent-ref") {
     talentLinks(post, copy).forEach((node) => links.appendChild(node));
   }
-  const source = safeLink(post.source_url, copy.source);
+  if (post.origin === "indexed") {
+    const apply = safeLink(post.apply || post.source_url, copy.applyOnSite(post.org || post.headline || "the company"));
+    if (apply) links.appendChild(apply);
+  }
+  const source = post.origin === "indexed" ? null : safeLink(post.source_url, copy.source);
   if (source) links.appendChild(source);
   const dates = document.createElement("span");
   dates.className = "sub";
@@ -629,6 +665,7 @@ function bind() {
     state.remote = els.remote.value;
     state.language = els.language.value;
     state.tag = els.tag.value;
+    state.origin = els.origin.value;
     writeQuery();
     paint();
   };
@@ -638,6 +675,7 @@ function bind() {
     els.remote.addEventListener(eventName, sync);
     els.language.addEventListener(eventName, sync);
     els.tag.addEventListener(eventName, sync);
+    els.origin.addEventListener(eventName, sync);
   });
   document.addEventListener("keydown", (event) => {
     if (event.key === "/" && document.activeElement.tagName !== "INPUT") {
