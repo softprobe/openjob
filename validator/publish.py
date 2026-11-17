@@ -26,6 +26,7 @@ from validator.share import (
     GOOGLE_VERIFICATION_FILE,
     TEMPLATE_ORIGIN,
     bare_host,
+    favicon_link,
     pages_origin,
     social_meta,
 )
@@ -377,6 +378,7 @@ def _hub_html(slug: str, jobs: list[dict]) -> str:
   <title>Jobs at {html.escape(name)}</title>
   <meta name="description" content="Jobs at {html.escape(name)}, linked from the employer's own board and checked daily.">
   <link rel="canonical" href="{html.escape(_origin(), quote=True)}/c/{html.escape(slug, quote=True)}/">
+  {favicon_link()}
   <link rel="stylesheet" href="../../style.css">
 </head>
 <body class="entry">

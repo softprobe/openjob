@@ -163,6 +163,12 @@ def bare_host(origin: str | None = None) -> str | None:
     return host
 
 
+def favicon_link(origin: str | None = None) -> str:
+    root = (origin or pages_origin()).rstrip("/")
+    icon = html.escape(f"{root}/favicon.svg", quote=True)
+    return f'<link rel="icon" type="image/svg+xml" href="{icon}">'
+
+
 def google_site_verification() -> str:
     value = os.environ.get("GOOGLE_SITE_VERIFICATION", "").strip()
     return value or GOOGLE_SITE_VERIFICATION
@@ -178,6 +184,7 @@ def social_meta(origin: str | None = None) -> str:
     image = f"{root}/og.png"
     e = html.escape
     lines = [
+        favicon_link(root),
         f'<meta property="og:image" content="{e(image, quote=True)}">',
         '<meta property="og:image:width" content="1200">',
         '<meta property="og:image:height" content="630">',
