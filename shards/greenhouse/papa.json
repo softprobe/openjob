@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-16T15:39:28Z",
+  "checked_at": "2026-11-17T11:59:50Z",
   "failed_at": null,
   "etag": "W/\"816dac52e67bd6ded9cd0aa8622a6d1c\"",
   "jobs": [
@@ -20,7 +20,7 @@
       "source_url": "https://job-boards.greenhouse.io/papa/jobs/5168367007",
       "apply_url": "https://job-boards.greenhouse.io/papa/jobs/5168367007",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "5202496007",
@@ -38,7 +38,7 @@
       "source_url": "https://job-boards.greenhouse.io/papa/jobs/5202496007",
       "apply_url": "https://job-boards.greenhouse.io/papa/jobs/5202496007",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     }
   ],
   "ats": "greenhouse",

@@ -1,8 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-16T15:39:28Z",
+  "checked_at": "2026-11-17T11:59:50Z",
   "failed_at": null,
-  "etag": "W/\"1aac955f390a6497fd0f6b84b28146c2\"",
+  "etag": "W/\"e9a650f0dc166a092f79735fd982a547\"",
   "jobs": [
     {
       "id": "4136487009",
@@ -20,7 +20,7 @@
       "source_url": "https://job-boards.greenhouse.io/navapbc/jobs/4136487009",
       "apply_url": "https://job-boards.greenhouse.io/navapbc/jobs/4136487009",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "4140569009",
@@ -38,7 +38,7 @@
       "source_url": "https://job-boards.greenhouse.io/navapbc/jobs/4140569009",
       "apply_url": "https://job-boards.greenhouse.io/navapbc/jobs/4140569009",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "4140877009",
@@ -56,7 +56,7 @@
       "source_url": "https://job-boards.greenhouse.io/navapbc/jobs/4140877009",
       "apply_url": "https://job-boards.greenhouse.io/navapbc/jobs/4140877009",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "4140893009",
@@ -74,7 +74,7 @@
       "source_url": "https://job-boards.greenhouse.io/navapbc/jobs/4140893009",
       "apply_url": "https://job-boards.greenhouse.io/navapbc/jobs/4140893009",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "4140898009",
@@ -92,7 +92,7 @@
       "source_url": "https://job-boards.greenhouse.io/navapbc/jobs/4140898009",
       "apply_url": "https://job-boards.greenhouse.io/navapbc/jobs/4140898009",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "4140911009",
@@ -110,7 +110,25 @@
       "source_url": "https://job-boards.greenhouse.io/navapbc/jobs/4140911009",
       "apply_url": "https://job-boards.greenhouse.io/navapbc/jobs/4140911009",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
+    },
+    {
+      "id": "4310556009",
+      "title": "Data Scientist",
+      "company": "Nava PBC",
+      "location": "Remote",
+      "remote": "remote",
+      "department": "",
+      "employment_type": "",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-05",
+      "updated": "2026-11-16",
+      "deadline": "",
+      "source_url": "https://job-boards.greenhouse.io/navapbc/jobs/4310556009",
+      "apply_url": "https://job-boards.greenhouse.io/navapbc/jobs/4310556009",
+      "first_seen": "2026-11-17T11:59:50Z",
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "4318337009",
@@ -128,7 +146,7 @@
       "source_url": "https://job-boards.greenhouse.io/navapbc/jobs/4318337009",
       "apply_url": "https://job-boards.greenhouse.io/navapbc/jobs/4318337009",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "4377031009",
@@ -146,7 +164,7 @@
       "source_url": "https://job-boards.greenhouse.io/navapbc/jobs/4377031009",
       "apply_url": "https://job-boards.greenhouse.io/navapbc/jobs/4377031009",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "4382009009",
@@ -164,7 +182,7 @@
       "source_url": "https://job-boards.greenhouse.io/navapbc/jobs/4382009009",
       "apply_url": "https://job-boards.greenhouse.io/navapbc/jobs/4382009009",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "4395330009",
@@ -182,7 +200,7 @@
       "source_url": "https://job-boards.greenhouse.io/navapbc/jobs/4395330009",
       "apply_url": "https://job-boards.greenhouse.io/navapbc/jobs/4395330009",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "4413424009",
@@ -200,7 +218,7 @@
       "source_url": "https://job-boards.greenhouse.io/navapbc/jobs/4413424009",
       "apply_url": "https://job-boards.greenhouse.io/navapbc/jobs/4413424009",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "4417346009",
@@ -218,7 +236,7 @@
       "source_url": "https://job-boards.greenhouse.io/navapbc/jobs/4417346009",
       "apply_url": "https://job-boards.greenhouse.io/navapbc/jobs/4417346009",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "4443978009",
@@ -236,7 +254,7 @@
       "source_url": "https://job-boards.greenhouse.io/navapbc/jobs/4443978009",
       "apply_url": "https://job-boards.greenhouse.io/navapbc/jobs/4443978009",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "4450583009",
@@ -254,7 +272,7 @@
       "source_url": "https://job-boards.greenhouse.io/navapbc/jobs/4450583009",
       "apply_url": "https://job-boards.greenhouse.io/navapbc/jobs/4450583009",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "4472691009",
@@ -272,25 +290,7 @@
       "source_url": "https://job-boards.greenhouse.io/navapbc/jobs/4472691009",
       "apply_url": "https://job-boards.greenhouse.io/navapbc/jobs/4472691009",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
-    },
-    {
-      "id": "4473996009",
-      "title": "Senior Software Engineer (Ruby)",
-      "company": "Nava PBC",
-      "location": "Remote",
-      "remote": "remote",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-10-30",
-      "updated": "2026-10-30",
-      "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/navapbc/jobs/4473996009",
-      "apply_url": "https://job-boards.greenhouse.io/navapbc/jobs/4473996009",
-      "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "4474885009",
@@ -308,11 +308,11 @@
       "source_url": "https://job-boards.greenhouse.io/navapbc/jobs/4474885009",
       "apply_url": "https://job-boards.greenhouse.io/navapbc/jobs/4474885009",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "4477567009",
-      "title": "Senior Infrastructure Manager (Cloud Hosting )",
+      "title": "Senior Infrastructure Manager (Cloud Hosting)",
       "company": "Nava PBC",
       "location": "Remote",
       "remote": "remote",
@@ -321,12 +321,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-10",
-      "updated": "2026-11-10",
+      "updated": "2026-11-16",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/navapbc/jobs/4477567009",
       "apply_url": "https://job-boards.greenhouse.io/navapbc/jobs/4477567009",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "4482367009",
@@ -344,11 +344,11 @@
       "source_url": "https://job-boards.greenhouse.io/navapbc/jobs/4482367009",
       "apply_url": "https://job-boards.greenhouse.io/navapbc/jobs/4482367009",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "4483077009",
-      "title": "Technical Trainer Lead, Design (Contract)",
+      "title": "Technical Trainer Lead, (Contract)",
       "company": "Nava PBC",
       "location": "Remote",
       "remote": "remote",
@@ -357,12 +357,48 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-05",
-      "updated": "2026-11-10",
+      "updated": "2026-11-16",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/navapbc/jobs/4483077009",
       "apply_url": "https://job-boards.greenhouse.io/navapbc/jobs/4483077009",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
+    },
+    {
+      "id": "4508783009",
+      "title": "Employee Experience Coordinator",
+      "company": "Nava PBC",
+      "location": "Washington, D.C",
+      "remote": "unspecified",
+      "department": "",
+      "employment_type": "",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-16",
+      "updated": "2026-11-16",
+      "deadline": "",
+      "source_url": "https://job-boards.greenhouse.io/navapbc/jobs/4508783009",
+      "apply_url": "https://job-boards.greenhouse.io/navapbc/jobs/4508783009",
+      "first_seen": "2026-11-17T11:59:50Z",
+      "last_checked": "2026-11-17T11:59:50Z"
+    },
+    {
+      "id": "4509284009",
+      "title": "Executive Assistant",
+      "company": "Nava PBC",
+      "location": "Remote",
+      "remote": "remote",
+      "department": "",
+      "employment_type": "",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-16",
+      "updated": "2026-11-16",
+      "deadline": "",
+      "source_url": "https://job-boards.greenhouse.io/navapbc/jobs/4509284009",
+      "apply_url": "https://job-boards.greenhouse.io/navapbc/jobs/4509284009",
+      "first_seen": "2026-11-17T11:59:50Z",
+      "last_checked": "2026-11-17T11:59:50Z"
     }
   ],
   "ats": "greenhouse",

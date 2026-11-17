@@ -1,8 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-16T15:39:28Z",
+  "checked_at": "2026-11-17T11:59:50Z",
   "failed_at": null,
-  "etag": "W/\"311eb660e4e8636fccc9ee8abbc8d57a\"",
+  "etag": "W/\"c7bda86f201dabe224abdf1ea46eba3c\"",
   "jobs": [
     {
       "id": "5227506007",
@@ -20,7 +20,7 @@
       "source_url": "https://job-boards.greenhouse.io/strivepharmacy/jobs/5227506007",
       "apply_url": "https://job-boards.greenhouse.io/strivepharmacy/jobs/5227506007",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "5228488007",
@@ -38,7 +38,7 @@
       "source_url": "https://job-boards.greenhouse.io/strivepharmacy/jobs/5228488007",
       "apply_url": "https://job-boards.greenhouse.io/strivepharmacy/jobs/5228488007",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "5254809007",
@@ -56,7 +56,7 @@
       "source_url": "https://job-boards.greenhouse.io/strivepharmacy/jobs/5254809007",
       "apply_url": "https://job-boards.greenhouse.io/strivepharmacy/jobs/5254809007",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "5262666007",
@@ -74,7 +74,7 @@
       "source_url": "https://job-boards.greenhouse.io/strivepharmacy/jobs/5262666007",
       "apply_url": "https://job-boards.greenhouse.io/strivepharmacy/jobs/5262666007",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "5265010007",
@@ -92,7 +92,7 @@
       "source_url": "https://job-boards.greenhouse.io/strivepharmacy/jobs/5265010007",
       "apply_url": "https://job-boards.greenhouse.io/strivepharmacy/jobs/5265010007",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "5271721007",
@@ -110,7 +110,7 @@
       "source_url": "https://job-boards.greenhouse.io/strivepharmacy/jobs/5271721007",
       "apply_url": "https://job-boards.greenhouse.io/strivepharmacy/jobs/5271721007",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "5272343007",
@@ -128,7 +128,7 @@
       "source_url": "https://job-boards.greenhouse.io/strivepharmacy/jobs/5272343007",
       "apply_url": "https://job-boards.greenhouse.io/strivepharmacy/jobs/5272343007",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "5272683007",
@@ -146,7 +146,7 @@
       "source_url": "https://job-boards.greenhouse.io/strivepharmacy/jobs/5272683007",
       "apply_url": "https://job-boards.greenhouse.io/strivepharmacy/jobs/5272683007",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "5274416007",
@@ -164,7 +164,7 @@
       "source_url": "https://job-boards.greenhouse.io/strivepharmacy/jobs/5274416007",
       "apply_url": "https://job-boards.greenhouse.io/strivepharmacy/jobs/5274416007",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "5277547007",
@@ -182,7 +182,7 @@
       "source_url": "https://job-boards.greenhouse.io/strivepharmacy/jobs/5277547007",
       "apply_url": "https://job-boards.greenhouse.io/strivepharmacy/jobs/5277547007",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "5280252007",
@@ -200,7 +200,7 @@
       "source_url": "https://job-boards.greenhouse.io/strivepharmacy/jobs/5280252007",
       "apply_url": "https://job-boards.greenhouse.io/strivepharmacy/jobs/5280252007",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "5283158007",
@@ -218,7 +218,7 @@
       "source_url": "https://job-boards.greenhouse.io/strivepharmacy/jobs/5283158007",
       "apply_url": "https://job-boards.greenhouse.io/strivepharmacy/jobs/5283158007",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "5283211007",
@@ -236,7 +236,7 @@
       "source_url": "https://job-boards.greenhouse.io/strivepharmacy/jobs/5283211007",
       "apply_url": "https://job-boards.greenhouse.io/strivepharmacy/jobs/5283211007",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "5284970007",
@@ -254,7 +254,7 @@
       "source_url": "https://job-boards.greenhouse.io/strivepharmacy/jobs/5284970007",
       "apply_url": "https://job-boards.greenhouse.io/strivepharmacy/jobs/5284970007",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "5285010007",
@@ -272,7 +272,7 @@
       "source_url": "https://job-boards.greenhouse.io/strivepharmacy/jobs/5285010007",
       "apply_url": "https://job-boards.greenhouse.io/strivepharmacy/jobs/5285010007",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "5285191007",
@@ -290,7 +290,7 @@
       "source_url": "https://job-boards.greenhouse.io/strivepharmacy/jobs/5285191007",
       "apply_url": "https://job-boards.greenhouse.io/strivepharmacy/jobs/5285191007",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "5285219007",
@@ -308,7 +308,7 @@
       "source_url": "https://job-boards.greenhouse.io/strivepharmacy/jobs/5285219007",
       "apply_url": "https://job-boards.greenhouse.io/strivepharmacy/jobs/5285219007",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "5285289007",
@@ -326,7 +326,7 @@
       "source_url": "https://job-boards.greenhouse.io/strivepharmacy/jobs/5285289007",
       "apply_url": "https://job-boards.greenhouse.io/strivepharmacy/jobs/5285289007",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "5285394007",
@@ -344,7 +344,7 @@
       "source_url": "https://job-boards.greenhouse.io/strivepharmacy/jobs/5285394007",
       "apply_url": "https://job-boards.greenhouse.io/strivepharmacy/jobs/5285394007",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "5286269007",
@@ -362,7 +362,7 @@
       "source_url": "https://job-boards.greenhouse.io/strivepharmacy/jobs/5286269007",
       "apply_url": "https://job-boards.greenhouse.io/strivepharmacy/jobs/5286269007",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "5286472007",
@@ -380,7 +380,7 @@
       "source_url": "https://job-boards.greenhouse.io/strivepharmacy/jobs/5286472007",
       "apply_url": "https://job-boards.greenhouse.io/strivepharmacy/jobs/5286472007",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "5287806007",
@@ -398,7 +398,7 @@
       "source_url": "https://job-boards.greenhouse.io/strivepharmacy/jobs/5287806007",
       "apply_url": "https://job-boards.greenhouse.io/strivepharmacy/jobs/5287806007",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "5287833007",
@@ -416,7 +416,7 @@
       "source_url": "https://job-boards.greenhouse.io/strivepharmacy/jobs/5287833007",
       "apply_url": "https://job-boards.greenhouse.io/strivepharmacy/jobs/5287833007",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "5287911007",
@@ -434,7 +434,7 @@
       "source_url": "https://job-boards.greenhouse.io/strivepharmacy/jobs/5287911007",
       "apply_url": "https://job-boards.greenhouse.io/strivepharmacy/jobs/5287911007",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "5290247007",
@@ -452,7 +452,7 @@
       "source_url": "https://job-boards.greenhouse.io/strivepharmacy/jobs/5290247007",
       "apply_url": "https://job-boards.greenhouse.io/strivepharmacy/jobs/5290247007",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "5291229007",
@@ -470,25 +470,7 @@
       "source_url": "https://job-boards.greenhouse.io/strivepharmacy/jobs/5291229007",
       "apply_url": "https://job-boards.greenhouse.io/strivepharmacy/jobs/5291229007",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
-    },
-    {
-      "id": "5291424007",
-      "title": "Inventory Control Specialist",
-      "company": "Strive Pharmacy",
-      "location": "Tampa, FL",
-      "remote": "unspecified",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-11-10",
-      "updated": "2026-11-13",
-      "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/strivepharmacy/jobs/5291424007",
-      "apply_url": "https://job-boards.greenhouse.io/strivepharmacy/jobs/5291424007",
-      "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "5295062007",
@@ -506,7 +488,7 @@
       "source_url": "https://job-boards.greenhouse.io/strivepharmacy/jobs/5295062007",
       "apply_url": "https://job-boards.greenhouse.io/strivepharmacy/jobs/5295062007",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     }
   ],
   "ats": "greenhouse",

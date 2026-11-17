@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-16T15:39:28Z",
+  "checked_at": "2026-11-17T11:59:50Z",
   "failed_at": null,
   "etag": "W/\"ad9d954a8c88546942e11099e4c22b47\"",
   "jobs": [
@@ -20,7 +20,7 @@
       "source_url": "https://job-boards.greenhouse.io/consumerreports/jobs/5113268007",
       "apply_url": "https://job-boards.greenhouse.io/consumerreports/jobs/5113268007",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "5125371007",
@@ -38,7 +38,7 @@
       "source_url": "https://job-boards.greenhouse.io/consumerreports/jobs/5125371007",
       "apply_url": "https://job-boards.greenhouse.io/consumerreports/jobs/5125371007",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "5217989007",
@@ -56,7 +56,7 @@
       "source_url": "https://job-boards.greenhouse.io/consumerreports/jobs/5217989007",
       "apply_url": "https://job-boards.greenhouse.io/consumerreports/jobs/5217989007",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "5247409007",
@@ -74,7 +74,7 @@
       "source_url": "https://job-boards.greenhouse.io/consumerreports/jobs/5247409007",
       "apply_url": "https://job-boards.greenhouse.io/consumerreports/jobs/5247409007",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "5283513007",
@@ -92,7 +92,7 @@
       "source_url": "https://job-boards.greenhouse.io/consumerreports/jobs/5283513007",
       "apply_url": "https://job-boards.greenhouse.io/consumerreports/jobs/5283513007",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     }
   ],
   "ats": "greenhouse",

@@ -1,0 +1,31 @@
+{
+  "status": "ok",
+  "checked_at": "2026-11-17T11:59:50Z",
+  "failed_at": null,
+  "etag": "W/\"c89-zUCD8g2H62qBgHX2mxaOZQ\"",
+  "jobs": [
+    {
+      "id": "cd605e41-1a63-4e0e-9636-fbc27a0c5c2b",
+      "title": "测试工程师（中台）",
+      "company": "国药控股数字科技（上海）有限公司",
+      "location": "上海市, 中国",
+      "remote": "unspecified",
+      "department": "研发中心",
+      "employment_type": "FULL_TIME",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2023-02-08",
+      "updated": "2023-02-08",
+      "deadline": "",
+      "source_url": "https://app.mokahr.com/social-recruitment/sinopharm/56224#/job/cd605e41-1a63-4e0e-9636-fbc27a0c5c2b",
+      "apply_url": "https://app.mokahr.com/apply/sinopharm/56224#/job/cd605e41-1a63-4e0e-9636-fbc27a0c5c2b/apply?pure=1",
+      "first_seen": "2026-11-17T11:59:50Z",
+      "last_checked": "2026-11-17T11:59:50Z"
+    }
+  ],
+  "ats": "moka",
+  "board": "sinopharm",
+  "slug": "sinopharm",
+  "name": "国药控股数字科技（上海）有限公司",
+  "website": "https://app.mokahr.com/social-recruitment/sinopharm/56224"
+}

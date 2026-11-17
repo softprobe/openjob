@@ -1,8 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-16T15:39:28Z",
+  "checked_at": "2026-11-17T11:59:50Z",
   "failed_at": null,
-  "etag": "W/\"f434c538ed9f60929d01b8d53e264c42\"",
+  "etag": "W/\"8dbf10e303549b4f19050a2e35b2b646\"",
   "jobs": [
     {
       "id": "5394784004",
@@ -20,7 +20,7 @@
       "source_url": "https://ionq.com/job?gh_jid=5394784004",
       "apply_url": "https://ionq.com/job?gh_jid=5394784004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "5789875004",
@@ -38,7 +38,7 @@
       "source_url": "https://ionq.com/job?gh_jid=5789875004",
       "apply_url": "https://ionq.com/job?gh_jid=5789875004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "5799314004",
@@ -56,7 +56,7 @@
       "source_url": "https://ionq.com/job?gh_jid=5799314004",
       "apply_url": "https://ionq.com/job?gh_jid=5799314004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "5803384004",
@@ -74,7 +74,7 @@
       "source_url": "https://ionq.com/job?gh_jid=5803384004",
       "apply_url": "https://ionq.com/job?gh_jid=5803384004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "5809795004",
@@ -92,7 +92,7 @@
       "source_url": "https://ionq.com/job?gh_jid=5809795004",
       "apply_url": "https://ionq.com/job?gh_jid=5809795004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "5809815004",
@@ -110,7 +110,7 @@
       "source_url": "https://ionq.com/job?gh_jid=5809815004",
       "apply_url": "https://ionq.com/job?gh_jid=5809815004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "5813951004",
@@ -128,7 +128,7 @@
       "source_url": "https://ionq.com/job?gh_jid=5813951004",
       "apply_url": "https://ionq.com/job?gh_jid=5813951004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "5828516004",
@@ -146,7 +146,7 @@
       "source_url": "https://ionq.com/job?gh_jid=5828516004",
       "apply_url": "https://ionq.com/job?gh_jid=5828516004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "5986908004",
@@ -164,7 +164,7 @@
       "source_url": "https://ionq.com/job?gh_jid=5986908004",
       "apply_url": "https://ionq.com/job?gh_jid=5986908004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "6005910004",
@@ -182,7 +182,7 @@
       "source_url": "https://ionq.com/job?gh_jid=6005910004",
       "apply_url": "https://ionq.com/job?gh_jid=6005910004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "6007964004",
@@ -200,25 +200,7 @@
       "source_url": "https://ionq.com/job?gh_jid=6007964004",
       "apply_url": "https://ionq.com/job?gh_jid=6007964004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
-    },
-    {
-      "id": "6013544004",
-      "title": "Senior Photonic Test Development Engineer",
-      "company": "IonQ",
-      "location": "Boston, Massachusetts, United States",
-      "remote": "unspecified",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-06-04",
-      "updated": "2026-10-15",
-      "deadline": "",
-      "source_url": "https://ionq.com/job?gh_jid=6013544004",
-      "apply_url": "https://ionq.com/job?gh_jid=6013544004",
-      "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "6013574004",
@@ -236,7 +218,7 @@
       "source_url": "https://ionq.com/job?gh_jid=6013574004",
       "apply_url": "https://ionq.com/job?gh_jid=6013574004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "6108284004",
@@ -254,7 +236,7 @@
       "source_url": "https://ionq.com/job?gh_jid=6108284004",
       "apply_url": "https://ionq.com/job?gh_jid=6108284004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "6108394004",
@@ -272,7 +254,7 @@
       "source_url": "https://ionq.com/job?gh_jid=6108394004",
       "apply_url": "https://ionq.com/job?gh_jid=6108394004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "6111676004",
@@ -290,7 +272,7 @@
       "source_url": "https://ionq.com/job?gh_jid=6111676004",
       "apply_url": "https://ionq.com/job?gh_jid=6111676004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "6114918004",
@@ -308,25 +290,7 @@
       "source_url": "https://ionq.com/job?gh_jid=6114918004",
       "apply_url": "https://ionq.com/job?gh_jid=6114918004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
-    },
-    {
-      "id": "6115813004",
-      "title": "Senior Solutions Architect - Quantum Memories",
-      "company": "IonQ",
-      "location": "Boston, Massachusetts, United States",
-      "remote": "unspecified",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-07-14",
-      "updated": "2026-10-15",
-      "deadline": "",
-      "source_url": "https://ionq.com/job?gh_jid=6115813004",
-      "apply_url": "https://ionq.com/job?gh_jid=6115813004",
-      "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "6117880004",
@@ -344,7 +308,7 @@
       "source_url": "https://ionq.com/job?gh_jid=6117880004",
       "apply_url": "https://ionq.com/job?gh_jid=6117880004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "6117927004",
@@ -362,7 +326,7 @@
       "source_url": "https://ionq.com/job?gh_jid=6117927004",
       "apply_url": "https://ionq.com/job?gh_jid=6117927004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "6122771004",
@@ -380,7 +344,7 @@
       "source_url": "https://ionq.com/job?gh_jid=6122771004",
       "apply_url": "https://ionq.com/job?gh_jid=6122771004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "6123854004",
@@ -398,7 +362,7 @@
       "source_url": "https://ionq.com/job?gh_jid=6123854004",
       "apply_url": "https://ionq.com/job?gh_jid=6123854004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "6134746004",
@@ -416,7 +380,7 @@
       "source_url": "https://ionq.com/job?gh_jid=6134746004",
       "apply_url": "https://ionq.com/job?gh_jid=6134746004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "6134775004",
@@ -429,12 +393,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-13",
-      "updated": "2026-10-28",
+      "updated": "2026-11-16",
       "deadline": "",
       "source_url": "https://ionq.com/job?gh_jid=6134775004",
       "apply_url": "https://ionq.com/job?gh_jid=6134775004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "6134839004",
@@ -452,7 +416,7 @@
       "source_url": "https://ionq.com/job?gh_jid=6134839004",
       "apply_url": "https://ionq.com/job?gh_jid=6134839004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "6135264004",
@@ -470,7 +434,7 @@
       "source_url": "https://ionq.com/job?gh_jid=6135264004",
       "apply_url": "https://ionq.com/job?gh_jid=6135264004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "6137809004",
@@ -488,7 +452,7 @@
       "source_url": "https://ionq.com/job?gh_jid=6137809004",
       "apply_url": "https://ionq.com/job?gh_jid=6137809004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "6140238004",
@@ -506,7 +470,7 @@
       "source_url": "https://ionq.com/job?gh_jid=6140238004",
       "apply_url": "https://ionq.com/job?gh_jid=6140238004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "6143123004",
@@ -524,7 +488,7 @@
       "source_url": "https://ionq.com/job?gh_jid=6143123004",
       "apply_url": "https://ionq.com/job?gh_jid=6143123004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "6143625004",
@@ -542,7 +506,7 @@
       "source_url": "https://ionq.com/job?gh_jid=6143625004",
       "apply_url": "https://ionq.com/job?gh_jid=6143625004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "6149300004",
@@ -560,7 +524,7 @@
       "source_url": "https://ionq.com/job?gh_jid=6149300004",
       "apply_url": "https://ionq.com/job?gh_jid=6149300004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "6150371004",
@@ -578,7 +542,7 @@
       "source_url": "https://ionq.com/job?gh_jid=6150371004",
       "apply_url": "https://ionq.com/job?gh_jid=6150371004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "6161208004",
@@ -596,7 +560,7 @@
       "source_url": "https://ionq.com/job?gh_jid=6161208004",
       "apply_url": "https://ionq.com/job?gh_jid=6161208004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "6164368004",
@@ -614,7 +578,7 @@
       "source_url": "https://ionq.com/job?gh_jid=6164368004",
       "apply_url": "https://ionq.com/job?gh_jid=6164368004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "6165548004",
@@ -632,7 +596,7 @@
       "source_url": "https://ionq.com/job?gh_jid=6165548004",
       "apply_url": "https://ionq.com/job?gh_jid=6165548004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "6173950004",
@@ -650,7 +614,7 @@
       "source_url": "https://ionq.com/job?gh_jid=6173950004",
       "apply_url": "https://ionq.com/job?gh_jid=6173950004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "6173951004",
@@ -668,7 +632,7 @@
       "source_url": "https://ionq.com/job?gh_jid=6173951004",
       "apply_url": "https://ionq.com/job?gh_jid=6173951004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "6174151004",
@@ -686,7 +650,7 @@
       "source_url": "https://ionq.com/job?gh_jid=6174151004",
       "apply_url": "https://ionq.com/job?gh_jid=6174151004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "6185683004",
@@ -704,7 +668,7 @@
       "source_url": "https://ionq.com/job?gh_jid=6185683004",
       "apply_url": "https://ionq.com/job?gh_jid=6185683004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "6186363004",
@@ -722,7 +686,7 @@
       "source_url": "https://ionq.com/job?gh_jid=6186363004",
       "apply_url": "https://ionq.com/job?gh_jid=6186363004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "6186549004",
@@ -740,7 +704,7 @@
       "source_url": "https://ionq.com/job?gh_jid=6186549004",
       "apply_url": "https://ionq.com/job?gh_jid=6186549004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "6186609004",
@@ -758,7 +722,7 @@
       "source_url": "https://ionq.com/job?gh_jid=6186609004",
       "apply_url": "https://ionq.com/job?gh_jid=6186609004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "6186611004",
@@ -776,7 +740,7 @@
       "source_url": "https://ionq.com/job?gh_jid=6186611004",
       "apply_url": "https://ionq.com/job?gh_jid=6186611004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "6186920004",
@@ -794,7 +758,7 @@
       "source_url": "https://ionq.com/job?gh_jid=6186920004",
       "apply_url": "https://ionq.com/job?gh_jid=6186920004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "6188403004",
@@ -812,7 +776,7 @@
       "source_url": "https://ionq.com/job?gh_jid=6188403004",
       "apply_url": "https://ionq.com/job?gh_jid=6188403004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "6191682004",
@@ -830,7 +794,7 @@
       "source_url": "https://ionq.com/job?gh_jid=6191682004",
       "apply_url": "https://ionq.com/job?gh_jid=6191682004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "6191866004",
@@ -848,7 +812,7 @@
       "source_url": "https://ionq.com/job?gh_jid=6191866004",
       "apply_url": "https://ionq.com/job?gh_jid=6191866004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "6192089004",
@@ -866,7 +830,7 @@
       "source_url": "https://ionq.com/job?gh_jid=6192089004",
       "apply_url": "https://ionq.com/job?gh_jid=6192089004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "6192752004",
@@ -884,7 +848,7 @@
       "source_url": "https://ionq.com/job?gh_jid=6192752004",
       "apply_url": "https://ionq.com/job?gh_jid=6192752004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "6192853004",
@@ -902,7 +866,7 @@
       "source_url": "https://ionq.com/job?gh_jid=6192853004",
       "apply_url": "https://ionq.com/job?gh_jid=6192853004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "6192962004",
@@ -920,7 +884,7 @@
       "source_url": "https://ionq.com/job?gh_jid=6192962004",
       "apply_url": "https://ionq.com/job?gh_jid=6192962004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "6193186004",
@@ -938,7 +902,7 @@
       "source_url": "https://ionq.com/job?gh_jid=6193186004",
       "apply_url": "https://ionq.com/job?gh_jid=6193186004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "6193392004",
@@ -956,7 +920,7 @@
       "source_url": "https://ionq.com/job?gh_jid=6193392004",
       "apply_url": "https://ionq.com/job?gh_jid=6193392004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "6193416004",
@@ -974,7 +938,7 @@
       "source_url": "https://ionq.com/job?gh_jid=6193416004",
       "apply_url": "https://ionq.com/job?gh_jid=6193416004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "6193880004",
@@ -992,7 +956,7 @@
       "source_url": "https://ionq.com/job?gh_jid=6193880004",
       "apply_url": "https://ionq.com/job?gh_jid=6193880004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "6193890004",
@@ -1010,7 +974,7 @@
       "source_url": "https://ionq.com/job?gh_jid=6193890004",
       "apply_url": "https://ionq.com/job?gh_jid=6193890004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "6196319004",
@@ -1028,7 +992,7 @@
       "source_url": "https://ionq.com/job?gh_jid=6196319004",
       "apply_url": "https://ionq.com/job?gh_jid=6196319004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "6199433004",
@@ -1046,7 +1010,7 @@
       "source_url": "https://ionq.com/job?gh_jid=6199433004",
       "apply_url": "https://ionq.com/job?gh_jid=6199433004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "6199618004",
@@ -1064,7 +1028,7 @@
       "source_url": "https://ionq.com/job?gh_jid=6199618004",
       "apply_url": "https://ionq.com/job?gh_jid=6199618004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "6200870004",
@@ -1082,7 +1046,7 @@
       "source_url": "https://ionq.com/job?gh_jid=6200870004",
       "apply_url": "https://ionq.com/job?gh_jid=6200870004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "6201136004",
@@ -1100,7 +1064,7 @@
       "source_url": "https://ionq.com/job?gh_jid=6201136004",
       "apply_url": "https://ionq.com/job?gh_jid=6201136004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "6201142004",
@@ -1118,7 +1082,7 @@
       "source_url": "https://ionq.com/job?gh_jid=6201142004",
       "apply_url": "https://ionq.com/job?gh_jid=6201142004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "6202671004",
@@ -1136,25 +1100,7 @@
       "source_url": "https://ionq.com/job?gh_jid=6202671004",
       "apply_url": "https://ionq.com/job?gh_jid=6202671004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
-    },
-    {
-      "id": "6204493004",
-      "title": "Senior Customer Success Manager, Quantum Adoption & Technical Enablement",
-      "company": "IonQ",
-      "location": "Remote, US",
-      "remote": "remote",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-10-13",
-      "updated": "2026-10-15",
-      "deadline": "",
-      "source_url": "https://ionq.com/job?gh_jid=6204493004",
-      "apply_url": "https://ionq.com/job?gh_jid=6204493004",
-      "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "6205131004",
@@ -1172,7 +1118,7 @@
       "source_url": "https://ionq.com/job?gh_jid=6205131004",
       "apply_url": "https://ionq.com/job?gh_jid=6205131004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "6205842004",
@@ -1190,7 +1136,7 @@
       "source_url": "https://ionq.com/job?gh_jid=6205842004",
       "apply_url": "https://ionq.com/job?gh_jid=6205842004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "6206645004",
@@ -1208,7 +1154,7 @@
       "source_url": "https://ionq.com/job?gh_jid=6206645004",
       "apply_url": "https://ionq.com/job?gh_jid=6206645004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "6207858004",
@@ -1226,7 +1172,7 @@
       "source_url": "https://ionq.com/job?gh_jid=6207858004",
       "apply_url": "https://ionq.com/job?gh_jid=6207858004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "6208808004",
@@ -1244,7 +1190,7 @@
       "source_url": "https://ionq.com/job?gh_jid=6208808004",
       "apply_url": "https://ionq.com/job?gh_jid=6208808004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "6210596004",
@@ -1262,7 +1208,7 @@
       "source_url": "https://ionq.com/job?gh_jid=6210596004",
       "apply_url": "https://ionq.com/job?gh_jid=6210596004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "6210888004",
@@ -1280,7 +1226,7 @@
       "source_url": "https://ionq.com/job?gh_jid=6210888004",
       "apply_url": "https://ionq.com/job?gh_jid=6210888004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "6211068004",
@@ -1298,7 +1244,7 @@
       "source_url": "https://ionq.com/job?gh_jid=6211068004",
       "apply_url": "https://ionq.com/job?gh_jid=6211068004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "6214108004",
@@ -1316,7 +1262,7 @@
       "source_url": "https://ionq.com/job?gh_jid=6214108004",
       "apply_url": "https://ionq.com/job?gh_jid=6214108004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "6214816004",
@@ -1334,7 +1280,7 @@
       "source_url": "https://ionq.com/job?gh_jid=6214816004",
       "apply_url": "https://ionq.com/job?gh_jid=6214816004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "6215966004",
@@ -1352,7 +1298,7 @@
       "source_url": "https://ionq.com/job?gh_jid=6215966004",
       "apply_url": "https://ionq.com/job?gh_jid=6215966004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "6217192004",
@@ -1370,7 +1316,7 @@
       "source_url": "https://ionq.com/job?gh_jid=6217192004",
       "apply_url": "https://ionq.com/job?gh_jid=6217192004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "6217308004",
@@ -1388,7 +1334,7 @@
       "source_url": "https://ionq.com/job?gh_jid=6217308004",
       "apply_url": "https://ionq.com/job?gh_jid=6217308004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "6217432004",
@@ -1406,7 +1352,25 @@
       "source_url": "https://ionq.com/job?gh_jid=6217432004",
       "apply_url": "https://ionq.com/job?gh_jid=6217432004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
+    },
+    {
+      "id": "6218356004",
+      "title": "Senior Executive Assistant",
+      "company": "IonQ",
+      "location": "Minneapolis, Minnesota, United States",
+      "remote": "unspecified",
+      "department": "",
+      "employment_type": "",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-16",
+      "updated": "2026-11-16",
+      "deadline": "",
+      "source_url": "https://ionq.com/job?gh_jid=6218356004",
+      "apply_url": "https://ionq.com/job?gh_jid=6218356004",
+      "first_seen": "2026-11-17T11:59:50Z",
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "6218414004",
@@ -1424,7 +1388,7 @@
       "source_url": "https://ionq.com/job?gh_jid=6218414004",
       "apply_url": "https://ionq.com/job?gh_jid=6218414004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "6218502004",
@@ -1442,7 +1406,7 @@
       "source_url": "https://ionq.com/job?gh_jid=6218502004",
       "apply_url": "https://ionq.com/job?gh_jid=6218502004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "6218507004",
@@ -1460,7 +1424,7 @@
       "source_url": "https://ionq.com/job?gh_jid=6218507004",
       "apply_url": "https://ionq.com/job?gh_jid=6218507004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "6218719004",
@@ -1478,25 +1442,7 @@
       "source_url": "https://ionq.com/job?gh_jid=6218719004",
       "apply_url": "https://ionq.com/job?gh_jid=6218719004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
-    },
-    {
-      "id": "6221592004",
-      "title": "Senior Spacecraft Hardware Technician",
-      "company": "IonQ",
-      "location": "Louisville, Colorado, United States",
-      "remote": "unspecified",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-10-12",
-      "updated": "2026-10-15",
-      "deadline": "",
-      "source_url": "https://ionq.com/job?gh_jid=6221592004",
-      "apply_url": "https://ionq.com/job?gh_jid=6221592004",
-      "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "6223597004",
@@ -1514,7 +1460,7 @@
       "source_url": "https://ionq.com/job?gh_jid=6223597004",
       "apply_url": "https://ionq.com/job?gh_jid=6223597004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "6223643004",
@@ -1532,43 +1478,7 @@
       "source_url": "https://ionq.com/job?gh_jid=6223643004",
       "apply_url": "https://ionq.com/job?gh_jid=6223643004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
-    },
-    {
-      "id": "6223708004",
-      "title": "Staff Software Engineer",
-      "company": "IonQ",
-      "location": "Remote, US",
-      "remote": "remote",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-11-16",
-      "updated": "2026-11-16",
-      "deadline": "",
-      "source_url": "https://ionq.com/job?gh_jid=6223708004",
-      "apply_url": "https://ionq.com/job?gh_jid=6223708004",
-      "first_seen": "2026-11-16T15:39:28Z",
-      "last_checked": "2026-11-16T15:39:28Z"
-    },
-    {
-      "id": "6223734004",
-      "title": "Associate General Counsel - Product - Partnerships",
-      "company": "IonQ",
-      "location": "Remote, US",
-      "remote": "remote",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-10-19",
-      "updated": "2026-10-19",
-      "deadline": "",
-      "source_url": "https://ionq.com/job?gh_jid=6223734004",
-      "apply_url": "https://ionq.com/job?gh_jid=6223734004",
-      "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "6223921004",
@@ -1586,7 +1496,7 @@
       "source_url": "https://ionq.com/job?gh_jid=6223921004",
       "apply_url": "https://ionq.com/job?gh_jid=6223921004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "6224159004",
@@ -1604,7 +1514,7 @@
       "source_url": "https://ionq.com/job?gh_jid=6224159004",
       "apply_url": "https://ionq.com/job?gh_jid=6224159004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "6224270004",
@@ -1622,7 +1532,7 @@
       "source_url": "https://ionq.com/job?gh_jid=6224270004",
       "apply_url": "https://ionq.com/job?gh_jid=6224270004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "6225072004",
@@ -1640,7 +1550,7 @@
       "source_url": "https://ionq.com/job?gh_jid=6225072004",
       "apply_url": "https://ionq.com/job?gh_jid=6225072004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "6225314004",
@@ -1658,7 +1568,7 @@
       "source_url": "https://ionq.com/job?gh_jid=6225314004",
       "apply_url": "https://ionq.com/job?gh_jid=6225314004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "6225567004",
@@ -1676,7 +1586,7 @@
       "source_url": "https://ionq.com/job?gh_jid=6225567004",
       "apply_url": "https://ionq.com/job?gh_jid=6225567004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "6228194004",
@@ -1694,7 +1604,7 @@
       "source_url": "https://ionq.com/job?gh_jid=6228194004",
       "apply_url": "https://ionq.com/job?gh_jid=6228194004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "6228533004",
@@ -1712,7 +1622,7 @@
       "source_url": "https://ionq.com/job?gh_jid=6228533004",
       "apply_url": "https://ionq.com/job?gh_jid=6228533004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "6228645004",
@@ -1730,7 +1640,7 @@
       "source_url": "https://ionq.com/job?gh_jid=6228645004",
       "apply_url": "https://ionq.com/job?gh_jid=6228645004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "6230954004",
@@ -1748,7 +1658,7 @@
       "source_url": "https://ionq.com/job?gh_jid=6230954004",
       "apply_url": "https://ionq.com/job?gh_jid=6230954004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "6230964004",
@@ -1766,7 +1676,7 @@
       "source_url": "https://ionq.com/job?gh_jid=6230964004",
       "apply_url": "https://ionq.com/job?gh_jid=6230964004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "6231249004",
@@ -1784,7 +1694,7 @@
       "source_url": "https://ionq.com/job?gh_jid=6231249004",
       "apply_url": "https://ionq.com/job?gh_jid=6231249004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "6233587004",
@@ -1802,7 +1712,7 @@
       "source_url": "https://ionq.com/job?gh_jid=6233587004",
       "apply_url": "https://ionq.com/job?gh_jid=6233587004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "6234733004",
@@ -1820,7 +1730,7 @@
       "source_url": "https://ionq.com/job?gh_jid=6234733004",
       "apply_url": "https://ionq.com/job?gh_jid=6234733004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "6236432004",
@@ -1838,7 +1748,7 @@
       "source_url": "https://ionq.com/job?gh_jid=6236432004",
       "apply_url": "https://ionq.com/job?gh_jid=6236432004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "6238392004",
@@ -1856,7 +1766,7 @@
       "source_url": "https://ionq.com/job?gh_jid=6238392004",
       "apply_url": "https://ionq.com/job?gh_jid=6238392004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "6239231004",
@@ -1874,7 +1784,7 @@
       "source_url": "https://ionq.com/job?gh_jid=6239231004",
       "apply_url": "https://ionq.com/job?gh_jid=6239231004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "6240481004",
@@ -1892,7 +1802,7 @@
       "source_url": "https://ionq.com/job?gh_jid=6240481004",
       "apply_url": "https://ionq.com/job?gh_jid=6240481004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "6240483004",
@@ -1910,25 +1820,7 @@
       "source_url": "https://ionq.com/job?gh_jid=6240483004",
       "apply_url": "https://ionq.com/job?gh_jid=6240483004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
-    },
-    {
-      "id": "6242730004",
-      "title": "Staff Backend Software Engineer, Cloud Platform",
-      "company": "IonQ",
-      "location": "Bothell, Washington, United States",
-      "remote": "unspecified",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-11-05",
-      "updated": "2026-11-05",
-      "deadline": "",
-      "source_url": "https://ionq.com/job?gh_jid=6242730004",
-      "apply_url": "https://ionq.com/job?gh_jid=6242730004",
-      "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "6255452004",
@@ -1946,7 +1838,7 @@
       "source_url": "https://ionq.com/job?gh_jid=6255452004",
       "apply_url": "https://ionq.com/job?gh_jid=6255452004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     }
   ],
   "ats": "greenhouse",

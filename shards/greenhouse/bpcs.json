@@ -1,8 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-16T15:39:28Z",
+  "checked_at": "2026-11-17T11:59:50Z",
   "failed_at": null,
-  "etag": "W/\"aed50bd05382adc7b1d907f49bc3b62f\"",
+  "etag": "W/\"db29bf591d6fd711244326b4be245c21\"",
   "jobs": [
     {
       "id": "8145115",
@@ -20,25 +20,7 @@
       "source_url": "https://job-boards.greenhouse.io/bpcs/jobs/8145115",
       "apply_url": "https://job-boards.greenhouse.io/bpcs/jobs/8145115",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
-    },
-    {
-      "id": "8179093",
-      "title": "Administrative Coordinator",
-      "company": "Blueprint Technologies",
-      "location": "San Francisco, CA",
-      "remote": "unspecified",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-09-04",
-      "updated": "2026-10-23",
-      "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/bpcs/jobs/8179093",
-      "apply_url": "https://job-boards.greenhouse.io/bpcs/jobs/8179093",
-      "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8257206",
@@ -56,7 +38,7 @@
       "source_url": "https://job-boards.greenhouse.io/bpcs/jobs/8257206",
       "apply_url": "https://job-boards.greenhouse.io/bpcs/jobs/8257206",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8293665",
@@ -74,7 +56,7 @@
       "source_url": "https://job-boards.greenhouse.io/bpcs/jobs/8293665",
       "apply_url": "https://job-boards.greenhouse.io/bpcs/jobs/8293665",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8311730",
@@ -92,7 +74,7 @@
       "source_url": "https://job-boards.greenhouse.io/bpcs/jobs/8311730",
       "apply_url": "https://job-boards.greenhouse.io/bpcs/jobs/8311730",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8315115",
@@ -110,25 +92,7 @@
       "source_url": "https://job-boards.greenhouse.io/bpcs/jobs/8315115",
       "apply_url": "https://job-boards.greenhouse.io/bpcs/jobs/8315115",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
-    },
-    {
-      "id": "8325967",
-      "title": "Customer Support Agent - (Ukrainian Speaking) (Bench Team)",
-      "company": "Blueprint Technologies",
-      "location": "Bellevue, WA",
-      "remote": "unspecified",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-10-26",
-      "updated": "2026-10-26",
-      "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/bpcs/jobs/8325967",
-      "apply_url": "https://job-boards.greenhouse.io/bpcs/jobs/8325967",
-      "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8327503",
@@ -146,7 +110,7 @@
       "source_url": "https://job-boards.greenhouse.io/bpcs/jobs/8327503",
       "apply_url": "https://job-boards.greenhouse.io/bpcs/jobs/8327503",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8327722",
@@ -164,7 +128,7 @@
       "source_url": "https://job-boards.greenhouse.io/bpcs/jobs/8327722",
       "apply_url": "https://job-boards.greenhouse.io/bpcs/jobs/8327722",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8327877",
@@ -182,7 +146,7 @@
       "source_url": "https://job-boards.greenhouse.io/bpcs/jobs/8327877",
       "apply_url": "https://job-boards.greenhouse.io/bpcs/jobs/8327877",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8328086",
@@ -200,7 +164,7 @@
       "source_url": "https://job-boards.greenhouse.io/bpcs/jobs/8328086",
       "apply_url": "https://job-boards.greenhouse.io/bpcs/jobs/8328086",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8332658",
@@ -218,7 +182,7 @@
       "source_url": "https://job-boards.greenhouse.io/bpcs/jobs/8332658",
       "apply_url": "https://job-boards.greenhouse.io/bpcs/jobs/8332658",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8350264",
@@ -236,7 +200,7 @@
       "source_url": "https://job-boards.greenhouse.io/bpcs/jobs/8350264",
       "apply_url": "https://job-boards.greenhouse.io/bpcs/jobs/8350264",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8368237",
@@ -254,7 +218,7 @@
       "source_url": "https://job-boards.greenhouse.io/bpcs/jobs/8368237",
       "apply_url": "https://job-boards.greenhouse.io/bpcs/jobs/8368237",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8368426",
@@ -272,7 +236,7 @@
       "source_url": "https://job-boards.greenhouse.io/bpcs/jobs/8368426",
       "apply_url": "https://job-boards.greenhouse.io/bpcs/jobs/8368426",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8374271",
@@ -290,7 +254,7 @@
       "source_url": "https://job-boards.greenhouse.io/bpcs/jobs/8374271",
       "apply_url": "https://job-boards.greenhouse.io/bpcs/jobs/8374271",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8380497",
@@ -308,7 +272,7 @@
       "source_url": "https://job-boards.greenhouse.io/bpcs/jobs/8380497",
       "apply_url": "https://job-boards.greenhouse.io/bpcs/jobs/8380497",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8381804",
@@ -326,11 +290,29 @@
       "source_url": "https://job-boards.greenhouse.io/bpcs/jobs/8381804",
       "apply_url": "https://job-boards.greenhouse.io/bpcs/jobs/8381804",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
-      "id": "8386909",
-      "title": "Product Designer",
+      "id": "8393257",
+      "title": "Customer Support Agent - (Ukrainian Speaking) (Bench Team)",
+      "company": "Blueprint Technologies",
+      "location": "Bellevue, WA",
+      "remote": "unspecified",
+      "department": "",
+      "employment_type": "",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-16",
+      "updated": "2026-11-16",
+      "deadline": "",
+      "source_url": "https://job-boards.greenhouse.io/bpcs/jobs/8393257",
+      "apply_url": "https://job-boards.greenhouse.io/bpcs/jobs/8393257",
+      "first_seen": "2026-11-17T11:59:50Z",
+      "last_checked": "2026-11-17T11:59:50Z"
+    },
+    {
+      "id": "8393521",
+      "title": "Program Manager - GTM & AI Business Solutions",
       "company": "Blueprint Technologies",
       "location": "Remote",
       "remote": "remote",
@@ -338,13 +320,13 @@
       "employment_type": "",
       "salary_text": "",
       "salary_source": "",
-      "posted": "2026-11-13",
-      "updated": "2026-11-13",
+      "posted": "2026-11-16",
+      "updated": "2026-11-16",
       "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/bpcs/jobs/8386909",
-      "apply_url": "https://job-boards.greenhouse.io/bpcs/jobs/8386909",
-      "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "source_url": "https://job-boards.greenhouse.io/bpcs/jobs/8393521",
+      "apply_url": "https://job-boards.greenhouse.io/bpcs/jobs/8393521",
+      "first_seen": "2026-11-17T11:59:50Z",
+      "last_checked": "2026-11-17T11:59:50Z"
     }
   ],
   "ats": "greenhouse",

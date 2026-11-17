@@ -1,8 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-16T15:39:28Z",
+  "checked_at": "2026-11-17T11:59:50Z",
   "failed_at": null,
-  "etag": "W/\"636927bc8b9dc33c69f40236a44c6f67\"",
+  "etag": "W/\"201b75a326c5175f2e758813314d31bb\"",
   "jobs": [
     {
       "id": "4891670004",
@@ -20,7 +20,7 @@
       "source_url": "https://job-boards.greenhouse.io/neuehealth/jobs/4891670004",
       "apply_url": "https://job-boards.greenhouse.io/neuehealth/jobs/4891670004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "6174269004",
@@ -38,7 +38,7 @@
       "source_url": "https://job-boards.greenhouse.io/neuehealth/jobs/6174269004",
       "apply_url": "https://job-boards.greenhouse.io/neuehealth/jobs/6174269004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "6174271004",
@@ -56,7 +56,7 @@
       "source_url": "https://job-boards.greenhouse.io/neuehealth/jobs/6174271004",
       "apply_url": "https://job-boards.greenhouse.io/neuehealth/jobs/6174271004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "6188655004",
@@ -74,7 +74,7 @@
       "source_url": "https://job-boards.greenhouse.io/neuehealth/jobs/6188655004",
       "apply_url": "https://job-boards.greenhouse.io/neuehealth/jobs/6188655004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "6237505004",
@@ -92,25 +92,7 @@
       "source_url": "https://job-boards.greenhouse.io/neuehealth/jobs/6237505004",
       "apply_url": "https://job-boards.greenhouse.io/neuehealth/jobs/6237505004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
-    },
-    {
-      "id": "6237507004",
-      "title": "Concurrent Utilization Review Nurse, RN",
-      "company": "NeueHealth",
-      "location": "Remote",
-      "remote": "remote",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-10-28",
-      "updated": "2026-10-28",
-      "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/neuehealth/jobs/6237507004",
-      "apply_url": "https://job-boards.greenhouse.io/neuehealth/jobs/6237507004",
-      "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "6260691004",
@@ -128,7 +110,7 @@
       "source_url": "https://job-boards.greenhouse.io/neuehealth/jobs/6260691004",
       "apply_url": "https://job-boards.greenhouse.io/neuehealth/jobs/6260691004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "6260760004",
@@ -146,7 +128,7 @@
       "source_url": "https://job-boards.greenhouse.io/neuehealth/jobs/6260760004",
       "apply_url": "https://job-boards.greenhouse.io/neuehealth/jobs/6260760004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     }
   ],
   "ats": "greenhouse",

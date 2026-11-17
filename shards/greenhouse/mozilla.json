@@ -1,8 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-16T15:39:28Z",
+  "checked_at": "2026-11-17T11:59:50Z",
   "failed_at": null,
-  "etag": "W/\"944f644e0d65e80cec8c38ea30431653\"",
+  "etag": "W/\"a52ee517857ffd02f93591365e614b7a\"",
   "jobs": [
     {
       "id": "7114644",
@@ -20,7 +20,7 @@
       "source_url": "https://job-boards.greenhouse.io/mozilla/jobs/7114644",
       "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/7114644",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "7137777",
@@ -38,7 +38,7 @@
       "source_url": "https://job-boards.greenhouse.io/mozilla/jobs/7137777",
       "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/7137777",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "7921523",
@@ -56,7 +56,7 @@
       "source_url": "https://job-boards.greenhouse.io/mozilla/jobs/7921523",
       "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/7921523",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "7921645",
@@ -74,25 +74,7 @@
       "source_url": "https://job-boards.greenhouse.io/mozilla/jobs/7921645",
       "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/7921645",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
-    },
-    {
-      "id": "7931363",
-      "title": "Senior Product Manager, Mobile",
-      "company": "Mozilla",
-      "location": "Remote Germany",
-      "remote": "remote",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-08-24",
-      "updated": "2026-10-30",
-      "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/mozilla/jobs/7931363",
-      "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/7931363",
-      "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "7961363",
@@ -110,7 +92,7 @@
       "source_url": "https://job-boards.greenhouse.io/mozilla/jobs/7961363",
       "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/7961363",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "7974328",
@@ -128,7 +110,7 @@
       "source_url": "https://job-boards.greenhouse.io/mozilla/jobs/7974328",
       "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/7974328",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "7997148",
@@ -146,7 +128,7 @@
       "source_url": "https://job-boards.greenhouse.io/mozilla/jobs/7997148",
       "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/7997148",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "7997152",
@@ -164,7 +146,7 @@
       "source_url": "https://job-boards.greenhouse.io/mozilla/jobs/7997152",
       "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/7997152",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8103947",
@@ -182,7 +164,7 @@
       "source_url": "https://job-boards.greenhouse.io/mozilla/jobs/8103947",
       "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8103947",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8105952",
@@ -200,7 +182,7 @@
       "source_url": "https://job-boards.greenhouse.io/mozilla/jobs/8105952",
       "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8105952",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8106006",
@@ -218,7 +200,7 @@
       "source_url": "https://job-boards.greenhouse.io/mozilla/jobs/8106006",
       "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8106006",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8107442",
@@ -236,7 +218,7 @@
       "source_url": "https://job-boards.greenhouse.io/mozilla/jobs/8107442",
       "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8107442",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8122090",
@@ -254,7 +236,7 @@
       "source_url": "https://job-boards.greenhouse.io/mozilla/jobs/8122090",
       "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8122090",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8122097",
@@ -272,7 +254,7 @@
       "source_url": "https://job-boards.greenhouse.io/mozilla/jobs/8122097",
       "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8122097",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8122100",
@@ -290,7 +272,7 @@
       "source_url": "https://job-boards.greenhouse.io/mozilla/jobs/8122100",
       "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8122100",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8142161",
@@ -308,7 +290,7 @@
       "source_url": "https://job-boards.greenhouse.io/mozilla/jobs/8142161",
       "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8142161",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8142616",
@@ -326,151 +308,7 @@
       "source_url": "https://job-boards.greenhouse.io/mozilla/jobs/8142616",
       "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8142616",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
-    },
-    {
-      "id": "8153352",
-      "title": "Senior Product Manager, Mobile",
-      "company": "Mozilla",
-      "location": "Remote France",
-      "remote": "remote",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-08-24",
-      "updated": "2026-10-30",
-      "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/mozilla/jobs/8153352",
-      "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8153352",
-      "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
-    },
-    {
-      "id": "8153386",
-      "title": "Senior Product Manager, Mobile",
-      "company": "Mozilla",
-      "location": "Remote UK",
-      "remote": "remote",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-08-24",
-      "updated": "2026-10-30",
-      "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/mozilla/jobs/8153386",
-      "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8153386",
-      "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
-    },
-    {
-      "id": "8153417",
-      "title": "Senior Product Manager, Mobile",
-      "company": "Mozilla",
-      "location": "Remote Belgium",
-      "remote": "remote",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-08-24",
-      "updated": "2026-10-30",
-      "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/mozilla/jobs/8153417",
-      "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8153417",
-      "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
-    },
-    {
-      "id": "8153435",
-      "title": "Senior Product Manager, Mobile",
-      "company": "Mozilla",
-      "location": "Remote Netherlands",
-      "remote": "remote",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-08-24",
-      "updated": "2026-10-30",
-      "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/mozilla/jobs/8153435",
-      "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8153435",
-      "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
-    },
-    {
-      "id": "8153458",
-      "title": "Senior Product Manager, Mobile",
-      "company": "Mozilla",
-      "location": "Remote Spain",
-      "remote": "remote",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-08-24",
-      "updated": "2026-10-30",
-      "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/mozilla/jobs/8153458",
-      "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8153458",
-      "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
-    },
-    {
-      "id": "8153530",
-      "title": "Senior Product Manager, Mobile",
-      "company": "Mozilla",
-      "location": "Remote Finland",
-      "remote": "remote",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-08-24",
-      "updated": "2026-10-30",
-      "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/mozilla/jobs/8153530",
-      "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8153530",
-      "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
-    },
-    {
-      "id": "8153594",
-      "title": "Senior Product Manager, Mobile",
-      "company": "Mozilla",
-      "location": "Remote Sweden",
-      "remote": "remote",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-08-24",
-      "updated": "2026-10-30",
-      "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/mozilla/jobs/8153594",
-      "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8153594",
-      "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
-    },
-    {
-      "id": "8154244",
-      "title": "Senior Product Manager, Mobile",
-      "company": "Mozilla",
-      "location": "Remote Canada",
-      "remote": "remote",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-08-24",
-      "updated": "2026-10-30",
-      "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/mozilla/jobs/8154244",
-      "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8154244",
-      "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8155077",
@@ -488,7 +326,7 @@
       "source_url": "https://job-boards.greenhouse.io/mozilla/jobs/8155077",
       "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8155077",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8177715",
@@ -506,7 +344,7 @@
       "source_url": "https://job-boards.greenhouse.io/mozilla/jobs/8177715",
       "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8177715",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8191473",
@@ -524,7 +362,7 @@
       "source_url": "https://job-boards.greenhouse.io/mozilla/jobs/8191473",
       "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8191473",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8191511",
@@ -542,7 +380,7 @@
       "source_url": "https://job-boards.greenhouse.io/mozilla/jobs/8191511",
       "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8191511",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8198112",
@@ -560,7 +398,7 @@
       "source_url": "https://job-boards.greenhouse.io/mozilla/jobs/8198112",
       "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8198112",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8198113",
@@ -578,7 +416,7 @@
       "source_url": "https://job-boards.greenhouse.io/mozilla/jobs/8198113",
       "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8198113",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8198114",
@@ -596,7 +434,7 @@
       "source_url": "https://job-boards.greenhouse.io/mozilla/jobs/8198114",
       "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8198114",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8201924",
@@ -614,7 +452,7 @@
       "source_url": "https://job-boards.greenhouse.io/mozilla/jobs/8201924",
       "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8201924",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8202652",
@@ -632,7 +470,7 @@
       "source_url": "https://job-boards.greenhouse.io/mozilla/jobs/8202652",
       "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8202652",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8202762",
@@ -650,7 +488,7 @@
       "source_url": "https://job-boards.greenhouse.io/mozilla/jobs/8202762",
       "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8202762",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8202797",
@@ -668,7 +506,7 @@
       "source_url": "https://job-boards.greenhouse.io/mozilla/jobs/8202797",
       "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8202797",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8220545",
@@ -686,7 +524,7 @@
       "source_url": "https://job-boards.greenhouse.io/mozilla/jobs/8220545",
       "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8220545",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8220780",
@@ -704,7 +542,7 @@
       "source_url": "https://job-boards.greenhouse.io/mozilla/jobs/8220780",
       "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8220780",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8223520",
@@ -722,25 +560,7 @@
       "source_url": "https://job-boards.greenhouse.io/mozilla/jobs/8223520",
       "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8223520",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
-    },
-    {
-      "id": "8231781",
-      "title": "Senior Payroll Analyst, North America",
-      "company": "Mozilla",
-      "location": "Remote US",
-      "remote": "remote",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-10-01",
-      "updated": "2026-11-12",
-      "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/mozilla/jobs/8231781",
-      "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8231781",
-      "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8233080",
@@ -758,7 +578,7 @@
       "source_url": "https://job-boards.greenhouse.io/mozilla/jobs/8233080",
       "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8233080",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8234141",
@@ -776,7 +596,7 @@
       "source_url": "https://job-boards.greenhouse.io/mozilla/jobs/8234141",
       "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8234141",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8234153",
@@ -794,7 +614,7 @@
       "source_url": "https://job-boards.greenhouse.io/mozilla/jobs/8234153",
       "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8234153",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8237810",
@@ -812,7 +632,7 @@
       "source_url": "https://job-boards.greenhouse.io/mozilla/jobs/8237810",
       "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8237810",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8237812",
@@ -830,7 +650,7 @@
       "source_url": "https://job-boards.greenhouse.io/mozilla/jobs/8237812",
       "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8237812",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8237815",
@@ -848,7 +668,7 @@
       "source_url": "https://job-boards.greenhouse.io/mozilla/jobs/8237815",
       "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8237815",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8237816",
@@ -866,7 +686,7 @@
       "source_url": "https://job-boards.greenhouse.io/mozilla/jobs/8237816",
       "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8237816",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8237818",
@@ -884,7 +704,7 @@
       "source_url": "https://job-boards.greenhouse.io/mozilla/jobs/8237818",
       "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8237818",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8237824",
@@ -902,7 +722,7 @@
       "source_url": "https://job-boards.greenhouse.io/mozilla/jobs/8237824",
       "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8237824",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8239648",
@@ -920,7 +740,7 @@
       "source_url": "https://job-boards.greenhouse.io/mozilla/jobs/8239648",
       "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8239648",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8247430",
@@ -938,7 +758,7 @@
       "source_url": "https://job-boards.greenhouse.io/mozilla/jobs/8247430",
       "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8247430",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8248113",
@@ -956,7 +776,7 @@
       "source_url": "https://job-boards.greenhouse.io/mozilla/jobs/8248113",
       "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8248113",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8248212",
@@ -974,7 +794,7 @@
       "source_url": "https://job-boards.greenhouse.io/mozilla/jobs/8248212",
       "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8248212",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8259797",
@@ -992,7 +812,7 @@
       "source_url": "https://job-boards.greenhouse.io/mozilla/jobs/8259797",
       "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8259797",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8265116",
@@ -1010,7 +830,7 @@
       "source_url": "https://job-boards.greenhouse.io/mozilla/jobs/8265116",
       "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8265116",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8265117",
@@ -1028,7 +848,7 @@
       "source_url": "https://job-boards.greenhouse.io/mozilla/jobs/8265117",
       "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8265117",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8278949",
@@ -1046,7 +866,7 @@
       "source_url": "https://job-boards.greenhouse.io/mozilla/jobs/8278949",
       "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8278949",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8282243",
@@ -1064,7 +884,7 @@
       "source_url": "https://job-boards.greenhouse.io/mozilla/jobs/8282243",
       "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8282243",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8282248",
@@ -1082,7 +902,7 @@
       "source_url": "https://job-boards.greenhouse.io/mozilla/jobs/8282248",
       "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8282248",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8282251",
@@ -1100,7 +920,7 @@
       "source_url": "https://job-boards.greenhouse.io/mozilla/jobs/8282251",
       "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8282251",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8282259",
@@ -1118,7 +938,7 @@
       "source_url": "https://job-boards.greenhouse.io/mozilla/jobs/8282259",
       "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8282259",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8282262",
@@ -1136,7 +956,7 @@
       "source_url": "https://job-boards.greenhouse.io/mozilla/jobs/8282262",
       "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8282262",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8282264",
@@ -1154,7 +974,7 @@
       "source_url": "https://job-boards.greenhouse.io/mozilla/jobs/8282264",
       "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8282264",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8282302",
@@ -1172,7 +992,7 @@
       "source_url": "https://job-boards.greenhouse.io/mozilla/jobs/8282302",
       "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8282302",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8287978",
@@ -1190,7 +1010,7 @@
       "source_url": "https://job-boards.greenhouse.io/mozilla/jobs/8287978",
       "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8287978",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8287979",
@@ -1208,7 +1028,7 @@
       "source_url": "https://job-boards.greenhouse.io/mozilla/jobs/8287979",
       "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8287979",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8287980",
@@ -1226,7 +1046,7 @@
       "source_url": "https://job-boards.greenhouse.io/mozilla/jobs/8287980",
       "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8287980",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8301275",
@@ -1244,7 +1064,7 @@
       "source_url": "https://job-boards.greenhouse.io/mozilla/jobs/8301275",
       "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8301275",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8302305",
@@ -1262,43 +1082,7 @@
       "source_url": "https://job-boards.greenhouse.io/mozilla/jobs/8302305",
       "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8302305",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
-    },
-    {
-      "id": "8302972",
-      "title": "Senior Manager, Accounting & Finance",
-      "company": "Mozilla",
-      "location": "Remote US",
-      "remote": "remote",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-10-20",
-      "updated": "2026-10-20",
-      "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/mozilla/jobs/8302972",
-      "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8302972",
-      "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
-    },
-    {
-      "id": "8302988",
-      "title": "Senior Manager, Accounting & Finance",
-      "company": "Mozilla",
-      "location": "Remote",
-      "remote": "remote",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-10-20",
-      "updated": "2026-10-20",
-      "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/mozilla/jobs/8302988",
-      "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8302988",
-      "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8303335",
@@ -1316,7 +1100,7 @@
       "source_url": "https://job-boards.greenhouse.io/mozilla/jobs/8303335",
       "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8303335",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8303336",
@@ -1334,7 +1118,7 @@
       "source_url": "https://job-boards.greenhouse.io/mozilla/jobs/8303336",
       "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8303336",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8304172",
@@ -1352,7 +1136,7 @@
       "source_url": "https://job-boards.greenhouse.io/mozilla/jobs/8304172",
       "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8304172",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8304489",
@@ -1370,7 +1154,7 @@
       "source_url": "https://job-boards.greenhouse.io/mozilla/jobs/8304489",
       "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8304489",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8315175",
@@ -1388,7 +1172,7 @@
       "source_url": "https://job-boards.greenhouse.io/mozilla/jobs/8315175",
       "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8315175",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8315181",
@@ -1406,7 +1190,7 @@
       "source_url": "https://job-boards.greenhouse.io/mozilla/jobs/8315181",
       "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8315181",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8315185",
@@ -1424,7 +1208,7 @@
       "source_url": "https://job-boards.greenhouse.io/mozilla/jobs/8315185",
       "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8315185",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8315189",
@@ -1442,7 +1226,7 @@
       "source_url": "https://job-boards.greenhouse.io/mozilla/jobs/8315189",
       "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8315189",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8315191",
@@ -1460,7 +1244,7 @@
       "source_url": "https://job-boards.greenhouse.io/mozilla/jobs/8315191",
       "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8315191",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8315192",
@@ -1478,7 +1262,7 @@
       "source_url": "https://job-boards.greenhouse.io/mozilla/jobs/8315192",
       "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8315192",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8315195",
@@ -1496,7 +1280,7 @@
       "source_url": "https://job-boards.greenhouse.io/mozilla/jobs/8315195",
       "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8315195",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8315197",
@@ -1514,7 +1298,7 @@
       "source_url": "https://job-boards.greenhouse.io/mozilla/jobs/8315197",
       "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8315197",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8315198",
@@ -1532,7 +1316,7 @@
       "source_url": "https://job-boards.greenhouse.io/mozilla/jobs/8315198",
       "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8315198",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8315203",
@@ -1550,7 +1334,7 @@
       "source_url": "https://job-boards.greenhouse.io/mozilla/jobs/8315203",
       "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8315203",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8315204",
@@ -1568,7 +1352,7 @@
       "source_url": "https://job-boards.greenhouse.io/mozilla/jobs/8315204",
       "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8315204",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8315221",
@@ -1586,7 +1370,7 @@
       "source_url": "https://job-boards.greenhouse.io/mozilla/jobs/8315221",
       "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8315221",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8315278",
@@ -1604,7 +1388,7 @@
       "source_url": "https://job-boards.greenhouse.io/mozilla/jobs/8315278",
       "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8315278",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8315350",
@@ -1622,7 +1406,7 @@
       "source_url": "https://job-boards.greenhouse.io/mozilla/jobs/8315350",
       "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8315350",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8315412",
@@ -1640,7 +1424,7 @@
       "source_url": "https://job-boards.greenhouse.io/mozilla/jobs/8315412",
       "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8315412",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8324476",
@@ -1658,7 +1442,7 @@
       "source_url": "https://job-boards.greenhouse.io/mozilla/jobs/8324476",
       "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8324476",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8324482",
@@ -1676,7 +1460,7 @@
       "source_url": "https://job-boards.greenhouse.io/mozilla/jobs/8324482",
       "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8324482",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8324517",
@@ -1694,7 +1478,61 @@
       "source_url": "https://job-boards.greenhouse.io/mozilla/jobs/8324517",
       "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8324517",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
+    },
+    {
+      "id": "8325950",
+      "title": "Senior Financial Analyst, Commercial Finance",
+      "company": "Mozilla",
+      "location": "Remote US",
+      "remote": "remote",
+      "department": "",
+      "employment_type": "",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-13",
+      "updated": "2026-11-16",
+      "deadline": "",
+      "source_url": "https://job-boards.greenhouse.io/mozilla/jobs/8325950",
+      "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8325950",
+      "first_seen": "2026-11-17T11:59:50Z",
+      "last_checked": "2026-11-17T11:59:50Z"
+    },
+    {
+      "id": "8325999",
+      "title": "Director, Marketing Operations, Firefox Marketing",
+      "company": "Mozilla",
+      "location": "Remote US",
+      "remote": "remote",
+      "department": "",
+      "employment_type": "",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-16",
+      "updated": "2026-11-16",
+      "deadline": "",
+      "source_url": "https://job-boards.greenhouse.io/mozilla/jobs/8325999",
+      "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8325999",
+      "first_seen": "2026-11-17T11:59:50Z",
+      "last_checked": "2026-11-17T11:59:50Z"
+    },
+    {
+      "id": "8328169",
+      "title": "Staff Performance Engineer, JavaScript Engine (SpiderMonkey)",
+      "company": "Mozilla",
+      "location": "Remote France",
+      "remote": "remote",
+      "department": "",
+      "employment_type": "",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-16",
+      "updated": "2026-11-16",
+      "deadline": "",
+      "source_url": "https://job-boards.greenhouse.io/mozilla/jobs/8328169",
+      "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8328169",
+      "first_seen": "2026-11-17T11:59:50Z",
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8328239",
@@ -1712,7 +1550,7 @@
       "source_url": "https://job-boards.greenhouse.io/mozilla/jobs/8328239",
       "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8328239",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8334922",
@@ -1730,7 +1568,7 @@
       "source_url": "https://job-boards.greenhouse.io/mozilla/jobs/8334922",
       "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8334922",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8337384",
@@ -1748,7 +1586,7 @@
       "source_url": "https://job-boards.greenhouse.io/mozilla/jobs/8337384",
       "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8337384",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8351060",
@@ -1766,7 +1604,7 @@
       "source_url": "https://job-boards.greenhouse.io/mozilla/jobs/8351060",
       "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8351060",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8351300",
@@ -1784,7 +1622,7 @@
       "source_url": "https://job-boards.greenhouse.io/mozilla/jobs/8351300",
       "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8351300",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8353272",
@@ -1802,7 +1640,7 @@
       "source_url": "https://job-boards.greenhouse.io/mozilla/jobs/8353272",
       "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8353272",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8354429",
@@ -1815,12 +1653,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-13",
-      "updated": "2026-11-13",
+      "updated": "2026-11-16",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/mozilla/jobs/8354429",
       "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8354429",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8359281",
@@ -1838,7 +1676,7 @@
       "source_url": "https://job-boards.greenhouse.io/mozilla/jobs/8359281",
       "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8359281",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8360088",
@@ -1856,7 +1694,7 @@
       "source_url": "https://job-boards.greenhouse.io/mozilla/jobs/8360088",
       "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8360088",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8360089",
@@ -1874,7 +1712,7 @@
       "source_url": "https://job-boards.greenhouse.io/mozilla/jobs/8360089",
       "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8360089",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8360414",
@@ -1892,7 +1730,7 @@
       "source_url": "https://job-boards.greenhouse.io/mozilla/jobs/8360414",
       "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8360414",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8360433",
@@ -1910,7 +1748,7 @@
       "source_url": "https://job-boards.greenhouse.io/mozilla/jobs/8360433",
       "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8360433",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8366764",
@@ -1928,7 +1766,7 @@
       "source_url": "https://job-boards.greenhouse.io/mozilla/jobs/8366764",
       "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8366764",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8366765",
@@ -1946,7 +1784,7 @@
       "source_url": "https://job-boards.greenhouse.io/mozilla/jobs/8366765",
       "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8366765",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8366767",
@@ -1964,7 +1802,7 @@
       "source_url": "https://job-boards.greenhouse.io/mozilla/jobs/8366767",
       "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8366767",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8367089",
@@ -1982,7 +1820,7 @@
       "source_url": "https://job-boards.greenhouse.io/mozilla/jobs/8367089",
       "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8367089",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8367095",
@@ -2000,7 +1838,7 @@
       "source_url": "https://job-boards.greenhouse.io/mozilla/jobs/8367095",
       "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8367095",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8367114",
@@ -2018,7 +1856,7 @@
       "source_url": "https://job-boards.greenhouse.io/mozilla/jobs/8367114",
       "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8367114",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8367122",
@@ -2036,7 +1874,7 @@
       "source_url": "https://job-boards.greenhouse.io/mozilla/jobs/8367122",
       "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8367122",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8367137",
@@ -2054,7 +1892,7 @@
       "source_url": "https://job-boards.greenhouse.io/mozilla/jobs/8367137",
       "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8367137",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8369515",
@@ -2072,7 +1910,7 @@
       "source_url": "https://job-boards.greenhouse.io/mozilla/jobs/8369515",
       "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8369515",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8372761",
@@ -2090,7 +1928,7 @@
       "source_url": "https://job-boards.greenhouse.io/mozilla/jobs/8372761",
       "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8372761",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8375679",
@@ -2108,7 +1946,7 @@
       "source_url": "https://job-boards.greenhouse.io/mozilla/jobs/8375679",
       "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8375679",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8375686",
@@ -2126,7 +1964,7 @@
       "source_url": "https://job-boards.greenhouse.io/mozilla/jobs/8375686",
       "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8375686",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8384021",
@@ -2144,7 +1982,25 @@
       "source_url": "https://job-boards.greenhouse.io/mozilla/jobs/8384021",
       "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8384021",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
+    },
+    {
+      "id": "8384913",
+      "title": "Senior Financial Analyst, Commercial Finance",
+      "company": "Mozilla",
+      "location": "Remote Canada",
+      "remote": "remote",
+      "department": "",
+      "employment_type": "",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-13",
+      "updated": "2026-11-16",
+      "deadline": "",
+      "source_url": "https://job-boards.greenhouse.io/mozilla/jobs/8384913",
+      "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8384913",
+      "first_seen": "2026-11-17T11:59:50Z",
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8386459",
@@ -2157,12 +2013,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-13",
-      "updated": "2026-11-13",
+      "updated": "2026-11-16",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/mozilla/jobs/8386459",
       "apply_url": "https://job-boards.greenhouse.io/mozilla/jobs/8386459",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     }
   ],
   "ats": "greenhouse",

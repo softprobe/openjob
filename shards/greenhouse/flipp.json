@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-16T15:39:28Z",
+  "checked_at": "2026-11-17T11:59:50Z",
   "failed_at": null,
   "etag": "W/\"119caa32f6bdac981142dde02b5f01cf\"",
   "jobs": [
@@ -20,7 +20,7 @@
       "source_url": "https://job-boards.greenhouse.io/flipp/jobs/7513742",
       "apply_url": "https://job-boards.greenhouse.io/flipp/jobs/7513742",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8142672",
@@ -38,7 +38,7 @@
       "source_url": "https://job-boards.greenhouse.io/flipp/jobs/8142672",
       "apply_url": "https://job-boards.greenhouse.io/flipp/jobs/8142672",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8162784",
@@ -56,7 +56,7 @@
       "source_url": "https://job-boards.greenhouse.io/flipp/jobs/8162784",
       "apply_url": "https://job-boards.greenhouse.io/flipp/jobs/8162784",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8231497",
@@ -74,7 +74,7 @@
       "source_url": "https://job-boards.greenhouse.io/flipp/jobs/8231497",
       "apply_url": "https://job-boards.greenhouse.io/flipp/jobs/8231497",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8242148",
@@ -92,7 +92,7 @@
       "source_url": "https://job-boards.greenhouse.io/flipp/jobs/8242148",
       "apply_url": "https://job-boards.greenhouse.io/flipp/jobs/8242148",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8247226",
@@ -110,7 +110,7 @@
       "source_url": "https://job-boards.greenhouse.io/flipp/jobs/8247226",
       "apply_url": "https://job-boards.greenhouse.io/flipp/jobs/8247226",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8279336",
@@ -128,7 +128,7 @@
       "source_url": "https://job-boards.greenhouse.io/flipp/jobs/8279336",
       "apply_url": "https://job-boards.greenhouse.io/flipp/jobs/8279336",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8279402",
@@ -146,7 +146,7 @@
       "source_url": "https://job-boards.greenhouse.io/flipp/jobs/8279402",
       "apply_url": "https://job-boards.greenhouse.io/flipp/jobs/8279402",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8287302",
@@ -164,7 +164,7 @@
       "source_url": "https://job-boards.greenhouse.io/flipp/jobs/8287302",
       "apply_url": "https://job-boards.greenhouse.io/flipp/jobs/8287302",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     }
   ],
   "ats": "greenhouse",

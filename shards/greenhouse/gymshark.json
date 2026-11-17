@@ -1,8 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-16T15:39:28Z",
+  "checked_at": "2026-11-17T11:59:50Z",
   "failed_at": null,
-  "etag": "W/\"e3af2f958aae96f61712b9639fb85054\"",
+  "etag": "W/\"833cb73cb4cb5209eb8f7d565fb4dee3\"",
   "jobs": [
     {
       "id": "4974208101",
@@ -20,7 +20,7 @@
       "source_url": "https://job-boards.eu.greenhouse.io/gymshark/jobs/4974208101",
       "apply_url": "https://job-boards.eu.greenhouse.io/gymshark/jobs/4974208101",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "4974337101",
@@ -33,12 +33,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-11",
-      "updated": "2026-11-12",
+      "updated": "2026-11-16",
       "deadline": "",
       "source_url": "https://job-boards.eu.greenhouse.io/gymshark/jobs/4974337101",
       "apply_url": "https://job-boards.eu.greenhouse.io/gymshark/jobs/4974337101",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "4981295101",
@@ -56,7 +56,7 @@
       "source_url": "https://job-boards.eu.greenhouse.io/gymshark/jobs/4981295101",
       "apply_url": "https://job-boards.eu.greenhouse.io/gymshark/jobs/4981295101",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "4988756101",
@@ -74,25 +74,7 @@
       "source_url": "https://job-boards.eu.greenhouse.io/gymshark/jobs/4988756101",
       "apply_url": "https://job-boards.eu.greenhouse.io/gymshark/jobs/4988756101",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
-    },
-    {
-      "id": "4989012101",
-      "title": "Floor Lead",
-      "company": "Gymshark",
-      "location": "Roosevelt, New York, United States",
-      "remote": "unspecified",
-      "department": "",
-      "employment_type": "FULL_TIME",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-09-28",
-      "updated": "2026-11-12",
-      "deadline": "",
-      "source_url": "https://job-boards.eu.greenhouse.io/gymshark/jobs/4989012101",
-      "apply_url": "https://job-boards.eu.greenhouse.io/gymshark/jobs/4989012101",
-      "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     }
   ],
   "ats": "greenhouse",

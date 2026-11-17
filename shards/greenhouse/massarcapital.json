@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-16T15:39:28Z",
+  "checked_at": "2026-11-17T11:59:50Z",
   "failed_at": null,
   "etag": "W/\"258c43107ab1e331765303f88daadb4e\"",
   "jobs": [
@@ -20,7 +20,7 @@
       "source_url": "https://job-boards.greenhouse.io/massarcapital/jobs/4749356008",
       "apply_url": "https://job-boards.greenhouse.io/massarcapital/jobs/4749356008",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "4785522008",
@@ -38,7 +38,7 @@
       "source_url": "https://job-boards.greenhouse.io/massarcapital/jobs/4785522008",
       "apply_url": "https://job-boards.greenhouse.io/massarcapital/jobs/4785522008",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "4935227008",
@@ -56,7 +56,7 @@
       "source_url": "https://job-boards.greenhouse.io/massarcapital/jobs/4935227008",
       "apply_url": "https://job-boards.greenhouse.io/massarcapital/jobs/4935227008",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "5024481008",
@@ -74,7 +74,7 @@
       "source_url": "https://job-boards.greenhouse.io/massarcapital/jobs/5024481008",
       "apply_url": "https://job-boards.greenhouse.io/massarcapital/jobs/5024481008",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "5099359008",
@@ -92,7 +92,7 @@
       "source_url": "https://job-boards.greenhouse.io/massarcapital/jobs/5099359008",
       "apply_url": "https://job-boards.greenhouse.io/massarcapital/jobs/5099359008",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "5102978008",
@@ -110,7 +110,7 @@
       "source_url": "https://job-boards.greenhouse.io/massarcapital/jobs/5102978008",
       "apply_url": "https://job-boards.greenhouse.io/massarcapital/jobs/5102978008",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     }
   ],
   "ats": "greenhouse",

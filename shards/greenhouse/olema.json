@@ -1,8 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-16T15:39:28Z",
+  "checked_at": "2026-11-17T11:59:50Z",
   "failed_at": null,
-  "etag": "W/\"7f7687e39bf6b2e63a66152da1d54504\"",
+  "etag": "W/\"ae4fbcfcc6abc790c54b50f15f952970\"",
   "jobs": [
     {
       "id": "6105990004",
@@ -20,7 +20,7 @@
       "source_url": "https://job-boards.greenhouse.io/olema/jobs/6105990004",
       "apply_url": "https://job-boards.greenhouse.io/olema/jobs/6105990004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "6141525004",
@@ -38,7 +38,7 @@
       "source_url": "https://job-boards.greenhouse.io/olema/jobs/6141525004",
       "apply_url": "https://job-boards.greenhouse.io/olema/jobs/6141525004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "6147547004",
@@ -56,79 +56,7 @@
       "source_url": "https://job-boards.greenhouse.io/olema/jobs/6147547004",
       "apply_url": "https://job-boards.greenhouse.io/olema/jobs/6147547004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
-    },
-    {
-      "id": "6176787004",
-      "title": "Director, Commercial Insights and Analytics",
-      "company": "Olema Oncology",
-      "location": "San Francisco, California",
-      "remote": "unspecified",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-09-02",
-      "updated": "2026-11-12",
-      "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/olema/jobs/6176787004",
-      "apply_url": "https://job-boards.greenhouse.io/olema/jobs/6176787004",
-      "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
-    },
-    {
-      "id": "6176788004",
-      "title": "Director, Commercial Insights and Analytics",
-      "company": "Olema Oncology",
-      "location": "Boston, Massachusetts",
-      "remote": "unspecified",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-09-02",
-      "updated": "2026-11-12",
-      "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/olema/jobs/6176788004",
-      "apply_url": "https://job-boards.greenhouse.io/olema/jobs/6176788004",
-      "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
-    },
-    {
-      "id": "6176789004",
-      "title": "Director, Commercial Data Science",
-      "company": "Olema Oncology",
-      "location": "San Francisco, California",
-      "remote": "unspecified",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-10-16",
-      "updated": "2026-11-12",
-      "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/olema/jobs/6176789004",
-      "apply_url": "https://job-boards.greenhouse.io/olema/jobs/6176789004",
-      "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
-    },
-    {
-      "id": "6176790004",
-      "title": "Director, Commercial Data Science",
-      "company": "Olema Oncology",
-      "location": "Boston, Massachusetts",
-      "remote": "unspecified",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-10-16",
-      "updated": "2026-11-12",
-      "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/olema/jobs/6176790004",
-      "apply_url": "https://job-boards.greenhouse.io/olema/jobs/6176790004",
-      "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "6205816004",
@@ -146,7 +74,7 @@
       "source_url": "https://job-boards.greenhouse.io/olema/jobs/6205816004",
       "apply_url": "https://job-boards.greenhouse.io/olema/jobs/6205816004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "6208269004",
@@ -164,7 +92,7 @@
       "source_url": "https://job-boards.greenhouse.io/olema/jobs/6208269004",
       "apply_url": "https://job-boards.greenhouse.io/olema/jobs/6208269004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "6208270004",
@@ -182,7 +110,7 @@
       "source_url": "https://job-boards.greenhouse.io/olema/jobs/6208270004",
       "apply_url": "https://job-boards.greenhouse.io/olema/jobs/6208270004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "6211586004",
@@ -200,7 +128,7 @@
       "source_url": "https://job-boards.greenhouse.io/olema/jobs/6211586004",
       "apply_url": "https://job-boards.greenhouse.io/olema/jobs/6211586004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "6219518004",
@@ -218,7 +146,7 @@
       "source_url": "https://job-boards.greenhouse.io/olema/jobs/6219518004",
       "apply_url": "https://job-boards.greenhouse.io/olema/jobs/6219518004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "6223609004",
@@ -236,7 +164,7 @@
       "source_url": "https://job-boards.greenhouse.io/olema/jobs/6223609004",
       "apply_url": "https://job-boards.greenhouse.io/olema/jobs/6223609004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     }
   ],
   "ats": "greenhouse",

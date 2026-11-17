@@ -1,8 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-16T15:39:28Z",
+  "checked_at": "2026-11-17T11:59:50Z",
   "failed_at": null,
-  "etag": "W/\"a9970b1eb5159b3108385d79bee2bade\"",
+  "etag": "W/\"be046a9234896c72b15186d8e3659f77\"",
   "jobs": [
     {
       "id": "7943560",
@@ -15,12 +15,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-06-02",
-      "updated": "2026-11-10",
+      "updated": "2026-11-16",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/mixpanel/jobs/7943560",
       "apply_url": "https://job-boards.greenhouse.io/mixpanel/jobs/7943560",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8039991",
@@ -33,12 +33,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-07-09",
-      "updated": "2026-11-10",
+      "updated": "2026-11-16",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/mixpanel/jobs/8039991",
       "apply_url": "https://job-boards.greenhouse.io/mixpanel/jobs/8039991",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8075971",
@@ -51,12 +51,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-30",
-      "updated": "2026-11-10",
+      "updated": "2026-11-16",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/mixpanel/jobs/8075971",
       "apply_url": "https://job-boards.greenhouse.io/mixpanel/jobs/8075971",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8075972",
@@ -69,12 +69,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-30",
-      "updated": "2026-11-10",
+      "updated": "2026-11-16",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/mixpanel/jobs/8075972",
       "apply_url": "https://job-boards.greenhouse.io/mixpanel/jobs/8075972",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8080826",
@@ -87,12 +87,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-07-23",
-      "updated": "2026-11-12",
+      "updated": "2026-11-16",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/mixpanel/jobs/8080826",
       "apply_url": "https://job-boards.greenhouse.io/mixpanel/jobs/8080826",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8080828",
@@ -105,12 +105,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-07-23",
-      "updated": "2026-11-13",
+      "updated": "2026-11-16",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/mixpanel/jobs/8080828",
       "apply_url": "https://job-boards.greenhouse.io/mixpanel/jobs/8080828",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8080832",
@@ -123,12 +123,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-07-23",
-      "updated": "2026-11-10",
+      "updated": "2026-11-16",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/mixpanel/jobs/8080832",
       "apply_url": "https://job-boards.greenhouse.io/mixpanel/jobs/8080832",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8080833",
@@ -141,12 +141,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-07-23",
-      "updated": "2026-11-10",
+      "updated": "2026-11-16",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/mixpanel/jobs/8080833",
       "apply_url": "https://job-boards.greenhouse.io/mixpanel/jobs/8080833",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8115028",
@@ -159,12 +159,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-10",
-      "updated": "2026-11-10",
+      "updated": "2026-11-16",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/mixpanel/jobs/8115028",
       "apply_url": "https://job-boards.greenhouse.io/mixpanel/jobs/8115028",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8124207",
@@ -177,12 +177,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-13",
-      "updated": "2026-11-10",
+      "updated": "2026-11-16",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/mixpanel/jobs/8124207",
       "apply_url": "https://job-boards.greenhouse.io/mixpanel/jobs/8124207",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8124704",
@@ -195,12 +195,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-22",
-      "updated": "2026-11-10",
+      "updated": "2026-11-16",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/mixpanel/jobs/8124704",
       "apply_url": "https://job-boards.greenhouse.io/mixpanel/jobs/8124704",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8142608",
@@ -213,12 +213,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-19",
-      "updated": "2026-11-10",
+      "updated": "2026-11-16",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/mixpanel/jobs/8142608",
       "apply_url": "https://job-boards.greenhouse.io/mixpanel/jobs/8142608",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8157627",
@@ -231,30 +231,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-27",
-      "updated": "2026-11-10",
+      "updated": "2026-11-16",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/mixpanel/jobs/8157627",
       "apply_url": "https://job-boards.greenhouse.io/mixpanel/jobs/8157627",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
-    },
-    {
-      "id": "8162414",
-      "title": "Software Engineer, Distributed Systems",
-      "company": "Mixpanel",
-      "location": "San Francisco, US (Hybrid)",
-      "remote": "hybrid",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-08-31",
-      "updated": "2026-11-10",
-      "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/mixpanel/jobs/8162414",
-      "apply_url": "https://job-boards.greenhouse.io/mixpanel/jobs/8162414",
-      "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8163735",
@@ -267,12 +249,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-04",
-      "updated": "2026-11-10",
+      "updated": "2026-11-16",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/mixpanel/jobs/8163735",
       "apply_url": "https://job-boards.greenhouse.io/mixpanel/jobs/8163735",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8194551",
@@ -285,12 +267,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-14",
-      "updated": "2026-11-10",
+      "updated": "2026-11-16",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/mixpanel/jobs/8194551",
       "apply_url": "https://job-boards.greenhouse.io/mixpanel/jobs/8194551",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8194560",
@@ -303,12 +285,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-11",
-      "updated": "2026-11-10",
+      "updated": "2026-11-16",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/mixpanel/jobs/8194560",
       "apply_url": "https://job-boards.greenhouse.io/mixpanel/jobs/8194560",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8198277",
@@ -321,12 +303,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-14",
-      "updated": "2026-11-10",
+      "updated": "2026-11-16",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/mixpanel/jobs/8198277",
       "apply_url": "https://job-boards.greenhouse.io/mixpanel/jobs/8198277",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8198286",
@@ -339,12 +321,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-14",
-      "updated": "2026-11-10",
+      "updated": "2026-11-16",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/mixpanel/jobs/8198286",
       "apply_url": "https://job-boards.greenhouse.io/mixpanel/jobs/8198286",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8201470",
@@ -357,12 +339,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-14",
-      "updated": "2026-11-10",
+      "updated": "2026-11-16",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/mixpanel/jobs/8201470",
       "apply_url": "https://job-boards.greenhouse.io/mixpanel/jobs/8201470",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8207137",
@@ -375,12 +357,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-22",
-      "updated": "2026-11-10",
+      "updated": "2026-11-16",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/mixpanel/jobs/8207137",
       "apply_url": "https://job-boards.greenhouse.io/mixpanel/jobs/8207137",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8222166",
@@ -393,12 +375,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-28",
-      "updated": "2026-11-10",
+      "updated": "2026-11-16",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/mixpanel/jobs/8222166",
       "apply_url": "https://job-boards.greenhouse.io/mixpanel/jobs/8222166",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8222194",
@@ -411,12 +393,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-23",
-      "updated": "2026-11-10",
+      "updated": "2026-11-16",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/mixpanel/jobs/8222194",
       "apply_url": "https://job-boards.greenhouse.io/mixpanel/jobs/8222194",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8222210",
@@ -429,12 +411,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-23",
-      "updated": "2026-11-10",
+      "updated": "2026-11-16",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/mixpanel/jobs/8222210",
       "apply_url": "https://job-boards.greenhouse.io/mixpanel/jobs/8222210",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8222214",
@@ -447,12 +429,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-28",
-      "updated": "2026-11-10",
+      "updated": "2026-11-16",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/mixpanel/jobs/8222214",
       "apply_url": "https://job-boards.greenhouse.io/mixpanel/jobs/8222214",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8223567",
@@ -465,12 +447,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-22",
-      "updated": "2026-11-10",
+      "updated": "2026-11-16",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/mixpanel/jobs/8223567",
       "apply_url": "https://job-boards.greenhouse.io/mixpanel/jobs/8223567",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8237751",
@@ -483,12 +465,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-28",
-      "updated": "2026-11-10",
+      "updated": "2026-11-16",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/mixpanel/jobs/8237751",
       "apply_url": "https://job-boards.greenhouse.io/mixpanel/jobs/8237751",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8238224",
@@ -501,12 +483,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-28",
-      "updated": "2026-11-10",
+      "updated": "2026-11-16",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/mixpanel/jobs/8238224",
       "apply_url": "https://job-boards.greenhouse.io/mixpanel/jobs/8238224",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8238551",
@@ -519,12 +501,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-28",
-      "updated": "2026-11-10",
+      "updated": "2026-11-16",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/mixpanel/jobs/8238551",
       "apply_url": "https://job-boards.greenhouse.io/mixpanel/jobs/8238551",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8240617",
@@ -537,12 +519,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-30",
-      "updated": "2026-11-10",
+      "updated": "2026-11-16",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/mixpanel/jobs/8240617",
       "apply_url": "https://job-boards.greenhouse.io/mixpanel/jobs/8240617",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8248501",
@@ -555,12 +537,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-01",
-      "updated": "2026-11-10",
+      "updated": "2026-11-16",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/mixpanel/jobs/8248501",
       "apply_url": "https://job-boards.greenhouse.io/mixpanel/jobs/8248501",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8260692",
@@ -573,12 +555,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-09",
-      "updated": "2026-11-10",
+      "updated": "2026-11-16",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/mixpanel/jobs/8260692",
       "apply_url": "https://job-boards.greenhouse.io/mixpanel/jobs/8260692",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8268370",
@@ -591,12 +573,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-09",
-      "updated": "2026-11-10",
+      "updated": "2026-11-16",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/mixpanel/jobs/8268370",
       "apply_url": "https://job-boards.greenhouse.io/mixpanel/jobs/8268370",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8269024",
@@ -609,12 +591,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-09",
-      "updated": "2026-11-10",
+      "updated": "2026-11-16",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/mixpanel/jobs/8269024",
       "apply_url": "https://job-boards.greenhouse.io/mixpanel/jobs/8269024",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8292811",
@@ -627,12 +609,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-27",
-      "updated": "2026-11-10",
+      "updated": "2026-11-16",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/mixpanel/jobs/8292811",
       "apply_url": "https://job-boards.greenhouse.io/mixpanel/jobs/8292811",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8305887",
@@ -645,12 +627,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-23",
-      "updated": "2026-11-10",
+      "updated": "2026-11-16",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/mixpanel/jobs/8305887",
       "apply_url": "https://job-boards.greenhouse.io/mixpanel/jobs/8305887",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8354527",
@@ -663,12 +645,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-06",
-      "updated": "2026-11-10",
+      "updated": "2026-11-16",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/mixpanel/jobs/8354527",
       "apply_url": "https://job-boards.greenhouse.io/mixpanel/jobs/8354527",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8354540",
@@ -681,12 +663,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-06",
-      "updated": "2026-11-10",
+      "updated": "2026-11-16",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/mixpanel/jobs/8354540",
       "apply_url": "https://job-boards.greenhouse.io/mixpanel/jobs/8354540",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8357913",
@@ -699,12 +681,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-06",
-      "updated": "2026-11-10",
+      "updated": "2026-11-16",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/mixpanel/jobs/8357913",
       "apply_url": "https://job-boards.greenhouse.io/mixpanel/jobs/8357913",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8357923",
@@ -717,12 +699,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-06",
-      "updated": "2026-11-10",
+      "updated": "2026-11-16",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/mixpanel/jobs/8357923",
       "apply_url": "https://job-boards.greenhouse.io/mixpanel/jobs/8357923",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8359615",
@@ -735,12 +717,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-06",
-      "updated": "2026-11-10",
+      "updated": "2026-11-16",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/mixpanel/jobs/8359615",
       "apply_url": "https://job-boards.greenhouse.io/mixpanel/jobs/8359615",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     }
   ],
   "ats": "greenhouse",

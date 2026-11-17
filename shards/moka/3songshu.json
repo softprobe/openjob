@@ -1,0 +1,49 @@
+{
+  "status": "ok",
+  "checked_at": "2026-11-17T11:59:50Z",
+  "failed_at": null,
+  "etag": "W/\"16cf-EeLcb0P6Vs85X/Q/Bj9rug\"",
+  "jobs": [
+    {
+      "id": "1b2e9601-c727-441c-a37c-db8b9c689188",
+      "title": "制造管培生",
+      "company": "三只松鼠",
+      "location": "芜湖市, 安徽, 中国; 天津市, 中国",
+      "remote": "unspecified",
+      "department": "产品事业部-126",
+      "employment_type": "FULL_TIME",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-09-10",
+      "updated": "2026-09-11",
+      "deadline": "",
+      "source_url": "https://app.mokahr.com/campus-recruitment/3songshu/457#/job/1b2e9601-c727-441c-a37c-db8b9c689188",
+      "apply_url": "https://app.mokahr.com/campus_apply/3songshu/457#/job/1b2e9601-c727-441c-a37c-db8b9c689188/apply?pure=1",
+      "first_seen": "2026-11-17T11:59:50Z",
+      "last_checked": "2026-11-17T11:59:50Z"
+    },
+    {
+      "id": "9339cf38-8aca-4946-b0a9-c7d8ec5ea8d9",
+      "title": "食品研发实习生",
+      "company": "三只松鼠",
+      "location": "",
+      "remote": "unspecified",
+      "department": "制造中心-333",
+      "employment_type": "INTERN",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-08-29",
+      "updated": "2026-08-29",
+      "deadline": "",
+      "source_url": "https://app.mokahr.com/campus-recruitment/3songshu/457#/job/9339cf38-8aca-4946-b0a9-c7d8ec5ea8d9",
+      "apply_url": "https://app.mokahr.com/campus_apply/3songshu/457#/job/9339cf38-8aca-4946-b0a9-c7d8ec5ea8d9/apply?pure=1",
+      "first_seen": "2026-11-17T11:59:50Z",
+      "last_checked": "2026-11-17T11:59:50Z"
+    }
+  ],
+  "ats": "moka",
+  "board": "3songshu",
+  "slug": "3songshu",
+  "name": "三只松鼠",
+  "website": "https://app.mokahr.com/campus-recruitment/3songshu/457"
+}

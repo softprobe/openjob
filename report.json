@@ -1,27 +1,22 @@
 {
-  "generated": "2026-11-16T15:39:28Z",
+  "generated": "2026-11-17T11:59:50Z",
   "publish": true,
-  "companies": 169,
-  "jobs": 13861,
+  "companies": 369,
+  "jobs": 33145,
   "before": {
-    "greenhouse": 11283,
-    "ashby": 2248,
-    "lever": 389,
-    "workable": 6
+    "workable": 6,
+    "ashby": 2240,
+    "greenhouse": 11226,
+    "lever": 389
   },
   "after": {
-    "greenhouse": 11226,
-    "ashby": 2240,
-    "workable": 6,
-    "lever": 389
+    "greenhouse": 12874,
+    "ashby": 3606,
+    "lever": 1953,
+    "moka": 14706,
+    "workable": 6
   },
   "dropped": [],
   "hidden": [],
-  "stale": [
-    {
-      "ats": "lever",
-      "board": "palantir",
-      "slug": "palantir"
-    }
-  ]
+  "stale": []
 }

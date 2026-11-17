@@ -1,27 +1,9 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-16T15:39:28Z",
+  "checked_at": "2026-11-17T11:59:50Z",
   "failed_at": null,
-  "etag": "W/\"81356a5e28acd2ec2afb920c4f79648f\"",
+  "etag": "W/\"b6d80d40551ea53da37e0c9af74e3afd\"",
   "jobs": [
-    {
-      "id": "8214127002",
-      "title": "Staff Software Engineer, Safety Processing",
-      "company": "Discord",
-      "location": "San Francisco Bay Area or Los Angeles Area",
-      "remote": "unspecified",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2025-10-30",
-      "updated": "2026-11-09",
-      "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/discord/jobs/8214127002",
-      "apply_url": "https://job-boards.greenhouse.io/discord/jobs/8214127002",
-      "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
-    },
     {
       "id": "8299493002",
       "title": "Senior Data Engineer, Ads",
@@ -38,7 +20,7 @@
       "source_url": "https://job-boards.greenhouse.io/discord/jobs/8299493002",
       "apply_url": "https://job-boards.greenhouse.io/discord/jobs/8299493002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8649856002",
@@ -56,7 +38,7 @@
       "source_url": "https://job-boards.greenhouse.io/discord/jobs/8649856002",
       "apply_url": "https://job-boards.greenhouse.io/discord/jobs/8649856002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8652853002",
@@ -74,7 +56,7 @@
       "source_url": "https://job-boards.greenhouse.io/discord/jobs/8652853002",
       "apply_url": "https://job-boards.greenhouse.io/discord/jobs/8652853002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8652914002",
@@ -92,7 +74,7 @@
       "source_url": "https://job-boards.greenhouse.io/discord/jobs/8652914002",
       "apply_url": "https://job-boards.greenhouse.io/discord/jobs/8652914002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8675185002",
@@ -110,7 +92,7 @@
       "source_url": "https://job-boards.greenhouse.io/discord/jobs/8675185002",
       "apply_url": "https://job-boards.greenhouse.io/discord/jobs/8675185002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8691572002",
@@ -128,7 +110,7 @@
       "source_url": "https://job-boards.greenhouse.io/discord/jobs/8691572002",
       "apply_url": "https://job-boards.greenhouse.io/discord/jobs/8691572002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8703614002",
@@ -146,25 +128,7 @@
       "source_url": "https://job-boards.greenhouse.io/discord/jobs/8703614002",
       "apply_url": "https://job-boards.greenhouse.io/discord/jobs/8703614002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
-    },
-    {
-      "id": "8722538002",
-      "title": "Engineering Manager, Machine Learning (Safety)",
-      "company": "Discord",
-      "location": "Remote (US)",
-      "remote": "remote",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-08-20",
-      "updated": "2026-11-09",
-      "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/discord/jobs/8722538002",
-      "apply_url": "https://job-boards.greenhouse.io/discord/jobs/8722538002",
-      "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8731320002",
@@ -182,10 +146,10 @@
       "source_url": "https://job-boards.greenhouse.io/discord/jobs/8731320002",
       "apply_url": "https://job-boards.greenhouse.io/discord/jobs/8731320002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
-      "id": "8731918002",
+      "id": "8731898002",
       "title": "Senior Product Designer, Consumer Revenue",
       "company": "Discord",
       "location": "San Francisco Bay Area",
@@ -194,13 +158,31 @@
       "employment_type": "",
       "salary_text": "",
       "salary_source": "",
+      "posted": "2026-08-20",
+      "updated": "2026-11-16",
+      "deadline": "",
+      "source_url": "https://job-boards.greenhouse.io/discord/jobs/8731898002",
+      "apply_url": "https://job-boards.greenhouse.io/discord/jobs/8731898002",
+      "first_seen": "2026-11-17T11:59:50Z",
+      "last_checked": "2026-11-17T11:59:50Z"
+    },
+    {
+      "id": "8761356002",
+      "title": "Engineering Manager, Machine Learning - Safety",
+      "company": "Discord",
+      "location": "San Francisco Bay Area or Remote (U.S.)",
+      "remote": "remote",
+      "department": "",
+      "employment_type": "",
+      "salary_text": "",
+      "salary_source": "",
       "posted": "2026-11-16",
       "updated": "2026-11-16",
       "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/discord/jobs/8731918002",
-      "apply_url": "https://job-boards.greenhouse.io/discord/jobs/8731918002",
-      "first_seen": "2026-11-16T15:39:28Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "source_url": "https://job-boards.greenhouse.io/discord/jobs/8761356002",
+      "apply_url": "https://job-boards.greenhouse.io/discord/jobs/8761356002",
+      "first_seen": "2026-11-17T11:59:50Z",
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8769799002",
@@ -218,7 +200,7 @@
       "source_url": "https://job-boards.greenhouse.io/discord/jobs/8769799002",
       "apply_url": "https://job-boards.greenhouse.io/discord/jobs/8769799002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8771034002",
@@ -236,7 +218,7 @@
       "source_url": "https://job-boards.greenhouse.io/discord/jobs/8771034002",
       "apply_url": "https://job-boards.greenhouse.io/discord/jobs/8771034002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8771059002",
@@ -254,7 +236,7 @@
       "source_url": "https://job-boards.greenhouse.io/discord/jobs/8771059002",
       "apply_url": "https://job-boards.greenhouse.io/discord/jobs/8771059002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8802354002",
@@ -272,7 +254,7 @@
       "source_url": "https://job-boards.greenhouse.io/discord/jobs/8802354002",
       "apply_url": "https://job-boards.greenhouse.io/discord/jobs/8802354002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8822683002",
@@ -290,7 +272,7 @@
       "source_url": "https://job-boards.greenhouse.io/discord/jobs/8822683002",
       "apply_url": "https://job-boards.greenhouse.io/discord/jobs/8822683002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8846330002",
@@ -308,7 +290,7 @@
       "source_url": "https://job-boards.greenhouse.io/discord/jobs/8846330002",
       "apply_url": "https://job-boards.greenhouse.io/discord/jobs/8846330002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8847080002",
@@ -326,7 +308,7 @@
       "source_url": "https://job-boards.greenhouse.io/discord/jobs/8847080002",
       "apply_url": "https://job-boards.greenhouse.io/discord/jobs/8847080002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8865033002",
@@ -344,7 +326,7 @@
       "source_url": "https://job-boards.greenhouse.io/discord/jobs/8865033002",
       "apply_url": "https://job-boards.greenhouse.io/discord/jobs/8865033002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8881544002",
@@ -362,7 +344,7 @@
       "source_url": "https://job-boards.greenhouse.io/discord/jobs/8881544002",
       "apply_url": "https://job-boards.greenhouse.io/discord/jobs/8881544002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8904389002",
@@ -380,7 +362,7 @@
       "source_url": "https://job-boards.greenhouse.io/discord/jobs/8904389002",
       "apply_url": "https://job-boards.greenhouse.io/discord/jobs/8904389002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8907804002",
@@ -398,7 +380,7 @@
       "source_url": "https://job-boards.greenhouse.io/discord/jobs/8907804002",
       "apply_url": "https://job-boards.greenhouse.io/discord/jobs/8907804002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8910013002",
@@ -416,7 +398,7 @@
       "source_url": "https://job-boards.greenhouse.io/discord/jobs/8910013002",
       "apply_url": "https://job-boards.greenhouse.io/discord/jobs/8910013002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8917177002",
@@ -434,7 +416,7 @@
       "source_url": "https://job-boards.greenhouse.io/discord/jobs/8917177002",
       "apply_url": "https://job-boards.greenhouse.io/discord/jobs/8917177002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8927168002",
@@ -452,7 +434,7 @@
       "source_url": "https://job-boards.greenhouse.io/discord/jobs/8927168002",
       "apply_url": "https://job-boards.greenhouse.io/discord/jobs/8927168002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     },
     {
       "id": "8933480002",
@@ -470,7 +452,7 @@
       "source_url": "https://job-boards.greenhouse.io/discord/jobs/8933480002",
       "apply_url": "https://job-boards.greenhouse.io/discord/jobs/8933480002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-16T15:39:28Z"
+      "last_checked": "2026-11-17T11:59:50Z"
     }
   ],
   "ats": "greenhouse",
