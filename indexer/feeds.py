@@ -3,7 +3,9 @@
 from __future__ import annotations
 
 import json
+import re
 from typing import Any
+from urllib.parse import quote, urlencode, urlsplit
 
 from indexer.records import Job, day, employment, https, workplace
 
@@ -13,13 +15,28 @@ FEED_URL = {
     "ashby": "https://api.ashbyhq.com/posting-api/job-board/{board}?includeCompensation=true",
     "workable": "https://apply.workable.com/api/v1/widget/accounts/{board}",
 }
+MOKA_PAGE_SIZE = 100
+MOKA_MAX_JOBS = 10_000
+_MOKA_SITE = re.compile(r"^/(social|campus)-recruitment/([A-Za-z0-9_-]+)/([0-9]+)/?$")
 
 
-def feed_url(ats: str, board: str) -> str:
+def feed_url(ats: str, board: str, *, website: str | None = None, offset: int = 0) -> str:
+    if ats == "moka":
+        mode, org, site = moka_site(website, board)
+        query = urlencode(
+            {
+                "mode": mode,
+                "siteId": site,
+                "status": "open",
+                "limit": MOKA_PAGE_SIZE,
+                "offset": offset,
+            }
+        )
+        return f"https://api.mokahr.com/api-platform/v1/jobs/{quote(org, safe='')}?{query}"
     return FEED_URL[ats].format(board=board)
 
 
-def parse(ats: str, payload: bytes, *, company: str) -> list[Job]:
+def parse(ats: str, payload: bytes, *, company: str, source: dict | None = None) -> list[Job]:
     data = json.loads(payload.decode("utf-8"))
     if ats == "greenhouse":
         return _greenhouse(data, company)
@@ -29,7 +46,33 @@ def parse(ats: str, payload: bytes, *, company: str) -> list[Job]:
         return _ashby(data, company)
     if ats == "workable":
         return _workable(data, company)
+    if ats == "moka":
+        if source is None:
+            raise ValueError("A Moka source record is required to build public job links.")
+        return _moka(data, company, source)
     raise ValueError(f"Unknown ATS {ats!r}.")
+
+
+def moka_site(website: str | None, board: str) -> tuple[str, str, str]:
+    """Read the fixed public career-page route used to scope a Moka feed."""
+    if not website:
+        raise ValueError("A Moka source needs its public career website.")
+    parts = urlsplit(website)
+    match = _MOKA_SITE.fullmatch(parts.path)
+    if (
+        parts.scheme != "https"
+        or parts.hostname != "app.mokahr.com"
+        or parts.username
+        or parts.password
+        or parts.query
+        or parts.fragment
+        or match is None
+    ):
+        raise ValueError("Moka websites must use an app.mokahr.com social or campus recruitment page.")
+    mode, org, site = match.groups()
+    if org != board:
+        raise ValueError("The Moka board identifier must match the career page organization.")
+    return mode, org, site
 
 
 def _greenhouse(data: dict, company: str) -> list[Job]:
@@ -157,6 +200,78 @@ def _workable(data: dict, company: str) -> list[Job]:
             )
         )
     return [job for job in jobs if job.id and job.title and job.source_url]
+
+
+def _moka(data: dict, company: str, source: dict) -> list[Job]:
+    mode, org, site = moka_site(source.get("website"), source.get("board", ""))
+    listing_url = source["website"].rstrip("/")
+    application_kind = "campus_apply" if mode == "campus" else "apply"
+    apply_root = f"https://app.mokahr.com/{application_kind}/{quote(org, safe='')}/{quote(site, safe='')}"
+    jobs = []
+    for item in data.get("jobs") or []:
+        if not isinstance(item, dict) or _text(item.get("status")).lower() != "open":
+            continue
+        job_id = _text(item.get("id"))
+        title = _text(item.get("title"))
+        if not job_id or not title:
+            continue
+        encoded_id = quote(job_id, safe="")
+        locations = _moka_location(item.get("locations"))
+        location_text = locations.lower()
+        remote = "remote" if any(word in location_text for word in ("remote", "远程", "居家")) else workplace("", locations)
+        jobs.append(
+            Job(
+                id=job_id,
+                title=title,
+                company=company,
+                location=locations,
+                remote=remote,
+                department=_name(item.get("department")),
+                employment_type=_moka_employment(item.get("commitment")),
+                salary_text="",
+                salary_source="",
+                posted=day(item.get("publishedAt") or item.get("openedAt")),
+                updated=day(item.get("updatedAt") or item.get("createdAt")),
+                deadline="",
+                source_url=f"{listing_url}#/job/{encoded_id}",
+                apply_url=f"{apply_root}#/job/{encoded_id}/apply?pure=1",
+            )
+        )
+    return jobs
+
+
+def _moka_location(value: object) -> str:
+    if isinstance(value, dict):
+        value = [value]
+    if not isinstance(value, list):
+        return _text(value)
+    places = []
+    for item in value:
+        if not isinstance(item, dict):
+            continue
+        parts = []
+        for key in ("city", "province", "country"):
+            part = _text(item.get(key))
+            if part and part not in parts:
+                parts.append(part)
+        if parts:
+            place = ", ".join(parts)
+            if place not in places:
+                places.append(place)
+    return "; ".join(places)
+
+
+def _moka_employment(value: object) -> str:
+    text = _text(value).lower()
+    if "实习" in text or "intern" in text:
+        return "INTERN"
+    if "兼职" in text or "part time" in text or "part-time" in text:
+        return "PART_TIME"
+    if "全职" in text or "full time" in text or "full-time" in text:
+        return "FULL_TIME"
+    if "合同" in text or "contract" in text:
+        return "CONTRACTOR"
+    return employment(value)
 
 
 def _metadata(item: dict, label: str) -> str:

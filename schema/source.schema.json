@@ -9,8 +9,24 @@
     "slug": { "$ref": "https://github.com/softprobe/openjob/schema/common.json#/$defs/slug" },
     "name": { "type": "string", "minLength": 1, "maxLength": 80 },
     "website": { "$ref": "https://github.com/softprobe/openjob/schema/common.json#/$defs/httpsUrl" },
-    "ats": { "enum": ["greenhouse", "lever", "ashby", "workable"] },
+    "ats": { "enum": ["greenhouse", "lever", "ashby", "workable", "moka"] },
     "board": { "type": "string", "minLength": 1, "maxLength": 80, "pattern": "^[A-Za-z0-9][A-Za-z0-9_-]*$" },
     "added_by": { "$ref": "https://github.com/softprobe/openjob/schema/common.json#/$defs/github" }
-  }
+  },
+  "allOf": [
+    {
+      "if": {
+        "properties": { "ats": { "const": "moka" } },
+        "required": ["ats"]
+      },
+      "then": {
+        "properties": {
+          "website": {
+            "type": "string",
+            "pattern": "^https://app\\.mokahr\\.com/(social|campus)-recruitment/[A-Za-z0-9_-]+/[0-9]+/?$"
+          }
+        }
+      }
+    }
+  ]
 }

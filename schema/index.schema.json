@@ -162,7 +162,7 @@
         "ats": {
           "anyOf": [
             { "type": "null" },
-            { "enum": ["greenhouse", "lever", "ashby", "workable"] }
+            { "enum": ["greenhouse", "lever", "ashby", "workable", "moka"] }
           ]
         },
         "board": { "type": ["string", "null"] },

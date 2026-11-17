@@ -131,6 +131,36 @@ class FeedTests(unittest.TestCase):
         self.assertEqual(job.employment_type, "FULL_TIME")
         self.assertNotIn(_DESCRIPTION, json.dumps(job.as_dict()))
 
+    def test_moka_keeps_open_facts_and_discards_descriptions(self) -> None:
+        fixture = Path(__file__).parent / "fixtures" / "indexer" / "moka" / "open-jobs.json"
+        source = {
+            "board": "dji",
+            "website": "https://app.mokahr.com/social-recruitment/dji/170070",
+        }
+        jobs = parse("moka", fixture.read_bytes(), company="DJI", source=source)
+        self.assertEqual(len(jobs), 1)
+        job = jobs[0].as_dict()
+        self.assertEqual(job["company"], "DJI")
+        self.assertEqual(job["remote"], "unspecified")
+        self.assertEqual(job["location"], "深圳市, 广东, 中国")
+        self.assertEqual(job["department"], "研发部")
+        self.assertEqual(job["employment_type"], "FULL_TIME")
+        self.assertEqual(job["posted"], "2026-11-12")
+        self.assertEqual(job["source_url"], "https://app.mokahr.com/social-recruitment/dji/170070#/job/open-1")
+        self.assertEqual(
+            job["apply_url"],
+            "https://app.mokahr.com/apply/dji/170070#/job/open-1/apply?pure=1",
+        )
+        self.assertNotIn(_DESCRIPTION, json.dumps(job))
+
+    def test_moka_reads_an_empty_board(self) -> None:
+        fixture = Path(__file__).parent / "fixtures" / "indexer" / "moka" / "empty.json"
+        source = {
+            "board": "dji",
+            "website": "https://app.mokahr.com/social-recruitment/dji/170070",
+        }
+        self.assertEqual(parse("moka", fixture.read_bytes(), company="DJI", source=source), [])
+
 
 class SourceListTests(unittest.TestCase):
     def test_a_denied_board_is_not_loaded(self) -> None:

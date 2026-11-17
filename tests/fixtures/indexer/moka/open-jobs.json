@@ -1,0 +1,31 @@
+{
+  "code": 0,
+  "msg": "success",
+  "total": 3,
+  "jobs": [
+    {
+      "id": "open-1",
+      "title": "后端工程师",
+      "status": "open",
+      "publishedAt": "2026-11-12T00:00:00.000Z",
+      "updatedAt": "2026-11-13T00:00:00.000Z",
+      "commitment": "全职",
+      "department": { "id": 5, "name": "研发部" },
+      "locations": [
+        { "city": "深圳市", "province": "广东", "country": "中国", "address": "private street data" }
+      ],
+      "description": "This full description must never be stored. Call the office at 555-0100."
+    },
+    {
+      "id": "paused-1",
+      "title": "Paused role",
+      "status": "pause",
+      "locations": []
+    },
+    {
+      "id": "incomplete-1",
+      "status": "open",
+      "locations": []
+    }
+  ]
+}

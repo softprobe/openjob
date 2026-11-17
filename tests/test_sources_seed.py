@@ -19,7 +19,7 @@ class SourceSeedTests(unittest.TestCase):
         self.assertIn("anthropic", slugs)
         self.assertIn("openai", slugs)
         self.assertIn("huggingface", slugs)
-        self.assertTrue(all(item["ats"] in {"greenhouse", "lever", "ashby", "workable"} for item in found))
+        self.assertTrue(all(item["ats"] in {"greenhouse", "lever", "ashby", "workable", "moka"} for item in found))
 
 
 if __name__ == "__main__":
