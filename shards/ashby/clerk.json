@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-17T11:59:50Z",
+  "checked_at": "2026-11-17T15:56:57Z",
   "failed_at": null,
   "etag": "W/\"job-board:42c5438e4a8116082c890aefe7e07ccc1d3c5d88cc40447e93de67c96ef8f0b6\"",
   "jobs": [
@@ -20,7 +20,7 @@
       "source_url": "https://jobs.ashbyhq.com/Clerk/22d74851-1657-4dc6-9a44-b81900131486",
       "apply_url": "https://jobs.ashbyhq.com/Clerk/22d74851-1657-4dc6-9a44-b81900131486/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T11:59:50Z"
+      "last_checked": "2026-11-17T15:56:57Z"
     },
     {
       "id": "7635ac5c-bb36-48aa-a572-e467eb9ab429",
@@ -38,7 +38,7 @@
       "source_url": "https://jobs.ashbyhq.com/Clerk/7635ac5c-bb36-48aa-a572-e467eb9ab429",
       "apply_url": "https://jobs.ashbyhq.com/Clerk/7635ac5c-bb36-48aa-a572-e467eb9ab429/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T11:59:50Z"
+      "last_checked": "2026-11-17T15:56:57Z"
     }
   ],
   "ats": "ashby",

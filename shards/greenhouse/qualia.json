@@ -1,8 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-17T11:59:50Z",
+  "checked_at": "2026-11-17T15:56:57Z",
   "failed_at": null,
-  "etag": "W/\"dae5349474a3249b0b043394d2d9b924\"",
+  "etag": "W/\"d9bbd8085734573d7fff87e8a40d7ab2\"",
   "jobs": [
     {
       "id": "8336735",
@@ -20,7 +20,7 @@
       "source_url": "https://job-boards.greenhouse.io/qualia/jobs/8336735",
       "apply_url": "https://job-boards.greenhouse.io/qualia/jobs/8336735",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T11:59:50Z"
+      "last_checked": "2026-11-17T15:56:57Z"
     },
     {
       "id": "8336737",
@@ -38,7 +38,7 @@
       "source_url": "https://job-boards.greenhouse.io/qualia/jobs/8336737",
       "apply_url": "https://job-boards.greenhouse.io/qualia/jobs/8336737",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T11:59:50Z"
+      "last_checked": "2026-11-17T15:56:57Z"
     },
     {
       "id": "8385804",
@@ -51,12 +51,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-16",
-      "updated": "2026-11-16",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/qualia/jobs/8385804",
       "apply_url": "https://job-boards.greenhouse.io/qualia/jobs/8385804",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T11:59:50Z"
+      "last_checked": "2026-11-17T15:56:57Z"
     }
   ],
   "ats": "greenhouse",

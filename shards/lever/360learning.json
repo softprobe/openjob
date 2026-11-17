@@ -1,8 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-17T11:59:50Z",
+  "checked_at": "2026-11-17T15:56:57Z",
   "failed_at": null,
-  "etag": "W/\"b6b70-zFAwICoRNoXflb/YTkHSTgB0i04\"",
+  "etag": "W/\"9e1bf-/QNY3aRuUTi9Wli+aqfVQSyYqB8\"",
   "jobs": [
     {
       "id": "039a2147-00f8-4ff7-8780-437e2397824a",
@@ -20,7 +20,7 @@
       "source_url": "https://jobs.lever.co/360learning/039a2147-00f8-4ff7-8780-437e2397824a",
       "apply_url": "https://jobs.lever.co/360learning/039a2147-00f8-4ff7-8780-437e2397824a/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T11:59:50Z"
+      "last_checked": "2026-11-17T15:56:57Z"
     },
     {
       "id": "04346e80-1a23-4774-b313-eaacac56d5ef",
@@ -38,7 +38,7 @@
       "source_url": "https://jobs.lever.co/360learning/04346e80-1a23-4774-b313-eaacac56d5ef",
       "apply_url": "https://jobs.lever.co/360learning/04346e80-1a23-4774-b313-eaacac56d5ef/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T11:59:50Z"
+      "last_checked": "2026-11-17T15:56:57Z"
     },
     {
       "id": "0b34aa41-aad2-4f40-a8c4-1346c6ff0be1",
@@ -56,25 +56,7 @@
       "source_url": "https://jobs.lever.co/360learning/0b34aa41-aad2-4f40-a8c4-1346c6ff0be1",
       "apply_url": "https://jobs.lever.co/360learning/0b34aa41-aad2-4f40-a8c4-1346c6ff0be1/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T11:59:50Z"
-    },
-    {
-      "id": "110bc5a0-7b18-458c-9249-0b728748002d",
-      "title": "Global VP Marketing",
-      "company": "360Learning",
-      "location": "Paris, Remote",
-      "remote": "remote",
-      "department": "Brand and Content Marketing",
-      "employment_type": "FULL_TIME",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-09-18",
-      "updated": "",
-      "deadline": "",
-      "source_url": "https://jobs.lever.co/360learning/110bc5a0-7b18-458c-9249-0b728748002d",
-      "apply_url": "https://jobs.lever.co/360learning/110bc5a0-7b18-458c-9249-0b728748002d/apply",
-      "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T11:59:50Z"
+      "last_checked": "2026-11-17T15:56:57Z"
     },
     {
       "id": "11721c63-a8b7-43a3-ac05-3c8b352f3b07",
@@ -92,7 +74,7 @@
       "source_url": "https://jobs.lever.co/360learning/11721c63-a8b7-43a3-ac05-3c8b352f3b07",
       "apply_url": "https://jobs.lever.co/360learning/11721c63-a8b7-43a3-ac05-3c8b352f3b07/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T11:59:50Z"
+      "last_checked": "2026-11-17T15:56:57Z"
     },
     {
       "id": "1339dbe1-2123-4425-83fa-bf1b44bdc93c",
@@ -110,7 +92,7 @@
       "source_url": "https://jobs.lever.co/360learning/1339dbe1-2123-4425-83fa-bf1b44bdc93c",
       "apply_url": "https://jobs.lever.co/360learning/1339dbe1-2123-4425-83fa-bf1b44bdc93c/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T11:59:50Z"
+      "last_checked": "2026-11-17T15:56:57Z"
     },
     {
       "id": "1bc6a2b3-ff85-498f-a0c1-b8a463fc992e",
@@ -128,7 +110,7 @@
       "source_url": "https://jobs.lever.co/360learning/1bc6a2b3-ff85-498f-a0c1-b8a463fc992e",
       "apply_url": "https://jobs.lever.co/360learning/1bc6a2b3-ff85-498f-a0c1-b8a463fc992e/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T11:59:50Z"
+      "last_checked": "2026-11-17T15:56:57Z"
     },
     {
       "id": "1ea40e82-5e2c-4b83-8f20-bbcddf62640d",
@@ -146,7 +128,7 @@
       "source_url": "https://jobs.lever.co/360learning/1ea40e82-5e2c-4b83-8f20-bbcddf62640d",
       "apply_url": "https://jobs.lever.co/360learning/1ea40e82-5e2c-4b83-8f20-bbcddf62640d/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T11:59:50Z"
+      "last_checked": "2026-11-17T15:56:57Z"
     },
     {
       "id": "242471de-c84c-4a39-893c-7a2fb40fed11",
@@ -164,7 +146,7 @@
       "source_url": "https://jobs.lever.co/360learning/242471de-c84c-4a39-893c-7a2fb40fed11",
       "apply_url": "https://jobs.lever.co/360learning/242471de-c84c-4a39-893c-7a2fb40fed11/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T11:59:50Z"
+      "last_checked": "2026-11-17T15:56:57Z"
     },
     {
       "id": "25f805af-01d2-4041-9d99-bb90f374518f",
@@ -182,7 +164,7 @@
       "source_url": "https://jobs.lever.co/360learning/25f805af-01d2-4041-9d99-bb90f374518f",
       "apply_url": "https://jobs.lever.co/360learning/25f805af-01d2-4041-9d99-bb90f374518f/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T11:59:50Z"
+      "last_checked": "2026-11-17T15:56:57Z"
     },
     {
       "id": "26978656-7f9a-458a-be0d-bbd731191e55",
@@ -200,7 +182,7 @@
       "source_url": "https://jobs.lever.co/360learning/26978656-7f9a-458a-be0d-bbd731191e55",
       "apply_url": "https://jobs.lever.co/360learning/26978656-7f9a-458a-be0d-bbd731191e55/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T11:59:50Z"
+      "last_checked": "2026-11-17T15:56:57Z"
     },
     {
       "id": "27025254-695a-46d6-be67-2d91e63908cf",
@@ -218,7 +200,7 @@
       "source_url": "https://jobs.lever.co/360learning/27025254-695a-46d6-be67-2d91e63908cf",
       "apply_url": "https://jobs.lever.co/360learning/27025254-695a-46d6-be67-2d91e63908cf/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T11:59:50Z"
+      "last_checked": "2026-11-17T15:56:57Z"
     },
     {
       "id": "29743337-41c5-400a-9169-f832b7e51d25",
@@ -236,25 +218,7 @@
       "source_url": "https://jobs.lever.co/360learning/29743337-41c5-400a-9169-f832b7e51d25",
       "apply_url": "https://jobs.lever.co/360learning/29743337-41c5-400a-9169-f832b7e51d25/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T11:59:50Z"
-    },
-    {
-      "id": "368984e3-6d28-4f5a-9bb1-508444d0fd5e",
-      "title": "Global VP Marketing",
-      "company": "360Learning",
-      "location": "London, Remote",
-      "remote": "remote",
-      "department": "Brand and Content Marketing",
-      "employment_type": "FULL_TIME",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-09-25",
-      "updated": "",
-      "deadline": "",
-      "source_url": "https://jobs.lever.co/360learning/368984e3-6d28-4f5a-9bb1-508444d0fd5e",
-      "apply_url": "https://jobs.lever.co/360learning/368984e3-6d28-4f5a-9bb1-508444d0fd5e/apply",
-      "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T11:59:50Z"
+      "last_checked": "2026-11-17T15:56:57Z"
     },
     {
       "id": "3c800c89-28af-4e15-af2e-7959a8a9d62a",
@@ -272,7 +236,7 @@
       "source_url": "https://jobs.lever.co/360learning/3c800c89-28af-4e15-af2e-7959a8a9d62a",
       "apply_url": "https://jobs.lever.co/360learning/3c800c89-28af-4e15-af2e-7959a8a9d62a/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T11:59:50Z"
+      "last_checked": "2026-11-17T15:56:57Z"
     },
     {
       "id": "42a9df4e-81b5-4a50-b690-4e20dd64ceea",
@@ -290,7 +254,7 @@
       "source_url": "https://jobs.lever.co/360learning/42a9df4e-81b5-4a50-b690-4e20dd64ceea",
       "apply_url": "https://jobs.lever.co/360learning/42a9df4e-81b5-4a50-b690-4e20dd64ceea/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T11:59:50Z"
+      "last_checked": "2026-11-17T15:56:57Z"
     },
     {
       "id": "45a216ca-b69f-4623-b3f9-25ceeb444704",
@@ -308,7 +272,7 @@
       "source_url": "https://jobs.lever.co/360learning/45a216ca-b69f-4623-b3f9-25ceeb444704",
       "apply_url": "https://jobs.lever.co/360learning/45a216ca-b69f-4623-b3f9-25ceeb444704/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T11:59:50Z"
+      "last_checked": "2026-11-17T15:56:57Z"
     },
     {
       "id": "4993f810-0e66-42e4-8781-8b272e61be0b",
@@ -326,7 +290,7 @@
       "source_url": "https://jobs.lever.co/360learning/4993f810-0e66-42e4-8781-8b272e61be0b",
       "apply_url": "https://jobs.lever.co/360learning/4993f810-0e66-42e4-8781-8b272e61be0b/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T11:59:50Z"
+      "last_checked": "2026-11-17T15:56:57Z"
     },
     {
       "id": "5881749e-5fc7-4a42-96d5-9080ba327003",
@@ -344,7 +308,7 @@
       "source_url": "https://jobs.lever.co/360learning/5881749e-5fc7-4a42-96d5-9080ba327003",
       "apply_url": "https://jobs.lever.co/360learning/5881749e-5fc7-4a42-96d5-9080ba327003/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T11:59:50Z"
+      "last_checked": "2026-11-17T15:56:57Z"
     },
     {
       "id": "61f6ea5c-5ef1-4890-b1b9-1eee825680f3",
@@ -362,7 +326,7 @@
       "source_url": "https://jobs.lever.co/360learning/61f6ea5c-5ef1-4890-b1b9-1eee825680f3",
       "apply_url": "https://jobs.lever.co/360learning/61f6ea5c-5ef1-4890-b1b9-1eee825680f3/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T11:59:50Z"
+      "last_checked": "2026-11-17T15:56:57Z"
     },
     {
       "id": "62f460c2-9a8f-4a25-a847-0f8905d9feef",
@@ -380,7 +344,7 @@
       "source_url": "https://jobs.lever.co/360learning/62f460c2-9a8f-4a25-a847-0f8905d9feef",
       "apply_url": "https://jobs.lever.co/360learning/62f460c2-9a8f-4a25-a847-0f8905d9feef/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T11:59:50Z"
+      "last_checked": "2026-11-17T15:56:57Z"
     },
     {
       "id": "66e3841f-f92b-42f5-a4d3-c4290010e2d5",
@@ -398,7 +362,7 @@
       "source_url": "https://jobs.lever.co/360learning/66e3841f-f92b-42f5-a4d3-c4290010e2d5",
       "apply_url": "https://jobs.lever.co/360learning/66e3841f-f92b-42f5-a4d3-c4290010e2d5/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T11:59:50Z"
+      "last_checked": "2026-11-17T15:56:57Z"
     },
     {
       "id": "75d22dcc-d834-4fa7-9d21-a7691d46c774",
@@ -416,7 +380,7 @@
       "source_url": "https://jobs.lever.co/360learning/75d22dcc-d834-4fa7-9d21-a7691d46c774",
       "apply_url": "https://jobs.lever.co/360learning/75d22dcc-d834-4fa7-9d21-a7691d46c774/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T11:59:50Z"
+      "last_checked": "2026-11-17T15:56:57Z"
     },
     {
       "id": "7c863d9b-600d-4446-a4dd-4bcf6255f854",
@@ -434,7 +398,7 @@
       "source_url": "https://jobs.lever.co/360learning/7c863d9b-600d-4446-a4dd-4bcf6255f854",
       "apply_url": "https://jobs.lever.co/360learning/7c863d9b-600d-4446-a4dd-4bcf6255f854/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T11:59:50Z"
+      "last_checked": "2026-11-17T15:56:57Z"
     },
     {
       "id": "8215a83b-9a9e-458d-a8b6-9750fce8eb0e",
@@ -452,7 +416,7 @@
       "source_url": "https://jobs.lever.co/360learning/8215a83b-9a9e-458d-a8b6-9750fce8eb0e",
       "apply_url": "https://jobs.lever.co/360learning/8215a83b-9a9e-458d-a8b6-9750fce8eb0e/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T11:59:50Z"
+      "last_checked": "2026-11-17T15:56:57Z"
     },
     {
       "id": "9088bdca-e6a2-499e-8848-86a0f7094418",
@@ -470,7 +434,7 @@
       "source_url": "https://jobs.lever.co/360learning/9088bdca-e6a2-499e-8848-86a0f7094418",
       "apply_url": "https://jobs.lever.co/360learning/9088bdca-e6a2-499e-8848-86a0f7094418/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T11:59:50Z"
+      "last_checked": "2026-11-17T15:56:57Z"
     },
     {
       "id": "9a9a76f5-7c22-46c7-a903-d1b0dc5c6a12",
@@ -488,7 +452,7 @@
       "source_url": "https://jobs.lever.co/360learning/9a9a76f5-7c22-46c7-a903-d1b0dc5c6a12",
       "apply_url": "https://jobs.lever.co/360learning/9a9a76f5-7c22-46c7-a903-d1b0dc5c6a12/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T11:59:50Z"
+      "last_checked": "2026-11-17T15:56:57Z"
     },
     {
       "id": "9ad17ff7-9eef-49c3-80c9-1cffa773caa6",
@@ -506,7 +470,7 @@
       "source_url": "https://jobs.lever.co/360learning/9ad17ff7-9eef-49c3-80c9-1cffa773caa6",
       "apply_url": "https://jobs.lever.co/360learning/9ad17ff7-9eef-49c3-80c9-1cffa773caa6/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T11:59:50Z"
+      "last_checked": "2026-11-17T15:56:57Z"
     },
     {
       "id": "9d22544a-645e-4065-8066-a9c2df4cc90b",
@@ -524,7 +488,7 @@
       "source_url": "https://jobs.lever.co/360learning/9d22544a-645e-4065-8066-a9c2df4cc90b",
       "apply_url": "https://jobs.lever.co/360learning/9d22544a-645e-4065-8066-a9c2df4cc90b/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T11:59:50Z"
+      "last_checked": "2026-11-17T15:56:57Z"
     },
     {
       "id": "a70b80ee-cfa8-4193-896c-19938df392e6",
@@ -542,7 +506,7 @@
       "source_url": "https://jobs.lever.co/360learning/a70b80ee-cfa8-4193-896c-19938df392e6",
       "apply_url": "https://jobs.lever.co/360learning/a70b80ee-cfa8-4193-896c-19938df392e6/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T11:59:50Z"
+      "last_checked": "2026-11-17T15:56:57Z"
     },
     {
       "id": "aa10a305-6756-45cd-a04d-6f7b17fa8405",
@@ -560,7 +524,7 @@
       "source_url": "https://jobs.lever.co/360learning/aa10a305-6756-45cd-a04d-6f7b17fa8405",
       "apply_url": "https://jobs.lever.co/360learning/aa10a305-6756-45cd-a04d-6f7b17fa8405/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T11:59:50Z"
+      "last_checked": "2026-11-17T15:56:57Z"
     },
     {
       "id": "ad28a414-70ee-49a5-8b59-e8bc97206ad4",
@@ -578,7 +542,7 @@
       "source_url": "https://jobs.lever.co/360learning/ad28a414-70ee-49a5-8b59-e8bc97206ad4",
       "apply_url": "https://jobs.lever.co/360learning/ad28a414-70ee-49a5-8b59-e8bc97206ad4/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T11:59:50Z"
+      "last_checked": "2026-11-17T15:56:57Z"
     },
     {
       "id": "ad8fe537-4ade-4bd4-b1b6-9d6644d1e5a0",
@@ -596,7 +560,7 @@
       "source_url": "https://jobs.lever.co/360learning/ad8fe537-4ade-4bd4-b1b6-9d6644d1e5a0",
       "apply_url": "https://jobs.lever.co/360learning/ad8fe537-4ade-4bd4-b1b6-9d6644d1e5a0/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T11:59:50Z"
+      "last_checked": "2026-11-17T15:56:57Z"
     },
     {
       "id": "ae5bba0b-0605-4d44-b0ea-f35169402045",
@@ -614,25 +578,7 @@
       "source_url": "https://jobs.lever.co/360learning/ae5bba0b-0605-4d44-b0ea-f35169402045",
       "apply_url": "https://jobs.lever.co/360learning/ae5bba0b-0605-4d44-b0ea-f35169402045/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T11:59:50Z"
-    },
-    {
-      "id": "b35f3e1a-7fa7-4591-9df1-66ff3d345d54",
-      "title": "Global VP Marketing",
-      "company": "360Learning",
-      "location": "USA, Remote",
-      "remote": "remote",
-      "department": "Brand and Content Marketing",
-      "employment_type": "FULL_TIME",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-09-18",
-      "updated": "",
-      "deadline": "",
-      "source_url": "https://jobs.lever.co/360learning/b35f3e1a-7fa7-4591-9df1-66ff3d345d54",
-      "apply_url": "https://jobs.lever.co/360learning/b35f3e1a-7fa7-4591-9df1-66ff3d345d54/apply",
-      "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T11:59:50Z"
+      "last_checked": "2026-11-17T15:56:57Z"
     },
     {
       "id": "be41ff7e-6413-45f0-92a3-00e8356dee85",
@@ -650,7 +596,7 @@
       "source_url": "https://jobs.lever.co/360learning/be41ff7e-6413-45f0-92a3-00e8356dee85",
       "apply_url": "https://jobs.lever.co/360learning/be41ff7e-6413-45f0-92a3-00e8356dee85/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T11:59:50Z"
+      "last_checked": "2026-11-17T15:56:57Z"
     },
     {
       "id": "c517940f-ef45-4ff6-bf72-5fe7305e2c6a",
@@ -668,7 +614,7 @@
       "source_url": "https://jobs.lever.co/360learning/c517940f-ef45-4ff6-bf72-5fe7305e2c6a",
       "apply_url": "https://jobs.lever.co/360learning/c517940f-ef45-4ff6-bf72-5fe7305e2c6a/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T11:59:50Z"
+      "last_checked": "2026-11-17T15:56:57Z"
     },
     {
       "id": "c574052f-09e5-4446-a977-e29d1162410d",
@@ -686,7 +632,7 @@
       "source_url": "https://jobs.lever.co/360learning/c574052f-09e5-4446-a977-e29d1162410d",
       "apply_url": "https://jobs.lever.co/360learning/c574052f-09e5-4446-a977-e29d1162410d/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T11:59:50Z"
+      "last_checked": "2026-11-17T15:56:57Z"
     },
     {
       "id": "c86995fe-f898-4ee1-b851-f220deab6ce8",
@@ -704,7 +650,7 @@
       "source_url": "https://jobs.lever.co/360learning/c86995fe-f898-4ee1-b851-f220deab6ce8",
       "apply_url": "https://jobs.lever.co/360learning/c86995fe-f898-4ee1-b851-f220deab6ce8/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T11:59:50Z"
+      "last_checked": "2026-11-17T15:56:57Z"
     },
     {
       "id": "cde72d51-cabb-4cad-8c4e-aeacf4051b29",
@@ -722,7 +668,7 @@
       "source_url": "https://jobs.lever.co/360learning/cde72d51-cabb-4cad-8c4e-aeacf4051b29",
       "apply_url": "https://jobs.lever.co/360learning/cde72d51-cabb-4cad-8c4e-aeacf4051b29/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T11:59:50Z"
+      "last_checked": "2026-11-17T15:56:57Z"
     },
     {
       "id": "ce475b7e-540a-4b5e-8035-795c89b20926",
@@ -740,7 +686,7 @@
       "source_url": "https://jobs.lever.co/360learning/ce475b7e-540a-4b5e-8035-795c89b20926",
       "apply_url": "https://jobs.lever.co/360learning/ce475b7e-540a-4b5e-8035-795c89b20926/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T11:59:50Z"
+      "last_checked": "2026-11-17T15:56:57Z"
     },
     {
       "id": "d01a8dd5-1316-4df2-8ce3-9d6b7caf94a7",
@@ -758,7 +704,7 @@
       "source_url": "https://jobs.lever.co/360learning/d01a8dd5-1316-4df2-8ce3-9d6b7caf94a7",
       "apply_url": "https://jobs.lever.co/360learning/d01a8dd5-1316-4df2-8ce3-9d6b7caf94a7/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T11:59:50Z"
+      "last_checked": "2026-11-17T15:56:57Z"
     },
     {
       "id": "d0c612ea-a090-43e2-a243-1d294b0a6412",
@@ -776,25 +722,7 @@
       "source_url": "https://jobs.lever.co/360learning/d0c612ea-a090-43e2-a243-1d294b0a6412",
       "apply_url": "https://jobs.lever.co/360learning/d0c612ea-a090-43e2-a243-1d294b0a6412/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T11:59:50Z"
-    },
-    {
-      "id": "d4e7025e-ef9b-45d2-bbbc-abcb35d66e2d",
-      "title": "Global VP Marketing",
-      "company": "360Learning",
-      "location": "Canada, Remote",
-      "remote": "remote",
-      "department": "Brand and Content Marketing",
-      "employment_type": "FULL_TIME",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-09-18",
-      "updated": "",
-      "deadline": "",
-      "source_url": "https://jobs.lever.co/360learning/d4e7025e-ef9b-45d2-bbbc-abcb35d66e2d",
-      "apply_url": "https://jobs.lever.co/360learning/d4e7025e-ef9b-45d2-bbbc-abcb35d66e2d/apply",
-      "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T11:59:50Z"
+      "last_checked": "2026-11-17T15:56:57Z"
     },
     {
       "id": "d72e660e-54e6-4ec7-9f34-38b508b1c049",
@@ -812,7 +740,7 @@
       "source_url": "https://jobs.lever.co/360learning/d72e660e-54e6-4ec7-9f34-38b508b1c049",
       "apply_url": "https://jobs.lever.co/360learning/d72e660e-54e6-4ec7-9f34-38b508b1c049/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T11:59:50Z"
+      "last_checked": "2026-11-17T15:56:57Z"
     },
     {
       "id": "e355fdbe-5a55-43d8-b646-40896ba5eb16",
@@ -830,7 +758,7 @@
       "source_url": "https://jobs.lever.co/360learning/e355fdbe-5a55-43d8-b646-40896ba5eb16",
       "apply_url": "https://jobs.lever.co/360learning/e355fdbe-5a55-43d8-b646-40896ba5eb16/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T11:59:50Z"
+      "last_checked": "2026-11-17T15:56:57Z"
     },
     {
       "id": "ef8ce026-340c-49f6-a1b2-55ed510965b1",
@@ -848,7 +776,7 @@
       "source_url": "https://jobs.lever.co/360learning/ef8ce026-340c-49f6-a1b2-55ed510965b1",
       "apply_url": "https://jobs.lever.co/360learning/ef8ce026-340c-49f6-a1b2-55ed510965b1/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T11:59:50Z"
+      "last_checked": "2026-11-17T15:56:57Z"
     }
   ],
   "ats": "lever",

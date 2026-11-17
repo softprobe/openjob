@@ -1,8 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-17T11:59:50Z",
+  "checked_at": "2026-11-17T15:56:57Z",
   "failed_at": null,
-  "etag": "W/\"d0123c23c019afd0d4e51d5175faa5bd\"",
+  "etag": "W/\"bcb717b6effb3588ec9d642853de24f2\"",
   "jobs": [
     {
       "id": "4654695005",
@@ -20,7 +20,7 @@
       "source_url": "https://job-boards.greenhouse.io/getbuilt/jobs/4654695005",
       "apply_url": "https://job-boards.greenhouse.io/getbuilt/jobs/4654695005",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T11:59:50Z"
+      "last_checked": "2026-11-17T15:56:57Z"
     },
     {
       "id": "4682661005",
@@ -38,7 +38,7 @@
       "source_url": "https://job-boards.greenhouse.io/getbuilt/jobs/4682661005",
       "apply_url": "https://job-boards.greenhouse.io/getbuilt/jobs/4682661005",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T11:59:50Z"
+      "last_checked": "2026-11-17T15:56:57Z"
     },
     {
       "id": "4706517005",
@@ -56,7 +56,7 @@
       "source_url": "https://job-boards.greenhouse.io/getbuilt/jobs/4706517005",
       "apply_url": "https://job-boards.greenhouse.io/getbuilt/jobs/4706517005",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T11:59:50Z"
+      "last_checked": "2026-11-17T15:56:57Z"
     },
     {
       "id": "4722283005",
@@ -74,7 +74,7 @@
       "source_url": "https://job-boards.greenhouse.io/getbuilt/jobs/4722283005",
       "apply_url": "https://job-boards.greenhouse.io/getbuilt/jobs/4722283005",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T11:59:50Z"
+      "last_checked": "2026-11-17T15:56:57Z"
     },
     {
       "id": "4722400005",
@@ -92,7 +92,7 @@
       "source_url": "https://job-boards.greenhouse.io/getbuilt/jobs/4722400005",
       "apply_url": "https://job-boards.greenhouse.io/getbuilt/jobs/4722400005",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T11:59:50Z"
+      "last_checked": "2026-11-17T15:56:57Z"
     },
     {
       "id": "4730368005",
@@ -110,7 +110,7 @@
       "source_url": "https://job-boards.greenhouse.io/getbuilt/jobs/4730368005",
       "apply_url": "https://job-boards.greenhouse.io/getbuilt/jobs/4730368005",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T11:59:50Z"
+      "last_checked": "2026-11-17T15:56:57Z"
     },
     {
       "id": "4733976005",
@@ -128,43 +128,7 @@
       "source_url": "https://job-boards.greenhouse.io/getbuilt/jobs/4733976005",
       "apply_url": "https://job-boards.greenhouse.io/getbuilt/jobs/4733976005",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T11:59:50Z"
-    },
-    {
-      "id": "4736057005",
-      "title": "Senior Implementation Consultant",
-      "company": "Built Technologies",
-      "location": "Nashville, TN (Onsite) or Remote",
-      "remote": "remote",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-09-18",
-      "updated": "2026-10-01",
-      "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/getbuilt/jobs/4736057005",
-      "apply_url": "https://job-boards.greenhouse.io/getbuilt/jobs/4736057005",
-      "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T11:59:50Z"
-    },
-    {
-      "id": "4736064005",
-      "title": "Implementation Consultant II, Lender",
-      "company": "Built Technologies",
-      "location": "Nashville, Tennessee, United States",
-      "remote": "unspecified",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-09-18",
-      "updated": "2026-10-07",
-      "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/getbuilt/jobs/4736064005",
-      "apply_url": "https://job-boards.greenhouse.io/getbuilt/jobs/4736064005",
-      "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T11:59:50Z"
+      "last_checked": "2026-11-17T15:56:57Z"
     },
     {
       "id": "4738090005",
@@ -182,25 +146,7 @@
       "source_url": "https://job-boards.greenhouse.io/getbuilt/jobs/4738090005",
       "apply_url": "https://job-boards.greenhouse.io/getbuilt/jobs/4738090005",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T11:59:50Z"
-    },
-    {
-      "id": "4743176005",
-      "title": "Senior Product Manager, Construction Financials",
-      "company": "Built Technologies",
-      "location": "Nashville, TN (Onsite) or Remote",
-      "remote": "remote",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-10-13",
-      "updated": "2026-10-13",
-      "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/getbuilt/jobs/4743176005",
-      "apply_url": "https://job-boards.greenhouse.io/getbuilt/jobs/4743176005",
-      "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T11:59:50Z"
+      "last_checked": "2026-11-17T15:56:57Z"
     },
     {
       "id": "4743651005",
@@ -218,7 +164,7 @@
       "source_url": "https://job-boards.greenhouse.io/getbuilt/jobs/4743651005",
       "apply_url": "https://job-boards.greenhouse.io/getbuilt/jobs/4743651005",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T11:59:50Z"
+      "last_checked": "2026-11-17T15:56:57Z"
     },
     {
       "id": "4749545005",
@@ -236,7 +182,7 @@
       "source_url": "https://job-boards.greenhouse.io/getbuilt/jobs/4749545005",
       "apply_url": "https://job-boards.greenhouse.io/getbuilt/jobs/4749545005",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T11:59:50Z"
+      "last_checked": "2026-11-17T15:56:57Z"
     },
     {
       "id": "4749986005",
@@ -254,7 +200,7 @@
       "source_url": "https://job-boards.greenhouse.io/getbuilt/jobs/4749986005",
       "apply_url": "https://job-boards.greenhouse.io/getbuilt/jobs/4749986005",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T11:59:50Z"
+      "last_checked": "2026-11-17T15:56:57Z"
     },
     {
       "id": "4751573005",
@@ -272,7 +218,7 @@
       "source_url": "https://job-boards.greenhouse.io/getbuilt/jobs/4751573005",
       "apply_url": "https://job-boards.greenhouse.io/getbuilt/jobs/4751573005",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T11:59:50Z"
+      "last_checked": "2026-11-17T15:56:57Z"
     },
     {
       "id": "4751621005",
@@ -290,7 +236,7 @@
       "source_url": "https://job-boards.greenhouse.io/getbuilt/jobs/4751621005",
       "apply_url": "https://job-boards.greenhouse.io/getbuilt/jobs/4751621005",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T11:59:50Z"
+      "last_checked": "2026-11-17T15:56:57Z"
     }
   ],
   "ats": "greenhouse",
