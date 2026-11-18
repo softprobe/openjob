@@ -1,9 +1,27 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-17T15:56:57Z",
+  "checked_at": "2026-11-18T15:36:26Z",
   "failed_at": null,
-  "etag": "W/\"01539f2dda90908f1b3e6b0f7772c7ba\"",
+  "etag": "W/\"7671180631a021471668b373b9608fc7\"",
   "jobs": [
+    {
+      "id": "8431554002",
+      "title": "Retail Senior Store Manager",
+      "company": "Tecovas",
+      "location": "Austin, TX",
+      "remote": "unspecified",
+      "department": "",
+      "employment_type": "",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-02-20",
+      "updated": "2026-11-17",
+      "deadline": "",
+      "source_url": "https://job-boards.greenhouse.io/tecovas/jobs/8431554002",
+      "apply_url": "https://job-boards.greenhouse.io/tecovas/jobs/8431554002",
+      "first_seen": "2026-11-18T15:36:26Z",
+      "last_checked": "2026-11-18T15:36:26Z"
+    },
     {
       "id": "8585665002",
       "title": "Assistant Store Manager New Orleans",
@@ -20,7 +38,7 @@
       "source_url": "https://job-boards.greenhouse.io/tecovas/jobs/8585665002",
       "apply_url": "https://job-boards.greenhouse.io/tecovas/jobs/8585665002",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8624879002",
@@ -38,7 +56,7 @@
       "source_url": "https://job-boards.greenhouse.io/tecovas/jobs/8624879002",
       "apply_url": "https://job-boards.greenhouse.io/tecovas/jobs/8624879002",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8635455002",
@@ -56,7 +74,7 @@
       "source_url": "https://job-boards.greenhouse.io/tecovas/jobs/8635455002",
       "apply_url": "https://job-boards.greenhouse.io/tecovas/jobs/8635455002",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8637128002",
@@ -74,7 +92,7 @@
       "source_url": "https://job-boards.greenhouse.io/tecovas/jobs/8637128002",
       "apply_url": "https://job-boards.greenhouse.io/tecovas/jobs/8637128002",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8637147002",
@@ -92,7 +110,7 @@
       "source_url": "https://job-boards.greenhouse.io/tecovas/jobs/8637147002",
       "apply_url": "https://job-boards.greenhouse.io/tecovas/jobs/8637147002",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8637150002",
@@ -110,7 +128,7 @@
       "source_url": "https://job-boards.greenhouse.io/tecovas/jobs/8637150002",
       "apply_url": "https://job-boards.greenhouse.io/tecovas/jobs/8637150002",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8675125002",
@@ -128,7 +146,7 @@
       "source_url": "https://job-boards.greenhouse.io/tecovas/jobs/8675125002",
       "apply_url": "https://job-boards.greenhouse.io/tecovas/jobs/8675125002",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8685525002",
@@ -146,7 +164,7 @@
       "source_url": "https://job-boards.greenhouse.io/tecovas/jobs/8685525002",
       "apply_url": "https://job-boards.greenhouse.io/tecovas/jobs/8685525002",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8694523002",
@@ -164,7 +182,7 @@
       "source_url": "https://job-boards.greenhouse.io/tecovas/jobs/8694523002",
       "apply_url": "https://job-boards.greenhouse.io/tecovas/jobs/8694523002",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8706599002",
@@ -182,7 +200,7 @@
       "source_url": "https://job-boards.greenhouse.io/tecovas/jobs/8706599002",
       "apply_url": "https://job-boards.greenhouse.io/tecovas/jobs/8706599002",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8730641002",
@@ -200,7 +218,7 @@
       "source_url": "https://job-boards.greenhouse.io/tecovas/jobs/8730641002",
       "apply_url": "https://job-boards.greenhouse.io/tecovas/jobs/8730641002",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8742701002",
@@ -218,7 +236,7 @@
       "source_url": "https://job-boards.greenhouse.io/tecovas/jobs/8742701002",
       "apply_url": "https://job-boards.greenhouse.io/tecovas/jobs/8742701002",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8756968002",
@@ -236,7 +254,7 @@
       "source_url": "https://job-boards.greenhouse.io/tecovas/jobs/8756968002",
       "apply_url": "https://job-boards.greenhouse.io/tecovas/jobs/8756968002",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8770334002",
@@ -254,7 +272,7 @@
       "source_url": "https://job-boards.greenhouse.io/tecovas/jobs/8770334002",
       "apply_url": "https://job-boards.greenhouse.io/tecovas/jobs/8770334002",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8771117002",
@@ -272,7 +290,7 @@
       "source_url": "https://job-boards.greenhouse.io/tecovas/jobs/8771117002",
       "apply_url": "https://job-boards.greenhouse.io/tecovas/jobs/8771117002",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8773565002",
@@ -290,7 +308,7 @@
       "source_url": "https://job-boards.greenhouse.io/tecovas/jobs/8773565002",
       "apply_url": "https://job-boards.greenhouse.io/tecovas/jobs/8773565002",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8773674002",
@@ -308,7 +326,7 @@
       "source_url": "https://job-boards.greenhouse.io/tecovas/jobs/8773674002",
       "apply_url": "https://job-boards.greenhouse.io/tecovas/jobs/8773674002",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8778402002",
@@ -326,7 +344,7 @@
       "source_url": "https://job-boards.greenhouse.io/tecovas/jobs/8778402002",
       "apply_url": "https://job-boards.greenhouse.io/tecovas/jobs/8778402002",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8779716002",
@@ -344,7 +362,7 @@
       "source_url": "https://job-boards.greenhouse.io/tecovas/jobs/8779716002",
       "apply_url": "https://job-boards.greenhouse.io/tecovas/jobs/8779716002",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8780165002",
@@ -362,7 +380,7 @@
       "source_url": "https://job-boards.greenhouse.io/tecovas/jobs/8780165002",
       "apply_url": "https://job-boards.greenhouse.io/tecovas/jobs/8780165002",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8783258002",
@@ -380,7 +398,7 @@
       "source_url": "https://job-boards.greenhouse.io/tecovas/jobs/8783258002",
       "apply_url": "https://job-boards.greenhouse.io/tecovas/jobs/8783258002",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8784246002",
@@ -398,7 +416,7 @@
       "source_url": "https://job-boards.greenhouse.io/tecovas/jobs/8784246002",
       "apply_url": "https://job-boards.greenhouse.io/tecovas/jobs/8784246002",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8784476002",
@@ -416,7 +434,7 @@
       "source_url": "https://job-boards.greenhouse.io/tecovas/jobs/8784476002",
       "apply_url": "https://job-boards.greenhouse.io/tecovas/jobs/8784476002",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8784935002",
@@ -434,7 +452,7 @@
       "source_url": "https://job-boards.greenhouse.io/tecovas/jobs/8784935002",
       "apply_url": "https://job-boards.greenhouse.io/tecovas/jobs/8784935002",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8785450002",
@@ -452,7 +470,7 @@
       "source_url": "https://job-boards.greenhouse.io/tecovas/jobs/8785450002",
       "apply_url": "https://job-boards.greenhouse.io/tecovas/jobs/8785450002",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8786169002",
@@ -470,7 +488,7 @@
       "source_url": "https://job-boards.greenhouse.io/tecovas/jobs/8786169002",
       "apply_url": "https://job-boards.greenhouse.io/tecovas/jobs/8786169002",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8789103002",
@@ -488,7 +506,7 @@
       "source_url": "https://job-boards.greenhouse.io/tecovas/jobs/8789103002",
       "apply_url": "https://job-boards.greenhouse.io/tecovas/jobs/8789103002",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8795610002",
@@ -506,7 +524,7 @@
       "source_url": "https://job-boards.greenhouse.io/tecovas/jobs/8795610002",
       "apply_url": "https://job-boards.greenhouse.io/tecovas/jobs/8795610002",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8806205002",
@@ -524,7 +542,7 @@
       "source_url": "https://job-boards.greenhouse.io/tecovas/jobs/8806205002",
       "apply_url": "https://job-boards.greenhouse.io/tecovas/jobs/8806205002",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8811288002",
@@ -537,12 +555,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-15",
-      "updated": "2026-10-19",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/tecovas/jobs/8811288002",
       "apply_url": "https://job-boards.greenhouse.io/tecovas/jobs/8811288002",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8811892002",
@@ -560,7 +578,7 @@
       "source_url": "https://job-boards.greenhouse.io/tecovas/jobs/8811892002",
       "apply_url": "https://job-boards.greenhouse.io/tecovas/jobs/8811892002",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8817702002",
@@ -578,7 +596,7 @@
       "source_url": "https://job-boards.greenhouse.io/tecovas/jobs/8817702002",
       "apply_url": "https://job-boards.greenhouse.io/tecovas/jobs/8817702002",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8821275002",
@@ -596,7 +614,7 @@
       "source_url": "https://job-boards.greenhouse.io/tecovas/jobs/8821275002",
       "apply_url": "https://job-boards.greenhouse.io/tecovas/jobs/8821275002",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8825947002",
@@ -614,7 +632,7 @@
       "source_url": "https://job-boards.greenhouse.io/tecovas/jobs/8825947002",
       "apply_url": "https://job-boards.greenhouse.io/tecovas/jobs/8825947002",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8827399002",
@@ -632,7 +650,7 @@
       "source_url": "https://job-boards.greenhouse.io/tecovas/jobs/8827399002",
       "apply_url": "https://job-boards.greenhouse.io/tecovas/jobs/8827399002",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8828048002",
@@ -650,7 +668,7 @@
       "source_url": "https://job-boards.greenhouse.io/tecovas/jobs/8828048002",
       "apply_url": "https://job-boards.greenhouse.io/tecovas/jobs/8828048002",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8831585002",
@@ -668,7 +686,7 @@
       "source_url": "https://job-boards.greenhouse.io/tecovas/jobs/8831585002",
       "apply_url": "https://job-boards.greenhouse.io/tecovas/jobs/8831585002",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8845080002",
@@ -686,25 +704,7 @@
       "source_url": "https://job-boards.greenhouse.io/tecovas/jobs/8845080002",
       "apply_url": "https://job-boards.greenhouse.io/tecovas/jobs/8845080002",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
-    },
-    {
-      "id": "8853413002",
-      "title": "Tecovas FT Assistant Store Manager - (Atlanta, GA)",
-      "company": "Tecovas",
-      "location": "Atlanta, GA",
-      "remote": "unspecified",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-09-29",
-      "updated": "2026-10-19",
-      "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/tecovas/jobs/8853413002",
-      "apply_url": "https://job-boards.greenhouse.io/tecovas/jobs/8853413002",
-      "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8853991002",
@@ -722,7 +722,7 @@
       "source_url": "https://job-boards.greenhouse.io/tecovas/jobs/8853991002",
       "apply_url": "https://job-boards.greenhouse.io/tecovas/jobs/8853991002",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8856844002",
@@ -740,7 +740,7 @@
       "source_url": "https://job-boards.greenhouse.io/tecovas/jobs/8856844002",
       "apply_url": "https://job-boards.greenhouse.io/tecovas/jobs/8856844002",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8861930002",
@@ -758,7 +758,7 @@
       "source_url": "https://job-boards.greenhouse.io/tecovas/jobs/8861930002",
       "apply_url": "https://job-boards.greenhouse.io/tecovas/jobs/8861930002",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8863600002",
@@ -776,7 +776,7 @@
       "source_url": "https://job-boards.greenhouse.io/tecovas/jobs/8863600002",
       "apply_url": "https://job-boards.greenhouse.io/tecovas/jobs/8863600002",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8864376002",
@@ -794,7 +794,7 @@
       "source_url": "https://job-boards.greenhouse.io/tecovas/jobs/8864376002",
       "apply_url": "https://job-boards.greenhouse.io/tecovas/jobs/8864376002",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8867303002",
@@ -812,7 +812,7 @@
       "source_url": "https://job-boards.greenhouse.io/tecovas/jobs/8867303002",
       "apply_url": "https://job-boards.greenhouse.io/tecovas/jobs/8867303002",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8876600002",
@@ -830,7 +830,7 @@
       "source_url": "https://job-boards.greenhouse.io/tecovas/jobs/8876600002",
       "apply_url": "https://job-boards.greenhouse.io/tecovas/jobs/8876600002",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8876620002",
@@ -848,7 +848,7 @@
       "source_url": "https://job-boards.greenhouse.io/tecovas/jobs/8876620002",
       "apply_url": "https://job-boards.greenhouse.io/tecovas/jobs/8876620002",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8876645002",
@@ -866,7 +866,7 @@
       "source_url": "https://job-boards.greenhouse.io/tecovas/jobs/8876645002",
       "apply_url": "https://job-boards.greenhouse.io/tecovas/jobs/8876645002",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8876964002",
@@ -884,7 +884,7 @@
       "source_url": "https://job-boards.greenhouse.io/tecovas/jobs/8876964002",
       "apply_url": "https://job-boards.greenhouse.io/tecovas/jobs/8876964002",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8878057002",
@@ -902,7 +902,7 @@
       "source_url": "https://job-boards.greenhouse.io/tecovas/jobs/8878057002",
       "apply_url": "https://job-boards.greenhouse.io/tecovas/jobs/8878057002",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8878062002",
@@ -920,7 +920,7 @@
       "source_url": "https://job-boards.greenhouse.io/tecovas/jobs/8878062002",
       "apply_url": "https://job-boards.greenhouse.io/tecovas/jobs/8878062002",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8879853002",
@@ -938,7 +938,7 @@
       "source_url": "https://job-boards.greenhouse.io/tecovas/jobs/8879853002",
       "apply_url": "https://job-boards.greenhouse.io/tecovas/jobs/8879853002",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8883459002",
@@ -956,7 +956,7 @@
       "source_url": "https://job-boards.greenhouse.io/tecovas/jobs/8883459002",
       "apply_url": "https://job-boards.greenhouse.io/tecovas/jobs/8883459002",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8886606002",
@@ -974,7 +974,7 @@
       "source_url": "https://job-boards.greenhouse.io/tecovas/jobs/8886606002",
       "apply_url": "https://job-boards.greenhouse.io/tecovas/jobs/8886606002",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8889480002",
@@ -992,7 +992,7 @@
       "source_url": "https://job-boards.greenhouse.io/tecovas/jobs/8889480002",
       "apply_url": "https://job-boards.greenhouse.io/tecovas/jobs/8889480002",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8906161002",
@@ -1010,7 +1010,7 @@
       "source_url": "https://job-boards.greenhouse.io/tecovas/jobs/8906161002",
       "apply_url": "https://job-boards.greenhouse.io/tecovas/jobs/8906161002",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8907312002",
@@ -1028,7 +1028,7 @@
       "source_url": "https://job-boards.greenhouse.io/tecovas/jobs/8907312002",
       "apply_url": "https://job-boards.greenhouse.io/tecovas/jobs/8907312002",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8908872002",
@@ -1046,7 +1046,7 @@
       "source_url": "https://job-boards.greenhouse.io/tecovas/jobs/8908872002",
       "apply_url": "https://job-boards.greenhouse.io/tecovas/jobs/8908872002",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8917802002",
@@ -1064,7 +1064,7 @@
       "source_url": "https://job-boards.greenhouse.io/tecovas/jobs/8917802002",
       "apply_url": "https://job-boards.greenhouse.io/tecovas/jobs/8917802002",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8919859002",
@@ -1082,7 +1082,7 @@
       "source_url": "https://job-boards.greenhouse.io/tecovas/jobs/8919859002",
       "apply_url": "https://job-boards.greenhouse.io/tecovas/jobs/8919859002",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8923578002",
@@ -1100,7 +1100,7 @@
       "source_url": "https://job-boards.greenhouse.io/tecovas/jobs/8923578002",
       "apply_url": "https://job-boards.greenhouse.io/tecovas/jobs/8923578002",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8923850002",
@@ -1118,7 +1118,7 @@
       "source_url": "https://job-boards.greenhouse.io/tecovas/jobs/8923850002",
       "apply_url": "https://job-boards.greenhouse.io/tecovas/jobs/8923850002",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8927593002",
@@ -1136,7 +1136,7 @@
       "source_url": "https://job-boards.greenhouse.io/tecovas/jobs/8927593002",
       "apply_url": "https://job-boards.greenhouse.io/tecovas/jobs/8927593002",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8927756002",
@@ -1154,7 +1154,7 @@
       "source_url": "https://job-boards.greenhouse.io/tecovas/jobs/8927756002",
       "apply_url": "https://job-boards.greenhouse.io/tecovas/jobs/8927756002",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8929169002",
@@ -1172,7 +1172,7 @@
       "source_url": "https://job-boards.greenhouse.io/tecovas/jobs/8929169002",
       "apply_url": "https://job-boards.greenhouse.io/tecovas/jobs/8929169002",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8932352002",
@@ -1190,7 +1190,7 @@
       "source_url": "https://job-boards.greenhouse.io/tecovas/jobs/8932352002",
       "apply_url": "https://job-boards.greenhouse.io/tecovas/jobs/8932352002",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8932467002",
@@ -1208,7 +1208,7 @@
       "source_url": "https://job-boards.greenhouse.io/tecovas/jobs/8932467002",
       "apply_url": "https://job-boards.greenhouse.io/tecovas/jobs/8932467002",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8933991002",
@@ -1226,7 +1226,7 @@
       "source_url": "https://job-boards.greenhouse.io/tecovas/jobs/8933991002",
       "apply_url": "https://job-boards.greenhouse.io/tecovas/jobs/8933991002",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8935153002",
@@ -1244,7 +1244,7 @@
       "source_url": "https://job-boards.greenhouse.io/tecovas/jobs/8935153002",
       "apply_url": "https://job-boards.greenhouse.io/tecovas/jobs/8935153002",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8935721002",
@@ -1262,7 +1262,7 @@
       "source_url": "https://job-boards.greenhouse.io/tecovas/jobs/8935721002",
       "apply_url": "https://job-boards.greenhouse.io/tecovas/jobs/8935721002",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8935811002",
@@ -1280,7 +1280,7 @@
       "source_url": "https://job-boards.greenhouse.io/tecovas/jobs/8935811002",
       "apply_url": "https://job-boards.greenhouse.io/tecovas/jobs/8935811002",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8936517002",
@@ -1298,7 +1298,7 @@
       "source_url": "https://job-boards.greenhouse.io/tecovas/jobs/8936517002",
       "apply_url": "https://job-boards.greenhouse.io/tecovas/jobs/8936517002",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8938308002",
@@ -1316,7 +1316,7 @@
       "source_url": "https://job-boards.greenhouse.io/tecovas/jobs/8938308002",
       "apply_url": "https://job-boards.greenhouse.io/tecovas/jobs/8938308002",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8938565002",
@@ -1334,7 +1334,7 @@
       "source_url": "https://job-boards.greenhouse.io/tecovas/jobs/8938565002",
       "apply_url": "https://job-boards.greenhouse.io/tecovas/jobs/8938565002",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8940209002",
@@ -1352,7 +1352,61 @@
       "source_url": "https://job-boards.greenhouse.io/tecovas/jobs/8940209002",
       "apply_url": "https://job-boards.greenhouse.io/tecovas/jobs/8940209002",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
+    },
+    {
+      "id": "8942441002",
+      "title": "Sales Associate 2026",
+      "company": "Tecovas",
+      "location": "Leawood, KS",
+      "remote": "unspecified",
+      "department": "",
+      "employment_type": "",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-17",
+      "updated": "2026-11-17",
+      "deadline": "",
+      "source_url": "https://job-boards.greenhouse.io/tecovas/jobs/8942441002",
+      "apply_url": "https://job-boards.greenhouse.io/tecovas/jobs/8942441002",
+      "first_seen": "2026-11-18T15:36:26Z",
+      "last_checked": "2026-11-18T15:36:26Z"
+    },
+    {
+      "id": "8945915002",
+      "title": "Seasonal Sales Associate 2026 Template",
+      "company": "Tecovas",
+      "location": "San Diego, CA",
+      "remote": "unspecified",
+      "department": "",
+      "employment_type": "",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-17",
+      "updated": "2026-11-17",
+      "deadline": "",
+      "source_url": "https://job-boards.greenhouse.io/tecovas/jobs/8945915002",
+      "apply_url": "https://job-boards.greenhouse.io/tecovas/jobs/8945915002",
+      "first_seen": "2026-11-18T15:36:26Z",
+      "last_checked": "2026-11-18T15:36:26Z"
+    },
+    {
+      "id": "8947948002",
+      "title": "Planner, Men's & Women's Apparel",
+      "company": "Tecovas",
+      "location": "Austin, TX",
+      "remote": "unspecified",
+      "department": "",
+      "employment_type": "",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-17",
+      "updated": "2026-11-17",
+      "deadline": "",
+      "source_url": "https://job-boards.greenhouse.io/tecovas/jobs/8947948002",
+      "apply_url": "https://job-boards.greenhouse.io/tecovas/jobs/8947948002",
+      "first_seen": "2026-11-18T15:36:26Z",
+      "last_checked": "2026-11-18T15:36:26Z"
     }
   ],
   "ats": "greenhouse",

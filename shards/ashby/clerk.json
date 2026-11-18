@@ -1,12 +1,12 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-17T15:56:57Z",
+  "checked_at": "2026-11-18T15:36:26Z",
   "failed_at": null,
-  "etag": "W/\"job-board:42c5438e4a8116082c890aefe7e07ccc1d3c5d88cc40447e93de67c96ef8f0b6\"",
+  "etag": "W/\"job-board:69ac8d62cb2672dd3d8e95ab707c43ee36b30e28218ed17136ec175f3cc4f05c\"",
   "jobs": [
     {
       "id": "22d74851-1657-4dc6-9a44-b81900131486",
-      "title": "Brand Designer",
+      "title": "Web Designer",
       "company": "Clerk",
       "location": "Remote or In-Office in San Francisco",
       "remote": "remote",
@@ -20,7 +20,7 @@
       "source_url": "https://jobs.ashbyhq.com/Clerk/22d74851-1657-4dc6-9a44-b81900131486",
       "apply_url": "https://jobs.ashbyhq.com/Clerk/22d74851-1657-4dc6-9a44-b81900131486/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "7635ac5c-bb36-48aa-a572-e467eb9ab429",
@@ -38,7 +38,7 @@
       "source_url": "https://jobs.ashbyhq.com/Clerk/7635ac5c-bb36-48aa-a572-e467eb9ab429",
       "apply_url": "https://jobs.ashbyhq.com/Clerk/7635ac5c-bb36-48aa-a572-e467eb9ab429/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     }
   ],
   "ats": "ashby",

@@ -1,28 +1,9 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-17T15:56:57Z",
+  "checked_at": "2026-11-18T15:36:26Z",
   "failed_at": null,
-  "etag": "W/\"9035fa0823c58b847114b96da083ac5d\"",
-  "jobs": [
-    {
-      "id": "5377341008",
-      "title": "Strategy Finance Intern, Madrid",
-      "company": "PropHero",
-      "location": "Madrid",
-      "remote": "unspecified",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-08-02",
-      "updated": "2026-11-16",
-      "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/prophero/jobs/5377341008",
-      "apply_url": "https://job-boards.greenhouse.io/prophero/jobs/5377341008",
-      "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
-    }
-  ],
+  "etag": "W/\"09aefc0c2d96e9c065aab057f04eaa35\"",
+  "jobs": [],
   "ats": "greenhouse",
   "board": "prophero",
   "slug": "prophero",

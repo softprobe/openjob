@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-17T15:56:57Z",
+  "checked_at": "2026-11-18T15:36:26Z",
   "failed_at": null,
   "etag": "W/\"8f8ad7f0b560e6f7aeb5744addfc83df\"",
   "jobs": [
@@ -20,7 +20,7 @@
       "source_url": "https://job-boards.greenhouse.io/wooga/jobs/8213368",
       "apply_url": "https://job-boards.greenhouse.io/wooga/jobs/8213368",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8213462",
@@ -38,7 +38,7 @@
       "source_url": "https://job-boards.greenhouse.io/wooga/jobs/8213462",
       "apply_url": "https://job-boards.greenhouse.io/wooga/jobs/8213462",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8213546",
@@ -56,7 +56,7 @@
       "source_url": "https://job-boards.greenhouse.io/wooga/jobs/8213546",
       "apply_url": "https://job-boards.greenhouse.io/wooga/jobs/8213546",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8305649",
@@ -74,7 +74,7 @@
       "source_url": "https://job-boards.greenhouse.io/wooga/jobs/8305649",
       "apply_url": "https://job-boards.greenhouse.io/wooga/jobs/8305649",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8330917",
@@ -92,7 +92,7 @@
       "source_url": "https://job-boards.greenhouse.io/wooga/jobs/8330917",
       "apply_url": "https://job-boards.greenhouse.io/wooga/jobs/8330917",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     }
   ],
   "ats": "greenhouse",

@@ -1,8 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-17T15:56:57Z",
+  "checked_at": "2026-11-18T15:36:26Z",
   "failed_at": null,
-  "etag": "W/\"88d82023909afd16bf1b9b76880af6f8\"",
+  "etag": "W/\"d05908f1f72a9e9ebd897fb21eeb94bb\"",
   "jobs": [
     {
       "id": "4289730003",
@@ -20,7 +20,7 @@
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=4289730003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=4289730003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "7559181003",
@@ -33,12 +33,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-01-05",
-      "updated": "2026-10-02",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=7559181003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=7559181003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "7651403003",
@@ -51,12 +51,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-03-03",
-      "updated": "2026-10-30",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=7651403003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=7651403003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "7656004003",
@@ -69,12 +69,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-03-09",
-      "updated": "2026-10-30",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=7656004003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=7656004003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "7723267003",
@@ -87,12 +87,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-05-14",
-      "updated": "2026-11-10",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=7723267003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=7723267003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "7735023003",
@@ -105,12 +105,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-07-15",
-      "updated": "2026-11-11",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=7735023003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=7735023003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "7735295003",
@@ -123,30 +123,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-05-18",
-      "updated": "2026-11-13",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=7735295003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=7735295003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
-    },
-    {
-      "id": "7742243003",
-      "title": "Senior Sales Engineer, Enterprise",
-      "company": "Fivetran",
-      "location": "Remote, Germany, EMEA",
-      "remote": "remote",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-05-27",
-      "updated": "2026-11-11",
-      "deadline": "",
-      "source_url": "https://www.fivetran.com/careers/job?gh_jid=7742243003",
-      "apply_url": "https://www.fivetran.com/careers/job?gh_jid=7742243003",
-      "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "7768594003",
@@ -159,16 +141,16 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-06-22",
-      "updated": "2026-10-30",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=7768594003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=7768594003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "7771684003",
-      "title": "Principal Software Engineer - Data Lakes",
+      "title": "Principal Software Engineer, Data Lakes",
       "company": "Fivetran",
       "location": "Remote, Germany, EMEA",
       "remote": "remote",
@@ -177,12 +159,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-06-16",
-      "updated": "2026-10-02",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=7771684003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=7771684003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "7772283003",
@@ -195,12 +177,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-06-16",
-      "updated": "2026-10-30",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=7772283003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=7772283003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "7778979003",
@@ -213,48 +195,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-06-24",
-      "updated": "2026-11-09",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=7778979003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=7778979003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
-    },
-    {
-      "id": "7785672003",
-      "title": "Senior Sales Engineer, Enterprise - German Speaking",
-      "company": "Fivetran",
-      "location": "Remote, Ireland, EMEA",
-      "remote": "remote",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-06-25",
-      "updated": "2026-11-11",
-      "deadline": "",
-      "source_url": "https://www.fivetran.com/careers/job?gh_jid=7785672003",
-      "apply_url": "https://www.fivetran.com/careers/job?gh_jid=7785672003",
-      "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
-    },
-    {
-      "id": "7785674003",
-      "title": "Senior Sales Engineer, Enterprise - German Speaking",
-      "company": "Fivetran",
-      "location": "Remote, United Kingdom, EMEA",
-      "remote": "remote",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-06-25",
-      "updated": "2026-11-11",
-      "deadline": "",
-      "source_url": "https://www.fivetran.com/careers/job?gh_jid=7785674003",
-      "apply_url": "https://www.fivetran.com/careers/job?gh_jid=7785674003",
-      "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "7786318003",
@@ -267,12 +213,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-07-02",
-      "updated": "2026-10-02",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=7786318003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=7786318003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "7787897003",
@@ -285,12 +231,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-06-30",
-      "updated": "2026-11-11",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=7787897003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=7787897003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "7787913003",
@@ -303,12 +249,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-07",
-      "updated": "2026-10-30",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=7787913003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=7787913003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "7789375003",
@@ -321,12 +267,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-07-07",
-      "updated": "2026-11-03",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=7789375003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=7789375003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "7790607003",
@@ -339,12 +285,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-07-01",
-      "updated": "2026-10-30",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=7790607003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=7790607003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "7790852003",
@@ -357,12 +303,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-07-01",
-      "updated": "2026-11-08",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=7790852003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=7790852003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "7790909003",
@@ -375,12 +321,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-07-01",
-      "updated": "2026-10-30",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=7790909003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=7790909003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "7792160003",
@@ -393,12 +339,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-07-17",
-      "updated": "2026-11-12",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=7792160003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=7792160003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "7792166003",
@@ -411,12 +357,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-07-27",
-      "updated": "2026-11-03",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=7792166003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=7792166003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "7796439003",
@@ -429,12 +375,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-07-17",
-      "updated": "2026-11-12",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=7796439003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=7796439003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "7796447003",
@@ -447,12 +393,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-07-17",
-      "updated": "2026-11-03",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=7796447003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=7796447003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "7796528003",
@@ -465,12 +411,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-07-14",
-      "updated": "2026-11-03",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=7796528003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=7796528003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "7798223003",
@@ -483,12 +429,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-07-13",
-      "updated": "2026-11-13",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=7798223003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=7798223003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "7805078003",
@@ -501,30 +447,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-07-14",
-      "updated": "2026-11-08",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=7805078003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=7805078003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
-    },
-    {
-      "id": "7808191003",
-      "title": "Senior Product Design Manager",
-      "company": "Fivetran",
-      "location": "Oakland, California, United States, AMER; USA - New York",
-      "remote": "unspecified",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-07-24",
-      "updated": "2026-11-04",
-      "deadline": "",
-      "source_url": "https://www.fivetran.com/careers/job?gh_jid=7808191003",
-      "apply_url": "https://www.fivetran.com/careers/job?gh_jid=7808191003",
-      "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "7811889003",
@@ -537,12 +465,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-07-24",
-      "updated": "2026-11-10",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=7811889003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=7811889003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "7812269003",
@@ -555,16 +483,16 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-07-23",
-      "updated": "2026-11-10",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=7812269003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=7812269003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "7818224003",
-      "title": "Sr. Staff Technical Product Manager – Customer Support",
+      "title": "Sr. Staff Technical Product Manager, Customer Support",
       "company": "Fivetran",
       "location": "Novi Sad, South Bačka, Serbia, EMEA",
       "remote": "unspecified",
@@ -573,12 +501,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-01",
-      "updated": "2026-10-30",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=7818224003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=7818224003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "7818226003",
@@ -591,12 +519,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-24",
-      "updated": "2026-10-30",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=7818226003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=7818226003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "7818250003",
@@ -609,12 +537,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-13",
-      "updated": "2026-10-30",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=7818250003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=7818250003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "7818252003",
@@ -627,12 +555,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-03",
-      "updated": "2026-10-30",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=7818252003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=7818252003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "7818286003",
@@ -645,12 +573,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-26",
-      "updated": "2026-11-14",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=7818286003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=7818286003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "7818294003",
@@ -663,12 +591,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-10",
-      "updated": "2026-10-30",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=7818294003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=7818294003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "7818306003",
@@ -681,12 +609,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-03",
-      "updated": "2026-10-30",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=7818306003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=7818306003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "7818314003",
@@ -699,12 +627,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-27",
-      "updated": "2026-11-11",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=7818314003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=7818314003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "7818324003",
@@ -717,12 +645,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-05",
-      "updated": "2026-10-30",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=7818324003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=7818324003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "7818344003",
@@ -735,12 +663,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-07",
-      "updated": "2026-11-06",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=7818344003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=7818344003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "7818352003",
@@ -753,12 +681,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-05",
-      "updated": "2026-10-30",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=7818352003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=7818352003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "7818374003",
@@ -771,12 +699,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-13",
-      "updated": "2026-11-11",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=7818374003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=7818374003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "7818376003",
@@ -789,12 +717,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-05",
-      "updated": "2026-11-09",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=7818376003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=7818376003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "7818380003",
@@ -807,12 +735,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-08",
-      "updated": "2026-10-30",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=7818380003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=7818380003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "7818382003",
@@ -825,12 +753,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-07",
-      "updated": "2026-11-06",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=7818382003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=7818382003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "7818394003",
@@ -843,12 +771,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-14",
-      "updated": "2026-10-30",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=7818394003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=7818394003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "7818401003",
@@ -861,12 +789,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-23",
-      "updated": "2026-11-13",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=7818401003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=7818401003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "7820250003",
@@ -879,30 +807,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-07-29",
-      "updated": "2026-11-11",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=7820250003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=7820250003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
-    },
-    {
-      "id": "7822456003",
-      "title": "Senior Product Design Manager",
-      "company": "Fivetran",
-      "location": "Denver, Colorado, United States, AMER",
-      "remote": "unspecified",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-07-30",
-      "updated": "2026-10-30",
-      "deadline": "",
-      "source_url": "https://www.fivetran.com/careers/job?gh_jid=7822456003",
-      "apply_url": "https://www.fivetran.com/careers/job?gh_jid=7822456003",
-      "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "7823193003",
@@ -915,12 +825,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-10",
-      "updated": "2026-11-02",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=7823193003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=7823193003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "7823195003",
@@ -933,12 +843,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-11",
-      "updated": "2026-11-13",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=7823195003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=7823195003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "7859203003",
@@ -951,12 +861,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-12",
-      "updated": "2026-11-13",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=7859203003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=7859203003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "7864598003",
@@ -969,12 +879,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-13",
-      "updated": "2026-11-02",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=7864598003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=7864598003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "7864668003",
@@ -987,12 +897,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-13",
-      "updated": "2026-11-02",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=7864668003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=7864668003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "7865037003",
@@ -1005,12 +915,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-13",
-      "updated": "2026-11-13",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=7865037003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=7865037003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "7865559003",
@@ -1023,12 +933,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-13",
-      "updated": "2026-11-11",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=7865559003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=7865559003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "7865591003",
@@ -1041,12 +951,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-13",
-      "updated": "2026-11-11",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=7865591003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=7865591003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "7868591003",
@@ -1059,12 +969,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-21",
-      "updated": "2026-10-30",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=7868591003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=7868591003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "7875706003",
@@ -1077,12 +987,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-18",
-      "updated": "2026-11-12",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=7875706003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=7875706003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "7885745003",
@@ -1095,12 +1005,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-17",
-      "updated": "2026-11-12",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=7885745003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=7885745003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "7894333003",
@@ -1113,12 +1023,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-18",
-      "updated": "2026-10-30",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=7894333003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=7894333003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "7894337003",
@@ -1131,12 +1041,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-18",
-      "updated": "2026-10-30",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=7894337003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=7894337003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "7894342003",
@@ -1149,12 +1059,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-18",
-      "updated": "2026-10-30",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=7894342003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=7894342003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "7894565003",
@@ -1167,12 +1077,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-18",
-      "updated": "2026-11-04",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=7894565003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=7894565003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "7897681003",
@@ -1185,12 +1095,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-02",
-      "updated": "2026-11-11",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=7897681003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=7897681003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "7978689003",
@@ -1203,12 +1113,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-10",
-      "updated": "2026-10-30",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=7978689003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=7978689003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "7980977003",
@@ -1221,12 +1131,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-23",
-      "updated": "2026-11-14",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=7980977003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=7980977003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "7981431003",
@@ -1239,12 +1149,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-31",
-      "updated": "2026-10-02",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=7981431003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=7981431003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "7981621003",
@@ -1257,12 +1167,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-31",
-      "updated": "2026-11-12",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=7981621003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=7981621003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "7990752003",
@@ -1275,12 +1185,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-11",
-      "updated": "2026-10-30",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=7990752003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=7990752003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "7991106003",
@@ -1293,12 +1203,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-17",
-      "updated": "2026-11-13",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=7991106003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=7991106003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "7991782003",
@@ -1311,12 +1221,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-10",
-      "updated": "2026-10-30",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=7991782003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=7991782003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "7991786003",
@@ -1329,12 +1239,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-10",
-      "updated": "2026-10-30",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=7991786003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=7991786003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "7991787003",
@@ -1347,12 +1257,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-10",
-      "updated": "2026-10-30",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=7991787003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=7991787003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "7991793003",
@@ -1365,12 +1275,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-10",
-      "updated": "2026-10-30",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=7991793003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=7991793003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "7991796003",
@@ -1383,16 +1293,16 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-10",
-      "updated": "2026-10-30",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=7991796003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=7991796003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "7994703003",
-      "title": "Business Development Representative - German Speaking",
+      "title": "Business Development Representative, German Speaking",
       "company": "Fivetran",
       "location": "Dublin, Dublin, Ireland, EMEA",
       "remote": "unspecified",
@@ -1401,30 +1311,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-14",
-      "updated": "2026-11-12",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=7994703003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=7994703003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
-    },
-    {
-      "id": "7994707003",
-      "title": "Business Development Representative - French Speaking",
-      "company": "Fivetran",
-      "location": "Dublin, Dublin, Ireland, EMEA",
-      "remote": "unspecified",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-09-14",
-      "updated": "2026-11-12",
-      "deadline": "",
-      "source_url": "https://www.fivetran.com/careers/job?gh_jid=7994707003",
-      "apply_url": "https://www.fivetran.com/careers/job?gh_jid=7994707003",
-      "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "7997442003",
@@ -1437,12 +1329,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-22",
-      "updated": "2026-10-30",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=7997442003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=7997442003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "7998054003",
@@ -1455,12 +1347,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-30",
-      "updated": "2026-11-13",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=7998054003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=7998054003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "7998877003",
@@ -1473,12 +1365,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-01",
-      "updated": "2026-11-06",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=7998877003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=7998877003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8003720003",
@@ -1491,12 +1383,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-23",
-      "updated": "2026-11-14",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=8003720003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=8003720003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8003725003",
@@ -1509,12 +1401,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-23",
-      "updated": "2026-11-14",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=8003725003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=8003725003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8004657003",
@@ -1527,12 +1419,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-24",
-      "updated": "2026-11-03",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=8004657003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=8004657003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8004964003",
@@ -1545,12 +1437,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-06",
-      "updated": "2026-10-30",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=8004964003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=8004964003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8007245003",
@@ -1563,12 +1455,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-29",
-      "updated": "2026-11-09",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=8007245003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=8007245003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8007249003",
@@ -1581,12 +1473,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-01",
-      "updated": "2026-11-14",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=8007249003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=8007249003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8007388003",
@@ -1599,12 +1491,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-05",
-      "updated": "2026-10-30",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=8007388003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=8007388003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8009201003",
@@ -1617,12 +1509,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-06",
-      "updated": "2026-11-05",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=8009201003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=8009201003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8010276003",
@@ -1635,12 +1527,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-13",
-      "updated": "2026-10-30",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=8010276003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=8010276003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8012137003",
@@ -1653,12 +1545,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-06",
-      "updated": "2026-11-06",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=8012137003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=8012137003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8012156003",
@@ -1671,12 +1563,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-12",
-      "updated": "2026-10-30",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=8012156003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=8012156003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8013525003",
@@ -1689,12 +1581,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-05",
-      "updated": "2026-11-09",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=8013525003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=8013525003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8013527003",
@@ -1707,12 +1599,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-05",
-      "updated": "2026-11-09",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=8013527003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=8013527003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8014715003",
@@ -1725,12 +1617,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-06",
-      "updated": "2026-11-05",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=8014715003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=8014715003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8014716003",
@@ -1743,12 +1635,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-06",
-      "updated": "2026-11-05",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=8014716003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=8014716003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8014717003",
@@ -1761,16 +1653,16 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-06",
-      "updated": "2026-11-05",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=8014717003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=8014717003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8016690003",
-      "title": "Senior Staff Software Engineer - SAP Connectors",
+      "title": "Senior Staff Software Engineer, SAP Connectors",
       "company": "Fivetran",
       "location": "Amsterdam, North Holland, Netherlands, EMEA",
       "remote": "unspecified",
@@ -1779,12 +1671,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-03",
-      "updated": "2026-11-04",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=8016690003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=8016690003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8016899003",
@@ -1797,12 +1689,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-08",
-      "updated": "2026-11-13",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=8016899003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=8016899003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8017186003",
@@ -1815,12 +1707,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-08",
-      "updated": "2026-11-14",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=8017186003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=8017186003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8017412003",
@@ -1833,12 +1725,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-16",
-      "updated": "2026-11-02",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=8017412003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=8017412003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8017414003",
@@ -1851,12 +1743,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-14",
-      "updated": "2026-10-30",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=8017414003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=8017414003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8026985003",
@@ -1869,12 +1761,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-22",
-      "updated": "2026-10-22",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=8026985003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=8026985003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8031705003",
@@ -1887,12 +1779,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-06",
-      "updated": "2026-11-06",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=8031705003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=8031705003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8034209003",
@@ -1905,12 +1797,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-22",
-      "updated": "2026-11-03",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=8034209003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=8034209003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8034211003",
@@ -1923,12 +1815,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-06",
-      "updated": "2026-11-13",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=8034211003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=8034211003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8034213003",
@@ -1941,12 +1833,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-09",
-      "updated": "2026-11-10",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=8034213003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=8034213003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8034257003",
@@ -1959,12 +1851,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-05",
-      "updated": "2026-11-14",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=8034257003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=8034257003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8034540003",
@@ -1977,48 +1869,48 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-27",
-      "updated": "2026-11-11",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=8034540003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=8034540003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8037292003",
       "title": "GTM Finance Manager",
       "company": "Fivetran",
-      "location": "Denver, Colorado, United States, AMER; Oakland, California, United States, AMER",
+      "location": "Oakland, California, United States, AMER",
       "remote": "unspecified",
       "department": "",
       "employment_type": "",
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-26",
-      "updated": "2026-11-05",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=8037292003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=8037292003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8039497003",
       "title": "Senior Technical Instructor (US East)",
       "company": "Fivetran",
-      "location": "Remote, Maryland, United States; Remote, Massachusetts, United States, AMER; Remote, New Jersey, United States, AMER; Remote, New York, United States, AMER; Remote, Pennsylvania, United States, AMER; Remote, Virginia, United States, AMER; Remote, Washington DC, United States, AMER",
+      "location": "Remote, Connecticut, United States, AMER",
       "remote": "remote",
       "department": "",
       "employment_type": "",
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-22",
-      "updated": "2026-10-30",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=8039497003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=8039497003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8039971003",
@@ -2031,12 +1923,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-21",
-      "updated": "2026-11-13",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=8039971003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=8039971003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8040028003",
@@ -2049,12 +1941,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-22",
-      "updated": "2026-11-11",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=8040028003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=8040028003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8040639003",
@@ -2067,16 +1959,16 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-05",
-      "updated": "2026-11-06",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=8040639003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=8040639003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8041168003",
-      "title": "Senior Software Engineer - Developer Experience",
+      "title": "Senior Software Engineer, Developer Experience",
       "company": "Fivetran",
       "location": "Novi Sad, South Bačka, Serbia, EMEA",
       "remote": "unspecified",
@@ -2085,12 +1977,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-29",
-      "updated": "2026-11-05",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=8041168003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=8041168003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8042288003",
@@ -2103,12 +1995,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-22",
-      "updated": "2026-10-22",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=8042288003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=8042288003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8042380003",
@@ -2121,12 +2013,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-26",
-      "updated": "2026-11-03",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=8042380003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=8042380003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8044038003",
@@ -2139,12 +2031,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-27",
-      "updated": "2026-11-10",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=8044038003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=8044038003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8045175003",
@@ -2157,12 +2049,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-26",
-      "updated": "2026-11-03",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=8045175003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=8045175003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8046982003",
@@ -2175,12 +2067,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-06",
-      "updated": "2026-11-10",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=8046982003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=8046982003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8047327003",
@@ -2193,12 +2085,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-28",
-      "updated": "2026-11-12",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=8047327003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=8047327003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8047340003",
@@ -2211,12 +2103,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-28",
-      "updated": "2026-11-12",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=8047340003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=8047340003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8048527003",
@@ -2229,12 +2121,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-05",
-      "updated": "2026-11-05",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=8048527003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=8048527003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8048807003",
@@ -2247,12 +2139,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-29",
-      "updated": "2026-10-30",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=8048807003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=8048807003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8075733003",
@@ -2265,12 +2157,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-03",
-      "updated": "2026-11-16",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=8075733003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=8075733003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8075743003",
@@ -2283,16 +2175,16 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-04",
-      "updated": "2026-11-04",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=8075743003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=8075743003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8075761003",
-      "title": "Senior Systems Engineer - Data and Integrations",
+      "title": "Senior Systems Engineer, Data and Integrations",
       "company": "Fivetran",
       "location": "Novi Sad, South Bačka, Serbia, EMEA",
       "remote": "unspecified",
@@ -2301,12 +2193,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-04",
-      "updated": "2026-11-10",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=8075761003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=8075761003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8075800003",
@@ -2319,12 +2211,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-10",
-      "updated": "2026-11-16",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=8075800003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=8075800003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8075878003",
@@ -2337,12 +2229,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-09",
-      "updated": "2026-11-10",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=8075878003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=8075878003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8075947003",
@@ -2355,16 +2247,16 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-06",
-      "updated": "2026-11-10",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=8075947003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=8075947003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8105142003",
-      "title": "Enterprise Demand Generation Lead — North America",
+      "title": "Enterprise Demand Generation Lead, North America",
       "company": "Fivetran",
       "location": "USA - Austin (dbt)",
       "remote": "unspecified",
@@ -2373,12 +2265,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-06",
-      "updated": "2026-11-12",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=8105142003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=8105142003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8159614003",
@@ -2391,12 +2283,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-04",
-      "updated": "2026-11-16",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=8159614003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=8159614003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8159618003",
@@ -2409,12 +2301,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-09",
-      "updated": "2026-11-11",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=8159618003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=8159618003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8167896003",
@@ -2427,12 +2319,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-03",
-      "updated": "2026-11-10",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=8167896003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=8167896003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8174542003",
@@ -2445,12 +2337,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-03",
-      "updated": "2026-11-03",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=8174542003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=8174542003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8176924003",
@@ -2463,12 +2355,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-04",
-      "updated": "2026-11-04",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=8176924003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=8176924003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8179022003",
@@ -2481,12 +2373,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-04",
-      "updated": "2026-11-13",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=8179022003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=8179022003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8195548003",
@@ -2499,18 +2391,18 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-04",
-      "updated": "2026-11-13",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=8195548003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=8195548003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8196171003",
       "title": "Resident Solution Architect",
       "company": "Fivetran",
-      "location": "Remote, Georgia, United States, AMER; Remote, Illinois, United States, AMER; Remote, Massachusetts, United States, AMER; Remote, North Carolina, United States, AMER; Remote, Pennsylvania, United States, AMER; Remote, Tennessee, United States, AMER; Remote, Texas, United States, AMER; USA - New York; USA - Remote - LA; USA - Remote - ME; USA - Remote - VT",
+      "location": "Remote, Colorado, United States, AMER",
       "remote": "remote",
       "department": "",
       "employment_type": "",
@@ -2522,7 +2414,7 @@
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=8196171003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=8196171003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8196173003",
@@ -2535,12 +2427,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-04",
-      "updated": "2026-11-04",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=8196173003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=8196173003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8196257003",
@@ -2553,12 +2445,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-05",
-      "updated": "2026-11-09",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=8196257003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=8196257003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8196267003",
@@ -2571,12 +2463,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-11",
-      "updated": "2026-11-11",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=8196267003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=8196267003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8196546003",
@@ -2589,12 +2481,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-05",
-      "updated": "2026-11-09",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=8196546003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=8196546003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8196773003",
@@ -2607,12 +2499,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-05",
-      "updated": "2026-11-09",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=8196773003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=8196773003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8197314003",
@@ -2625,12 +2517,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-05",
-      "updated": "2026-11-09",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=8197314003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=8197314003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8197319003",
@@ -2643,12 +2535,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-05",
-      "updated": "2026-11-09",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=8197319003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=8197319003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8197321003",
@@ -2661,12 +2553,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-05",
-      "updated": "2026-11-09",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=8197321003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=8197321003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8198205003",
@@ -2679,12 +2571,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-10",
-      "updated": "2026-11-11",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=8198205003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=8198205003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8198219003",
@@ -2697,16 +2589,16 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-06",
-      "updated": "2026-11-09",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=8198219003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=8198219003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8198242003",
-      "title": "Enterprise Demand Generation Lead — North America",
+      "title": "Enterprise Demand Generation Lead, North America",
       "company": "Fivetran",
       "location": "Denver, Colorado, United States, AMER",
       "remote": "unspecified",
@@ -2715,16 +2607,16 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-06",
-      "updated": "2026-11-12",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=8198242003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=8198242003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8198244003",
-      "title": "Enterprise Demand Generation Lead — North America",
+      "title": "Enterprise Demand Generation Lead, North America",
       "company": "Fivetran",
       "location": "Oakland, California, United States",
       "remote": "unspecified",
@@ -2733,12 +2625,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-06",
-      "updated": "2026-11-12",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=8198244003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=8198244003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8198254003",
@@ -2751,12 +2643,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-06",
-      "updated": "2026-11-10",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=8198254003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=8198254003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8198258003",
@@ -2769,12 +2661,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-06",
-      "updated": "2026-11-10",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=8198258003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=8198258003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8198260003",
@@ -2787,12 +2679,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-06",
-      "updated": "2026-11-10",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=8198260003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=8198260003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8198264003",
@@ -2805,12 +2697,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-06",
-      "updated": "2026-11-10",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=8198264003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=8198264003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8198951003",
@@ -2823,12 +2715,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-09",
-      "updated": "2026-11-11",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=8198951003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=8198951003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8198955003",
@@ -2841,12 +2733,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-09",
-      "updated": "2026-11-11",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=8198955003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=8198955003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8198979003",
@@ -2859,12 +2751,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-09",
-      "updated": "2026-11-11",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=8198979003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=8198979003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8198982003",
@@ -2877,12 +2769,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-09",
-      "updated": "2026-11-11",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=8198982003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=8198982003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8199193003",
@@ -2895,12 +2787,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-10",
-      "updated": "2026-11-11",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=8199193003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=8199193003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8199196003",
@@ -2913,12 +2805,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-10",
-      "updated": "2026-11-11",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=8199196003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=8199196003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8199448003",
@@ -2931,12 +2823,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-09",
-      "updated": "2026-11-10",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=8199448003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=8199448003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8199465003",
@@ -2949,12 +2841,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-09",
-      "updated": "2026-11-10",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=8199465003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=8199465003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8199468003",
@@ -2967,12 +2859,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-09",
-      "updated": "2026-11-10",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=8199468003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=8199468003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8199480003",
@@ -2985,12 +2877,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-09",
-      "updated": "2026-11-10",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=8199480003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=8199480003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8200340003",
@@ -3008,7 +2900,7 @@
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=8200340003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=8200340003",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8200480003",
@@ -3021,12 +2913,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-12",
-      "updated": "2026-11-13",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=8200480003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=8200480003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8200741003",
@@ -3039,12 +2931,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-10",
-      "updated": "2026-11-11",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=8200741003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=8200741003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8200747003",
@@ -3057,12 +2949,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-10",
-      "updated": "2026-11-11",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=8200747003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=8200747003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8201086003",
@@ -3075,12 +2967,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-10",
-      "updated": "2026-11-16",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=8201086003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=8201086003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8201478003",
@@ -3093,16 +2985,34 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-12",
-      "updated": "2026-11-12",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=8201478003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=8201478003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
+    },
+    {
+      "id": "8201842003",
+      "title": "Senior Value Engineer",
+      "company": "Fivetran",
+      "location": "Remote, New York, United States, AMER",
+      "remote": "remote",
+      "department": "",
+      "employment_type": "",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-17",
+      "updated": "2026-11-17",
+      "deadline": "",
+      "source_url": "https://www.fivetran.com/careers/job?gh_jid=8201842003",
+      "apply_url": "https://www.fivetran.com/careers/job?gh_jid=8201842003",
+      "first_seen": "2026-11-18T15:36:26Z",
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8202018003",
-      "title": "Staff Program Manager - Knowledge Management",
+      "title": "Staff Program Manager, Knowledge Management",
       "company": "Fivetran",
       "location": "Novi Sad, South Bačka, Serbia, EMEA",
       "remote": "unspecified",
@@ -3111,12 +3021,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-12",
-      "updated": "2026-11-12",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=8202018003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=8202018003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8202553003",
@@ -3129,16 +3039,16 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-12",
-      "updated": "2026-11-13",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=8202553003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=8202553003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8202850003",
-      "title": "Enterprise Demand Generation Lead — North America",
+      "title": "Enterprise Demand Generation Lead, North America",
       "company": "Fivetran",
       "location": "USA - New York (dbt)",
       "remote": "unspecified",
@@ -3147,16 +3057,16 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-12",
-      "updated": "2026-11-12",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=8202850003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=8202850003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8202852003",
-      "title": "Enterprise Demand Generation Lead — North America",
+      "title": "Enterprise Demand Generation Lead, North America",
       "company": "Fivetran",
       "location": "USA - Philadelphia (dbt)",
       "remote": "unspecified",
@@ -3165,16 +3075,16 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-12",
-      "updated": "2026-11-12",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=8202852003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=8202852003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8202963003",
-      "title": "Technical Revenue Accounting Lead",
+      "title": "Revenue Technical Accounting Manager",
       "company": "Fivetran",
       "location": "Oakland, California, United States, AMER",
       "remote": "unspecified",
@@ -3183,12 +3093,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-13",
-      "updated": "2026-11-13",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=8202963003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=8202963003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8203266003",
@@ -3201,12 +3111,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-13",
-      "updated": "2026-11-14",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=8203266003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=8203266003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8203894003",
@@ -3224,7 +3134,7 @@
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=8203894003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=8203894003",
       "first_seen": "2026-11-17T15:56:57Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8203989003",
@@ -3237,12 +3147,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-13",
-      "updated": "2026-11-14",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=8203989003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=8203989003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8203996003",
@@ -3255,12 +3165,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-13",
-      "updated": "2026-11-14",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=8203996003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=8203996003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8204001003",
@@ -3273,12 +3183,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-13",
-      "updated": "2026-11-14",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=8204001003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=8204001003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8204003003",
@@ -3291,12 +3201,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-13",
-      "updated": "2026-11-14",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=8204003003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=8204003003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8204005003",
@@ -3309,12 +3219,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-13",
-      "updated": "2026-11-14",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=8204005003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=8204005003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8204008003",
@@ -3327,12 +3237,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-13",
-      "updated": "2026-11-14",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=8204008003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=8204008003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8204010003",
@@ -3345,12 +3255,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-13",
-      "updated": "2026-11-14",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=8204010003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=8204010003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8204083003",
@@ -3363,12 +3273,30 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-16",
-      "updated": "2026-11-16",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://www.fivetran.com/careers/job?gh_jid=8204083003",
       "apply_url": "https://www.fivetran.com/careers/job?gh_jid=8204083003",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
+    },
+    {
+      "id": "8206214003",
+      "title": "Senior Escalations Manager",
+      "company": "Fivetran",
+      "location": "Denver, Colorado, United States, AMER",
+      "remote": "unspecified",
+      "department": "",
+      "employment_type": "",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-17",
+      "updated": "2026-11-17",
+      "deadline": "",
+      "source_url": "https://www.fivetran.com/careers/job?gh_jid=8206214003",
+      "apply_url": "https://www.fivetran.com/careers/job?gh_jid=8206214003",
+      "first_seen": "2026-11-18T15:36:26Z",
+      "last_checked": "2026-11-18T15:36:26Z"
     }
   ],
   "ats": "greenhouse",

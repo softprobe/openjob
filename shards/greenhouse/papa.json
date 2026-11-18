@@ -1,8 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-17T15:56:57Z",
+  "checked_at": "2026-11-18T15:36:26Z",
   "failed_at": null,
-  "etag": "W/\"816dac52e67bd6ded9cd0aa8622a6d1c\"",
+  "etag": "W/\"12e67df90e2e1f223e4a961a6de138aa\"",
   "jobs": [
     {
       "id": "5168367007",
@@ -20,25 +20,7 @@
       "source_url": "https://job-boards.greenhouse.io/papa/jobs/5168367007",
       "apply_url": "https://job-boards.greenhouse.io/papa/jobs/5168367007",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
-    },
-    {
-      "id": "5202496007",
-      "title": "Senior Product Manager (Community)",
-      "company": "Papa",
-      "location": "San Francisco, CA (Hybrid)",
-      "remote": "hybrid",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-08-03",
-      "updated": "2026-08-11",
-      "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/papa/jobs/5202496007",
-      "apply_url": "https://job-boards.greenhouse.io/papa/jobs/5202496007",
-      "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     }
   ],
   "ats": "greenhouse",

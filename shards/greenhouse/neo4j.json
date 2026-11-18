@@ -1,8 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-17T15:56:57Z",
+  "checked_at": "2026-11-18T15:36:26Z",
   "failed_at": null,
-  "etag": "W/\"eec47df9645ad14eec9ae8278ef1089b\"",
+  "etag": "W/\"87135d5432e16b19361cc3fc901b98ab\"",
   "jobs": [
     {
       "id": "4437713006",
@@ -15,12 +15,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2025-01-31",
-      "updated": "2026-11-13",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://boards.greenhouse.io/neo4j/jobs/4437713006?gh_jid=4437713006",
       "apply_url": "https://boards.greenhouse.io/neo4j/jobs/4437713006?gh_jid=4437713006",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4450834006",
@@ -33,12 +33,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2025-03-03",
-      "updated": "2026-11-13",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://boards.greenhouse.io/neo4j/jobs/4450834006?gh_jid=4450834006",
       "apply_url": "https://boards.greenhouse.io/neo4j/jobs/4450834006?gh_jid=4450834006",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4556627006",
@@ -51,30 +51,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2025-06-05",
-      "updated": "2026-11-13",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://boards.greenhouse.io/neo4j/jobs/4556627006?gh_jid=4556627006",
       "apply_url": "https://boards.greenhouse.io/neo4j/jobs/4556627006?gh_jid=4556627006",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
-    },
-    {
-      "id": "4618026006",
-      "title": "Senior Solution Engineer",
-      "company": "Neo4j",
-      "location": "London",
-      "remote": "unspecified",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-11-04",
-      "updated": "2026-11-13",
-      "deadline": "",
-      "source_url": "https://boards.greenhouse.io/neo4j/jobs/4618026006?gh_jid=4618026006",
-      "apply_url": "https://boards.greenhouse.io/neo4j/jobs/4618026006?gh_jid=4618026006",
-      "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4660592006",
@@ -87,12 +69,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-03-06",
-      "updated": "2026-11-13",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://boards.greenhouse.io/neo4j/jobs/4660592006?gh_jid=4660592006",
       "apply_url": "https://boards.greenhouse.io/neo4j/jobs/4660592006?gh_jid=4660592006",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4662175006",
@@ -105,12 +87,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-03-11",
-      "updated": "2026-11-13",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://boards.greenhouse.io/neo4j/jobs/4662175006?gh_jid=4662175006",
       "apply_url": "https://boards.greenhouse.io/neo4j/jobs/4662175006?gh_jid=4662175006",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4683815006",
@@ -123,12 +105,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-05-22",
-      "updated": "2026-11-13",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://boards.greenhouse.io/neo4j/jobs/4683815006?gh_jid=4683815006",
       "apply_url": "https://boards.greenhouse.io/neo4j/jobs/4683815006?gh_jid=4683815006",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4683819006",
@@ -141,12 +123,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-05-22",
-      "updated": "2026-11-13",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://boards.greenhouse.io/neo4j/jobs/4683819006?gh_jid=4683819006",
       "apply_url": "https://boards.greenhouse.io/neo4j/jobs/4683819006?gh_jid=4683819006",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4687941006",
@@ -159,12 +141,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-06-09",
-      "updated": "2026-11-13",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://boards.greenhouse.io/neo4j/jobs/4687941006?gh_jid=4687941006",
       "apply_url": "https://boards.greenhouse.io/neo4j/jobs/4687941006?gh_jid=4687941006",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4687943006",
@@ -177,12 +159,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-06-09",
-      "updated": "2026-11-13",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://boards.greenhouse.io/neo4j/jobs/4687943006?gh_jid=4687943006",
       "apply_url": "https://boards.greenhouse.io/neo4j/jobs/4687943006?gh_jid=4687943006",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4687944006",
@@ -195,12 +177,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-06-09",
-      "updated": "2026-11-13",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://boards.greenhouse.io/neo4j/jobs/4687944006?gh_jid=4687944006",
       "apply_url": "https://boards.greenhouse.io/neo4j/jobs/4687944006?gh_jid=4687944006",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4687946006",
@@ -213,12 +195,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-06-09",
-      "updated": "2026-11-13",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://boards.greenhouse.io/neo4j/jobs/4687946006?gh_jid=4687946006",
       "apply_url": "https://boards.greenhouse.io/neo4j/jobs/4687946006?gh_jid=4687946006",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4688680006",
@@ -231,12 +213,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-06-11",
-      "updated": "2026-11-13",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://boards.greenhouse.io/neo4j/jobs/4688680006?gh_jid=4688680006",
       "apply_url": "https://boards.greenhouse.io/neo4j/jobs/4688680006?gh_jid=4688680006",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4688690006",
@@ -249,12 +231,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-06-11",
-      "updated": "2026-11-13",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://boards.greenhouse.io/neo4j/jobs/4688690006?gh_jid=4688690006",
       "apply_url": "https://boards.greenhouse.io/neo4j/jobs/4688690006?gh_jid=4688690006",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4692127006",
@@ -267,12 +249,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-06-25",
-      "updated": "2026-11-13",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://boards.greenhouse.io/neo4j/jobs/4692127006?gh_jid=4692127006",
       "apply_url": "https://boards.greenhouse.io/neo4j/jobs/4692127006?gh_jid=4692127006",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4692129006",
@@ -285,12 +267,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-06-25",
-      "updated": "2026-11-13",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://boards.greenhouse.io/neo4j/jobs/4692129006?gh_jid=4692129006",
       "apply_url": "https://boards.greenhouse.io/neo4j/jobs/4692129006?gh_jid=4692129006",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4692406006",
@@ -303,12 +285,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-06-26",
-      "updated": "2026-11-13",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://boards.greenhouse.io/neo4j/jobs/4692406006?gh_jid=4692406006",
       "apply_url": "https://boards.greenhouse.io/neo4j/jobs/4692406006?gh_jid=4692406006",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4699949006",
@@ -321,12 +303,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-07-27",
-      "updated": "2026-11-13",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://boards.greenhouse.io/neo4j/jobs/4699949006?gh_jid=4699949006",
       "apply_url": "https://boards.greenhouse.io/neo4j/jobs/4699949006?gh_jid=4699949006",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4699951006",
@@ -339,12 +321,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-07-27",
-      "updated": "2026-11-13",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://boards.greenhouse.io/neo4j/jobs/4699951006?gh_jid=4699951006",
       "apply_url": "https://boards.greenhouse.io/neo4j/jobs/4699951006?gh_jid=4699951006",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4703011006",
@@ -357,12 +339,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-07",
-      "updated": "2026-11-13",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://boards.greenhouse.io/neo4j/jobs/4703011006?gh_jid=4703011006",
       "apply_url": "https://boards.greenhouse.io/neo4j/jobs/4703011006?gh_jid=4703011006",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4703656006",
@@ -375,12 +357,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-11",
-      "updated": "2026-11-13",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://boards.greenhouse.io/neo4j/jobs/4703656006?gh_jid=4703656006",
       "apply_url": "https://boards.greenhouse.io/neo4j/jobs/4703656006?gh_jid=4703656006",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4704398006",
@@ -393,12 +375,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-09",
-      "updated": "2026-11-13",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://boards.greenhouse.io/neo4j/jobs/4704398006?gh_jid=4704398006",
       "apply_url": "https://boards.greenhouse.io/neo4j/jobs/4704398006?gh_jid=4704398006",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4707650006",
@@ -411,12 +393,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-24",
-      "updated": "2026-11-13",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://boards.greenhouse.io/neo4j/jobs/4707650006?gh_jid=4707650006",
       "apply_url": "https://boards.greenhouse.io/neo4j/jobs/4707650006?gh_jid=4707650006",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4708297006",
@@ -429,12 +411,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-25",
-      "updated": "2026-11-13",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://boards.greenhouse.io/neo4j/jobs/4708297006?gh_jid=4708297006",
       "apply_url": "https://boards.greenhouse.io/neo4j/jobs/4708297006?gh_jid=4708297006",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4708465006",
@@ -447,12 +429,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-26",
-      "updated": "2026-11-13",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://boards.greenhouse.io/neo4j/jobs/4708465006?gh_jid=4708465006",
       "apply_url": "https://boards.greenhouse.io/neo4j/jobs/4708465006?gh_jid=4708465006",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4708467006",
@@ -465,12 +447,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-26",
-      "updated": "2026-11-13",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://boards.greenhouse.io/neo4j/jobs/4708467006?gh_jid=4708467006",
       "apply_url": "https://boards.greenhouse.io/neo4j/jobs/4708467006?gh_jid=4708467006",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4711176006",
@@ -483,12 +465,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-04",
-      "updated": "2026-11-13",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://boards.greenhouse.io/neo4j/jobs/4711176006?gh_jid=4711176006",
       "apply_url": "https://boards.greenhouse.io/neo4j/jobs/4711176006?gh_jid=4711176006",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4711499006",
@@ -501,12 +483,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-07",
-      "updated": "2026-11-13",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://boards.greenhouse.io/neo4j/jobs/4711499006?gh_jid=4711499006",
       "apply_url": "https://boards.greenhouse.io/neo4j/jobs/4711499006?gh_jid=4711499006",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4711501006",
@@ -519,16 +501,16 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-07",
-      "updated": "2026-11-13",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://boards.greenhouse.io/neo4j/jobs/4711501006?gh_jid=4711501006",
       "apply_url": "https://boards.greenhouse.io/neo4j/jobs/4711501006?gh_jid=4711501006",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4711507006",
-      "title": "Software Engineer - Developer Experience",
+      "title": "Software Engineer - Aura DevRel",
       "company": "Neo4j",
       "location": "London",
       "remote": "unspecified",
@@ -537,12 +519,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-07",
-      "updated": "2026-11-13",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://boards.greenhouse.io/neo4j/jobs/4711507006?gh_jid=4711507006",
       "apply_url": "https://boards.greenhouse.io/neo4j/jobs/4711507006?gh_jid=4711507006",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4711510006",
@@ -555,12 +537,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-07",
-      "updated": "2026-11-13",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://boards.greenhouse.io/neo4j/jobs/4711510006?gh_jid=4711510006",
       "apply_url": "https://boards.greenhouse.io/neo4j/jobs/4711510006?gh_jid=4711510006",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4712270006",
@@ -573,12 +555,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-21",
-      "updated": "2026-11-13",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://boards.greenhouse.io/neo4j/jobs/4712270006?gh_jid=4712270006",
       "apply_url": "https://boards.greenhouse.io/neo4j/jobs/4712270006?gh_jid=4712270006",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4712272006",
@@ -591,12 +573,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-10",
-      "updated": "2026-11-13",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://boards.greenhouse.io/neo4j/jobs/4712272006?gh_jid=4712272006",
       "apply_url": "https://boards.greenhouse.io/neo4j/jobs/4712272006?gh_jid=4712272006",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4713031006",
@@ -609,12 +591,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-14",
-      "updated": "2026-11-13",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://boards.greenhouse.io/neo4j/jobs/4713031006?gh_jid=4713031006",
       "apply_url": "https://boards.greenhouse.io/neo4j/jobs/4713031006?gh_jid=4713031006",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4714099006",
@@ -627,12 +609,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-17",
-      "updated": "2026-11-13",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://boards.greenhouse.io/neo4j/jobs/4714099006?gh_jid=4714099006",
       "apply_url": "https://boards.greenhouse.io/neo4j/jobs/4714099006?gh_jid=4714099006",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4714244006",
@@ -645,12 +627,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-22",
-      "updated": "2026-11-13",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://boards.greenhouse.io/neo4j/jobs/4714244006?gh_jid=4714244006",
       "apply_url": "https://boards.greenhouse.io/neo4j/jobs/4714244006?gh_jid=4714244006",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4714409006",
@@ -663,12 +645,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-18",
-      "updated": "2026-11-13",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://boards.greenhouse.io/neo4j/jobs/4714409006?gh_jid=4714409006",
       "apply_url": "https://boards.greenhouse.io/neo4j/jobs/4714409006?gh_jid=4714409006",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4715846006",
@@ -681,12 +663,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-23",
-      "updated": "2026-11-13",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://boards.greenhouse.io/neo4j/jobs/4715846006?gh_jid=4715846006",
       "apply_url": "https://boards.greenhouse.io/neo4j/jobs/4715846006?gh_jid=4715846006",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4716229006",
@@ -699,12 +681,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-24",
-      "updated": "2026-11-13",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://boards.greenhouse.io/neo4j/jobs/4716229006?gh_jid=4716229006",
       "apply_url": "https://boards.greenhouse.io/neo4j/jobs/4716229006?gh_jid=4716229006",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4716565006",
@@ -717,12 +699,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-25",
-      "updated": "2026-11-13",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://boards.greenhouse.io/neo4j/jobs/4716565006?gh_jid=4716565006",
       "apply_url": "https://boards.greenhouse.io/neo4j/jobs/4716565006?gh_jid=4716565006",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4716592006",
@@ -735,12 +717,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-25",
-      "updated": "2026-11-13",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://boards.greenhouse.io/neo4j/jobs/4716592006?gh_jid=4716592006",
       "apply_url": "https://boards.greenhouse.io/neo4j/jobs/4716592006?gh_jid=4716592006",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4718294006",
@@ -753,12 +735,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-01",
-      "updated": "2026-11-13",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://boards.greenhouse.io/neo4j/jobs/4718294006?gh_jid=4718294006",
       "apply_url": "https://boards.greenhouse.io/neo4j/jobs/4718294006?gh_jid=4718294006",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4718349006",
@@ -771,12 +753,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-01",
-      "updated": "2026-11-13",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://boards.greenhouse.io/neo4j/jobs/4718349006?gh_jid=4718349006",
       "apply_url": "https://boards.greenhouse.io/neo4j/jobs/4718349006?gh_jid=4718349006",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4718351006",
@@ -789,12 +771,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-01",
-      "updated": "2026-11-13",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://boards.greenhouse.io/neo4j/jobs/4718351006?gh_jid=4718351006",
       "apply_url": "https://boards.greenhouse.io/neo4j/jobs/4718351006?gh_jid=4718351006",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4721378006",
@@ -807,12 +789,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-13",
-      "updated": "2026-11-13",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://boards.greenhouse.io/neo4j/jobs/4721378006?gh_jid=4721378006",
       "apply_url": "https://boards.greenhouse.io/neo4j/jobs/4721378006?gh_jid=4721378006",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4721380006",
@@ -825,12 +807,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-13",
-      "updated": "2026-11-13",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://boards.greenhouse.io/neo4j/jobs/4721380006?gh_jid=4721380006",
       "apply_url": "https://boards.greenhouse.io/neo4j/jobs/4721380006?gh_jid=4721380006",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4722190006",
@@ -843,12 +825,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-15",
-      "updated": "2026-11-13",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://boards.greenhouse.io/neo4j/jobs/4722190006?gh_jid=4722190006",
       "apply_url": "https://boards.greenhouse.io/neo4j/jobs/4722190006?gh_jid=4722190006",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4722193006",
@@ -861,12 +843,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-15",
-      "updated": "2026-11-13",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://boards.greenhouse.io/neo4j/jobs/4722193006?gh_jid=4722193006",
       "apply_url": "https://boards.greenhouse.io/neo4j/jobs/4722193006?gh_jid=4722193006",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4723646006",
@@ -879,12 +861,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-21",
-      "updated": "2026-11-13",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://boards.greenhouse.io/neo4j/jobs/4723646006?gh_jid=4723646006",
       "apply_url": "https://boards.greenhouse.io/neo4j/jobs/4723646006?gh_jid=4723646006",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4724599006",
@@ -897,12 +879,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-26",
-      "updated": "2026-11-13",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://boards.greenhouse.io/neo4j/jobs/4724599006?gh_jid=4724599006",
       "apply_url": "https://boards.greenhouse.io/neo4j/jobs/4724599006?gh_jid=4724599006",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4725673006",
@@ -915,12 +897,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-29",
-      "updated": "2026-11-13",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://boards.greenhouse.io/neo4j/jobs/4725673006?gh_jid=4725673006",
       "apply_url": "https://boards.greenhouse.io/neo4j/jobs/4725673006?gh_jid=4725673006",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4725721006",
@@ -933,12 +915,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-29",
-      "updated": "2026-11-13",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://boards.greenhouse.io/neo4j/jobs/4725721006?gh_jid=4725721006",
       "apply_url": "https://boards.greenhouse.io/neo4j/jobs/4725721006?gh_jid=4725721006",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4726071006",
@@ -951,12 +933,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-30",
-      "updated": "2026-11-13",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://boards.greenhouse.io/neo4j/jobs/4726071006?gh_jid=4726071006",
       "apply_url": "https://boards.greenhouse.io/neo4j/jobs/4726071006?gh_jid=4726071006",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4726392006",
@@ -969,12 +951,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-02",
-      "updated": "2026-11-13",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://boards.greenhouse.io/neo4j/jobs/4726392006?gh_jid=4726392006",
       "apply_url": "https://boards.greenhouse.io/neo4j/jobs/4726392006?gh_jid=4726392006",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4726451006",
@@ -987,12 +969,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-02",
-      "updated": "2026-11-13",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://boards.greenhouse.io/neo4j/jobs/4726451006?gh_jid=4726451006",
       "apply_url": "https://boards.greenhouse.io/neo4j/jobs/4726451006?gh_jid=4726451006",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4726475006",
@@ -1005,12 +987,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-02",
-      "updated": "2026-11-13",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://boards.greenhouse.io/neo4j/jobs/4726475006?gh_jid=4726475006",
       "apply_url": "https://boards.greenhouse.io/neo4j/jobs/4726475006?gh_jid=4726475006",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4727060006",
@@ -1023,12 +1005,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-04",
-      "updated": "2026-11-13",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://boards.greenhouse.io/neo4j/jobs/4727060006?gh_jid=4727060006",
       "apply_url": "https://boards.greenhouse.io/neo4j/jobs/4727060006?gh_jid=4727060006",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4727062006",
@@ -1041,12 +1023,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-04",
-      "updated": "2026-11-13",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://boards.greenhouse.io/neo4j/jobs/4727062006?gh_jid=4727062006",
       "apply_url": "https://boards.greenhouse.io/neo4j/jobs/4727062006?gh_jid=4727062006",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4727652006",
@@ -1059,12 +1041,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-05",
-      "updated": "2026-11-13",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://boards.greenhouse.io/neo4j/jobs/4727652006?gh_jid=4727652006",
       "apply_url": "https://boards.greenhouse.io/neo4j/jobs/4727652006?gh_jid=4727652006",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4727928006",
@@ -1077,12 +1059,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-06",
-      "updated": "2026-11-13",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://boards.greenhouse.io/neo4j/jobs/4727928006?gh_jid=4727928006",
       "apply_url": "https://boards.greenhouse.io/neo4j/jobs/4727928006?gh_jid=4727928006",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4728771006",
@@ -1095,12 +1077,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-10",
-      "updated": "2026-11-13",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://boards.greenhouse.io/neo4j/jobs/4728771006?gh_jid=4728771006",
       "apply_url": "https://boards.greenhouse.io/neo4j/jobs/4728771006?gh_jid=4728771006",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4729436006",
@@ -1113,12 +1095,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-13",
-      "updated": "2026-11-13",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://boards.greenhouse.io/neo4j/jobs/4729436006?gh_jid=4729436006",
       "apply_url": "https://boards.greenhouse.io/neo4j/jobs/4729436006?gh_jid=4729436006",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4729463006",
@@ -1131,12 +1113,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-13",
-      "updated": "2026-11-13",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://boards.greenhouse.io/neo4j/jobs/4729463006?gh_jid=4729463006",
       "apply_url": "https://boards.greenhouse.io/neo4j/jobs/4729463006?gh_jid=4729463006",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4729795006",
@@ -1149,12 +1131,30 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-16",
-      "updated": "2026-11-16",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://boards.greenhouse.io/neo4j/jobs/4729795006?gh_jid=4729795006",
       "apply_url": "https://boards.greenhouse.io/neo4j/jobs/4729795006?gh_jid=4729795006",
       "first_seen": "2026-11-16T15:39:28Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
+    },
+    {
+      "id": "4729809006",
+      "title": "Director, GraphAware Engineering",
+      "company": "Neo4j",
+      "location": "London",
+      "remote": "unspecified",
+      "department": "",
+      "employment_type": "",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-18",
+      "updated": "2026-11-18",
+      "deadline": "",
+      "source_url": "https://boards.greenhouse.io/neo4j/jobs/4729809006?gh_jid=4729809006",
+      "apply_url": "https://boards.greenhouse.io/neo4j/jobs/4729809006?gh_jid=4729809006",
+      "first_seen": "2026-11-18T15:36:26Z",
+      "last_checked": "2026-11-18T15:36:26Z"
     }
   ],
   "ats": "greenhouse",

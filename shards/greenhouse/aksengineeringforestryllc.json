@@ -1,8 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-17T15:56:57Z",
+  "checked_at": "2026-11-18T15:36:26Z",
   "failed_at": null,
-  "etag": "W/\"47ee71c7c5e867d0c12c7d4089c182df\"",
+  "etag": "W/\"7ddedc71d5d8c492961414e35a6684d3\"",
   "jobs": [
     {
       "id": "4156066009",
@@ -20,7 +20,7 @@
       "source_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4156066009",
       "apply_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4156066009",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4156086009",
@@ -38,7 +38,7 @@
       "source_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4156086009",
       "apply_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4156086009",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4156098009",
@@ -56,7 +56,7 @@
       "source_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4156098009",
       "apply_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4156098009",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4156975009",
@@ -74,7 +74,7 @@
       "source_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4156975009",
       "apply_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4156975009",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4164276009",
@@ -92,7 +92,7 @@
       "source_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4164276009",
       "apply_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4164276009",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4164537009",
@@ -110,7 +110,7 @@
       "source_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4164537009",
       "apply_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4164537009",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4164637009",
@@ -128,7 +128,7 @@
       "source_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4164637009",
       "apply_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4164637009",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4164658009",
@@ -146,7 +146,7 @@
       "source_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4164658009",
       "apply_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4164658009",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4164677009",
@@ -164,7 +164,7 @@
       "source_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4164677009",
       "apply_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4164677009",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4164703009",
@@ -182,7 +182,7 @@
       "source_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4164703009",
       "apply_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4164703009",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4174306009",
@@ -200,7 +200,7 @@
       "source_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4174306009",
       "apply_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4174306009",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4174315009",
@@ -218,7 +218,7 @@
       "source_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4174315009",
       "apply_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4174315009",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4174333009",
@@ -236,7 +236,7 @@
       "source_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4174333009",
       "apply_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4174333009",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4174338009",
@@ -254,7 +254,7 @@
       "source_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4174338009",
       "apply_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4174338009",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4174381009",
@@ -272,7 +272,7 @@
       "source_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4174381009",
       "apply_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4174381009",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4174661009",
@@ -290,7 +290,7 @@
       "source_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4174661009",
       "apply_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4174661009",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4174669009",
@@ -308,7 +308,7 @@
       "source_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4174669009",
       "apply_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4174669009",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4174676009",
@@ -326,7 +326,7 @@
       "source_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4174676009",
       "apply_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4174676009",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4174682009",
@@ -344,7 +344,7 @@
       "source_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4174682009",
       "apply_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4174682009",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4174715009",
@@ -362,7 +362,7 @@
       "source_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4174715009",
       "apply_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4174715009",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4174720009",
@@ -380,7 +380,7 @@
       "source_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4174720009",
       "apply_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4174720009",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4178110009",
@@ -398,7 +398,7 @@
       "source_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4178110009",
       "apply_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4178110009",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4181408009",
@@ -416,7 +416,7 @@
       "source_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4181408009",
       "apply_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4181408009",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4183706009",
@@ -434,7 +434,7 @@
       "source_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4183706009",
       "apply_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4183706009",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4184621009",
@@ -452,7 +452,25 @@
       "source_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4184621009",
       "apply_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4184621009",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
+    },
+    {
+      "id": "4186191009",
+      "title": "Marketing Specialist",
+      "company": "AKS Engineering & Forestry, LLC",
+      "location": "Tualatin, OR",
+      "remote": "unspecified",
+      "department": "",
+      "employment_type": "FULL_TIME",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-03-19",
+      "updated": "2026-11-17",
+      "deadline": "",
+      "source_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4186191009",
+      "apply_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4186191009",
+      "first_seen": "2026-11-18T15:36:26Z",
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4186798009",
@@ -470,7 +488,7 @@
       "source_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4186798009",
       "apply_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4186798009",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4186844009",
@@ -488,7 +506,7 @@
       "source_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4186844009",
       "apply_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4186844009",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4188085009",
@@ -506,7 +524,7 @@
       "source_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4188085009",
       "apply_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4188085009",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4188098009",
@@ -524,7 +542,7 @@
       "source_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4188098009",
       "apply_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4188098009",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4188102009",
@@ -542,7 +560,7 @@
       "source_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4188102009",
       "apply_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4188102009",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4188110009",
@@ -560,7 +578,7 @@
       "source_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4188110009",
       "apply_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4188110009",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4188117009",
@@ -578,7 +596,7 @@
       "source_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4188117009",
       "apply_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4188117009",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4195048009",
@@ -596,7 +614,7 @@
       "source_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4195048009",
       "apply_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4195048009",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4202973009",
@@ -614,7 +632,7 @@
       "source_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4202973009",
       "apply_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4202973009",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4212520009",
@@ -632,7 +650,7 @@
       "source_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4212520009",
       "apply_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4212520009",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4223619009",
@@ -650,7 +668,7 @@
       "source_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4223619009",
       "apply_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4223619009",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4223646009",
@@ -668,7 +686,7 @@
       "source_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4223646009",
       "apply_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4223646009",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4223652009",
@@ -686,7 +704,7 @@
       "source_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4223652009",
       "apply_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4223652009",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4231666009",
@@ -704,7 +722,7 @@
       "source_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4231666009",
       "apply_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4231666009",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4233975009",
@@ -722,7 +740,7 @@
       "source_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4233975009",
       "apply_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4233975009",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4247492009",
@@ -740,7 +758,7 @@
       "source_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4247492009",
       "apply_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4247492009",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4250979009",
@@ -758,7 +776,7 @@
       "source_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4250979009",
       "apply_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4250979009",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4260779009",
@@ -776,7 +794,7 @@
       "source_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4260779009",
       "apply_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4260779009",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4278452009",
@@ -794,7 +812,7 @@
       "source_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4278452009",
       "apply_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4278452009",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4289493009",
@@ -812,7 +830,7 @@
       "source_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4289493009",
       "apply_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4289493009",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4289505009",
@@ -830,7 +848,7 @@
       "source_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4289505009",
       "apply_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4289505009",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4289512009",
@@ -848,7 +866,7 @@
       "source_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4289512009",
       "apply_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4289512009",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4305531009",
@@ -866,7 +884,7 @@
       "source_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4305531009",
       "apply_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4305531009",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4310745009",
@@ -884,7 +902,7 @@
       "source_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4310745009",
       "apply_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4310745009",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4340183009",
@@ -902,7 +920,7 @@
       "source_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4340183009",
       "apply_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4340183009",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4342647009",
@@ -920,7 +938,7 @@
       "source_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4342647009",
       "apply_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4342647009",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4344074009",
@@ -938,7 +956,7 @@
       "source_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4344074009",
       "apply_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4344074009",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4371657009",
@@ -956,7 +974,7 @@
       "source_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4371657009",
       "apply_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4371657009",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4371703009",
@@ -974,7 +992,7 @@
       "source_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4371703009",
       "apply_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4371703009",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4371713009",
@@ -992,7 +1010,7 @@
       "source_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4371713009",
       "apply_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4371713009",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4383661009",
@@ -1010,7 +1028,7 @@
       "source_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4383661009",
       "apply_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4383661009",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4394660009",
@@ -1028,7 +1046,7 @@
       "source_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4394660009",
       "apply_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4394660009",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4395484009",
@@ -1046,7 +1064,7 @@
       "source_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4395484009",
       "apply_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4395484009",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4396610009",
@@ -1064,7 +1082,7 @@
       "source_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4396610009",
       "apply_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4396610009",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4401333009",
@@ -1082,7 +1100,7 @@
       "source_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4401333009",
       "apply_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4401333009",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4401337009",
@@ -1100,7 +1118,7 @@
       "source_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4401337009",
       "apply_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4401337009",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4406793009",
@@ -1118,7 +1136,7 @@
       "source_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4406793009",
       "apply_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4406793009",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4410172009",
@@ -1136,7 +1154,7 @@
       "source_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4410172009",
       "apply_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4410172009",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4410200009",
@@ -1154,7 +1172,7 @@
       "source_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4410200009",
       "apply_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4410200009",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4411359009",
@@ -1172,7 +1190,7 @@
       "source_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4411359009",
       "apply_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4411359009",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4420078009",
@@ -1190,7 +1208,7 @@
       "source_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4420078009",
       "apply_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4420078009",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4450301009",
@@ -1208,7 +1226,7 @@
       "source_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4450301009",
       "apply_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4450301009",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4455127009",
@@ -1226,7 +1244,7 @@
       "source_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4455127009",
       "apply_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4455127009",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4455822009",
@@ -1244,25 +1262,7 @@
       "source_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4455822009",
       "apply_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4455822009",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
-    },
-    {
-      "id": "4459626009",
-      "title": "Survey Field Technician",
-      "company": "AKS Engineering & Forestry, LLC",
-      "location": "Bend, OR",
-      "remote": "unspecified",
-      "department": "",
-      "employment_type": "FULL_TIME",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-10-20",
-      "updated": "2026-10-29",
-      "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4459626009",
-      "apply_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4459626009",
-      "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4459643009",
@@ -1280,7 +1280,7 @@
       "source_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4459643009",
       "apply_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4459643009",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4460237009",
@@ -1298,7 +1298,7 @@
       "source_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4460237009",
       "apply_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4460237009",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4468370009",
@@ -1316,7 +1316,7 @@
       "source_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4468370009",
       "apply_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4468370009",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4473359009",
@@ -1334,7 +1334,7 @@
       "source_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4473359009",
       "apply_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4473359009",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4474188009",
@@ -1352,7 +1352,7 @@
       "source_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4474188009",
       "apply_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4474188009",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4477571009",
@@ -1370,7 +1370,7 @@
       "source_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4477571009",
       "apply_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4477571009",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4482494009",
@@ -1388,7 +1388,7 @@
       "source_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4482494009",
       "apply_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4482494009",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4505127009",
@@ -1406,7 +1406,7 @@
       "source_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4505127009",
       "apply_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4505127009",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4507759009",
@@ -1424,7 +1424,7 @@
       "source_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4507759009",
       "apply_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4507759009",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4509777009",
@@ -1442,7 +1442,7 @@
       "source_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4509777009",
       "apply_url": "https://job-boards.greenhouse.io/aksengineeringforestryllc/jobs/4509777009",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     }
   ],
   "ats": "greenhouse",

@@ -1,8 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-17T15:56:57Z",
+  "checked_at": "2026-11-18T15:36:26Z",
   "failed_at": null,
-  "etag": "W/\"d608722caa3806ffb06fdb52fd184313\"",
+  "etag": "W/\"95083b7e593970d665496bb50079357c\"",
   "jobs": [
     {
       "id": "4743589005",
@@ -20,7 +20,7 @@
       "source_url": "https://job-boards.greenhouse.io/beam/jobs/4743589005",
       "apply_url": "https://job-boards.greenhouse.io/beam/jobs/4743589005",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4748650005",
@@ -38,7 +38,7 @@
       "source_url": "https://job-boards.greenhouse.io/beam/jobs/4748650005",
       "apply_url": "https://job-boards.greenhouse.io/beam/jobs/4748650005",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4748926005",
@@ -56,7 +56,7 @@
       "source_url": "https://job-boards.greenhouse.io/beam/jobs/4748926005",
       "apply_url": "https://job-boards.greenhouse.io/beam/jobs/4748926005",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4752845005",
@@ -74,7 +74,7 @@
       "source_url": "https://job-boards.greenhouse.io/beam/jobs/4752845005",
       "apply_url": "https://job-boards.greenhouse.io/beam/jobs/4752845005",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4753132005",
@@ -92,28 +92,10 @@
       "source_url": "https://job-boards.greenhouse.io/beam/jobs/4753132005",
       "apply_url": "https://job-boards.greenhouse.io/beam/jobs/4753132005",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
-      "id": "4753136005",
-      "title": "Saturday Teaching Assistant (Part Time - BEAM Gateway)",
-      "company": "Bridge to Enter Advanced Mathematics (BEAM)",
-      "location": "Los Angeles",
-      "remote": "unspecified",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-11-11",
-      "updated": "2026-11-12",
-      "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/beam/jobs/4753136005",
-      "apply_url": "https://job-boards.greenhouse.io/beam/jobs/4753136005",
-      "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
-    },
-    {
-      "id": "4753519005",
+      "id": "4753146005",
       "title": "Saturday Enrichment Math Faculty (Part Time - BEAM Gateway)",
       "company": "Bridge to Enter Advanced Mathematics (BEAM)",
       "location": "New York City",
@@ -123,12 +105,84 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-12",
-      "updated": "2026-11-12",
+      "updated": "2026-11-17",
+      "deadline": "",
+      "source_url": "https://job-boards.greenhouse.io/beam/jobs/4753146005",
+      "apply_url": "https://job-boards.greenhouse.io/beam/jobs/4753146005",
+      "first_seen": "2026-11-18T15:36:26Z",
+      "last_checked": "2026-11-18T15:36:26Z"
+    },
+    {
+      "id": "4753154005",
+      "title": "Saturday Teaching Assistant (Part Time - BEAM Gateway)",
+      "company": "Bridge to Enter Advanced Mathematics (BEAM)",
+      "location": "New York City",
+      "remote": "unspecified",
+      "department": "",
+      "employment_type": "",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-17",
+      "updated": "2026-11-17",
+      "deadline": "",
+      "source_url": "https://job-boards.greenhouse.io/beam/jobs/4753154005",
+      "apply_url": "https://job-boards.greenhouse.io/beam/jobs/4753154005",
+      "first_seen": "2026-11-18T15:36:26Z",
+      "last_checked": "2026-11-18T15:36:26Z"
+    },
+    {
+      "id": "4753519005",
+      "title": "Saturday Enrichment Math Faculty - Programming (Part Time - BEAM Gateway)",
+      "company": "Bridge to Enter Advanced Mathematics (BEAM)",
+      "location": "New York City",
+      "remote": "unspecified",
+      "department": "",
+      "employment_type": "",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-12",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/beam/jobs/4753519005",
       "apply_url": "https://job-boards.greenhouse.io/beam/jobs/4753519005",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
+    },
+    {
+      "id": "4753714005",
+      "title": "Saturday Teaching Assistant (Part Time - BEAM Gateway)",
+      "company": "Bridge to Enter Advanced Mathematics (BEAM)",
+      "location": "Los Angeles",
+      "remote": "unspecified",
+      "department": "",
+      "employment_type": "",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-18",
+      "updated": "2026-11-18",
+      "deadline": "",
+      "source_url": "https://job-boards.greenhouse.io/beam/jobs/4753714005",
+      "apply_url": "https://job-boards.greenhouse.io/beam/jobs/4753714005",
+      "first_seen": "2026-11-18T15:36:26Z",
+      "last_checked": "2026-11-18T15:36:26Z"
+    },
+    {
+      "id": "4753720005",
+      "title": "Saturday Enrichment Math Faculty (Part Time - BEAM Gateway)",
+      "company": "Bridge to Enter Advanced Mathematics (BEAM)",
+      "location": "Los Angeles",
+      "remote": "unspecified",
+      "department": "",
+      "employment_type": "",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-18",
+      "updated": "2026-11-18",
+      "deadline": "",
+      "source_url": "https://job-boards.greenhouse.io/beam/jobs/4753720005",
+      "apply_url": "https://job-boards.greenhouse.io/beam/jobs/4753720005",
+      "first_seen": "2026-11-18T15:36:26Z",
+      "last_checked": "2026-11-18T15:36:26Z"
     }
   ],
   "ats": "greenhouse",

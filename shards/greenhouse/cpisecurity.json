@@ -1,8 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-17T15:56:57Z",
+  "checked_at": "2026-11-18T15:36:26Z",
   "failed_at": null,
-  "etag": "W/\"1902698bb3ec6967a6a34e894313debb\"",
+  "etag": "W/\"82e64fc3f6f9d7f678f9031698116ca4\"",
   "jobs": [
     {
       "id": "4616835006",
@@ -20,7 +20,7 @@
       "source_url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4616835006",
       "apply_url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4616835006",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4671064006",
@@ -38,11 +38,11 @@
       "source_url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4671064006",
       "apply_url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4671064006",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4676774006",
-      "title": "Residential Installation Technician",
+      "title": "Raleigh Residential Installation Technician",
       "company": "CPI Security",
       "location": "Raleigh, North Carolina, United States",
       "remote": "unspecified",
@@ -51,12 +51,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-04-27",
-      "updated": "2026-10-29",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4676774006",
       "apply_url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4676774006",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4677227006",
@@ -74,7 +74,7 @@
       "source_url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4677227006",
       "apply_url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4677227006",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4679656006",
@@ -92,7 +92,7 @@
       "source_url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4679656006",
       "apply_url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4679656006",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4679848006",
@@ -110,7 +110,7 @@
       "source_url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4679848006",
       "apply_url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4679848006",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4684959006",
@@ -128,7 +128,7 @@
       "source_url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4684959006",
       "apply_url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4684959006",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4684960006",
@@ -146,7 +146,7 @@
       "source_url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4684960006",
       "apply_url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4684960006",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4686929006",
@@ -164,7 +164,7 @@
       "source_url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4686929006",
       "apply_url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4686929006",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4687362006",
@@ -182,25 +182,7 @@
       "source_url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4687362006",
       "apply_url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4687362006",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
-    },
-    {
-      "id": "4687537006",
-      "title": "Residential Upgrade Technician",
-      "company": "CPI Security",
-      "location": "Raleigh, North Carolina, United States",
-      "remote": "unspecified",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-06-08",
-      "updated": "2026-10-29",
-      "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4687537006",
-      "apply_url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4687537006",
-      "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4693581006",
@@ -218,7 +200,7 @@
       "source_url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4693581006",
       "apply_url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4693581006",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4693584006",
@@ -236,7 +218,7 @@
       "source_url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4693584006",
       "apply_url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4693584006",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4693612006",
@@ -254,7 +236,7 @@
       "source_url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4693612006",
       "apply_url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4693612006",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4696124006",
@@ -272,7 +254,7 @@
       "source_url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4696124006",
       "apply_url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4696124006",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4697072006",
@@ -290,43 +272,7 @@
       "source_url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4697072006",
       "apply_url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4697072006",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
-    },
-    {
-      "id": "4697726006",
-      "title": "Fayetteville Residential Upgrade Technician",
-      "company": "CPI Security",
-      "location": "Raleigh, North Carolina, United States",
-      "remote": "unspecified",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-07-16",
-      "updated": "2026-09-16",
-      "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4697726006",
-      "apply_url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4697726006",
-      "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
-    },
-    {
-      "id": "4700022006",
-      "title": "Fayetteville Residential Upgrade Technician",
-      "company": "CPI Security",
-      "location": "Raleigh, North Carolina, United States",
-      "remote": "unspecified",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-07-27",
-      "updated": "2026-09-03",
-      "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4700022006",
-      "apply_url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4700022006",
-      "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4702438006",
@@ -344,7 +290,7 @@
       "source_url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4702438006",
       "apply_url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4702438006",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4702441006",
@@ -362,7 +308,7 @@
       "source_url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4702441006",
       "apply_url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4702441006",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4706895006",
@@ -380,7 +326,7 @@
       "source_url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4706895006",
       "apply_url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4706895006",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4707107006",
@@ -398,7 +344,7 @@
       "source_url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4707107006",
       "apply_url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4707107006",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4710279006",
@@ -416,7 +362,7 @@
       "source_url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4710279006",
       "apply_url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4710279006",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4716338006",
@@ -434,7 +380,7 @@
       "source_url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4716338006",
       "apply_url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4716338006",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4717617006",
@@ -452,7 +398,7 @@
       "source_url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4717617006",
       "apply_url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4717617006",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4718163006",
@@ -470,7 +416,7 @@
       "source_url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4718163006",
       "apply_url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4718163006",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4718166006",
@@ -488,7 +434,7 @@
       "source_url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4718166006",
       "apply_url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4718166006",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4718167006",
@@ -506,43 +452,7 @@
       "source_url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4718167006",
       "apply_url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4718167006",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
-    },
-    {
-      "id": "4718171006",
-      "title": "Product Owner",
-      "company": "CPI Security",
-      "location": "Charlotte, North Carolina, United States",
-      "remote": "unspecified",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-09-30",
-      "updated": "2026-09-30",
-      "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4718171006",
-      "apply_url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4718171006",
-      "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
-    },
-    {
-      "id": "4718663006",
-      "title": "New Construction Sales Representative",
-      "company": "CPI Security",
-      "location": "Columbia, South Carolina, United States",
-      "remote": "unspecified",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-10-02",
-      "updated": "2026-10-02",
-      "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4718663006",
-      "apply_url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4718663006",
-      "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4718822006",
@@ -560,7 +470,7 @@
       "source_url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4718822006",
       "apply_url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4718822006",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4720101006",
@@ -578,7 +488,7 @@
       "source_url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4720101006",
       "apply_url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4720101006",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4720539006",
@@ -596,7 +506,7 @@
       "source_url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4720539006",
       "apply_url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4720539006",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4722279006",
@@ -614,11 +524,11 @@
       "source_url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4722279006",
       "apply_url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4722279006",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4723328006",
-      "title": "Charleston New Home Security Sales Representative",
+      "title": "New Construction Security Sales Representative",
       "company": "CPI Security",
       "location": "Charleston, South Carolina, United States",
       "remote": "unspecified",
@@ -627,48 +537,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-20",
-      "updated": "2026-10-20",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4723328006",
       "apply_url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4723328006",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
-    },
-    {
-      "id": "4723329006",
-      "title": "Residential Security Sales Representative",
-      "company": "CPI Security",
-      "location": "Charleston, South Carolina, United States",
-      "remote": "unspecified",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-10-20",
-      "updated": "2026-10-20",
-      "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4723329006",
-      "apply_url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4723329006",
-      "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
-    },
-    {
-      "id": "4723330006",
-      "title": "Columbia Commercial Sales Representative",
-      "company": "CPI Security",
-      "location": "Columbia, South Carolina, United States",
-      "remote": "unspecified",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-10-20",
-      "updated": "2026-10-20",
-      "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4723330006",
-      "apply_url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4723330006",
-      "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4723331006",
@@ -686,7 +560,7 @@
       "source_url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4723331006",
       "apply_url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4723331006",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4723373006",
@@ -704,43 +578,7 @@
       "source_url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4723373006",
       "apply_url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4723373006",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
-    },
-    {
-      "id": "4724069006",
-      "title": "Florence Commercial Sales Representative",
-      "company": "CPI Security",
-      "location": "Columbia, South Carolina, United States",
-      "remote": "unspecified",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-10-22",
-      "updated": "2026-10-22",
-      "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4724069006",
-      "apply_url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4724069006",
-      "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
-    },
-    {
-      "id": "4724070006",
-      "title": "North Augusta Commercial Sales Representative",
-      "company": "CPI Security",
-      "location": "Columbia, South Carolina, United States",
-      "remote": "unspecified",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-10-22",
-      "updated": "2026-10-22",
-      "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4724070006",
-      "apply_url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4724070006",
-      "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4725504006",
@@ -758,7 +596,7 @@
       "source_url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4725504006",
       "apply_url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4725504006",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4725907006",
@@ -776,7 +614,7 @@
       "source_url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4725907006",
       "apply_url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4725907006",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4726110006",
@@ -794,47 +632,11 @@
       "source_url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4726110006",
       "apply_url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4726110006",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
-    },
-    {
-      "id": "4727384006",
-      "title": "New Construction Sales Representative",
-      "company": "CPI Security",
-      "location": "Columbia, South Carolina, United States",
-      "remote": "unspecified",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-11-04",
-      "updated": "2026-11-04",
-      "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4727384006",
-      "apply_url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4727384006",
-      "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
-    },
-    {
-      "id": "4727396006",
-      "title": "New Construction Sales Representative",
-      "company": "CPI Security",
-      "location": "Columbia, South Carolina, United States",
-      "remote": "unspecified",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-11-04",
-      "updated": "2026-11-04",
-      "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4727396006",
-      "apply_url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4727396006",
-      "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4728264006",
-      "title": "Greater Savannah Residential Installation Technician",
+      "title": "Residential Installation Technician",
       "company": "CPI Security",
       "location": "Savannah, Georgia, United States",
       "remote": "unspecified",
@@ -843,12 +645,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-09",
-      "updated": "2026-11-09",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4728264006",
       "apply_url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4728264006",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4729123006",
@@ -866,7 +668,7 @@
       "source_url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4729123006",
       "apply_url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4729123006",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4729128006",
@@ -884,7 +686,7 @@
       "source_url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4729128006",
       "apply_url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4729128006",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4729457006",
@@ -902,7 +704,7 @@
       "source_url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4729457006",
       "apply_url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4729457006",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4729982006",
@@ -920,7 +722,7 @@
       "source_url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4729982006",
       "apply_url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4729982006",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4729990006",
@@ -938,7 +740,7 @@
       "source_url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4729990006",
       "apply_url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4729990006",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4730031006",
@@ -956,7 +758,115 @@
       "source_url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4730031006",
       "apply_url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4730031006",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
+    },
+    {
+      "id": "4730238006",
+      "title": "Residential Security Sales Representative",
+      "company": "CPI Security",
+      "location": "Charleston, South Carolina, United States",
+      "remote": "unspecified",
+      "department": "",
+      "employment_type": "",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-17",
+      "updated": "2026-11-17",
+      "deadline": "",
+      "source_url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4730238006",
+      "apply_url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4730238006",
+      "first_seen": "2026-11-18T15:36:26Z",
+      "last_checked": "2026-11-18T15:36:26Z"
+    },
+    {
+      "id": "4730251006",
+      "title": "Columbia Commercial Sales Representative",
+      "company": "CPI Security",
+      "location": "Columbia, South Carolina, United States",
+      "remote": "unspecified",
+      "department": "",
+      "employment_type": "",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-17",
+      "updated": "2026-11-17",
+      "deadline": "",
+      "source_url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4730251006",
+      "apply_url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4730251006",
+      "first_seen": "2026-11-18T15:36:26Z",
+      "last_checked": "2026-11-18T15:36:26Z"
+    },
+    {
+      "id": "4730252006",
+      "title": "New Construction Sales Representative",
+      "company": "CPI Security",
+      "location": "Columbia, South Carolina, United States",
+      "remote": "unspecified",
+      "department": "",
+      "employment_type": "",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-17",
+      "updated": "2026-11-17",
+      "deadline": "",
+      "source_url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4730252006",
+      "apply_url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4730252006",
+      "first_seen": "2026-11-18T15:36:26Z",
+      "last_checked": "2026-11-18T15:36:26Z"
+    },
+    {
+      "id": "4730327006",
+      "title": "Lead Qualification Rep",
+      "company": "CPI Security",
+      "location": "Charlotte, North Carolina, United States",
+      "remote": "unspecified",
+      "department": "",
+      "employment_type": "",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-17",
+      "updated": "2026-11-17",
+      "deadline": "",
+      "source_url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4730327006",
+      "apply_url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4730327006",
+      "first_seen": "2026-11-18T15:36:26Z",
+      "last_checked": "2026-11-18T15:36:26Z"
+    },
+    {
+      "id": "4730350006",
+      "title": "Fayetteville Residential Upgrade Technician",
+      "company": "CPI Security",
+      "location": "Fayetteville, North Carolina, United States",
+      "remote": "unspecified",
+      "department": "",
+      "employment_type": "",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-17",
+      "updated": "2026-11-18",
+      "deadline": "",
+      "source_url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4730350006",
+      "apply_url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4730350006",
+      "first_seen": "2026-11-18T15:36:26Z",
+      "last_checked": "2026-11-18T15:36:26Z"
+    },
+    {
+      "id": "4730352006",
+      "title": "Raleigh Residential Upgrade Technician",
+      "company": "CPI Security",
+      "location": "Raleigh, North Carolina, United States",
+      "remote": "unspecified",
+      "department": "",
+      "employment_type": "",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-17",
+      "updated": "2026-11-18",
+      "deadline": "",
+      "source_url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4730352006",
+      "apply_url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4730352006",
+      "first_seen": "2026-11-18T15:36:26Z",
+      "last_checked": "2026-11-18T15:36:26Z"
     }
   ],
   "ats": "greenhouse",

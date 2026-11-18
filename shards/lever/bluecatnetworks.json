@@ -1,27 +1,9 @@
 {
-  "status": "stale",
-  "checked_at": "2026-11-17T11:59:50Z",
-  "failed_at": "2026-11-17T15:56:57Z",
-  "etag": "W/\"8f28b-XUULxJ5EbOS6nCdOsdcS8Hq/ndg\"",
+  "status": "ok",
+  "checked_at": "2026-11-18T15:36:26Z",
+  "failed_at": null,
+  "etag": "W/\"8702e-s09uU64UyuzCZQGTDPIye5dVkOk\"",
   "jobs": [
-    {
-      "id": "0a44e06f-a62a-4300-bfde-7003f6b6e36c",
-      "title": "Senior Accountant",
-      "company": "BlueCat",
-      "location": "Toronto Office",
-      "remote": "hybrid",
-      "department": "Finance",
-      "employment_type": "FULL_TIME",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-09-17",
-      "updated": "",
-      "deadline": "",
-      "source_url": "https://jobs.lever.co/bluecatnetworks/0a44e06f-a62a-4300-bfde-7003f6b6e36c",
-      "apply_url": "https://jobs.lever.co/bluecatnetworks/0a44e06f-a62a-4300-bfde-7003f6b6e36c/apply",
-      "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T11:59:50Z"
-    },
     {
       "id": "0b833c6d-1d31-4d27-9966-a8d9a97fc364",
       "title": "Global Vice President, Mid-Market Sales",
@@ -38,7 +20,7 @@
       "source_url": "https://jobs.lever.co/bluecatnetworks/0b833c6d-1d31-4d27-9966-a8d9a97fc364",
       "apply_url": "https://jobs.lever.co/bluecatnetworks/0b833c6d-1d31-4d27-9966-a8d9a97fc364/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T11:59:50Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "1eff2b28-47a8-4129-b498-91d3ec38fb58",
@@ -56,7 +38,7 @@
       "source_url": "https://jobs.lever.co/bluecatnetworks/1eff2b28-47a8-4129-b498-91d3ec38fb58",
       "apply_url": "https://jobs.lever.co/bluecatnetworks/1eff2b28-47a8-4129-b498-91d3ec38fb58/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T11:59:50Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "2c969ac4-817c-45d7-8248-d1a8d42d9fbc",
@@ -74,7 +56,7 @@
       "source_url": "https://jobs.lever.co/bluecatnetworks/2c969ac4-817c-45d7-8248-d1a8d42d9fbc",
       "apply_url": "https://jobs.lever.co/bluecatnetworks/2c969ac4-817c-45d7-8248-d1a8d42d9fbc/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T11:59:50Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "2ef6e06b-23a1-49d1-952d-8ab0308b5192",
@@ -92,14 +74,14 @@
       "source_url": "https://jobs.lever.co/bluecatnetworks/2ef6e06b-23a1-49d1-952d-8ab0308b5192",
       "apply_url": "https://jobs.lever.co/bluecatnetworks/2ef6e06b-23a1-49d1-952d-8ab0308b5192/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T11:59:50Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "35e099e7-d47c-4dae-aeca-4e9c2cbe824a",
       "title": "Staff Software Engineer — Networking & DNS Infrastructure",
       "company": "BlueCat",
       "location": "Toronto Office",
-      "remote": "hybrid",
+      "remote": "remote",
       "department": "Software Development",
       "employment_type": "FULL_TIME",
       "salary_text": "160000-190000 CAD / per-year-salary",
@@ -110,7 +92,7 @@
       "source_url": "https://jobs.lever.co/bluecatnetworks/35e099e7-d47c-4dae-aeca-4e9c2cbe824a",
       "apply_url": "https://jobs.lever.co/bluecatnetworks/35e099e7-d47c-4dae-aeca-4e9c2cbe824a/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T11:59:50Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "38d6253b-0941-475c-a3a8-f93c4f674dbe",
@@ -128,7 +110,7 @@
       "source_url": "https://jobs.lever.co/bluecatnetworks/38d6253b-0941-475c-a3a8-f93c4f674dbe",
       "apply_url": "https://jobs.lever.co/bluecatnetworks/38d6253b-0941-475c-a3a8-f93c4f674dbe/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T11:59:50Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "466151a5-46b7-4bac-827b-ee3911585506",
@@ -146,7 +128,7 @@
       "source_url": "https://jobs.lever.co/bluecatnetworks/466151a5-46b7-4bac-827b-ee3911585506",
       "apply_url": "https://jobs.lever.co/bluecatnetworks/466151a5-46b7-4bac-827b-ee3911585506/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T11:59:50Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4aa6d095-dedb-4bd9-be7d-3fb5eed6ddc9",
@@ -164,7 +146,7 @@
       "source_url": "https://jobs.lever.co/bluecatnetworks/4aa6d095-dedb-4bd9-be7d-3fb5eed6ddc9",
       "apply_url": "https://jobs.lever.co/bluecatnetworks/4aa6d095-dedb-4bd9-be7d-3fb5eed6ddc9/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T11:59:50Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "52cdf29c-f71c-466b-9b1f-5461a07e8831",
@@ -182,7 +164,7 @@
       "source_url": "https://jobs.lever.co/bluecatnetworks/52cdf29c-f71c-466b-9b1f-5461a07e8831",
       "apply_url": "https://jobs.lever.co/bluecatnetworks/52cdf29c-f71c-466b-9b1f-5461a07e8831/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T11:59:50Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "5776aebf-2c35-41c8-9ecd-bd0e30823c63",
@@ -200,7 +182,7 @@
       "source_url": "https://jobs.lever.co/bluecatnetworks/5776aebf-2c35-41c8-9ecd-bd0e30823c63",
       "apply_url": "https://jobs.lever.co/bluecatnetworks/5776aebf-2c35-41c8-9ecd-bd0e30823c63/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T11:59:50Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "62538d78-da8a-4ba1-b037-aea264cfa743",
@@ -218,7 +200,7 @@
       "source_url": "https://jobs.lever.co/bluecatnetworks/62538d78-da8a-4ba1-b037-aea264cfa743",
       "apply_url": "https://jobs.lever.co/bluecatnetworks/62538d78-da8a-4ba1-b037-aea264cfa743/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T11:59:50Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "72024a5f-99be-4994-88db-624a4726394d",
@@ -236,7 +218,7 @@
       "source_url": "https://jobs.lever.co/bluecatnetworks/72024a5f-99be-4994-88db-624a4726394d",
       "apply_url": "https://jobs.lever.co/bluecatnetworks/72024a5f-99be-4994-88db-624a4726394d/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T11:59:50Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "82b848e0-29f1-42c8-83fe-698aa5cedc62",
@@ -254,7 +236,7 @@
       "source_url": "https://jobs.lever.co/bluecatnetworks/82b848e0-29f1-42c8-83fe-698aa5cedc62",
       "apply_url": "https://jobs.lever.co/bluecatnetworks/82b848e0-29f1-42c8-83fe-698aa5cedc62/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T11:59:50Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8304809d-d71c-4608-90d1-72aa7dc3c6cd",
@@ -272,7 +254,7 @@
       "source_url": "https://jobs.lever.co/bluecatnetworks/8304809d-d71c-4608-90d1-72aa7dc3c6cd",
       "apply_url": "https://jobs.lever.co/bluecatnetworks/8304809d-d71c-4608-90d1-72aa7dc3c6cd/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T11:59:50Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "90c3d8b6-b32f-4d27-a796-3bc3f089615c",
@@ -290,7 +272,7 @@
       "source_url": "https://jobs.lever.co/bluecatnetworks/90c3d8b6-b32f-4d27-a796-3bc3f089615c",
       "apply_url": "https://jobs.lever.co/bluecatnetworks/90c3d8b6-b32f-4d27-a796-3bc3f089615c/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T11:59:50Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "927730c0-0555-4595-a01f-c7da45977cde",
@@ -308,7 +290,7 @@
       "source_url": "https://jobs.lever.co/bluecatnetworks/927730c0-0555-4595-a01f-c7da45977cde",
       "apply_url": "https://jobs.lever.co/bluecatnetworks/927730c0-0555-4595-a01f-c7da45977cde/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T11:59:50Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "93b19e46-dc19-4397-9fe7-8a3242387cdf",
@@ -326,7 +308,7 @@
       "source_url": "https://jobs.lever.co/bluecatnetworks/93b19e46-dc19-4397-9fe7-8a3242387cdf",
       "apply_url": "https://jobs.lever.co/bluecatnetworks/93b19e46-dc19-4397-9fe7-8a3242387cdf/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T11:59:50Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "9c550d43-c99f-4fb7-8846-1cbb7b054640",
@@ -344,7 +326,7 @@
       "source_url": "https://jobs.lever.co/bluecatnetworks/9c550d43-c99f-4fb7-8846-1cbb7b054640",
       "apply_url": "https://jobs.lever.co/bluecatnetworks/9c550d43-c99f-4fb7-8846-1cbb7b054640/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T11:59:50Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "a0cdd670-efbe-4515-8c63-87c9a98ac878",
@@ -362,25 +344,7 @@
       "source_url": "https://jobs.lever.co/bluecatnetworks/a0cdd670-efbe-4515-8c63-87c9a98ac878",
       "apply_url": "https://jobs.lever.co/bluecatnetworks/a0cdd670-efbe-4515-8c63-87c9a98ac878/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T11:59:50Z"
-    },
-    {
-      "id": "a975db27-ff4e-4bf7-adcb-529eff44cb9a",
-      "title": "Technical Support Engineer",
-      "company": "BlueCat",
-      "location": "Costa Rica - Remote",
-      "remote": "hybrid",
-      "department": "Customer Care",
-      "employment_type": "FULL_TIME",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-09-22",
-      "updated": "",
-      "deadline": "",
-      "source_url": "https://jobs.lever.co/bluecatnetworks/a975db27-ff4e-4bf7-adcb-529eff44cb9a",
-      "apply_url": "https://jobs.lever.co/bluecatnetworks/a975db27-ff4e-4bf7-adcb-529eff44cb9a/apply",
-      "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T11:59:50Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "b2872b61-3832-4ef9-9236-19115e84d4e1",
@@ -398,7 +362,7 @@
       "source_url": "https://jobs.lever.co/bluecatnetworks/b2872b61-3832-4ef9-9236-19115e84d4e1",
       "apply_url": "https://jobs.lever.co/bluecatnetworks/b2872b61-3832-4ef9-9236-19115e84d4e1/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T11:59:50Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "df0f5849-f321-4dce-9e10-412d367ad79d",
@@ -416,7 +380,7 @@
       "source_url": "https://jobs.lever.co/bluecatnetworks/df0f5849-f321-4dce-9e10-412d367ad79d",
       "apply_url": "https://jobs.lever.co/bluecatnetworks/df0f5849-f321-4dce-9e10-412d367ad79d/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T11:59:50Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "dfda57be-3c5f-4271-a175-fbeb06bbc533",
@@ -434,7 +398,7 @@
       "source_url": "https://jobs.lever.co/bluecatnetworks/dfda57be-3c5f-4271-a175-fbeb06bbc533",
       "apply_url": "https://jobs.lever.co/bluecatnetworks/dfda57be-3c5f-4271-a175-fbeb06bbc533/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T11:59:50Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "e8f273b8-2f41-4280-8249-8500efe69228",
@@ -452,7 +416,7 @@
       "source_url": "https://jobs.lever.co/bluecatnetworks/e8f273b8-2f41-4280-8249-8500efe69228",
       "apply_url": "https://jobs.lever.co/bluecatnetworks/e8f273b8-2f41-4280-8249-8500efe69228/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T11:59:50Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     }
   ],
   "ats": "lever",

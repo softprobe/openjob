@@ -1,8 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-17T15:56:57Z",
+  "checked_at": "2026-11-18T15:36:26Z",
   "failed_at": null,
-  "etag": "W/\"be276370c12bd0c0d6fab323f8d47240\"",
+  "etag": "W/\"ded64bc7ed73696229766bb2a4afb920\"",
   "jobs": [
     {
       "id": "7513742",
@@ -20,7 +20,7 @@
       "source_url": "https://job-boards.greenhouse.io/flipp/jobs/7513742",
       "apply_url": "https://job-boards.greenhouse.io/flipp/jobs/7513742",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8142672",
@@ -38,7 +38,7 @@
       "source_url": "https://job-boards.greenhouse.io/flipp/jobs/8142672",
       "apply_url": "https://job-boards.greenhouse.io/flipp/jobs/8142672",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8162784",
@@ -56,7 +56,7 @@
       "source_url": "https://job-boards.greenhouse.io/flipp/jobs/8162784",
       "apply_url": "https://job-boards.greenhouse.io/flipp/jobs/8162784",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8231497",
@@ -74,7 +74,7 @@
       "source_url": "https://job-boards.greenhouse.io/flipp/jobs/8231497",
       "apply_url": "https://job-boards.greenhouse.io/flipp/jobs/8231497",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8242148",
@@ -92,7 +92,7 @@
       "source_url": "https://job-boards.greenhouse.io/flipp/jobs/8242148",
       "apply_url": "https://job-boards.greenhouse.io/flipp/jobs/8242148",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8247226",
@@ -110,7 +110,7 @@
       "source_url": "https://job-boards.greenhouse.io/flipp/jobs/8247226",
       "apply_url": "https://job-boards.greenhouse.io/flipp/jobs/8247226",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8279336",
@@ -128,25 +128,7 @@
       "source_url": "https://job-boards.greenhouse.io/flipp/jobs/8279336",
       "apply_url": "https://job-boards.greenhouse.io/flipp/jobs/8279336",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
-    },
-    {
-      "id": "8279402",
-      "title": "Client Experience & Enablement Specialist",
-      "company": "Flipp",
-      "location": "Mexico",
-      "remote": "unspecified",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-10-27",
-      "updated": "2026-10-27",
-      "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/flipp/jobs/8279402",
-      "apply_url": "https://job-boards.greenhouse.io/flipp/jobs/8279402",
-      "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8287302",
@@ -164,7 +146,25 @@
       "source_url": "https://job-boards.greenhouse.io/flipp/jobs/8287302",
       "apply_url": "https://job-boards.greenhouse.io/flipp/jobs/8287302",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
+    },
+    {
+      "id": "8328301",
+      "title": "Senior Manager, Go-to-Market Systems",
+      "company": "Flipp",
+      "location": "Canada",
+      "remote": "unspecified",
+      "department": "",
+      "employment_type": "",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-18",
+      "updated": "2026-11-18",
+      "deadline": "",
+      "source_url": "https://job-boards.greenhouse.io/flipp/jobs/8328301",
+      "apply_url": "https://job-boards.greenhouse.io/flipp/jobs/8328301",
+      "first_seen": "2026-11-18T15:36:26Z",
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8353451",
@@ -182,7 +182,7 @@
       "source_url": "https://job-boards.greenhouse.io/flipp/jobs/8353451",
       "apply_url": "https://job-boards.greenhouse.io/flipp/jobs/8353451",
       "first_seen": "2026-11-17T15:56:57Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     }
   ],
   "ats": "greenhouse",

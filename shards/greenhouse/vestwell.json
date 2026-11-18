@@ -1,27 +1,9 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-17T15:56:57Z",
+  "checked_at": "2026-11-18T15:36:26Z",
   "failed_at": null,
-  "etag": "W/\"fb9b7098a894e7a972b130bc878dc507\"",
+  "etag": "W/\"b97a4f032b980b29b3fbc86f2a002396\"",
   "jobs": [
-    {
-      "id": "6212756003",
-      "title": "Sales Development Representative (SDR)",
-      "company": "Vestwell",
-      "location": "Austin, TX",
-      "remote": "unspecified",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2024-09-19",
-      "updated": "2026-09-16",
-      "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/vestwell/jobs/6212756003",
-      "apply_url": "https://job-boards.greenhouse.io/vestwell/jobs/6212756003",
-      "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
-    },
     {
       "id": "7627350003",
       "title": "Business Development Representative",
@@ -33,12 +15,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-02-10",
-      "updated": "2026-10-14",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/vestwell/jobs/7627350003",
       "apply_url": "https://job-boards.greenhouse.io/vestwell/jobs/7627350003",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "7735876003",
@@ -51,12 +33,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-05-15",
-      "updated": "2026-10-06",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/vestwell/jobs/7735876003",
       "apply_url": "https://job-boards.greenhouse.io/vestwell/jobs/7735876003",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "7787114003",
@@ -69,12 +51,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-06-26",
-      "updated": "2026-10-22",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/vestwell/jobs/7787114003",
       "apply_url": "https://job-boards.greenhouse.io/vestwell/jobs/7787114003",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "7787416003",
@@ -87,12 +69,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-06-30",
-      "updated": "2026-10-14",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/vestwell/jobs/7787416003",
       "apply_url": "https://job-boards.greenhouse.io/vestwell/jobs/7787416003",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "7807481003",
@@ -105,30 +87,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-07-18",
-      "updated": "2026-10-16",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/vestwell/jobs/7807481003",
       "apply_url": "https://job-boards.greenhouse.io/vestwell/jobs/7807481003",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
-    },
-    {
-      "id": "7824518003",
-      "title": "Coordinator, Saver Services",
-      "company": "Vestwell",
-      "location": "Austin, TX | King of Prussia, PA | Scottsdale, AZ",
-      "remote": "unspecified",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-08-05",
-      "updated": "2026-10-19",
-      "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/vestwell/jobs/7824518003",
-      "apply_url": "https://job-boards.greenhouse.io/vestwell/jobs/7824518003",
-      "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "7989135003",
@@ -141,12 +105,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-08",
-      "updated": "2026-11-10",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/vestwell/jobs/7989135003",
       "apply_url": "https://job-boards.greenhouse.io/vestwell/jobs/7989135003",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "7994837003",
@@ -159,12 +123,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-15",
-      "updated": "2026-10-26",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/vestwell/jobs/7994837003",
       "apply_url": "https://job-boards.greenhouse.io/vestwell/jobs/7994837003",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "7997087003",
@@ -177,12 +141,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-21",
-      "updated": "2026-10-13",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/vestwell/jobs/7997087003",
       "apply_url": "https://job-boards.greenhouse.io/vestwell/jobs/7997087003",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "7997292003",
@@ -195,12 +159,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-16",
-      "updated": "2026-09-16",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/vestwell/jobs/7997292003",
       "apply_url": "https://job-boards.greenhouse.io/vestwell/jobs/7997292003",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "7997331003",
@@ -213,12 +177,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-16",
-      "updated": "2026-10-21",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/vestwell/jobs/7997331003",
       "apply_url": "https://job-boards.greenhouse.io/vestwell/jobs/7997331003",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "7998579003",
@@ -231,12 +195,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-17",
-      "updated": "2026-10-09",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/vestwell/jobs/7998579003",
       "apply_url": "https://job-boards.greenhouse.io/vestwell/jobs/7998579003",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8002311003",
@@ -249,30 +213,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-22",
-      "updated": "2026-11-13",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/vestwell/jobs/8002311003",
       "apply_url": "https://job-boards.greenhouse.io/vestwell/jobs/8002311003",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
-    },
-    {
-      "id": "8004553003",
-      "title": "Director, Relationship Management - ABLE",
-      "company": "Vestwell",
-      "location": "New York, NY | Austin, TX | King of Prussia, PA | Scottsdale, AZ",
-      "remote": "unspecified",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-10-13",
-      "updated": "2026-10-13",
-      "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/vestwell/jobs/8004553003",
-      "apply_url": "https://job-boards.greenhouse.io/vestwell/jobs/8004553003",
-      "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8007000003",
@@ -285,12 +231,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-05",
-      "updated": "2026-10-13",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/vestwell/jobs/8007000003",
       "apply_url": "https://job-boards.greenhouse.io/vestwell/jobs/8007000003",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8017308003",
@@ -303,12 +249,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-09",
-      "updated": "2026-10-09",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/vestwell/jobs/8017308003",
       "apply_url": "https://job-boards.greenhouse.io/vestwell/jobs/8017308003",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8028005003",
@@ -321,12 +267,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-14",
-      "updated": "2026-10-14",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/vestwell/jobs/8028005003",
       "apply_url": "https://job-boards.greenhouse.io/vestwell/jobs/8028005003",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8039992003",
@@ -339,12 +285,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-21",
-      "updated": "2026-10-21",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/vestwell/jobs/8039992003",
       "apply_url": "https://job-boards.greenhouse.io/vestwell/jobs/8039992003",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8046082003",
@@ -357,12 +303,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-05",
-      "updated": "2026-11-12",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/vestwell/jobs/8046082003",
       "apply_url": "https://job-boards.greenhouse.io/vestwell/jobs/8046082003",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8046106003",
@@ -375,12 +321,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-05",
-      "updated": "2026-11-12",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/vestwell/jobs/8046106003",
       "apply_url": "https://job-boards.greenhouse.io/vestwell/jobs/8046106003",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8078925003",
@@ -393,12 +339,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-29",
-      "updated": "2026-10-29",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/vestwell/jobs/8078925003",
       "apply_url": "https://job-boards.greenhouse.io/vestwell/jobs/8078925003",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8079065003",
@@ -411,12 +357,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-29",
-      "updated": "2026-10-29",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/vestwell/jobs/8079065003",
       "apply_url": "https://job-boards.greenhouse.io/vestwell/jobs/8079065003",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8108241003",
@@ -429,12 +375,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-03",
-      "updated": "2026-11-03",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/vestwell/jobs/8108241003",
       "apply_url": "https://job-boards.greenhouse.io/vestwell/jobs/8108241003",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8108443003",
@@ -447,12 +393,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-05",
-      "updated": "2026-11-13",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/vestwell/jobs/8108443003",
       "apply_url": "https://job-boards.greenhouse.io/vestwell/jobs/8108443003",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8108684003",
@@ -465,12 +411,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-03",
-      "updated": "2026-11-03",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/vestwell/jobs/8108684003",
       "apply_url": "https://job-boards.greenhouse.io/vestwell/jobs/8108684003",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8196625003",
@@ -483,12 +429,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-05",
-      "updated": "2026-11-05",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/vestwell/jobs/8196625003",
       "apply_url": "https://job-boards.greenhouse.io/vestwell/jobs/8196625003",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8196645003",
@@ -501,12 +447,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-05",
-      "updated": "2026-11-05",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/vestwell/jobs/8196645003",
       "apply_url": "https://job-boards.greenhouse.io/vestwell/jobs/8196645003",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8197185003",
@@ -519,12 +465,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-05",
-      "updated": "2026-11-10",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/vestwell/jobs/8197185003",
       "apply_url": "https://job-boards.greenhouse.io/vestwell/jobs/8197185003",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8197825003",
@@ -537,12 +483,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-06",
-      "updated": "2026-11-06",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/vestwell/jobs/8197825003",
       "apply_url": "https://job-boards.greenhouse.io/vestwell/jobs/8197825003",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8201517003",
@@ -555,12 +501,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-11",
-      "updated": "2026-11-11",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/vestwell/jobs/8201517003",
       "apply_url": "https://job-boards.greenhouse.io/vestwell/jobs/8201517003",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8203617003",
@@ -573,12 +519,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-13",
-      "updated": "2026-11-16",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/vestwell/jobs/8203617003",
       "apply_url": "https://job-boards.greenhouse.io/vestwell/jobs/8203617003",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8203901003",
@@ -591,12 +537,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-13",
-      "updated": "2026-11-13",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/vestwell/jobs/8203901003",
       "apply_url": "https://job-boards.greenhouse.io/vestwell/jobs/8203901003",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8206996003",
@@ -614,7 +560,7 @@
       "source_url": "https://job-boards.greenhouse.io/vestwell/jobs/8206996003",
       "apply_url": "https://job-boards.greenhouse.io/vestwell/jobs/8206996003",
       "first_seen": "2026-11-17T15:56:57Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     }
   ],
   "ats": "greenhouse",

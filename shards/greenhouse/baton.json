@@ -1,45 +1,9 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-17T15:56:57Z",
+  "checked_at": "2026-11-18T15:36:26Z",
   "failed_at": null,
-  "etag": "W/\"00dc49662cd39a02b2bff5fd1efb4484\"",
+  "etag": "W/\"b91b5a1a4660074159fda8521bcc128b\"",
   "jobs": [
-    {
-      "id": "4011484007",
-      "title": "Software Engineer - Infrastructure, Data Platform",
-      "company": "Baton (A Ryder Technology Lab)",
-      "location": "San Francisco, California, United States",
-      "remote": "unspecified",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2023-02-28",
-      "updated": "2026-09-04",
-      "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/baton/jobs/4011484007",
-      "apply_url": "https://job-boards.greenhouse.io/baton/jobs/4011484007",
-      "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
-    },
-    {
-      "id": "5177637007",
-      "title": "Software Engineer - Data Platform",
-      "company": "Baton (A Ryder Technology Lab)",
-      "location": "San Francisco, California, United States",
-      "remote": "unspecified",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-06-30",
-      "updated": "2026-09-04",
-      "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/baton/jobs/5177637007",
-      "apply_url": "https://job-boards.greenhouse.io/baton/jobs/5177637007",
-      "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
-    },
     {
       "id": "5200002007",
       "title": "Software Engineer, MLOps - Machine Learning",
@@ -56,7 +20,7 @@
       "source_url": "https://job-boards.greenhouse.io/baton/jobs/5200002007",
       "apply_url": "https://job-boards.greenhouse.io/baton/jobs/5200002007",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "5215515007",
@@ -74,7 +38,7 @@
       "source_url": "https://job-boards.greenhouse.io/baton/jobs/5215515007",
       "apply_url": "https://job-boards.greenhouse.io/baton/jobs/5215515007",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "5255959007",
@@ -92,7 +56,7 @@
       "source_url": "https://job-boards.greenhouse.io/baton/jobs/5255959007",
       "apply_url": "https://job-boards.greenhouse.io/baton/jobs/5255959007",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     }
   ],
   "ats": "greenhouse",

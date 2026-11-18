@@ -1,8 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-17T15:56:57Z",
+  "checked_at": "2026-11-18T15:36:26Z",
   "failed_at": null,
-  "etag": "W/\"job-board:2bca4a897177e862303a7807bfab0db9654d77ded049a66d1b19fe85ca6095fc\"",
+  "etag": "W/\"job-board:c91179117f4d61ab9f2e7020db2accc90c78703e53e6e2ee1bad2ff8bd12fcd9\"",
   "jobs": [
     {
       "id": "07d5a005-96c9-414d-b1ad-7399b3e6175f",
@@ -20,7 +20,7 @@
       "source_url": "https://jobs.ashbyhq.com/amo/07d5a005-96c9-414d-b1ad-7399b3e6175f",
       "apply_url": "https://jobs.ashbyhq.com/amo/07d5a005-96c9-414d-b1ad-7399b3e6175f/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "08a0cb1c-dafe-4c97-86c0-f0ece6e1f2e3",
@@ -38,7 +38,7 @@
       "source_url": "https://jobs.ashbyhq.com/amo/08a0cb1c-dafe-4c97-86c0-f0ece6e1f2e3",
       "apply_url": "https://jobs.ashbyhq.com/amo/08a0cb1c-dafe-4c97-86c0-f0ece6e1f2e3/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "0f0aa0dd-1134-44a0-8920-318cb30a7d8a",
@@ -56,7 +56,7 @@
       "source_url": "https://jobs.ashbyhq.com/amo/0f0aa0dd-1134-44a0-8920-318cb30a7d8a",
       "apply_url": "https://jobs.ashbyhq.com/amo/0f0aa0dd-1134-44a0-8920-318cb30a7d8a/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "11ad3081-f6a0-4150-8681-4246d3cfa3e1",
@@ -74,7 +74,7 @@
       "source_url": "https://jobs.ashbyhq.com/amo/11ad3081-f6a0-4150-8681-4246d3cfa3e1",
       "apply_url": "https://jobs.ashbyhq.com/amo/11ad3081-f6a0-4150-8681-4246d3cfa3e1/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "1afa0e4d-3fa6-423a-a3e8-ab1ffc4c893f",
@@ -92,7 +92,7 @@
       "source_url": "https://jobs.ashbyhq.com/amo/1afa0e4d-3fa6-423a-a3e8-ab1ffc4c893f",
       "apply_url": "https://jobs.ashbyhq.com/amo/1afa0e4d-3fa6-423a-a3e8-ab1ffc4c893f/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "1ed86174-1792-41d4-8802-4134b243167e",
@@ -110,7 +110,7 @@
       "source_url": "https://jobs.ashbyhq.com/amo/1ed86174-1792-41d4-8802-4134b243167e",
       "apply_url": "https://jobs.ashbyhq.com/amo/1ed86174-1792-41d4-8802-4134b243167e/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "37da8e2d-3dc2-4122-aa35-4189877811a4",
@@ -128,7 +128,7 @@
       "source_url": "https://jobs.ashbyhq.com/amo/37da8e2d-3dc2-4122-aa35-4189877811a4",
       "apply_url": "https://jobs.ashbyhq.com/amo/37da8e2d-3dc2-4122-aa35-4189877811a4/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "3bff5414-221e-4133-838a-aca3a5cddd0b",
@@ -146,7 +146,7 @@
       "source_url": "https://jobs.ashbyhq.com/amo/3bff5414-221e-4133-838a-aca3a5cddd0b",
       "apply_url": "https://jobs.ashbyhq.com/amo/3bff5414-221e-4133-838a-aca3a5cddd0b/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4c520b40-5710-4326-a8c0-9c6134a02b4d",
@@ -164,7 +164,7 @@
       "source_url": "https://jobs.ashbyhq.com/amo/4c520b40-5710-4326-a8c0-9c6134a02b4d",
       "apply_url": "https://jobs.ashbyhq.com/amo/4c520b40-5710-4326-a8c0-9c6134a02b4d/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4dd5d279-1e35-4aca-ae9a-3ece760150b2",
@@ -182,7 +182,7 @@
       "source_url": "https://jobs.ashbyhq.com/amo/4dd5d279-1e35-4aca-ae9a-3ece760150b2",
       "apply_url": "https://jobs.ashbyhq.com/amo/4dd5d279-1e35-4aca-ae9a-3ece760150b2/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "5212bd40-780c-40c6-bcf2-73608485e665",
@@ -200,7 +200,7 @@
       "source_url": "https://jobs.ashbyhq.com/amo/5212bd40-780c-40c6-bcf2-73608485e665",
       "apply_url": "https://jobs.ashbyhq.com/amo/5212bd40-780c-40c6-bcf2-73608485e665/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "5e62432d-8576-4695-9b54-fef4caf445e7",
@@ -218,7 +218,7 @@
       "source_url": "https://jobs.ashbyhq.com/amo/5e62432d-8576-4695-9b54-fef4caf445e7",
       "apply_url": "https://jobs.ashbyhq.com/amo/5e62432d-8576-4695-9b54-fef4caf445e7/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "5f204df7-6170-4256-ac64-8c92470cf885",
@@ -236,7 +236,7 @@
       "source_url": "https://jobs.ashbyhq.com/amo/5f204df7-6170-4256-ac64-8c92470cf885",
       "apply_url": "https://jobs.ashbyhq.com/amo/5f204df7-6170-4256-ac64-8c92470cf885/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "62c196b4-6644-4007-9789-475eb9825901",
@@ -254,7 +254,7 @@
       "source_url": "https://jobs.ashbyhq.com/amo/62c196b4-6644-4007-9789-475eb9825901",
       "apply_url": "https://jobs.ashbyhq.com/amo/62c196b4-6644-4007-9789-475eb9825901/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "6cb7a130-d790-4712-b098-953515c2eb2d",
@@ -272,7 +272,7 @@
       "source_url": "https://jobs.ashbyhq.com/amo/6cb7a130-d790-4712-b098-953515c2eb2d",
       "apply_url": "https://jobs.ashbyhq.com/amo/6cb7a130-d790-4712-b098-953515c2eb2d/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "73c2fe4c-4e1d-4ae9-9136-fd32500b4d14",
@@ -290,7 +290,7 @@
       "source_url": "https://jobs.ashbyhq.com/amo/73c2fe4c-4e1d-4ae9-9136-fd32500b4d14",
       "apply_url": "https://jobs.ashbyhq.com/amo/73c2fe4c-4e1d-4ae9-9136-fd32500b4d14/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "80c45434-4435-4571-80ff-68d68e549f53",
@@ -308,7 +308,7 @@
       "source_url": "https://jobs.ashbyhq.com/amo/80c45434-4435-4571-80ff-68d68e549f53",
       "apply_url": "https://jobs.ashbyhq.com/amo/80c45434-4435-4571-80ff-68d68e549f53/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8b192c9b-cf5c-4440-935f-765f8e987c1a",
@@ -326,7 +326,7 @@
       "source_url": "https://jobs.ashbyhq.com/amo/8b192c9b-cf5c-4440-935f-765f8e987c1a",
       "apply_url": "https://jobs.ashbyhq.com/amo/8b192c9b-cf5c-4440-935f-765f8e987c1a/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8b244264-6f3a-4c15-a0c8-81feaf95ae19",
@@ -344,7 +344,7 @@
       "source_url": "https://jobs.ashbyhq.com/amo/8b244264-6f3a-4c15-a0c8-81feaf95ae19",
       "apply_url": "https://jobs.ashbyhq.com/amo/8b244264-6f3a-4c15-a0c8-81feaf95ae19/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8d88d9bc-6500-4a25-b05b-20c1155daca5",
@@ -362,7 +362,7 @@
       "source_url": "https://jobs.ashbyhq.com/amo/8d88d9bc-6500-4a25-b05b-20c1155daca5",
       "apply_url": "https://jobs.ashbyhq.com/amo/8d88d9bc-6500-4a25-b05b-20c1155daca5/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "9ccad4ce-cc07-4955-b4a0-ca96af3577a5",
@@ -380,7 +380,7 @@
       "source_url": "https://jobs.ashbyhq.com/amo/9ccad4ce-cc07-4955-b4a0-ca96af3577a5",
       "apply_url": "https://jobs.ashbyhq.com/amo/9ccad4ce-cc07-4955-b4a0-ca96af3577a5/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "a308a1ef-b1de-47c5-bcdc-c2db62854f99",
@@ -398,7 +398,7 @@
       "source_url": "https://jobs.ashbyhq.com/amo/a308a1ef-b1de-47c5-bcdc-c2db62854f99",
       "apply_url": "https://jobs.ashbyhq.com/amo/a308a1ef-b1de-47c5-bcdc-c2db62854f99/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "a8ec3bab-8f75-46dd-819a-9ec854558309",
@@ -416,7 +416,7 @@
       "source_url": "https://jobs.ashbyhq.com/amo/a8ec3bab-8f75-46dd-819a-9ec854558309",
       "apply_url": "https://jobs.ashbyhq.com/amo/a8ec3bab-8f75-46dd-819a-9ec854558309/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "aefdabe0-1e2e-46fb-99a1-6a2cd4cc0e09",
@@ -434,7 +434,7 @@
       "source_url": "https://jobs.ashbyhq.com/amo/aefdabe0-1e2e-46fb-99a1-6a2cd4cc0e09",
       "apply_url": "https://jobs.ashbyhq.com/amo/aefdabe0-1e2e-46fb-99a1-6a2cd4cc0e09/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "b5d9c1cf-393e-4059-a721-bb718eb279e2",
@@ -452,25 +452,7 @@
       "source_url": "https://jobs.ashbyhq.com/amo/b5d9c1cf-393e-4059-a721-bb718eb279e2",
       "apply_url": "https://jobs.ashbyhq.com/amo/b5d9c1cf-393e-4059-a721-bb718eb279e2/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
-    },
-    {
-      "id": "bd6787db-bf76-48ba-8a35-5afdc95b8c1b",
-      "title": "Brazil Content Specialist",
-      "company": "amo",
-      "location": "Paris",
-      "remote": "onsite",
-      "department": "Distribution",
-      "employment_type": "FULL_TIME",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-10-26",
-      "updated": "",
-      "deadline": "",
-      "source_url": "https://jobs.ashbyhq.com/amo/bd6787db-bf76-48ba-8a35-5afdc95b8c1b",
-      "apply_url": "https://jobs.ashbyhq.com/amo/bd6787db-bf76-48ba-8a35-5afdc95b8c1b/application",
-      "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "be922143-5469-455b-b86c-1e986ebb40cb",
@@ -488,7 +470,7 @@
       "source_url": "https://jobs.ashbyhq.com/amo/be922143-5469-455b-b86c-1e986ebb40cb",
       "apply_url": "https://jobs.ashbyhq.com/amo/be922143-5469-455b-b86c-1e986ebb40cb/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "c3caa7e5-00c5-4276-a082-b58ad596063c",
@@ -506,7 +488,7 @@
       "source_url": "https://jobs.ashbyhq.com/amo/c3caa7e5-00c5-4276-a082-b58ad596063c",
       "apply_url": "https://jobs.ashbyhq.com/amo/c3caa7e5-00c5-4276-a082-b58ad596063c/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "ccb01da1-9d92-4920-b1aa-118950945572",
@@ -524,7 +506,7 @@
       "source_url": "https://jobs.ashbyhq.com/amo/ccb01da1-9d92-4920-b1aa-118950945572",
       "apply_url": "https://jobs.ashbyhq.com/amo/ccb01da1-9d92-4920-b1aa-118950945572/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "dac23777-7658-4a85-b9a3-c6a5d61d0187",
@@ -542,7 +524,7 @@
       "source_url": "https://jobs.ashbyhq.com/amo/dac23777-7658-4a85-b9a3-c6a5d61d0187",
       "apply_url": "https://jobs.ashbyhq.com/amo/dac23777-7658-4a85-b9a3-c6a5d61d0187/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "e7161135-bdeb-4c49-a227-d9267cdc0fac",
@@ -560,7 +542,7 @@
       "source_url": "https://jobs.ashbyhq.com/amo/e7161135-bdeb-4c49-a227-d9267cdc0fac",
       "apply_url": "https://jobs.ashbyhq.com/amo/e7161135-bdeb-4c49-a227-d9267cdc0fac/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "e7ce5b1a-a3d8-449f-8c75-b61f44e84c90",
@@ -578,25 +560,7 @@
       "source_url": "https://jobs.ashbyhq.com/amo/e7ce5b1a-a3d8-449f-8c75-b61f44e84c90",
       "apply_url": "https://jobs.ashbyhq.com/amo/e7ce5b1a-a3d8-449f-8c75-b61f44e84c90/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
-    },
-    {
-      "id": "e82d54a5-e6cb-4fb5-b3e7-fa08f80ce8ae",
-      "title": "Indonesian Content Specialist",
-      "company": "amo",
-      "location": "Paris",
-      "remote": "onsite",
-      "department": "Distribution",
-      "employment_type": "FULL_TIME",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-10-26",
-      "updated": "",
-      "deadline": "",
-      "source_url": "https://jobs.ashbyhq.com/amo/e82d54a5-e6cb-4fb5-b3e7-fa08f80ce8ae",
-      "apply_url": "https://jobs.ashbyhq.com/amo/e82d54a5-e6cb-4fb5-b3e7-fa08f80ce8ae/application",
-      "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "e9ad99ca-63ba-474c-b273-4aaa50a225d7",
@@ -614,7 +578,7 @@
       "source_url": "https://jobs.ashbyhq.com/amo/e9ad99ca-63ba-474c-b273-4aaa50a225d7",
       "apply_url": "https://jobs.ashbyhq.com/amo/e9ad99ca-63ba-474c-b273-4aaa50a225d7/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     }
   ],
   "ats": "ashby",

@@ -1,8 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-17T15:56:57Z",
+  "checked_at": "2026-11-18T15:36:26Z",
   "failed_at": null,
-  "etag": "W/\"job-board:c2117addd137d000ebcd6afe27cc40b0fe1a37d7eab2336b5cb8e4769f648711\"",
+  "etag": "W/\"job-board:0a9ec0d19217040cd53b0f38b13e937cc2a04b5d85a58134488b9b8c812318e0\"",
   "jobs": [
     {
       "id": "00b731f2-7d17-46ca-82e1-7b31f8441162",
@@ -20,7 +20,7 @@
       "source_url": "https://jobs.ashbyhq.com/Away/00b731f2-7d17-46ca-82e1-7b31f8441162",
       "apply_url": "https://jobs.ashbyhq.com/Away/00b731f2-7d17-46ca-82e1-7b31f8441162/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "0b02e424-ffeb-4dc5-9020-72f495396965",
@@ -38,7 +38,7 @@
       "source_url": "https://jobs.ashbyhq.com/Away/0b02e424-ffeb-4dc5-9020-72f495396965",
       "apply_url": "https://jobs.ashbyhq.com/Away/0b02e424-ffeb-4dc5-9020-72f495396965/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "1cff8cf3-395d-420f-b818-8c783eea3981",
@@ -56,7 +56,7 @@
       "source_url": "https://jobs.ashbyhq.com/Away/1cff8cf3-395d-420f-b818-8c783eea3981",
       "apply_url": "https://jobs.ashbyhq.com/Away/1cff8cf3-395d-420f-b818-8c783eea3981/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "1e21af8d-f92a-4c01-9608-25473be55af6",
@@ -74,43 +74,7 @@
       "source_url": "https://jobs.ashbyhq.com/Away/1e21af8d-f92a-4c01-9608-25473be55af6",
       "apply_url": "https://jobs.ashbyhq.com/Away/1e21af8d-f92a-4c01-9608-25473be55af6/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
-    },
-    {
-      "id": "2147bc7a-b081-44c6-a90c-d9dd2d923b36",
-      "title": "Keyholder, Northpark",
-      "company": "Away",
-      "location": "Dallas: NorthPark",
-      "remote": "onsite",
-      "department": "Retail Operations",
-      "employment_type": "FULL_TIME",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-10-01",
-      "updated": "",
-      "deadline": "",
-      "source_url": "https://jobs.ashbyhq.com/Away/2147bc7a-b081-44c6-a90c-d9dd2d923b36",
-      "apply_url": "https://jobs.ashbyhq.com/Away/2147bc7a-b081-44c6-a90c-d9dd2d923b36/application",
-      "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
-    },
-    {
-      "id": "21e21718-7621-460a-98b2-bc2a51cfe1f2",
-      "title": "Sales Associate, Domain Northside (Full-Time)",
-      "company": "Away",
-      "location": "Austin: Domain Northside",
-      "remote": "onsite",
-      "department": "Retail Operations",
-      "employment_type": "FULL_TIME",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-10-23",
-      "updated": "",
-      "deadline": "",
-      "source_url": "https://jobs.ashbyhq.com/Away/21e21718-7621-460a-98b2-bc2a51cfe1f2",
-      "apply_url": "https://jobs.ashbyhq.com/Away/21e21718-7621-460a-98b2-bc2a51cfe1f2/application",
-      "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "28e55a21-83ab-4bfb-b94b-ac03535392a8",
@@ -128,7 +92,7 @@
       "source_url": "https://jobs.ashbyhq.com/Away/28e55a21-83ab-4bfb-b94b-ac03535392a8",
       "apply_url": "https://jobs.ashbyhq.com/Away/28e55a21-83ab-4bfb-b94b-ac03535392a8/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "3222ca43-f4c2-4ea7-a4f0-7e1cfdf82145",
@@ -146,7 +110,7 @@
       "source_url": "https://jobs.ashbyhq.com/Away/3222ca43-f4c2-4ea7-a4f0-7e1cfdf82145",
       "apply_url": "https://jobs.ashbyhq.com/Away/3222ca43-f4c2-4ea7-a4f0-7e1cfdf82145/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "35e66b86-a446-4f9b-bb6d-a6477603c1f5",
@@ -164,25 +128,7 @@
       "source_url": "https://jobs.ashbyhq.com/Away/35e66b86-a446-4f9b-bb6d-a6477603c1f5",
       "apply_url": "https://jobs.ashbyhq.com/Away/35e66b86-a446-4f9b-bb6d-a6477603c1f5/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
-    },
-    {
-      "id": "3db3b83a-982a-4302-8c57-211a1717bb83",
-      "title": "Seasonal Sales Associate, Domain Northside (Part-Time)",
-      "company": "Away",
-      "location": "Austin: Domain Northside",
-      "remote": "onsite",
-      "department": "Retail Operations",
-      "employment_type": "PART_TIME",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-09-15",
-      "updated": "",
-      "deadline": "",
-      "source_url": "https://jobs.ashbyhq.com/Away/3db3b83a-982a-4302-8c57-211a1717bb83",
-      "apply_url": "https://jobs.ashbyhq.com/Away/3db3b83a-982a-4302-8c57-211a1717bb83/application",
-      "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "441140c4-ceb6-4998-a27a-a288ef8792ec",
@@ -200,7 +146,7 @@
       "source_url": "https://jobs.ashbyhq.com/Away/441140c4-ceb6-4998-a27a-a288ef8792ec",
       "apply_url": "https://jobs.ashbyhq.com/Away/441140c4-ceb6-4998-a27a-a288ef8792ec/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "44d27755-b0e4-4820-be3e-609640727c2d",
@@ -218,7 +164,7 @@
       "source_url": "https://jobs.ashbyhq.com/Away/44d27755-b0e4-4820-be3e-609640727c2d",
       "apply_url": "https://jobs.ashbyhq.com/Away/44d27755-b0e4-4820-be3e-609640727c2d/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4606241f-d9f4-4059-a76e-6c10f2359bf6",
@@ -236,7 +182,7 @@
       "source_url": "https://jobs.ashbyhq.com/Away/4606241f-d9f4-4059-a76e-6c10f2359bf6",
       "apply_url": "https://jobs.ashbyhq.com/Away/4606241f-d9f4-4059-a76e-6c10f2359bf6/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4db8cc00-a880-4efa-ae55-cf2036bd9948",
@@ -254,7 +200,7 @@
       "source_url": "https://jobs.ashbyhq.com/Away/4db8cc00-a880-4efa-ae55-cf2036bd9948",
       "apply_url": "https://jobs.ashbyhq.com/Away/4db8cc00-a880-4efa-ae55-cf2036bd9948/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "587fce6e-2136-4ce4-99bf-441d612a1046",
@@ -272,7 +218,7 @@
       "source_url": "https://jobs.ashbyhq.com/Away/587fce6e-2136-4ce4-99bf-441d612a1046",
       "apply_url": "https://jobs.ashbyhq.com/Away/587fce6e-2136-4ce4-99bf-441d612a1046/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "592e6ca0-c98a-4a54-b128-bbcb028ca7b7",
@@ -290,7 +236,7 @@
       "source_url": "https://jobs.ashbyhq.com/Away/592e6ca0-c98a-4a54-b128-bbcb028ca7b7",
       "apply_url": "https://jobs.ashbyhq.com/Away/592e6ca0-c98a-4a54-b128-bbcb028ca7b7/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "5a7960f7-b39f-44e7-a818-3553bbb4d978",
@@ -308,7 +254,7 @@
       "source_url": "https://jobs.ashbyhq.com/Away/5a7960f7-b39f-44e7-a818-3553bbb4d978",
       "apply_url": "https://jobs.ashbyhq.com/Away/5a7960f7-b39f-44e7-a818-3553bbb4d978/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "64651788-d517-4841-a89a-ad3e8ae6963d",
@@ -326,7 +272,7 @@
       "source_url": "https://jobs.ashbyhq.com/Away/64651788-d517-4841-a89a-ad3e8ae6963d",
       "apply_url": "https://jobs.ashbyhq.com/Away/64651788-d517-4841-a89a-ad3e8ae6963d/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "71375e22-8f24-4671-aeda-d22b2db6b14c",
@@ -344,7 +290,7 @@
       "source_url": "https://jobs.ashbyhq.com/Away/71375e22-8f24-4671-aeda-d22b2db6b14c",
       "apply_url": "https://jobs.ashbyhq.com/Away/71375e22-8f24-4671-aeda-d22b2db6b14c/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "789b8fd5-2bf1-47f7-a63e-c8fecea0afcb",
@@ -362,7 +308,7 @@
       "source_url": "https://jobs.ashbyhq.com/Away/789b8fd5-2bf1-47f7-a63e-c8fecea0afcb",
       "apply_url": "https://jobs.ashbyhq.com/Away/789b8fd5-2bf1-47f7-a63e-c8fecea0afcb/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "85e7d742-8639-4c97-8375-3895490b1ad3",
@@ -380,25 +326,7 @@
       "source_url": "https://jobs.ashbyhq.com/Away/85e7d742-8639-4c97-8375-3895490b1ad3",
       "apply_url": "https://jobs.ashbyhq.com/Away/85e7d742-8639-4c97-8375-3895490b1ad3/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
-    },
-    {
-      "id": "8ac30c6c-f437-4b70-8054-bb358647506a",
-      "title": "Allocation Manager",
-      "company": "Away",
-      "location": "NYC: Soho HQ",
-      "remote": "hybrid",
-      "department": "Merch & Product Strategy",
-      "employment_type": "FULL_TIME",
-      "salary_text": "$112K - $120K",
-      "salary_source": "ashby",
-      "posted": "2026-10-05",
-      "updated": "",
-      "deadline": "",
-      "source_url": "https://jobs.ashbyhq.com/Away/8ac30c6c-f437-4b70-8054-bb358647506a",
-      "apply_url": "https://jobs.ashbyhq.com/Away/8ac30c6c-f437-4b70-8054-bb358647506a/application",
-      "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8da70ae5-3715-4967-9402-2504cd5647f3",
@@ -416,7 +344,7 @@
       "source_url": "https://jobs.ashbyhq.com/Away/8da70ae5-3715-4967-9402-2504cd5647f3",
       "apply_url": "https://jobs.ashbyhq.com/Away/8da70ae5-3715-4967-9402-2504cd5647f3/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "936d0360-44df-468d-a8e4-2afcac08a7e7",
@@ -434,7 +362,7 @@
       "source_url": "https://jobs.ashbyhq.com/Away/936d0360-44df-468d-a8e4-2afcac08a7e7",
       "apply_url": "https://jobs.ashbyhq.com/Away/936d0360-44df-468d-a8e4-2afcac08a7e7/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "9d3b9c41-c4eb-481f-9cce-ac0c6a05e1d9",
@@ -452,7 +380,7 @@
       "source_url": "https://jobs.ashbyhq.com/Away/9d3b9c41-c4eb-481f-9cce-ac0c6a05e1d9",
       "apply_url": "https://jobs.ashbyhq.com/Away/9d3b9c41-c4eb-481f-9cce-ac0c6a05e1d9/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "a61477cc-2c01-414a-922f-03dadd316677",
@@ -470,7 +398,7 @@
       "source_url": "https://jobs.ashbyhq.com/Away/a61477cc-2c01-414a-922f-03dadd316677",
       "apply_url": "https://jobs.ashbyhq.com/Away/a61477cc-2c01-414a-922f-03dadd316677/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "ddb04a1e-d943-4cd9-a673-43a1af024883",
@@ -488,7 +416,7 @@
       "source_url": "https://jobs.ashbyhq.com/Away/ddb04a1e-d943-4cd9-a673-43a1af024883",
       "apply_url": "https://jobs.ashbyhq.com/Away/ddb04a1e-d943-4cd9-a673-43a1af024883/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "de043377-e346-46ba-ab8b-212a15106bf3",
@@ -506,7 +434,7 @@
       "source_url": "https://jobs.ashbyhq.com/Away/de043377-e346-46ba-ab8b-212a15106bf3",
       "apply_url": "https://jobs.ashbyhq.com/Away/de043377-e346-46ba-ab8b-212a15106bf3/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "e12f950c-b226-4d67-b427-b3746ca718ef",
@@ -524,7 +452,7 @@
       "source_url": "https://jobs.ashbyhq.com/Away/e12f950c-b226-4d67-b427-b3746ca718ef",
       "apply_url": "https://jobs.ashbyhq.com/Away/e12f950c-b226-4d67-b427-b3746ca718ef/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "e1c844df-4c20-444c-8a96-ac55fa8906d7",
@@ -542,7 +470,7 @@
       "source_url": "https://jobs.ashbyhq.com/Away/e1c844df-4c20-444c-8a96-ac55fa8906d7",
       "apply_url": "https://jobs.ashbyhq.com/Away/e1c844df-4c20-444c-8a96-ac55fa8906d7/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "f3ef5ae9-dfa2-43c7-86d1-913ff0f45280",
@@ -560,7 +488,7 @@
       "source_url": "https://jobs.ashbyhq.com/Away/f3ef5ae9-dfa2-43c7-86d1-913ff0f45280",
       "apply_url": "https://jobs.ashbyhq.com/Away/f3ef5ae9-dfa2-43c7-86d1-913ff0f45280/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "f6656815-f67a-4b89-a18a-3ab695bb0de5",
@@ -578,7 +506,7 @@
       "source_url": "https://jobs.ashbyhq.com/Away/f6656815-f67a-4b89-a18a-3ab695bb0de5",
       "apply_url": "https://jobs.ashbyhq.com/Away/f6656815-f67a-4b89-a18a-3ab695bb0de5/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     }
   ],
   "ats": "ashby",

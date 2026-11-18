@@ -1,8 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-17T15:56:57Z",
+  "checked_at": "2026-11-18T15:36:26Z",
   "failed_at": null,
-  "etag": "W/\"5123-yuBOneO1PCyD5Asl/oWKdQ\"",
+  "etag": "W/\"3e5b-nUkxfCwHN3gEVZmBuYFMTQ\"",
   "jobs": [
     {
       "id": "03efcfdc-2f6f-4f3c-95f6-ea4e0f017a04",
@@ -20,7 +20,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/kingnet/2247#/job/03efcfdc-2f6f-4f3c-95f6-ea4e0f017a04",
       "apply_url": "https://app.mokahr.com/apply/kingnet/2247#/job/03efcfdc-2f6f-4f3c-95f6-ea4e0f017a04/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "1def0b55-21d2-4b97-a299-993ef7020847",
@@ -38,25 +38,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/kingnet/2247#/job/1def0b55-21d2-4b97-a299-993ef7020847",
       "apply_url": "https://app.mokahr.com/apply/kingnet/2247#/job/1def0b55-21d2-4b97-a299-993ef7020847/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
-    },
-    {
-      "id": "31b23d25-b190-441b-b3a5-0c7604a39c50",
-      "title": "数值策划（中/高级）",
-      "company": "恺英网络",
-      "location": "广州市, 广东, 中国",
-      "remote": "unspecified",
-      "department": "GZ研发&发行中心",
-      "employment_type": "FULL_TIME",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-10-30",
-      "updated": "2026-10-30",
-      "deadline": "",
-      "source_url": "https://app.mokahr.com/social-recruitment/kingnet/2247#/job/31b23d25-b190-441b-b3a5-0c7604a39c50",
-      "apply_url": "https://app.mokahr.com/apply/kingnet/2247#/job/31b23d25-b190-441b-b3a5-0c7604a39c50/apply?pure=1",
-      "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "33814ee9-afa7-413e-8e43-fa0ee4671742",
@@ -74,7 +56,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/kingnet/2247#/job/33814ee9-afa7-413e-8e43-fa0ee4671742",
       "apply_url": "https://app.mokahr.com/apply/kingnet/2247#/job/33814ee9-afa7-413e-8e43-fa0ee4671742/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "3610d9b0-5ecb-4ba6-a835-8ec6bcb890a8",
@@ -92,7 +74,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/kingnet/2247#/job/3610d9b0-5ecb-4ba6-a835-8ec6bcb890a8",
       "apply_url": "https://app.mokahr.com/apply/kingnet/2247#/job/3610d9b0-5ecb-4ba6-a835-8ec6bcb890a8/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "5553c486-cb9d-4a01-b6db-b7080e355cb1",
@@ -110,25 +92,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/kingnet/2247#/job/5553c486-cb9d-4a01-b6db-b7080e355cb1",
       "apply_url": "https://app.mokahr.com/apply/kingnet/2247#/job/5553c486-cb9d-4a01-b6db-b7080e355cb1/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
-    },
-    {
-      "id": "5e39ff06-c07b-4153-8749-7ae0a9b423b2",
-      "title": "运维开发工程师",
-      "company": "恺英网络",
-      "location": "上海市, 中国",
-      "remote": "unspecified",
-      "department": "运维安全中心",
-      "employment_type": "FULL_TIME",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-10-22",
-      "updated": "2026-10-22",
-      "deadline": "",
-      "source_url": "https://app.mokahr.com/social-recruitment/kingnet/2247#/job/5e39ff06-c07b-4153-8749-7ae0a9b423b2",
-      "apply_url": "https://app.mokahr.com/apply/kingnet/2247#/job/5e39ff06-c07b-4153-8749-7ae0a9b423b2/apply?pure=1",
-      "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "65e8dd23-f7ac-4414-b6a5-ba99fa23662c",
@@ -146,7 +110,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/kingnet/2247#/job/65e8dd23-f7ac-4414-b6a5-ba99fa23662c",
       "apply_url": "https://app.mokahr.com/apply/kingnet/2247#/job/65e8dd23-f7ac-4414-b6a5-ba99fa23662c/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "9b140eb0-021d-4d37-b609-a056cb258780",
@@ -164,7 +128,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/kingnet/2247#/job/9b140eb0-021d-4d37-b609-a056cb258780",
       "apply_url": "https://app.mokahr.com/apply/kingnet/2247#/job/9b140eb0-021d-4d37-b609-a056cb258780/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "9f6837df-f809-47c2-95b2-5838c1cc792d",
@@ -182,7 +146,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/kingnet/2247#/job/9f6837df-f809-47c2-95b2-5838c1cc792d",
       "apply_url": "https://app.mokahr.com/apply/kingnet/2247#/job/9f6837df-f809-47c2-95b2-5838c1cc792d/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     }
   ],
   "ats": "moka",

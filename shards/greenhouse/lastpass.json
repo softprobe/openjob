@@ -1,8 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-17T15:56:57Z",
+  "checked_at": "2026-11-18T15:36:26Z",
   "failed_at": null,
-  "etag": "W/\"37f731d503bb074ef934536c09bbadc3\"",
+  "etag": "W/\"936eaae814fb99c69820c1b30dd0fdf5\"",
   "jobs": [
     {
       "id": "4465515005",
@@ -20,7 +20,7 @@
       "source_url": "https://job-boards.greenhouse.io/lastpass/jobs/4465515005",
       "apply_url": "https://job-boards.greenhouse.io/lastpass/jobs/4465515005",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4692038005",
@@ -38,7 +38,7 @@
       "source_url": "https://job-boards.greenhouse.io/lastpass/jobs/4692038005",
       "apply_url": "https://job-boards.greenhouse.io/lastpass/jobs/4692038005",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4731058005",
@@ -56,7 +56,25 @@
       "source_url": "https://job-boards.greenhouse.io/lastpass/jobs/4731058005",
       "apply_url": "https://job-boards.greenhouse.io/lastpass/jobs/4731058005",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
+    },
+    {
+      "id": "4732058005",
+      "title": "Product Marketing Manager",
+      "company": "LastPass",
+      "location": "Remote - US",
+      "remote": "remote",
+      "department": "",
+      "employment_type": "",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-09-16",
+      "updated": "2026-11-18",
+      "deadline": "",
+      "source_url": "https://job-boards.greenhouse.io/lastpass/jobs/4732058005",
+      "apply_url": "https://job-boards.greenhouse.io/lastpass/jobs/4732058005",
+      "first_seen": "2026-11-18T15:36:26Z",
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4742379005",
@@ -74,7 +92,7 @@
       "source_url": "https://job-boards.greenhouse.io/lastpass/jobs/4742379005",
       "apply_url": "https://job-boards.greenhouse.io/lastpass/jobs/4742379005",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4744514005",
@@ -92,7 +110,7 @@
       "source_url": "https://job-boards.greenhouse.io/lastpass/jobs/4744514005",
       "apply_url": "https://job-boards.greenhouse.io/lastpass/jobs/4744514005",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4750314005",
@@ -110,7 +128,25 @@
       "source_url": "https://job-boards.greenhouse.io/lastpass/jobs/4750314005",
       "apply_url": "https://job-boards.greenhouse.io/lastpass/jobs/4750314005",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
+    },
+    {
+      "id": "4751164005",
+      "title": "Product Marketing Manager",
+      "company": "LastPass",
+      "location": "Remote - Canada",
+      "remote": "remote",
+      "department": "",
+      "employment_type": "",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-04",
+      "updated": "2026-11-18",
+      "deadline": "",
+      "source_url": "https://job-boards.greenhouse.io/lastpass/jobs/4751164005",
+      "apply_url": "https://job-boards.greenhouse.io/lastpass/jobs/4751164005",
+      "first_seen": "2026-11-18T15:36:26Z",
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4752611005",
@@ -128,7 +164,7 @@
       "source_url": "https://job-boards.greenhouse.io/lastpass/jobs/4752611005",
       "apply_url": "https://job-boards.greenhouse.io/lastpass/jobs/4752611005",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4753357005",
@@ -146,7 +182,7 @@
       "source_url": "https://job-boards.greenhouse.io/lastpass/jobs/4753357005",
       "apply_url": "https://job-boards.greenhouse.io/lastpass/jobs/4753357005",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     }
   ],
   "ats": "greenhouse",

@@ -1,8 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-17T15:56:57Z",
+  "checked_at": "2026-11-18T15:36:26Z",
   "failed_at": null,
-  "etag": "W/\"df83b-CBN/aF94XCIp+Ob/JtJwWkFiq3M\"",
+  "etag": "W/\"db881-eLbWrbRDmcA6akpdVhWJYSXu2D0\"",
   "jobs": [
     {
       "id": "0506ae75-69a6-47ea-b452-3bf3a1ff623f",
@@ -20,7 +20,7 @@
       "source_url": "https://jobs.lever.co/bluebottlecoffee/0506ae75-69a6-47ea-b452-3bf3a1ff623f",
       "apply_url": "https://jobs.lever.co/bluebottlecoffee/0506ae75-69a6-47ea-b452-3bf3a1ff623f/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "08806955-665e-4979-96ff-063c6785e785",
@@ -38,7 +38,7 @@
       "source_url": "https://jobs.lever.co/bluebottlecoffee/08806955-665e-4979-96ff-063c6785e785",
       "apply_url": "https://jobs.lever.co/bluebottlecoffee/08806955-665e-4979-96ff-063c6785e785/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "095575aa-928a-410e-a92f-6c2307652b0e",
@@ -56,7 +56,7 @@
       "source_url": "https://jobs.lever.co/bluebottlecoffee/095575aa-928a-410e-a92f-6c2307652b0e",
       "apply_url": "https://jobs.lever.co/bluebottlecoffee/095575aa-928a-410e-a92f-6c2307652b0e/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "0c4c22da-5c45-4c6f-9573-c61990862dd7",
@@ -74,7 +74,25 @@
       "source_url": "https://jobs.lever.co/bluebottlecoffee/0c4c22da-5c45-4c6f-9573-c61990862dd7",
       "apply_url": "https://jobs.lever.co/bluebottlecoffee/0c4c22da-5c45-4c6f-9573-c61990862dd7/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
+    },
+    {
+      "id": "17a834af-1f16-43ad-bc42-5585f621ad9f",
+      "title": "Hong Kong Market Director",
+      "company": "Blue Bottle Coffee",
+      "location": "Hong Kong",
+      "remote": "onsite",
+      "department": "Hong Kong",
+      "employment_type": "FULL_TIME",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-18",
+      "updated": "",
+      "deadline": "",
+      "source_url": "https://jobs.lever.co/bluebottlecoffee/17a834af-1f16-43ad-bc42-5585f621ad9f",
+      "apply_url": "https://jobs.lever.co/bluebottlecoffee/17a834af-1f16-43ad-bc42-5585f621ad9f/apply",
+      "first_seen": "2026-11-18T15:36:26Z",
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "18dfed8e-8812-442c-a86c-da2650d386dc",
@@ -92,7 +110,7 @@
       "source_url": "https://jobs.lever.co/bluebottlecoffee/18dfed8e-8812-442c-a86c-da2650d386dc",
       "apply_url": "https://jobs.lever.co/bluebottlecoffee/18dfed8e-8812-442c-a86c-da2650d386dc/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "1a30cbcf-8e81-44db-a01a-5702fb260c29",
@@ -110,7 +128,7 @@
       "source_url": "https://jobs.lever.co/bluebottlecoffee/1a30cbcf-8e81-44db-a01a-5702fb260c29",
       "apply_url": "https://jobs.lever.co/bluebottlecoffee/1a30cbcf-8e81-44db-a01a-5702fb260c29/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "1d9a5ea7-66bd-44c0-b402-9b90f650b655",
@@ -128,7 +146,7 @@
       "source_url": "https://jobs.lever.co/bluebottlecoffee/1d9a5ea7-66bd-44c0-b402-9b90f650b655",
       "apply_url": "https://jobs.lever.co/bluebottlecoffee/1d9a5ea7-66bd-44c0-b402-9b90f650b655/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "24ad172f-28e8-43ab-9ba6-4ed8f4f82acc",
@@ -146,7 +164,25 @@
       "source_url": "https://jobs.lever.co/bluebottlecoffee/24ad172f-28e8-43ab-9ba6-4ed8f4f82acc",
       "apply_url": "https://jobs.lever.co/bluebottlecoffee/24ad172f-28e8-43ab-9ba6-4ed8f4f82acc/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
+    },
+    {
+      "id": "258595c4-1ce5-4605-9502-906eecefe5b6",
+      "title": "Barista - 성수 Seongsu (25h)",
+      "company": "Blue Bottle Coffee",
+      "location": "Korea",
+      "remote": "onsite",
+      "department": "South Korea",
+      "employment_type": "PART_TIME",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-18",
+      "updated": "",
+      "deadline": "",
+      "source_url": "https://jobs.lever.co/bluebottlecoffee/258595c4-1ce5-4605-9502-906eecefe5b6",
+      "apply_url": "https://jobs.lever.co/bluebottlecoffee/258595c4-1ce5-4605-9502-906eecefe5b6/apply",
+      "first_seen": "2026-11-18T15:36:26Z",
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "26f2d89b-2ae0-43d9-a776-9b6f769cf51a",
@@ -164,7 +200,7 @@
       "source_url": "https://jobs.lever.co/bluebottlecoffee/26f2d89b-2ae0-43d9-a776-9b6f769cf51a",
       "apply_url": "https://jobs.lever.co/bluebottlecoffee/26f2d89b-2ae0-43d9-a776-9b6f769cf51a/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "282df89e-5f6f-4d01-ba53-76bf0bf0e9b0",
@@ -182,7 +218,7 @@
       "source_url": "https://jobs.lever.co/bluebottlecoffee/282df89e-5f6f-4d01-ba53-76bf0bf0e9b0",
       "apply_url": "https://jobs.lever.co/bluebottlecoffee/282df89e-5f6f-4d01-ba53-76bf0bf0e9b0/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "2ecb98e0-6dab-4291-9acb-c1a663c4bbb1",
@@ -200,25 +236,7 @@
       "source_url": "https://jobs.lever.co/bluebottlecoffee/2ecb98e0-6dab-4291-9acb-c1a663c4bbb1",
       "apply_url": "https://jobs.lever.co/bluebottlecoffee/2ecb98e0-6dab-4291-9acb-c1a663c4bbb1/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
-    },
-    {
-      "id": "2f4e413d-352e-46a0-aafe-548c38ee97d6",
-      "title": "GTM(Go-To-Market) Manager - Korea",
-      "company": "Blue Bottle Coffee",
-      "location": "Korea",
-      "remote": "onsite",
-      "department": "South Korea",
-      "employment_type": "FULL_TIME",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-09-17",
-      "updated": "",
-      "deadline": "",
-      "source_url": "https://jobs.lever.co/bluebottlecoffee/2f4e413d-352e-46a0-aafe-548c38ee97d6",
-      "apply_url": "https://jobs.lever.co/bluebottlecoffee/2f4e413d-352e-46a0-aafe-548c38ee97d6/apply",
-      "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "3172dc71-d565-4be1-be2a-3586a50dca5b",
@@ -236,7 +254,7 @@
       "source_url": "https://jobs.lever.co/bluebottlecoffee/3172dc71-d565-4be1-be2a-3586a50dca5b",
       "apply_url": "https://jobs.lever.co/bluebottlecoffee/3172dc71-d565-4be1-be2a-3586a50dca5b/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "31ebd0fc-14bb-4a7d-b855-7dc3ce1ac41a",
@@ -254,7 +272,7 @@
       "source_url": "https://jobs.lever.co/bluebottlecoffee/31ebd0fc-14bb-4a7d-b855-7dc3ce1ac41a",
       "apply_url": "https://jobs.lever.co/bluebottlecoffee/31ebd0fc-14bb-4a7d-b855-7dc3ce1ac41a/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "339a14a9-ac33-4443-93c9-d06c225ef523",
@@ -272,7 +290,7 @@
       "source_url": "https://jobs.lever.co/bluebottlecoffee/339a14a9-ac33-4443-93c9-d06c225ef523",
       "apply_url": "https://jobs.lever.co/bluebottlecoffee/339a14a9-ac33-4443-93c9-d06c225ef523/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "367c9e5b-e7f9-430f-a017-5888bb49d192",
@@ -290,7 +308,7 @@
       "source_url": "https://jobs.lever.co/bluebottlecoffee/367c9e5b-e7f9-430f-a017-5888bb49d192",
       "apply_url": "https://jobs.lever.co/bluebottlecoffee/367c9e5b-e7f9-430f-a017-5888bb49d192/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "41cedaa0-5b23-4d9f-a72d-ba98a6546528",
@@ -308,7 +326,25 @@
       "source_url": "https://jobs.lever.co/bluebottlecoffee/41cedaa0-5b23-4d9f-a72d-ba98a6546528",
       "apply_url": "https://jobs.lever.co/bluebottlecoffee/41cedaa0-5b23-4d9f-a72d-ba98a6546528/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
+    },
+    {
+      "id": "42d309c9-ecb6-4b5f-9707-b2616ed1b9c4",
+      "title": "Barista - CAFE REOPENING - University Place",
+      "company": "Blue Bottle Coffee",
+      "location": "New York, NY",
+      "remote": "onsite",
+      "department": "Barista",
+      "employment_type": "PART_TIME",
+      "salary_text": "18.25-18.25 USD / per-hour-wage",
+      "salary_source": "lever",
+      "posted": "2026-11-18",
+      "updated": "",
+      "deadline": "",
+      "source_url": "https://jobs.lever.co/bluebottlecoffee/42d309c9-ecb6-4b5f-9707-b2616ed1b9c4",
+      "apply_url": "https://jobs.lever.co/bluebottlecoffee/42d309c9-ecb6-4b5f-9707-b2616ed1b9c4/apply",
+      "first_seen": "2026-11-18T15:36:26Z",
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "45b7db14-647a-472f-8486-696f0287586a",
@@ -326,7 +362,7 @@
       "source_url": "https://jobs.lever.co/bluebottlecoffee/45b7db14-647a-472f-8486-696f0287586a",
       "apply_url": "https://jobs.lever.co/bluebottlecoffee/45b7db14-647a-472f-8486-696f0287586a/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "48d0de3e-bc7d-46c0-8e6e-313cf2c43512",
@@ -344,7 +380,7 @@
       "source_url": "https://jobs.lever.co/bluebottlecoffee/48d0de3e-bc7d-46c0-8e6e-313cf2c43512",
       "apply_url": "https://jobs.lever.co/bluebottlecoffee/48d0de3e-bc7d-46c0-8e6e-313cf2c43512/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "49c6def1-4da3-4dce-a3bd-0d6697f07fc9",
@@ -362,7 +398,25 @@
       "source_url": "https://jobs.lever.co/bluebottlecoffee/49c6def1-4da3-4dce-a3bd-0d6697f07fc9",
       "apply_url": "https://jobs.lever.co/bluebottlecoffee/49c6def1-4da3-4dce-a3bd-0d6697f07fc9/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
+    },
+    {
+      "id": "4c62ea5a-670d-4132-b826-cce5fc2aa828",
+      "title": "Shift Supervisor - CAFE REOPENING - University Place",
+      "company": "Blue Bottle Coffee",
+      "location": "New York, NY",
+      "remote": "onsite",
+      "department": "Shift Supervisor",
+      "employment_type": "FULL_TIME",
+      "salary_text": "19.5-19.5 USD / per-hour-wage",
+      "salary_source": "lever",
+      "posted": "2026-11-18",
+      "updated": "",
+      "deadline": "",
+      "source_url": "https://jobs.lever.co/bluebottlecoffee/4c62ea5a-670d-4132-b826-cce5fc2aa828",
+      "apply_url": "https://jobs.lever.co/bluebottlecoffee/4c62ea5a-670d-4132-b826-cce5fc2aa828/apply",
+      "first_seen": "2026-11-18T15:36:26Z",
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "56903a93-5d0b-4173-b03c-72213da127be",
@@ -380,7 +434,7 @@
       "source_url": "https://jobs.lever.co/bluebottlecoffee/56903a93-5d0b-4173-b03c-72213da127be",
       "apply_url": "https://jobs.lever.co/bluebottlecoffee/56903a93-5d0b-4173-b03c-72213da127be/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "625250f2-d1e1-4490-a863-6365bafdec5f",
@@ -398,7 +452,7 @@
       "source_url": "https://jobs.lever.co/bluebottlecoffee/625250f2-d1e1-4490-a863-6365bafdec5f",
       "apply_url": "https://jobs.lever.co/bluebottlecoffee/625250f2-d1e1-4490-a863-6365bafdec5f/apply",
       "first_seen": "2026-11-17T15:56:57Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "69238028-cbde-406c-8438-a089a4084fe4",
@@ -416,7 +470,7 @@
       "source_url": "https://jobs.lever.co/bluebottlecoffee/69238028-cbde-406c-8438-a089a4084fe4",
       "apply_url": "https://jobs.lever.co/bluebottlecoffee/69238028-cbde-406c-8438-a089a4084fe4/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "69ab43a7-a90d-4be8-8cf6-735b7f1fe599",
@@ -434,7 +488,7 @@
       "source_url": "https://jobs.lever.co/bluebottlecoffee/69ab43a7-a90d-4be8-8cf6-735b7f1fe599",
       "apply_url": "https://jobs.lever.co/bluebottlecoffee/69ab43a7-a90d-4be8-8cf6-735b7f1fe599/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "6b576494-e1fe-4689-918f-64cfe1f177d9",
@@ -452,7 +506,7 @@
       "source_url": "https://jobs.lever.co/bluebottlecoffee/6b576494-e1fe-4689-918f-64cfe1f177d9",
       "apply_url": "https://jobs.lever.co/bluebottlecoffee/6b576494-e1fe-4689-918f-64cfe1f177d9/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "729ac084-2749-41b0-8989-447203b49a03",
@@ -470,7 +524,7 @@
       "source_url": "https://jobs.lever.co/bluebottlecoffee/729ac084-2749-41b0-8989-447203b49a03",
       "apply_url": "https://jobs.lever.co/bluebottlecoffee/729ac084-2749-41b0-8989-447203b49a03/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "732db970-a98b-48d7-9528-4a185c8f203a",
@@ -488,25 +542,7 @@
       "source_url": "https://jobs.lever.co/bluebottlecoffee/732db970-a98b-48d7-9528-4a185c8f203a",
       "apply_url": "https://jobs.lever.co/bluebottlecoffee/732db970-a98b-48d7-9528-4a185c8f203a/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
-    },
-    {
-      "id": "7a670049-0e4d-465d-b9eb-6196bac2c74e",
-      "title": "Early Morning Barista - Moynihan Train Hall Cafe",
-      "company": "Blue Bottle Coffee",
-      "location": "New York, NY",
-      "remote": "onsite",
-      "department": "Barista",
-      "employment_type": "",
-      "salary_text": "18.25-18.25 USD / per-hour-wage",
-      "salary_source": "lever",
-      "posted": "2026-05-29",
-      "updated": "",
-      "deadline": "",
-      "source_url": "https://jobs.lever.co/bluebottlecoffee/7a670049-0e4d-465d-b9eb-6196bac2c74e",
-      "apply_url": "https://jobs.lever.co/bluebottlecoffee/7a670049-0e4d-465d-b9eb-6196bac2c74e/apply",
-      "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "7da926d6-a0cd-400f-96de-bbc31fe9e6fb",
@@ -524,7 +560,7 @@
       "source_url": "https://jobs.lever.co/bluebottlecoffee/7da926d6-a0cd-400f-96de-bbc31fe9e6fb",
       "apply_url": "https://jobs.lever.co/bluebottlecoffee/7da926d6-a0cd-400f-96de-bbc31fe9e6fb/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "878db010-465a-4e6f-b23d-2c2e9516edc4",
@@ -542,7 +578,7 @@
       "source_url": "https://jobs.lever.co/bluebottlecoffee/878db010-465a-4e6f-b23d-2c2e9516edc4",
       "apply_url": "https://jobs.lever.co/bluebottlecoffee/878db010-465a-4e6f-b23d-2c2e9516edc4/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8a386346-7da9-4172-b1d6-aa9e6bd3cbd5",
@@ -560,7 +596,7 @@
       "source_url": "https://jobs.lever.co/bluebottlecoffee/8a386346-7da9-4172-b1d6-aa9e6bd3cbd5",
       "apply_url": "https://jobs.lever.co/bluebottlecoffee/8a386346-7da9-4172-b1d6-aa9e6bd3cbd5/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8d6a7a6c-69c2-4975-9dc3-ef478d2b1e4a",
@@ -578,7 +614,7 @@
       "source_url": "https://jobs.lever.co/bluebottlecoffee/8d6a7a6c-69c2-4975-9dc3-ef478d2b1e4a",
       "apply_url": "https://jobs.lever.co/bluebottlecoffee/8d6a7a6c-69c2-4975-9dc3-ef478d2b1e4a/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "8f6cb7c7-c32c-4900-978a-0026c66472aa",
@@ -596,25 +632,7 @@
       "source_url": "https://jobs.lever.co/bluebottlecoffee/8f6cb7c7-c32c-4900-978a-0026c66472aa",
       "apply_url": "https://jobs.lever.co/bluebottlecoffee/8f6cb7c7-c32c-4900-978a-0026c66472aa/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
-    },
-    {
-      "id": "96c24ffc-bd18-4a33-9d6e-f04508424dc6",
-      "title": "北砂キッチン（製菓・調理補助） - 週30時間",
-      "company": "Blue Bottle Coffee",
-      "location": "Tokyo, Japan",
-      "remote": "onsite",
-      "department": "Japan",
-      "employment_type": "PART_TIME",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2025-07-10",
-      "updated": "",
-      "deadline": "",
-      "source_url": "https://jobs.lever.co/bluebottlecoffee/96c24ffc-bd18-4a33-9d6e-f04508424dc6",
-      "apply_url": "https://jobs.lever.co/bluebottlecoffee/96c24ffc-bd18-4a33-9d6e-f04508424dc6/apply",
-      "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "9c397d82-1326-4a96-8333-520cac0dfa6c",
@@ -632,7 +650,7 @@
       "source_url": "https://jobs.lever.co/bluebottlecoffee/9c397d82-1326-4a96-8333-520cac0dfa6c",
       "apply_url": "https://jobs.lever.co/bluebottlecoffee/9c397d82-1326-4a96-8333-520cac0dfa6c/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "9f11c066-69c5-4455-b49e-86887f398777",
@@ -650,7 +668,7 @@
       "source_url": "https://jobs.lever.co/bluebottlecoffee/9f11c066-69c5-4455-b49e-86887f398777",
       "apply_url": "https://jobs.lever.co/bluebottlecoffee/9f11c066-69c5-4455-b49e-86887f398777/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "a07d1368-ee96-447f-8232-f4b944adf4ec",
@@ -668,7 +686,7 @@
       "source_url": "https://jobs.lever.co/bluebottlecoffee/a07d1368-ee96-447f-8232-f4b944adf4ec",
       "apply_url": "https://jobs.lever.co/bluebottlecoffee/a07d1368-ee96-447f-8232-f4b944adf4ec/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "a093ee9d-8f2c-4985-9ae5-72f95c84e102",
@@ -686,7 +704,7 @@
       "source_url": "https://jobs.lever.co/bluebottlecoffee/a093ee9d-8f2c-4985-9ae5-72f95c84e102",
       "apply_url": "https://jobs.lever.co/bluebottlecoffee/a093ee9d-8f2c-4985-9ae5-72f95c84e102/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "a0b5b65a-765d-4eca-b8f9-824c1884a8e6",
@@ -704,7 +722,7 @@
       "source_url": "https://jobs.lever.co/bluebottlecoffee/a0b5b65a-765d-4eca-b8f9-824c1884a8e6",
       "apply_url": "https://jobs.lever.co/bluebottlecoffee/a0b5b65a-765d-4eca-b8f9-824c1884a8e6/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "a15500f4-4724-419e-a765-9354d8ecf8c5",
@@ -722,25 +740,7 @@
       "source_url": "https://jobs.lever.co/bluebottlecoffee/a15500f4-4724-419e-a765-9354d8ecf8c5",
       "apply_url": "https://jobs.lever.co/bluebottlecoffee/a15500f4-4724-419e-a765-9354d8ecf8c5/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
-    },
-    {
-      "id": "a49525d6-217a-4adc-8a7a-e70297a13573",
-      "title": "【短期】京都キッチン（製菓・調理補助） - 週30時間",
-      "company": "Blue Bottle Coffee",
-      "location": "Kyoto",
-      "remote": "onsite",
-      "department": "Japan",
-      "employment_type": "PART_TIME",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-09-08",
-      "updated": "",
-      "deadline": "",
-      "source_url": "https://jobs.lever.co/bluebottlecoffee/a49525d6-217a-4adc-8a7a-e70297a13573",
-      "apply_url": "https://jobs.lever.co/bluebottlecoffee/a49525d6-217a-4adc-8a7a-e70297a13573/apply",
-      "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "a4e76e0b-62d1-4c33-8783-933b121ef4ac",
@@ -758,7 +758,7 @@
       "source_url": "https://jobs.lever.co/bluebottlecoffee/a4e76e0b-62d1-4c33-8783-933b121ef4ac",
       "apply_url": "https://jobs.lever.co/bluebottlecoffee/a4e76e0b-62d1-4c33-8783-933b121ef4ac/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "a6319216-a0db-4abb-856f-448f11956a87",
@@ -776,7 +776,7 @@
       "source_url": "https://jobs.lever.co/bluebottlecoffee/a6319216-a0db-4abb-856f-448f11956a87",
       "apply_url": "https://jobs.lever.co/bluebottlecoffee/a6319216-a0db-4abb-856f-448f11956a87/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "a6bcc5e7-eaa7-422a-94e6-766e383a0d07",
@@ -794,43 +794,7 @@
       "source_url": "https://jobs.lever.co/bluebottlecoffee/a6bcc5e7-eaa7-422a-94e6-766e383a0d07",
       "apply_url": "https://jobs.lever.co/bluebottlecoffee/a6bcc5e7-eaa7-422a-94e6-766e383a0d07/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
-    },
-    {
-      "id": "adcc1afe-a38f-4270-856d-eb9fea538d65",
-      "title": "【短期】北砂キッチン（製菓・調理補助） - 週30時間",
-      "company": "Blue Bottle Coffee",
-      "location": "Tokyo, Japan",
-      "remote": "onsite",
-      "department": "Japan",
-      "employment_type": "PART_TIME",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-09-08",
-      "updated": "",
-      "deadline": "",
-      "source_url": "https://jobs.lever.co/bluebottlecoffee/adcc1afe-a38f-4270-856d-eb9fea538d65",
-      "apply_url": "https://jobs.lever.co/bluebottlecoffee/adcc1afe-a38f-4270-856d-eb9fea538d65/apply",
-      "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
-    },
-    {
-      "id": "b156f7bf-804f-4742-8c3d-6ae811390af4",
-      "title": "調理 / 正社員 (北砂キッチン) (2026)",
-      "company": "Blue Bottle Coffee",
-      "location": "Tokyo, Kyoto",
-      "remote": "onsite",
-      "department": "Japan",
-      "employment_type": "FULL_TIME",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2025-04-19",
-      "updated": "",
-      "deadline": "",
-      "source_url": "https://jobs.lever.co/bluebottlecoffee/b156f7bf-804f-4742-8c3d-6ae811390af4",
-      "apply_url": "https://jobs.lever.co/bluebottlecoffee/b156f7bf-804f-4742-8c3d-6ae811390af4/apply",
-      "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "b1d1f431-bb85-45ed-9118-886cf2a51963",
@@ -848,7 +812,7 @@
       "source_url": "https://jobs.lever.co/bluebottlecoffee/b1d1f431-bb85-45ed-9118-886cf2a51963",
       "apply_url": "https://jobs.lever.co/bluebottlecoffee/b1d1f431-bb85-45ed-9118-886cf2a51963/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "b22f02b6-c458-487c-b4b1-d7b4d2b39c93",
@@ -866,7 +830,7 @@
       "source_url": "https://jobs.lever.co/bluebottlecoffee/b22f02b6-c458-487c-b4b1-d7b4d2b39c93",
       "apply_url": "https://jobs.lever.co/bluebottlecoffee/b22f02b6-c458-487c-b4b1-d7b4d2b39c93/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "b4882c06-d718-438f-8398-0b53a619d8b8",
@@ -884,7 +848,7 @@
       "source_url": "https://jobs.lever.co/bluebottlecoffee/b4882c06-d718-438f-8398-0b53a619d8b8",
       "apply_url": "https://jobs.lever.co/bluebottlecoffee/b4882c06-d718-438f-8398-0b53a619d8b8/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "b64fe9e0-5842-49e2-80b2-23ff064f960e",
@@ -902,7 +866,7 @@
       "source_url": "https://jobs.lever.co/bluebottlecoffee/b64fe9e0-5842-49e2-80b2-23ff064f960e",
       "apply_url": "https://jobs.lever.co/bluebottlecoffee/b64fe9e0-5842-49e2-80b2-23ff064f960e/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "b751d508-4cc2-4be0-98c8-502ba7253f89",
@@ -920,7 +884,7 @@
       "source_url": "https://jobs.lever.co/bluebottlecoffee/b751d508-4cc2-4be0-98c8-502ba7253f89",
       "apply_url": "https://jobs.lever.co/bluebottlecoffee/b751d508-4cc2-4be0-98c8-502ba7253f89/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "b9c1bc9f-4c6d-4df1-a4ba-e3d1a3769ff9",
@@ -938,7 +902,7 @@
       "source_url": "https://jobs.lever.co/bluebottlecoffee/b9c1bc9f-4c6d-4df1-a4ba-e3d1a3769ff9",
       "apply_url": "https://jobs.lever.co/bluebottlecoffee/b9c1bc9f-4c6d-4df1-a4ba-e3d1a3769ff9/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "bd80c8d2-9859-413c-ba64-ed8857b5da56",
@@ -956,7 +920,7 @@
       "source_url": "https://jobs.lever.co/bluebottlecoffee/bd80c8d2-9859-413c-ba64-ed8857b5da56",
       "apply_url": "https://jobs.lever.co/bluebottlecoffee/bd80c8d2-9859-413c-ba64-ed8857b5da56/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "c0012526-9926-4055-a361-7d04623ef89e",
@@ -974,7 +938,7 @@
       "source_url": "https://jobs.lever.co/bluebottlecoffee/c0012526-9926-4055-a361-7d04623ef89e",
       "apply_url": "https://jobs.lever.co/bluebottlecoffee/c0012526-9926-4055-a361-7d04623ef89e/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "c1a57a94-1289-4dab-a59f-08ed1e76c3d8",
@@ -992,7 +956,7 @@
       "source_url": "https://jobs.lever.co/bluebottlecoffee/c1a57a94-1289-4dab-a59f-08ed1e76c3d8",
       "apply_url": "https://jobs.lever.co/bluebottlecoffee/c1a57a94-1289-4dab-a59f-08ed1e76c3d8/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "c3acbe62-d622-4cb8-a47f-244340def2df",
@@ -1010,7 +974,7 @@
       "source_url": "https://jobs.lever.co/bluebottlecoffee/c3acbe62-d622-4cb8-a47f-244340def2df",
       "apply_url": "https://jobs.lever.co/bluebottlecoffee/c3acbe62-d622-4cb8-a47f-244340def2df/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "c466542f-77d3-4ae2-a2e8-67cef969edaa",
@@ -1028,7 +992,7 @@
       "source_url": "https://jobs.lever.co/bluebottlecoffee/c466542f-77d3-4ae2-a2e8-67cef969edaa",
       "apply_url": "https://jobs.lever.co/bluebottlecoffee/c466542f-77d3-4ae2-a2e8-67cef969edaa/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "c5a5e6a4-d290-4b68-8ab4-294307477929",
@@ -1046,7 +1010,7 @@
       "source_url": "https://jobs.lever.co/bluebottlecoffee/c5a5e6a4-d290-4b68-8ab4-294307477929",
       "apply_url": "https://jobs.lever.co/bluebottlecoffee/c5a5e6a4-d290-4b68-8ab4-294307477929/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "c7cffbb9-b736-4f9a-92a5-a1d4ecb1b100",
@@ -1064,7 +1028,7 @@
       "source_url": "https://jobs.lever.co/bluebottlecoffee/c7cffbb9-b736-4f9a-92a5-a1d4ecb1b100",
       "apply_url": "https://jobs.lever.co/bluebottlecoffee/c7cffbb9-b736-4f9a-92a5-a1d4ecb1b100/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "ca106a86-605f-4910-aef3-6cb4e082fbc0",
@@ -1082,7 +1046,7 @@
       "source_url": "https://jobs.lever.co/bluebottlecoffee/ca106a86-605f-4910-aef3-6cb4e082fbc0",
       "apply_url": "https://jobs.lever.co/bluebottlecoffee/ca106a86-605f-4910-aef3-6cb4e082fbc0/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "ca24fa23-841e-449b-bf68-26846ab62fdc",
@@ -1100,7 +1064,25 @@
       "source_url": "https://jobs.lever.co/bluebottlecoffee/ca24fa23-841e-449b-bf68-26846ab62fdc",
       "apply_url": "https://jobs.lever.co/bluebottlecoffee/ca24fa23-841e-449b-bf68-26846ab62fdc/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
+    },
+    {
+      "id": "cb36308f-b963-41d9-b070-c4418c69bf9d",
+      "title": "Barista",
+      "company": "Blue Bottle Coffee",
+      "location": "San Diego, CA",
+      "remote": "onsite",
+      "department": "Barista",
+      "employment_type": "",
+      "salary_text": "20-20 USD / per-hour-wage",
+      "salary_source": "lever",
+      "posted": "2026-09-04",
+      "updated": "",
+      "deadline": "",
+      "source_url": "https://jobs.lever.co/bluebottlecoffee/cb36308f-b963-41d9-b070-c4418c69bf9d",
+      "apply_url": "https://jobs.lever.co/bluebottlecoffee/cb36308f-b963-41d9-b070-c4418c69bf9d/apply",
+      "first_seen": "2026-11-18T15:36:26Z",
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "cb9c0497-3b9b-4eb3-bc61-ab22aa3d9be0",
@@ -1118,25 +1100,7 @@
       "source_url": "https://jobs.lever.co/bluebottlecoffee/cb9c0497-3b9b-4eb3-bc61-ab22aa3d9be0",
       "apply_url": "https://jobs.lever.co/bluebottlecoffee/cb9c0497-3b9b-4eb3-bc61-ab22aa3d9be0/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
-    },
-    {
-      "id": "cd3b8ccf-4b8c-43b5-b22e-12501951dbdf",
-      "title": "Shipping and Receiving Coordinator",
-      "company": "Blue Bottle Coffee",
-      "location": "Berkeley, CA",
-      "remote": "onsite",
-      "department": "Brewing",
-      "employment_type": "FULL_TIME",
-      "salary_text": "27-27 USD / per-hour-wage",
-      "salary_source": "lever",
-      "posted": "2026-11-04",
-      "updated": "",
-      "deadline": "",
-      "source_url": "https://jobs.lever.co/bluebottlecoffee/cd3b8ccf-4b8c-43b5-b22e-12501951dbdf",
-      "apply_url": "https://jobs.lever.co/bluebottlecoffee/cd3b8ccf-4b8c-43b5-b22e-12501951dbdf/apply",
-      "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "ce098638-774f-4af3-89ff-3ec8492db039",
@@ -1154,25 +1118,7 @@
       "source_url": "https://jobs.lever.co/bluebottlecoffee/ce098638-774f-4af3-89ff-3ec8492db039",
       "apply_url": "https://jobs.lever.co/bluebottlecoffee/ce098638-774f-4af3-89ff-3ec8492db039/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
-    },
-    {
-      "id": "cee1786e-6342-4bff-ba44-2203829d1c31",
-      "title": "Brewer",
-      "company": "Blue Bottle Coffee",
-      "location": "Berkeley, CA",
-      "remote": "onsite",
-      "department": "Brewing",
-      "employment_type": "FULL_TIME",
-      "salary_text": "29-29 USD / per-hour-wage",
-      "salary_source": "lever",
-      "posted": "2026-10-30",
-      "updated": "",
-      "deadline": "",
-      "source_url": "https://jobs.lever.co/bluebottlecoffee/cee1786e-6342-4bff-ba44-2203829d1c31",
-      "apply_url": "https://jobs.lever.co/bluebottlecoffee/cee1786e-6342-4bff-ba44-2203829d1c31/apply",
-      "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "d139a03c-29da-426b-a3ff-c51b726aaf15",
@@ -1190,7 +1136,7 @@
       "source_url": "https://jobs.lever.co/bluebottlecoffee/d139a03c-29da-426b-a3ff-c51b726aaf15",
       "apply_url": "https://jobs.lever.co/bluebottlecoffee/d139a03c-29da-426b-a3ff-c51b726aaf15/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "d6aa0965-c940-4fad-942a-776d2efe124b",
@@ -1208,7 +1154,7 @@
       "source_url": "https://jobs.lever.co/bluebottlecoffee/d6aa0965-c940-4fad-942a-776d2efe124b",
       "apply_url": "https://jobs.lever.co/bluebottlecoffee/d6aa0965-c940-4fad-942a-776d2efe124b/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "df5e48bb-f5b0-4472-8f3d-fdca45b5fcf5",
@@ -1226,7 +1172,7 @@
       "source_url": "https://jobs.lever.co/bluebottlecoffee/df5e48bb-f5b0-4472-8f3d-fdca45b5fcf5",
       "apply_url": "https://jobs.lever.co/bluebottlecoffee/df5e48bb-f5b0-4472-8f3d-fdca45b5fcf5/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "e38ecb80-b481-4d7c-ade2-9a7f13ab5c8f",
@@ -1244,7 +1190,7 @@
       "source_url": "https://jobs.lever.co/bluebottlecoffee/e38ecb80-b481-4d7c-ade2-9a7f13ab5c8f",
       "apply_url": "https://jobs.lever.co/bluebottlecoffee/e38ecb80-b481-4d7c-ade2-9a7f13ab5c8f/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "e5993139-9235-49d1-973f-90644a860885",
@@ -1262,7 +1208,7 @@
       "source_url": "https://jobs.lever.co/bluebottlecoffee/e5993139-9235-49d1-973f-90644a860885",
       "apply_url": "https://jobs.lever.co/bluebottlecoffee/e5993139-9235-49d1-973f-90644a860885/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "ea2d5a26-61d4-4233-ba8b-4dd67a9bc28f",
@@ -1280,7 +1226,7 @@
       "source_url": "https://jobs.lever.co/bluebottlecoffee/ea2d5a26-61d4-4233-ba8b-4dd67a9bc28f",
       "apply_url": "https://jobs.lever.co/bluebottlecoffee/ea2d5a26-61d4-4233-ba8b-4dd67a9bc28f/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "ec37b73d-2937-4469-9477-161967d04380",
@@ -1298,7 +1244,7 @@
       "source_url": "https://jobs.lever.co/bluebottlecoffee/ec37b73d-2937-4469-9477-161967d04380",
       "apply_url": "https://jobs.lever.co/bluebottlecoffee/ec37b73d-2937-4469-9477-161967d04380/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "eed477a9-3583-48cb-845a-00620ec4cdfd",
@@ -1316,7 +1262,7 @@
       "source_url": "https://jobs.lever.co/bluebottlecoffee/eed477a9-3583-48cb-845a-00620ec4cdfd",
       "apply_url": "https://jobs.lever.co/bluebottlecoffee/eed477a9-3583-48cb-845a-00620ec4cdfd/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "f6f13911-c651-498c-85ee-b7a0a06da670",
@@ -1334,7 +1280,7 @@
       "source_url": "https://jobs.lever.co/bluebottlecoffee/f6f13911-c651-498c-85ee-b7a0a06da670",
       "apply_url": "https://jobs.lever.co/bluebottlecoffee/f6f13911-c651-498c-85ee-b7a0a06da670/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "f7feeba9-8b29-4fc6-a067-7d6772f02f60",
@@ -1352,7 +1298,7 @@
       "source_url": "https://jobs.lever.co/bluebottlecoffee/f7feeba9-8b29-4fc6-a067-7d6772f02f60",
       "apply_url": "https://jobs.lever.co/bluebottlecoffee/f7feeba9-8b29-4fc6-a067-7d6772f02f60/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "fc48db99-495a-4356-844d-eb32697eac72",
@@ -1370,7 +1316,7 @@
       "source_url": "https://jobs.lever.co/bluebottlecoffee/fc48db99-495a-4356-844d-eb32697eac72",
       "apply_url": "https://jobs.lever.co/bluebottlecoffee/fc48db99-495a-4356-844d-eb32697eac72/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "fd2fc640-9182-46b8-8c92-40fb7b9a6e5c",
@@ -1388,7 +1334,7 @@
       "source_url": "https://jobs.lever.co/bluebottlecoffee/fd2fc640-9182-46b8-8c92-40fb7b9a6e5c",
       "apply_url": "https://jobs.lever.co/bluebottlecoffee/fd2fc640-9182-46b8-8c92-40fb7b9a6e5c/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "fe64d552-8943-4a5f-950c-174cccb82f46",
@@ -1406,7 +1352,7 @@
       "source_url": "https://jobs.lever.co/bluebottlecoffee/fe64d552-8943-4a5f-950c-174cccb82f46",
       "apply_url": "https://jobs.lever.co/bluebottlecoffee/fe64d552-8943-4a5f-950c-174cccb82f46/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     }
   ],
   "ats": "lever",

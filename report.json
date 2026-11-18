@@ -1,20 +1,20 @@
 {
-  "generated": "2026-11-17T15:56:57Z",
+  "generated": "2026-11-18T15:36:26Z",
   "publish": true,
   "companies": 369,
-  "jobs": 33190,
+  "jobs": 33106,
   "before": {
-    "greenhouse": 12874,
-    "ashby": 3606,
-    "lever": 1953,
-    "workable": 6,
-    "moka": 14706
-  },
-  "after": {
     "greenhouse": 12867,
     "ashby": 3610,
     "lever": 1958,
-    "moka": 14749,
+    "workable": 6,
+    "moka": 14749
+  },
+  "after": {
+    "greenhouse": 12896,
+    "ashby": 3620,
+    "lever": 1942,
+    "moka": 14642,
     "workable": 6
   },
   "dropped": [],
@@ -22,18 +22,8 @@
   "stale": [
     {
       "ats": "lever",
-      "board": "alimentiv-2",
-      "slug": "alimentiv"
-    },
-    {
-      "ats": "lever",
-      "board": "bloomwellcare",
-      "slug": "bloomwell-autism-therapy"
-    },
-    {
-      "ats": "lever",
-      "board": "bluecatnetworks",
-      "slug": "bluecat"
+      "board": "arootah",
+      "slug": "arootah"
     }
   ]
 }

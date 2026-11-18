@@ -1,8 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-17T15:56:57Z",
+  "checked_at": "2026-11-18T15:36:26Z",
   "failed_at": null,
-  "etag": "W/\"af93f4c3e74140679a82bc6d420bdd2f\"",
+  "etag": "W/\"708f900a5e1fc7c6ffa0f38076a1452d\"",
   "jobs": [
     {
       "id": "4419972009",
@@ -15,12 +15,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-25",
-      "updated": "2026-11-03",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/jrc/jobs/4419972009",
       "apply_url": "https://job-boards.greenhouse.io/jrc/jobs/4419972009",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4424272009",
@@ -33,12 +33,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-23",
-      "updated": "2026-10-28",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/jrc/jobs/4424272009",
       "apply_url": "https://job-boards.greenhouse.io/jrc/jobs/4424272009",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4433501009",
@@ -51,12 +51,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-05",
-      "updated": "2026-10-26",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/jrc/jobs/4433501009",
       "apply_url": "https://job-boards.greenhouse.io/jrc/jobs/4433501009",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4434933009",
@@ -69,66 +69,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-07",
-      "updated": "2026-10-26",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/jrc/jobs/4434933009",
       "apply_url": "https://job-boards.greenhouse.io/jrc/jobs/4434933009",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
-    },
-    {
-      "id": "4436506009",
-      "title": "Flight Systems Engineer",
-      "company": "JRC Careers",
-      "location": "Washington, DC",
-      "remote": "unspecified",
-      "department": "",
-      "employment_type": "FULL_TIME",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-10-07",
-      "updated": "2026-10-26",
-      "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/jrc/jobs/4436506009",
-      "apply_url": "https://job-boards.greenhouse.io/jrc/jobs/4436506009",
-      "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
-    },
-    {
-      "id": "4436511009",
-      "title": "Missile Integration Engineer (Flight to Shipboard Integration Engineer)",
-      "company": "JRC Careers",
-      "location": "District of Columbia, United States",
-      "remote": "unspecified",
-      "department": "",
-      "employment_type": "FULL_TIME",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-10-07",
-      "updated": "2026-10-26",
-      "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/jrc/jobs/4436511009",
-      "apply_url": "https://job-boards.greenhouse.io/jrc/jobs/4436511009",
-      "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
-    },
-    {
-      "id": "4436516009",
-      "title": "Support Equipment Engineer",
-      "company": "JRC Careers",
-      "location": "District of Columbia, United States",
-      "remote": "unspecified",
-      "department": "",
-      "employment_type": "FULL_TIME",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-10-07",
-      "updated": "2026-10-26",
-      "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/jrc/jobs/4436516009",
-      "apply_url": "https://job-boards.greenhouse.io/jrc/jobs/4436516009",
-      "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4438320009",
@@ -141,12 +87,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-08",
-      "updated": "2026-10-26",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/jrc/jobs/4438320009",
       "apply_url": "https://job-boards.greenhouse.io/jrc/jobs/4438320009",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4438352009",
@@ -159,12 +105,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-08",
-      "updated": "2026-11-12",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/jrc/jobs/4438352009",
       "apply_url": "https://job-boards.greenhouse.io/jrc/jobs/4438352009",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4443870009",
@@ -177,30 +123,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-16",
-      "updated": "2026-10-26",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/jrc/jobs/4443870009",
       "apply_url": "https://job-boards.greenhouse.io/jrc/jobs/4443870009",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
-    },
-    {
-      "id": "4462115009",
-      "title": "Senior Flight Test Engineer",
-      "company": "JRC Careers",
-      "location": "District of Columbia, United States",
-      "remote": "unspecified",
-      "department": "",
-      "employment_type": "FULL_TIME",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-10-21",
-      "updated": "2026-11-17",
-      "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/jrc/jobs/4462115009",
-      "apply_url": "https://job-boards.greenhouse.io/jrc/jobs/4462115009",
-      "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4462311009",
@@ -213,12 +141,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-21",
-      "updated": "2026-10-26",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/jrc/jobs/4462311009",
       "apply_url": "https://job-boards.greenhouse.io/jrc/jobs/4462311009",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4465461009",
@@ -231,12 +159,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-23",
-      "updated": "2026-10-28",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/jrc/jobs/4465461009",
       "apply_url": "https://job-boards.greenhouse.io/jrc/jobs/4465461009",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4465466009",
@@ -249,12 +177,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-28",
-      "updated": "2026-10-29",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/jrc/jobs/4465466009",
       "apply_url": "https://job-boards.greenhouse.io/jrc/jobs/4465466009",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4474187009",
@@ -267,12 +195,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-05",
-      "updated": "2026-11-05",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/jrc/jobs/4474187009",
       "apply_url": "https://job-boards.greenhouse.io/jrc/jobs/4474187009",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4475905009",
@@ -285,12 +213,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-02",
-      "updated": "2026-11-02",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/jrc/jobs/4475905009",
       "apply_url": "https://job-boards.greenhouse.io/jrc/jobs/4475905009",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4477366009",
@@ -303,12 +231,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-03",
-      "updated": "2026-11-04",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/jrc/jobs/4477366009",
       "apply_url": "https://job-boards.greenhouse.io/jrc/jobs/4477366009",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4484174009",
@@ -321,12 +249,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-06",
-      "updated": "2026-11-06",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/jrc/jobs/4484174009",
       "apply_url": "https://job-boards.greenhouse.io/jrc/jobs/4484174009",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4484199009",
@@ -339,12 +267,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-06",
-      "updated": "2026-11-06",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/jrc/jobs/4484199009",
       "apply_url": "https://job-boards.greenhouse.io/jrc/jobs/4484199009",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4485922009",
@@ -357,12 +285,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-09",
-      "updated": "2026-11-09",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/jrc/jobs/4485922009",
       "apply_url": "https://job-boards.greenhouse.io/jrc/jobs/4485922009",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4485964009",
@@ -375,12 +303,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-12",
-      "updated": "2026-11-12",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/jrc/jobs/4485964009",
       "apply_url": "https://job-boards.greenhouse.io/jrc/jobs/4485964009",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4488565009",
@@ -393,12 +321,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-10",
-      "updated": "2026-11-10",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/jrc/jobs/4488565009",
       "apply_url": "https://job-boards.greenhouse.io/jrc/jobs/4488565009",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4488594009",
@@ -411,12 +339,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-10",
-      "updated": "2026-11-10",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/jrc/jobs/4488594009",
       "apply_url": "https://job-boards.greenhouse.io/jrc/jobs/4488594009",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4506477009",
@@ -429,12 +357,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-13",
-      "updated": "2026-11-13",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/jrc/jobs/4506477009",
       "apply_url": "https://job-boards.greenhouse.io/jrc/jobs/4506477009",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4508540009",
@@ -447,12 +375,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-16",
-      "updated": "2026-11-16",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/jrc/jobs/4508540009",
       "apply_url": "https://job-boards.greenhouse.io/jrc/jobs/4508540009",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
     },
     {
       "id": "4508790009",
@@ -465,12 +393,66 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-16",
-      "updated": "2026-11-16",
+      "updated": "2026-11-17",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/jrc/jobs/4508790009",
       "apply_url": "https://job-boards.greenhouse.io/jrc/jobs/4508790009",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-17T15:56:57Z"
+      "last_checked": "2026-11-18T15:36:26Z"
+    },
+    {
+      "id": "4512159009",
+      "title": "Senior Systems Engineer – Missile Systems Integration",
+      "company": "JRC Careers",
+      "location": "District of Columbia, United States",
+      "remote": "unspecified",
+      "department": "",
+      "employment_type": "FULL_TIME",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-18",
+      "updated": "2026-11-18",
+      "deadline": "",
+      "source_url": "https://job-boards.greenhouse.io/jrc/jobs/4512159009",
+      "apply_url": "https://job-boards.greenhouse.io/jrc/jobs/4512159009",
+      "first_seen": "2026-11-18T15:36:26Z",
+      "last_checked": "2026-11-18T15:36:26Z"
+    },
+    {
+      "id": "4512199009",
+      "title": "Support Equipment Engineer",
+      "company": "JRC Careers",
+      "location": "District of Columbia, United States",
+      "remote": "unspecified",
+      "department": "",
+      "employment_type": "FULL_TIME",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-18",
+      "updated": "2026-11-18",
+      "deadline": "",
+      "source_url": "https://job-boards.greenhouse.io/jrc/jobs/4512199009",
+      "apply_url": "https://job-boards.greenhouse.io/jrc/jobs/4512199009",
+      "first_seen": "2026-11-18T15:36:26Z",
+      "last_checked": "2026-11-18T15:36:26Z"
+    },
+    {
+      "id": "4512282009",
+      "title": "Senior Flight Test & Evaluation Engineer",
+      "company": "JRC Careers",
+      "location": "District of Columbia, United States",
+      "remote": "unspecified",
+      "department": "",
+      "employment_type": "FULL_TIME",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-18",
+      "updated": "2026-11-18",
+      "deadline": "",
+      "source_url": "https://job-boards.greenhouse.io/jrc/jobs/4512282009",
+      "apply_url": "https://job-boards.greenhouse.io/jrc/jobs/4512282009",
+      "first_seen": "2026-11-18T15:36:26Z",
+      "last_checked": "2026-11-18T15:36:26Z"
     }
   ],
   "ats": "greenhouse",
