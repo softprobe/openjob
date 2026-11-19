@@ -1,8 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-18T15:36:26Z",
+  "checked_at": "2026-11-19T15:42:04Z",
   "failed_at": null,
-  "etag": "W/\"c3bb315ba187de0942cd4d81013481b5\"",
+  "etag": "W/\"90767754b9966ee2a0af0e798c41c825\"",
   "jobs": [
     {
       "id": "4891670004",
@@ -20,7 +20,7 @@
       "source_url": "https://job-boards.greenhouse.io/neuehealth/jobs/4891670004",
       "apply_url": "https://job-boards.greenhouse.io/neuehealth/jobs/4891670004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "6174269004",
@@ -38,7 +38,7 @@
       "source_url": "https://job-boards.greenhouse.io/neuehealth/jobs/6174269004",
       "apply_url": "https://job-boards.greenhouse.io/neuehealth/jobs/6174269004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "6174271004",
@@ -56,7 +56,7 @@
       "source_url": "https://job-boards.greenhouse.io/neuehealth/jobs/6174271004",
       "apply_url": "https://job-boards.greenhouse.io/neuehealth/jobs/6174271004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "6188655004",
@@ -74,7 +74,7 @@
       "source_url": "https://job-boards.greenhouse.io/neuehealth/jobs/6188655004",
       "apply_url": "https://job-boards.greenhouse.io/neuehealth/jobs/6188655004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "6237505004",
@@ -92,7 +92,7 @@
       "source_url": "https://job-boards.greenhouse.io/neuehealth/jobs/6237505004",
       "apply_url": "https://job-boards.greenhouse.io/neuehealth/jobs/6237505004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "6260760004",
@@ -105,12 +105,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-13",
-      "updated": "2026-11-13",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/neuehealth/jobs/6260760004",
       "apply_url": "https://job-boards.greenhouse.io/neuehealth/jobs/6260760004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     }
   ],
   "ats": "greenhouse",

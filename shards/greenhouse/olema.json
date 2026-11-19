@@ -1,27 +1,9 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-18T15:36:26Z",
+  "checked_at": "2026-11-19T15:42:04Z",
   "failed_at": null,
-  "etag": "W/\"ae4fbcfcc6abc790c54b50f15f952970\"",
+  "etag": "W/\"be1257e460a20aa52dffe23551d4adaf\"",
   "jobs": [
-    {
-      "id": "6105990004",
-      "title": "Medical Science Liaison/Senior Medical Science Liaison (Southeast Region)",
-      "company": "Olema Oncology",
-      "location": "Remote",
-      "remote": "remote",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-07-02",
-      "updated": "2026-11-12",
-      "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/olema/jobs/6105990004",
-      "apply_url": "https://job-boards.greenhouse.io/olema/jobs/6105990004",
-      "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-18T15:36:26Z"
-    },
     {
       "id": "6141525004",
       "title": "Senior Director, National and Strategic Accounts",
@@ -38,7 +20,7 @@
       "source_url": "https://job-boards.greenhouse.io/olema/jobs/6141525004",
       "apply_url": "https://job-boards.greenhouse.io/olema/jobs/6141525004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "6147547004",
@@ -56,7 +38,7 @@
       "source_url": "https://job-boards.greenhouse.io/olema/jobs/6147547004",
       "apply_url": "https://job-boards.greenhouse.io/olema/jobs/6147547004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "6205816004",
@@ -74,7 +56,7 @@
       "source_url": "https://job-boards.greenhouse.io/olema/jobs/6205816004",
       "apply_url": "https://job-boards.greenhouse.io/olema/jobs/6205816004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "6208269004",
@@ -92,7 +74,7 @@
       "source_url": "https://job-boards.greenhouse.io/olema/jobs/6208269004",
       "apply_url": "https://job-boards.greenhouse.io/olema/jobs/6208269004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "6208270004",
@@ -110,7 +92,7 @@
       "source_url": "https://job-boards.greenhouse.io/olema/jobs/6208270004",
       "apply_url": "https://job-boards.greenhouse.io/olema/jobs/6208270004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "6211586004",
@@ -128,7 +110,7 @@
       "source_url": "https://job-boards.greenhouse.io/olema/jobs/6211586004",
       "apply_url": "https://job-boards.greenhouse.io/olema/jobs/6211586004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "6219518004",
@@ -146,7 +128,7 @@
       "source_url": "https://job-boards.greenhouse.io/olema/jobs/6219518004",
       "apply_url": "https://job-boards.greenhouse.io/olema/jobs/6219518004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "6223609004",
@@ -164,7 +146,7 @@
       "source_url": "https://job-boards.greenhouse.io/olema/jobs/6223609004",
       "apply_url": "https://job-boards.greenhouse.io/olema/jobs/6223609004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     }
   ],
   "ats": "greenhouse",

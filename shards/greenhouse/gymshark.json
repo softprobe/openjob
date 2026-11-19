@@ -1,8 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-18T15:36:26Z",
+  "checked_at": "2026-11-19T15:42:04Z",
   "failed_at": null,
-  "etag": "W/\"849ddd6eacd60b9509b74ecbca4299b4\"",
+  "etag": "W/\"7cb41d8166253cdcd0dd323569220a16\"",
   "jobs": [
     {
       "id": "4974208101",
@@ -20,7 +20,7 @@
       "source_url": "https://job-boards.eu.greenhouse.io/gymshark/jobs/4974208101",
       "apply_url": "https://job-boards.eu.greenhouse.io/gymshark/jobs/4974208101",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "4981295101",
@@ -33,12 +33,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-21",
-      "updated": "2026-11-12",
+      "updated": "2026-11-19",
       "deadline": "",
       "source_url": "https://job-boards.eu.greenhouse.io/gymshark/jobs/4981295101",
       "apply_url": "https://job-boards.eu.greenhouse.io/gymshark/jobs/4981295101",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "4988756101",
@@ -56,7 +56,43 @@
       "source_url": "https://job-boards.eu.greenhouse.io/gymshark/jobs/4988756101",
       "apply_url": "https://job-boards.eu.greenhouse.io/gymshark/jobs/4988756101",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
+    },
+    {
+      "id": "5042226101",
+      "title": "Floor Lead - Retail Operations",
+      "company": "Gymshark",
+      "location": "New York, New York, United States",
+      "remote": "unspecified",
+      "department": "",
+      "employment_type": "FULL_TIME",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-19",
+      "updated": "2026-11-19",
+      "deadline": "",
+      "source_url": "https://job-boards.eu.greenhouse.io/gymshark/jobs/5042226101",
+      "apply_url": "https://job-boards.eu.greenhouse.io/gymshark/jobs/5042226101",
+      "first_seen": "2026-11-19T15:42:04Z",
+      "last_checked": "2026-11-19T15:42:04Z"
+    },
+    {
+      "id": "5042541101",
+      "title": "Merchandise Planner",
+      "company": "Gymshark",
+      "location": "Solihull, England, United Kingdom",
+      "remote": "unspecified",
+      "department": "",
+      "employment_type": "",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-19",
+      "updated": "2026-11-19",
+      "deadline": "",
+      "source_url": "https://job-boards.eu.greenhouse.io/gymshark/jobs/5042541101",
+      "apply_url": "https://job-boards.eu.greenhouse.io/gymshark/jobs/5042541101",
+      "first_seen": "2026-11-19T15:42:04Z",
+      "last_checked": "2026-11-19T15:42:04Z"
     }
   ],
   "ats": "greenhouse",

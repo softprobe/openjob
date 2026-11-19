@@ -1,8 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-18T15:36:26Z",
+  "checked_at": "2026-11-19T15:42:04Z",
   "failed_at": null,
-  "etag": "W/\"4c2ff-TTAJpa4wM1lSRVVRM0XO9A\"",
+  "etag": "W/\"4c3a1-jMbteAmIRxWcr6SQHHqa3w\"",
   "jobs": [
     {
       "id": "027b4f8f-259b-467d-8c6c-0f23cf2fcf4f",
@@ -20,7 +20,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/027b4f8f-259b-467d-8c6c-0f23cf2fcf4f",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/027b4f8f-259b-467d-8c6c-0f23cf2fcf4f/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "02b524ef-57db-423d-b333-1a24ff42a5b6",
@@ -38,7 +38,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/02b524ef-57db-423d-b333-1a24ff42a5b6",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/02b524ef-57db-423d-b333-1a24ff42a5b6/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "058f66c5-c41e-4950-8340-b818c3631832",
@@ -56,7 +56,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/058f66c5-c41e-4950-8340-b818c3631832",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/058f66c5-c41e-4950-8340-b818c3631832/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "06deb7bd-3259-4051-ad80-1f2a44649cc8",
@@ -74,7 +74,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/06deb7bd-3259-4051-ad80-1f2a44649cc8",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/06deb7bd-3259-4051-ad80-1f2a44649cc8/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "0918618d-207d-43e7-aa3a-af934885084f",
@@ -92,7 +92,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/0918618d-207d-43e7-aa3a-af934885084f",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/0918618d-207d-43e7-aa3a-af934885084f/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "0933dc52-b084-46a3-ba32-c6b8f435fbbc",
@@ -110,7 +110,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/0933dc52-b084-46a3-ba32-c6b8f435fbbc",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/0933dc52-b084-46a3-ba32-c6b8f435fbbc/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "0a2e20ef-3a3b-4265-b2ed-1358d7801fd5",
@@ -128,7 +128,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/0a2e20ef-3a3b-4265-b2ed-1358d7801fd5",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/0a2e20ef-3a3b-4265-b2ed-1358d7801fd5/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "0b6ac7c4-d717-45c2-8d22-2f1cbdd89447",
@@ -146,7 +146,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/0b6ac7c4-d717-45c2-8d22-2f1cbdd89447",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/0b6ac7c4-d717-45c2-8d22-2f1cbdd89447/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "0c566c05-014c-4b4f-8555-d6730389259c",
@@ -164,7 +164,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/0c566c05-014c-4b4f-8555-d6730389259c",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/0c566c05-014c-4b4f-8555-d6730389259c/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "0cb367dc-b8e4-47a2-b9d6-3ec29b73192b",
@@ -182,25 +182,25 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/0cb367dc-b8e4-47a2-b9d6-3ec29b73192b",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/0cb367dc-b8e4-47a2-b9d6-3ec29b73192b/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "0cd9b35f-6903-4fd6-b2a3-12a084db3798",
       "title": "FILA-主播岗（2027届）",
       "company": "安踏",
-      "location": "石家庄市, 河北, 中国; 青岛市, 山东, 中国; 上海市, 中国; 厦门市, 福建, 中国; 杭州市, 浙江, 中国; 长沙市, 湖南, 中国; 武汉市, 湖北, 中国; 郑州市, 河南, 中国; 秦皇岛市, 河北, 中国; 邢台市, 河北, 中国; 昆明市, 云南, 中国",
+      "location": "厦门市, 福建, 中国; 邢台市, 河北, 中国; 青岛市, 山东, 中国; 长沙市, 湖南, 中国; 成都市, 四川, 中国; 郑州市, 河南, 中国; 上海市, 中国; 秦皇岛市, 河北, 中国; 武汉市, 湖北, 中国; 石家庄市, 河北, 中国; 杭州市, 浙江, 中国; 昆明市, 云南, 中国",
       "remote": "unspecified",
       "department": "零售事业部_20217492",
       "employment_type": "FULL_TIME",
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-12",
-      "updated": "2026-11-18",
+      "updated": "2026-11-19",
       "deadline": "",
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/0cd9b35f-6903-4fd6-b2a3-12a084db3798",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/0cd9b35f-6903-4fd6-b2a3-12a084db3798/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "0e5d5669-4a46-4bcc-bd60-38d62e62696e",
@@ -218,7 +218,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/0e5d5669-4a46-4bcc-bd60-38d62e62696e",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/0e5d5669-4a46-4bcc-bd60-38d62e62696e/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "0e65ec2c-3418-4ef4-b50f-dadabf37aa48",
@@ -236,7 +236,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/0e65ec2c-3418-4ef4-b50f-dadabf37aa48",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/0e65ec2c-3418-4ef4-b50f-dadabf37aa48/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "0f25ea08-3a66-4e47-b1d3-eaf93c19173a",
@@ -254,7 +254,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/0f25ea08-3a66-4e47-b1d3-eaf93c19173a",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/0f25ea08-3a66-4e47-b1d3-eaf93c19173a/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "11312752-33f0-4baf-bafa-2b2be66ce662",
@@ -272,7 +272,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/11312752-33f0-4baf-bafa-2b2be66ce662",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/11312752-33f0-4baf-bafa-2b2be66ce662/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "11d85d26-caed-4a2a-a499-150cbf980a4d",
@@ -290,7 +290,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/11d85d26-caed-4a2a-a499-150cbf980a4d",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/11d85d26-caed-4a2a-a499-150cbf980a4d/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "130f8a9b-9eef-4493-9ed1-d8429fe8a296",
@@ -308,7 +308,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/130f8a9b-9eef-4493-9ed1-d8429fe8a296",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/130f8a9b-9eef-4493-9ed1-d8429fe8a296/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "13760d31-a077-4e88-8533-a9354c9e1dcf",
@@ -320,13 +320,13 @@
       "employment_type": "FULL_TIME",
       "salary_text": "",
       "salary_source": "",
-      "posted": "2026-11-09",
-      "updated": "2026-11-17",
+      "posted": "2026-11-19",
+      "updated": "2026-11-19",
       "deadline": "",
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/13760d31-a077-4e88-8533-a9354c9e1dcf",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/13760d31-a077-4e88-8533-a9354c9e1dcf/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "15a2cf38-7d70-455a-8c8f-2e2f8f60c172",
@@ -344,7 +344,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/15a2cf38-7d70-455a-8c8f-2e2f8f60c172",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/15a2cf38-7d70-455a-8c8f-2e2f8f60c172/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "17f808b7-0c70-4cd8-a558-8ec551bd699a",
@@ -362,7 +362,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/17f808b7-0c70-4cd8-a558-8ec551bd699a",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/17f808b7-0c70-4cd8-a558-8ec551bd699a/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "18467dd8-a08e-4607-8106-76e7b3e49f0a",
@@ -380,7 +380,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/18467dd8-a08e-4607-8106-76e7b3e49f0a",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/18467dd8-a08e-4607-8106-76e7b3e49f0a/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "18c6ef89-7510-43d3-8994-eee2db2925df",
@@ -398,7 +398,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/18c6ef89-7510-43d3-8994-eee2db2925df",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/18c6ef89-7510-43d3-8994-eee2db2925df/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "19a12cbd-23ec-49ec-b6d6-efd7bac134c4",
@@ -416,7 +416,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/19a12cbd-23ec-49ec-b6d6-efd7bac134c4",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/19a12cbd-23ec-49ec-b6d6-efd7bac134c4/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "1c2162bf-556d-4923-bcbe-06c76c7e6aea",
@@ -434,7 +434,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/1c2162bf-556d-4923-bcbe-06c76c7e6aea",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/1c2162bf-556d-4923-bcbe-06c76c7e6aea/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "1ff4f34f-6673-4af1-b2e1-771ccc6ef98d",
@@ -452,7 +452,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/1ff4f34f-6673-4af1-b2e1-771ccc6ef98d",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/1ff4f34f-6673-4af1-b2e1-771ccc6ef98d/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "2061313c-d36b-43a9-bc52-0671ff078f44",
@@ -470,7 +470,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/2061313c-d36b-43a9-bc52-0671ff078f44",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/2061313c-d36b-43a9-bc52-0671ff078f44/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "21ae9924-5118-4522-9af9-b855ce43ef26",
@@ -488,7 +488,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/21ae9924-5118-4522-9af9-b855ce43ef26",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/21ae9924-5118-4522-9af9-b855ce43ef26/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "21b66b4c-11a7-42f7-bf1e-356e62e7c7e4",
@@ -506,7 +506,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/21b66b4c-11a7-42f7-bf1e-356e62e7c7e4",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/21b66b4c-11a7-42f7-bf1e-356e62e7c7e4/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "231a290b-e0c4-4451-978a-3b84735e8411",
@@ -524,7 +524,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/231a290b-e0c4-4451-978a-3b84735e8411",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/231a290b-e0c4-4451-978a-3b84735e8411/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "28056e7a-0eb2-4744-8e12-3389bec3f5e6",
@@ -542,7 +542,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/28056e7a-0eb2-4744-8e12-3389bec3f5e6",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/28056e7a-0eb2-4744-8e12-3389bec3f5e6/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "2860f36a-618c-40e5-9f63-59b41fc5cfee",
@@ -560,7 +560,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/2860f36a-618c-40e5-9f63-59b41fc5cfee",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/2860f36a-618c-40e5-9f63-59b41fc5cfee/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "2863b528-6336-4c2c-b804-664b952fb91e",
@@ -578,7 +578,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/2863b528-6336-4c2c-b804-664b952fb91e",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/2863b528-6336-4c2c-b804-664b952fb91e/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "30c6808a-7bfc-438e-aa99-4cdc6d78fbc5",
@@ -596,7 +596,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/30c6808a-7bfc-438e-aa99-4cdc6d78fbc5",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/30c6808a-7bfc-438e-aa99-4cdc6d78fbc5/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "3204f9d9-802d-438b-9f4f-e4ddb8a72e2b",
@@ -614,7 +614,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/3204f9d9-802d-438b-9f4f-e4ddb8a72e2b",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/3204f9d9-802d-438b-9f4f-e4ddb8a72e2b/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "32fb7df9-d76b-4dfb-ae33-53c9189354f8",
@@ -632,7 +632,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/32fb7df9-d76b-4dfb-ae33-53c9189354f8",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/32fb7df9-d76b-4dfb-ae33-53c9189354f8/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "356b1c3b-0e40-4cff-922f-9e6826c12bd9",
@@ -650,7 +650,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/356b1c3b-0e40-4cff-922f-9e6826c12bd9",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/356b1c3b-0e40-4cff-922f-9e6826c12bd9/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "358ecc52-bf7c-4ff5-a696-e27444b0171c",
@@ -668,7 +668,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/358ecc52-bf7c-4ff5-a696-e27444b0171c",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/358ecc52-bf7c-4ff5-a696-e27444b0171c/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "367b4db7-8c53-432b-8a48-36446ab89de1",
@@ -686,7 +686,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/367b4db7-8c53-432b-8a48-36446ab89de1",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/367b4db7-8c53-432b-8a48-36446ab89de1/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "37970c2a-599f-426f-a6e3-30ea42509d32",
@@ -704,7 +704,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/37970c2a-599f-426f-a6e3-30ea42509d32",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/37970c2a-599f-426f-a6e3-30ea42509d32/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "39444158-5b57-466a-8882-fbeace37f19a",
@@ -722,7 +722,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/39444158-5b57-466a-8882-fbeace37f19a",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/39444158-5b57-466a-8882-fbeace37f19a/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "3aa95d7d-d8fb-4be8-8620-a3b50d41ab86",
@@ -740,7 +740,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/3aa95d7d-d8fb-4be8-8620-a3b50d41ab86",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/3aa95d7d-d8fb-4be8-8620-a3b50d41ab86/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "3d07babf-77d2-4ad5-a3ac-f982fe860b71",
@@ -758,7 +758,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/3d07babf-77d2-4ad5-a3ac-f982fe860b71",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/3d07babf-77d2-4ad5-a3ac-f982fe860b71/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "3d37ae93-7f6b-4adf-9329-f3436380c32e",
@@ -776,7 +776,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/3d37ae93-7f6b-4adf-9329-f3436380c32e",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/3d37ae93-7f6b-4adf-9329-f3436380c32e/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "413b827b-2bc3-4aea-aaf3-1c88e8123bef",
@@ -794,7 +794,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/413b827b-2bc3-4aea-aaf3-1c88e8123bef",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/413b827b-2bc3-4aea-aaf3-1c88e8123bef/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "41eb61c5-1c96-4836-8cfa-7fab2012ba73",
@@ -812,7 +812,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/41eb61c5-1c96-4836-8cfa-7fab2012ba73",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/41eb61c5-1c96-4836-8cfa-7fab2012ba73/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "4238cda3-1f61-44bd-9832-775b2bc5c248",
@@ -830,11 +830,11 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/4238cda3-1f61-44bd-9832-775b2bc5c248",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/4238cda3-1f61-44bd-9832-775b2bc5c248/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "42449b0f-37f3-4c47-b5bf-231c44e08b81",
-      "title": "可隆零售管理岗（2027届）-大连",
+      "title": "可隆零售管理岗（2027届）-沈阳",
       "company": "安踏",
       "location": "大连市, 辽宁, 中国",
       "remote": "unspecified",
@@ -843,12 +843,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-11",
-      "updated": "2026-09-11",
+      "updated": "2026-11-19",
       "deadline": "",
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/42449b0f-37f3-4c47-b5bf-231c44e08b81",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/42449b0f-37f3-4c47-b5bf-231c44e08b81/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "4247a3bb-37fc-4e3d-8118-c685a34be9bc",
@@ -866,7 +866,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/4247a3bb-37fc-4e3d-8118-c685a34be9bc",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/4247a3bb-37fc-4e3d-8118-c685a34be9bc/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "454c7d46-b712-4055-a736-f1bd81854ac9",
@@ -884,7 +884,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/454c7d46-b712-4055-a736-f1bd81854ac9",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/454c7d46-b712-4055-a736-f1bd81854ac9/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "4586fe03-4a5f-43b8-9a9b-e2f79bda3d28",
@@ -902,7 +902,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/4586fe03-4a5f-43b8-9a9b-e2f79bda3d28",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/4586fe03-4a5f-43b8-9a9b-e2f79bda3d28/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "458dd5d0-0471-4de4-a9a7-6edc3b3ad7d2",
@@ -920,7 +920,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/458dd5d0-0471-4de4-a9a7-6edc3b3ad7d2",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/458dd5d0-0471-4de4-a9a7-6edc3b3ad7d2/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "46156cb1-9231-4c91-a575-f6696b69d640",
@@ -938,7 +938,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/46156cb1-9231-4c91-a575-f6696b69d640",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/46156cb1-9231-4c91-a575-f6696b69d640/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "4aed97c6-5dab-4ddd-8c1b-f4387234496d",
@@ -956,7 +956,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/4aed97c6-5dab-4ddd-8c1b-f4387234496d",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/4aed97c6-5dab-4ddd-8c1b-f4387234496d/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "4c1ff7f0-d8ea-4d7b-a854-45e566c49b25",
@@ -968,13 +968,13 @@
       "employment_type": "FULL_TIME",
       "salary_text": "",
       "salary_source": "",
-      "posted": "2026-11-09",
-      "updated": "2026-11-09",
+      "posted": "2026-11-19",
+      "updated": "2026-11-19",
       "deadline": "",
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/4c1ff7f0-d8ea-4d7b-a854-45e566c49b25",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/4c1ff7f0-d8ea-4d7b-a854-45e566c49b25/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "4d66e8d4-0112-447d-beed-f43024a04656",
@@ -992,7 +992,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/4d66e8d4-0112-447d-beed-f43024a04656",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/4d66e8d4-0112-447d-beed-f43024a04656/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "4d93eb87-8047-4526-b4c3-dc9a49e6fd46",
@@ -1010,7 +1010,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/4d93eb87-8047-4526-b4c3-dc9a49e6fd46",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/4d93eb87-8047-4526-b4c3-dc9a49e6fd46/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "4efda352-d8f4-4ae3-bbc9-4d83d361b734",
@@ -1028,7 +1028,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/4efda352-d8f4-4ae3-bbc9-4d83d361b734",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/4efda352-d8f4-4ae3-bbc9-4d83d361b734/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "4f4fc85a-147b-481b-86f2-a23253c31212",
@@ -1046,7 +1046,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/4f4fc85a-147b-481b-86f2-a23253c31212",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/4f4fc85a-147b-481b-86f2-a23253c31212/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "4f8217b0-20e1-43b9-b0bd-8df16181b538",
@@ -1064,7 +1064,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/4f8217b0-20e1-43b9-b0bd-8df16181b538",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/4f8217b0-20e1-43b9-b0bd-8df16181b538/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "539a1ad7-7bb7-4d3b-a725-336b43fdbc2e",
@@ -1082,7 +1082,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/539a1ad7-7bb7-4d3b-a725-336b43fdbc2e",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/539a1ad7-7bb7-4d3b-a725-336b43fdbc2e/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "55cdeda8-6120-4cf3-8df6-30d591bc6104",
@@ -1100,7 +1100,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/55cdeda8-6120-4cf3-8df6-30d591bc6104",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/55cdeda8-6120-4cf3-8df6-30d591bc6104/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "560303ab-aa0d-4f62-be54-11060ecfde83",
@@ -1118,7 +1118,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/560303ab-aa0d-4f62-be54-11060ecfde83",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/560303ab-aa0d-4f62-be54-11060ecfde83/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "5663f261-3927-48f0-a2ae-0eb434bfba24",
@@ -1136,7 +1136,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/5663f261-3927-48f0-a2ae-0eb434bfba24",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/5663f261-3927-48f0-a2ae-0eb434bfba24/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "567ede17-f488-48fe-9b59-9680df8baa32",
@@ -1154,7 +1154,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/567ede17-f488-48fe-9b59-9680df8baa32",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/567ede17-f488-48fe-9b59-9680df8baa32/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "5b2658a3-fd57-47c1-be20-400ca205daa3",
@@ -1172,7 +1172,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/5b2658a3-fd57-47c1-be20-400ca205daa3",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/5b2658a3-fd57-47c1-be20-400ca205daa3/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "5b96ce93-68b5-4130-8160-8a13d6a49b61",
@@ -1190,7 +1190,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/5b96ce93-68b5-4130-8160-8a13d6a49b61",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/5b96ce93-68b5-4130-8160-8a13d6a49b61/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "5ee65170-a452-4b50-baf5-10edb97f48c8",
@@ -1208,7 +1208,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/5ee65170-a452-4b50-baf5-10edb97f48c8",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/5ee65170-a452-4b50-baf5-10edb97f48c8/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "5f45505d-a8f5-4e7d-b73b-2031b135c532",
@@ -1226,7 +1226,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/5f45505d-a8f5-4e7d-b73b-2031b135c532",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/5f45505d-a8f5-4e7d-b73b-2031b135c532/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "5f96078e-c44a-4582-9cd7-0d8696461754",
@@ -1244,7 +1244,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/5f96078e-c44a-4582-9cd7-0d8696461754",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/5f96078e-c44a-4582-9cd7-0d8696461754/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "60fee4dd-6ccc-4dc3-9170-f462e1953d3d",
@@ -1262,7 +1262,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/60fee4dd-6ccc-4dc3-9170-f462e1953d3d",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/60fee4dd-6ccc-4dc3-9170-f462e1953d3d/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "63fa8f34-036d-4fd8-9230-ab808da0d285",
@@ -1280,7 +1280,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/63fa8f34-036d-4fd8-9230-ab808da0d285",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/63fa8f34-036d-4fd8-9230-ab808da0d285/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "66b598e4-a063-457d-ae15-ae0a0074b379",
@@ -1298,7 +1298,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/66b598e4-a063-457d-ae15-ae0a0074b379",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/66b598e4-a063-457d-ae15-ae0a0074b379/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "69011589-252f-42ae-9b99-125982c42d85",
@@ -1310,13 +1310,13 @@
       "employment_type": "FULL_TIME",
       "salary_text": "",
       "salary_source": "",
-      "posted": "2026-11-09",
-      "updated": "2026-11-09",
+      "posted": "2026-11-19",
+      "updated": "2026-11-19",
       "deadline": "",
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/69011589-252f-42ae-9b99-125982c42d85",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/69011589-252f-42ae-9b99-125982c42d85/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "696d3aac-2c0e-4dfa-be46-0f7b779721eb",
@@ -1334,7 +1334,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/696d3aac-2c0e-4dfa-be46-0f7b779721eb",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/696d3aac-2c0e-4dfa-be46-0f7b779721eb/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "69b948f4-226d-487a-84db-5f294b7764ff",
@@ -1352,7 +1352,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/69b948f4-226d-487a-84db-5f294b7764ff",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/69b948f4-226d-487a-84db-5f294b7764ff/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "6a7e670d-5f4f-4e5b-a93b-f18e7ac842fc",
@@ -1370,7 +1370,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/6a7e670d-5f4f-4e5b-a93b-f18e7ac842fc",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/6a7e670d-5f4f-4e5b-a93b-f18e7ac842fc/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "6a9b0054-1138-4a12-83e9-f7ba66b85230",
@@ -1388,7 +1388,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/6a9b0054-1138-4a12-83e9-f7ba66b85230",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/6a9b0054-1138-4a12-83e9-f7ba66b85230/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "6bdec2bb-888a-4ca3-b8cc-9ae8c4d51404",
@@ -1406,7 +1406,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/6bdec2bb-888a-4ca3-b8cc-9ae8c4d51404",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/6bdec2bb-888a-4ca3-b8cc-9ae8c4d51404/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "6ccb9e0d-be82-4d8e-ac4a-3565105763fb",
@@ -1424,7 +1424,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/6ccb9e0d-be82-4d8e-ac4a-3565105763fb",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/6ccb9e0d-be82-4d8e-ac4a-3565105763fb/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "6db080a7-ed5c-4b51-98bf-cff1de0739a7",
@@ -1442,7 +1442,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/6db080a7-ed5c-4b51-98bf-cff1de0739a7",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/6db080a7-ed5c-4b51-98bf-cff1de0739a7/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "6e7a3fa6-3373-44a3-a351-6c20407723f8",
@@ -1460,7 +1460,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/6e7a3fa6-3373-44a3-a351-6c20407723f8",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/6e7a3fa6-3373-44a3-a351-6c20407723f8/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7011dbd0-5871-46e2-870d-3f334dfee431",
@@ -1478,7 +1478,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/7011dbd0-5871-46e2-870d-3f334dfee431",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/7011dbd0-5871-46e2-870d-3f334dfee431/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "709e1449-2dfb-4527-bd01-aeb2d08360db",
@@ -1496,7 +1496,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/709e1449-2dfb-4527-bd01-aeb2d08360db",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/709e1449-2dfb-4527-bd01-aeb2d08360db/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7147a8d6-8331-402c-9a4d-59e28bb714a7",
@@ -1514,7 +1514,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/7147a8d6-8331-402c-9a4d-59e28bb714a7",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/7147a8d6-8331-402c-9a4d-59e28bb714a7/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "77ae6280-4180-429d-bdb6-a91554ae9d24",
@@ -1532,7 +1532,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/77ae6280-4180-429d-bdb6-a91554ae9d24",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/77ae6280-4180-429d-bdb6-a91554ae9d24/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "79725263-0cf5-4024-ac1f-82802b6e43a4",
@@ -1550,7 +1550,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/79725263-0cf5-4024-ac1f-82802b6e43a4",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/79725263-0cf5-4024-ac1f-82802b6e43a4/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "79c21889-c1c2-4478-9b4b-8f7cb34b977f",
@@ -1568,7 +1568,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/79c21889-c1c2-4478-9b4b-8f7cb34b977f",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/79c21889-c1c2-4478-9b4b-8f7cb34b977f/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7db34cf6-d1bd-4609-b3dc-444e618d57ce",
@@ -1586,7 +1586,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/7db34cf6-d1bd-4609-b3dc-444e618d57ce",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/7db34cf6-d1bd-4609-b3dc-444e618d57ce/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7ecaa720-72c1-42cc-9481-c3880f4d2499",
@@ -1604,7 +1604,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/7ecaa720-72c1-42cc-9481-c3880f4d2499",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/7ecaa720-72c1-42cc-9481-c3880f4d2499/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "81a0f7a0-88a7-4806-944c-64dd3d0f530c",
@@ -1616,13 +1616,13 @@
       "employment_type": "FULL_TIME",
       "salary_text": "",
       "salary_source": "",
-      "posted": "2026-11-11",
-      "updated": "2026-11-11",
+      "posted": "2026-11-19",
+      "updated": "2026-11-19",
       "deadline": "",
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/81a0f7a0-88a7-4806-944c-64dd3d0f530c",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/81a0f7a0-88a7-4806-944c-64dd3d0f530c/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "84855547-8fa7-48ac-a447-acb1a44daa41",
@@ -1640,7 +1640,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/84855547-8fa7-48ac-a447-acb1a44daa41",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/84855547-8fa7-48ac-a447-acb1a44daa41/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "85a1c06f-00c1-46cb-87d7-f3282cfd4791",
@@ -1658,7 +1658,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/85a1c06f-00c1-46cb-87d7-f3282cfd4791",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/85a1c06f-00c1-46cb-87d7-f3282cfd4791/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "86fd0051-b16d-4938-860d-79ff40deed57",
@@ -1676,7 +1676,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/86fd0051-b16d-4938-860d-79ff40deed57",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/86fd0051-b16d-4938-860d-79ff40deed57/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8c0e7d25-fd0d-4dec-b7db-579e80a6bae3",
@@ -1694,7 +1694,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/8c0e7d25-fd0d-4dec-b7db-579e80a6bae3",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/8c0e7d25-fd0d-4dec-b7db-579e80a6bae3/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8d2b3505-ac68-4456-9f3d-c4976a8966e4",
@@ -1712,7 +1712,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/8d2b3505-ac68-4456-9f3d-c4976a8966e4",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/8d2b3505-ac68-4456-9f3d-c4976a8966e4/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8f763319-585e-4a28-b38b-a072ff15b1ec",
@@ -1730,7 +1730,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/8f763319-585e-4a28-b38b-a072ff15b1ec",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/8f763319-585e-4a28-b38b-a072ff15b1ec/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "91af3384-fd7a-45b5-8731-9bf02c6b361b",
@@ -1748,7 +1748,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/91af3384-fd7a-45b5-8731-9bf02c6b361b",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/91af3384-fd7a-45b5-8731-9bf02c6b361b/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "9399664e-0203-42b1-a31f-fd2ea895ff54",
@@ -1766,7 +1766,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/9399664e-0203-42b1-a31f-fd2ea895ff54",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/9399664e-0203-42b1-a31f-fd2ea895ff54/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "952b21ff-9cd2-45ad-b980-366c26f1bf07",
@@ -1784,7 +1784,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/952b21ff-9cd2-45ad-b980-366c26f1bf07",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/952b21ff-9cd2-45ad-b980-366c26f1bf07/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "95c5df56-5c32-4c6a-85b5-4a81cccb5d80",
@@ -1802,7 +1802,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/95c5df56-5c32-4c6a-85b5-4a81cccb5d80",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/95c5df56-5c32-4c6a-85b5-4a81cccb5d80/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "960254f3-173b-4a05-ae05-f78b96b6d3b6",
@@ -1820,7 +1820,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/960254f3-173b-4a05-ae05-f78b96b6d3b6",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/960254f3-173b-4a05-ae05-f78b96b6d3b6/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "98a4d54c-46f1-4aed-9d4a-4867b9e102cb",
@@ -1838,7 +1838,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/98a4d54c-46f1-4aed-9d4a-4867b9e102cb",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/98a4d54c-46f1-4aed-9d4a-4867b9e102cb/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "9b7c5fd8-368b-48a7-b704-77424309b112",
@@ -1856,7 +1856,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/9b7c5fd8-368b-48a7-b704-77424309b112",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/9b7c5fd8-368b-48a7-b704-77424309b112/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "9c40a517-5a97-45b0-a037-0434fc363363",
@@ -1874,7 +1874,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/9c40a517-5a97-45b0-a037-0434fc363363",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/9c40a517-5a97-45b0-a037-0434fc363363/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "9e4f1024-e49f-4d03-b3e4-1157bb142e35",
@@ -1892,7 +1892,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/9e4f1024-e49f-4d03-b3e4-1157bb142e35",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/9e4f1024-e49f-4d03-b3e4-1157bb142e35/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "a208f3b4-c625-4a1a-b26b-5fe0dddf400e",
@@ -1910,7 +1910,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/a208f3b4-c625-4a1a-b26b-5fe0dddf400e",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/a208f3b4-c625-4a1a-b26b-5fe0dddf400e/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "a3ff8724-7c14-49ae-a2a3-5b80c7b1ed49",
@@ -1928,7 +1928,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/a3ff8724-7c14-49ae-a2a3-5b80c7b1ed49",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/a3ff8724-7c14-49ae-a2a3-5b80c7b1ed49/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "a4193f2d-49f1-4a12-8d0c-a51e15e61a2b",
@@ -1946,7 +1946,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/a4193f2d-49f1-4a12-8d0c-a51e15e61a2b",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/a4193f2d-49f1-4a12-8d0c-a51e15e61a2b/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "a4281177-2950-4ac1-bc17-f50cda06a44f",
@@ -1964,7 +1964,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/a4281177-2950-4ac1-bc17-f50cda06a44f",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/a4281177-2950-4ac1-bc17-f50cda06a44f/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "a4c01f6f-0af3-4048-a5d2-2f3ddf7339f1",
@@ -1982,7 +1982,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/a4c01f6f-0af3-4048-a5d2-2f3ddf7339f1",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/a4c01f6f-0af3-4048-a5d2-2f3ddf7339f1/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "a602b01f-1045-4c38-a209-ae745bd99dc3",
@@ -2000,7 +2000,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/a602b01f-1045-4c38-a209-ae745bd99dc3",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/a602b01f-1045-4c38-a209-ae745bd99dc3/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "a6f0d577-b47e-48ee-9cb3-11311aee901a",
@@ -2018,7 +2018,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/a6f0d577-b47e-48ee-9cb3-11311aee901a",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/a6f0d577-b47e-48ee-9cb3-11311aee901a/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "a92812cd-7731-46cc-9c58-34368a1fe4e0",
@@ -2036,7 +2036,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/a92812cd-7731-46cc-9c58-34368a1fe4e0",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/a92812cd-7731-46cc-9c58-34368a1fe4e0/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "ab30c611-0560-4296-bb0b-42f196f69e0d",
@@ -2054,7 +2054,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/ab30c611-0560-4296-bb0b-42f196f69e0d",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/ab30c611-0560-4296-bb0b-42f196f69e0d/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "ac44e4fb-93d0-4b82-8ee1-f99e065a471e",
@@ -2072,7 +2072,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/ac44e4fb-93d0-4b82-8ee1-f99e065a471e",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/ac44e4fb-93d0-4b82-8ee1-f99e065a471e/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "b2388c6c-f344-46fe-adf4-a444def96920",
@@ -2090,7 +2090,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/b2388c6c-f344-46fe-adf4-a444def96920",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/b2388c6c-f344-46fe-adf4-a444def96920/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "b3da4ade-1fc5-4779-a9a7-2d4ba5ad4811",
@@ -2108,7 +2108,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/b3da4ade-1fc5-4779-a9a7-2d4ba5ad4811",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/b3da4ade-1fc5-4779-a9a7-2d4ba5ad4811/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "b3eaeabe-b7df-44fa-bd97-8be9ed5349d3",
@@ -2126,7 +2126,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/b3eaeabe-b7df-44fa-bd97-8be9ed5349d3",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/b3eaeabe-b7df-44fa-bd97-8be9ed5349d3/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "b4445d17-b860-49d8-b19c-7e6d9c4bc696",
@@ -2144,7 +2144,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/b4445d17-b860-49d8-b19c-7e6d9c4bc696",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/b4445d17-b860-49d8-b19c-7e6d9c4bc696/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "b484738d-79c1-4afa-886f-77ffa9f366d2",
@@ -2162,7 +2162,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/b484738d-79c1-4afa-886f-77ffa9f366d2",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/b484738d-79c1-4afa-886f-77ffa9f366d2/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "b99d7663-2476-4e6d-8899-08e72c4d6f10",
@@ -2180,7 +2180,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/b99d7663-2476-4e6d-8899-08e72c4d6f10",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/b99d7663-2476-4e6d-8899-08e72c4d6f10/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "bc00a8a0-37aa-4031-b207-d2257fda4afe",
@@ -2198,7 +2198,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/bc00a8a0-37aa-4031-b207-d2257fda4afe",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/bc00a8a0-37aa-4031-b207-d2257fda4afe/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "beb06c96-fed6-43db-b938-637a33a815b3",
@@ -2216,7 +2216,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/beb06c96-fed6-43db-b938-637a33a815b3",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/beb06c96-fed6-43db-b938-637a33a815b3/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "bfa3e21e-6486-4bbb-99f0-af3a5b594bf0",
@@ -2234,7 +2234,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/bfa3e21e-6486-4bbb-99f0-af3a5b594bf0",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/bfa3e21e-6486-4bbb-99f0-af3a5b594bf0/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "c12b4ee6-9b8f-41b4-9775-6d192240ef01",
@@ -2252,7 +2252,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/c12b4ee6-9b8f-41b4-9775-6d192240ef01",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/c12b4ee6-9b8f-41b4-9775-6d192240ef01/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "c14e5723-6558-4d05-ba85-31eebce65e58",
@@ -2270,7 +2270,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/c14e5723-6558-4d05-ba85-31eebce65e58",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/c14e5723-6558-4d05-ba85-31eebce65e58/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "c3555a38-5881-46ae-a129-eb14b5c9c582",
@@ -2288,7 +2288,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/c3555a38-5881-46ae-a129-eb14b5c9c582",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/c3555a38-5881-46ae-a129-eb14b5c9c582/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "c87f9a41-786e-4877-a5d2-23071cad7fe6",
@@ -2306,7 +2306,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/c87f9a41-786e-4877-a5d2-23071cad7fe6",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/c87f9a41-786e-4877-a5d2-23071cad7fe6/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "c977cd42-26bf-4eee-aaa2-158318047861",
@@ -2324,7 +2324,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/c977cd42-26bf-4eee-aaa2-158318047861",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/c977cd42-26bf-4eee-aaa2-158318047861/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "ca8ebfd9-7e0f-425c-9143-fc1c0706a2c6",
@@ -2342,7 +2342,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/ca8ebfd9-7e0f-425c-9143-fc1c0706a2c6",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/ca8ebfd9-7e0f-425c-9143-fc1c0706a2c6/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "cb7b9816-eb16-40e5-8790-a7853379f19b",
@@ -2360,7 +2360,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/cb7b9816-eb16-40e5-8790-a7853379f19b",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/cb7b9816-eb16-40e5-8790-a7853379f19b/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "cbb19955-bb9a-482e-ba72-35e82a60bcca",
@@ -2378,7 +2378,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/cbb19955-bb9a-482e-ba72-35e82a60bcca",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/cbb19955-bb9a-482e-ba72-35e82a60bcca/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "cbd5c1c5-aa40-4ef1-8ac3-018e8d25d8ca",
@@ -2396,7 +2396,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/cbd5c1c5-aa40-4ef1-8ac3-018e8d25d8ca",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/cbd5c1c5-aa40-4ef1-8ac3-018e8d25d8ca/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "cd337b3d-774c-4d15-a391-7f4abf362dc7",
@@ -2414,7 +2414,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/cd337b3d-774c-4d15-a391-7f4abf362dc7",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/cd337b3d-774c-4d15-a391-7f4abf362dc7/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "ce278443-5054-4d74-bf13-22b9bf15ca9c",
@@ -2432,7 +2432,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/ce278443-5054-4d74-bf13-22b9bf15ca9c",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/ce278443-5054-4d74-bf13-22b9bf15ca9c/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "ceb17c25-0d1d-4f2b-a94f-10db5c3c5299",
@@ -2450,7 +2450,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/ceb17c25-0d1d-4f2b-a94f-10db5c3c5299",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/ceb17c25-0d1d-4f2b-a94f-10db5c3c5299/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "d02c70ac-9374-46c9-a652-91ee39f98f7c",
@@ -2468,7 +2468,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/d02c70ac-9374-46c9-a652-91ee39f98f7c",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/d02c70ac-9374-46c9-a652-91ee39f98f7c/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "d04bdcbf-caa9-4bb0-8067-9b44d73b55e2",
@@ -2486,7 +2486,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/d04bdcbf-caa9-4bb0-8067-9b44d73b55e2",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/d04bdcbf-caa9-4bb0-8067-9b44d73b55e2/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "d0c55a93-fbab-401e-b24b-0844aafb9523",
@@ -2504,7 +2504,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/d0c55a93-fbab-401e-b24b-0844aafb9523",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/d0c55a93-fbab-401e-b24b-0844aafb9523/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "d163eb3e-94b8-4377-a538-9a42a4758f30",
@@ -2522,7 +2522,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/d163eb3e-94b8-4377-a538-9a42a4758f30",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/d163eb3e-94b8-4377-a538-9a42a4758f30/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "d30ae0a2-a26e-49f4-a435-530886e4474b",
@@ -2540,7 +2540,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/d30ae0a2-a26e-49f4-a435-530886e4474b",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/d30ae0a2-a26e-49f4-a435-530886e4474b/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "d32b51e6-9ca6-4b0b-b540-3a957517f0cd",
@@ -2558,7 +2558,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/d32b51e6-9ca6-4b0b-b540-3a957517f0cd",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/d32b51e6-9ca6-4b0b-b540-3a957517f0cd/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "d338290b-ddab-499a-a7a1-03bf19b3b58d",
@@ -2576,7 +2576,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/d338290b-ddab-499a-a7a1-03bf19b3b58d",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/d338290b-ddab-499a-a7a1-03bf19b3b58d/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "d33dfc15-9a74-4344-b159-32da09a0af08",
@@ -2594,7 +2594,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/d33dfc15-9a74-4344-b159-32da09a0af08",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/d33dfc15-9a74-4344-b159-32da09a0af08/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "d37dcda7-ca6d-43d1-8138-d028d4e0d3be",
@@ -2612,7 +2612,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/d37dcda7-ca6d-43d1-8138-d028d4e0d3be",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/d37dcda7-ca6d-43d1-8138-d028d4e0d3be/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "d3d85b21-b594-4436-bdaf-abe3521d6cd1",
@@ -2630,7 +2630,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/d3d85b21-b594-4436-bdaf-abe3521d6cd1",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/d3d85b21-b594-4436-bdaf-abe3521d6cd1/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "d73b2f1c-b624-41a1-a962-98fdc6fd8f78",
@@ -2642,13 +2642,13 @@
       "employment_type": "FULL_TIME",
       "salary_text": "",
       "salary_source": "",
-      "posted": "2026-11-11",
-      "updated": "2026-11-11",
+      "posted": "2026-11-19",
+      "updated": "2026-11-19",
       "deadline": "",
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/d73b2f1c-b624-41a1-a962-98fdc6fd8f78",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/d73b2f1c-b624-41a1-a962-98fdc6fd8f78/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "d9073fd7-da9d-4560-bf7e-77367f34e1a6",
@@ -2666,7 +2666,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/d9073fd7-da9d-4560-bf7e-77367f34e1a6",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/d9073fd7-da9d-4560-bf7e-77367f34e1a6/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "d925246b-0dc7-4e2a-b824-e4394ddb8ee4",
@@ -2684,7 +2684,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/d925246b-0dc7-4e2a-b824-e4394ddb8ee4",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/d925246b-0dc7-4e2a-b824-e4394ddb8ee4/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "db8fb29f-53cc-4336-9430-652f60bc662e",
@@ -2702,7 +2702,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/db8fb29f-53cc-4336-9430-652f60bc662e",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/db8fb29f-53cc-4336-9430-652f60bc662e/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "dd458ed1-3b04-444a-b814-43a0836f9d6c",
@@ -2720,7 +2720,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/dd458ed1-3b04-444a-b814-43a0836f9d6c",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/dd458ed1-3b04-444a-b814-43a0836f9d6c/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "df6036b1-04c4-4caa-b7cd-5ceea49f5884",
@@ -2738,7 +2738,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/df6036b1-04c4-4caa-b7cd-5ceea49f5884",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/df6036b1-04c4-4caa-b7cd-5ceea49f5884/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "e0fe705f-5a49-4c94-bf33-85e27ea51ae7",
@@ -2750,13 +2750,13 @@
       "employment_type": "FULL_TIME",
       "salary_text": "",
       "salary_source": "",
-      "posted": "2026-11-09",
-      "updated": "2026-11-09",
+      "posted": "2026-11-19",
+      "updated": "2026-11-19",
       "deadline": "",
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/e0fe705f-5a49-4c94-bf33-85e27ea51ae7",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/e0fe705f-5a49-4c94-bf33-85e27ea51ae7/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "e1bb3a3c-b8cc-4ef7-bbe5-a33086c46f3a",
@@ -2774,7 +2774,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/e1bb3a3c-b8cc-4ef7-bbe5-a33086c46f3a",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/e1bb3a3c-b8cc-4ef7-bbe5-a33086c46f3a/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "e1ea7da7-e80b-4228-aa58-9340d114792a",
@@ -2792,7 +2792,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/e1ea7da7-e80b-4228-aa58-9340d114792a",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/e1ea7da7-e80b-4228-aa58-9340d114792a/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "e4dc1f9a-ce41-45a4-9987-f3f88e246aa9",
@@ -2810,7 +2810,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/e4dc1f9a-ce41-45a4-9987-f3f88e246aa9",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/e4dc1f9a-ce41-45a4-9987-f3f88e246aa9/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "e4f88eb5-92b4-448a-95a4-640c34c2d301",
@@ -2828,7 +2828,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/e4f88eb5-92b4-448a-95a4-640c34c2d301",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/e4f88eb5-92b4-448a-95a4-640c34c2d301/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "e56e01cd-b3ce-4f9a-a0b1-3c770bb46156",
@@ -2846,7 +2846,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/e56e01cd-b3ce-4f9a-a0b1-3c770bb46156",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/e56e01cd-b3ce-4f9a-a0b1-3c770bb46156/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "e70cd663-becf-4f18-bcd4-1d1b3769fdba",
@@ -2864,7 +2864,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/e70cd663-becf-4f18-bcd4-1d1b3769fdba",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/e70cd663-becf-4f18-bcd4-1d1b3769fdba/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "e93be3d6-b949-4ec7-ad02-7b005315370b",
@@ -2876,13 +2876,13 @@
       "employment_type": "FULL_TIME",
       "salary_text": "",
       "salary_source": "",
-      "posted": "2026-11-11",
-      "updated": "2026-11-17",
+      "posted": "2026-11-19",
+      "updated": "2026-11-19",
       "deadline": "",
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/e93be3d6-b949-4ec7-ad02-7b005315370b",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/e93be3d6-b949-4ec7-ad02-7b005315370b/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "ea602c2b-0b35-4bb2-b196-eaa46687d83e",
@@ -2900,7 +2900,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/ea602c2b-0b35-4bb2-b196-eaa46687d83e",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/ea602c2b-0b35-4bb2-b196-eaa46687d83e/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "eb386c27-3000-42b3-8ee0-d74aba0220fa",
@@ -2918,7 +2918,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/eb386c27-3000-42b3-8ee0-d74aba0220fa",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/eb386c27-3000-42b3-8ee0-d74aba0220fa/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "eda776b5-80c8-4d5f-820d-6acf65ad7ca8",
@@ -2930,13 +2930,13 @@
       "employment_type": "FULL_TIME",
       "salary_text": "",
       "salary_source": "",
-      "posted": "2026-11-11",
-      "updated": "2026-11-11",
+      "posted": "2026-11-19",
+      "updated": "2026-11-19",
       "deadline": "",
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/eda776b5-80c8-4d5f-820d-6acf65ad7ca8",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/eda776b5-80c8-4d5f-820d-6acf65ad7ca8/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "edb2ff88-6220-46f2-9a8f-f310362f6100",
@@ -2954,7 +2954,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/edb2ff88-6220-46f2-9a8f-f310362f6100",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/edb2ff88-6220-46f2-9a8f-f310362f6100/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "edfa2c5f-3c11-4042-8659-cb72d90821b3",
@@ -2972,7 +2972,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/edfa2c5f-3c11-4042-8659-cb72d90821b3",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/edfa2c5f-3c11-4042-8659-cb72d90821b3/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "f18cf528-14e1-4648-b4c9-a64edbb91bb0",
@@ -2990,7 +2990,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/f18cf528-14e1-4648-b4c9-a64edbb91bb0",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/f18cf528-14e1-4648-b4c9-a64edbb91bb0/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "f1bdf183-2344-4343-8327-b857846252ec",
@@ -3008,7 +3008,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/f1bdf183-2344-4343-8327-b857846252ec",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/f1bdf183-2344-4343-8327-b857846252ec/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "f3ebb42d-01bf-441c-a1e4-996fb91446b2",
@@ -3026,7 +3026,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/f3ebb42d-01bf-441c-a1e4-996fb91446b2",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/f3ebb42d-01bf-441c-a1e4-996fb91446b2/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "f5334c3e-5b8a-4def-8b20-68d761f26248",
@@ -3044,7 +3044,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/f5334c3e-5b8a-4def-8b20-68d761f26248",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/f5334c3e-5b8a-4def-8b20-68d761f26248/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "f59626aa-ef70-47f2-9d61-83c4dbbed7b7",
@@ -3062,7 +3062,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/f59626aa-ef70-47f2-9d61-83c4dbbed7b7",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/f59626aa-ef70-47f2-9d61-83c4dbbed7b7/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "f63dfe42-3fe4-4a3a-a5a9-edac34e9078a",
@@ -3080,7 +3080,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/f63dfe42-3fe4-4a3a-a5a9-edac34e9078a",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/f63dfe42-3fe4-4a3a-a5a9-edac34e9078a/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "f8424dc3-7eb1-490a-a945-64f2fc24fe70",
@@ -3098,7 +3098,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/f8424dc3-7eb1-490a-a945-64f2fc24fe70",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/f8424dc3-7eb1-490a-a945-64f2fc24fe70/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "f8503c70-9b4d-4a58-bae7-ca9594f3a2cd",
@@ -3116,7 +3116,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/f8503c70-9b4d-4a58-bae7-ca9594f3a2cd",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/f8503c70-9b4d-4a58-bae7-ca9594f3a2cd/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "f9313b84-be8e-43ae-b648-910e81d4dc95",
@@ -3134,7 +3134,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/f9313b84-be8e-43ae-b648-910e81d4dc95",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/f9313b84-be8e-43ae-b648-910e81d4dc95/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "f99cb609-ca78-4fe1-a7bc-4ea81e532f49",
@@ -3152,7 +3152,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/f99cb609-ca78-4fe1-a7bc-4ea81e532f49",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/f99cb609-ca78-4fe1-a7bc-4ea81e532f49/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "f9fc52d7-a3d3-4c20-9d38-ed7ba7938340",
@@ -3170,7 +3170,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/f9fc52d7-a3d3-4c20-9d38-ed7ba7938340",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/f9fc52d7-a3d3-4c20-9d38-ed7ba7938340/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "fa021e67-9995-46d0-b7c8-dbfe4be3fdbc",
@@ -3188,7 +3188,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/fa021e67-9995-46d0-b7c8-dbfe4be3fdbc",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/fa021e67-9995-46d0-b7c8-dbfe4be3fdbc/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "faefc6d5-d7d2-4929-b098-4a49d3a881db",
@@ -3206,7 +3206,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/faefc6d5-d7d2-4929-b098-4a49d3a881db",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/faefc6d5-d7d2-4929-b098-4a49d3a881db/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "fb3ba215-430c-4b6b-af67-ed7f2277d7c1",
@@ -3224,7 +3224,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/fb3ba215-430c-4b6b-af67-ed7f2277d7c1",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/fb3ba215-430c-4b6b-af67-ed7f2277d7c1/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "fcb8b24c-334d-4920-92da-17001860ae25",
@@ -3242,7 +3242,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/fcb8b24c-334d-4920-92da-17001860ae25",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/fcb8b24c-334d-4920-92da-17001860ae25/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "fcd945f2-a10c-449c-90ff-9af76a7e2916",
@@ -3260,7 +3260,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/fcd945f2-a10c-449c-90ff-9af76a7e2916",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/fcd945f2-a10c-449c-90ff-9af76a7e2916/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "fe715bc0-796a-407e-96c0-3654f9abb443",
@@ -3278,7 +3278,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/antahr/142914#/job/fe715bc0-796a-407e-96c0-3654f9abb443",
       "apply_url": "https://app.mokahr.com/campus_apply/antahr/142914#/job/fe715bc0-796a-407e-96c0-3654f9abb443/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     }
   ],
   "ats": "moka",

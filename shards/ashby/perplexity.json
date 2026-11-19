@@ -1,8 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-18T15:36:26Z",
+  "checked_at": "2026-11-19T15:42:04Z",
   "failed_at": null,
-  "etag": "W/\"job-board:9b284f612d7ae3465fbb930f17079e2a8b2358a8763f06b3f7882decb1ace0ac\"",
+  "etag": "W/\"job-board:59b808ab30d74987038a63038619295cdb84ac5ce76ae0a553149246ebad74da\"",
   "jobs": [
     {
       "id": "0190699f-010b-44f2-8399-278899fef018",
@@ -20,7 +20,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/0190699f-010b-44f2-8399-278899fef018",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/0190699f-010b-44f2-8399-278899fef018/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "043d6a58-87a1-4e3c-bf47-4dc351b94cf4",
@@ -38,7 +38,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/043d6a58-87a1-4e3c-bf47-4dc351b94cf4",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/043d6a58-87a1-4e3c-bf47-4dc351b94cf4/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "04d73be4-8a69-4e62-9b0d-e9b7968cf860",
@@ -56,7 +56,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/04d73be4-8a69-4e62-9b0d-e9b7968cf860",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/04d73be4-8a69-4e62-9b0d-e9b7968cf860/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "06dcd116-2b07-4f40-869e-06ed540f7614",
@@ -74,7 +74,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/06dcd116-2b07-4f40-869e-06ed540f7614",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/06dcd116-2b07-4f40-869e-06ed540f7614/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "0807f77b-4499-498a-b2bf-3cd44d965138",
@@ -92,7 +92,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/0807f77b-4499-498a-b2bf-3cd44d965138",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/0807f77b-4499-498a-b2bf-3cd44d965138/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "08f1a218-bdff-4cdd-aefe-0d55529b1ece",
@@ -110,7 +110,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/08f1a218-bdff-4cdd-aefe-0d55529b1ece",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/08f1a218-bdff-4cdd-aefe-0d55529b1ece/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "09a2f0e5-c38c-49ee-a5af-9a179e137a44",
@@ -128,7 +128,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/09a2f0e5-c38c-49ee-a5af-9a179e137a44",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/09a2f0e5-c38c-49ee-a5af-9a179e137a44/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "0c5d5a82-bfed-4786-b411-79073979af07",
@@ -146,7 +146,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/0c5d5a82-bfed-4786-b411-79073979af07",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/0c5d5a82-bfed-4786-b411-79073979af07/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "0d722589-0f8c-4500-ae79-d3bba5c8a0ea",
@@ -164,11 +164,11 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/0d722589-0f8c-4500-ae79-d3bba5c8a0ea",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/0d722589-0f8c-4500-ae79-d3bba5c8a0ea/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "0ddf1b9a-9875-445c-a78f-f033d023a34a",
-      "title": "Head of Marketing Operations",
+      "title": "Head of Pipeline Operations",
       "company": "Perplexity",
       "location": "San Francisco",
       "remote": "hybrid",
@@ -182,7 +182,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/0ddf1b9a-9875-445c-a78f-f033d023a34a",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/0ddf1b9a-9875-445c-a78f-f033d023a34a/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "1056951e-8a42-4330-b72c-90162b3cd1c9",
@@ -194,13 +194,13 @@
       "employment_type": "FULL_TIME",
       "salary_text": "$220K - $405K",
       "salary_source": "ashby",
-      "posted": "2026-11-07",
+      "posted": "2026-11-19",
       "updated": "",
       "deadline": "",
       "source_url": "https://jobs.ashbyhq.com/Perplexity/1056951e-8a42-4330-b72c-90162b3cd1c9",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/1056951e-8a42-4330-b72c-90162b3cd1c9/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "10a51134-6741-40ec-8cca-a8ac1534673b",
@@ -212,13 +212,13 @@
       "employment_type": "FULL_TIME",
       "salary_text": "$250K - $405K",
       "salary_source": "ashby",
-      "posted": "2026-11-15",
+      "posted": "2026-11-19",
       "updated": "",
       "deadline": "",
       "source_url": "https://jobs.ashbyhq.com/Perplexity/10a51134-6741-40ec-8cca-a8ac1534673b",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/10a51134-6741-40ec-8cca-a8ac1534673b/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "1354f2e8-56c8-4a66-81f8-eb5d5b944506",
@@ -236,7 +236,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/1354f2e8-56c8-4a66-81f8-eb5d5b944506",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/1354f2e8-56c8-4a66-81f8-eb5d5b944506/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "14a45e74-9cde-4622-8172-1b6968810802",
@@ -254,7 +254,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/14a45e74-9cde-4622-8172-1b6968810802",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/14a45e74-9cde-4622-8172-1b6968810802/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "15829848-2f10-4130-9409-415bafe0a028",
@@ -272,7 +272,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/15829848-2f10-4130-9409-415bafe0a028",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/15829848-2f10-4130-9409-415bafe0a028/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "182ab2ec-6fb1-409b-a2dc-63c7832b0a13",
@@ -290,7 +290,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/182ab2ec-6fb1-409b-a2dc-63c7832b0a13",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/182ab2ec-6fb1-409b-a2dc-63c7832b0a13/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "18509f15-ab49-450d-8a01-4b280e464ad0",
@@ -308,7 +308,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/18509f15-ab49-450d-8a01-4b280e464ad0",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/18509f15-ab49-450d-8a01-4b280e464ad0/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "190962f1-a955-4690-8025-6943dcbf063c",
@@ -326,7 +326,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/190962f1-a955-4690-8025-6943dcbf063c",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/190962f1-a955-4690-8025-6943dcbf063c/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "19d8bcfd-e493-4b3a-b8fd-11a2a6502da2",
@@ -344,7 +344,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/19d8bcfd-e493-4b3a-b8fd-11a2a6502da2",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/19d8bcfd-e493-4b3a-b8fd-11a2a6502da2/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "25fb9e90-e164-4a50-b35f-535572f35a30",
@@ -362,7 +362,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/25fb9e90-e164-4a50-b35f-535572f35a30",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/25fb9e90-e164-4a50-b35f-535572f35a30/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "27aa1a14-bc59-4613-a65a-38598695076f",
@@ -380,7 +380,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/27aa1a14-bc59-4613-a65a-38598695076f",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/27aa1a14-bc59-4613-a65a-38598695076f/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "27dd2e43-e2b0-48e8-a339-b2842b4c3298",
@@ -398,7 +398,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/27dd2e43-e2b0-48e8-a339-b2842b4c3298",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/27dd2e43-e2b0-48e8-a339-b2842b4c3298/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "2a5aa5f6-596b-45c3-84db-ac0b96363f93",
@@ -416,7 +416,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/2a5aa5f6-596b-45c3-84db-ac0b96363f93",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/2a5aa5f6-596b-45c3-84db-ac0b96363f93/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "2be717cb-ad3e-4052-a464-79b107a70406",
@@ -434,7 +434,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/2be717cb-ad3e-4052-a464-79b107a70406",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/2be717cb-ad3e-4052-a464-79b107a70406/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "2c5fdd71-472a-4c62-bc53-deafb66e7941",
@@ -452,7 +452,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/2c5fdd71-472a-4c62-bc53-deafb66e7941",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/2c5fdd71-472a-4c62-bc53-deafb66e7941/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "2c6ae16b-d03e-4e33-9d32-362c5388e956",
@@ -470,7 +470,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/2c6ae16b-d03e-4e33-9d32-362c5388e956",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/2c6ae16b-d03e-4e33-9d32-362c5388e956/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "2cfb391c-eaa4-4a97-83da-18ca275d50a5",
@@ -488,7 +488,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/2cfb391c-eaa4-4a97-83da-18ca275d50a5",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/2cfb391c-eaa4-4a97-83da-18ca275d50a5/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "2d510148-8cce-4b67-be25-5784106bbff4",
@@ -506,7 +506,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/2d510148-8cce-4b67-be25-5784106bbff4",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/2d510148-8cce-4b67-be25-5784106bbff4/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "2df92d4a-48eb-422f-af9c-4a963fd6135c",
@@ -524,7 +524,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/2df92d4a-48eb-422f-af9c-4a963fd6135c",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/2df92d4a-48eb-422f-af9c-4a963fd6135c/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "2e73bc78-684c-47c5-95df-e9973a10e0b6",
@@ -542,7 +542,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/2e73bc78-684c-47c5-95df-e9973a10e0b6",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/2e73bc78-684c-47c5-95df-e9973a10e0b6/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "32a36cae-ad73-4198-9354-a72b141ff055",
@@ -560,7 +560,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/32a36cae-ad73-4198-9354-a72b141ff055",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/32a36cae-ad73-4198-9354-a72b141ff055/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "375f9fc9-392e-4d0b-9a10-4b2013e05ad4",
@@ -578,7 +578,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/375f9fc9-392e-4d0b-9a10-4b2013e05ad4",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/375f9fc9-392e-4d0b-9a10-4b2013e05ad4/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "39250c5d-1670-4a63-8a66-bfd495c85e6f",
@@ -596,7 +596,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/39250c5d-1670-4a63-8a66-bfd495c85e6f",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/39250c5d-1670-4a63-8a66-bfd495c85e6f/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "3938a587-e8ba-4cdf-a811-1f58072b51e3",
@@ -614,7 +614,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/3938a587-e8ba-4cdf-a811-1f58072b51e3",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/3938a587-e8ba-4cdf-a811-1f58072b51e3/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "39d520eb-6b81-4b61-8b23-5efcdac4cad9",
@@ -632,7 +632,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/39d520eb-6b81-4b61-8b23-5efcdac4cad9",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/39d520eb-6b81-4b61-8b23-5efcdac4cad9/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "3b349a2f-360e-44e6-a57d-6a87bc3016a7",
@@ -650,7 +650,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/3b349a2f-360e-44e6-a57d-6a87bc3016a7",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/3b349a2f-360e-44e6-a57d-6a87bc3016a7/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "3b523d3a-23bd-4887-8e3c-239d14d66b06",
@@ -668,7 +668,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/3b523d3a-23bd-4887-8e3c-239d14d66b06",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/3b523d3a-23bd-4887-8e3c-239d14d66b06/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "3c656963-876a-458d-bca6-916a42a24c1a",
@@ -686,7 +686,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/3c656963-876a-458d-bca6-916a42a24c1a",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/3c656963-876a-458d-bca6-916a42a24c1a/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "3c9c051f-e6ca-4a70-9abf-1f640e154ee1",
@@ -704,7 +704,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/3c9c051f-e6ca-4a70-9abf-1f640e154ee1",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/3c9c051f-e6ca-4a70-9abf-1f640e154ee1/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "3d7ef710-b1f6-4a80-af57-946f9bccd35b",
@@ -722,7 +722,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/3d7ef710-b1f6-4a80-af57-946f9bccd35b",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/3d7ef710-b1f6-4a80-af57-946f9bccd35b/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "3f0dc0ad-aa9a-4cd8-aa75-245112f3b2de",
@@ -734,13 +734,13 @@
       "employment_type": "FULL_TIME",
       "salary_text": "$300K - $485K",
       "salary_source": "ashby",
-      "posted": "2026-11-09",
+      "posted": "2026-11-19",
       "updated": "",
       "deadline": "",
       "source_url": "https://jobs.ashbyhq.com/Perplexity/3f0dc0ad-aa9a-4cd8-aa75-245112f3b2de",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/3f0dc0ad-aa9a-4cd8-aa75-245112f3b2de/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "3f800e42-7c48-4f9a-9b12-43ee23e52516",
@@ -758,7 +758,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/3f800e42-7c48-4f9a-9b12-43ee23e52516",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/3f800e42-7c48-4f9a-9b12-43ee23e52516/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "441daa65-5fd9-499d-91ac-acecdc1952d2",
@@ -776,7 +776,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/441daa65-5fd9-499d-91ac-acecdc1952d2",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/441daa65-5fd9-499d-91ac-acecdc1952d2/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "446ec593-aa8d-4ae4-a2c1-859b8373e1d5",
@@ -794,7 +794,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/446ec593-aa8d-4ae4-a2c1-859b8373e1d5",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/446ec593-aa8d-4ae4-a2c1-859b8373e1d5/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "4614796c-27b7-4b7f-8ccd-3711c99358d9",
@@ -812,7 +812,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/4614796c-27b7-4b7f-8ccd-3711c99358d9",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/4614796c-27b7-4b7f-8ccd-3711c99358d9/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "4b5e02a8-6a94-494d-9d49-037f2cfc144d",
@@ -830,7 +830,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/4b5e02a8-6a94-494d-9d49-037f2cfc144d",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/4b5e02a8-6a94-494d-9d49-037f2cfc144d/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "4bab4560-68b4-44ec-8a5c-5a39216f2abb",
@@ -848,7 +848,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/4bab4560-68b4-44ec-8a5c-5a39216f2abb",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/4bab4560-68b4-44ec-8a5c-5a39216f2abb/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "4c0ac8bb-55bf-4fb0-b7d7-36d69f55e6c8",
@@ -866,7 +866,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/4c0ac8bb-55bf-4fb0-b7d7-36d69f55e6c8",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/4c0ac8bb-55bf-4fb0-b7d7-36d69f55e6c8/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "4c316774-abea-47d9-b681-5fdc005e4229",
@@ -884,7 +884,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/4c316774-abea-47d9-b681-5fdc005e4229",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/4c316774-abea-47d9-b681-5fdc005e4229/application",
       "first_seen": "2026-11-16T15:39:28Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "4d8f7e23-8c80-4bd8-ad27-3f40cf17197b",
@@ -902,7 +902,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/4d8f7e23-8c80-4bd8-ad27-3f40cf17197b",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/4d8f7e23-8c80-4bd8-ad27-3f40cf17197b/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "4fba58de-a168-4948-9d82-a7d4b38f45f2",
@@ -920,7 +920,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/4fba58de-a168-4948-9d82-a7d4b38f45f2",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/4fba58de-a168-4948-9d82-a7d4b38f45f2/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "5080dab5-7eb7-4cb2-9e2c-c61531fd3ad1",
@@ -938,7 +938,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/5080dab5-7eb7-4cb2-9e2c-c61531fd3ad1",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/5080dab5-7eb7-4cb2-9e2c-c61531fd3ad1/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "5149f625-1c76-4ca1-b076-7b81ed23c758",
@@ -956,7 +956,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/5149f625-1c76-4ca1-b076-7b81ed23c758",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/5149f625-1c76-4ca1-b076-7b81ed23c758/application",
       "first_seen": "2026-11-16T15:39:28Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "5551fd7b-9ede-460e-9b38-4328c476a521",
@@ -974,7 +974,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/5551fd7b-9ede-460e-9b38-4328c476a521",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/5551fd7b-9ede-460e-9b38-4328c476a521/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "5a4cec8b-5688-497c-a5ec-884f75d09511",
@@ -992,7 +992,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/5a4cec8b-5688-497c-a5ec-884f75d09511",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/5a4cec8b-5688-497c-a5ec-884f75d09511/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "5c561bd0-c180-4ee1-b079-647f3c20bdc0",
@@ -1010,7 +1010,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/5c561bd0-c180-4ee1-b079-647f3c20bdc0",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/5c561bd0-c180-4ee1-b079-647f3c20bdc0/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "5ec96ca1-319a-4b85-99ce-e06629099cf9",
@@ -1028,7 +1028,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/5ec96ca1-319a-4b85-99ce-e06629099cf9",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/5ec96ca1-319a-4b85-99ce-e06629099cf9/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "5fe2b80d-9d59-42bb-90e6-9a0b78d7d403",
@@ -1046,7 +1046,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/5fe2b80d-9d59-42bb-90e6-9a0b78d7d403",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/5fe2b80d-9d59-42bb-90e6-9a0b78d7d403/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "60deb376-51b5-46c6-9e17-55377a5ef34e",
@@ -1064,7 +1064,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/60deb376-51b5-46c6-9e17-55377a5ef34e",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/60deb376-51b5-46c6-9e17-55377a5ef34e/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "63785f62-07ac-4dc5-8f68-57779dddb1f3",
@@ -1082,7 +1082,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/63785f62-07ac-4dc5-8f68-57779dddb1f3",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/63785f62-07ac-4dc5-8f68-57779dddb1f3/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "69fd6a56-0050-44f7-9ed2-2c3a7320908d",
@@ -1100,7 +1100,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/69fd6a56-0050-44f7-9ed2-2c3a7320908d",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/69fd6a56-0050-44f7-9ed2-2c3a7320908d/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "6b2da750-51fb-4428-b682-fe2296d9aef7",
@@ -1118,7 +1118,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/6b2da750-51fb-4428-b682-fe2296d9aef7",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/6b2da750-51fb-4428-b682-fe2296d9aef7/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "6c9b3c71-85ba-47db-bce5-44fd9fa95d03",
@@ -1136,7 +1136,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/6c9b3c71-85ba-47db-bce5-44fd9fa95d03",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/6c9b3c71-85ba-47db-bce5-44fd9fa95d03/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "6dd1dba6-8dba-4bfe-a393-a43a8a55bb0c",
@@ -1154,7 +1154,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/6dd1dba6-8dba-4bfe-a393-a43a8a55bb0c",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/6dd1dba6-8dba-4bfe-a393-a43a8a55bb0c/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "6e328b72-9f57-49e0-a1a8-4428abf8ff81",
@@ -1172,7 +1172,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/6e328b72-9f57-49e0-a1a8-4428abf8ff81",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/6e328b72-9f57-49e0-a1a8-4428abf8ff81/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "6f3c5131-2efa-400c-8248-44203a4dbfbb",
@@ -1190,7 +1190,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/6f3c5131-2efa-400c-8248-44203a4dbfbb",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/6f3c5131-2efa-400c-8248-44203a4dbfbb/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "702c7eb8-9908-407f-bcb5-647a227819d6",
@@ -1208,7 +1208,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/702c7eb8-9908-407f-bcb5-647a227819d6",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/702c7eb8-9908-407f-bcb5-647a227819d6/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "71168628-1998-47d3-87a9-be7bc56a430d",
@@ -1226,7 +1226,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/71168628-1998-47d3-87a9-be7bc56a430d",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/71168628-1998-47d3-87a9-be7bc56a430d/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "71abd198-5a69-4837-aa59-df8eeb9e02eb",
@@ -1244,7 +1244,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/71abd198-5a69-4837-aa59-df8eeb9e02eb",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/71abd198-5a69-4837-aa59-df8eeb9e02eb/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "739411fa-6580-4c8b-9960-035d5fa3c00e",
@@ -1262,7 +1262,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/739411fa-6580-4c8b-9960-035d5fa3c00e",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/739411fa-6580-4c8b-9960-035d5fa3c00e/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "74a5eaeb-0a4b-412b-ac3a-ad73403b3fb7",
@@ -1280,7 +1280,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/74a5eaeb-0a4b-412b-ac3a-ad73403b3fb7",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/74a5eaeb-0a4b-412b-ac3a-ad73403b3fb7/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "759fc651-210a-48d5-8a9c-7f7789e20ab1",
@@ -1298,7 +1298,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/759fc651-210a-48d5-8a9c-7f7789e20ab1",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/759fc651-210a-48d5-8a9c-7f7789e20ab1/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "76c9b39f-aecc-4247-b5f5-ebcd02dff7c3",
@@ -1316,7 +1316,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/76c9b39f-aecc-4247-b5f5-ebcd02dff7c3",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/76c9b39f-aecc-4247-b5f5-ebcd02dff7c3/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "76e72775-69db-4aea-b03b-a87d5a589f58",
@@ -1334,7 +1334,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/76e72775-69db-4aea-b03b-a87d5a589f58",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/76e72775-69db-4aea-b03b-a87d5a589f58/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7755eb0a-0f51-4286-b75e-591e44c741bc",
@@ -1352,7 +1352,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/7755eb0a-0f51-4286-b75e-591e44c741bc",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/7755eb0a-0f51-4286-b75e-591e44c741bc/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7795683f-6c5f-40cd-af2d-51294edddd4b",
@@ -1370,7 +1370,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/7795683f-6c5f-40cd-af2d-51294edddd4b",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/7795683f-6c5f-40cd-af2d-51294edddd4b/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "78675022-c4a7-41d2-9259-7c59be4de93c",
@@ -1388,7 +1388,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/78675022-c4a7-41d2-9259-7c59be4de93c",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/78675022-c4a7-41d2-9259-7c59be4de93c/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7ae341c4-411e-468c-bc26-bbdd8e55d388",
@@ -1406,7 +1406,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/7ae341c4-411e-468c-bc26-bbdd8e55d388",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/7ae341c4-411e-468c-bc26-bbdd8e55d388/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7f3dc848-6e0b-4ad1-85bc-d24a30179b74",
@@ -1424,7 +1424,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/7f3dc848-6e0b-4ad1-85bc-d24a30179b74",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/7f3dc848-6e0b-4ad1-85bc-d24a30179b74/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7f880194-7276-4b46-8a50-58b48da8882e",
@@ -1442,7 +1442,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/7f880194-7276-4b46-8a50-58b48da8882e",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/7f880194-7276-4b46-8a50-58b48da8882e/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "849874fd-ccb4-4d7e-8551-29c5a418e2c7",
@@ -1460,7 +1460,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/849874fd-ccb4-4d7e-8551-29c5a418e2c7",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/849874fd-ccb4-4d7e-8551-29c5a418e2c7/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "859604e1-9ada-4833-97b3-51fe185b6ff7",
@@ -1478,7 +1478,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/859604e1-9ada-4833-97b3-51fe185b6ff7",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/859604e1-9ada-4833-97b3-51fe185b6ff7/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "883bd78f-c9cd-4ae5-afbf-b21f16f06a6f",
@@ -1496,7 +1496,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/883bd78f-c9cd-4ae5-afbf-b21f16f06a6f",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/883bd78f-c9cd-4ae5-afbf-b21f16f06a6f/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "886f4ab3-e691-45ed-b2db-069edf6f5413",
@@ -1514,7 +1514,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/886f4ab3-e691-45ed-b2db-069edf6f5413",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/886f4ab3-e691-45ed-b2db-069edf6f5413/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "89750227-f7fe-4e9f-bcdd-eada353163fd",
@@ -1532,7 +1532,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/89750227-f7fe-4e9f-bcdd-eada353163fd",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/89750227-f7fe-4e9f-bcdd-eada353163fd/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8a976851-9bef-4b07-8d36-567fa9540aef",
@@ -1550,7 +1550,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/8a976851-9bef-4b07-8d36-567fa9540aef",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/8a976851-9bef-4b07-8d36-567fa9540aef/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8ede25ea-9212-4007-bb99-feae4d1a3014",
@@ -1568,7 +1568,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/8ede25ea-9212-4007-bb99-feae4d1a3014",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/8ede25ea-9212-4007-bb99-feae4d1a3014/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8fe61c73-0daf-4432-a47d-44714c1ef764",
@@ -1586,7 +1586,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/8fe61c73-0daf-4432-a47d-44714c1ef764",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/8fe61c73-0daf-4432-a47d-44714c1ef764/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "91814621-dd0e-46d1-8aba-24957c5a4296",
@@ -1604,7 +1604,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/91814621-dd0e-46d1-8aba-24957c5a4296",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/91814621-dd0e-46d1-8aba-24957c5a4296/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "9246cf02-26fd-4ae8-90c5-639c6e85e9e2",
@@ -1622,7 +1622,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/9246cf02-26fd-4ae8-90c5-639c6e85e9e2",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/9246cf02-26fd-4ae8-90c5-639c6e85e9e2/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "94ccf41e-d3e1-41aa-9569-c3bcbffc4184",
@@ -1640,7 +1640,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/94ccf41e-d3e1-41aa-9569-c3bcbffc4184",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/94ccf41e-d3e1-41aa-9569-c3bcbffc4184/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "94e1b3a4-c773-4ee8-982a-ac9be04fbca8",
@@ -1658,7 +1658,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/94e1b3a4-c773-4ee8-982a-ac9be04fbca8",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/94e1b3a4-c773-4ee8-982a-ac9be04fbca8/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "9740bc68-7297-4d69-ae54-3be81ae3745a",
@@ -1676,7 +1676,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/9740bc68-7297-4d69-ae54-3be81ae3745a",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/9740bc68-7297-4d69-ae54-3be81ae3745a/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "977b626c-5546-42c6-95c8-4e2350ec41c9",
@@ -1694,7 +1694,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/977b626c-5546-42c6-95c8-4e2350ec41c9",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/977b626c-5546-42c6-95c8-4e2350ec41c9/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "9a570310-305d-4f4e-9807-b8862b31194b",
@@ -1712,7 +1712,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/9a570310-305d-4f4e-9807-b8862b31194b",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/9a570310-305d-4f4e-9807-b8862b31194b/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "9ce0fef8-7ead-4c0d-a71e-433bdd5b4d82",
@@ -1730,7 +1730,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/9ce0fef8-7ead-4c0d-a71e-433bdd5b4d82",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/9ce0fef8-7ead-4c0d-a71e-433bdd5b4d82/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "9cec9b33-06f2-4ba1-8c9e-20a598361ca2",
@@ -1748,7 +1748,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/9cec9b33-06f2-4ba1-8c9e-20a598361ca2",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/9cec9b33-06f2-4ba1-8c9e-20a598361ca2/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "9e3a4516-b893-4579-9a6a-3720658e4b6d",
@@ -1766,7 +1766,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/9e3a4516-b893-4579-9a6a-3720658e4b6d",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/9e3a4516-b893-4579-9a6a-3720658e4b6d/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "9ffca709-f4e1-40e7-81bf-270ff73c7a50",
@@ -1784,7 +1784,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/9ffca709-f4e1-40e7-81bf-270ff73c7a50",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/9ffca709-f4e1-40e7-81bf-270ff73c7a50/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "a5316915-559e-4839-8ea7-cb3b16b090ed",
@@ -1802,7 +1802,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/a5316915-559e-4839-8ea7-cb3b16b090ed",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/a5316915-559e-4839-8ea7-cb3b16b090ed/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "a5b97109-222d-49e1-b2ac-e101487a5ddd",
@@ -1820,7 +1820,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/a5b97109-222d-49e1-b2ac-e101487a5ddd",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/a5b97109-222d-49e1-b2ac-e101487a5ddd/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "a8c79425-eb48-40e0-8557-93460fa67097",
@@ -1838,7 +1838,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/a8c79425-eb48-40e0-8557-93460fa67097",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/a8c79425-eb48-40e0-8557-93460fa67097/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "ab076e26-adf1-414f-a006-7b1bdc9247c8",
@@ -1856,7 +1856,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/ab076e26-adf1-414f-a006-7b1bdc9247c8",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/ab076e26-adf1-414f-a006-7b1bdc9247c8/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "acd466ba-536f-49da-968a-15b8c53298f8",
@@ -1874,7 +1874,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/acd466ba-536f-49da-968a-15b8c53298f8",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/acd466ba-536f-49da-968a-15b8c53298f8/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "affd3040-91e4-4e0c-bd2f-4b022c613f91",
@@ -1892,7 +1892,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/affd3040-91e4-4e0c-bd2f-4b022c613f91",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/affd3040-91e4-4e0c-bd2f-4b022c613f91/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "b00cbb00-f672-4909-a7be-bbd02c7d7b5f",
@@ -1910,7 +1910,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/b00cbb00-f672-4909-a7be-bbd02c7d7b5f",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/b00cbb00-f672-4909-a7be-bbd02c7d7b5f/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "b23d83e3-add8-48ea-b16e-65a956d1192c",
@@ -1928,7 +1928,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/b23d83e3-add8-48ea-b16e-65a956d1192c",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/b23d83e3-add8-48ea-b16e-65a956d1192c/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "b349ec0e-be02-47b0-8595-8de0dbb074c5",
@@ -1946,7 +1946,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/b349ec0e-be02-47b0-8595-8de0dbb074c5",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/b349ec0e-be02-47b0-8595-8de0dbb074c5/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "b85c4547-fa75-41a8-bd36-6f2c70117764",
@@ -1964,7 +1964,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/b85c4547-fa75-41a8-bd36-6f2c70117764",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/b85c4547-fa75-41a8-bd36-6f2c70117764/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "ba95ea8c-9aad-4152-925c-df08d6a90c0f",
@@ -1982,7 +1982,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/ba95ea8c-9aad-4152-925c-df08d6a90c0f",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/ba95ea8c-9aad-4152-925c-df08d6a90c0f/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "be6ffac6-5d72-4768-9f88-d1231a710ec9",
@@ -2000,7 +2000,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/be6ffac6-5d72-4768-9f88-d1231a710ec9",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/be6ffac6-5d72-4768-9f88-d1231a710ec9/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "be94e89b-89d5-4f2a-a58b-7929c8d97f92",
@@ -2018,7 +2018,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/be94e89b-89d5-4f2a-a58b-7929c8d97f92",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/be94e89b-89d5-4f2a-a58b-7929c8d97f92/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "bf978d98-404d-48a5-bcf2-a1f70f195c2b",
@@ -2036,7 +2036,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/bf978d98-404d-48a5-bcf2-a1f70f195c2b",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/bf978d98-404d-48a5-bcf2-a1f70f195c2b/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "c20486f5-1e9c-436c-ba67-dc69842c221c",
@@ -2054,7 +2054,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/c20486f5-1e9c-436c-ba67-dc69842c221c",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/c20486f5-1e9c-436c-ba67-dc69842c221c/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "c6c857f3-c0db-4d93-aeed-638b9f9d4eb6",
@@ -2072,7 +2072,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/c6c857f3-c0db-4d93-aeed-638b9f9d4eb6",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/c6c857f3-c0db-4d93-aeed-638b9f9d4eb6/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "d38e4b28-6ced-46b0-bb58-37ba49776e77",
@@ -2090,7 +2090,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/d38e4b28-6ced-46b0-bb58-37ba49776e77",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/d38e4b28-6ced-46b0-bb58-37ba49776e77/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "d5bc2302-202f-4596-9c4d-8720d1e79064",
@@ -2108,7 +2108,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/d5bc2302-202f-4596-9c4d-8720d1e79064",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/d5bc2302-202f-4596-9c4d-8720d1e79064/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "d680e788-14d3-43f6-8ce8-5df486ca32d0",
@@ -2126,7 +2126,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/d680e788-14d3-43f6-8ce8-5df486ca32d0",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/d680e788-14d3-43f6-8ce8-5df486ca32d0/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "d7e05546-4d42-4f1a-8ccd-c95d2519f5f6",
@@ -2144,7 +2144,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/d7e05546-4d42-4f1a-8ccd-c95d2519f5f6",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/d7e05546-4d42-4f1a-8ccd-c95d2519f5f6/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "d89a3cad-50d5-47fd-8f87-be55285ee2b1",
@@ -2162,7 +2162,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/d89a3cad-50d5-47fd-8f87-be55285ee2b1",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/d89a3cad-50d5-47fd-8f87-be55285ee2b1/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "da212c9c-3c11-4e8e-8f97-e176b4876bea",
@@ -2180,7 +2180,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/da212c9c-3c11-4e8e-8f97-e176b4876bea",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/da212c9c-3c11-4e8e-8f97-e176b4876bea/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "daa9120e-94ff-46e0-b4bd-4d2d290cb409",
@@ -2198,7 +2198,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/daa9120e-94ff-46e0-b4bd-4d2d290cb409",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/daa9120e-94ff-46e0-b4bd-4d2d290cb409/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "daafcaba-cc39-487a-b941-d7a407753788",
@@ -2216,7 +2216,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/daafcaba-cc39-487a-b941-d7a407753788",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/daafcaba-cc39-487a-b941-d7a407753788/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "dd80ab52-34bd-42af-aa5e-6283b7e6c194",
@@ -2234,7 +2234,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/dd80ab52-34bd-42af-aa5e-6283b7e6c194",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/dd80ab52-34bd-42af-aa5e-6283b7e6c194/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "e03bf342-0407-45aa-b084-9aaf6939eea5",
@@ -2252,7 +2252,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/e03bf342-0407-45aa-b084-9aaf6939eea5",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/e03bf342-0407-45aa-b084-9aaf6939eea5/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "e0e8188a-9c92-4795-82a5-7384f1b25bc7",
@@ -2270,7 +2270,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/e0e8188a-9c92-4795-82a5-7384f1b25bc7",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/e0e8188a-9c92-4795-82a5-7384f1b25bc7/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "e148b984-eafe-48fa-a679-78a55d371f37",
@@ -2288,7 +2288,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/e148b984-eafe-48fa-a679-78a55d371f37",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/e148b984-eafe-48fa-a679-78a55d371f37/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "e4777627-ff8f-4257-8612-3a016bb58592",
@@ -2306,7 +2306,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/e4777627-ff8f-4257-8612-3a016bb58592",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/e4777627-ff8f-4257-8612-3a016bb58592/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "e7ab0be5-68ba-4a2c-abb1-ee33886d955d",
@@ -2324,7 +2324,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/e7ab0be5-68ba-4a2c-abb1-ee33886d955d",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/e7ab0be5-68ba-4a2c-abb1-ee33886d955d/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "e916f0c8-5a31-4bb6-b4e3-7c4a64b95fda",
@@ -2342,7 +2342,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/e916f0c8-5a31-4bb6-b4e3-7c4a64b95fda",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/e916f0c8-5a31-4bb6-b4e3-7c4a64b95fda/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "ea29039d-3900-43d3-a555-ff790677cbe9",
@@ -2360,11 +2360,11 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/ea29039d-3900-43d3-a555-ff790677cbe9",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/ea29039d-3900-43d3-a555-ff790677cbe9/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "ea87532c-69a0-497d-9cf3-04cc2a6c6410",
-      "title": "Member of Technical Staff (Software Engineer, Integrations)",
+      "title": "Member of Technical Staff (Software Engineer, Agent Verticals)",
       "company": "Perplexity",
       "location": "San Francisco",
       "remote": "unspecified",
@@ -2378,7 +2378,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/ea87532c-69a0-497d-9cf3-04cc2a6c6410",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/ea87532c-69a0-497d-9cf3-04cc2a6c6410/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "ebd5d9b3-39c4-498b-85a6-2f565e001d7e",
@@ -2396,7 +2396,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/ebd5d9b3-39c4-498b-85a6-2f565e001d7e",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/ebd5d9b3-39c4-498b-85a6-2f565e001d7e/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "ed4fb057-3f06-419a-8bb2-9c98f370d477",
@@ -2414,7 +2414,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/ed4fb057-3f06-419a-8bb2-9c98f370d477",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/ed4fb057-3f06-419a-8bb2-9c98f370d477/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "ef269656-94ef-463a-ae0e-6102ca3a94dd",
@@ -2432,7 +2432,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/ef269656-94ef-463a-ae0e-6102ca3a94dd",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/ef269656-94ef-463a-ae0e-6102ca3a94dd/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "f05bd47b-bed8-4f00-9d9c-026c72578e82",
@@ -2450,7 +2450,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/f05bd47b-bed8-4f00-9d9c-026c72578e82",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/f05bd47b-bed8-4f00-9d9c-026c72578e82/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "f25e190e-0508-4707-b575-fcaed358dc13",
@@ -2468,7 +2468,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/f25e190e-0508-4707-b575-fcaed358dc13",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/f25e190e-0508-4707-b575-fcaed358dc13/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "f32bb0d4-fb91-4fa6-8d7d-bd1a70ce2836",
@@ -2486,7 +2486,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/f32bb0d4-fb91-4fa6-8d7d-bd1a70ce2836",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/f32bb0d4-fb91-4fa6-8d7d-bd1a70ce2836/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "f3814af2-55a3-49a5-b0cb-67199a2a45fb",
@@ -2504,7 +2504,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/f3814af2-55a3-49a5-b0cb-67199a2a45fb",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/f3814af2-55a3-49a5-b0cb-67199a2a45fb/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "f3c7ce0d-026e-4b5d-b22d-8b6041746c3d",
@@ -2522,7 +2522,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/f3c7ce0d-026e-4b5d-b22d-8b6041746c3d",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/f3c7ce0d-026e-4b5d-b22d-8b6041746c3d/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "f4312e0a-7d39-4af9-9a7d-b0fe041a228a",
@@ -2540,7 +2540,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/f4312e0a-7d39-4af9-9a7d-b0fe041a228a",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/f4312e0a-7d39-4af9-9a7d-b0fe041a228a/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "f45ba174-7e99-4743-9d19-6e4d3e196458",
@@ -2558,7 +2558,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/f45ba174-7e99-4743-9d19-6e4d3e196458",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/f45ba174-7e99-4743-9d19-6e4d3e196458/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "fb1815de-07d9-4933-8746-979dbcb00870",
@@ -2576,7 +2576,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/fb1815de-07d9-4933-8746-979dbcb00870",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/fb1815de-07d9-4933-8746-979dbcb00870/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "fbbd496b-1d14-4396-b31d-38fbea0dc666",
@@ -2594,7 +2594,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/fbbd496b-1d14-4396-b31d-38fbea0dc666",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/fbbd496b-1d14-4396-b31d-38fbea0dc666/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "fcb4cc78-d4bd-4489-8756-7d39e755ac76",
@@ -2612,7 +2612,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/fcb4cc78-d4bd-4489-8756-7d39e755ac76",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/fcb4cc78-d4bd-4489-8756-7d39e755ac76/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "fdc2ea75-c198-4a9e-9c0a-df835ed61ed0",
@@ -2630,7 +2630,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/fdc2ea75-c198-4a9e-9c0a-df835ed61ed0",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/fdc2ea75-c198-4a9e-9c0a-df835ed61ed0/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "ffa25e26-9675-4ab1-bc98-325675879e1d",
@@ -2648,7 +2648,7 @@
       "source_url": "https://jobs.ashbyhq.com/Perplexity/ffa25e26-9675-4ab1-bc98-325675879e1d",
       "apply_url": "https://jobs.ashbyhq.com/Perplexity/ffa25e26-9675-4ab1-bc98-325675879e1d/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     }
   ],
   "ats": "ashby",

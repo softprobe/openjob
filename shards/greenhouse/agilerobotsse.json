@@ -1,8 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-18T15:36:26Z",
+  "checked_at": "2026-11-19T15:42:04Z",
   "failed_at": null,
-  "etag": "W/\"2395073b0950e570de13b696f698cbe3\"",
+  "etag": "W/\"891291ad16e40b936180ade0b6ffc808\"",
   "jobs": [
     {
       "id": "4964637101",
@@ -20,7 +20,7 @@
       "source_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4964637101",
       "apply_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4964637101",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "4964643101",
@@ -38,7 +38,7 @@
       "source_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4964643101",
       "apply_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4964643101",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "4964645101",
@@ -56,7 +56,7 @@
       "source_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4964645101",
       "apply_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4964645101",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "4964651101",
@@ -74,7 +74,7 @@
       "source_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4964651101",
       "apply_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4964651101",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "4964653101",
@@ -92,7 +92,7 @@
       "source_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4964653101",
       "apply_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4964653101",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "4964673101",
@@ -110,7 +110,7 @@
       "source_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4964673101",
       "apply_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4964673101",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "4964695101",
@@ -128,7 +128,7 @@
       "source_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4964695101",
       "apply_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4964695101",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "4964699101",
@@ -146,7 +146,7 @@
       "source_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4964699101",
       "apply_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4964699101",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "4964701101",
@@ -164,25 +164,7 @@
       "source_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4964701101",
       "apply_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4964701101",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
-    },
-    {
-      "id": "4964703101",
-      "title": "(Senior) Robotics Testing and Applications Engineer (m/f/d)",
-      "company": "Agile Robots SE",
-      "location": "Munich, Bavaria, Germany",
-      "remote": "unspecified",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-09-02",
-      "updated": "2026-11-13",
-      "deadline": "",
-      "source_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4964703101",
-      "apply_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4964703101",
-      "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "4964707101",
@@ -200,7 +182,7 @@
       "source_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4964707101",
       "apply_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4964707101",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "4964709101",
@@ -218,7 +200,7 @@
       "source_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4964709101",
       "apply_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4964709101",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "4964715101",
@@ -236,7 +218,7 @@
       "source_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4964715101",
       "apply_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4964715101",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "4964719101",
@@ -254,7 +236,7 @@
       "source_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4964719101",
       "apply_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4964719101",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "4964771101",
@@ -272,7 +254,7 @@
       "source_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4964771101",
       "apply_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4964771101",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "4964785101",
@@ -290,7 +272,7 @@
       "source_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4964785101",
       "apply_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4964785101",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "4964789101",
@@ -308,7 +290,7 @@
       "source_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4964789101",
       "apply_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4964789101",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "4964795101",
@@ -326,7 +308,7 @@
       "source_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4964795101",
       "apply_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4964795101",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "4964805101",
@@ -344,7 +326,7 @@
       "source_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4964805101",
       "apply_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4964805101",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "4964823101",
@@ -357,12 +339,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-02",
-      "updated": "2026-11-05",
+      "updated": "2026-11-19",
       "deadline": "",
       "source_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4964823101",
       "apply_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4964823101",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "4964827101",
@@ -380,7 +362,7 @@
       "source_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4964827101",
       "apply_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4964827101",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "4964829101",
@@ -398,7 +380,7 @@
       "source_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4964829101",
       "apply_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4964829101",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "4964831101",
@@ -416,7 +398,7 @@
       "source_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4964831101",
       "apply_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4964831101",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "4964841101",
@@ -434,7 +416,7 @@
       "source_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4964841101",
       "apply_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4964841101",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "4964849101",
@@ -452,7 +434,7 @@
       "source_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4964849101",
       "apply_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4964849101",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "4964851101",
@@ -470,7 +452,7 @@
       "source_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4964851101",
       "apply_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4964851101",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "4964865101",
@@ -488,7 +470,7 @@
       "source_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4964865101",
       "apply_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4964865101",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "4964867101",
@@ -506,7 +488,7 @@
       "source_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4964867101",
       "apply_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4964867101",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "4964869101",
@@ -524,7 +506,7 @@
       "source_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4964869101",
       "apply_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4964869101",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "4964871101",
@@ -542,7 +524,7 @@
       "source_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4964871101",
       "apply_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4964871101",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "4964873101",
@@ -560,7 +542,7 @@
       "source_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4964873101",
       "apply_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4964873101",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "4964877101",
@@ -578,11 +560,11 @@
       "source_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4964877101",
       "apply_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4964877101",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "4965130101",
-      "title": "Head of Workplace Operations (m/f/d)",
+      "title": "Head of Office Management (m/f/d)",
       "company": "Agile Robots SE",
       "location": "Munich, Bavaria, Germany",
       "remote": "unspecified",
@@ -591,12 +573,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-07",
-      "updated": "2026-11-04",
+      "updated": "2026-11-19",
       "deadline": "",
       "source_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4965130101",
       "apply_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4965130101",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "4967503101",
@@ -614,7 +596,7 @@
       "source_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4967503101",
       "apply_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4967503101",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "4968014101",
@@ -632,7 +614,7 @@
       "source_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4968014101",
       "apply_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4968014101",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "4968629101",
@@ -650,7 +632,7 @@
       "source_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4968629101",
       "apply_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4968629101",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "4974321101",
@@ -668,7 +650,7 @@
       "source_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4974321101",
       "apply_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4974321101",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "4975039101",
@@ -686,7 +668,7 @@
       "source_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4975039101",
       "apply_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4975039101",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "4976396101",
@@ -704,7 +686,7 @@
       "source_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4976396101",
       "apply_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4976396101",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "4982847101",
@@ -722,7 +704,7 @@
       "source_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4982847101",
       "apply_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4982847101",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "4982851101",
@@ -740,7 +722,7 @@
       "source_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4982851101",
       "apply_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4982851101",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "4986680101",
@@ -758,7 +740,7 @@
       "source_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4986680101",
       "apply_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4986680101",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "4991117101",
@@ -776,7 +758,7 @@
       "source_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4991117101",
       "apply_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4991117101",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "4994515101",
@@ -794,7 +776,7 @@
       "source_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4994515101",
       "apply_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4994515101",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "4997129101",
@@ -812,7 +794,7 @@
       "source_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4997129101",
       "apply_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4997129101",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "4997311101",
@@ -830,7 +812,7 @@
       "source_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4997311101",
       "apply_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4997311101",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "4997313101",
@@ -848,7 +830,7 @@
       "source_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4997313101",
       "apply_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4997313101",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "4997620101",
@@ -866,7 +848,7 @@
       "source_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4997620101",
       "apply_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4997620101",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "4998200101",
@@ -884,7 +866,7 @@
       "source_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4998200101",
       "apply_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4998200101",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "4998753101",
@@ -902,7 +884,7 @@
       "source_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4998753101",
       "apply_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4998753101",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "5001688101",
@@ -920,7 +902,7 @@
       "source_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/5001688101",
       "apply_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/5001688101",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "5003611101",
@@ -938,7 +920,7 @@
       "source_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/5003611101",
       "apply_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/5003611101",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "5003984101",
@@ -956,7 +938,7 @@
       "source_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/5003984101",
       "apply_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/5003984101",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "5006075101",
@@ -969,12 +951,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-15",
-      "updated": "2026-10-30",
+      "updated": "2026-11-19",
       "deadline": "",
       "source_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/5006075101",
       "apply_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/5006075101",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "5006076101",
@@ -987,12 +969,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-15",
-      "updated": "2026-10-30",
+      "updated": "2026-11-19",
       "deadline": "",
       "source_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/5006076101",
       "apply_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/5006076101",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "5006103101",
@@ -1005,12 +987,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-15",
-      "updated": "2026-10-30",
+      "updated": "2026-11-19",
       "deadline": "",
       "source_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/5006103101",
       "apply_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/5006103101",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "5008799101",
@@ -1028,7 +1010,7 @@
       "source_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/5008799101",
       "apply_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/5008799101",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "5008829101",
@@ -1046,7 +1028,7 @@
       "source_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/5008829101",
       "apply_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/5008829101",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "5008915101",
@@ -1064,7 +1046,7 @@
       "source_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/5008915101",
       "apply_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/5008915101",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "5011949101",
@@ -1082,7 +1064,7 @@
       "source_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/5011949101",
       "apply_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/5011949101",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "5013108101",
@@ -1100,7 +1082,7 @@
       "source_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/5013108101",
       "apply_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/5013108101",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "5013112101",
@@ -1118,7 +1100,7 @@
       "source_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/5013112101",
       "apply_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/5013112101",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "5015409101",
@@ -1136,7 +1118,7 @@
       "source_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/5015409101",
       "apply_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/5015409101",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "5016024101",
@@ -1154,7 +1136,7 @@
       "source_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/5016024101",
       "apply_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/5016024101",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "5016059101",
@@ -1172,7 +1154,7 @@
       "source_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/5016059101",
       "apply_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/5016059101",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "5020629101",
@@ -1190,7 +1172,7 @@
       "source_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/5020629101",
       "apply_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/5020629101",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "5033606101",
@@ -1208,7 +1190,43 @@
       "source_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/5033606101",
       "apply_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/5033606101",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
+    },
+    {
+      "id": "5037047101",
+      "title": "Product Cybersecurity Compliance Engineer (m/f/d)",
+      "company": "Agile Robots SE",
+      "location": "Munich, Bavaria, Germany",
+      "remote": "unspecified",
+      "department": "",
+      "employment_type": "",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-18",
+      "updated": "2026-11-18",
+      "deadline": "",
+      "source_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/5037047101",
+      "apply_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/5037047101",
+      "first_seen": "2026-11-19T15:42:04Z",
+      "last_checked": "2026-11-19T15:42:04Z"
+    },
+    {
+      "id": "5037069101",
+      "title": "Robotics Software Deployment & Operations Engineer (m/f/d)",
+      "company": "Agile Robots SE",
+      "location": "Munich, Bavaria, Germany",
+      "remote": "unspecified",
+      "department": "",
+      "employment_type": "",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-18",
+      "updated": "2026-11-18",
+      "deadline": "",
+      "source_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/5037069101",
+      "apply_url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/5037069101",
+      "first_seen": "2026-11-19T15:42:04Z",
+      "last_checked": "2026-11-19T15:42:04Z"
     }
   ],
   "ats": "greenhouse",

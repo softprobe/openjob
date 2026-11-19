@@ -1,8 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-18T15:36:26Z",
+  "checked_at": "2026-11-19T15:42:04Z",
   "failed_at": null,
-  "etag": "W/\"6337e88fe41d10c6454ea55b0aa9e197\"",
+  "etag": "W/\"5f3b24f87f196c33de9a43fb0f7f1980\"",
   "jobs": [
     {
       "id": "4011657005",
@@ -20,7 +20,7 @@
       "source_url": "https://job-boards.greenhouse.io/ujet/jobs/4011657005",
       "apply_url": "https://job-boards.greenhouse.io/ujet/jobs/4011657005",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "4664987005",
@@ -38,7 +38,7 @@
       "source_url": "https://job-boards.greenhouse.io/ujet/jobs/4664987005",
       "apply_url": "https://job-boards.greenhouse.io/ujet/jobs/4664987005",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "4709322005",
@@ -56,7 +56,7 @@
       "source_url": "https://job-boards.greenhouse.io/ujet/jobs/4709322005",
       "apply_url": "https://job-boards.greenhouse.io/ujet/jobs/4709322005",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "4710574005",
@@ -74,7 +74,7 @@
       "source_url": "https://job-boards.greenhouse.io/ujet/jobs/4710574005",
       "apply_url": "https://job-boards.greenhouse.io/ujet/jobs/4710574005",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "4735529005",
@@ -92,7 +92,7 @@
       "source_url": "https://job-boards.greenhouse.io/ujet/jobs/4735529005",
       "apply_url": "https://job-boards.greenhouse.io/ujet/jobs/4735529005",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "4736234005",
@@ -110,7 +110,7 @@
       "source_url": "https://job-boards.greenhouse.io/ujet/jobs/4736234005",
       "apply_url": "https://job-boards.greenhouse.io/ujet/jobs/4736234005",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "4736284005",
@@ -128,7 +128,7 @@
       "source_url": "https://job-boards.greenhouse.io/ujet/jobs/4736284005",
       "apply_url": "https://job-boards.greenhouse.io/ujet/jobs/4736284005",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "4736897005",
@@ -146,7 +146,7 @@
       "source_url": "https://job-boards.greenhouse.io/ujet/jobs/4736897005",
       "apply_url": "https://job-boards.greenhouse.io/ujet/jobs/4736897005",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "4741300005",
@@ -164,7 +164,7 @@
       "source_url": "https://job-boards.greenhouse.io/ujet/jobs/4741300005",
       "apply_url": "https://job-boards.greenhouse.io/ujet/jobs/4741300005",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     }
   ],
   "ats": "greenhouse",

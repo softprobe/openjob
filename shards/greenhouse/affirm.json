@@ -1,8 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-18T15:36:26Z",
+  "checked_at": "2026-11-19T15:42:04Z",
   "failed_at": null,
-  "etag": "W/\"16f170aa1e7dd39341abb0d1ed26bfb7\"",
+  "etag": "W/\"0f825ff71dc6e66dd2a06aea6c51536f\"",
   "jobs": [
     {
       "id": "7663434003",
@@ -20,7 +20,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/7663434003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/7663434003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7701909003",
@@ -38,7 +38,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/7701909003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/7701909003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7701911003",
@@ -56,7 +56,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/7701911003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/7701911003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7718808003",
@@ -69,12 +69,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-06-05",
-      "updated": "2026-10-30",
+      "updated": "2026-11-19",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/7718808003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/7718808003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7727320003",
@@ -92,7 +92,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/7727320003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/7727320003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7727322003",
@@ -110,7 +110,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/7727322003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/7727322003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7749580003",
@@ -128,7 +128,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/7749580003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/7749580003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7749582003",
@@ -146,7 +146,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/7749582003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/7749582003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7749755003",
@@ -159,12 +159,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-06-02",
-      "updated": "2026-11-03",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/7749755003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/7749755003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7773691003",
@@ -182,7 +182,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/7773691003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/7773691003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7773693003",
@@ -200,61 +200,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/7773693003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/7773693003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
-    },
-    {
-      "id": "7785812003",
-      "title": "Senior Software Engineer",
-      "company": "Affirm",
-      "location": "Remote US",
-      "remote": "remote",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-08-05",
-      "updated": "2026-11-12",
-      "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/affirm/jobs/7785812003",
-      "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/7785812003",
-      "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
-    },
-    {
-      "id": "7785814003",
-      "title": "Senior Software Engineer",
-      "company": "Affirm",
-      "location": "Remote Canada",
-      "remote": "remote",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-08-05",
-      "updated": "2026-11-12",
-      "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/affirm/jobs/7785814003",
-      "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/7785814003",
-      "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
-    },
-    {
-      "id": "7799164003",
-      "title": "Director, Platform Accounts Management",
-      "company": "Affirm",
-      "location": "Remote US",
-      "remote": "remote",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-07-09",
-      "updated": "2026-11-13",
-      "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/affirm/jobs/7799164003",
-      "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/7799164003",
-      "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7799329003",
@@ -272,7 +218,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/7799329003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/7799329003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7799933003",
@@ -290,7 +236,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/7799933003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/7799933003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7799935003",
@@ -308,7 +254,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/7799935003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/7799935003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7800317003",
@@ -326,7 +272,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/7800317003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/7800317003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7800319003",
@@ -344,7 +290,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/7800319003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/7800319003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7801336003",
@@ -362,7 +308,43 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/7801336003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/7801336003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
+    },
+    {
+      "id": "7801371003",
+      "title": "Senior Software Engineer, Backend (Identity International)",
+      "company": "Affirm",
+      "location": "Remote Poland",
+      "remote": "remote",
+      "department": "",
+      "employment_type": "",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-07-15",
+      "updated": "2026-11-19",
+      "deadline": "",
+      "source_url": "https://job-boards.greenhouse.io/affirm/jobs/7801371003",
+      "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/7801371003",
+      "first_seen": "2026-11-19T15:42:04Z",
+      "last_checked": "2026-11-19T15:42:04Z"
+    },
+    {
+      "id": "7801373003",
+      "title": "Senior Software Engineer, Backend (Identity International)",
+      "company": "Affirm",
+      "location": "Remote Spain",
+      "remote": "remote",
+      "department": "",
+      "employment_type": "",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-07-15",
+      "updated": "2026-11-19",
+      "deadline": "",
+      "source_url": "https://job-boards.greenhouse.io/affirm/jobs/7801373003",
+      "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/7801373003",
+      "first_seen": "2026-11-19T15:42:04Z",
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7804953003",
@@ -380,7 +362,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/7804953003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/7804953003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7804955003",
@@ -398,7 +380,43 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/7804955003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/7804955003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
+    },
+    {
+      "id": "7806679003",
+      "title": "Senior Software Engineer, Back-end (Fraud)",
+      "company": "Affirm",
+      "location": "Remote Spain",
+      "remote": "remote",
+      "department": "",
+      "employment_type": "",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-07-20",
+      "updated": "2026-11-19",
+      "deadline": "",
+      "source_url": "https://job-boards.greenhouse.io/affirm/jobs/7806679003",
+      "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/7806679003",
+      "first_seen": "2026-11-19T15:42:04Z",
+      "last_checked": "2026-11-19T15:42:04Z"
+    },
+    {
+      "id": "7806681003",
+      "title": "Senior Software Engineer, Back-end (Fraud)",
+      "company": "Affirm",
+      "location": "Remote Poland",
+      "remote": "remote",
+      "department": "",
+      "employment_type": "",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-07-20",
+      "updated": "2026-11-19",
+      "deadline": "",
+      "source_url": "https://job-boards.greenhouse.io/affirm/jobs/7806681003",
+      "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/7806681003",
+      "first_seen": "2026-11-19T15:42:04Z",
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7806920003",
@@ -416,7 +434,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/7806920003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/7806920003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7808142003",
@@ -434,7 +452,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/7808142003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/7808142003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7808384003",
@@ -452,7 +470,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/7808384003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/7808384003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7808386003",
@@ -470,7 +488,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/7808386003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/7808386003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7813107003",
@@ -488,7 +506,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/7813107003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/7813107003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7815948003",
@@ -506,7 +524,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/7815948003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/7815948003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7815950003",
@@ -524,7 +542,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/7815950003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/7815950003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7815952003",
@@ -542,7 +560,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/7815952003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/7815952003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7815954003",
@@ -560,7 +578,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/7815954003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/7815954003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7818068003",
@@ -578,7 +596,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/7818068003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/7818068003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7818070003",
@@ -596,7 +614,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/7818070003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/7818070003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7819441003",
@@ -614,7 +632,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/7819441003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/7819441003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7819445003",
@@ -632,7 +650,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/7819445003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/7819445003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7819447003",
@@ -650,7 +668,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/7819447003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/7819447003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7819449003",
@@ -668,7 +686,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/7819449003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/7819449003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7819451003",
@@ -681,12 +699,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-12",
-      "updated": "2026-10-30",
+      "updated": "2026-11-19",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/7819451003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/7819451003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7819704003",
@@ -704,7 +722,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/7819704003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/7819704003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7820446003",
@@ -722,7 +740,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/7820446003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/7820446003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7820448003",
@@ -740,7 +758,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/7820448003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/7820448003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7821076003",
@@ -758,7 +776,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/7821076003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/7821076003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7821078003",
@@ -776,7 +794,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/7821078003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/7821078003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7821440003",
@@ -794,7 +812,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/7821440003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/7821440003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7827039003",
@@ -812,7 +830,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/7827039003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/7827039003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7829427003",
@@ -825,12 +843,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-14",
-      "updated": "2026-11-17",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/7829427003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/7829427003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7829429003",
@@ -843,12 +861,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-14",
-      "updated": "2026-11-17",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/7829429003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/7829429003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7832310003",
@@ -866,7 +884,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/7832310003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/7832310003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7832312003",
@@ -884,7 +902,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/7832312003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/7832312003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7832318003",
@@ -902,7 +920,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/7832318003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/7832318003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7849657003",
@@ -920,7 +938,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/7849657003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/7849657003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7849659003",
@@ -938,7 +956,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/7849659003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/7849659003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7854835003",
@@ -951,12 +969,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-13",
-      "updated": "2026-10-30",
+      "updated": "2026-11-19",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/7854835003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/7854835003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7860703003",
@@ -974,7 +992,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/7860703003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/7860703003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7860705003",
@@ -992,7 +1010,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/7860705003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/7860705003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7871086003",
@@ -1010,7 +1028,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/7871086003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/7871086003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7906836003",
@@ -1028,7 +1046,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/7906836003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/7906836003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7927799003",
@@ -1046,7 +1064,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/7927799003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/7927799003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7929523003",
@@ -1064,7 +1082,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/7929523003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/7929523003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7929525003",
@@ -1082,7 +1100,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/7929525003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/7929525003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7931494003",
@@ -1100,7 +1118,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/7931494003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/7931494003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7931496003",
@@ -1118,7 +1136,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/7931496003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/7931496003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7966043003",
@@ -1136,7 +1154,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/7966043003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/7966043003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7978722003",
@@ -1154,7 +1172,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/7978722003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/7978722003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7979134003",
@@ -1172,7 +1190,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/7979134003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/7979134003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7979495003",
@@ -1190,7 +1208,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/7979495003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/7979495003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7979497003",
@@ -1208,7 +1226,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/7979497003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/7979497003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7979912003",
@@ -1226,7 +1244,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/7979912003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/7979912003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7981723003",
@@ -1244,7 +1262,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/7981723003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/7981723003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7981725003",
@@ -1262,7 +1280,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/7981725003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/7981725003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7990774003",
@@ -1280,7 +1298,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/7990774003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/7990774003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7994549003",
@@ -1298,7 +1316,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/7994549003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/7994549003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7994553003",
@@ -1316,7 +1334,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/7994553003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/7994553003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7994555003",
@@ -1334,7 +1352,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/7994555003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/7994555003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7999793003",
@@ -1352,7 +1370,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/7999793003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/7999793003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7999870003",
@@ -1370,7 +1388,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/7999870003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/7999870003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8001621003",
@@ -1388,7 +1406,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8001621003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8001621003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8001623003",
@@ -1406,7 +1424,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8001623003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8001623003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8003170003",
@@ -1424,7 +1442,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8003170003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8003170003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8003795003",
@@ -1442,7 +1460,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8003795003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8003795003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8003799003",
@@ -1460,7 +1478,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8003799003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8003799003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8003801003",
@@ -1478,7 +1496,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8003801003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8003801003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8004096003",
@@ -1496,7 +1514,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8004096003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8004096003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8004950003",
@@ -1514,7 +1532,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8004950003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8004950003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8004995003",
@@ -1532,25 +1550,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8004995003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8004995003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
-    },
-    {
-      "id": "8005402003",
-      "title": "Small Business Account Executive II",
-      "company": "Affirm",
-      "location": "Remote US",
-      "remote": "remote",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-10-09",
-      "updated": "2026-11-16",
-      "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8005402003",
-      "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8005402003",
-      "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8005406003",
@@ -1568,7 +1568,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8005406003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8005406003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8005408003",
@@ -1586,7 +1586,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8005408003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8005408003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8006357003",
@@ -1604,7 +1604,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8006357003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8006357003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8006359003",
@@ -1622,7 +1622,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8006359003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8006359003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8008481003",
@@ -1640,25 +1640,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8008481003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8008481003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
-    },
-    {
-      "id": "8008649003",
-      "title": "Software Engineer, Early Career (NYC)",
-      "company": "Affirm",
-      "location": "New York, New York, United States",
-      "remote": "unspecified",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-10-06",
-      "updated": "2026-11-17",
-      "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8008649003",
-      "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8008649003",
-      "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8009366003",
@@ -1676,7 +1658,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8009366003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8009366003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8009368003",
@@ -1694,7 +1676,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8009368003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8009368003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8009629003",
@@ -1712,7 +1694,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8009629003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8009629003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8009631003",
@@ -1730,7 +1712,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8009631003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8009631003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8009657003",
@@ -1748,7 +1730,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8009657003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8009657003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8009661003",
@@ -1766,7 +1748,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8009661003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8009661003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8009663003",
@@ -1784,7 +1766,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8009663003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8009663003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8009665003",
@@ -1802,7 +1784,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8009665003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8009665003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8010496003",
@@ -1820,25 +1802,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8010496003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8010496003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
-    },
-    {
-      "id": "8010617003",
-      "title": "Software Engineer, Early Career (SF)",
-      "company": "Affirm",
-      "location": "San Francisco, California, United States",
-      "remote": "unspecified",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-10-06",
-      "updated": "2026-11-17",
-      "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8010617003",
-      "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8010617003",
-      "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8011038003",
@@ -1856,7 +1820,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8011038003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8011038003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8011040003",
@@ -1874,7 +1838,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8011040003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8011040003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8011130003",
@@ -1892,7 +1856,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8011130003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8011130003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8011132003",
@@ -1910,7 +1874,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8011132003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8011132003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8011375003",
@@ -1928,7 +1892,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8011375003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8011375003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8011590003",
@@ -1946,7 +1910,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8011590003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8011590003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8011718003",
@@ -1964,7 +1928,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8011718003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8011718003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8012093003",
@@ -1982,7 +1946,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8012093003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8012093003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8012095003",
@@ -2000,7 +1964,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8012095003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8012095003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8012129003",
@@ -2018,7 +1982,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8012129003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8012129003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8012584003",
@@ -2036,7 +2000,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8012584003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8012584003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8012914003",
@@ -2054,7 +2018,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8012914003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8012914003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8012916003",
@@ -2072,7 +2036,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8012916003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8012916003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8013440003",
@@ -2090,7 +2054,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8013440003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8013440003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8013442003",
@@ -2108,7 +2072,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8013442003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8013442003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8013444003",
@@ -2126,7 +2090,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8013444003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8013444003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8013700003",
@@ -2144,7 +2108,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8013700003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8013700003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8015279003",
@@ -2162,7 +2126,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8015279003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8015279003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8016833003",
@@ -2180,7 +2144,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8016833003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8016833003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8016835003",
@@ -2198,7 +2162,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8016835003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8016835003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8016866003",
@@ -2216,7 +2180,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8016866003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8016866003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8016868003",
@@ -2234,7 +2198,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8016868003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8016868003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8016932003",
@@ -2252,7 +2216,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8016932003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8016932003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8017284003",
@@ -2270,7 +2234,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8017284003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8017284003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8017286003",
@@ -2288,7 +2252,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8017286003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8017286003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8017340003",
@@ -2306,7 +2270,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8017340003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8017340003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8017342003",
@@ -2324,7 +2288,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8017342003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8017342003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8020318003",
@@ -2342,25 +2306,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8020318003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8020318003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
-    },
-    {
-      "id": "8030973003",
-      "title": "Manager, Software Engineering (Loans Lifecycle)",
-      "company": "Affirm",
-      "location": "Remote US",
-      "remote": "remote",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-10-16",
-      "updated": "2026-10-30",
-      "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8030973003",
-      "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8030973003",
-      "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8031022003",
@@ -2378,7 +2324,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8031022003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8031022003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8032173003",
@@ -2396,7 +2342,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8032173003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8032173003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8032175003",
@@ -2414,7 +2360,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8032175003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8032175003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8033261003",
@@ -2432,7 +2378,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8033261003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8033261003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8033589003",
@@ -2450,7 +2396,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8033589003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8033589003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8034645003",
@@ -2468,7 +2414,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8034645003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8034645003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8034647003",
@@ -2486,7 +2432,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8034647003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8034647003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8034649003",
@@ -2504,7 +2450,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8034649003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8034649003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8034651003",
@@ -2522,7 +2468,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8034651003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8034651003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8034821003",
@@ -2540,7 +2486,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8034821003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8034821003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8034825003",
@@ -2558,7 +2504,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8034825003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8034825003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8034827003",
@@ -2576,7 +2522,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8034827003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8034827003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8035736003",
@@ -2594,7 +2540,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8035736003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8035736003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8036613003",
@@ -2612,7 +2558,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8036613003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8036613003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8037635003",
@@ -2630,7 +2576,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8037635003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8037635003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8038196003",
@@ -2648,7 +2594,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8038196003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8038196003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8038925003",
@@ -2666,7 +2612,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8038925003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8038925003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8038927003",
@@ -2684,7 +2630,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8038927003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8038927003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8039471003",
@@ -2702,7 +2648,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8039471003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8039471003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8039805003",
@@ -2720,7 +2666,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8039805003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8039805003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8040267003",
@@ -2738,7 +2684,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8040267003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8040267003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8040271003",
@@ -2756,7 +2702,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8040271003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8040271003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8040273003",
@@ -2774,7 +2720,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8040273003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8040273003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8040378003",
@@ -2792,7 +2738,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8040378003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8040378003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8040380003",
@@ -2810,7 +2756,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8040380003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8040380003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8040388003",
@@ -2828,7 +2774,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8040388003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8040388003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8040392003",
@@ -2846,7 +2792,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8040392003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8040392003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8040394003",
@@ -2864,7 +2810,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8040394003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8040394003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8040396003",
@@ -2882,7 +2828,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8040396003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8040396003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8040751003",
@@ -2900,7 +2846,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8040751003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8040751003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8040753003",
@@ -2918,7 +2864,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8040753003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8040753003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8040794003",
@@ -2936,7 +2882,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8040794003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8040794003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8041423003",
@@ -2954,7 +2900,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8041423003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8041423003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8041432003",
@@ -2972,7 +2918,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8041432003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8041432003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8041930003",
@@ -2990,7 +2936,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8041930003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8041930003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8041932003",
@@ -3008,7 +2954,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8041932003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8041932003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8042371003",
@@ -3026,7 +2972,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8042371003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8042371003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8042399003",
@@ -3044,7 +2990,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8042399003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8042399003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8043027003",
@@ -3062,7 +3008,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8043027003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8043027003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8043029003",
@@ -3080,7 +3026,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8043029003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8043029003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8043259003",
@@ -3098,7 +3044,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8043259003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8043259003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8043261003",
@@ -3116,7 +3062,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8043261003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8043261003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8043921003",
@@ -3134,7 +3080,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8043921003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8043921003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8043923003",
@@ -3152,7 +3098,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8043923003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8043923003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8044715003",
@@ -3170,7 +3116,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8044715003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8044715003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8044928003",
@@ -3188,7 +3134,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8044928003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8044928003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8045293003",
@@ -3206,7 +3152,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8045293003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8045293003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8045376003",
@@ -3224,7 +3170,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8045376003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8045376003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8045378003",
@@ -3242,7 +3188,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8045378003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8045378003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8045391003",
@@ -3260,7 +3206,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8045391003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8045391003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8045395003",
@@ -3278,7 +3224,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8045395003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8045395003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8048119003",
@@ -3296,7 +3242,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8048119003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8048119003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8048121003",
@@ -3314,7 +3260,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8048121003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8048121003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8057948003",
@@ -3327,12 +3273,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-30",
-      "updated": "2026-11-10",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8057948003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8057948003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8057950003",
@@ -3350,7 +3296,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8057950003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8057950003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8075412003",
@@ -3368,7 +3314,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8075412003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8075412003",
       "first_seen": "2026-11-18T15:36:26Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8075414003",
@@ -3386,7 +3332,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8075414003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8075414003",
       "first_seen": "2026-11-18T15:36:26Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8098803003",
@@ -3404,7 +3350,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8098803003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8098803003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8161169003",
@@ -3422,7 +3368,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8161169003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8161169003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8162556003",
@@ -3440,7 +3386,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8162556003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8162556003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8162558003",
@@ -3458,7 +3404,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8162558003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8162558003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8181183003",
@@ -3476,7 +3422,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8181183003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8181183003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8181185003",
@@ -3494,7 +3440,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8181185003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8181185003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8181191003",
@@ -3512,7 +3458,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8181191003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8181191003",
       "first_seen": "2026-11-18T15:36:26Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8181193003",
@@ -3530,7 +3476,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8181193003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8181193003",
       "first_seen": "2026-11-18T15:36:26Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8182228003",
@@ -3548,7 +3494,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8182228003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8182228003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8194342003",
@@ -3566,7 +3512,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8194342003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8194342003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8196112003",
@@ -3584,7 +3530,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8196112003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8196112003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8196747003",
@@ -3602,7 +3548,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8196747003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8196747003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8196749003",
@@ -3620,7 +3566,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8196749003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8196749003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8197315003",
@@ -3638,7 +3584,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8197315003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8197315003",
       "first_seen": "2026-11-18T15:36:26Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8197317003",
@@ -3656,7 +3602,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8197317003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8197317003",
       "first_seen": "2026-11-18T15:36:26Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8197325003",
@@ -3674,7 +3620,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8197325003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8197325003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8197327003",
@@ -3692,7 +3638,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8197327003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8197327003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8197334003",
@@ -3710,7 +3656,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8197334003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8197334003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8197336003",
@@ -3728,7 +3674,25 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8197336003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8197336003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
+    },
+    {
+      "id": "8197543003",
+      "title": "Software Engineer II, Full stack (Open Banking)",
+      "company": "Affirm",
+      "location": "Remote UK",
+      "remote": "remote",
+      "department": "",
+      "employment_type": "",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-19",
+      "updated": "2026-11-19",
+      "deadline": "",
+      "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8197543003",
+      "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8197543003",
+      "first_seen": "2026-11-19T15:42:04Z",
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8197742003",
@@ -3746,7 +3710,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8197742003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8197742003",
       "first_seen": "2026-11-18T15:36:26Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8197744003",
@@ -3764,7 +3728,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8197744003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8197744003",
       "first_seen": "2026-11-18T15:36:26Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8199288003",
@@ -3782,7 +3746,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8199288003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8199288003",
       "first_seen": "2026-11-18T15:36:26Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8199419003",
@@ -3800,7 +3764,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8199419003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8199419003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8199421003",
@@ -3818,7 +3782,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8199421003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8199421003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8199642003",
@@ -3836,7 +3800,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8199642003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8199642003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8200178003",
@@ -3854,7 +3818,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8200178003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8200178003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8200180003",
@@ -3872,7 +3836,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8200180003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8200180003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8201457003",
@@ -3890,7 +3854,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8201457003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8201457003",
       "first_seen": "2026-11-18T15:36:26Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8201463003",
@@ -3908,7 +3872,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8201463003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8201463003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8201465003",
@@ -3926,7 +3890,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8201465003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8201465003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8201566003",
@@ -3944,7 +3908,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8201566003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8201566003",
       "first_seen": "2026-11-18T15:36:26Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8202545003",
@@ -3957,12 +3921,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-13",
-      "updated": "2026-11-13",
+      "updated": "2026-11-19",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8202545003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8202545003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8202548003",
@@ -3975,12 +3939,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-13",
-      "updated": "2026-11-13",
+      "updated": "2026-11-19",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8202548003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8202548003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8202705003",
@@ -3998,7 +3962,25 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8202705003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8202705003",
       "first_seen": "2026-11-18T15:36:26Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
+    },
+    {
+      "id": "8202709003",
+      "title": "Affirm Bank Strategic Finance Lead",
+      "company": "Affirm",
+      "location": "Remote US",
+      "remote": "remote",
+      "department": "",
+      "employment_type": "",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-18",
+      "updated": "2026-11-18",
+      "deadline": "",
+      "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8202709003",
+      "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8202709003",
+      "first_seen": "2026-11-19T15:42:04Z",
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8203803003",
@@ -4016,7 +3998,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8203803003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8203803003",
       "first_seen": "2026-11-18T15:36:26Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8203805003",
@@ -4034,7 +4016,43 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8203805003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8203805003",
       "first_seen": "2026-11-18T15:36:26Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
+    },
+    {
+      "id": "8205742003",
+      "title": "Manager, Machine Learning Engineering",
+      "company": "Affirm",
+      "location": "Remote US",
+      "remote": "remote",
+      "department": "",
+      "employment_type": "",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-18",
+      "updated": "2026-11-18",
+      "deadline": "",
+      "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8205742003",
+      "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8205742003",
+      "first_seen": "2026-11-19T15:42:04Z",
+      "last_checked": "2026-11-19T15:42:04Z"
+    },
+    {
+      "id": "8205744003",
+      "title": "Manager, Machine Learning Engineering",
+      "company": "Affirm",
+      "location": "Remote Canada",
+      "remote": "remote",
+      "department": "",
+      "employment_type": "",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-18",
+      "updated": "2026-11-18",
+      "deadline": "",
+      "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8205744003",
+      "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8205744003",
+      "first_seen": "2026-11-19T15:42:04Z",
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8207671003",
@@ -4052,7 +4070,7 @@
       "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8207671003",
       "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8207671003",
       "first_seen": "2026-11-18T15:36:26Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     }
   ],
   "ats": "greenhouse",

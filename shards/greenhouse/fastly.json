@@ -1,8 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-18T15:36:26Z",
+  "checked_at": "2026-11-19T15:42:04Z",
   "failed_at": null,
-  "etag": "W/\"ab6c576d1ee89c73d1fe2ea27a3d4a9c\"",
+  "etag": "W/\"da715b4ef4495c5b59f7ea178f1b81c2\"",
   "jobs": [
     {
       "id": "7641510",
@@ -20,7 +20,7 @@
       "source_url": "https://www.fastly.com/about/jobs/apply?gh_jid=7641510",
       "apply_url": "https://www.fastly.com/about/jobs/apply?gh_jid=7641510",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7733190",
@@ -33,12 +33,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-03-24",
-      "updated": "2026-10-30",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://www.fastly.com/about/jobs/apply?gh_jid=7733190",
       "apply_url": "https://www.fastly.com/about/jobs/apply?gh_jid=7733190",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7858609",
@@ -56,7 +56,7 @@
       "source_url": "https://www.fastly.com/about/jobs/apply?gh_jid=7858609",
       "apply_url": "https://www.fastly.com/about/jobs/apply?gh_jid=7858609",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7901940",
@@ -74,7 +74,7 @@
       "source_url": "https://www.fastly.com/about/jobs/apply?gh_jid=7901940",
       "apply_url": "https://www.fastly.com/about/jobs/apply?gh_jid=7901940",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7912473",
@@ -92,7 +92,7 @@
       "source_url": "https://www.fastly.com/about/jobs/apply?gh_jid=7912473",
       "apply_url": "https://www.fastly.com/about/jobs/apply?gh_jid=7912473",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7912475",
@@ -110,7 +110,7 @@
       "source_url": "https://www.fastly.com/about/jobs/apply?gh_jid=7912475",
       "apply_url": "https://www.fastly.com/about/jobs/apply?gh_jid=7912475",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8045052",
@@ -128,7 +128,7 @@
       "source_url": "https://www.fastly.com/about/jobs/apply?gh_jid=8045052",
       "apply_url": "https://www.fastly.com/about/jobs/apply?gh_jid=8045052",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8079946",
@@ -141,12 +141,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-07-22",
-      "updated": "2026-10-30",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://www.fastly.com/about/jobs/apply?gh_jid=8079946",
       "apply_url": "https://www.fastly.com/about/jobs/apply?gh_jid=8079946",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8089199",
@@ -164,7 +164,7 @@
       "source_url": "https://www.fastly.com/about/jobs/apply?gh_jid=8089199",
       "apply_url": "https://www.fastly.com/about/jobs/apply?gh_jid=8089199",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8103116",
@@ -182,7 +182,7 @@
       "source_url": "https://www.fastly.com/about/jobs/apply?gh_jid=8103116",
       "apply_url": "https://www.fastly.com/about/jobs/apply?gh_jid=8103116",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8105433",
@@ -200,7 +200,7 @@
       "source_url": "https://www.fastly.com/about/jobs/apply?gh_jid=8105433",
       "apply_url": "https://www.fastly.com/about/jobs/apply?gh_jid=8105433",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8153142",
@@ -218,7 +218,7 @@
       "source_url": "https://www.fastly.com/about/jobs/apply?gh_jid=8153142",
       "apply_url": "https://www.fastly.com/about/jobs/apply?gh_jid=8153142",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8160641",
@@ -236,7 +236,7 @@
       "source_url": "https://www.fastly.com/about/jobs/apply?gh_jid=8160641",
       "apply_url": "https://www.fastly.com/about/jobs/apply?gh_jid=8160641",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8180885",
@@ -254,7 +254,7 @@
       "source_url": "https://www.fastly.com/about/jobs/apply?gh_jid=8180885",
       "apply_url": "https://www.fastly.com/about/jobs/apply?gh_jid=8180885",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8184616",
@@ -272,7 +272,7 @@
       "source_url": "https://www.fastly.com/about/jobs/apply?gh_jid=8184616",
       "apply_url": "https://www.fastly.com/about/jobs/apply?gh_jid=8184616",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8188597",
@@ -290,7 +290,7 @@
       "source_url": "https://www.fastly.com/about/jobs/apply?gh_jid=8188597",
       "apply_url": "https://www.fastly.com/about/jobs/apply?gh_jid=8188597",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8220907",
@@ -308,7 +308,7 @@
       "source_url": "https://www.fastly.com/about/jobs/apply?gh_jid=8220907",
       "apply_url": "https://www.fastly.com/about/jobs/apply?gh_jid=8220907",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8226276",
@@ -326,7 +326,7 @@
       "source_url": "https://www.fastly.com/about/jobs/apply?gh_jid=8226276",
       "apply_url": "https://www.fastly.com/about/jobs/apply?gh_jid=8226276",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8237482",
@@ -344,7 +344,7 @@
       "source_url": "https://www.fastly.com/about/jobs/apply?gh_jid=8237482",
       "apply_url": "https://www.fastly.com/about/jobs/apply?gh_jid=8237482",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8237486",
@@ -362,7 +362,7 @@
       "source_url": "https://www.fastly.com/about/jobs/apply?gh_jid=8237486",
       "apply_url": "https://www.fastly.com/about/jobs/apply?gh_jid=8237486",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8237553",
@@ -380,7 +380,25 @@
       "source_url": "https://www.fastly.com/about/jobs/apply?gh_jid=8237553",
       "apply_url": "https://www.fastly.com/about/jobs/apply?gh_jid=8237553",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
+    },
+    {
+      "id": "8239218",
+      "title": "Partner Development Lead - France",
+      "company": "Fastly",
+      "location": "Paris, France",
+      "remote": "unspecified",
+      "department": "",
+      "employment_type": "",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-09-29",
+      "updated": "2026-11-18",
+      "deadline": "",
+      "source_url": "https://www.fastly.com/about/jobs/apply?gh_jid=8239218",
+      "apply_url": "https://www.fastly.com/about/jobs/apply?gh_jid=8239218",
+      "first_seen": "2026-11-19T15:42:04Z",
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8249816",
@@ -398,7 +416,7 @@
       "source_url": "https://www.fastly.com/about/jobs/apply?gh_jid=8249816",
       "apply_url": "https://www.fastly.com/about/jobs/apply?gh_jid=8249816",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8249951",
@@ -416,7 +434,7 @@
       "source_url": "https://www.fastly.com/about/jobs/apply?gh_jid=8249951",
       "apply_url": "https://www.fastly.com/about/jobs/apply?gh_jid=8249951",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8257627",
@@ -434,7 +452,7 @@
       "source_url": "https://www.fastly.com/about/jobs/apply?gh_jid=8257627",
       "apply_url": "https://www.fastly.com/about/jobs/apply?gh_jid=8257627",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8260015",
@@ -452,7 +470,7 @@
       "source_url": "https://www.fastly.com/about/jobs/apply?gh_jid=8260015",
       "apply_url": "https://www.fastly.com/about/jobs/apply?gh_jid=8260015",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8261429",
@@ -470,7 +488,7 @@
       "source_url": "https://www.fastly.com/about/jobs/apply?gh_jid=8261429",
       "apply_url": "https://www.fastly.com/about/jobs/apply?gh_jid=8261429",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8263424",
@@ -488,7 +506,7 @@
       "source_url": "https://www.fastly.com/about/jobs/apply?gh_jid=8263424",
       "apply_url": "https://www.fastly.com/about/jobs/apply?gh_jid=8263424",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8264992",
@@ -506,7 +524,7 @@
       "source_url": "https://www.fastly.com/about/jobs/apply?gh_jid=8264992",
       "apply_url": "https://www.fastly.com/about/jobs/apply?gh_jid=8264992",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8282340",
@@ -524,7 +542,7 @@
       "source_url": "https://www.fastly.com/about/jobs/apply?gh_jid=8282340",
       "apply_url": "https://www.fastly.com/about/jobs/apply?gh_jid=8282340",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8284458",
@@ -542,7 +560,7 @@
       "source_url": "https://www.fastly.com/about/jobs/apply?gh_jid=8284458",
       "apply_url": "https://www.fastly.com/about/jobs/apply?gh_jid=8284458",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8284505",
@@ -560,7 +578,7 @@
       "source_url": "https://www.fastly.com/about/jobs/apply?gh_jid=8284505",
       "apply_url": "https://www.fastly.com/about/jobs/apply?gh_jid=8284505",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8289709",
@@ -578,7 +596,7 @@
       "source_url": "https://www.fastly.com/about/jobs/apply?gh_jid=8289709",
       "apply_url": "https://www.fastly.com/about/jobs/apply?gh_jid=8289709",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8300769",
@@ -596,7 +614,7 @@
       "source_url": "https://www.fastly.com/about/jobs/apply?gh_jid=8300769",
       "apply_url": "https://www.fastly.com/about/jobs/apply?gh_jid=8300769",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8301586",
@@ -614,7 +632,7 @@
       "source_url": "https://www.fastly.com/about/jobs/apply?gh_jid=8301586",
       "apply_url": "https://www.fastly.com/about/jobs/apply?gh_jid=8301586",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8304308",
@@ -632,7 +650,7 @@
       "source_url": "https://www.fastly.com/about/jobs/apply?gh_jid=8304308",
       "apply_url": "https://www.fastly.com/about/jobs/apply?gh_jid=8304308",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8334023",
@@ -650,7 +668,7 @@
       "source_url": "https://www.fastly.com/about/jobs/apply?gh_jid=8334023",
       "apply_url": "https://www.fastly.com/about/jobs/apply?gh_jid=8334023",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8337296",
@@ -668,7 +686,7 @@
       "source_url": "https://www.fastly.com/about/jobs/apply?gh_jid=8337296",
       "apply_url": "https://www.fastly.com/about/jobs/apply?gh_jid=8337296",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8337772",
@@ -686,7 +704,7 @@
       "source_url": "https://www.fastly.com/about/jobs/apply?gh_jid=8337772",
       "apply_url": "https://www.fastly.com/about/jobs/apply?gh_jid=8337772",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8337806",
@@ -704,7 +722,7 @@
       "source_url": "https://www.fastly.com/about/jobs/apply?gh_jid=8337806",
       "apply_url": "https://www.fastly.com/about/jobs/apply?gh_jid=8337806",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8347932",
@@ -722,7 +740,7 @@
       "source_url": "https://www.fastly.com/about/jobs/apply?gh_jid=8347932",
       "apply_url": "https://www.fastly.com/about/jobs/apply?gh_jid=8347932",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8349719",
@@ -740,7 +758,7 @@
       "source_url": "https://www.fastly.com/about/jobs/apply?gh_jid=8349719",
       "apply_url": "https://www.fastly.com/about/jobs/apply?gh_jid=8349719",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8350187",
@@ -758,7 +776,7 @@
       "source_url": "https://www.fastly.com/about/jobs/apply?gh_jid=8350187",
       "apply_url": "https://www.fastly.com/about/jobs/apply?gh_jid=8350187",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8351092",
@@ -776,7 +794,7 @@
       "source_url": "https://www.fastly.com/about/jobs/apply?gh_jid=8351092",
       "apply_url": "https://www.fastly.com/about/jobs/apply?gh_jid=8351092",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8364688",
@@ -794,7 +812,7 @@
       "source_url": "https://www.fastly.com/about/jobs/apply?gh_jid=8364688",
       "apply_url": "https://www.fastly.com/about/jobs/apply?gh_jid=8364688",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8370658",
@@ -812,7 +830,7 @@
       "source_url": "https://www.fastly.com/about/jobs/apply?gh_jid=8370658",
       "apply_url": "https://www.fastly.com/about/jobs/apply?gh_jid=8370658",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8373849",
@@ -830,25 +848,25 @@
       "source_url": "https://www.fastly.com/about/jobs/apply?gh_jid=8373849",
       "apply_url": "https://www.fastly.com/about/jobs/apply?gh_jid=8373849",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
-      "id": "8384124",
-      "title": "Security Support Engineer",
+      "id": "8397718",
+      "title": "Staff Talent Acquisition Partner, EMEA",
       "company": "Fastly",
-      "location": "New York City, NY",
+      "location": "London, United Kingdom",
       "remote": "unspecified",
       "department": "",
       "employment_type": "",
       "salary_text": "",
       "salary_source": "",
-      "posted": "2026-11-12",
-      "updated": "2026-11-12",
+      "posted": "2026-11-18",
+      "updated": "2026-11-18",
       "deadline": "",
-      "source_url": "https://www.fastly.com/about/jobs/apply?gh_jid=8384124",
-      "apply_url": "https://www.fastly.com/about/jobs/apply?gh_jid=8384124",
-      "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "source_url": "https://www.fastly.com/about/jobs/apply?gh_jid=8397718",
+      "apply_url": "https://www.fastly.com/about/jobs/apply?gh_jid=8397718",
+      "first_seen": "2026-11-19T15:42:04Z",
+      "last_checked": "2026-11-19T15:42:04Z"
     }
   ],
   "ats": "greenhouse",

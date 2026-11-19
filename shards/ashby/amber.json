@@ -1,8 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-18T15:36:26Z",
+  "checked_at": "2026-11-19T15:42:04Z",
   "failed_at": null,
-  "etag": "W/\"job-board:6cb0ab493b0ce2101f716d6925e4a061a7acce295633a20ee35e34a4aac15f5f\"",
+  "etag": "W/\"job-board:9d561c2296152c56a826d495c71db556a845613f69f4736327e511f0852f88ad\"",
   "jobs": [
     {
       "id": "0afd753f-f6d7-4f38-b4d1-47c9b0f49575",
@@ -20,7 +20,7 @@
       "source_url": "https://jobs.ashbyhq.com/amber/0afd753f-f6d7-4f38-b4d1-47c9b0f49575",
       "apply_url": "https://jobs.ashbyhq.com/amber/0afd753f-f6d7-4f38-b4d1-47c9b0f49575/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "0bc2001e-74ac-451e-a66a-4c7577666602",
@@ -38,7 +38,7 @@
       "source_url": "https://jobs.ashbyhq.com/amber/0bc2001e-74ac-451e-a66a-4c7577666602",
       "apply_url": "https://jobs.ashbyhq.com/amber/0bc2001e-74ac-451e-a66a-4c7577666602/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "10443c06-382a-4dbd-9717-5b26cc38e6ed",
@@ -56,7 +56,7 @@
       "source_url": "https://jobs.ashbyhq.com/amber/10443c06-382a-4dbd-9717-5b26cc38e6ed",
       "apply_url": "https://jobs.ashbyhq.com/amber/10443c06-382a-4dbd-9717-5b26cc38e6ed/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "2cfe2f6c-dddd-4696-9763-9c9e267a9976",
@@ -74,7 +74,7 @@
       "source_url": "https://jobs.ashbyhq.com/amber/2cfe2f6c-dddd-4696-9763-9c9e267a9976",
       "apply_url": "https://jobs.ashbyhq.com/amber/2cfe2f6c-dddd-4696-9763-9c9e267a9976/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "2eb8448a-c7ea-41a4-9d54-faab97292692",
@@ -92,7 +92,7 @@
       "source_url": "https://jobs.ashbyhq.com/amber/2eb8448a-c7ea-41a4-9d54-faab97292692",
       "apply_url": "https://jobs.ashbyhq.com/amber/2eb8448a-c7ea-41a4-9d54-faab97292692/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "37b2b2ae-2992-4ad1-b68a-3d0f7af4fb96",
@@ -110,7 +110,7 @@
       "source_url": "https://jobs.ashbyhq.com/amber/37b2b2ae-2992-4ad1-b68a-3d0f7af4fb96",
       "apply_url": "https://jobs.ashbyhq.com/amber/37b2b2ae-2992-4ad1-b68a-3d0f7af4fb96/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "42fa221a-f9c5-4a18-b2c3-a7c37e510798",
@@ -128,7 +128,7 @@
       "source_url": "https://jobs.ashbyhq.com/amber/42fa221a-f9c5-4a18-b2c3-a7c37e510798",
       "apply_url": "https://jobs.ashbyhq.com/amber/42fa221a-f9c5-4a18-b2c3-a7c37e510798/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "45fdd07b-68f3-44c6-9526-903df6762858",
@@ -146,7 +146,7 @@
       "source_url": "https://jobs.ashbyhq.com/amber/45fdd07b-68f3-44c6-9526-903df6762858",
       "apply_url": "https://jobs.ashbyhq.com/amber/45fdd07b-68f3-44c6-9526-903df6762858/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "4736fe3e-cfab-45d7-a9d5-b3aa44bac4e3",
@@ -164,7 +164,7 @@
       "source_url": "https://jobs.ashbyhq.com/amber/4736fe3e-cfab-45d7-a9d5-b3aa44bac4e3",
       "apply_url": "https://jobs.ashbyhq.com/amber/4736fe3e-cfab-45d7-a9d5-b3aa44bac4e3/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "57a85ec3-3245-4141-ba9b-99f23d549b7d",
@@ -182,7 +182,7 @@
       "source_url": "https://jobs.ashbyhq.com/amber/57a85ec3-3245-4141-ba9b-99f23d549b7d",
       "apply_url": "https://jobs.ashbyhq.com/amber/57a85ec3-3245-4141-ba9b-99f23d549b7d/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "70889d29-c419-40e6-a43b-f10cd6de90ce",
@@ -200,7 +200,7 @@
       "source_url": "https://jobs.ashbyhq.com/amber/70889d29-c419-40e6-a43b-f10cd6de90ce",
       "apply_url": "https://jobs.ashbyhq.com/amber/70889d29-c419-40e6-a43b-f10cd6de90ce/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "82533025-67f2-4fcf-9dcb-8abbf18f1319",
@@ -218,7 +218,7 @@
       "source_url": "https://jobs.ashbyhq.com/amber/82533025-67f2-4fcf-9dcb-8abbf18f1319",
       "apply_url": "https://jobs.ashbyhq.com/amber/82533025-67f2-4fcf-9dcb-8abbf18f1319/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "82e70bbc-9fa0-4a83-9c19-dadbbfd24f41",
@@ -236,7 +236,7 @@
       "source_url": "https://jobs.ashbyhq.com/amber/82e70bbc-9fa0-4a83-9c19-dadbbfd24f41",
       "apply_url": "https://jobs.ashbyhq.com/amber/82e70bbc-9fa0-4a83-9c19-dadbbfd24f41/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8473c573-c107-4c71-bc30-8d5a13d026f4",
@@ -254,7 +254,7 @@
       "source_url": "https://jobs.ashbyhq.com/amber/8473c573-c107-4c71-bc30-8d5a13d026f4",
       "apply_url": "https://jobs.ashbyhq.com/amber/8473c573-c107-4c71-bc30-8d5a13d026f4/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "a0b4c4fa-df2e-4a29-b8e3-b2ae00173fdd",
@@ -272,7 +272,7 @@
       "source_url": "https://jobs.ashbyhq.com/amber/a0b4c4fa-df2e-4a29-b8e3-b2ae00173fdd",
       "apply_url": "https://jobs.ashbyhq.com/amber/a0b4c4fa-df2e-4a29-b8e3-b2ae00173fdd/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "a6a33b31-d073-419f-836b-ccfae822ae5d",
@@ -290,7 +290,7 @@
       "source_url": "https://jobs.ashbyhq.com/amber/a6a33b31-d073-419f-836b-ccfae822ae5d",
       "apply_url": "https://jobs.ashbyhq.com/amber/a6a33b31-d073-419f-836b-ccfae822ae5d/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "aa0437cd-5558-4dc2-b3df-a076959f27d7",
@@ -308,7 +308,7 @@
       "source_url": "https://jobs.ashbyhq.com/amber/aa0437cd-5558-4dc2-b3df-a076959f27d7",
       "apply_url": "https://jobs.ashbyhq.com/amber/aa0437cd-5558-4dc2-b3df-a076959f27d7/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "ab7e657b-5037-4a65-83b3-3e153fd970c8",
@@ -326,7 +326,7 @@
       "source_url": "https://jobs.ashbyhq.com/amber/ab7e657b-5037-4a65-83b3-3e153fd970c8",
       "apply_url": "https://jobs.ashbyhq.com/amber/ab7e657b-5037-4a65-83b3-3e153fd970c8/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "ad6d9488-f4f4-45f6-91e0-296ece77f874",
@@ -344,11 +344,11 @@
       "source_url": "https://jobs.ashbyhq.com/amber/ad6d9488-f4f4-45f6-91e0-296ece77f874",
       "apply_url": "https://jobs.ashbyhq.com/amber/ad6d9488-f4f4-45f6-91e0-296ece77f874/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "d6354360-ceb2-4f0c-9939-8444c37633d4",
-      "title": "Werkstudent Office & Team Management (F/M/*)",
+      "title": "Werkstudent Office & Team Management - Aachen (F/M/*)",
       "company": "amber",
       "location": "Aachen",
       "remote": "onsite",
@@ -362,7 +362,7 @@
       "source_url": "https://jobs.ashbyhq.com/amber/d6354360-ceb2-4f0c-9939-8444c37633d4",
       "apply_url": "https://jobs.ashbyhq.com/amber/d6354360-ceb2-4f0c-9939-8444c37633d4/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "d967ebf0-93c8-4145-95e2-ceec2b6c0d91",
@@ -380,7 +380,7 @@
       "source_url": "https://jobs.ashbyhq.com/amber/d967ebf0-93c8-4145-95e2-ceec2b6c0d91",
       "apply_url": "https://jobs.ashbyhq.com/amber/d967ebf0-93c8-4145-95e2-ceec2b6c0d91/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "e32a24ce-bd65-42bf-b94a-ca2acd2ad90e",
@@ -398,7 +398,7 @@
       "source_url": "https://jobs.ashbyhq.com/amber/e32a24ce-bd65-42bf-b94a-ca2acd2ad90e",
       "apply_url": "https://jobs.ashbyhq.com/amber/e32a24ce-bd65-42bf-b94a-ca2acd2ad90e/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "e6c20c7c-da52-46d4-8f31-43382eafe586",
@@ -416,7 +416,7 @@
       "source_url": "https://jobs.ashbyhq.com/amber/e6c20c7c-da52-46d4-8f31-43382eafe586",
       "apply_url": "https://jobs.ashbyhq.com/amber/e6c20c7c-da52-46d4-8f31-43382eafe586/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "f43e2680-e202-427a-ab3e-0fb9de25e364",
@@ -434,11 +434,11 @@
       "source_url": "https://jobs.ashbyhq.com/amber/f43e2680-e202-427a-ab3e-0fb9de25e364",
       "apply_url": "https://jobs.ashbyhq.com/amber/f43e2680-e202-427a-ab3e-0fb9de25e364/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "fdb40c09-dbde-40f4-8526-f291f7364fe2",
-      "title": "Werkstudent Office & Team Management (F/M/*)",
+      "title": "Werkstudent Office & Team Management - Köln (F/M/*)",
       "company": "amber",
       "location": "Köln",
       "remote": "onsite",
@@ -452,7 +452,7 @@
       "source_url": "https://jobs.ashbyhq.com/amber/fdb40c09-dbde-40f4-8526-f291f7364fe2",
       "apply_url": "https://jobs.ashbyhq.com/amber/fdb40c09-dbde-40f4-8526-f291f7364fe2/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     }
   ],
   "ats": "ashby",

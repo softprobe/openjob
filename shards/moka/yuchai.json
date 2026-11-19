@@ -1,8 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-18T15:36:26Z",
+  "checked_at": "2026-11-19T15:42:04Z",
   "failed_at": null,
-  "etag": "W/\"20a19-1P8Ec39OiTDxSVk4+lBQBA\"",
+  "etag": "W/\"20a19-udYUnm2oYtORLe1MRy4ZVw\"",
   "jobs": [
     {
       "id": "044198c2-6fb3-4ab6-a532-15132104aed2",
@@ -15,12 +15,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2025-11-04",
-      "updated": "2026-08-06",
+      "updated": "2026-11-19",
       "deadline": "",
       "source_url": "https://app.mokahr.com/social-recruitment/yuchai/140074#/job/044198c2-6fb3-4ab6-a532-15132104aed2",
       "apply_url": "https://app.mokahr.com/apply/yuchai/140074#/job/044198c2-6fb3-4ab6-a532-15132104aed2/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "099a5d86-2b4e-4bb4-bd57-9834a0158a61",
@@ -33,12 +33,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-01-06",
-      "updated": "2026-08-06",
+      "updated": "2026-11-19",
       "deadline": "",
       "source_url": "https://app.mokahr.com/social-recruitment/yuchai/140074#/job/099a5d86-2b4e-4bb4-bd57-9834a0158a61",
       "apply_url": "https://app.mokahr.com/apply/yuchai/140074#/job/099a5d86-2b4e-4bb4-bd57-9834a0158a61/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "0ef7e609-39ac-44d0-b1a9-029454096ad5",
@@ -51,12 +51,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-05-15",
-      "updated": "2026-08-06",
+      "updated": "2026-11-19",
       "deadline": "",
       "source_url": "https://app.mokahr.com/social-recruitment/yuchai/140074#/job/0ef7e609-39ac-44d0-b1a9-029454096ad5",
       "apply_url": "https://app.mokahr.com/apply/yuchai/140074#/job/0ef7e609-39ac-44d0-b1a9-029454096ad5/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "102a3846-c72a-45d3-bcbd-9c763e0560d3",
@@ -69,12 +69,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2025-11-04",
-      "updated": "2026-08-06",
+      "updated": "2026-11-19",
       "deadline": "",
       "source_url": "https://app.mokahr.com/social-recruitment/yuchai/140074#/job/102a3846-c72a-45d3-bcbd-9c763e0560d3",
       "apply_url": "https://app.mokahr.com/apply/yuchai/140074#/job/102a3846-c72a-45d3-bcbd-9c763e0560d3/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "2179511e-3f14-49b5-a255-4414d09daf08",
@@ -87,12 +87,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2025-11-05",
-      "updated": "2026-08-06",
+      "updated": "2026-11-19",
       "deadline": "",
       "source_url": "https://app.mokahr.com/social-recruitment/yuchai/140074#/job/2179511e-3f14-49b5-a255-4414d09daf08",
       "apply_url": "https://app.mokahr.com/apply/yuchai/140074#/job/2179511e-3f14-49b5-a255-4414d09daf08/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "21f6f905-406c-4f7c-9648-b864ef8dbebe",
@@ -105,12 +105,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-01-06",
-      "updated": "2026-08-06",
+      "updated": "2026-11-19",
       "deadline": "",
       "source_url": "https://app.mokahr.com/social-recruitment/yuchai/140074#/job/21f6f905-406c-4f7c-9648-b864ef8dbebe",
       "apply_url": "https://app.mokahr.com/apply/yuchai/140074#/job/21f6f905-406c-4f7c-9648-b864ef8dbebe/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "2629053a-ba8b-469b-96f5-7ddb386d7e47",
@@ -123,12 +123,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2025-07-21",
-      "updated": "2026-08-06",
+      "updated": "2026-11-19",
       "deadline": "",
       "source_url": "https://app.mokahr.com/social-recruitment/yuchai/140074#/job/2629053a-ba8b-469b-96f5-7ddb386d7e47",
       "apply_url": "https://app.mokahr.com/apply/yuchai/140074#/job/2629053a-ba8b-469b-96f5-7ddb386d7e47/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "26b61260-c205-49b6-8bc9-bdae6663d6e9",
@@ -141,12 +141,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2025-11-04",
-      "updated": "2026-08-06",
+      "updated": "2026-11-19",
       "deadline": "",
       "source_url": "https://app.mokahr.com/social-recruitment/yuchai/140074#/job/26b61260-c205-49b6-8bc9-bdae6663d6e9",
       "apply_url": "https://app.mokahr.com/apply/yuchai/140074#/job/26b61260-c205-49b6-8bc9-bdae6663d6e9/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "28eae294-1b3a-4e69-b3ca-93122749a509",
@@ -159,12 +159,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2024-09-30",
-      "updated": "2026-08-06",
+      "updated": "2026-11-19",
       "deadline": "",
       "source_url": "https://app.mokahr.com/social-recruitment/yuchai/140074#/job/28eae294-1b3a-4e69-b3ca-93122749a509",
       "apply_url": "https://app.mokahr.com/apply/yuchai/140074#/job/28eae294-1b3a-4e69-b3ca-93122749a509/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "290c5ce0-fa9d-4e90-a436-b3eb6bf760eb",
@@ -177,12 +177,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2025-09-19",
-      "updated": "2026-08-28",
+      "updated": "2026-11-19",
       "deadline": "",
       "source_url": "https://app.mokahr.com/social-recruitment/yuchai/140074#/job/290c5ce0-fa9d-4e90-a436-b3eb6bf760eb",
       "apply_url": "https://app.mokahr.com/apply/yuchai/140074#/job/290c5ce0-fa9d-4e90-a436-b3eb6bf760eb/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "3a4af9ed-68ab-4916-9717-025abef18774",
@@ -195,12 +195,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-02-03",
-      "updated": "2026-08-06",
+      "updated": "2026-11-19",
       "deadline": "",
       "source_url": "https://app.mokahr.com/social-recruitment/yuchai/140074#/job/3a4af9ed-68ab-4916-9717-025abef18774",
       "apply_url": "https://app.mokahr.com/apply/yuchai/140074#/job/3a4af9ed-68ab-4916-9717-025abef18774/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "44500995-c3a7-4817-a67e-3fc9c79d49cc",
@@ -213,12 +213,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-01-06",
-      "updated": "2026-08-06",
+      "updated": "2026-11-19",
       "deadline": "",
       "source_url": "https://app.mokahr.com/social-recruitment/yuchai/140074#/job/44500995-c3a7-4817-a67e-3fc9c79d49cc",
       "apply_url": "https://app.mokahr.com/apply/yuchai/140074#/job/44500995-c3a7-4817-a67e-3fc9c79d49cc/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "53046e97-e0ee-489f-a695-ede3f55d5b67",
@@ -231,12 +231,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-02-26",
-      "updated": "2026-08-06",
+      "updated": "2026-11-19",
       "deadline": "",
       "source_url": "https://app.mokahr.com/social-recruitment/yuchai/140074#/job/53046e97-e0ee-489f-a695-ede3f55d5b67",
       "apply_url": "https://app.mokahr.com/apply/yuchai/140074#/job/53046e97-e0ee-489f-a695-ede3f55d5b67/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "531cf248-1e06-4f5c-9573-8d2b4b733e48",
@@ -249,12 +249,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2024-09-30",
-      "updated": "2026-08-06",
+      "updated": "2026-11-19",
       "deadline": "",
       "source_url": "https://app.mokahr.com/social-recruitment/yuchai/140074#/job/531cf248-1e06-4f5c-9573-8d2b4b733e48",
       "apply_url": "https://app.mokahr.com/apply/yuchai/140074#/job/531cf248-1e06-4f5c-9573-8d2b4b733e48/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "5f8c8148-d702-4af5-a6ea-17d7c823725b",
@@ -267,12 +267,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-07-15",
-      "updated": "2026-08-06",
+      "updated": "2026-11-19",
       "deadline": "",
       "source_url": "https://app.mokahr.com/social-recruitment/yuchai/140074#/job/5f8c8148-d702-4af5-a6ea-17d7c823725b",
       "apply_url": "https://app.mokahr.com/apply/yuchai/140074#/job/5f8c8148-d702-4af5-a6ea-17d7c823725b/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "5fd9a6b1-d7ca-4255-a9e8-aa2175002476",
@@ -285,12 +285,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2025-05-15",
-      "updated": "2026-08-06",
+      "updated": "2026-11-19",
       "deadline": "",
       "source_url": "https://app.mokahr.com/social-recruitment/yuchai/140074#/job/5fd9a6b1-d7ca-4255-a9e8-aa2175002476",
       "apply_url": "https://app.mokahr.com/apply/yuchai/140074#/job/5fd9a6b1-d7ca-4255-a9e8-aa2175002476/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "61890d07-3a00-48e8-b4dd-95251d772ce3",
@@ -303,12 +303,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-01-06",
-      "updated": "2026-08-06",
+      "updated": "2026-11-19",
       "deadline": "",
       "source_url": "https://app.mokahr.com/social-recruitment/yuchai/140074#/job/61890d07-3a00-48e8-b4dd-95251d772ce3",
       "apply_url": "https://app.mokahr.com/apply/yuchai/140074#/job/61890d07-3a00-48e8-b4dd-95251d772ce3/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "62d18af5-3b6a-4b04-92d4-44476edf8e33",
@@ -321,12 +321,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-01-12",
-      "updated": "2026-08-06",
+      "updated": "2026-11-19",
       "deadline": "",
       "source_url": "https://app.mokahr.com/social-recruitment/yuchai/140074#/job/62d18af5-3b6a-4b04-92d4-44476edf8e33",
       "apply_url": "https://app.mokahr.com/apply/yuchai/140074#/job/62d18af5-3b6a-4b04-92d4-44476edf8e33/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "6a9a2f22-d1c1-4759-9859-6f3d7810848b",
@@ -339,12 +339,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2024-09-30",
-      "updated": "2026-08-06",
+      "updated": "2026-11-19",
       "deadline": "",
       "source_url": "https://app.mokahr.com/social-recruitment/yuchai/140074#/job/6a9a2f22-d1c1-4759-9859-6f3d7810848b",
       "apply_url": "https://app.mokahr.com/apply/yuchai/140074#/job/6a9a2f22-d1c1-4759-9859-6f3d7810848b/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "6d6d9f86-1d15-4e28-962f-021a86ae0f62",
@@ -357,12 +357,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2025-11-04",
-      "updated": "2026-08-06",
+      "updated": "2026-11-19",
       "deadline": "",
       "source_url": "https://app.mokahr.com/social-recruitment/yuchai/140074#/job/6d6d9f86-1d15-4e28-962f-021a86ae0f62",
       "apply_url": "https://app.mokahr.com/apply/yuchai/140074#/job/6d6d9f86-1d15-4e28-962f-021a86ae0f62/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7148fe0f-409f-45ab-b6e0-fdeb14d56721",
@@ -375,12 +375,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-01-06",
-      "updated": "2026-08-06",
+      "updated": "2026-11-19",
       "deadline": "",
       "source_url": "https://app.mokahr.com/social-recruitment/yuchai/140074#/job/7148fe0f-409f-45ab-b6e0-fdeb14d56721",
       "apply_url": "https://app.mokahr.com/apply/yuchai/140074#/job/7148fe0f-409f-45ab-b6e0-fdeb14d56721/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "72bd2bc2-3e58-465d-837c-ce360c51eb94",
@@ -393,12 +393,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2025-08-27",
-      "updated": "2026-08-06",
+      "updated": "2026-11-19",
       "deadline": "",
       "source_url": "https://app.mokahr.com/social-recruitment/yuchai/140074#/job/72bd2bc2-3e58-465d-837c-ce360c51eb94",
       "apply_url": "https://app.mokahr.com/apply/yuchai/140074#/job/72bd2bc2-3e58-465d-837c-ce360c51eb94/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "72f1f0fe-e1a0-40d4-9387-6d265f8bf429",
@@ -411,12 +411,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2025-02-19",
-      "updated": "2026-08-06",
+      "updated": "2026-11-19",
       "deadline": "",
       "source_url": "https://app.mokahr.com/social-recruitment/yuchai/140074#/job/72f1f0fe-e1a0-40d4-9387-6d265f8bf429",
       "apply_url": "https://app.mokahr.com/apply/yuchai/140074#/job/72f1f0fe-e1a0-40d4-9387-6d265f8bf429/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "78b7e653-51d3-4483-a8d6-89c1905284ad",
@@ -429,12 +429,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-05-07",
-      "updated": "2026-08-06",
+      "updated": "2026-11-19",
       "deadline": "",
       "source_url": "https://app.mokahr.com/social-recruitment/yuchai/140074#/job/78b7e653-51d3-4483-a8d6-89c1905284ad",
       "apply_url": "https://app.mokahr.com/apply/yuchai/140074#/job/78b7e653-51d3-4483-a8d6-89c1905284ad/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7f33bbf7-9b96-4805-a536-d0334cebb8f7",
@@ -447,12 +447,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-07-27",
-      "updated": "2026-08-06",
+      "updated": "2026-11-19",
       "deadline": "",
       "source_url": "https://app.mokahr.com/social-recruitment/yuchai/140074#/job/7f33bbf7-9b96-4805-a536-d0334cebb8f7",
       "apply_url": "https://app.mokahr.com/apply/yuchai/140074#/job/7f33bbf7-9b96-4805-a536-d0334cebb8f7/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "841d7be4-51c6-48fc-b4dc-da6b8ffde208",
@@ -465,12 +465,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-06-16",
-      "updated": "2026-08-06",
+      "updated": "2026-11-19",
       "deadline": "",
       "source_url": "https://app.mokahr.com/social-recruitment/yuchai/140074#/job/841d7be4-51c6-48fc-b4dc-da6b8ffde208",
       "apply_url": "https://app.mokahr.com/apply/yuchai/140074#/job/841d7be4-51c6-48fc-b4dc-da6b8ffde208/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "85342e5f-c835-4209-b22c-a81888a3618e",
@@ -483,12 +483,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2025-05-15",
-      "updated": "2026-08-06",
+      "updated": "2026-11-19",
       "deadline": "",
       "source_url": "https://app.mokahr.com/social-recruitment/yuchai/140074#/job/85342e5f-c835-4209-b22c-a81888a3618e",
       "apply_url": "https://app.mokahr.com/apply/yuchai/140074#/job/85342e5f-c835-4209-b22c-a81888a3618e/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8715d1ed-ba0e-49ef-beef-bd1a119f24ab",
@@ -501,12 +501,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2025-11-04",
-      "updated": "2026-08-06",
+      "updated": "2026-11-19",
       "deadline": "",
       "source_url": "https://app.mokahr.com/social-recruitment/yuchai/140074#/job/8715d1ed-ba0e-49ef-beef-bd1a119f24ab",
       "apply_url": "https://app.mokahr.com/apply/yuchai/140074#/job/8715d1ed-ba0e-49ef-beef-bd1a119f24ab/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "89bd31bf-7241-421c-8741-5fc6523b5d97",
@@ -519,12 +519,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-02-03",
-      "updated": "2026-08-06",
+      "updated": "2026-11-19",
       "deadline": "",
       "source_url": "https://app.mokahr.com/social-recruitment/yuchai/140074#/job/89bd31bf-7241-421c-8741-5fc6523b5d97",
       "apply_url": "https://app.mokahr.com/apply/yuchai/140074#/job/89bd31bf-7241-421c-8741-5fc6523b5d97/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8cc84f67-ddf1-4872-87e0-089ca35fd3d0",
@@ -537,12 +537,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-13",
-      "updated": "2026-08-13",
+      "updated": "2026-11-19",
       "deadline": "",
       "source_url": "https://app.mokahr.com/social-recruitment/yuchai/140074#/job/8cc84f67-ddf1-4872-87e0-089ca35fd3d0",
       "apply_url": "https://app.mokahr.com/apply/yuchai/140074#/job/8cc84f67-ddf1-4872-87e0-089ca35fd3d0/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8f7ec51d-edb7-425e-bcec-5c7d9b1b86f4",
@@ -555,12 +555,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2025-11-03",
-      "updated": "2026-08-06",
+      "updated": "2026-11-19",
       "deadline": "",
       "source_url": "https://app.mokahr.com/social-recruitment/yuchai/140074#/job/8f7ec51d-edb7-425e-bcec-5c7d9b1b86f4",
       "apply_url": "https://app.mokahr.com/apply/yuchai/140074#/job/8f7ec51d-edb7-425e-bcec-5c7d9b1b86f4/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8fc1caab-c88c-4740-908d-040f64a16759",
@@ -573,12 +573,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2024-09-30",
-      "updated": "2026-08-06",
+      "updated": "2026-11-19",
       "deadline": "",
       "source_url": "https://app.mokahr.com/social-recruitment/yuchai/140074#/job/8fc1caab-c88c-4740-908d-040f64a16759",
       "apply_url": "https://app.mokahr.com/apply/yuchai/140074#/job/8fc1caab-c88c-4740-908d-040f64a16759/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "9740e041-d36c-4955-981b-d06208589727",
@@ -591,12 +591,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-01-06",
-      "updated": "2026-08-06",
+      "updated": "2026-11-19",
       "deadline": "",
       "source_url": "https://app.mokahr.com/social-recruitment/yuchai/140074#/job/9740e041-d36c-4955-981b-d06208589727",
       "apply_url": "https://app.mokahr.com/apply/yuchai/140074#/job/9740e041-d36c-4955-981b-d06208589727/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "9c303776-690f-493e-861e-4edae9c1aa37",
@@ -609,12 +609,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2024-09-30",
-      "updated": "2026-08-06",
+      "updated": "2026-11-19",
       "deadline": "",
       "source_url": "https://app.mokahr.com/social-recruitment/yuchai/140074#/job/9c303776-690f-493e-861e-4edae9c1aa37",
       "apply_url": "https://app.mokahr.com/apply/yuchai/140074#/job/9c303776-690f-493e-861e-4edae9c1aa37/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "9fe71ba6-b15a-4f07-b152-906a8318a3e4",
@@ -627,12 +627,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2025-11-05",
-      "updated": "2026-08-06",
+      "updated": "2026-11-19",
       "deadline": "",
       "source_url": "https://app.mokahr.com/social-recruitment/yuchai/140074#/job/9fe71ba6-b15a-4f07-b152-906a8318a3e4",
       "apply_url": "https://app.mokahr.com/apply/yuchai/140074#/job/9fe71ba6-b15a-4f07-b152-906a8318a3e4/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "a2b30361-aab1-4258-b0d8-a485ad22f5c8",
@@ -645,12 +645,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-23",
-      "updated": "2026-09-23",
+      "updated": "2026-11-19",
       "deadline": "",
       "source_url": "https://app.mokahr.com/social-recruitment/yuchai/140074#/job/a2b30361-aab1-4258-b0d8-a485ad22f5c8",
       "apply_url": "https://app.mokahr.com/apply/yuchai/140074#/job/a2b30361-aab1-4258-b0d8-a485ad22f5c8/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "a8463b5b-cab8-43cc-87bb-04146dd00fd7",
@@ -663,12 +663,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2024-09-30",
-      "updated": "2026-08-06",
+      "updated": "2026-11-19",
       "deadline": "",
       "source_url": "https://app.mokahr.com/social-recruitment/yuchai/140074#/job/a8463b5b-cab8-43cc-87bb-04146dd00fd7",
       "apply_url": "https://app.mokahr.com/apply/yuchai/140074#/job/a8463b5b-cab8-43cc-87bb-04146dd00fd7/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "ab990362-8764-490d-a80c-97584a45c5cd",
@@ -681,12 +681,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2024-09-30",
-      "updated": "2026-08-06",
+      "updated": "2026-11-19",
       "deadline": "",
       "source_url": "https://app.mokahr.com/social-recruitment/yuchai/140074#/job/ab990362-8764-490d-a80c-97584a45c5cd",
       "apply_url": "https://app.mokahr.com/apply/yuchai/140074#/job/ab990362-8764-490d-a80c-97584a45c5cd/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "ae757c26-d60f-48aa-ad3a-05409b1233e3",
@@ -699,12 +699,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-07-27",
-      "updated": "2026-08-06",
+      "updated": "2026-11-19",
       "deadline": "",
       "source_url": "https://app.mokahr.com/social-recruitment/yuchai/140074#/job/ae757c26-d60f-48aa-ad3a-05409b1233e3",
       "apply_url": "https://app.mokahr.com/apply/yuchai/140074#/job/ae757c26-d60f-48aa-ad3a-05409b1233e3/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "b0f04fe8-4d6b-47ce-b2a1-b38b6c7429f3",
@@ -717,12 +717,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2025-11-05",
-      "updated": "2026-08-06",
+      "updated": "2026-11-19",
       "deadline": "",
       "source_url": "https://app.mokahr.com/social-recruitment/yuchai/140074#/job/b0f04fe8-4d6b-47ce-b2a1-b38b6c7429f3",
       "apply_url": "https://app.mokahr.com/apply/yuchai/140074#/job/b0f04fe8-4d6b-47ce-b2a1-b38b6c7429f3/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "b1f6316d-eb61-43f0-b06b-a3afad382945",
@@ -735,12 +735,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-01-06",
-      "updated": "2026-08-06",
+      "updated": "2026-11-19",
       "deadline": "",
       "source_url": "https://app.mokahr.com/social-recruitment/yuchai/140074#/job/b1f6316d-eb61-43f0-b06b-a3afad382945",
       "apply_url": "https://app.mokahr.com/apply/yuchai/140074#/job/b1f6316d-eb61-43f0-b06b-a3afad382945/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "bdaa24e9-8b7e-4238-ba59-6b652017dd97",
@@ -753,12 +753,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-05-27",
-      "updated": "2026-08-06",
+      "updated": "2026-11-19",
       "deadline": "",
       "source_url": "https://app.mokahr.com/social-recruitment/yuchai/140074#/job/bdaa24e9-8b7e-4238-ba59-6b652017dd97",
       "apply_url": "https://app.mokahr.com/apply/yuchai/140074#/job/bdaa24e9-8b7e-4238-ba59-6b652017dd97/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "be2c11dc-b355-4512-aae8-479a6c9588ed",
@@ -771,12 +771,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-01-06",
-      "updated": "2026-08-06",
+      "updated": "2026-11-19",
       "deadline": "",
       "source_url": "https://app.mokahr.com/social-recruitment/yuchai/140074#/job/be2c11dc-b355-4512-aae8-479a6c9588ed",
       "apply_url": "https://app.mokahr.com/apply/yuchai/140074#/job/be2c11dc-b355-4512-aae8-479a6c9588ed/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "c025ceef-8eef-4565-8938-91c097d6f113",
@@ -789,12 +789,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2025-02-19",
-      "updated": "2026-08-06",
+      "updated": "2026-11-19",
       "deadline": "",
       "source_url": "https://app.mokahr.com/social-recruitment/yuchai/140074#/job/c025ceef-8eef-4565-8938-91c097d6f113",
       "apply_url": "https://app.mokahr.com/apply/yuchai/140074#/job/c025ceef-8eef-4565-8938-91c097d6f113/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "ca2fe331-567a-4f57-82d5-7d38888b8d64",
@@ -807,12 +807,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2024-09-30",
-      "updated": "2026-08-06",
+      "updated": "2026-11-19",
       "deadline": "",
       "source_url": "https://app.mokahr.com/social-recruitment/yuchai/140074#/job/ca2fe331-567a-4f57-82d5-7d38888b8d64",
       "apply_url": "https://app.mokahr.com/apply/yuchai/140074#/job/ca2fe331-567a-4f57-82d5-7d38888b8d64/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "cbb29d0f-b2f9-42a1-8cc9-21f8b20a537b",
@@ -825,12 +825,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-01-06",
-      "updated": "2026-08-06",
+      "updated": "2026-11-19",
       "deadline": "",
       "source_url": "https://app.mokahr.com/social-recruitment/yuchai/140074#/job/cbb29d0f-b2f9-42a1-8cc9-21f8b20a537b",
       "apply_url": "https://app.mokahr.com/apply/yuchai/140074#/job/cbb29d0f-b2f9-42a1-8cc9-21f8b20a537b/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "cec7dd88-be84-453d-bba6-d6a2a84c87cc",
@@ -843,12 +843,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2025-05-08",
-      "updated": "2026-08-06",
+      "updated": "2026-11-19",
       "deadline": "",
       "source_url": "https://app.mokahr.com/social-recruitment/yuchai/140074#/job/cec7dd88-be84-453d-bba6-d6a2a84c87cc",
       "apply_url": "https://app.mokahr.com/apply/yuchai/140074#/job/cec7dd88-be84-453d-bba6-d6a2a84c87cc/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "d24d4b47-89e7-4eaa-870e-df6fa35df8fe",
@@ -861,12 +861,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2024-09-30",
-      "updated": "2026-08-06",
+      "updated": "2026-11-19",
       "deadline": "",
       "source_url": "https://app.mokahr.com/social-recruitment/yuchai/140074#/job/d24d4b47-89e7-4eaa-870e-df6fa35df8fe",
       "apply_url": "https://app.mokahr.com/apply/yuchai/140074#/job/d24d4b47-89e7-4eaa-870e-df6fa35df8fe/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "d5fde139-884d-4e76-b773-124b34e92a04",
@@ -879,12 +879,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2024-09-30",
-      "updated": "2026-08-06",
+      "updated": "2026-11-19",
       "deadline": "",
       "source_url": "https://app.mokahr.com/social-recruitment/yuchai/140074#/job/d5fde139-884d-4e76-b773-124b34e92a04",
       "apply_url": "https://app.mokahr.com/apply/yuchai/140074#/job/d5fde139-884d-4e76-b773-124b34e92a04/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "d7d3e3e8-05ff-4736-a9b0-1ad20fec782b",
@@ -897,12 +897,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2025-08-20",
-      "updated": "2026-08-06",
+      "updated": "2026-11-19",
       "deadline": "",
       "source_url": "https://app.mokahr.com/social-recruitment/yuchai/140074#/job/d7d3e3e8-05ff-4736-a9b0-1ad20fec782b",
       "apply_url": "https://app.mokahr.com/apply/yuchai/140074#/job/d7d3e3e8-05ff-4736-a9b0-1ad20fec782b/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "dc4083dc-8ce8-47d4-adff-2d7a9131ba14",
@@ -915,12 +915,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-21",
-      "updated": "2026-10-21",
+      "updated": "2026-11-19",
       "deadline": "",
       "source_url": "https://app.mokahr.com/social-recruitment/yuchai/140074#/job/dc4083dc-8ce8-47d4-adff-2d7a9131ba14",
       "apply_url": "https://app.mokahr.com/apply/yuchai/140074#/job/dc4083dc-8ce8-47d4-adff-2d7a9131ba14/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "e0f42635-936d-492b-bf5d-2e180ff4946e",
@@ -933,12 +933,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2025-11-04",
-      "updated": "2026-08-06",
+      "updated": "2026-11-19",
       "deadline": "",
       "source_url": "https://app.mokahr.com/social-recruitment/yuchai/140074#/job/e0f42635-936d-492b-bf5d-2e180ff4946e",
       "apply_url": "https://app.mokahr.com/apply/yuchai/140074#/job/e0f42635-936d-492b-bf5d-2e180ff4946e/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "e488c9bd-f551-4ecd-8a04-521425bfdc37",
@@ -951,12 +951,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-07-27",
-      "updated": "2026-08-06",
+      "updated": "2026-11-19",
       "deadline": "",
       "source_url": "https://app.mokahr.com/social-recruitment/yuchai/140074#/job/e488c9bd-f551-4ecd-8a04-521425bfdc37",
       "apply_url": "https://app.mokahr.com/apply/yuchai/140074#/job/e488c9bd-f551-4ecd-8a04-521425bfdc37/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "e7438316-9039-44a9-945f-25c8b05e4286",
@@ -969,12 +969,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-01-06",
-      "updated": "2026-08-06",
+      "updated": "2026-11-19",
       "deadline": "",
       "source_url": "https://app.mokahr.com/social-recruitment/yuchai/140074#/job/e7438316-9039-44a9-945f-25c8b05e4286",
       "apply_url": "https://app.mokahr.com/apply/yuchai/140074#/job/e7438316-9039-44a9-945f-25c8b05e4286/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "e89f3157-a974-4eff-a4d0-e79e27e9e0c3",
@@ -987,12 +987,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-01-06",
-      "updated": "2026-08-06",
+      "updated": "2026-11-19",
       "deadline": "",
       "source_url": "https://app.mokahr.com/social-recruitment/yuchai/140074#/job/e89f3157-a974-4eff-a4d0-e79e27e9e0c3",
       "apply_url": "https://app.mokahr.com/apply/yuchai/140074#/job/e89f3157-a974-4eff-a4d0-e79e27e9e0c3/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "ebcbef19-a57d-4bf4-8e10-28463f310e13",
@@ -1005,12 +1005,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-07-27",
-      "updated": "2026-08-06",
+      "updated": "2026-11-19",
       "deadline": "",
       "source_url": "https://app.mokahr.com/social-recruitment/yuchai/140074#/job/ebcbef19-a57d-4bf4-8e10-28463f310e13",
       "apply_url": "https://app.mokahr.com/apply/yuchai/140074#/job/ebcbef19-a57d-4bf4-8e10-28463f310e13/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "efb04305-cef7-4f8a-a9e5-5e22ab585e4f",
@@ -1023,12 +1023,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2025-10-15",
-      "updated": "2026-08-06",
+      "updated": "2026-11-19",
       "deadline": "",
       "source_url": "https://app.mokahr.com/social-recruitment/yuchai/140074#/job/efb04305-cef7-4f8a-a9e5-5e22ab585e4f",
       "apply_url": "https://app.mokahr.com/apply/yuchai/140074#/job/efb04305-cef7-4f8a-a9e5-5e22ab585e4f/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "f4c5d581-9996-49ce-867d-50bdf18aa95b",
@@ -1041,12 +1041,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2024-09-30",
-      "updated": "2026-08-06",
+      "updated": "2026-11-19",
       "deadline": "",
       "source_url": "https://app.mokahr.com/social-recruitment/yuchai/140074#/job/f4c5d581-9996-49ce-867d-50bdf18aa95b",
       "apply_url": "https://app.mokahr.com/apply/yuchai/140074#/job/f4c5d581-9996-49ce-867d-50bdf18aa95b/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "f6da7eb0-8f75-4ca3-a394-776277a6506b",
@@ -1059,12 +1059,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-01-06",
-      "updated": "2026-08-06",
+      "updated": "2026-11-19",
       "deadline": "",
       "source_url": "https://app.mokahr.com/social-recruitment/yuchai/140074#/job/f6da7eb0-8f75-4ca3-a394-776277a6506b",
       "apply_url": "https://app.mokahr.com/apply/yuchai/140074#/job/f6da7eb0-8f75-4ca3-a394-776277a6506b/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "f70a646a-0fff-47c8-a183-ca371159f8e9",
@@ -1077,12 +1077,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-10",
-      "updated": "2026-08-10",
+      "updated": "2026-11-19",
       "deadline": "",
       "source_url": "https://app.mokahr.com/social-recruitment/yuchai/140074#/job/f70a646a-0fff-47c8-a183-ca371159f8e9",
       "apply_url": "https://app.mokahr.com/apply/yuchai/140074#/job/f70a646a-0fff-47c8-a183-ca371159f8e9/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "f77933b4-191c-4d6d-9df7-f0f4c5541cab",
@@ -1095,12 +1095,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2025-07-08",
-      "updated": "2026-08-06",
+      "updated": "2026-11-19",
       "deadline": "",
       "source_url": "https://app.mokahr.com/social-recruitment/yuchai/140074#/job/f77933b4-191c-4d6d-9df7-f0f4c5541cab",
       "apply_url": "https://app.mokahr.com/apply/yuchai/140074#/job/f77933b4-191c-4d6d-9df7-f0f4c5541cab/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "f8339347-e79c-4c10-b0ef-81ff20aea2a4",
@@ -1113,12 +1113,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2025-08-27",
-      "updated": "2026-08-06",
+      "updated": "2026-11-19",
       "deadline": "",
       "source_url": "https://app.mokahr.com/social-recruitment/yuchai/140074#/job/f8339347-e79c-4c10-b0ef-81ff20aea2a4",
       "apply_url": "https://app.mokahr.com/apply/yuchai/140074#/job/f8339347-e79c-4c10-b0ef-81ff20aea2a4/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "f97e0efd-8fa9-4440-8110-1671facf4bc8",
@@ -1131,12 +1131,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2024-09-30",
-      "updated": "2026-08-06",
+      "updated": "2026-11-19",
       "deadline": "",
       "source_url": "https://app.mokahr.com/social-recruitment/yuchai/140074#/job/f97e0efd-8fa9-4440-8110-1671facf4bc8",
       "apply_url": "https://app.mokahr.com/apply/yuchai/140074#/job/f97e0efd-8fa9-4440-8110-1671facf4bc8/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "fc204fd2-a33c-4774-bc59-3ff0c8082b92",
@@ -1149,12 +1149,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2025-11-04",
-      "updated": "2026-08-06",
+      "updated": "2026-11-19",
       "deadline": "",
       "source_url": "https://app.mokahr.com/social-recruitment/yuchai/140074#/job/fc204fd2-a33c-4774-bc59-3ff0c8082b92",
       "apply_url": "https://app.mokahr.com/apply/yuchai/140074#/job/fc204fd2-a33c-4774-bc59-3ff0c8082b92/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     }
   ],
   "ats": "moka",

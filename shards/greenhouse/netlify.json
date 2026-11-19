@@ -1,8 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-18T15:36:26Z",
+  "checked_at": "2026-11-19T15:42:04Z",
   "failed_at": null,
-  "etag": "W/\"5d1ce9b82b805e31508b7382c8de9e2c\"",
+  "etag": "W/\"14e7669e505a20fb226d732ec92faad4\"",
   "jobs": [
     {
       "id": "4224129002",
@@ -20,25 +20,7 @@
       "source_url": "https://job-boards.greenhouse.io/netlify/jobs/4224129002",
       "apply_url": "https://job-boards.greenhouse.io/netlify/jobs/4224129002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
-    },
-    {
-      "id": "8519325002",
-      "title": "Senior Software Engineer",
-      "company": "Netlify",
-      "location": "Remote",
-      "remote": "remote",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-11-13",
-      "updated": "2026-11-16",
-      "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/netlify/jobs/8519325002",
-      "apply_url": "https://job-boards.greenhouse.io/netlify/jobs/8519325002",
-      "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8859322002",
@@ -51,12 +33,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-05",
-      "updated": "2026-10-05",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/netlify/jobs/8859322002",
       "apply_url": "https://job-boards.greenhouse.io/netlify/jobs/8859322002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8861222002",
@@ -69,12 +51,30 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-02",
-      "updated": "2026-10-02",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/netlify/jobs/8861222002",
       "apply_url": "https://job-boards.greenhouse.io/netlify/jobs/8861222002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
+    },
+    {
+      "id": "8895506002",
+      "title": "Staff Software Engineer (Interfaces)",
+      "company": "Netlify",
+      "location": "Remote",
+      "remote": "remote",
+      "department": "",
+      "employment_type": "",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-18",
+      "updated": "2026-11-18",
+      "deadline": "",
+      "source_url": "https://job-boards.greenhouse.io/netlify/jobs/8895506002",
+      "apply_url": "https://job-boards.greenhouse.io/netlify/jobs/8895506002",
+      "first_seen": "2026-11-19T15:42:04Z",
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8919217002",
@@ -87,12 +87,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-05",
-      "updated": "2026-11-13",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/netlify/jobs/8919217002",
       "apply_url": "https://job-boards.greenhouse.io/netlify/jobs/8919217002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     }
   ],
   "ats": "greenhouse",

@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-18T15:36:26Z",
+  "checked_at": "2026-11-19T15:42:04Z",
   "failed_at": null,
   "etag": "W/\"b91b5a1a4660074159fda8521bcc128b\"",
   "jobs": [
@@ -20,7 +20,7 @@
       "source_url": "https://job-boards.greenhouse.io/baton/jobs/5200002007",
       "apply_url": "https://job-boards.greenhouse.io/baton/jobs/5200002007",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "5215515007",
@@ -38,7 +38,7 @@
       "source_url": "https://job-boards.greenhouse.io/baton/jobs/5215515007",
       "apply_url": "https://job-boards.greenhouse.io/baton/jobs/5215515007",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "5255959007",
@@ -56,7 +56,7 @@
       "source_url": "https://job-boards.greenhouse.io/baton/jobs/5255959007",
       "apply_url": "https://job-boards.greenhouse.io/baton/jobs/5255959007",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     }
   ],
   "ats": "greenhouse",

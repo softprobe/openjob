@@ -1,8 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-18T15:36:26Z",
+  "checked_at": "2026-11-19T15:42:04Z",
   "failed_at": null,
-  "etag": "W/\"f211b098af04634ca235d94f943351c8\"",
+  "etag": "W/\"40cefabcca60db898ec91bec3b023e0d\"",
   "jobs": [
     {
       "id": "7375459",
@@ -15,12 +15,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2025-11-04",
-      "updated": "2026-10-29",
+      "updated": "2026-11-19",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/latitude/jobs/7375459",
       "apply_url": "https://job-boards.greenhouse.io/latitude/jobs/7375459",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7947434",
@@ -33,12 +33,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-05-27",
-      "updated": "2026-11-10",
+      "updated": "2026-11-19",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/latitude/jobs/7947434",
       "apply_url": "https://job-boards.greenhouse.io/latitude/jobs/7947434",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7972952",
@@ -51,12 +51,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-06-01",
-      "updated": "2026-11-13",
+      "updated": "2026-11-19",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/latitude/jobs/7972952",
       "apply_url": "https://job-boards.greenhouse.io/latitude/jobs/7972952",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7992824",
@@ -69,12 +69,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-06-11",
-      "updated": "2026-11-13",
+      "updated": "2026-11-19",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/latitude/jobs/7992824",
       "apply_url": "https://job-boards.greenhouse.io/latitude/jobs/7992824",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8114552",
@@ -87,12 +87,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-07",
-      "updated": "2026-10-20",
+      "updated": "2026-11-19",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/latitude/jobs/8114552",
       "apply_url": "https://job-boards.greenhouse.io/latitude/jobs/8114552",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8213377",
@@ -105,12 +105,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-23",
-      "updated": "2026-11-13",
+      "updated": "2026-11-19",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/latitude/jobs/8213377",
       "apply_url": "https://job-boards.greenhouse.io/latitude/jobs/8213377",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8214410",
@@ -123,12 +123,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-18",
-      "updated": "2026-09-18",
+      "updated": "2026-11-19",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/latitude/jobs/8214410",
       "apply_url": "https://job-boards.greenhouse.io/latitude/jobs/8214410",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8226947",
@@ -141,12 +141,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-23",
-      "updated": "2026-09-23",
+      "updated": "2026-11-19",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/latitude/jobs/8226947",
       "apply_url": "https://job-boards.greenhouse.io/latitude/jobs/8226947",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8239957",
@@ -159,12 +159,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-21",
-      "updated": "2026-11-13",
+      "updated": "2026-11-19",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/latitude/jobs/8239957",
       "apply_url": "https://job-boards.greenhouse.io/latitude/jobs/8239957",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8258507",
@@ -177,12 +177,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-06",
-      "updated": "2026-11-10",
+      "updated": "2026-11-19",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/latitude/jobs/8258507",
       "apply_url": "https://job-boards.greenhouse.io/latitude/jobs/8258507",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8261151",
@@ -195,12 +195,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-07",
-      "updated": "2026-10-07",
+      "updated": "2026-11-19",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/latitude/jobs/8261151",
       "apply_url": "https://job-boards.greenhouse.io/latitude/jobs/8261151",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8261184",
@@ -213,12 +213,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-07",
-      "updated": "2026-10-07",
+      "updated": "2026-11-19",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/latitude/jobs/8261184",
       "apply_url": "https://job-boards.greenhouse.io/latitude/jobs/8261184",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8261672",
@@ -231,12 +231,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-07",
-      "updated": "2026-10-07",
+      "updated": "2026-11-19",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/latitude/jobs/8261672",
       "apply_url": "https://job-boards.greenhouse.io/latitude/jobs/8261672",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8267310",
@@ -249,12 +249,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-09",
-      "updated": "2026-10-09",
+      "updated": "2026-11-19",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/latitude/jobs/8267310",
       "apply_url": "https://job-boards.greenhouse.io/latitude/jobs/8267310",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8268216",
@@ -267,12 +267,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-11",
-      "updated": "2026-10-11",
+      "updated": "2026-11-19",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/latitude/jobs/8268216",
       "apply_url": "https://job-boards.greenhouse.io/latitude/jobs/8268216",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8275025",
@@ -285,12 +285,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-12",
-      "updated": "2026-10-12",
+      "updated": "2026-11-19",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/latitude/jobs/8275025",
       "apply_url": "https://job-boards.greenhouse.io/latitude/jobs/8275025",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8334621",
@@ -303,12 +303,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-29",
-      "updated": "2026-10-29",
+      "updated": "2026-11-19",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/latitude/jobs/8334621",
       "apply_url": "https://job-boards.greenhouse.io/latitude/jobs/8334621",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8334786",
@@ -321,12 +321,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-29",
-      "updated": "2026-10-29",
+      "updated": "2026-11-19",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/latitude/jobs/8334786",
       "apply_url": "https://job-boards.greenhouse.io/latitude/jobs/8334786",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8336913",
@@ -339,12 +339,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-30",
-      "updated": "2026-11-10",
+      "updated": "2026-11-19",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/latitude/jobs/8336913",
       "apply_url": "https://job-boards.greenhouse.io/latitude/jobs/8336913",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8347686",
@@ -357,12 +357,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-04",
-      "updated": "2026-11-04",
+      "updated": "2026-11-19",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/latitude/jobs/8347686",
       "apply_url": "https://job-boards.greenhouse.io/latitude/jobs/8347686",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8353666",
@@ -375,12 +375,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-04",
-      "updated": "2026-11-04",
+      "updated": "2026-11-19",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/latitude/jobs/8353666",
       "apply_url": "https://job-boards.greenhouse.io/latitude/jobs/8353666",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8355532",
@@ -393,30 +393,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-05",
-      "updated": "2026-11-05",
+      "updated": "2026-11-19",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/latitude/jobs/8355532",
       "apply_url": "https://job-boards.greenhouse.io/latitude/jobs/8355532",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-18T15:36:26Z"
-    },
-    {
-      "id": "8355563",
-      "title": "Mission Operator - Greenville, SC (Contractor)",
-      "company": "Latitude AI",
-      "location": "Greenville, SC",
-      "remote": "unspecified",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-11-05",
-      "updated": "2026-11-05",
-      "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/latitude/jobs/8355563",
-      "apply_url": "https://job-boards.greenhouse.io/latitude/jobs/8355563",
-      "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8355812",
@@ -429,12 +411,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-05",
-      "updated": "2026-11-05",
+      "updated": "2026-11-19",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/latitude/jobs/8355812",
       "apply_url": "https://job-boards.greenhouse.io/latitude/jobs/8355812",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8393140",
@@ -447,12 +429,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-16",
-      "updated": "2026-11-16",
+      "updated": "2026-11-19",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/latitude/jobs/8393140",
       "apply_url": "https://job-boards.greenhouse.io/latitude/jobs/8393140",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8395533",
@@ -465,12 +447,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-17",
-      "updated": "2026-11-17",
+      "updated": "2026-11-19",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/latitude/jobs/8395533",
       "apply_url": "https://job-boards.greenhouse.io/latitude/jobs/8395533",
       "first_seen": "2026-11-17T15:56:57Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8399123",
@@ -483,12 +465,30 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-18",
-      "updated": "2026-11-18",
+      "updated": "2026-11-19",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/latitude/jobs/8399123",
       "apply_url": "https://job-boards.greenhouse.io/latitude/jobs/8399123",
       "first_seen": "2026-11-18T15:36:26Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
+    },
+    {
+      "id": "8401949",
+      "title": "Mission Operator - Greenville, SC (Contractor)",
+      "company": "Latitude AI",
+      "location": "Greenville, SC",
+      "remote": "unspecified",
+      "department": "",
+      "employment_type": "",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-19",
+      "updated": "2026-11-19",
+      "deadline": "",
+      "source_url": "https://job-boards.greenhouse.io/latitude/jobs/8401949",
+      "apply_url": "https://job-boards.greenhouse.io/latitude/jobs/8401949",
+      "first_seen": "2026-11-19T15:42:04Z",
+      "last_checked": "2026-11-19T15:42:04Z"
     }
   ],
   "ats": "greenhouse",

@@ -1,8 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-18T15:36:26Z",
+  "checked_at": "2026-11-19T15:42:04Z",
   "failed_at": null,
-  "etag": "W/\"9c9c55cb381b38b8ec8831968fcb4d9f\"",
+  "etag": "W/\"6427f169bc96e7fcd6aa16879709f762\"",
   "jobs": [
     {
       "id": "4449231006",
@@ -20,7 +20,7 @@
       "source_url": "https://job-boards.greenhouse.io/akidolabs/jobs/4449231006",
       "apply_url": "https://job-boards.greenhouse.io/akidolabs/jobs/4449231006",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "4589551006",
@@ -38,7 +38,7 @@
       "source_url": "https://job-boards.greenhouse.io/akidolabs/jobs/4589551006",
       "apply_url": "https://job-boards.greenhouse.io/akidolabs/jobs/4589551006",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "4613625006",
@@ -56,7 +56,7 @@
       "source_url": "https://job-boards.greenhouse.io/akidolabs/jobs/4613625006",
       "apply_url": "https://job-boards.greenhouse.io/akidolabs/jobs/4613625006",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "4646552006",
@@ -74,7 +74,7 @@
       "source_url": "https://job-boards.greenhouse.io/akidolabs/jobs/4646552006",
       "apply_url": "https://job-boards.greenhouse.io/akidolabs/jobs/4646552006",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "4650872006",
@@ -92,7 +92,7 @@
       "source_url": "https://job-boards.greenhouse.io/akidolabs/jobs/4650872006",
       "apply_url": "https://job-boards.greenhouse.io/akidolabs/jobs/4650872006",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "4662069006",
@@ -110,7 +110,7 @@
       "source_url": "https://job-boards.greenhouse.io/akidolabs/jobs/4662069006",
       "apply_url": "https://job-boards.greenhouse.io/akidolabs/jobs/4662069006",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "4666102006",
@@ -128,7 +128,7 @@
       "source_url": "https://job-boards.greenhouse.io/akidolabs/jobs/4666102006",
       "apply_url": "https://job-boards.greenhouse.io/akidolabs/jobs/4666102006",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "4700647006",
@@ -146,7 +146,7 @@
       "source_url": "https://job-boards.greenhouse.io/akidolabs/jobs/4700647006",
       "apply_url": "https://job-boards.greenhouse.io/akidolabs/jobs/4700647006",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "4704435006",
@@ -164,7 +164,7 @@
       "source_url": "https://job-boards.greenhouse.io/akidolabs/jobs/4704435006",
       "apply_url": "https://job-boards.greenhouse.io/akidolabs/jobs/4704435006",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "4707728006",
@@ -182,7 +182,7 @@
       "source_url": "https://job-boards.greenhouse.io/akidolabs/jobs/4707728006",
       "apply_url": "https://job-boards.greenhouse.io/akidolabs/jobs/4707728006",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "4710623006",
@@ -200,7 +200,7 @@
       "source_url": "https://job-boards.greenhouse.io/akidolabs/jobs/4710623006",
       "apply_url": "https://job-boards.greenhouse.io/akidolabs/jobs/4710623006",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "4710630006",
@@ -218,7 +218,7 @@
       "source_url": "https://job-boards.greenhouse.io/akidolabs/jobs/4710630006",
       "apply_url": "https://job-boards.greenhouse.io/akidolabs/jobs/4710630006",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "4710635006",
@@ -236,7 +236,7 @@
       "source_url": "https://job-boards.greenhouse.io/akidolabs/jobs/4710635006",
       "apply_url": "https://job-boards.greenhouse.io/akidolabs/jobs/4710635006",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "4710642006",
@@ -254,7 +254,7 @@
       "source_url": "https://job-boards.greenhouse.io/akidolabs/jobs/4710642006",
       "apply_url": "https://job-boards.greenhouse.io/akidolabs/jobs/4710642006",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "4712895006",
@@ -272,7 +272,7 @@
       "source_url": "https://job-boards.greenhouse.io/akidolabs/jobs/4712895006",
       "apply_url": "https://job-boards.greenhouse.io/akidolabs/jobs/4712895006",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "4713939006",
@@ -290,7 +290,7 @@
       "source_url": "https://job-boards.greenhouse.io/akidolabs/jobs/4713939006",
       "apply_url": "https://job-boards.greenhouse.io/akidolabs/jobs/4713939006",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "4713970006",
@@ -308,7 +308,7 @@
       "source_url": "https://job-boards.greenhouse.io/akidolabs/jobs/4713970006",
       "apply_url": "https://job-boards.greenhouse.io/akidolabs/jobs/4713970006",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "4714809006",
@@ -326,7 +326,7 @@
       "source_url": "https://job-boards.greenhouse.io/akidolabs/jobs/4714809006",
       "apply_url": "https://job-boards.greenhouse.io/akidolabs/jobs/4714809006",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "4717304006",
@@ -344,7 +344,7 @@
       "source_url": "https://job-boards.greenhouse.io/akidolabs/jobs/4717304006",
       "apply_url": "https://job-boards.greenhouse.io/akidolabs/jobs/4717304006",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "4719904006",
@@ -362,7 +362,7 @@
       "source_url": "https://job-boards.greenhouse.io/akidolabs/jobs/4719904006",
       "apply_url": "https://job-boards.greenhouse.io/akidolabs/jobs/4719904006",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "4719909006",
@@ -380,7 +380,7 @@
       "source_url": "https://job-boards.greenhouse.io/akidolabs/jobs/4719909006",
       "apply_url": "https://job-boards.greenhouse.io/akidolabs/jobs/4719909006",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "4723392006",
@@ -398,7 +398,7 @@
       "source_url": "https://job-boards.greenhouse.io/akidolabs/jobs/4723392006",
       "apply_url": "https://job-boards.greenhouse.io/akidolabs/jobs/4723392006",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "4724177006",
@@ -416,7 +416,7 @@
       "source_url": "https://job-boards.greenhouse.io/akidolabs/jobs/4724177006",
       "apply_url": "https://job-boards.greenhouse.io/akidolabs/jobs/4724177006",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "4724400006",
@@ -434,7 +434,7 @@
       "source_url": "https://job-boards.greenhouse.io/akidolabs/jobs/4724400006",
       "apply_url": "https://job-boards.greenhouse.io/akidolabs/jobs/4724400006",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "4725091006",
@@ -447,12 +447,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-10",
-      "updated": "2026-11-17",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/akidolabs/jobs/4725091006",
       "apply_url": "https://job-boards.greenhouse.io/akidolabs/jobs/4725091006",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "4725498006",
@@ -470,7 +470,7 @@
       "source_url": "https://job-boards.greenhouse.io/akidolabs/jobs/4725498006",
       "apply_url": "https://job-boards.greenhouse.io/akidolabs/jobs/4725498006",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "4726911006",
@@ -488,7 +488,7 @@
       "source_url": "https://job-boards.greenhouse.io/akidolabs/jobs/4726911006",
       "apply_url": "https://job-boards.greenhouse.io/akidolabs/jobs/4726911006",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "4728753006",
@@ -506,7 +506,7 @@
       "source_url": "https://job-boards.greenhouse.io/akidolabs/jobs/4728753006",
       "apply_url": "https://job-boards.greenhouse.io/akidolabs/jobs/4728753006",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "4728975006",
@@ -524,7 +524,7 @@
       "source_url": "https://job-boards.greenhouse.io/akidolabs/jobs/4728975006",
       "apply_url": "https://job-boards.greenhouse.io/akidolabs/jobs/4728975006",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "4728977006",
@@ -542,7 +542,7 @@
       "source_url": "https://job-boards.greenhouse.io/akidolabs/jobs/4728977006",
       "apply_url": "https://job-boards.greenhouse.io/akidolabs/jobs/4728977006",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "4729061006",
@@ -560,7 +560,7 @@
       "source_url": "https://job-boards.greenhouse.io/akidolabs/jobs/4729061006",
       "apply_url": "https://job-boards.greenhouse.io/akidolabs/jobs/4729061006",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "4729324006",
@@ -578,7 +578,7 @@
       "source_url": "https://job-boards.greenhouse.io/akidolabs/jobs/4729324006",
       "apply_url": "https://job-boards.greenhouse.io/akidolabs/jobs/4729324006",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "4730446006",
@@ -596,7 +596,7 @@
       "source_url": "https://job-boards.greenhouse.io/akidolabs/jobs/4730446006",
       "apply_url": "https://job-boards.greenhouse.io/akidolabs/jobs/4730446006",
       "first_seen": "2026-11-18T15:36:26Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     }
   ],
   "ats": "greenhouse",

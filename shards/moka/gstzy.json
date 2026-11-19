@@ -1,8 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-18T15:36:26Z",
+  "checked_at": "2026-11-19T15:42:04Z",
   "failed_at": null,
-  "etag": "W/\"15a4c-i68sQdUrfHr4kPMrY+aFeA\"",
+  "etag": "W/\"113fd-V88gVW3Chl8myrIQnflP7Q\"",
   "jobs": [
     {
       "id": "0074340f-be4b-43a5-a265-3d7e6752f23d",
@@ -20,7 +20,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/gstzy/147395#/job/0074340f-be4b-43a5-a265-3d7e6752f23d",
       "apply_url": "https://app.mokahr.com/apply/gstzy/147395#/job/0074340f-be4b-43a5-a265-3d7e6752f23d/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "0196c240-e1c0-41c7-8135-00353e2658ca",
@@ -38,7 +38,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/gstzy/147395#/job/0196c240-e1c0-41c7-8135-00353e2658ca",
       "apply_url": "https://app.mokahr.com/apply/gstzy/147395#/job/0196c240-e1c0-41c7-8135-00353e2658ca/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "08775bdd-2885-4c85-a95e-86568577743d",
@@ -56,7 +56,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/gstzy/147395#/job/08775bdd-2885-4c85-a95e-86568577743d",
       "apply_url": "https://app.mokahr.com/apply/gstzy/147395#/job/08775bdd-2885-4c85-a95e-86568577743d/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "09a61f61-0640-4dfc-a92d-bd4a384c3bb4",
@@ -74,7 +74,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/gstzy/147395#/job/09a61f61-0640-4dfc-a92d-bd4a384c3bb4",
       "apply_url": "https://app.mokahr.com/apply/gstzy/147395#/job/09a61f61-0640-4dfc-a92d-bd4a384c3bb4/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "0f79563c-d09d-47aa-878f-910f3b733957",
@@ -92,7 +92,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/gstzy/147395#/job/0f79563c-d09d-47aa-878f-910f3b733957",
       "apply_url": "https://app.mokahr.com/apply/gstzy/147395#/job/0f79563c-d09d-47aa-878f-910f3b733957/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "23e9ec98-01a9-497c-be07-02970fca2168",
@@ -110,25 +110,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/gstzy/147395#/job/23e9ec98-01a9-497c-be07-02970fca2168",
       "apply_url": "https://app.mokahr.com/apply/gstzy/147395#/job/23e9ec98-01a9-497c-be07-02970fca2168/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
-    },
-    {
-      "id": "2717cdce-b995-4a7c-bc65-ee93d1526be3",
-      "title": "产品经理（财务信息化）",
-      "company": "固生堂",
-      "location": "",
-      "remote": "unspecified",
-      "department": "集团总部",
-      "employment_type": "FULL_TIME",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-10-14",
-      "updated": "2026-10-14",
-      "deadline": "",
-      "source_url": "https://app.mokahr.com/social-recruitment/gstzy/147395#/job/2717cdce-b995-4a7c-bc65-ee93d1526be3",
-      "apply_url": "https://app.mokahr.com/apply/gstzy/147395#/job/2717cdce-b995-4a7c-bc65-ee93d1526be3/apply?pure=1",
-      "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "36d276d6-638e-40b7-98c8-5d2a1d72a5db",
@@ -146,7 +128,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/gstzy/147395#/job/36d276d6-638e-40b7-98c8-5d2a1d72a5db",
       "apply_url": "https://app.mokahr.com/apply/gstzy/147395#/job/36d276d6-638e-40b7-98c8-5d2a1d72a5db/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "388d91b4-0c29-4821-ba03-5d83b971feb4",
@@ -164,7 +146,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/gstzy/147395#/job/388d91b4-0c29-4821-ba03-5d83b971feb4",
       "apply_url": "https://app.mokahr.com/apply/gstzy/147395#/job/388d91b4-0c29-4821-ba03-5d83b971feb4/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "3a005d6f-8e3e-4bc0-bcd5-6578b75d1c59",
@@ -182,25 +164,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/gstzy/147395#/job/3a005d6f-8e3e-4bc0-bcd5-6578b75d1c59",
       "apply_url": "https://app.mokahr.com/apply/gstzy/147395#/job/3a005d6f-8e3e-4bc0-bcd5-6578b75d1c59/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
-    },
-    {
-      "id": "408a42f4-3ef3-4fcd-a113-073410ef0b94",
-      "title": "投资并购经理（国际化方向）",
-      "company": "固生堂",
-      "location": "",
-      "remote": "unspecified",
-      "department": "集团总部",
-      "employment_type": "FULL_TIME",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-10-14",
-      "updated": "2026-10-14",
-      "deadline": "",
-      "source_url": "https://app.mokahr.com/social-recruitment/gstzy/147395#/job/408a42f4-3ef3-4fcd-a113-073410ef0b94",
-      "apply_url": "https://app.mokahr.com/apply/gstzy/147395#/job/408a42f4-3ef3-4fcd-a113-073410ef0b94/apply?pure=1",
-      "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "437867cf-5548-47f6-a106-d1880da6306b",
@@ -218,7 +182,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/gstzy/147395#/job/437867cf-5548-47f6-a106-d1880da6306b",
       "apply_url": "https://app.mokahr.com/apply/gstzy/147395#/job/437867cf-5548-47f6-a106-d1880da6306b/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "43ea6f19-a572-425a-9ca5-b70a0ed551a6",
@@ -236,7 +200,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/gstzy/147395#/job/43ea6f19-a572-425a-9ca5-b70a0ed551a6",
       "apply_url": "https://app.mokahr.com/apply/gstzy/147395#/job/43ea6f19-a572-425a-9ca5-b70a0ed551a6/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "46b565b3-9a8a-4c2d-983f-e57ca6669502",
@@ -254,7 +218,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/gstzy/147395#/job/46b565b3-9a8a-4c2d-983f-e57ca6669502",
       "apply_url": "https://app.mokahr.com/apply/gstzy/147395#/job/46b565b3-9a8a-4c2d-983f-e57ca6669502/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "512bc54b-ba8b-4b28-ac93-d6f455ef76e7",
@@ -272,7 +236,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/gstzy/147395#/job/512bc54b-ba8b-4b28-ac93-d6f455ef76e7",
       "apply_url": "https://app.mokahr.com/apply/gstzy/147395#/job/512bc54b-ba8b-4b28-ac93-d6f455ef76e7/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "55574550-8705-4264-9ecf-7d61c7d30db8",
@@ -290,7 +254,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/gstzy/147395#/job/55574550-8705-4264-9ecf-7d61c7d30db8",
       "apply_url": "https://app.mokahr.com/apply/gstzy/147395#/job/55574550-8705-4264-9ecf-7d61c7d30db8/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "62433ccf-fc15-4038-bdf2-805da5fe58f7",
@@ -308,7 +272,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/gstzy/147395#/job/62433ccf-fc15-4038-bdf2-805da5fe58f7",
       "apply_url": "https://app.mokahr.com/apply/gstzy/147395#/job/62433ccf-fc15-4038-bdf2-805da5fe58f7/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "634351d9-8af5-4963-bfcc-863bf9848ddc",
@@ -326,7 +290,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/gstzy/147395#/job/634351d9-8af5-4963-bfcc-863bf9848ddc",
       "apply_url": "https://app.mokahr.com/apply/gstzy/147395#/job/634351d9-8af5-4963-bfcc-863bf9848ddc/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "666888a1-4e6b-473b-acf1-3b41369a7b2d",
@@ -344,7 +308,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/gstzy/147395#/job/666888a1-4e6b-473b-acf1-3b41369a7b2d",
       "apply_url": "https://app.mokahr.com/apply/gstzy/147395#/job/666888a1-4e6b-473b-acf1-3b41369a7b2d/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "747ca8c2-9ca9-4aa8-9c78-b182f48f44fd",
@@ -362,25 +326,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/gstzy/147395#/job/747ca8c2-9ca9-4aa8-9c78-b182f48f44fd",
       "apply_url": "https://app.mokahr.com/apply/gstzy/147395#/job/747ca8c2-9ca9-4aa8-9c78-b182f48f44fd/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
-    },
-    {
-      "id": "7b54d60b-0577-48e4-b662-41cbdde98376",
-      "title": "首席医学官",
-      "company": "固生堂",
-      "location": "",
-      "remote": "unspecified",
-      "department": "集团总部",
-      "employment_type": "FULL_TIME",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-10-14",
-      "updated": "2026-10-14",
-      "deadline": "",
-      "source_url": "https://app.mokahr.com/social-recruitment/gstzy/147395#/job/7b54d60b-0577-48e4-b662-41cbdde98376",
-      "apply_url": "https://app.mokahr.com/apply/gstzy/147395#/job/7b54d60b-0577-48e4-b662-41cbdde98376/apply?pure=1",
-      "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7d42f5e9-8fee-45f5-b6db-223179f0c3f7",
@@ -398,43 +344,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/gstzy/147395#/job/7d42f5e9-8fee-45f5-b6db-223179f0c3f7",
       "apply_url": "https://app.mokahr.com/apply/gstzy/147395#/job/7d42f5e9-8fee-45f5-b6db-223179f0c3f7/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
-    },
-    {
-      "id": "7ed2451f-fc85-4b50-9032-d27bf59312cf",
-      "title": "中医轻养业务总监",
-      "company": "固生堂",
-      "location": "",
-      "remote": "unspecified",
-      "department": "集团总部",
-      "employment_type": "FULL_TIME",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-10-14",
-      "updated": "2026-10-14",
-      "deadline": "",
-      "source_url": "https://app.mokahr.com/social-recruitment/gstzy/147395#/job/7ed2451f-fc85-4b50-9032-d27bf59312cf",
-      "apply_url": "https://app.mokahr.com/apply/gstzy/147395#/job/7ed2451f-fc85-4b50-9032-d27bf59312cf/apply?pure=1",
-      "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
-    },
-    {
-      "id": "7fc621f3-ec61-4ba5-9d8a-a46c17217da7",
-      "title": "用户增长负责人",
-      "company": "固生堂",
-      "location": "",
-      "remote": "unspecified",
-      "department": "市场运营部",
-      "employment_type": "FULL_TIME",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-01-04",
-      "updated": "2026-06-24",
-      "deadline": "",
-      "source_url": "https://app.mokahr.com/social-recruitment/gstzy/147395#/job/7fc621f3-ec61-4ba5-9d8a-a46c17217da7",
-      "apply_url": "https://app.mokahr.com/apply/gstzy/147395#/job/7fc621f3-ec61-4ba5-9d8a-a46c17217da7/apply?pure=1",
-      "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8ff5fb26-694b-41d9-8807-4888f08b7a06",
@@ -452,7 +362,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/gstzy/147395#/job/8ff5fb26-694b-41d9-8807-4888f08b7a06",
       "apply_url": "https://app.mokahr.com/apply/gstzy/147395#/job/8ff5fb26-694b-41d9-8807-4888f08b7a06/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "9c391500-982b-4115-aad3-878b28848891",
@@ -470,7 +380,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/gstzy/147395#/job/9c391500-982b-4115-aad3-878b28848891",
       "apply_url": "https://app.mokahr.com/apply/gstzy/147395#/job/9c391500-982b-4115-aad3-878b28848891/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "b5901601-9a5b-42ce-9d26-25cd2230825f",
@@ -488,7 +398,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/gstzy/147395#/job/b5901601-9a5b-42ce-9d26-25cd2230825f",
       "apply_url": "https://app.mokahr.com/apply/gstzy/147395#/job/b5901601-9a5b-42ce-9d26-25cd2230825f/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "bd772be8-e19a-426d-aa27-67fd847889d5",
@@ -506,7 +416,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/gstzy/147395#/job/bd772be8-e19a-426d-aa27-67fd847889d5",
       "apply_url": "https://app.mokahr.com/apply/gstzy/147395#/job/bd772be8-e19a-426d-aa27-67fd847889d5/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "d098d6ac-2ac9-4ebb-a629-7cfda1bdfc66",
@@ -524,7 +434,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/gstzy/147395#/job/d098d6ac-2ac9-4ebb-a629-7cfda1bdfc66",
       "apply_url": "https://app.mokahr.com/apply/gstzy/147395#/job/d098d6ac-2ac9-4ebb-a629-7cfda1bdfc66/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "d5543a60-753e-456f-8a5d-6a47ce597da3",
@@ -542,7 +452,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/gstzy/147395#/job/d5543a60-753e-456f-8a5d-6a47ce597da3",
       "apply_url": "https://app.mokahr.com/apply/gstzy/147395#/job/d5543a60-753e-456f-8a5d-6a47ce597da3/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "d8d21746-1b33-4b5b-9fc3-e15ecde78d94",
@@ -560,7 +470,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/gstzy/147395#/job/d8d21746-1b33-4b5b-9fc3-e15ecde78d94",
       "apply_url": "https://app.mokahr.com/apply/gstzy/147395#/job/d8d21746-1b33-4b5b-9fc3-e15ecde78d94/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "ef73f21f-ab15-448d-a1ec-d7a6c6d3ecbf",
@@ -578,7 +488,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/gstzy/147395#/job/ef73f21f-ab15-448d-a1ec-d7a6c6d3ecbf",
       "apply_url": "https://app.mokahr.com/apply/gstzy/147395#/job/ef73f21f-ab15-448d-a1ec-d7a6c6d3ecbf/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "f6a83372-098f-4682-bdff-497da2eb62b0",
@@ -596,7 +506,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/gstzy/147395#/job/f6a83372-098f-4682-bdff-497da2eb62b0",
       "apply_url": "https://app.mokahr.com/apply/gstzy/147395#/job/f6a83372-098f-4682-bdff-497da2eb62b0/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "ff235241-78f1-4c0c-a654-c32ba4d48729",
@@ -614,7 +524,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/gstzy/147395#/job/ff235241-78f1-4c0c-a654-c32ba4d48729",
       "apply_url": "https://app.mokahr.com/apply/gstzy/147395#/job/ff235241-78f1-4c0c-a654-c32ba4d48729/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     }
   ],
   "ats": "moka",

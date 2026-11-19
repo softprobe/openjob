@@ -1,8 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-18T15:36:26Z",
+  "checked_at": "2026-11-19T15:42:04Z",
   "failed_at": null,
-  "etag": "W/\"72ddcac08c997a6d53073bb66e8490e8\"",
+  "etag": "W/\"6cab291d22cb32f69e379e30fb445b28\"",
   "jobs": [
     {
       "id": "5616144",
@@ -20,7 +20,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/5616144?t=gh_src=&gh_jid=5616144",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/5616144?t=gh_src=&gh_jid=5616144",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "6494244",
@@ -38,7 +38,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/6494244?t=gh_src=&gh_jid=6494244",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/6494244?t=gh_src=&gh_jid=6494244",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "6669758",
@@ -56,7 +56,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/6669758?t=gh_src=&gh_jid=6669758",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/6669758?t=gh_src=&gh_jid=6669758",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "6674980",
@@ -74,7 +74,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/6674980?t=gh_src=&gh_jid=6674980",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/6674980?t=gh_src=&gh_jid=6674980",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7263592",
@@ -92,7 +92,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/7263592?t=gh_src=&gh_jid=7263592",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/7263592?t=gh_src=&gh_jid=7263592",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7264931",
@@ -110,7 +110,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/7264931?t=gh_src=&gh_jid=7264931",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/7264931?t=gh_src=&gh_jid=7264931",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7350823",
@@ -128,7 +128,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/7350823?t=gh_src=&gh_jid=7350823",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/7350823?t=gh_src=&gh_jid=7350823",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7460167",
@@ -146,7 +146,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/7460167?t=gh_src=&gh_jid=7460167",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/7460167?t=gh_src=&gh_jid=7460167",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7489950",
@@ -164,7 +164,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/7489950?t=gh_src=&gh_jid=7489950",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/7489950?t=gh_src=&gh_jid=7489950",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7489952",
@@ -182,7 +182,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/7489952?t=gh_src=&gh_jid=7489952",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/7489952?t=gh_src=&gh_jid=7489952",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7580272",
@@ -200,7 +200,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/7580272?t=gh_src=&gh_jid=7580272",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/7580272?t=gh_src=&gh_jid=7580272",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7685092",
@@ -218,7 +218,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/7685092?t=gh_src=&gh_jid=7685092",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/7685092?t=gh_src=&gh_jid=7685092",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7729014",
@@ -236,7 +236,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/7729014?t=gh_src=&gh_jid=7729014",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/7729014?t=gh_src=&gh_jid=7729014",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7729019",
@@ -254,7 +254,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/7729019?t=gh_src=&gh_jid=7729019",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/7729019?t=gh_src=&gh_jid=7729019",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7794027",
@@ -272,7 +272,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/7794027?t=gh_src=&gh_jid=7794027",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/7794027?t=gh_src=&gh_jid=7794027",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7804648",
@@ -290,7 +290,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/7804648?t=gh_src=&gh_jid=7804648",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/7804648?t=gh_src=&gh_jid=7804648",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7871254",
@@ -308,7 +308,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/7871254?t=gh_src=&gh_jid=7871254",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/7871254?t=gh_src=&gh_jid=7871254",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7958748",
@@ -326,7 +326,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/7958748?t=gh_src=&gh_jid=7958748",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/7958748?t=gh_src=&gh_jid=7958748",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7958750",
@@ -344,7 +344,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/7958750?t=gh_src=&gh_jid=7958750",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/7958750?t=gh_src=&gh_jid=7958750",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7979657",
@@ -362,7 +362,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/7979657?t=gh_src=&gh_jid=7979657",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/7979657?t=gh_src=&gh_jid=7979657",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7982640",
@@ -380,7 +380,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/7982640?t=gh_src=&gh_jid=7982640",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/7982640?t=gh_src=&gh_jid=7982640",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7982916",
@@ -398,7 +398,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/7982916?t=gh_src=&gh_jid=7982916",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/7982916?t=gh_src=&gh_jid=7982916",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7997218",
@@ -416,7 +416,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/7997218?t=gh_src=&gh_jid=7997218",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/7997218?t=gh_src=&gh_jid=7997218",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7997547",
@@ -434,7 +434,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/7997547?t=gh_src=&gh_jid=7997547",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/7997547?t=gh_src=&gh_jid=7997547",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8008723",
@@ -452,7 +452,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8008723?t=gh_src=&gh_jid=8008723",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8008723?t=gh_src=&gh_jid=8008723",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8011599",
@@ -470,7 +470,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8011599?t=gh_src=&gh_jid=8011599",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8011599?t=gh_src=&gh_jid=8011599",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8036506",
@@ -488,7 +488,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8036506?t=gh_src=&gh_jid=8036506",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8036506?t=gh_src=&gh_jid=8036506",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8044746",
@@ -506,7 +506,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8044746?t=gh_src=&gh_jid=8044746",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8044746?t=gh_src=&gh_jid=8044746",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8049885",
@@ -524,7 +524,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8049885?t=gh_src=&gh_jid=8049885",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8049885?t=gh_src=&gh_jid=8049885",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8051290",
@@ -537,12 +537,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-07-14",
-      "updated": "2026-10-30",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8051290?t=gh_src=&gh_jid=8051290",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8051290?t=gh_src=&gh_jid=8051290",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8060585",
@@ -560,7 +560,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8060585?t=gh_src=&gh_jid=8060585",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8060585?t=gh_src=&gh_jid=8060585",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8060600",
@@ -578,7 +578,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8060600?t=gh_src=&gh_jid=8060600",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8060600?t=gh_src=&gh_jid=8060600",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8060703",
@@ -596,7 +596,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8060703?t=gh_src=&gh_jid=8060703",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8060703?t=gh_src=&gh_jid=8060703",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8070690",
@@ -614,7 +614,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8070690?t=gh_src=&gh_jid=8070690",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8070690?t=gh_src=&gh_jid=8070690",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8072766",
@@ -632,7 +632,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8072766?t=gh_src=&gh_jid=8072766",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8072766?t=gh_src=&gh_jid=8072766",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8074884",
@@ -650,7 +650,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8074884?t=gh_src=&gh_jid=8074884",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8074884?t=gh_src=&gh_jid=8074884",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8080377",
@@ -668,7 +668,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8080377?t=gh_src=&gh_jid=8080377",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8080377?t=gh_src=&gh_jid=8080377",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8080893",
@@ -686,7 +686,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8080893?t=gh_src=&gh_jid=8080893",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8080893?t=gh_src=&gh_jid=8080893",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8082718",
@@ -704,7 +704,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8082718?t=gh_src=&gh_jid=8082718",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8082718?t=gh_src=&gh_jid=8082718",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8083818",
@@ -722,7 +722,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8083818?t=gh_src=&gh_jid=8083818",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8083818?t=gh_src=&gh_jid=8083818",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8093267",
@@ -740,7 +740,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8093267?t=gh_src=&gh_jid=8093267",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8093267?t=gh_src=&gh_jid=8093267",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8100160",
@@ -758,7 +758,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8100160?t=gh_src=&gh_jid=8100160",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8100160?t=gh_src=&gh_jid=8100160",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8105960",
@@ -776,7 +776,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8105960?t=gh_src=&gh_jid=8105960",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8105960?t=gh_src=&gh_jid=8105960",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8107212",
@@ -794,7 +794,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8107212?t=gh_src=&gh_jid=8107212",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8107212?t=gh_src=&gh_jid=8107212",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8114730",
@@ -812,25 +812,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8114730?t=gh_src=&gh_jid=8114730",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8114730?t=gh_src=&gh_jid=8114730",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
-    },
-    {
-      "id": "8120094",
-      "title": "Software Engineer, Enterprise Build",
-      "company": "Robinhood",
-      "location": "Menlo Park, CA",
-      "remote": "unspecified",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-08-18",
-      "updated": "2026-11-13",
-      "deadline": "",
-      "source_url": "https://boards.greenhouse.io/robinhood/jobs/8120094?t=gh_src=&gh_jid=8120094",
-      "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8120094?t=gh_src=&gh_jid=8120094",
-      "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8142278",
@@ -848,7 +830,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8142278?t=gh_src=&gh_jid=8142278",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8142278?t=gh_src=&gh_jid=8142278",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8159896",
@@ -866,7 +848,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8159896?t=gh_src=&gh_jid=8159896",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8159896?t=gh_src=&gh_jid=8159896",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8160668",
@@ -884,7 +866,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8160668?t=gh_src=&gh_jid=8160668",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8160668?t=gh_src=&gh_jid=8160668",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8162169",
@@ -902,7 +884,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8162169?t=gh_src=&gh_jid=8162169",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8162169?t=gh_src=&gh_jid=8162169",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8162450",
@@ -920,7 +902,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8162450?t=gh_src=&gh_jid=8162450",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8162450?t=gh_src=&gh_jid=8162450",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8164943",
@@ -938,7 +920,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8164943?t=gh_src=&gh_jid=8164943",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8164943?t=gh_src=&gh_jid=8164943",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8167194",
@@ -956,7 +938,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8167194?t=gh_src=&gh_jid=8167194",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8167194?t=gh_src=&gh_jid=8167194",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8167546",
@@ -974,7 +956,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8167546?t=gh_src=&gh_jid=8167546",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8167546?t=gh_src=&gh_jid=8167546",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8167971",
@@ -992,7 +974,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8167971?t=gh_src=&gh_jid=8167971",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8167971?t=gh_src=&gh_jid=8167971",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8177444",
@@ -1010,7 +992,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8177444?t=gh_src=&gh_jid=8177444",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8177444?t=gh_src=&gh_jid=8177444",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8179979",
@@ -1028,7 +1010,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8179979?t=gh_src=&gh_jid=8179979",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8179979?t=gh_src=&gh_jid=8179979",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8180757",
@@ -1046,7 +1028,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8180757?t=gh_src=&gh_jid=8180757",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8180757?t=gh_src=&gh_jid=8180757",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8186166",
@@ -1064,25 +1046,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8186166?t=gh_src=&gh_jid=8186166",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8186166?t=gh_src=&gh_jid=8186166",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
-    },
-    {
-      "id": "8186689",
-      "title": "Customer Experience Manager, Trump Accounts",
-      "company": "Robinhood",
-      "location": "Westlake, TX",
-      "remote": "unspecified",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-10-12",
-      "updated": "2026-11-13",
-      "deadline": "",
-      "source_url": "https://boards.greenhouse.io/robinhood/jobs/8186689?t=gh_src=&gh_jid=8186689",
-      "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8186689?t=gh_src=&gh_jid=8186689",
-      "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8189213",
@@ -1100,7 +1064,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8189213?t=gh_src=&gh_jid=8189213",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8189213?t=gh_src=&gh_jid=8189213",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8189867",
@@ -1118,7 +1082,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8189867?t=gh_src=&gh_jid=8189867",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8189867?t=gh_src=&gh_jid=8189867",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8189869",
@@ -1136,7 +1100,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8189869?t=gh_src=&gh_jid=8189869",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8189869?t=gh_src=&gh_jid=8189869",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8189874",
@@ -1154,7 +1118,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8189874?t=gh_src=&gh_jid=8189874",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8189874?t=gh_src=&gh_jid=8189874",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8197614",
@@ -1172,7 +1136,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8197614?t=gh_src=&gh_jid=8197614",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8197614?t=gh_src=&gh_jid=8197614",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8198187",
@@ -1190,7 +1154,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8198187?t=gh_src=&gh_jid=8198187",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8198187?t=gh_src=&gh_jid=8198187",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8202146",
@@ -1208,7 +1172,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8202146?t=gh_src=&gh_jid=8202146",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8202146?t=gh_src=&gh_jid=8202146",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8202183",
@@ -1226,7 +1190,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8202183?t=gh_src=&gh_jid=8202183",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8202183?t=gh_src=&gh_jid=8202183",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8202858",
@@ -1244,7 +1208,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8202858?t=gh_src=&gh_jid=8202858",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8202858?t=gh_src=&gh_jid=8202858",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8202863",
@@ -1262,7 +1226,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8202863?t=gh_src=&gh_jid=8202863",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8202863?t=gh_src=&gh_jid=8202863",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8202874",
@@ -1280,7 +1244,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8202874?t=gh_src=&gh_jid=8202874",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8202874?t=gh_src=&gh_jid=8202874",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8204521",
@@ -1298,7 +1262,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8204521?t=gh_src=&gh_jid=8204521",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8204521?t=gh_src=&gh_jid=8204521",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8205579",
@@ -1316,7 +1280,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8205579?t=gh_src=&gh_jid=8205579",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8205579?t=gh_src=&gh_jid=8205579",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8205711",
@@ -1334,7 +1298,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8205711?t=gh_src=&gh_jid=8205711",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8205711?t=gh_src=&gh_jid=8205711",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8207701",
@@ -1352,7 +1316,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8207701?t=gh_src=&gh_jid=8207701",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8207701?t=gh_src=&gh_jid=8207701",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8209838",
@@ -1370,7 +1334,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8209838?t=gh_src=&gh_jid=8209838",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8209838?t=gh_src=&gh_jid=8209838",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8210967",
@@ -1388,7 +1352,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8210967?t=gh_src=&gh_jid=8210967",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8210967?t=gh_src=&gh_jid=8210967",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8211219",
@@ -1406,25 +1370,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8211219?t=gh_src=&gh_jid=8211219",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8211219?t=gh_src=&gh_jid=8211219",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
-    },
-    {
-      "id": "8211233",
-      "title": "Finance & Strategy Senior Analyst",
-      "company": "Robinhood",
-      "location": "Chicago, IL; Menlo Park, CA; New York, NY",
-      "remote": "unspecified",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-09-24",
-      "updated": "2026-11-02",
-      "deadline": "",
-      "source_url": "https://boards.greenhouse.io/robinhood/jobs/8211233?t=gh_src=&gh_jid=8211233",
-      "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8211233?t=gh_src=&gh_jid=8211233",
-      "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8214383",
@@ -1442,7 +1388,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8214383?t=gh_src=&gh_jid=8214383",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8214383?t=gh_src=&gh_jid=8214383",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8220699",
@@ -1460,7 +1406,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8220699?t=gh_src=&gh_jid=8220699",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8220699?t=gh_src=&gh_jid=8220699",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8220730",
@@ -1478,7 +1424,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8220730?t=gh_src=&gh_jid=8220730",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8220730?t=gh_src=&gh_jid=8220730",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8224751",
@@ -1496,7 +1442,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8224751?t=gh_src=&gh_jid=8224751",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8224751?t=gh_src=&gh_jid=8224751",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8224764",
@@ -1514,7 +1460,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8224764?t=gh_src=&gh_jid=8224764",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8224764?t=gh_src=&gh_jid=8224764",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8224805",
@@ -1532,7 +1478,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8224805?t=gh_src=&gh_jid=8224805",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8224805?t=gh_src=&gh_jid=8224805",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8224813",
@@ -1550,7 +1496,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8224813?t=gh_src=&gh_jid=8224813",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8224813?t=gh_src=&gh_jid=8224813",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8226687",
@@ -1568,7 +1514,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8226687?t=gh_src=&gh_jid=8226687",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8226687?t=gh_src=&gh_jid=8226687",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8226689",
@@ -1586,7 +1532,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8226689?t=gh_src=&gh_jid=8226689",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8226689?t=gh_src=&gh_jid=8226689",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8231449",
@@ -1604,7 +1550,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8231449?t=gh_src=&gh_jid=8231449",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8231449?t=gh_src=&gh_jid=8231449",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8232853",
@@ -1622,7 +1568,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8232853?t=gh_src=&gh_jid=8232853",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8232853?t=gh_src=&gh_jid=8232853",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8238565",
@@ -1640,7 +1586,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8238565?t=gh_src=&gh_jid=8238565",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8238565?t=gh_src=&gh_jid=8238565",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8240638",
@@ -1658,7 +1604,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8240638?t=gh_src=&gh_jid=8240638",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8240638?t=gh_src=&gh_jid=8240638",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8241579",
@@ -1671,12 +1617,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-17",
-      "updated": "2026-11-17",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8241579?t=gh_src=&gh_jid=8241579",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8241579?t=gh_src=&gh_jid=8241579",
       "first_seen": "2026-11-18T15:36:26Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8244209",
@@ -1694,7 +1640,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8244209?t=gh_src=&gh_jid=8244209",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8244209?t=gh_src=&gh_jid=8244209",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8247333",
@@ -1712,7 +1658,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8247333?t=gh_src=&gh_jid=8247333",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8247333?t=gh_src=&gh_jid=8247333",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8248320",
@@ -1730,7 +1676,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8248320?t=gh_src=&gh_jid=8248320",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8248320?t=gh_src=&gh_jid=8248320",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8250286",
@@ -1748,7 +1694,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8250286?t=gh_src=&gh_jid=8250286",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8250286?t=gh_src=&gh_jid=8250286",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8250300",
@@ -1766,7 +1712,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8250300?t=gh_src=&gh_jid=8250300",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8250300?t=gh_src=&gh_jid=8250300",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8250341",
@@ -1784,7 +1730,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8250341?t=gh_src=&gh_jid=8250341",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8250341?t=gh_src=&gh_jid=8250341",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8255840",
@@ -1802,7 +1748,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8255840?t=gh_src=&gh_jid=8255840",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8255840?t=gh_src=&gh_jid=8255840",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8255842",
@@ -1820,7 +1766,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8255842?t=gh_src=&gh_jid=8255842",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8255842?t=gh_src=&gh_jid=8255842",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8257636",
@@ -1838,7 +1784,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8257636?t=gh_src=&gh_jid=8257636",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8257636?t=gh_src=&gh_jid=8257636",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8257655",
@@ -1856,7 +1802,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8257655?t=gh_src=&gh_jid=8257655",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8257655?t=gh_src=&gh_jid=8257655",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8258305",
@@ -1874,7 +1820,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8258305?t=gh_src=&gh_jid=8258305",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8258305?t=gh_src=&gh_jid=8258305",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8258307",
@@ -1892,7 +1838,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8258307?t=gh_src=&gh_jid=8258307",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8258307?t=gh_src=&gh_jid=8258307",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8259035",
@@ -1910,7 +1856,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8259035?t=gh_src=&gh_jid=8259035",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8259035?t=gh_src=&gh_jid=8259035",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8259642",
@@ -1928,7 +1874,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8259642?t=gh_src=&gh_jid=8259642",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8259642?t=gh_src=&gh_jid=8259642",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8259652",
@@ -1946,7 +1892,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8259652?t=gh_src=&gh_jid=8259652",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8259652?t=gh_src=&gh_jid=8259652",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8259694",
@@ -1964,7 +1910,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8259694?t=gh_src=&gh_jid=8259694",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8259694?t=gh_src=&gh_jid=8259694",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8259696",
@@ -1982,7 +1928,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8259696?t=gh_src=&gh_jid=8259696",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8259696?t=gh_src=&gh_jid=8259696",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8259772",
@@ -2000,7 +1946,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8259772?t=gh_src=&gh_jid=8259772",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8259772?t=gh_src=&gh_jid=8259772",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8262776",
@@ -2018,7 +1964,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8262776?t=gh_src=&gh_jid=8262776",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8262776?t=gh_src=&gh_jid=8262776",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8262947",
@@ -2036,7 +1982,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8262947?t=gh_src=&gh_jid=8262947",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8262947?t=gh_src=&gh_jid=8262947",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8265130",
@@ -2054,7 +2000,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8265130?t=gh_src=&gh_jid=8265130",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8265130?t=gh_src=&gh_jid=8265130",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8265728",
@@ -2072,7 +2018,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8265728?t=gh_src=&gh_jid=8265728",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8265728?t=gh_src=&gh_jid=8265728",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8265786",
@@ -2090,7 +2036,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8265786?t=gh_src=&gh_jid=8265786",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8265786?t=gh_src=&gh_jid=8265786",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8266107",
@@ -2108,7 +2054,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8266107?t=gh_src=&gh_jid=8266107",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8266107?t=gh_src=&gh_jid=8266107",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8278312",
@@ -2126,7 +2072,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8278312?t=gh_src=&gh_jid=8278312",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8278312?t=gh_src=&gh_jid=8278312",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8286878",
@@ -2144,7 +2090,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8286878?t=gh_src=&gh_jid=8286878",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8286878?t=gh_src=&gh_jid=8286878",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8287392",
@@ -2162,11 +2108,11 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8287392?t=gh_src=&gh_jid=8287392",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8287392?t=gh_src=&gh_jid=8287392",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8289388",
-      "title": "Senior iOS Engineer, Crypto Perpetuals",
+      "title": "Senior iOS Engineer, Crypto Trading",
       "company": "Robinhood",
       "location": "Menlo Park, CA; New York, NY",
       "remote": "unspecified",
@@ -2175,12 +2121,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-16",
-      "updated": "2026-10-23",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8289388?t=gh_src=&gh_jid=8289388",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8289388?t=gh_src=&gh_jid=8289388",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8289855",
@@ -2198,7 +2144,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8289855?t=gh_src=&gh_jid=8289855",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8289855?t=gh_src=&gh_jid=8289855",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8301728",
@@ -2216,7 +2162,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8301728?t=gh_src=&gh_jid=8301728",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8301728?t=gh_src=&gh_jid=8301728",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8302244",
@@ -2234,7 +2180,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8302244?t=gh_src=&gh_jid=8302244",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8302244?t=gh_src=&gh_jid=8302244",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8303977",
@@ -2252,7 +2198,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8303977?t=gh_src=&gh_jid=8303977",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8303977?t=gh_src=&gh_jid=8303977",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8303985",
@@ -2270,7 +2216,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8303985?t=gh_src=&gh_jid=8303985",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8303985?t=gh_src=&gh_jid=8303985",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8304315",
@@ -2288,7 +2234,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8304315?t=gh_src=&gh_jid=8304315",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8304315?t=gh_src=&gh_jid=8304315",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8310197",
@@ -2306,7 +2252,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8310197?t=gh_src=&gh_jid=8310197",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8310197?t=gh_src=&gh_jid=8310197",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8313806",
@@ -2324,7 +2270,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8313806?t=gh_src=&gh_jid=8313806",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8313806?t=gh_src=&gh_jid=8313806",
       "first_seen": "2026-11-18T15:36:26Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8318663",
@@ -2342,11 +2288,11 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8318663?t=gh_src=&gh_jid=8318663",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8318663?t=gh_src=&gh_jid=8318663",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8319701",
-      "title": "Senior iOS Engineer, Crypto Perpetuals",
+      "title": "Senior iOS Engineer, Crypto Trading",
       "company": "Robinhood",
       "location": "Toronto, Canada",
       "remote": "unspecified",
@@ -2355,12 +2301,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-23",
-      "updated": "2026-10-23",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8319701?t=gh_src=&gh_jid=8319701",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8319701?t=gh_src=&gh_jid=8319701",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8324648",
@@ -2378,7 +2324,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8324648?t=gh_src=&gh_jid=8324648",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8324648?t=gh_src=&gh_jid=8324648",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8327450",
@@ -2396,7 +2342,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8327450?t=gh_src=&gh_jid=8327450",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8327450?t=gh_src=&gh_jid=8327450",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8329280",
@@ -2414,7 +2360,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8329280?t=gh_src=&gh_jid=8329280",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8329280?t=gh_src=&gh_jid=8329280",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8329677",
@@ -2432,7 +2378,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8329677?t=gh_src=&gh_jid=8329677",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8329677?t=gh_src=&gh_jid=8329677",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8331310",
@@ -2450,7 +2396,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8331310?t=gh_src=&gh_jid=8331310",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8331310?t=gh_src=&gh_jid=8331310",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8331571",
@@ -2468,7 +2414,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8331571?t=gh_src=&gh_jid=8331571",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8331571?t=gh_src=&gh_jid=8331571",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8332458",
@@ -2486,7 +2432,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8332458?t=gh_src=&gh_jid=8332458",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8332458?t=gh_src=&gh_jid=8332458",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8333757",
@@ -2504,7 +2450,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8333757?t=gh_src=&gh_jid=8333757",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8333757?t=gh_src=&gh_jid=8333757",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8334344",
@@ -2522,7 +2468,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8334344?t=gh_src=&gh_jid=8334344",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8334344?t=gh_src=&gh_jid=8334344",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8334429",
@@ -2540,7 +2486,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8334429?t=gh_src=&gh_jid=8334429",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8334429?t=gh_src=&gh_jid=8334429",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8334663",
@@ -2558,7 +2504,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8334663?t=gh_src=&gh_jid=8334663",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8334663?t=gh_src=&gh_jid=8334663",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8335168",
@@ -2576,7 +2522,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8335168?t=gh_src=&gh_jid=8335168",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8335168?t=gh_src=&gh_jid=8335168",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8346036",
@@ -2594,7 +2540,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8346036?t=gh_src=&gh_jid=8346036",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8346036?t=gh_src=&gh_jid=8346036",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8348035",
@@ -2612,7 +2558,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8348035?t=gh_src=&gh_jid=8348035",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8348035?t=gh_src=&gh_jid=8348035",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8348038",
@@ -2630,7 +2576,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8348038?t=gh_src=&gh_jid=8348038",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8348038?t=gh_src=&gh_jid=8348038",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8350199",
@@ -2648,7 +2594,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8350199?t=gh_src=&gh_jid=8350199",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8350199?t=gh_src=&gh_jid=8350199",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8350712",
@@ -2666,7 +2612,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8350712?t=gh_src=&gh_jid=8350712",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8350712?t=gh_src=&gh_jid=8350712",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8354333",
@@ -2684,7 +2630,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8354333?t=gh_src=&gh_jid=8354333",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8354333?t=gh_src=&gh_jid=8354333",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8356065",
@@ -2702,7 +2648,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8356065?t=gh_src=&gh_jid=8356065",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8356065?t=gh_src=&gh_jid=8356065",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8356278",
@@ -2720,7 +2666,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8356278?t=gh_src=&gh_jid=8356278",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8356278?t=gh_src=&gh_jid=8356278",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8356383",
@@ -2738,7 +2684,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8356383?t=gh_src=&gh_jid=8356383",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8356383?t=gh_src=&gh_jid=8356383",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8356970",
@@ -2756,7 +2702,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8356970?t=gh_src=&gh_jid=8356970",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8356970?t=gh_src=&gh_jid=8356970",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8357023",
@@ -2774,7 +2720,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8357023?t=gh_src=&gh_jid=8357023",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8357023?t=gh_src=&gh_jid=8357023",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8357464",
@@ -2792,7 +2738,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8357464?t=gh_src=&gh_jid=8357464",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8357464?t=gh_src=&gh_jid=8357464",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8357602",
@@ -2810,7 +2756,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8357602?t=gh_src=&gh_jid=8357602",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8357602?t=gh_src=&gh_jid=8357602",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8367410",
@@ -2828,7 +2774,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8367410?t=gh_src=&gh_jid=8367410",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8367410?t=gh_src=&gh_jid=8367410",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8368338",
@@ -2846,7 +2792,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8368338?t=gh_src=&gh_jid=8368338",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8368338?t=gh_src=&gh_jid=8368338",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8368340",
@@ -2864,7 +2810,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8368340?t=gh_src=&gh_jid=8368340",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8368340?t=gh_src=&gh_jid=8368340",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8374447",
@@ -2882,7 +2828,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8374447?t=gh_src=&gh_jid=8374447",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8374447?t=gh_src=&gh_jid=8374447",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8379150",
@@ -2900,7 +2846,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8379150?t=gh_src=&gh_jid=8379150",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8379150?t=gh_src=&gh_jid=8379150",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8379461",
@@ -2918,7 +2864,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8379461?t=gh_src=&gh_jid=8379461",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8379461?t=gh_src=&gh_jid=8379461",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8379685",
@@ -2936,7 +2882,25 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8379685?t=gh_src=&gh_jid=8379685",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8379685?t=gh_src=&gh_jid=8379685",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
+    },
+    {
+      "id": "8383140",
+      "title": "Software Engineer, Prime",
+      "company": "Robinhood",
+      "location": "London, UK",
+      "remote": "unspecified",
+      "department": "",
+      "employment_type": "",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-19",
+      "updated": "2026-11-19",
+      "deadline": "",
+      "source_url": "https://boards.greenhouse.io/robinhood/jobs/8383140?t=gh_src=&gh_jid=8383140",
+      "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8383140?t=gh_src=&gh_jid=8383140",
+      "first_seen": "2026-11-19T15:42:04Z",
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8384079",
@@ -2954,7 +2918,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8384079?t=gh_src=&gh_jid=8384079",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8384079?t=gh_src=&gh_jid=8384079",
       "first_seen": "2026-11-18T15:36:26Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8384669",
@@ -2972,7 +2936,7 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8384669?t=gh_src=&gh_jid=8384669",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8384669?t=gh_src=&gh_jid=8384669",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8385931",
@@ -2990,7 +2954,25 @@
       "source_url": "https://boards.greenhouse.io/robinhood/jobs/8385931?t=gh_src=&gh_jid=8385931",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8385931?t=gh_src=&gh_jid=8385931",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
+    },
+    {
+      "id": "8399778",
+      "title": "Crypto Compliance Senior Lead",
+      "company": "Robinhood",
+      "location": "Denver, CO; Menlo Park, CA; New York, NY; Westlake, TX",
+      "remote": "unspecified",
+      "department": "",
+      "employment_type": "",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-18",
+      "updated": "2026-11-18",
+      "deadline": "2027-01-22",
+      "source_url": "https://boards.greenhouse.io/robinhood/jobs/8399778?t=gh_src=&gh_jid=8399778",
+      "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8399778?t=gh_src=&gh_jid=8399778",
+      "first_seen": "2026-11-19T15:42:04Z",
+      "last_checked": "2026-11-19T15:42:04Z"
     }
   ],
   "ats": "greenhouse",

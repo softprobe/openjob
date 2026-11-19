@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-18T15:36:26Z",
+  "checked_at": "2026-11-19T15:42:04Z",
   "failed_at": null,
   "etag": "W/\"46d3-4/2SdxpJc/nU9BqD8jWveQ\"",
   "jobs": [
@@ -20,7 +20,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/ystwt/97880#/job/37f127da-7072-4e2c-b330-4c11603649b0",
       "apply_url": "https://app.mokahr.com/apply/ystwt/97880#/job/37f127da-7072-4e2c-b330-4c11603649b0/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "3d0b6593-63c8-4d7c-8416-2a74e06d4d35",
@@ -38,7 +38,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/ystwt/97880#/job/3d0b6593-63c8-4d7c-8416-2a74e06d4d35",
       "apply_url": "https://app.mokahr.com/apply/ystwt/97880#/job/3d0b6593-63c8-4d7c-8416-2a74e06d4d35/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "3f942537-170b-473c-9482-6d590bc26a66",
@@ -56,7 +56,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/ystwt/97880#/job/3f942537-170b-473c-9482-6d590bc26a66",
       "apply_url": "https://app.mokahr.com/apply/ystwt/97880#/job/3f942537-170b-473c-9482-6d590bc26a66/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "62d12ca0-fe35-43a8-8b11-cae69a0f869c",
@@ -74,7 +74,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/ystwt/97880#/job/62d12ca0-fe35-43a8-8b11-cae69a0f869c",
       "apply_url": "https://app.mokahr.com/apply/ystwt/97880#/job/62d12ca0-fe35-43a8-8b11-cae69a0f869c/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "703cd98f-3b6e-4f9f-91a8-39bf16c95ac8",
@@ -92,7 +92,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/ystwt/97880#/job/703cd98f-3b6e-4f9f-91a8-39bf16c95ac8",
       "apply_url": "https://app.mokahr.com/apply/ystwt/97880#/job/703cd98f-3b6e-4f9f-91a8-39bf16c95ac8/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "74f3ce7f-5113-4ec7-a3d4-f894dfb668c1",
@@ -110,7 +110,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/ystwt/97880#/job/74f3ce7f-5113-4ec7-a3d4-f894dfb668c1",
       "apply_url": "https://app.mokahr.com/apply/ystwt/97880#/job/74f3ce7f-5113-4ec7-a3d4-f894dfb668c1/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "9e171f87-a6bb-43dc-9416-2a7d7bc613f0",
@@ -128,7 +128,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/ystwt/97880#/job/9e171f87-a6bb-43dc-9416-2a7d7bc613f0",
       "apply_url": "https://app.mokahr.com/apply/ystwt/97880#/job/9e171f87-a6bb-43dc-9416-2a7d7bc613f0/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "e4cfbf9e-2a62-4cdd-9c7e-bd6f20f4b6fe",
@@ -146,7 +146,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/ystwt/97880#/job/e4cfbf9e-2a62-4cdd-9c7e-bd6f20f4b6fe",
       "apply_url": "https://app.mokahr.com/apply/ystwt/97880#/job/e4cfbf9e-2a62-4cdd-9c7e-bd6f20f4b6fe/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     }
   ],
   "ats": "moka",

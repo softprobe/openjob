@@ -1,8 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-18T15:36:26Z",
+  "checked_at": "2026-11-19T15:42:04Z",
   "failed_at": null,
-  "etag": "W/\"job-board:2f88202c27744c93d6057d2fa73b871632fd3e1484b2f0bc15db905b5eec9f34\"",
+  "etag": "W/\"job-board:35613272e272477af19d7d632acaac90c6b805be08b2a1aefe4b189950c6e798\"",
   "jobs": [
     {
       "id": "0155cbaa-d5a7-408d-81b3-0044d038163f",
@@ -20,7 +20,7 @@
       "source_url": "https://jobs.ashbyhq.com/assorthealth/0155cbaa-d5a7-408d-81b3-0044d038163f",
       "apply_url": "https://jobs.ashbyhq.com/assorthealth/0155cbaa-d5a7-408d-81b3-0044d038163f/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "04ed9921-1457-4d12-81ce-b5ff9703d027",
@@ -38,7 +38,7 @@
       "source_url": "https://jobs.ashbyhq.com/assorthealth/04ed9921-1457-4d12-81ce-b5ff9703d027",
       "apply_url": "https://jobs.ashbyhq.com/assorthealth/04ed9921-1457-4d12-81ce-b5ff9703d027/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "0f2b6055-53e8-4f66-8f03-f8da8ea38e90",
@@ -56,7 +56,7 @@
       "source_url": "https://jobs.ashbyhq.com/assorthealth/0f2b6055-53e8-4f66-8f03-f8da8ea38e90",
       "apply_url": "https://jobs.ashbyhq.com/assorthealth/0f2b6055-53e8-4f66-8f03-f8da8ea38e90/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "1128f3b5-1ff6-4b85-849d-6552b430ea88",
@@ -74,7 +74,25 @@
       "source_url": "https://jobs.ashbyhq.com/assorthealth/1128f3b5-1ff6-4b85-849d-6552b430ea88",
       "apply_url": "https://jobs.ashbyhq.com/assorthealth/1128f3b5-1ff6-4b85-849d-6552b430ea88/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
+    },
+    {
+      "id": "1146b75f-d7ee-476b-8889-fd539e6c5543",
+      "title": "Sales Manager, Mid Market",
+      "company": "Assort Health",
+      "location": "New York",
+      "remote": "hybrid",
+      "department": "Sales",
+      "employment_type": "FULL_TIME",
+      "salary_text": "$345K - $375K",
+      "salary_source": "ashby",
+      "posted": "2026-11-18",
+      "updated": "",
+      "deadline": "",
+      "source_url": "https://jobs.ashbyhq.com/assorthealth/1146b75f-d7ee-476b-8889-fd539e6c5543",
+      "apply_url": "https://jobs.ashbyhq.com/assorthealth/1146b75f-d7ee-476b-8889-fd539e6c5543/application",
+      "first_seen": "2026-11-19T15:42:04Z",
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "376d9d51-6572-4162-b830-d4f9440754ae",
@@ -92,7 +110,7 @@
       "source_url": "https://jobs.ashbyhq.com/assorthealth/376d9d51-6572-4162-b830-d4f9440754ae",
       "apply_url": "https://jobs.ashbyhq.com/assorthealth/376d9d51-6572-4162-b830-d4f9440754ae/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "37e3a179-e08d-43ba-b8d3-2314358a6674",
@@ -110,7 +128,7 @@
       "source_url": "https://jobs.ashbyhq.com/assorthealth/37e3a179-e08d-43ba-b8d3-2314358a6674",
       "apply_url": "https://jobs.ashbyhq.com/assorthealth/37e3a179-e08d-43ba-b8d3-2314358a6674/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "3c2f9dcd-5c93-4401-8b5f-2d80f1b7252c",
@@ -128,25 +146,7 @@
       "source_url": "https://jobs.ashbyhq.com/assorthealth/3c2f9dcd-5c93-4401-8b5f-2d80f1b7252c",
       "apply_url": "https://jobs.ashbyhq.com/assorthealth/3c2f9dcd-5c93-4401-8b5f-2d80f1b7252c/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
-    },
-    {
-      "id": "50bfd833-f19b-4e0e-ad90-3e4e584dafae",
-      "title": "Enablement Manager, Post-Sales",
-      "company": "Assort Health",
-      "location": "San Francisco",
-      "remote": "hybrid",
-      "department": "Deployment & Operations",
-      "employment_type": "FULL_TIME",
-      "salary_text": "$145K - $165K",
-      "salary_source": "ashby",
-      "posted": "2026-08-27",
-      "updated": "",
-      "deadline": "",
-      "source_url": "https://jobs.ashbyhq.com/assorthealth/50bfd833-f19b-4e0e-ad90-3e4e584dafae",
-      "apply_url": "https://jobs.ashbyhq.com/assorthealth/50bfd833-f19b-4e0e-ad90-3e4e584dafae/application",
-      "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "55c7ec8a-1404-42d6-84cc-cef9ee0cc88d",
@@ -164,7 +164,7 @@
       "source_url": "https://jobs.ashbyhq.com/assorthealth/55c7ec8a-1404-42d6-84cc-cef9ee0cc88d",
       "apply_url": "https://jobs.ashbyhq.com/assorthealth/55c7ec8a-1404-42d6-84cc-cef9ee0cc88d/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "57060bfc-6c78-447f-b701-b382f9ee8ae6",
@@ -182,7 +182,7 @@
       "source_url": "https://jobs.ashbyhq.com/assorthealth/57060bfc-6c78-447f-b701-b382f9ee8ae6",
       "apply_url": "https://jobs.ashbyhq.com/assorthealth/57060bfc-6c78-447f-b701-b382f9ee8ae6/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7009edfe-b57d-43df-949b-b564ee78a774",
@@ -200,7 +200,7 @@
       "source_url": "https://jobs.ashbyhq.com/assorthealth/7009edfe-b57d-43df-949b-b564ee78a774",
       "apply_url": "https://jobs.ashbyhq.com/assorthealth/7009edfe-b57d-43df-949b-b564ee78a774/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "775971f9-a5f1-45bc-a519-0c78aa39fe44",
@@ -218,7 +218,7 @@
       "source_url": "https://jobs.ashbyhq.com/assorthealth/775971f9-a5f1-45bc-a519-0c78aa39fe44",
       "apply_url": "https://jobs.ashbyhq.com/assorthealth/775971f9-a5f1-45bc-a519-0c78aa39fe44/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "79c72fb7-e53e-4827-a647-dba65fbcf19e",
@@ -236,7 +236,7 @@
       "source_url": "https://jobs.ashbyhq.com/assorthealth/79c72fb7-e53e-4827-a647-dba65fbcf19e",
       "apply_url": "https://jobs.ashbyhq.com/assorthealth/79c72fb7-e53e-4827-a647-dba65fbcf19e/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7e1ef0f3-5cc0-4a1c-89a2-f5c18f66a8fc",
@@ -254,7 +254,7 @@
       "source_url": "https://jobs.ashbyhq.com/assorthealth/7e1ef0f3-5cc0-4a1c-89a2-f5c18f66a8fc",
       "apply_url": "https://jobs.ashbyhq.com/assorthealth/7e1ef0f3-5cc0-4a1c-89a2-f5c18f66a8fc/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7f9bf295-8850-4599-ab90-e991a34d9600",
@@ -272,7 +272,7 @@
       "source_url": "https://jobs.ashbyhq.com/assorthealth/7f9bf295-8850-4599-ab90-e991a34d9600",
       "apply_url": "https://jobs.ashbyhq.com/assorthealth/7f9bf295-8850-4599-ab90-e991a34d9600/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "85d0aabc-2f20-4ca7-bb87-be9f2bb5b750",
@@ -284,13 +284,13 @@
       "employment_type": "FULL_TIME",
       "salary_text": "$135K - $185K",
       "salary_source": "ashby",
-      "posted": "2026-10-27",
+      "posted": "2026-11-18",
       "updated": "",
       "deadline": "",
       "source_url": "https://jobs.ashbyhq.com/assorthealth/85d0aabc-2f20-4ca7-bb87-be9f2bb5b750",
       "apply_url": "https://jobs.ashbyhq.com/assorthealth/85d0aabc-2f20-4ca7-bb87-be9f2bb5b750/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "892d1c5f-cd17-4565-8570-ee63a74fa684",
@@ -308,7 +308,7 @@
       "source_url": "https://jobs.ashbyhq.com/assorthealth/892d1c5f-cd17-4565-8570-ee63a74fa684",
       "apply_url": "https://jobs.ashbyhq.com/assorthealth/892d1c5f-cd17-4565-8570-ee63a74fa684/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8dab5c4c-173a-477b-b6f9-5c84439b3e8f",
@@ -326,7 +326,7 @@
       "source_url": "https://jobs.ashbyhq.com/assorthealth/8dab5c4c-173a-477b-b6f9-5c84439b3e8f",
       "apply_url": "https://jobs.ashbyhq.com/assorthealth/8dab5c4c-173a-477b-b6f9-5c84439b3e8f/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8eb666ee-34a3-4b62-a211-d82286fc1c99",
@@ -344,7 +344,7 @@
       "source_url": "https://jobs.ashbyhq.com/assorthealth/8eb666ee-34a3-4b62-a211-d82286fc1c99",
       "apply_url": "https://jobs.ashbyhq.com/assorthealth/8eb666ee-34a3-4b62-a211-d82286fc1c99/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8f35b822-e49a-4ccb-bab4-e464e01bc1b0",
@@ -362,7 +362,7 @@
       "source_url": "https://jobs.ashbyhq.com/assorthealth/8f35b822-e49a-4ccb-bab4-e464e01bc1b0",
       "apply_url": "https://jobs.ashbyhq.com/assorthealth/8f35b822-e49a-4ccb-bab4-e464e01bc1b0/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "91b7fd13-24e9-41e2-819d-3cddbfbd56ae",
@@ -380,7 +380,7 @@
       "source_url": "https://jobs.ashbyhq.com/assorthealth/91b7fd13-24e9-41e2-819d-3cddbfbd56ae",
       "apply_url": "https://jobs.ashbyhq.com/assorthealth/91b7fd13-24e9-41e2-819d-3cddbfbd56ae/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "97e7c9d1-b2ab-445e-9aaf-f99f13173c14",
@@ -398,7 +398,7 @@
       "source_url": "https://jobs.ashbyhq.com/assorthealth/97e7c9d1-b2ab-445e-9aaf-f99f13173c14",
       "apply_url": "https://jobs.ashbyhq.com/assorthealth/97e7c9d1-b2ab-445e-9aaf-f99f13173c14/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "9add7350-04fe-4741-98f2-ee41abf19973",
@@ -416,7 +416,7 @@
       "source_url": "https://jobs.ashbyhq.com/assorthealth/9add7350-04fe-4741-98f2-ee41abf19973",
       "apply_url": "https://jobs.ashbyhq.com/assorthealth/9add7350-04fe-4741-98f2-ee41abf19973/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "ad590909-d09b-4905-900f-cc56c8690626",
@@ -434,7 +434,7 @@
       "source_url": "https://jobs.ashbyhq.com/assorthealth/ad590909-d09b-4905-900f-cc56c8690626",
       "apply_url": "https://jobs.ashbyhq.com/assorthealth/ad590909-d09b-4905-900f-cc56c8690626/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "b0be192b-578e-4981-aef9-d0cf49ab94b5",
@@ -452,7 +452,7 @@
       "source_url": "https://jobs.ashbyhq.com/assorthealth/b0be192b-578e-4981-aef9-d0cf49ab94b5",
       "apply_url": "https://jobs.ashbyhq.com/assorthealth/b0be192b-578e-4981-aef9-d0cf49ab94b5/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "b745444c-4aa7-4a06-a7bc-5cd4209f64f4",
@@ -470,7 +470,7 @@
       "source_url": "https://jobs.ashbyhq.com/assorthealth/b745444c-4aa7-4a06-a7bc-5cd4209f64f4",
       "apply_url": "https://jobs.ashbyhq.com/assorthealth/b745444c-4aa7-4a06-a7bc-5cd4209f64f4/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "bb8b1571-6ee5-4b8d-9ab3-c58f385aa578",
@@ -488,7 +488,25 @@
       "source_url": "https://jobs.ashbyhq.com/assorthealth/bb8b1571-6ee5-4b8d-9ab3-c58f385aa578",
       "apply_url": "https://jobs.ashbyhq.com/assorthealth/bb8b1571-6ee5-4b8d-9ab3-c58f385aa578/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
+    },
+    {
+      "id": "d0d2c08e-5ff4-4da9-8bfa-d5a03a9e8278",
+      "title": "Sales Manger, Large Enterprise",
+      "company": "Assort Health",
+      "location": "San Francisco",
+      "remote": "hybrid",
+      "department": "Sales",
+      "employment_type": "FULL_TIME",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-19",
+      "updated": "",
+      "deadline": "",
+      "source_url": "https://jobs.ashbyhq.com/assorthealth/d0d2c08e-5ff4-4da9-8bfa-d5a03a9e8278",
+      "apply_url": "https://jobs.ashbyhq.com/assorthealth/d0d2c08e-5ff4-4da9-8bfa-d5a03a9e8278/application",
+      "first_seen": "2026-11-19T15:42:04Z",
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "d4286634-639b-40d8-a3dc-f353c4698f74",
@@ -506,7 +524,7 @@
       "source_url": "https://jobs.ashbyhq.com/assorthealth/d4286634-639b-40d8-a3dc-f353c4698f74",
       "apply_url": "https://jobs.ashbyhq.com/assorthealth/d4286634-639b-40d8-a3dc-f353c4698f74/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "d63a3a89-73cb-4384-934a-db8f9e91ed6f",
@@ -524,7 +542,7 @@
       "source_url": "https://jobs.ashbyhq.com/assorthealth/d63a3a89-73cb-4384-934a-db8f9e91ed6f",
       "apply_url": "https://jobs.ashbyhq.com/assorthealth/d63a3a89-73cb-4384-934a-db8f9e91ed6f/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "dabc8eb7-3e56-4811-aaab-d0bc31e588ff",
@@ -542,7 +560,7 @@
       "source_url": "https://jobs.ashbyhq.com/assorthealth/dabc8eb7-3e56-4811-aaab-d0bc31e588ff",
       "apply_url": "https://jobs.ashbyhq.com/assorthealth/dabc8eb7-3e56-4811-aaab-d0bc31e588ff/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "e7e8dce0-f2d2-4666-9f1a-3026002f5dfc",
@@ -560,7 +578,7 @@
       "source_url": "https://jobs.ashbyhq.com/assorthealth/e7e8dce0-f2d2-4666-9f1a-3026002f5dfc",
       "apply_url": "https://jobs.ashbyhq.com/assorthealth/e7e8dce0-f2d2-4666-9f1a-3026002f5dfc/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "eaf3fbe1-8469-4940-9f93-fe04214519c2",
@@ -578,7 +596,7 @@
       "source_url": "https://jobs.ashbyhq.com/assorthealth/eaf3fbe1-8469-4940-9f93-fe04214519c2",
       "apply_url": "https://jobs.ashbyhq.com/assorthealth/eaf3fbe1-8469-4940-9f93-fe04214519c2/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "ee14be92-b3f1-4ebe-8516-415ab56dce40",
@@ -596,7 +614,7 @@
       "source_url": "https://jobs.ashbyhq.com/assorthealth/ee14be92-b3f1-4ebe-8516-415ab56dce40",
       "apply_url": "https://jobs.ashbyhq.com/assorthealth/ee14be92-b3f1-4ebe-8516-415ab56dce40/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "f4b80e86-dc54-41a5-91e3-f6481534784f",
@@ -614,7 +632,7 @@
       "source_url": "https://jobs.ashbyhq.com/assorthealth/f4b80e86-dc54-41a5-91e3-f6481534784f",
       "apply_url": "https://jobs.ashbyhq.com/assorthealth/f4b80e86-dc54-41a5-91e3-f6481534784f/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "f74a193c-1232-443d-bcbb-854a46d835ba",
@@ -632,7 +650,7 @@
       "source_url": "https://jobs.ashbyhq.com/assorthealth/f74a193c-1232-443d-bcbb-854a46d835ba",
       "apply_url": "https://jobs.ashbyhq.com/assorthealth/f74a193c-1232-443d-bcbb-854a46d835ba/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "fd49c83d-c0e8-4247-87f8-633d636e1472",
@@ -650,7 +668,7 @@
       "source_url": "https://jobs.ashbyhq.com/assorthealth/fd49c83d-c0e8-4247-87f8-633d636e1472",
       "apply_url": "https://jobs.ashbyhq.com/assorthealth/fd49c83d-c0e8-4247-87f8-633d636e1472/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     }
   ],
   "ats": "ashby",

@@ -1,8 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-18T15:36:26Z",
+  "checked_at": "2026-11-19T15:42:04Z",
   "failed_at": null,
-  "etag": "W/\"6cdcce636ac76d0469676e2f63c4be71\"",
+  "etag": "W/\"c29918ef48e52b7c5a811fdc4add464c\"",
   "jobs": [
     {
       "id": "8221711",
@@ -20,7 +20,7 @@
       "source_url": "https://job-boards.greenhouse.io/hootsuite/jobs/8221711",
       "apply_url": "https://job-boards.greenhouse.io/hootsuite/jobs/8221711",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8312189",
@@ -38,7 +38,7 @@
       "source_url": "https://job-boards.greenhouse.io/hootsuite/jobs/8312189",
       "apply_url": "https://job-boards.greenhouse.io/hootsuite/jobs/8312189",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8333922",
@@ -56,7 +56,7 @@
       "source_url": "https://job-boards.greenhouse.io/hootsuite/jobs/8333922",
       "apply_url": "https://job-boards.greenhouse.io/hootsuite/jobs/8333922",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8334041",
@@ -74,7 +74,7 @@
       "source_url": "https://job-boards.greenhouse.io/hootsuite/jobs/8334041",
       "apply_url": "https://job-boards.greenhouse.io/hootsuite/jobs/8334041",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8347741",
@@ -92,7 +92,7 @@
       "source_url": "https://job-boards.greenhouse.io/hootsuite/jobs/8347741",
       "apply_url": "https://job-boards.greenhouse.io/hootsuite/jobs/8347741",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8352887",
@@ -110,7 +110,7 @@
       "source_url": "https://job-boards.greenhouse.io/hootsuite/jobs/8352887",
       "apply_url": "https://job-boards.greenhouse.io/hootsuite/jobs/8352887",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8359647",
@@ -128,7 +128,7 @@
       "source_url": "https://job-boards.greenhouse.io/hootsuite/jobs/8359647",
       "apply_url": "https://job-boards.greenhouse.io/hootsuite/jobs/8359647",
       "first_seen": "2026-11-18T15:36:26Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8360320",
@@ -146,7 +146,7 @@
       "source_url": "https://job-boards.greenhouse.io/hootsuite/jobs/8360320",
       "apply_url": "https://job-boards.greenhouse.io/hootsuite/jobs/8360320",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8360345",
@@ -159,12 +159,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-12",
-      "updated": "2026-11-17",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/hootsuite/jobs/8360345",
       "apply_url": "https://job-boards.greenhouse.io/hootsuite/jobs/8360345",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8371708",
@@ -182,7 +182,7 @@
       "source_url": "https://job-boards.greenhouse.io/hootsuite/jobs/8371708",
       "apply_url": "https://job-boards.greenhouse.io/hootsuite/jobs/8371708",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8383323",
@@ -200,7 +200,7 @@
       "source_url": "https://job-boards.greenhouse.io/hootsuite/jobs/8383323",
       "apply_url": "https://job-boards.greenhouse.io/hootsuite/jobs/8383323",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8383515",
@@ -218,7 +218,7 @@
       "source_url": "https://job-boards.greenhouse.io/hootsuite/jobs/8383515",
       "apply_url": "https://job-boards.greenhouse.io/hootsuite/jobs/8383515",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8392381",
@@ -236,7 +236,7 @@
       "source_url": "https://job-boards.greenhouse.io/hootsuite/jobs/8392381",
       "apply_url": "https://job-boards.greenhouse.io/hootsuite/jobs/8392381",
       "first_seen": "2026-11-16T15:39:28Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8393130",
@@ -249,12 +249,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-16",
-      "updated": "2026-11-17",
+      "updated": "2026-11-19",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/hootsuite/jobs/8393130",
       "apply_url": "https://job-boards.greenhouse.io/hootsuite/jobs/8393130",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8393328",
@@ -272,7 +272,7 @@
       "source_url": "https://job-boards.greenhouse.io/hootsuite/jobs/8393328",
       "apply_url": "https://job-boards.greenhouse.io/hootsuite/jobs/8393328",
       "first_seen": "2026-11-17T15:56:57Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8397714",
@@ -290,7 +290,7 @@
       "source_url": "https://job-boards.greenhouse.io/hootsuite/jobs/8397714",
       "apply_url": "https://job-boards.greenhouse.io/hootsuite/jobs/8397714",
       "first_seen": "2026-11-18T15:36:26Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     }
   ],
   "ats": "greenhouse",

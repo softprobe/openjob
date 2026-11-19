@@ -1,8 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-18T15:36:26Z",
+  "checked_at": "2026-11-19T15:42:04Z",
   "failed_at": null,
-  "etag": "W/\"e6af3cf82482ab8d0b514f676b4db26b\"",
+  "etag": "W/\"ab1759bcd29f17f7be723454b9dca821\"",
   "jobs": [
     {
       "id": "8628979002",
@@ -20,7 +20,7 @@
       "source_url": "https://job-boards.greenhouse.io/calendly/jobs/8628979002",
       "apply_url": "https://job-boards.greenhouse.io/calendly/jobs/8628979002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8728555002",
@@ -33,12 +33,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-19",
-      "updated": "2026-10-26",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/calendly/jobs/8728555002",
       "apply_url": "https://job-boards.greenhouse.io/calendly/jobs/8728555002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8846049002",
@@ -56,7 +56,7 @@
       "source_url": "https://job-boards.greenhouse.io/calendly/jobs/8846049002",
       "apply_url": "https://job-boards.greenhouse.io/calendly/jobs/8846049002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8860525002",
@@ -74,7 +74,7 @@
       "source_url": "https://job-boards.greenhouse.io/calendly/jobs/8860525002",
       "apply_url": "https://job-boards.greenhouse.io/calendly/jobs/8860525002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8922278002",
@@ -92,7 +92,7 @@
       "source_url": "https://job-boards.greenhouse.io/calendly/jobs/8922278002",
       "apply_url": "https://job-boards.greenhouse.io/calendly/jobs/8922278002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     }
   ],
   "ats": "greenhouse",

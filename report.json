@@ -1,20 +1,20 @@
 {
-  "generated": "2026-11-18T15:36:26Z",
+  "generated": "2026-11-19T15:42:04Z",
   "publish": true,
   "companies": 369,
-  "jobs": 33106,
+  "jobs": 33307,
   "before": {
-    "greenhouse": 12867,
-    "ashby": 3610,
-    "lever": 1958,
-    "workable": 6,
-    "moka": 14749
-  },
-  "after": {
     "greenhouse": 12896,
     "ashby": 3620,
     "lever": 1942,
-    "moka": 14642,
+    "workable": 6,
+    "moka": 14642
+  },
+  "after": {
+    "greenhouse": 12943,
+    "ashby": 3613,
+    "lever": 1957,
+    "moka": 14788,
     "workable": 6
   },
   "dropped": [],
@@ -22,8 +22,8 @@
   "stale": [
     {
       "ats": "lever",
-      "board": "arootah",
-      "slug": "arootah"
+      "board": "acceldata",
+      "slug": "acceldata"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-18T15:36:26Z",
+  "checked_at": "2026-11-19T15:42:04Z",
   "failed_at": null,
   "etag": "W/\"ad38e3733b7ad4d684359c88e0a4e437\"",
   "jobs": [
@@ -20,7 +20,7 @@
       "source_url": "https://job-boards.greenhouse.io/recast/jobs/4032276008",
       "apply_url": "https://job-boards.greenhouse.io/recast/jobs/4032276008",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "5409366008",
@@ -38,7 +38,7 @@
       "source_url": "https://job-boards.greenhouse.io/recast/jobs/5409366008",
       "apply_url": "https://job-boards.greenhouse.io/recast/jobs/5409366008",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "5454091008",
@@ -56,7 +56,7 @@
       "source_url": "https://job-boards.greenhouse.io/recast/jobs/5454091008",
       "apply_url": "https://job-boards.greenhouse.io/recast/jobs/5454091008",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     }
   ],
   "ats": "greenhouse",

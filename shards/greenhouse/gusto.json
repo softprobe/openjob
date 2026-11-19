@@ -1,8 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-18T15:36:26Z",
+  "checked_at": "2026-11-19T15:42:04Z",
   "failed_at": null,
-  "etag": "W/\"3e15603c17dd4926cfd1bd7c05aa00fc\"",
+  "etag": "W/\"0705f8553dfdade6cdd07b5ebb7fe6e7\"",
   "jobs": [
     {
       "id": "6625049",
@@ -15,12 +15,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2025-08-04",
-      "updated": "2026-11-02",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/gusto/jobs/6625049",
       "apply_url": "https://job-boards.greenhouse.io/gusto/jobs/6625049",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7168696",
@@ -33,12 +33,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-05",
-      "updated": "2026-11-05",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/gusto/jobs/7168696",
       "apply_url": "https://job-boards.greenhouse.io/gusto/jobs/7168696",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7254336",
@@ -51,12 +51,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-01-07",
-      "updated": "2026-10-30",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/gusto/jobs/7254336",
       "apply_url": "https://job-boards.greenhouse.io/gusto/jobs/7254336",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7283301",
@@ -69,12 +69,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2025-09-30",
-      "updated": "2026-10-30",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/gusto/jobs/7283301",
       "apply_url": "https://job-boards.greenhouse.io/gusto/jobs/7283301",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7357545",
@@ -87,12 +87,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-04-29",
-      "updated": "2026-11-02",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/gusto/jobs/7357545",
       "apply_url": "https://job-boards.greenhouse.io/gusto/jobs/7357545",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7369003",
@@ -105,12 +105,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2025-11-21",
-      "updated": "2026-10-30",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/gusto/jobs/7369003",
       "apply_url": "https://job-boards.greenhouse.io/gusto/jobs/7369003",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7441084",
@@ -123,12 +123,30 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-01-13",
-      "updated": "2026-11-16",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/gusto/jobs/7441084",
       "apply_url": "https://job-boards.greenhouse.io/gusto/jobs/7441084",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
+    },
+    {
+      "id": "7584417",
+      "title": "Staff Brand Designer",
+      "company": "Gusto, Inc.",
+      "location": "Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid",
+      "remote": "hybrid",
+      "department": "",
+      "employment_type": "",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-10-16",
+      "updated": "2026-11-18",
+      "deadline": "",
+      "source_url": "https://job-boards.greenhouse.io/gusto/jobs/7584417",
+      "apply_url": "https://job-boards.greenhouse.io/gusto/jobs/7584417",
+      "first_seen": "2026-11-19T15:42:04Z",
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7654934",
@@ -141,12 +159,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-03-23",
-      "updated": "2026-11-16",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/gusto/jobs/7654934",
       "apply_url": "https://job-boards.greenhouse.io/gusto/jobs/7654934",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7656216",
@@ -159,12 +177,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-03-26",
-      "updated": "2026-10-30",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/gusto/jobs/7656216",
       "apply_url": "https://job-boards.greenhouse.io/gusto/jobs/7656216",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7674093",
@@ -177,12 +195,30 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-07-16",
-      "updated": "2026-10-30",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/gusto/jobs/7674093",
       "apply_url": "https://job-boards.greenhouse.io/gusto/jobs/7674093",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
+    },
+    {
+      "id": "7728150",
+      "title": "Staff Motion & Brand Designer",
+      "company": "Gusto, Inc.",
+      "location": "Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid",
+      "remote": "hybrid",
+      "department": "",
+      "employment_type": "",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-08-31",
+      "updated": "2026-11-18",
+      "deadline": "",
+      "source_url": "https://job-boards.greenhouse.io/gusto/jobs/7728150",
+      "apply_url": "https://job-boards.greenhouse.io/gusto/jobs/7728150",
+      "first_seen": "2026-11-19T15:42:04Z",
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7760341",
@@ -195,12 +231,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-03-27",
-      "updated": "2026-10-05",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/gusto/jobs/7760341",
       "apply_url": "https://job-boards.greenhouse.io/gusto/jobs/7760341",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7773805",
@@ -213,12 +249,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-04-01",
-      "updated": "2026-11-10",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/gusto/jobs/7773805",
       "apply_url": "https://job-boards.greenhouse.io/gusto/jobs/7773805",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7833882",
@@ -231,12 +267,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-04-20",
-      "updated": "2026-10-05",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/gusto/jobs/7833882",
       "apply_url": "https://job-boards.greenhouse.io/gusto/jobs/7833882",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7905578",
@@ -249,12 +285,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-05-20",
-      "updated": "2026-10-30",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/gusto/jobs/7905578",
       "apply_url": "https://job-boards.greenhouse.io/gusto/jobs/7905578",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7918214",
@@ -267,12 +303,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-07-06",
-      "updated": "2026-10-30",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/gusto/jobs/7918214",
       "apply_url": "https://job-boards.greenhouse.io/gusto/jobs/7918214",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7942791",
@@ -285,12 +321,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-05-27",
-      "updated": "2026-11-10",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/gusto/jobs/7942791",
       "apply_url": "https://job-boards.greenhouse.io/gusto/jobs/7942791",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7943169",
@@ -303,12 +339,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-06-25",
-      "updated": "2026-11-05",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/gusto/jobs/7943169",
       "apply_url": "https://job-boards.greenhouse.io/gusto/jobs/7943169",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7984008",
@@ -321,12 +357,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-06-04",
-      "updated": "2026-10-05",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/gusto/jobs/7984008",
       "apply_url": "https://job-boards.greenhouse.io/gusto/jobs/7984008",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "7986047",
@@ -339,12 +375,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-06-22",
-      "updated": "2026-10-30",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/gusto/jobs/7986047",
       "apply_url": "https://job-boards.greenhouse.io/gusto/jobs/7986047",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8001931",
@@ -357,12 +393,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-06-11",
-      "updated": "2026-10-27",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/gusto/jobs/8001931",
       "apply_url": "https://job-boards.greenhouse.io/gusto/jobs/8001931",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8008696",
@@ -375,12 +411,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-06-24",
-      "updated": "2026-11-03",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/gusto/jobs/8008696",
       "apply_url": "https://job-boards.greenhouse.io/gusto/jobs/8008696",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8013480",
@@ -393,12 +429,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-07-02",
-      "updated": "2026-11-10",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/gusto/jobs/8013480",
       "apply_url": "https://job-boards.greenhouse.io/gusto/jobs/8013480",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8022501",
@@ -411,12 +447,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-18",
-      "updated": "2026-10-30",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/gusto/jobs/8022501",
       "apply_url": "https://job-boards.greenhouse.io/gusto/jobs/8022501",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8039516",
@@ -429,12 +465,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-07-31",
-      "updated": "2026-10-30",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/gusto/jobs/8039516",
       "apply_url": "https://job-boards.greenhouse.io/gusto/jobs/8039516",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8039525",
@@ -447,12 +483,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-15",
-      "updated": "2026-11-05",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/gusto/jobs/8039525",
       "apply_url": "https://job-boards.greenhouse.io/gusto/jobs/8039525",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8078212",
@@ -465,12 +501,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-07-29",
-      "updated": "2026-11-04",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/gusto/jobs/8078212",
       "apply_url": "https://job-boards.greenhouse.io/gusto/jobs/8078212",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8092462",
@@ -483,12 +519,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-04",
-      "updated": "2026-11-12",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/gusto/jobs/8092462",
       "apply_url": "https://job-boards.greenhouse.io/gusto/jobs/8092462",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8095028",
@@ -501,12 +537,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-14",
-      "updated": "2026-10-21",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/gusto/jobs/8095028",
       "apply_url": "https://job-boards.greenhouse.io/gusto/jobs/8095028",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8128422",
@@ -519,12 +555,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-04",
-      "updated": "2026-11-17",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/gusto/jobs/8128422",
       "apply_url": "https://job-boards.greenhouse.io/gusto/jobs/8128422",
       "first_seen": "2026-11-18T15:36:26Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8142163",
@@ -537,12 +573,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-08",
-      "updated": "2026-10-30",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/gusto/jobs/8142163",
       "apply_url": "https://job-boards.greenhouse.io/gusto/jobs/8142163",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8144140",
@@ -555,12 +591,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-20",
-      "updated": "2026-10-30",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/gusto/jobs/8144140",
       "apply_url": "https://job-boards.greenhouse.io/gusto/jobs/8144140",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8144242",
@@ -573,12 +609,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-18",
-      "updated": "2026-10-30",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/gusto/jobs/8144242",
       "apply_url": "https://job-boards.greenhouse.io/gusto/jobs/8144242",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8148547",
@@ -591,12 +627,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-24",
-      "updated": "2026-10-30",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/gusto/jobs/8148547",
       "apply_url": "https://job-boards.greenhouse.io/gusto/jobs/8148547",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8168064",
@@ -609,12 +645,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-16",
-      "updated": "2026-11-17",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/gusto/jobs/8168064",
       "apply_url": "https://job-boards.greenhouse.io/gusto/jobs/8168064",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8168216",
@@ -627,12 +663,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-14",
-      "updated": "2026-10-30",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/gusto/jobs/8168216",
       "apply_url": "https://job-boards.greenhouse.io/gusto/jobs/8168216",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8168848",
@@ -645,12 +681,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-30",
-      "updated": "2026-10-30",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/gusto/jobs/8168848",
       "apply_url": "https://job-boards.greenhouse.io/gusto/jobs/8168848",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8192093",
@@ -663,12 +699,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-25",
-      "updated": "2026-11-16",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/gusto/jobs/8192093",
       "apply_url": "https://job-boards.greenhouse.io/gusto/jobs/8192093",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8203030",
@@ -681,12 +717,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-15",
-      "updated": "2026-11-17",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/gusto/jobs/8203030",
       "apply_url": "https://job-boards.greenhouse.io/gusto/jobs/8203030",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8204399",
@@ -699,12 +735,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-18",
-      "updated": "2026-10-30",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/gusto/jobs/8204399",
       "apply_url": "https://job-boards.greenhouse.io/gusto/jobs/8204399",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8204403",
@@ -717,12 +753,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-25",
-      "updated": "2026-11-05",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/gusto/jobs/8204403",
       "apply_url": "https://job-boards.greenhouse.io/gusto/jobs/8204403",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8205633",
@@ -735,12 +771,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-25",
-      "updated": "2026-10-30",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/gusto/jobs/8205633",
       "apply_url": "https://job-boards.greenhouse.io/gusto/jobs/8205633",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8208422",
@@ -753,12 +789,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-25",
-      "updated": "2026-10-30",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/gusto/jobs/8208422",
       "apply_url": "https://job-boards.greenhouse.io/gusto/jobs/8208422",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8209666",
@@ -771,12 +807,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-02",
-      "updated": "2026-11-09",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/gusto/jobs/8209666",
       "apply_url": "https://job-boards.greenhouse.io/gusto/jobs/8209666",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8212233",
@@ -789,12 +825,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-01",
-      "updated": "2026-10-30",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/gusto/jobs/8212233",
       "apply_url": "https://job-boards.greenhouse.io/gusto/jobs/8212233",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8224182",
@@ -807,12 +843,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-24",
-      "updated": "2026-10-30",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/gusto/jobs/8224182",
       "apply_url": "https://job-boards.greenhouse.io/gusto/jobs/8224182",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8227773",
@@ -825,12 +861,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-23",
-      "updated": "2026-10-27",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/gusto/jobs/8227773",
       "apply_url": "https://job-boards.greenhouse.io/gusto/jobs/8227773",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8232302",
@@ -843,12 +879,30 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-30",
-      "updated": "2026-11-16",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/gusto/jobs/8232302",
       "apply_url": "https://job-boards.greenhouse.io/gusto/jobs/8232302",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
+    },
+    {
+      "id": "8244949",
+      "title": "Staff Software Engineer, Onboarding Platform",
+      "company": "Gusto, Inc.",
+      "location": "San Francisco, CA - Hybrid",
+      "remote": "hybrid",
+      "department": "",
+      "employment_type": "",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-18",
+      "updated": "2026-11-18",
+      "deadline": "",
+      "source_url": "https://job-boards.greenhouse.io/gusto/jobs/8244949",
+      "apply_url": "https://job-boards.greenhouse.io/gusto/jobs/8244949",
+      "first_seen": "2026-11-19T15:42:04Z",
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8244957",
@@ -861,12 +915,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-16",
-      "updated": "2026-11-05",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/gusto/jobs/8244957",
       "apply_url": "https://job-boards.greenhouse.io/gusto/jobs/8244957",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8244981",
@@ -879,12 +933,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-16",
-      "updated": "2026-11-05",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/gusto/jobs/8244981",
       "apply_url": "https://job-boards.greenhouse.io/gusto/jobs/8244981",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8248374",
@@ -897,12 +951,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-04",
-      "updated": "2026-11-10",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/gusto/jobs/8248374",
       "apply_url": "https://job-boards.greenhouse.io/gusto/jobs/8248374",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8250243",
@@ -915,12 +969,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-06",
-      "updated": "2026-10-30",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/gusto/jobs/8250243",
       "apply_url": "https://job-boards.greenhouse.io/gusto/jobs/8250243",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8257482",
@@ -933,12 +987,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-04",
-      "updated": "2026-11-17",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/gusto/jobs/8257482",
       "apply_url": "https://job-boards.greenhouse.io/gusto/jobs/8257482",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8257486",
@@ -951,12 +1005,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-21",
-      "updated": "2026-11-17",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/gusto/jobs/8257486",
       "apply_url": "https://job-boards.greenhouse.io/gusto/jobs/8257486",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8257865",
@@ -969,12 +1023,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-13",
-      "updated": "2026-11-10",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/gusto/jobs/8257865",
       "apply_url": "https://job-boards.greenhouse.io/gusto/jobs/8257865",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8260099",
@@ -987,12 +1041,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-06",
-      "updated": "2026-11-11",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/gusto/jobs/8260099",
       "apply_url": "https://job-boards.greenhouse.io/gusto/jobs/8260099",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8260696",
@@ -1005,12 +1059,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-17",
-      "updated": "2026-11-17",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/gusto/jobs/8260696",
       "apply_url": "https://job-boards.greenhouse.io/gusto/jobs/8260696",
       "first_seen": "2026-11-18T15:36:26Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8263050",
@@ -1023,30 +1077,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-10",
-      "updated": "2026-11-10",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/gusto/jobs/8263050",
       "apply_url": "https://job-boards.greenhouse.io/gusto/jobs/8263050",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
-    },
-    {
-      "id": "8268021",
-      "title": "Manager, Account Executive Platform Sales",
-      "company": "Gusto, Inc.",
-      "location": "Atlanta, GA - Hybrid; Denver, CO - Hybrid; Scottsdale, AZ - Hybrid",
-      "remote": "hybrid",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-10-12",
-      "updated": "2026-10-30",
-      "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/gusto/jobs/8268021",
-      "apply_url": "https://job-boards.greenhouse.io/gusto/jobs/8268021",
-      "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8274972",
@@ -1059,12 +1095,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-17",
-      "updated": "2026-11-17",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/gusto/jobs/8274972",
       "apply_url": "https://job-boards.greenhouse.io/gusto/jobs/8274972",
       "first_seen": "2026-11-18T15:36:26Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8275011",
@@ -1077,12 +1113,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-13",
-      "updated": "2026-10-30",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/gusto/jobs/8275011",
       "apply_url": "https://job-boards.greenhouse.io/gusto/jobs/8275011",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8279911",
@@ -1095,12 +1131,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-19",
-      "updated": "2026-10-19",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/gusto/jobs/8279911",
       "apply_url": "https://job-boards.greenhouse.io/gusto/jobs/8279911",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8281363",
@@ -1113,12 +1149,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-15",
-      "updated": "2026-11-13",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/gusto/jobs/8281363",
       "apply_url": "https://job-boards.greenhouse.io/gusto/jobs/8281363",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8282084",
@@ -1131,12 +1167,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-15",
-      "updated": "2026-10-30",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/gusto/jobs/8282084",
       "apply_url": "https://job-boards.greenhouse.io/gusto/jobs/8282084",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8293217",
@@ -1149,12 +1185,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-18",
-      "updated": "2026-11-12",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/gusto/jobs/8293217",
       "apply_url": "https://job-boards.greenhouse.io/gusto/jobs/8293217",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8304582",
@@ -1167,12 +1203,30 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-26",
-      "updated": "2026-11-17",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/gusto/jobs/8304582",
       "apply_url": "https://job-boards.greenhouse.io/gusto/jobs/8304582",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
+    },
+    {
+      "id": "8329666",
+      "title": "People Services Specialist",
+      "company": "Gusto, Inc.",
+      "location": "Denver, CO - Hybrid; New York, NY - Hybrid",
+      "remote": "hybrid",
+      "department": "",
+      "employment_type": "",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-18",
+      "updated": "2026-11-18",
+      "deadline": "",
+      "source_url": "https://job-boards.greenhouse.io/gusto/jobs/8329666",
+      "apply_url": "https://job-boards.greenhouse.io/gusto/jobs/8329666",
+      "first_seen": "2026-11-19T15:42:04Z",
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8346795",
@@ -1185,12 +1239,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-16",
-      "updated": "2026-11-16",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/gusto/jobs/8346795",
       "apply_url": "https://job-boards.greenhouse.io/gusto/jobs/8346795",
       "first_seen": "2026-11-16T15:39:28Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8346975",
@@ -1203,12 +1257,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-05",
-      "updated": "2026-11-13",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/gusto/jobs/8346975",
       "apply_url": "https://job-boards.greenhouse.io/gusto/jobs/8346975",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8346979",
@@ -1221,12 +1275,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-05",
-      "updated": "2026-11-13",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/gusto/jobs/8346979",
       "apply_url": "https://job-boards.greenhouse.io/gusto/jobs/8346979",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8347750",
@@ -1239,12 +1293,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-06",
-      "updated": "2026-11-16",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/gusto/jobs/8347750",
       "apply_url": "https://job-boards.greenhouse.io/gusto/jobs/8347750",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8348189",
@@ -1257,12 +1311,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-06",
-      "updated": "2026-11-16",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/gusto/jobs/8348189",
       "apply_url": "https://job-boards.greenhouse.io/gusto/jobs/8348189",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8353774",
@@ -1275,12 +1329,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-04",
-      "updated": "2026-11-04",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/gusto/jobs/8353774",
       "apply_url": "https://job-boards.greenhouse.io/gusto/jobs/8353774",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8353775",
@@ -1293,12 +1347,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-10",
-      "updated": "2026-11-10",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/gusto/jobs/8353775",
       "apply_url": "https://job-boards.greenhouse.io/gusto/jobs/8353775",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8353794",
@@ -1311,12 +1365,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-04",
-      "updated": "2026-11-04",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/gusto/jobs/8353794",
       "apply_url": "https://job-boards.greenhouse.io/gusto/jobs/8353794",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8356810",
@@ -1329,30 +1383,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-05",
-      "updated": "2026-11-05",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/gusto/jobs/8356810",
       "apply_url": "https://job-boards.greenhouse.io/gusto/jobs/8356810",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
-    },
-    {
-      "id": "8357701",
-      "title": "Product Marketing Lead",
-      "company": "Gusto, Inc.",
-      "location": "Atlanta, GA - Hybrid; Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid",
-      "remote": "hybrid",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-11-06",
-      "updated": "2026-11-09",
-      "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/gusto/jobs/8357701",
-      "apply_url": "https://job-boards.greenhouse.io/gusto/jobs/8357701",
-      "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8360497",
@@ -1365,12 +1401,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-09",
-      "updated": "2026-11-09",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/gusto/jobs/8360497",
       "apply_url": "https://job-boards.greenhouse.io/gusto/jobs/8360497",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8373808",
@@ -1383,12 +1419,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-10",
-      "updated": "2026-11-10",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/gusto/jobs/8373808",
       "apply_url": "https://job-boards.greenhouse.io/gusto/jobs/8373808",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
     },
     {
       "id": "8374008",
@@ -1401,12 +1437,30 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-12",
-      "updated": "2026-11-12",
+      "updated": "2026-11-18",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/gusto/jobs/8374008",
       "apply_url": "https://job-boards.greenhouse.io/gusto/jobs/8374008",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-18T15:36:26Z"
+      "last_checked": "2026-11-19T15:42:04Z"
+    },
+    {
+      "id": "8394531",
+      "title": "IT Geek",
+      "company": "Gusto, Inc.",
+      "location": "Denver, CO - Hybrid",
+      "remote": "hybrid",
+      "department": "",
+      "employment_type": "",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-18",
+      "updated": "2026-11-18",
+      "deadline": "",
+      "source_url": "https://job-boards.greenhouse.io/gusto/jobs/8394531",
+      "apply_url": "https://job-boards.greenhouse.io/gusto/jobs/8394531",
+      "first_seen": "2026-11-19T15:42:04Z",
+      "last_checked": "2026-11-19T15:42:04Z"
     }
   ],
   "ats": "greenhouse",
