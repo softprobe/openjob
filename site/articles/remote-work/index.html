@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" type="image/svg+xml" href="../../favicon.svg">
+  <title>Only 9.7% of jobs say they're remote; 68% don't say at all — OpenJob</title>
+  <meta name="description" content="Of 5,107 sampled OpenJob rows, 494 say remote (9.7%) and 3,475 (68.0%) state no work mode at all. The remote-work signal is mostly missing.">
+  <link rel="canonical" href="https://openjob.softprobe.ai/articles/remote-work/">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="OpenJob">
+  <meta property="og:title" content="Only 9.7% of jobs say they're remote; 68% don't say at all — OpenJob">
+  <meta property="og:description" content="Of 5,107 sampled OpenJob rows, 494 say remote (9.7%) and 3,475 (68.0%) state no work mode at all. The remote-work signal is mostly missing.">
+  <meta property="og:url" content="https://openjob.softprobe.ai/articles/remote-work/">
+  <!-- openjob:social -->
+  <meta property="og:image" content="https://openjob.softprobe.ai/og.png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="OpenJob. Open, privacy-first job board on GitHub">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:image" content="https://openjob.softprobe.ai/og.png">
+  <meta name="twitter:image:alt" content="OpenJob. Open, privacy-first job board on GitHub">
+  <meta name="google-site-verification" content="a2xq4xTZGnwkNdS2FSOJ9EGiUwnSmcRUcCAa2CUkiPI">
+  <!-- /openjob:social -->
+  <meta name="twitter:title" content="Only 9.7% of jobs say they're remote; 68% don't say at all — OpenJob">
+  <meta name="twitter:description" content="Of 5,107 sampled OpenJob rows, 494 say remote (9.7%) and 3,475 (68.0%) state no work mode at all. The remote-work signal is mostly missing.">
+  <link rel="stylesheet" href="../../style.css">
+</head>
+<body class="entry">
+  <div class="wrap">
+    <header class="mast">
+      <div>
+        <div class="brand-row"><img class="brand-mark" src="../../favicon.svg" alt="OpenJob logo" width="40" height="40"><p class="kicker">OpenJob</p></div>
+        <h1>Only 9.7% of jobs say they're remote; 68% don't say at all</h1>
+        <p class="sub">OpenJob · November 20, 2026</p>
+      </div>
+      <div class="mast-side">
+        <button type="button" class="text-button" data-lang-toggle aria-pressed="false">中文</button>
+        <a href="https://openjob.softprobe.ai/" data-i18n="board">Board</a>
+      </div>
+    </header>
+    <article>
+      <p><strong>The caveat up front:</strong> every number below comes from our November 18, 2026 analysis of a 5,107-row sample of the OpenJob index (shards 0, 7, 14, 20, 27, 33; both SHA-256 checksums verified against the manifest). Percentages are sample percentages. The manifest listed 33,107 rows at analysis time and lists 33,362 rows today — but the row count is a cumulative index, not live jobs: only about 14,000 rows were posted in the last 60 days.</p>
+      <p>Of the 5,107 rows we sampled, 494 say they are remote — 9.7%. A further 671 say hybrid (13.1%) and 467 say onsite (9.1%). The remaining 3,475 rows — 68.0%, more than two in three — state no work mode at all.</p>
+      <table>
+        <thead>
+          <tr><th>Work mode (<code>remote</code> field)</th><th>All sample (n = 5,107)</th><th>Fresh subset (n = 2,245)</th></tr>
+        </thead>
+        <tbody>
+          <tr><td>Remote</td><td>494 — <strong>9.7%</strong></td><td><strong>10.2%</strong></td></tr>
+          <tr><td>Hybrid</td><td>671 — <strong>13.1%</strong></td><td><strong>17.9%</strong></td></tr>
+          <tr><td>Onsite</td><td>467 — <strong>9.1%</strong></td><td><strong>12.8%</strong></td></tr>
+          <tr><td>Unspecified</td><td>3,475 — <strong>68.0%</strong></td><td><strong>59.0%</strong></td></tr>
+          <tr><td>Remote + hybrid (explicitly flexible)</td><td>1,165 — <strong>22.8%</strong></td><td>—</td></tr>
+        </tbody>
+      </table>
+      <p>The fresh subset — rows posted within the last 60 days — is a little more forthcoming: 10.2% remote, 17.9% hybrid, 12.8% onsite, and 59.0% still unspecified. Even among the freshest postings, most employers do not state a work mode.</p>
+      <h2>The signal is missing in two places</h2>
+      <p>The <code>remote</code> field is a schema enum (remote / onsite / hybrid / unspecified), and OpenJob's schema has it — most employers simply do not fill it. The free-text location field is no better: only 391 rows (7.7% of the sample) have location text containing "Remote", and "Hybrid" shows up as a location value 374 times — a work mode filed where a place should be. "Unspecified" does not mean the job is onsite; it means the listing does not say.</p>
+      <h2>Why this matters for agents</h2>
+      <p>An agent filtering for remote roles can only trust the 9.7% that say so explicitly. Everything else is a guess — and guessing wrong sends a candidate to a job they cannot take, or hides a flexible role from someone who could. That is the product point: the field exists in the schema, the data to fill it mostly does not, and the honest move is to publish the gap instead of imputing a mode the employer never stated.</p>
+      <h2>How we counted</h2>
+      <ul>
+        <li><strong>Source:</strong> the public manifest at <code>https://openjob.softprobe.ai/api/data/manifest.json</code>, generated 2026-11-18T20:08:03Z; 33,107 jobs, 34 shards, <code>complete: true</code>. Today's manifest lists 33,362 rows; the percentages here are from the November 18 snapshot.</li>
+        <li><strong>Sample:</strong> 5,107 rows from shards 0, 7, 14, 20, 27, 33. The shards are source-blocked, not random — each shard holds exactly one ATS system — so this is a cluster sample. The sample has no Lever rows (Lever is 6.0% of the full dataset) and overweights Ashby. "Fresh" means the employer stated a posted date within 60 days of the snapshot.</li>
+        <li><strong>Indexed ≠ recruited.</strong> Every number describes rows indexed from employer ATS boards. OpenJob did not recruit these employers; the employers own the text.</li>
+      </ul>
+      <p><em>Try it yourself: paste "Read https://openjob.softprobe.ai/llms.txt and follow it. Find me a remote job." into the agent you already use — Muse, ChatGPT/Codex, Cursor, Hermes, or Instinct — and see what it finds. The board is at <a href="https://openjob.softprobe.ai">openjob.softprobe.ai</a>; the source is <a href="https://github.com/softprobe/openjob">github.com/softprobe/openjob</a>.</em></p>
+    </article>
+    <footer>
+      <p><a href="https://openjob.softprobe.ai/">OpenJob</a> · <a href="https://github.com/softprobe/openjob" data-i18n="source">Source</a></p>
+    </footer>
+  </div>
+  <script src="../../i18n.js?v=a850439327b7cac9ea924be99d3a9fa43b4fa01d"></script>
+</body>
+</html>
