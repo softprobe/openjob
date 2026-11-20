@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" type="image/svg+xml" href="../../favicon.svg">
+  <title>One employer, 60 identical titles — OpenJob</title>
+  <meta name="description" content="The most common job title in OpenJob's 5,107-row sample appears 60 times — and every one of them is from a single employer, Chowbus. Why title counts need normalizing.">
+  <link rel="canonical" href="https://openjob.softprobe.ai/articles/sixty-identical-titles/">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="OpenJob">
+  <meta property="og:title" content="One employer, 60 identical titles — OpenJob">
+  <meta property="og:description" content="The most common job title in OpenJob's 5,107-row sample appears 60 times — and every one of them is from a single employer, Chowbus. Why title counts need normalizing.">
+  <meta property="og:url" content="https://openjob.softprobe.ai/articles/sixty-identical-titles/">
+  <!-- openjob:social -->
+  <meta property="og:image" content="https://openjob.softprobe.ai/og.png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="OpenJob. Open, privacy-first job board on GitHub">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:image" content="https://openjob.softprobe.ai/og.png">
+  <meta name="twitter:image:alt" content="OpenJob. Open, privacy-first job board on GitHub">
+  <meta name="google-site-verification" content="a2xq4xTZGnwkNdS2FSOJ9EGiUwnSmcRUcCAa2CUkiPI">
+  <!-- /openjob:social -->
+  <meta name="twitter:title" content="One employer, 60 identical titles — OpenJob">
+  <meta name="twitter:description" content="The most common job title in OpenJob's 5,107-row sample appears 60 times — and every one of them is from a single employer, Chowbus. Why title counts need normalizing.">
+  <link rel="stylesheet" href="../../style.css">
+</head>
+<body class="entry">
+  <div class="wrap">
+    <header class="mast">
+      <div>
+        <div class="brand-row"><img class="brand-mark" src="../../favicon.svg" alt="OpenJob logo" width="40" height="40"><p class="kicker">OpenJob</p></div>
+        <h1>One employer, 60 identical titles</h1>
+        <p class="sub">OpenJob · November 20, 2026</p>
+      </div>
+      <div class="mast-side">
+        <button type="button" class="text-button" data-lang-toggle aria-pressed="false">中文</button>
+        <a href="https://openjob.softprobe.ai/" data-i18n="board">Board</a>
+      </div>
+    </header>
+    <article>
+      <p><strong>The caveat up front:</strong> this is a small, fun finding from our November 18, 2026 analysis of a 5,107-row sample of the OpenJob index (shards 0, 7, 14, 20, 27, 33; both SHA-256 checksums verified against the manifest). It is a quirk in the sample, not a claim about any employer beyond it.</p>
+      <p>The most common job title in the sample is "Sales Manager_Chinese Vertical". It appears 60 times. Every single one of the 60 is from the same employer: Chowbus.</p>
+      <p>Sixty rows is 1.2% of the whole sample, from one title at one company. And it distorts the category it sits in: 207 titles in the sample contain the word "sales" (4.1%), and 60 of them — nearly 3 in 10 — are this one Chowbus title. Read the raw ranking naively and "Sales Manager_Chinese Vertical" looks like the hottest job in the index. Read it properly and it is one employer's hiring pattern, repeated.</p>
+      <h2>Not a duplicate problem</h2>
+      <p>This is not a deduplication failure. The sample has 0 duplicate <code>indexed_id</code>s — 5,106 distinct IDs across 5,106 indexed rows (the 5,107th row is the one native post, Softprobe's own role). The 60 Chowbus rows are 60 distinct rows. The title repeats; the rows do not. The underscore-joined title reads like a field straight out of an ATS export, and the employer presumably posts the same role across many teams, cities, or verticals — but the dataset does not say which, and we are not going to guess. That is the point: the data can tell you the title repeats 60 times, and it cannot tell you why.</p>
+      <h2>Why title counts need normalizing</h2>
+      <p>Any "most common job title" ranking built on raw counts will crown whichever employer posts the most copies of one title. The fix is boring and it works: count distinct employers per title alongside raw counts, or cap each employer's contribution to a title before ranking. The honest headline is never "the most common title is X" — it is "the most common title is X, posted by N employers". For this one, N is 1.</p>
+      <p>That is also why the role rankings in <a href="https://openjob.softprobe.ai/articles/roles/">the roles article</a> count keywords across titles rather than ranking exact titles: keywords survive one employer's repetition better than exact strings do. Even there, the same caution applies — a keyword ranking is only as broad as the employer base behind it.</p>
+      <h2>How we counted</h2>
+      <ul>
+        <li><strong>Source:</strong> the public manifest at <code>https://openjob.softprobe.ai/api/data/manifest.json</code>, generated 2026-11-18T20:08:03Z; 33,107 jobs, 34 shards, <code>complete: true</code>. Today's manifest lists 33,362 rows; the counts here are from the November 18 snapshot.</li>
+        <li><strong>Sample:</strong> 5,107 rows from shards 0, 7, 14, 20, 27, 33. The shards are source-blocked, not random — each shard holds exactly one ATS system — so this is a cluster sample. The sample has no Lever rows (Lever is 6.0% of the full dataset) and overweights Ashby.</li>
+        <li><strong>Indexed ≠ recruited.</strong> Every number describes rows indexed from employer ATS boards. OpenJob did not recruit these employers; the employers own the text.</li>
+      </ul>
+      <p><em>The board is at <a href="https://openjob.softprobe.ai">openjob.softprobe.ai</a>; the source is <a href="https://github.com/softprobe/openjob">github.com/softprobe/openjob</a>.</em></p>
+    </article>
+    <footer>
+      <p><a href="https://openjob.softprobe.ai/">OpenJob</a> · <a href="https://github.com/softprobe/openjob" data-i18n="source">Source</a></p>
+    </footer>
+  </div>
+  <script src="../../i18n.js?v=a850439327b7cac9ea924be99d3a9fa43b4fa01d"></script>
+</body>
+</html>

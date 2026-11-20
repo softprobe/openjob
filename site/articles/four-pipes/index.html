@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" type="image/svg+xml" href="../../favicon.svg">
+  <title>The index runs on four pipes: Moka, Greenhouse, Ashby, Lever — OpenJob</title>
+  <meta name="description" content="OpenJob's index is fed by four applicant tracking systems: Moka 42.6%, Greenhouse 39.3%, Ashby 12.1%, Lever 6.0% of the full dataset. Two pipes supply 82% of the rows.">
+  <link rel="canonical" href="https://openjob.softprobe.ai/articles/four-pipes/">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="OpenJob">
+  <meta property="og:title" content="The index runs on four pipes: Moka, Greenhouse, Ashby, Lever — OpenJob">
+  <meta property="og:description" content="OpenJob's index is fed by four applicant tracking systems: Moka 42.6%, Greenhouse 39.3%, Ashby 12.1%, Lever 6.0% of the full dataset. Two pipes supply 82% of the rows.">
+  <meta property="og:url" content="https://openjob.softprobe.ai/articles/four-pipes/">
+  <!-- openjob:social -->
+  <meta property="og:image" content="https://openjob.softprobe.ai/og.png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="OpenJob. Open, privacy-first job board on GitHub">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:image" content="https://openjob.softprobe.ai/og.png">
+  <meta name="twitter:image:alt" content="OpenJob. Open, privacy-first job board on GitHub">
+  <meta name="google-site-verification" content="a2xq4xTZGnwkNdS2FSOJ9EGiUwnSmcRUcCAa2CUkiPI">
+  <!-- /openjob:social -->
+  <meta name="twitter:title" content="The index runs on four pipes: Moka, Greenhouse, Ashby, Lever — OpenJob">
+  <meta name="twitter:description" content="OpenJob's index is fed by four applicant tracking systems: Moka 42.6%, Greenhouse 39.3%, Ashby 12.1%, Lever 6.0% of the full dataset. Two pipes supply 82% of the rows.">
+  <link rel="stylesheet" href="../../style.css">
+</head>
+<body class="entry">
+  <div class="wrap">
+    <header class="mast">
+      <div>
+        <div class="brand-row"><img class="brand-mark" src="../../favicon.svg" alt="OpenJob logo" width="40" height="40"><p class="kicker">OpenJob</p></div>
+        <h1>The index runs on four pipes: Moka, Greenhouse, Ashby, Lever</h1>
+        <p class="sub">OpenJob · November 20, 2026</p>
+      </div>
+      <div class="mast-side">
+        <button type="button" class="text-button" data-lang-toggle aria-pressed="false">中文</button>
+        <a href="https://openjob.softprobe.ai/" data-i18n="board">Board</a>
+      </div>
+    </header>
+    <article>
+      <p><strong>The caveat up front:</strong> the mix below is a full-dataset count, not a sample estimate — it is read from the manifest's shard list for the November 18, 2026 snapshot (33,107 rows, 34 shards). The freshness figures beside it come from our 5,107-row sample of the same snapshot, and the sample has a blind spot: it contains no Lever rows at all. The manifest lists 33,362 rows today; the mix below is the November 18 snapshot.</p>
+      <p>Every row in the OpenJob index arrives through one of four applicant tracking systems. Two of them supply 82% of the rows.</p>
+      <table>
+        <thead>
+          <tr><th>Source (ATS)</th><th>Rows in full dataset</th><th>Share</th><th>Fresh (posted ≤ 60 days, sample)</th></tr>
+        </thead>
+        <tbody>
+          <tr><td>Moka</td><td>14,107</td><td><strong>42.6%</strong></td><td>33.4%</td></tr>
+          <tr><td>Greenhouse</td><td>13,000</td><td><strong>39.3%</strong></td><td>43.4%</td></tr>
+          <tr><td>Ashby</td><td>4,000</td><td><strong>12.1%</strong></td><td>67.2%</td></tr>
+          <tr><td>Lever</td><td>2,000</td><td><strong>6.0%</strong></td><td>Unknown — no Lever rows in the sample</td></tr>
+        </tbody>
+      </table>
+      <p>The sample's own mix is close to the full mix — Moka 41.1%, Greenhouse 39.2% — except for the two gaps that matter: Ashby is overweighted in the sample (19.6% of sampled rows vs 12.1% of the full dataset, because we sampled 1 of the 4 Ashby shards) and Lever is absent entirely.</p>
+      <h2>Each pipe has a different shape</h2>
+      <p>The pipes are not interchangeable. Moka is the Chinese-language pipe: 97.8% of Moka titles in the sample contain CJK characters, and Moka supplies the largest employers in the Chinese half of the index — DJI (425 rows), 远景能源 (312), 新浪微博 (220), 阶跃星辰 (220). Greenhouse is the English-language pipe with the biggest names: Cloudflare (493), Stripe (222), Robinhood (166), Scale AI (166), Reddit (130). Ashby is the smallest pipe and the freshest — 67.2% of Ashby rows were posted in the last 60 days, against 43.4% for Greenhouse and 33.4% for Moka — and the only one that ever shows pay: every salary string in the sample comes from an Ashby board.</p>
+      <p>Lever is the blind spot. It is 6.0% of the full dataset — 2,000 rows — and we know nothing about it from the sample, because the six shards we downloaded contain no Lever shard. Any claim about the whole index that leans on the sample is really a claim about the other three pipes. The weekly re-run should add a Lever shard.</p>
+      <h2>Why publish the plumbing?</h2>
+      <p>Because the pipes explain the numbers. The index is stale where Moka is stale and fresh where Ashby is fresh; it is bilingual because Moka is Chinese-language; it shows pay only where Ashby shows pay. A dataset that hides its sources invites its users to mistake a source artifact for a market fact. Naming the four pipes — and the one we have not measured — is the difference.</p>
+      <h2>How we counted</h2>
+      <ul>
+        <li><strong>Source:</strong> the public manifest at <code>https://openjob.softprobe.ai/api/data/manifest.json</code>, generated 2026-11-18T20:08:03Z; 33,107 jobs, 34 shards, <code>complete: true</code>. The ATS mix is a full-dataset count read from the manifest's shard <code>first_id</code>s. Today's manifest lists 33,362 rows; the mix here is the November 18 snapshot.</li>
+        <li><strong>Sample:</strong> 5,107 rows from shards 0, 7, 14, 20, 27, 33. The shards are source-blocked — each shard holds exactly one ATS system (shard 0 = Ashby; 7 and 14 = Greenhouse; 20 and 27 = Moka; 33 = 100 Moka rows plus 6 Workable rows and the 1 native row) — so this is a cluster sample, not a random one. Freshness figures are sample figures; Lever freshness is unknown.</li>
+        <li><strong>Indexed ≠ recruited.</strong> Every number describes rows indexed from employer ATS boards. OpenJob did not recruit these employers; the employers own the text.</li>
+      </ul>
+      <p><em>The board is at <a href="https://openjob.softprobe.ai">openjob.softprobe.ai</a>; the source is <a href="https://github.com/softprobe/openjob">github.com/softprobe/openjob</a>.</em></p>
+    </article>
+    <footer>
+      <p><a href="https://openjob.softprobe.ai/">OpenJob</a> · <a href="https://github.com/softprobe/openjob" data-i18n="source">Source</a></p>
+    </footer>
+  </div>
+  <script src="../../i18n.js?v=a850439327b7cac9ea924be99d3a9fa43b4fa01d"></script>
+</body>
+</html>
