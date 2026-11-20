@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" type="image/svg+xml" href="../../favicon.svg">
+  <title>How we count: the OpenJob methodology note — OpenJob</title>
+  <meta name="description" content="Definitions behind every number on OpenJob's data stories: fresh means posted within 60 days; sample vs full dataset; salary is Ashby only; geography is a classifier; jobs expire after 60 days, talent profiles after 180.">
+  <link rel="canonical" href="https://openjob.softprobe.ai/articles/how-we-count/">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="OpenJob">
+  <meta property="og:title" content="How we count: the OpenJob methodology note — OpenJob">
+  <meta property="og:description" content="Definitions behind every number on OpenJob's data stories: fresh means posted within 60 days; sample vs full dataset; salary is Ashby only; geography is a classifier; jobs expire after 60 days, talent profiles after 180.">
+  <meta property="og:url" content="https://openjob.softprobe.ai/articles/how-we-count/">
+  <!-- openjob:social -->
+  <meta property="og:image" content="https://openjob.softprobe.ai/og.png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="OpenJob. Open, privacy-first job board on GitHub">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:image" content="https://openjob.softprobe.ai/og.png">
+  <meta name="twitter:image:alt" content="OpenJob. Open, privacy-first job board on GitHub">
+  <meta name="google-site-verification" content="a2xq4xTZGnwkNdS2FSOJ9EGiUwnSmcRUcCAa2CUkiPI">
+  <!-- /openjob:social -->
+  <meta name="twitter:title" content="How we count: the OpenJob methodology note — OpenJob">
+  <meta name="twitter:description" content="Definitions behind every number on OpenJob's data stories: fresh means posted within 60 days; sample vs full dataset; salary is Ashby only; geography is a classifier; jobs expire after 60 days, talent profiles after 180.">
+  <link rel="stylesheet" href="../../style.css">
+</head>
+<body class="entry">
+  <div class="wrap">
+    <header class="mast">
+      <div>
+        <div class="brand-row"><img class="brand-mark" src="../../favicon.svg" alt="OpenJob logo" width="40" height="40"><p class="kicker">OpenJob</p></div>
+        <h1>How we count: the OpenJob methodology note</h1>
+        <p class="sub">OpenJob · November 20, 2026</p>
+      </div>
+      <div class="mast-side">
+        <button type="button" class="text-button" data-lang-toggle aria-pressed="false">中文</button>
+        <a href="https://openjob.softprobe.ai/" data-i18n="board">Board</a>
+      </div>
+    </header>
+    <article>
+      <p>Every data story on this site rests on the same analysis, run November 18, 2026. This note is the definitions file: what each number means, what it does not mean, and how to reproduce it. If a number on another page confuses you, the answer is here.</p>
+      <h2>Fresh = posted within 60 days</h2>
+      <p>"Fresh" means the employer stated a posted date within 60 days of the snapshot. For the November 18 analysis, that is a posted date on or after September 19, 2026. The window moves with the snapshot: a weekly re-run uses the 60 days before that week's snapshot, never a fixed calendar date.</p>
+      <p><code>posted</code> is the date the employer states on its own board; it is present on 100% of sampled rows. It is not a re-verification: some boards may carry stale dates for roles that are still open, and some may carry fresh dates for roles that are already filled. "Fresh" is defined by that stated date, and only by it.</p>
+      <p>The honest live-jobs number — about 14,000 — is the fresh share applied to the full dataset: 44.0% fresh in the sample, 41.9% when weighted by each source's share of the full dataset (about 13,900 of 33,107 rows). The row count is a cumulative index, not a live board; never read it as live jobs.</p>
+      <h2>Sample vs full dataset</h2>
+      <p>Two kinds of numbers appear on this site, and they are labelled every time:</p>
+      <ul>
+        <li><strong>Full-dataset counts</strong> come from the manifest itself: 33,107 rows across 34 shards at the November 18 snapshot (33,362 rows today, November 20). The ATS mix — Moka 42.6%, Greenhouse 39.3%, Ashby 12.1%, Lever 6.0% — is a full-dataset count, read from the manifest's shard list.</li>
+        <li><strong>Sample percentages</strong> come from 5,107 rows: six shards (indices 0, 7, 14, 20, 27, 33) downloaded and verified — both SHA-256 checksums, gzip and raw, matched the manifest on all six. The shards are source-blocked, not random: each shard holds exactly one ATS system (shard 0 = Ashby; 7 and 14 = Greenhouse; 20 and 27 = Moka; 33 = 100 Moka rows plus 6 Workable rows and the 1 native row). So this is a cluster sample, not a random one.</li>
+      </ul>
+      <p>The sample has two known gaps: it contains no Lever rows (Lever is 6.0% of the full dataset), and it overweights Ashby (19.6% of the sample vs 12.1% of the full dataset, because we sampled 1 of the 4 Ashby shards). Where it matters, figures are given ATS-weighted; where a figure depends on Lever, it is marked unknown. Never compare a cluster-sample percentage against a full-dataset count as if they were the same thing.</p>
+      <h2>Salary = Ashby only</h2>
+      <p>Only 6.2% of sampled rows carry a salary string (318 of 5,107), and every one of them comes from Ashby — 31.8% of Ashby rows, 0% of Greenhouse and Moka rows. The structured <code>salary</code> field is null on 100% of sampled rows. The median posted range, $150,000–$205,000, is computed from the 257 parseable "$XK – $YK" ranges, all Ashby. Any "what the index pays" statement describes Ashby-posted roles only, not the whole market.</p>
+      <h2>Geography = a classifier over free-text locations</h2>
+      <p>Regions are assigned by a classifier over the free-text <code>location</code> field, which is non-empty on 93.0% of sampled rows and missing on 7.0%. China means the location contains 中国 or a Chinese city name; the US means "United States", "USA", a state code, or a US city; the UK and Europe mean named cities. 9.3% of rows are unclassified. The classifier reads what employers wrote, including quirks — "Hybrid" appears as a location value 374 times. Language is measured separately, by whether the title contains CJK characters (40.2% of sampled titles).</p>
+      <h2>Expiry: 60 days for jobs, 180 for talent profiles</h2>
+      <p>Native posts on OpenJob expire by rule: job posts last 60 days, talent profiles last 180 days unless renewed, and company pages do not expire. Expiry is enforced by the board, not requested of the poster — which is why the native half of the board can never accumulate the kind of archive the indexed half carries.</p>
+      <p>The indexed half has no expiry enforced by the board: OpenJob does not own those listings. The posted date travels with each indexed row, the search tools expose it as a filter, and the agent decides what counts as fresh. The board's job is to make that decision possible and to never hide the date.</p>
+      <h2>Indexed ≠ recruited, native ≠ indexed</h2>
+      <p>Every number in the data stories describes rows indexed from employer ATS boards. OpenJob did not recruit these employers; the employers own the text, and indexed rows carry no license beyond the link to the employer's own page. The native board — posts made directly to OpenJob — is counted separately from the indexed dataset; never blend the two counts. Current native counts are on the board itself, at <a href="https://openjob.softprobe.ai">openjob.softprobe.ai</a>.</p>
+      <h2>Reproduction</h2>
+      <ul>
+        <li><strong>Manifest:</strong> <code>https://openjob.softprobe.ai/api/data/manifest.json</code> — generated 2026-11-18T20:08:03Z, snapshot <code>a404cce5…</code>, 33,107 jobs, 34 shards, <code>complete: true</code>.</li>
+        <li><strong>Sample:</strong> shard indices 0, 7, 14, 20, 27, 33 — 5,107 rows. Download with curl and a browser User-Agent; verify both SHA-256 checksums (gzip + raw) against the manifest before computing anything.</li>
+        <li><strong>Weekly re-run:</strong> re-download the manifest, record the new snapshot count and <code>generated</code> timestamp, re-download the same six shard indices plus a Lever shard if the mix changes, re-verify both checksums, and recompute fresh share, AI-agent narrow share, top-10 concentration, salary-text rate, and China/US shares. Report week-over-week deltas only when the same shard indices and the same definitions are used.</li>
+      </ul>
+      <p><em>The board is at <a href="https://openjob.softprobe.ai">openjob.softprobe.ai</a>; the source is <a href="https://github.com/softprobe/openjob">github.com/softprobe/openjob</a>.</em></p>
+    </article>
+    <footer>
+      <p><a href="https://openjob.softprobe.ai/">OpenJob</a> · <a href="https://github.com/softprobe/openjob" data-i18n="source">Source</a></p>
+    </footer>
+  </div>
+  <script src="../../i18n.js?v=a850439327b7cac9ea924be99d3a9fa43b4fa01d"></script>
+</body>
+</html>
