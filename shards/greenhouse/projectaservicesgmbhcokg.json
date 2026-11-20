@@ -1,8 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-19T15:42:04Z",
+  "checked_at": "2026-11-20T15:23:49Z",
   "failed_at": null,
-  "etag": "W/\"78c9222c478ca228942d21f1ce560a82\"",
+  "etag": "W/\"b7afb5ad6c8d6893cb9a6664ab7a7108\"",
   "jobs": [
     {
       "id": "6035679002",
@@ -20,7 +20,7 @@
       "source_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/6035679002",
       "apply_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/6035679002",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "7878427002",
@@ -38,7 +38,7 @@
       "source_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/7878427002",
       "apply_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/7878427002",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "7949329002",
@@ -56,7 +56,7 @@
       "source_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/7949329002",
       "apply_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/7949329002",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8076213002",
@@ -74,7 +74,7 @@
       "source_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8076213002",
       "apply_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8076213002",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8514504002",
@@ -92,7 +92,7 @@
       "source_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8514504002",
       "apply_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8514504002",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8514562002",
@@ -110,7 +110,7 @@
       "source_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8514562002",
       "apply_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8514562002",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8539246002",
@@ -128,7 +128,7 @@
       "source_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8539246002",
       "apply_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8539246002",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8585181002",
@@ -146,7 +146,7 @@
       "source_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8585181002",
       "apply_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8585181002",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8596389002",
@@ -164,7 +164,7 @@
       "source_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8596389002",
       "apply_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8596389002",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8634190002",
@@ -182,7 +182,7 @@
       "source_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8634190002",
       "apply_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8634190002",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8634230002",
@@ -200,7 +200,7 @@
       "source_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8634230002",
       "apply_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8634230002",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8634243002",
@@ -218,7 +218,7 @@
       "source_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8634243002",
       "apply_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8634243002",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8634251002",
@@ -236,7 +236,7 @@
       "source_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8634251002",
       "apply_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8634251002",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8634275002",
@@ -254,7 +254,7 @@
       "source_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8634275002",
       "apply_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8634275002",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8656503002",
@@ -272,7 +272,7 @@
       "source_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8656503002",
       "apply_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8656503002",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8656504002",
@@ -290,7 +290,7 @@
       "source_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8656504002",
       "apply_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8656504002",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8720424002",
@@ -308,7 +308,7 @@
       "source_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8720424002",
       "apply_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8720424002",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8729468002",
@@ -326,7 +326,7 @@
       "source_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8729468002",
       "apply_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8729468002",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8729471002",
@@ -344,7 +344,7 @@
       "source_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8729471002",
       "apply_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8729471002",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8729476002",
@@ -362,7 +362,7 @@
       "source_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8729476002",
       "apply_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8729476002",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8729480002",
@@ -380,7 +380,7 @@
       "source_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8729480002",
       "apply_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8729480002",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8752246002",
@@ -398,7 +398,7 @@
       "source_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8752246002",
       "apply_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8752246002",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8769805002",
@@ -416,7 +416,7 @@
       "source_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8769805002",
       "apply_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8769805002",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8769810002",
@@ -434,7 +434,7 @@
       "source_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8769810002",
       "apply_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8769810002",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8800470002",
@@ -452,7 +452,7 @@
       "source_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8800470002",
       "apply_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8800470002",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8809509002",
@@ -470,7 +470,7 @@
       "source_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8809509002",
       "apply_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8809509002",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8809510002",
@@ -488,25 +488,25 @@
       "source_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8809510002",
       "apply_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8809510002",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8814576002",
       "title": "Head of Digital Product Platform (m/f/d)",
       "company": "A11",
-      "location": "Dusseldorf",
+      "location": "Düsseldorf",
       "remote": "unspecified",
       "department": "",
       "employment_type": "",
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-16",
-      "updated": "2026-09-16",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8814576002",
       "apply_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8814576002",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8824784002",
@@ -524,7 +524,7 @@
       "source_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8824784002",
       "apply_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8824784002",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8826878002",
@@ -542,7 +542,7 @@
       "source_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8826878002",
       "apply_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8826878002",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8844356002",
@@ -560,7 +560,7 @@
       "source_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8844356002",
       "apply_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8844356002",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8844357002",
@@ -578,7 +578,7 @@
       "source_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8844357002",
       "apply_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8844357002",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8852067002",
@@ -596,7 +596,7 @@
       "source_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8852067002",
       "apply_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8852067002",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8855064002",
@@ -614,7 +614,7 @@
       "source_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8855064002",
       "apply_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8855064002",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8855387002",
@@ -632,7 +632,7 @@
       "source_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8855387002",
       "apply_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8855387002",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8878386002",
@@ -650,7 +650,7 @@
       "source_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8878386002",
       "apply_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8878386002",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8878388002",
@@ -668,7 +668,7 @@
       "source_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8878388002",
       "apply_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8878388002",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8878390002",
@@ -686,7 +686,7 @@
       "source_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8878390002",
       "apply_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8878390002",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8881020002",
@@ -704,7 +704,7 @@
       "source_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8881020002",
       "apply_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8881020002",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8881032002",
@@ -722,7 +722,7 @@
       "source_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8881032002",
       "apply_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8881032002",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8883110002",
@@ -740,7 +740,7 @@
       "source_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8883110002",
       "apply_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8883110002",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8883222002",
@@ -758,7 +758,7 @@
       "source_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8883222002",
       "apply_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8883222002",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8883227002",
@@ -776,7 +776,7 @@
       "source_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8883227002",
       "apply_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8883227002",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8883228002",
@@ -794,7 +794,7 @@
       "source_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8883228002",
       "apply_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8883228002",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8887225002",
@@ -812,7 +812,7 @@
       "source_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8887225002",
       "apply_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8887225002",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8905585002",
@@ -830,7 +830,7 @@
       "source_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8905585002",
       "apply_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8905585002",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8910777002",
@@ -848,7 +848,7 @@
       "source_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8910777002",
       "apply_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8910777002",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8914035002",
@@ -866,7 +866,7 @@
       "source_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8914035002",
       "apply_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8914035002",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8918823002",
@@ -884,7 +884,7 @@
       "source_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8918823002",
       "apply_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8918823002",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8923265002",
@@ -902,7 +902,7 @@
       "source_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8923265002",
       "apply_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8923265002",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8923277002",
@@ -920,7 +920,7 @@
       "source_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8923277002",
       "apply_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8923277002",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8923823002",
@@ -938,7 +938,7 @@
       "source_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8923823002",
       "apply_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8923823002",
       "first_seen": "2026-11-19T15:42:04Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8928113002",
@@ -956,7 +956,7 @@
       "source_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8928113002",
       "apply_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8928113002",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8928118002",
@@ -974,7 +974,7 @@
       "source_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8928118002",
       "apply_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8928118002",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8932160002",
@@ -992,7 +992,7 @@
       "source_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8932160002",
       "apply_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8932160002",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8932169002",
@@ -1010,7 +1010,7 @@
       "source_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8932169002",
       "apply_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8932169002",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8934383002",
@@ -1028,7 +1028,7 @@
       "source_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8934383002",
       "apply_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8934383002",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8935966002",
@@ -1046,7 +1046,7 @@
       "source_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8935966002",
       "apply_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8935966002",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8935968002",
@@ -1064,7 +1064,7 @@
       "source_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8935968002",
       "apply_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8935968002",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8938923002",
@@ -1082,7 +1082,7 @@
       "source_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8938923002",
       "apply_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8938923002",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8940830002",
@@ -1100,7 +1100,7 @@
       "source_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8940830002",
       "apply_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8940830002",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8940832002",
@@ -1118,7 +1118,7 @@
       "source_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8940832002",
       "apply_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8940832002",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8944277002",
@@ -1136,7 +1136,7 @@
       "source_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8944277002",
       "apply_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8944277002",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8944279002",
@@ -1154,7 +1154,7 @@
       "source_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8944279002",
       "apply_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8944279002",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8946699002",
@@ -1172,7 +1172,7 @@
       "source_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8946699002",
       "apply_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8946699002",
       "first_seen": "2026-11-18T15:36:26Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8949586002",
@@ -1190,7 +1190,7 @@
       "source_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8949586002",
       "apply_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8949586002",
       "first_seen": "2026-11-18T15:36:26Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8949588002",
@@ -1208,7 +1208,7 @@
       "source_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8949588002",
       "apply_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8949588002",
       "first_seen": "2026-11-18T15:36:26Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8950373002",
@@ -1226,25 +1226,7 @@
       "source_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8950373002",
       "apply_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8950373002",
       "first_seen": "2026-11-19T15:42:04Z",
-      "last_checked": "2026-11-19T15:42:04Z"
-    },
-    {
-      "id": "8950378002",
-      "title": "Managing Director - Operations (m/f/d)",
-      "company": "A11",
-      "location": "Frankfurt",
-      "remote": "unspecified",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-11-18",
-      "updated": "2026-11-18",
-      "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8950378002",
-      "apply_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8950378002",
-      "first_seen": "2026-11-19T15:42:04Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8951106002",
@@ -1262,7 +1244,7 @@
       "source_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8951106002",
       "apply_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8951106002",
       "first_seen": "2026-11-19T15:42:04Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     }
   ],
   "ats": "greenhouse",

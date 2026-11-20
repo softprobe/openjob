@@ -1,8 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-19T15:42:04Z",
+  "checked_at": "2026-11-20T15:23:49Z",
   "failed_at": null,
-  "etag": "W/\"job-board:dad18a32b3112a6ab13b2dda59186602aec63fea0f3657676347d29baf1bac0b\"",
+  "etag": "W/\"job-board:01996a01b74d8ae3afda41ef32720ca57a655f4783f8a98ba079f5d301e72799\"",
   "jobs": [
     {
       "id": "01935c27-3bd4-48f1-9479-74625ac74f0c",
@@ -20,7 +20,7 @@
       "source_url": "https://jobs.ashbyhq.com/aptura/01935c27-3bd4-48f1-9479-74625ac74f0c",
       "apply_url": "https://jobs.ashbyhq.com/aptura/01935c27-3bd4-48f1-9479-74625ac74f0c/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "046cb4de-4ffa-4e8a-b7ce-9642957016ad",
@@ -38,7 +38,7 @@
       "source_url": "https://jobs.ashbyhq.com/aptura/046cb4de-4ffa-4e8a-b7ce-9642957016ad",
       "apply_url": "https://jobs.ashbyhq.com/aptura/046cb4de-4ffa-4e8a-b7ce-9642957016ad/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "130e13bc-0194-4ca6-b38a-7324685ffa35",
@@ -56,7 +56,7 @@
       "source_url": "https://jobs.ashbyhq.com/aptura/130e13bc-0194-4ca6-b38a-7324685ffa35",
       "apply_url": "https://jobs.ashbyhq.com/aptura/130e13bc-0194-4ca6-b38a-7324685ffa35/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "16e59358-0e67-4281-a4b7-30bd0be5e2ca",
@@ -74,7 +74,7 @@
       "source_url": "https://jobs.ashbyhq.com/aptura/16e59358-0e67-4281-a4b7-30bd0be5e2ca",
       "apply_url": "https://jobs.ashbyhq.com/aptura/16e59358-0e67-4281-a4b7-30bd0be5e2ca/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "18bc8810-16e6-4ee7-8bd2-6b0d1bbef963",
@@ -92,7 +92,7 @@
       "source_url": "https://jobs.ashbyhq.com/aptura/18bc8810-16e6-4ee7-8bd2-6b0d1bbef963",
       "apply_url": "https://jobs.ashbyhq.com/aptura/18bc8810-16e6-4ee7-8bd2-6b0d1bbef963/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "1994cb86-08a8-434b-9ba0-8847cdedabbe",
@@ -110,7 +110,7 @@
       "source_url": "https://jobs.ashbyhq.com/aptura/1994cb86-08a8-434b-9ba0-8847cdedabbe",
       "apply_url": "https://jobs.ashbyhq.com/aptura/1994cb86-08a8-434b-9ba0-8847cdedabbe/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "1d7aefc9-cd0b-43e5-86d5-158b8902c5d7",
@@ -128,7 +128,7 @@
       "source_url": "https://jobs.ashbyhq.com/aptura/1d7aefc9-cd0b-43e5-86d5-158b8902c5d7",
       "apply_url": "https://jobs.ashbyhq.com/aptura/1d7aefc9-cd0b-43e5-86d5-158b8902c5d7/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "2accfded-9a2d-4850-b267-917c81f9d523",
@@ -146,7 +146,7 @@
       "source_url": "https://jobs.ashbyhq.com/aptura/2accfded-9a2d-4850-b267-917c81f9d523",
       "apply_url": "https://jobs.ashbyhq.com/aptura/2accfded-9a2d-4850-b267-917c81f9d523/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "350c42fd-bfb3-483a-b0e6-4861f0d81fe5",
@@ -164,7 +164,7 @@
       "source_url": "https://jobs.ashbyhq.com/aptura/350c42fd-bfb3-483a-b0e6-4861f0d81fe5",
       "apply_url": "https://jobs.ashbyhq.com/aptura/350c42fd-bfb3-483a-b0e6-4861f0d81fe5/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "39d684ad-5d1a-4cd2-b3ce-bb85c7bdc5e5",
@@ -182,7 +182,7 @@
       "source_url": "https://jobs.ashbyhq.com/aptura/39d684ad-5d1a-4cd2-b3ce-bb85c7bdc5e5",
       "apply_url": "https://jobs.ashbyhq.com/aptura/39d684ad-5d1a-4cd2-b3ce-bb85c7bdc5e5/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "4254abef-2f4e-4937-ad3b-c5dd86ac3564",
@@ -200,7 +200,7 @@
       "source_url": "https://jobs.ashbyhq.com/aptura/4254abef-2f4e-4937-ad3b-c5dd86ac3564",
       "apply_url": "https://jobs.ashbyhq.com/aptura/4254abef-2f4e-4937-ad3b-c5dd86ac3564/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "56912b83-52a3-46c5-8a36-76330d384540",
@@ -218,7 +218,7 @@
       "source_url": "https://jobs.ashbyhq.com/aptura/56912b83-52a3-46c5-8a36-76330d384540",
       "apply_url": "https://jobs.ashbyhq.com/aptura/56912b83-52a3-46c5-8a36-76330d384540/application",
       "first_seen": "2026-11-18T15:36:26Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "5e296c09-27d9-46d6-afb1-79886c624d65",
@@ -236,7 +236,7 @@
       "source_url": "https://jobs.ashbyhq.com/aptura/5e296c09-27d9-46d6-afb1-79886c624d65",
       "apply_url": "https://jobs.ashbyhq.com/aptura/5e296c09-27d9-46d6-afb1-79886c624d65/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "6152af89-34f9-47a7-902c-7a23c2fe7b75",
@@ -254,7 +254,7 @@
       "source_url": "https://jobs.ashbyhq.com/aptura/6152af89-34f9-47a7-902c-7a23c2fe7b75",
       "apply_url": "https://jobs.ashbyhq.com/aptura/6152af89-34f9-47a7-902c-7a23c2fe7b75/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "63f302ff-6699-4a48-9d4a-b259ec18d04d",
@@ -272,7 +272,7 @@
       "source_url": "https://jobs.ashbyhq.com/aptura/63f302ff-6699-4a48-9d4a-b259ec18d04d",
       "apply_url": "https://jobs.ashbyhq.com/aptura/63f302ff-6699-4a48-9d4a-b259ec18d04d/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "68ed4627-136f-4350-952f-395e7cd30754",
@@ -290,7 +290,7 @@
       "source_url": "https://jobs.ashbyhq.com/aptura/68ed4627-136f-4350-952f-395e7cd30754",
       "apply_url": "https://jobs.ashbyhq.com/aptura/68ed4627-136f-4350-952f-395e7cd30754/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "744c99a7-6fd1-4559-b1f6-4b134a625fa7",
@@ -308,7 +308,7 @@
       "source_url": "https://jobs.ashbyhq.com/aptura/744c99a7-6fd1-4559-b1f6-4b134a625fa7",
       "apply_url": "https://jobs.ashbyhq.com/aptura/744c99a7-6fd1-4559-b1f6-4b134a625fa7/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8abe1637-f88f-41fe-ad7f-eea38683e5be",
@@ -326,7 +326,7 @@
       "source_url": "https://jobs.ashbyhq.com/aptura/8abe1637-f88f-41fe-ad7f-eea38683e5be",
       "apply_url": "https://jobs.ashbyhq.com/aptura/8abe1637-f88f-41fe-ad7f-eea38683e5be/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8aca1e2d-34e7-47a1-82d3-3629234f1c58",
@@ -344,7 +344,7 @@
       "source_url": "https://jobs.ashbyhq.com/aptura/8aca1e2d-34e7-47a1-82d3-3629234f1c58",
       "apply_url": "https://jobs.ashbyhq.com/aptura/8aca1e2d-34e7-47a1-82d3-3629234f1c58/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8e7c18fc-7a09-4c0f-83af-d2e1d1572b45",
@@ -362,7 +362,7 @@
       "source_url": "https://jobs.ashbyhq.com/aptura/8e7c18fc-7a09-4c0f-83af-d2e1d1572b45",
       "apply_url": "https://jobs.ashbyhq.com/aptura/8e7c18fc-7a09-4c0f-83af-d2e1d1572b45/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8f1a4314-7b11-4092-932c-d43144f66171",
@@ -380,7 +380,7 @@
       "source_url": "https://jobs.ashbyhq.com/aptura/8f1a4314-7b11-4092-932c-d43144f66171",
       "apply_url": "https://jobs.ashbyhq.com/aptura/8f1a4314-7b11-4092-932c-d43144f66171/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8f4a50aa-5fbe-4337-951e-d8efdfd9e61f",
@@ -398,7 +398,7 @@
       "source_url": "https://jobs.ashbyhq.com/aptura/8f4a50aa-5fbe-4337-951e-d8efdfd9e61f",
       "apply_url": "https://jobs.ashbyhq.com/aptura/8f4a50aa-5fbe-4337-951e-d8efdfd9e61f/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "9ad2b90a-4f0b-4848-8473-e346416693f2",
@@ -416,7 +416,7 @@
       "source_url": "https://jobs.ashbyhq.com/aptura/9ad2b90a-4f0b-4848-8473-e346416693f2",
       "apply_url": "https://jobs.ashbyhq.com/aptura/9ad2b90a-4f0b-4848-8473-e346416693f2/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "a14b65ab-3679-4650-8294-0f12c73ddcd1",
@@ -434,7 +434,7 @@
       "source_url": "https://jobs.ashbyhq.com/aptura/a14b65ab-3679-4650-8294-0f12c73ddcd1",
       "apply_url": "https://jobs.ashbyhq.com/aptura/a14b65ab-3679-4650-8294-0f12c73ddcd1/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "a23db406-e891-40f6-b013-2cbfb4b704df",
@@ -452,7 +452,7 @@
       "source_url": "https://jobs.ashbyhq.com/aptura/a23db406-e891-40f6-b013-2cbfb4b704df",
       "apply_url": "https://jobs.ashbyhq.com/aptura/a23db406-e891-40f6-b013-2cbfb4b704df/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "a6a22d35-afde-49fa-bb60-d80c96488440",
@@ -470,7 +470,7 @@
       "source_url": "https://jobs.ashbyhq.com/aptura/a6a22d35-afde-49fa-bb60-d80c96488440",
       "apply_url": "https://jobs.ashbyhq.com/aptura/a6a22d35-afde-49fa-bb60-d80c96488440/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "a91b678f-b51c-4a84-b31c-65dcf76df46f",
@@ -488,7 +488,7 @@
       "source_url": "https://jobs.ashbyhq.com/aptura/a91b678f-b51c-4a84-b31c-65dcf76df46f",
       "apply_url": "https://jobs.ashbyhq.com/aptura/a91b678f-b51c-4a84-b31c-65dcf76df46f/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "af88736b-4982-4db1-8634-412b1e42881b",
@@ -506,7 +506,7 @@
       "source_url": "https://jobs.ashbyhq.com/aptura/af88736b-4982-4db1-8634-412b1e42881b",
       "apply_url": "https://jobs.ashbyhq.com/aptura/af88736b-4982-4db1-8634-412b1e42881b/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "b75a9a20-1678-4915-aedc-16c9120039b1",
@@ -524,7 +524,7 @@
       "source_url": "https://jobs.ashbyhq.com/aptura/b75a9a20-1678-4915-aedc-16c9120039b1",
       "apply_url": "https://jobs.ashbyhq.com/aptura/b75a9a20-1678-4915-aedc-16c9120039b1/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "b7848b44-d95c-4588-a496-b2f01d1c760a",
@@ -542,7 +542,7 @@
       "source_url": "https://jobs.ashbyhq.com/aptura/b7848b44-d95c-4588-a496-b2f01d1c760a",
       "apply_url": "https://jobs.ashbyhq.com/aptura/b7848b44-d95c-4588-a496-b2f01d1c760a/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "bdee3ec1-c487-4195-b80b-efc4acf0d87e",
@@ -560,7 +560,7 @@
       "source_url": "https://jobs.ashbyhq.com/aptura/bdee3ec1-c487-4195-b80b-efc4acf0d87e",
       "apply_url": "https://jobs.ashbyhq.com/aptura/bdee3ec1-c487-4195-b80b-efc4acf0d87e/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "c299e1f2-cdb4-4842-b5f3-8aa6e57482e0",
@@ -578,7 +578,7 @@
       "source_url": "https://jobs.ashbyhq.com/aptura/c299e1f2-cdb4-4842-b5f3-8aa6e57482e0",
       "apply_url": "https://jobs.ashbyhq.com/aptura/c299e1f2-cdb4-4842-b5f3-8aa6e57482e0/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "c3f6b6a2-0fe2-4f5c-9fbd-4e800f88f6c0",
@@ -596,7 +596,7 @@
       "source_url": "https://jobs.ashbyhq.com/aptura/c3f6b6a2-0fe2-4f5c-9fbd-4e800f88f6c0",
       "apply_url": "https://jobs.ashbyhq.com/aptura/c3f6b6a2-0fe2-4f5c-9fbd-4e800f88f6c0/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "cd6b6df2-1a75-442e-83b3-2ae03c907f0c",
@@ -614,7 +614,7 @@
       "source_url": "https://jobs.ashbyhq.com/aptura/cd6b6df2-1a75-442e-83b3-2ae03c907f0c",
       "apply_url": "https://jobs.ashbyhq.com/aptura/cd6b6df2-1a75-442e-83b3-2ae03c907f0c/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "e1629145-7052-4939-a2d7-6f70dd4ac0a7",
@@ -632,7 +632,7 @@
       "source_url": "https://jobs.ashbyhq.com/aptura/e1629145-7052-4939-a2d7-6f70dd4ac0a7",
       "apply_url": "https://jobs.ashbyhq.com/aptura/e1629145-7052-4939-a2d7-6f70dd4ac0a7/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "ee0ec146-8cf2-4b90-967b-93c15a7f9127",
@@ -650,7 +650,7 @@
       "source_url": "https://jobs.ashbyhq.com/aptura/ee0ec146-8cf2-4b90-967b-93c15a7f9127",
       "apply_url": "https://jobs.ashbyhq.com/aptura/ee0ec146-8cf2-4b90-967b-93c15a7f9127/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "ef80dbc9-a7d4-40a0-840f-fb2c1231fa79",
@@ -668,7 +668,7 @@
       "source_url": "https://jobs.ashbyhq.com/aptura/ef80dbc9-a7d4-40a0-840f-fb2c1231fa79",
       "apply_url": "https://jobs.ashbyhq.com/aptura/ef80dbc9-a7d4-40a0-840f-fb2c1231fa79/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "f9f0271b-a054-4c62-868f-68463dc4b2d5",
@@ -686,7 +686,7 @@
       "source_url": "https://jobs.ashbyhq.com/aptura/f9f0271b-a054-4c62-868f-68463dc4b2d5",
       "apply_url": "https://jobs.ashbyhq.com/aptura/f9f0271b-a054-4c62-868f-68463dc4b2d5/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     }
   ],
   "ats": "ashby",

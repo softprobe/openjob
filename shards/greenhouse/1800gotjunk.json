@@ -1,8 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-19T15:42:04Z",
+  "checked_at": "2026-11-20T15:23:49Z",
   "failed_at": null,
-  "etag": "W/\"985ac7e2dec0c7dbe1bfe03de2eb2074\"",
+  "etag": "W/\"a1e4c51cfc83b3721b828b06c2afe013\"",
   "jobs": [
     {
       "id": "4453213009",
@@ -20,7 +20,7 @@
       "source_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4453213009",
       "apply_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4453213009",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "4453327009",
@@ -38,25 +38,7 @@
       "source_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4453327009",
       "apply_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4453327009",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
-    },
-    {
-      "id": "4472783009",
-      "title": "Truck Team Member",
-      "company": "1-800-GOT-JUNK?",
-      "location": "Newburgh NY",
-      "remote": "unspecified",
-      "department": "",
-      "employment_type": "FULL_TIME",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-11-12",
-      "updated": "2026-11-12",
-      "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4472783009",
-      "apply_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4472783009",
-      "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "4484052009",
@@ -74,7 +56,7 @@
       "source_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4484052009",
       "apply_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4484052009",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "4485442009",
@@ -92,7 +74,7 @@
       "source_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4485442009",
       "apply_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4485442009",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "4486576009",
@@ -110,169 +92,7 @@
       "source_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4486576009",
       "apply_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4486576009",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
-    },
-    {
-      "id": "4505308009",
-      "title": "Truck Team Member",
-      "company": "1-800-GOT-JUNK?",
-      "location": "Austin, Texas",
-      "remote": "unspecified",
-      "department": "",
-      "employment_type": "FULL_TIME",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-11-12",
-      "updated": "2026-11-12",
-      "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4505308009",
-      "apply_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4505308009",
-      "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
-    },
-    {
-      "id": "4505340009",
-      "title": "Part-time Junk Route Sales Driver",
-      "company": "1-800-GOT-JUNK?",
-      "location": "Syracuse, NY",
-      "remote": "unspecified",
-      "department": "",
-      "employment_type": "FULL_TIME",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-11-12",
-      "updated": "2026-11-12",
-      "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4505340009",
-      "apply_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4505340009",
-      "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
-    },
-    {
-      "id": "4505346009",
-      "title": "Part-time Truck Team Member",
-      "company": "1-800-GOT-JUNK?",
-      "location": "Holbrook,NY",
-      "remote": "unspecified",
-      "department": "",
-      "employment_type": "FULL_TIME",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-11-12",
-      "updated": "2026-11-12",
-      "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4505346009",
-      "apply_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4505346009",
-      "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
-    },
-    {
-      "id": "4505350009",
-      "title": "Operations Manager In-Training",
-      "company": "1-800-GOT-JUNK?",
-      "location": "Durham, CT",
-      "remote": "unspecified",
-      "department": "",
-      "employment_type": "FULL_TIME",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-11-12",
-      "updated": "2026-11-12",
-      "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4505350009",
-      "apply_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4505350009",
-      "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
-    },
-    {
-      "id": "4505358009",
-      "title": "Truck Team Member",
-      "company": "1-800-GOT-JUNK?",
-      "location": "Durham, CT",
-      "remote": "unspecified",
-      "department": "",
-      "employment_type": "FULL_TIME",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-11-12",
-      "updated": "2026-11-12",
-      "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4505358009",
-      "apply_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4505358009",
-      "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
-    },
-    {
-      "id": "4505974009",
-      "title": "Truck Team Member",
-      "company": "1-800-GOT-JUNK?",
-      "location": "Bronx, NY",
-      "remote": "unspecified",
-      "department": "",
-      "employment_type": "FULL_TIME",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-11-12",
-      "updated": "2026-11-12",
-      "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4505974009",
-      "apply_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4505974009",
-      "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
-    },
-    {
-      "id": "4505975009",
-      "title": "Truck Team Member",
-      "company": "1-800-GOT-JUNK?",
-      "location": "Albany, NY",
-      "remote": "unspecified",
-      "department": "",
-      "employment_type": "FULL_TIME",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-11-12",
-      "updated": "2026-11-12",
-      "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4505975009",
-      "apply_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4505975009",
-      "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
-    },
-    {
-      "id": "4505984009",
-      "title": "Field Service Manager in Training",
-      "company": "1-800-GOT-JUNK?",
-      "location": "Albany NY",
-      "remote": "unspecified",
-      "department": "",
-      "employment_type": "FULL_TIME",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-11-12",
-      "updated": "2026-11-12",
-      "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4505984009",
-      "apply_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4505984009",
-      "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
-    },
-    {
-      "id": "4506156009",
-      "title": "Junk Removal and Laborer",
-      "company": "1-800-GOT-JUNK?",
-      "location": "North Billerica, MA",
-      "remote": "unspecified",
-      "department": "",
-      "employment_type": "FULL_TIME",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-11-12",
-      "updated": "2026-11-12",
-      "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4506156009",
-      "apply_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4506156009",
-      "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "4506157009",
@@ -290,7 +110,7 @@
       "source_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4506157009",
       "apply_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4506157009",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "4506160009",
@@ -308,25 +128,7 @@
       "source_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4506160009",
       "apply_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4506160009",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
-    },
-    {
-      "id": "4506474009",
-      "title": "Junk Removal Labor & Sales",
-      "company": "1-800-GOT-JUNK?",
-      "location": "Jacksonville, FL",
-      "remote": "unspecified",
-      "department": "",
-      "employment_type": "FULL_TIME",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-11-13",
-      "updated": "2026-11-18",
-      "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4506474009",
-      "apply_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4506474009",
-      "first_seen": "2026-11-18T15:36:26Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "4506555009",
@@ -344,7 +146,7 @@
       "source_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4506555009",
       "apply_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4506555009",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "4506558009",
@@ -362,7 +164,7 @@
       "source_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4506558009",
       "apply_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4506558009",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "4506698009",
@@ -380,7 +182,7 @@
       "source_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4506698009",
       "apply_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4506698009",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "4507609009",
@@ -398,7 +200,7 @@
       "source_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4507609009",
       "apply_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4507609009",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "4508512009",
@@ -416,7 +218,7 @@
       "source_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4508512009",
       "apply_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4508512009",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "4508522009",
@@ -434,7 +236,7 @@
       "source_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4508522009",
       "apply_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4508522009",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "4508523009",
@@ -452,7 +254,7 @@
       "source_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4508523009",
       "apply_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4508523009",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "4508526009",
@@ -470,7 +272,7 @@
       "source_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4508526009",
       "apply_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4508526009",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "4508528009",
@@ -488,7 +290,7 @@
       "source_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4508528009",
       "apply_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4508528009",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "4508539009",
@@ -506,7 +308,7 @@
       "source_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4508539009",
       "apply_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4508539009",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "4508541009",
@@ -524,7 +326,7 @@
       "source_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4508541009",
       "apply_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4508541009",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "4510452009",
@@ -542,7 +344,7 @@
       "source_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4510452009",
       "apply_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4510452009",
       "first_seen": "2026-11-17T15:56:57Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "4514432009",
@@ -560,7 +362,7 @@
       "source_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4514432009",
       "apply_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4514432009",
       "first_seen": "2026-11-19T15:42:04Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "4514434009",
@@ -578,7 +380,7 @@
       "source_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4514434009",
       "apply_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4514434009",
       "first_seen": "2026-11-19T15:42:04Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "4514441009",
@@ -596,7 +398,7 @@
       "source_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4514441009",
       "apply_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4514441009",
       "first_seen": "2026-11-19T15:42:04Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "4514447009",
@@ -614,7 +416,7 @@
       "source_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4514447009",
       "apply_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4514447009",
       "first_seen": "2026-11-19T15:42:04Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "4514450009",
@@ -632,7 +434,7 @@
       "source_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4514450009",
       "apply_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4514450009",
       "first_seen": "2026-11-19T15:42:04Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "4514453009",
@@ -650,7 +452,7 @@
       "source_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4514453009",
       "apply_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4514453009",
       "first_seen": "2026-11-19T15:42:04Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "4514455009",
@@ -668,7 +470,7 @@
       "source_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4514455009",
       "apply_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4514455009",
       "first_seen": "2026-11-19T15:42:04Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "4514461009",
@@ -686,7 +488,7 @@
       "source_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4514461009",
       "apply_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4514461009",
       "first_seen": "2026-11-19T15:42:04Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "4514463009",
@@ -704,7 +506,7 @@
       "source_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4514463009",
       "apply_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4514463009",
       "first_seen": "2026-11-19T15:42:04Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "4514470009",
@@ -722,7 +524,313 @@
       "source_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4514470009",
       "apply_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4514470009",
       "first_seen": "2026-11-19T15:42:04Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
+    },
+    {
+      "id": "4514834009",
+      "title": "Truck Team Member",
+      "company": "1-800-GOT-JUNK?",
+      "location": "Albany, NY",
+      "remote": "unspecified",
+      "department": "",
+      "employment_type": "FULL_TIME",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-19",
+      "updated": "2026-11-19",
+      "deadline": "",
+      "source_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4514834009",
+      "apply_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4514834009",
+      "first_seen": "2026-11-20T15:23:49Z",
+      "last_checked": "2026-11-20T15:23:49Z"
+    },
+    {
+      "id": "4514840009",
+      "title": "Truck Team Member",
+      "company": "1-800-GOT-JUNK?",
+      "location": "Newburgh NY",
+      "remote": "unspecified",
+      "department": "",
+      "employment_type": "FULL_TIME",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-19",
+      "updated": "2026-11-19",
+      "deadline": "",
+      "source_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4514840009",
+      "apply_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4514840009",
+      "first_seen": "2026-11-20T15:23:49Z",
+      "last_checked": "2026-11-20T15:23:49Z"
+    },
+    {
+      "id": "4514843009",
+      "title": "Field Operations Manager In Training",
+      "company": "1-800-GOT-JUNK?",
+      "location": "Albany NY",
+      "remote": "unspecified",
+      "department": "",
+      "employment_type": "FULL_TIME",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-19",
+      "updated": "2026-11-19",
+      "deadline": "",
+      "source_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4514843009",
+      "apply_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4514843009",
+      "first_seen": "2026-11-20T15:23:49Z",
+      "last_checked": "2026-11-20T15:23:49Z"
+    },
+    {
+      "id": "4514850009",
+      "title": "Truck Team Member",
+      "company": "1-800-GOT-JUNK?",
+      "location": "Austin, Texas",
+      "remote": "unspecified",
+      "department": "",
+      "employment_type": "FULL_TIME",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-19",
+      "updated": "2026-11-19",
+      "deadline": "",
+      "source_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4514850009",
+      "apply_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4514850009",
+      "first_seen": "2026-11-20T15:23:49Z",
+      "last_checked": "2026-11-20T15:23:49Z"
+    },
+    {
+      "id": "4514852009",
+      "title": "Truck Team Member",
+      "company": "1-800-GOT-JUNK?",
+      "location": "Durham, CT",
+      "remote": "unspecified",
+      "department": "",
+      "employment_type": "FULL_TIME",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-19",
+      "updated": "2026-11-19",
+      "deadline": "",
+      "source_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4514852009",
+      "apply_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4514852009",
+      "first_seen": "2026-11-20T15:23:49Z",
+      "last_checked": "2026-11-20T15:23:49Z"
+    },
+    {
+      "id": "4514857009",
+      "title": "Operations Manager In-Training",
+      "company": "1-800-GOT-JUNK?",
+      "location": "Durham, CT",
+      "remote": "unspecified",
+      "department": "",
+      "employment_type": "FULL_TIME",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-19",
+      "updated": "2026-11-19",
+      "deadline": "",
+      "source_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4514857009",
+      "apply_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4514857009",
+      "first_seen": "2026-11-20T15:23:49Z",
+      "last_checked": "2026-11-20T15:23:49Z"
+    },
+    {
+      "id": "4514860009",
+      "title": "Part-time Truck Team Member",
+      "company": "1-800-GOT-JUNK?",
+      "location": "Holbrook,NY",
+      "remote": "unspecified",
+      "department": "",
+      "employment_type": "FULL_TIME",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-19",
+      "updated": "2026-11-19",
+      "deadline": "",
+      "source_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4514860009",
+      "apply_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4514860009",
+      "first_seen": "2026-11-20T15:23:49Z",
+      "last_checked": "2026-11-20T15:23:49Z"
+    },
+    {
+      "id": "4514870009",
+      "title": "Part-time Junk Route Sales Driver",
+      "company": "1-800-GOT-JUNK?",
+      "location": "Syracuse, NY",
+      "remote": "unspecified",
+      "department": "",
+      "employment_type": "FULL_TIME",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-19",
+      "updated": "2026-11-19",
+      "deadline": "",
+      "source_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4514870009",
+      "apply_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4514870009",
+      "first_seen": "2026-11-20T15:23:49Z",
+      "last_checked": "2026-11-20T15:23:49Z"
+    },
+    {
+      "id": "4514931009",
+      "title": "Truck Team Member",
+      "company": "1-800-GOT-JUNK?",
+      "location": "Bronx, NY",
+      "remote": "unspecified",
+      "department": "",
+      "employment_type": "FULL_TIME",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-19",
+      "updated": "2026-11-19",
+      "deadline": "",
+      "source_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4514931009",
+      "apply_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4514931009",
+      "first_seen": "2026-11-20T15:23:49Z",
+      "last_checked": "2026-11-20T15:23:49Z"
+    },
+    {
+      "id": "4515004009",
+      "title": "Junk Removal and Laborer",
+      "company": "1-800-GOT-JUNK?",
+      "location": "North Billerica, MA",
+      "remote": "unspecified",
+      "department": "",
+      "employment_type": "FULL_TIME",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-19",
+      "updated": "2026-11-19",
+      "deadline": "",
+      "source_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4515004009",
+      "apply_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4515004009",
+      "first_seen": "2026-11-20T15:23:49Z",
+      "last_checked": "2026-11-20T15:23:49Z"
+    },
+    {
+      "id": "4515413009",
+      "title": "Junk Removal Laborer and Driver",
+      "company": "1-800-GOT-JUNK?",
+      "location": "Ashland, VA",
+      "remote": "unspecified",
+      "department": "",
+      "employment_type": "FULL_TIME",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-19",
+      "updated": "2026-11-19",
+      "deadline": "",
+      "source_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4515413009",
+      "apply_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4515413009",
+      "first_seen": "2026-11-20T15:23:49Z",
+      "last_checked": "2026-11-20T15:23:49Z"
+    },
+    {
+      "id": "4515428009",
+      "title": "Junk Removal Service & Sales",
+      "company": "1-800-GOT-JUNK?",
+      "location": "Vinings, GA",
+      "remote": "unspecified",
+      "department": "",
+      "employment_type": "FULL_TIME",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-19",
+      "updated": "2026-11-19",
+      "deadline": "",
+      "source_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4515428009",
+      "apply_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4515428009",
+      "first_seen": "2026-11-20T15:23:49Z",
+      "last_checked": "2026-11-20T15:23:49Z"
+    },
+    {
+      "id": "4515435009",
+      "title": "Junk Removal & Field Sales",
+      "company": "1-800-GOT-JUNK?",
+      "location": "Jacksonville, FL",
+      "remote": "unspecified",
+      "department": "",
+      "employment_type": "FULL_TIME",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-19",
+      "updated": "2026-11-19",
+      "deadline": "",
+      "source_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4515435009",
+      "apply_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4515435009",
+      "first_seen": "2026-11-20T15:23:49Z",
+      "last_checked": "2026-11-20T15:23:49Z"
+    },
+    {
+      "id": "4515453009",
+      "title": "Junk Removal & On-Site Sales",
+      "company": "1-800-GOT-JUNK?",
+      "location": "Riviera Beach, FL",
+      "remote": "unspecified",
+      "department": "",
+      "employment_type": "FULL_TIME",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-19",
+      "updated": "2026-11-19",
+      "deadline": "",
+      "source_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4515453009",
+      "apply_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4515453009",
+      "first_seen": "2026-11-20T15:23:49Z",
+      "last_checked": "2026-11-20T15:23:49Z"
+    },
+    {
+      "id": "4515467009",
+      "title": "Junk Removal & Route Driver",
+      "company": "1-800-GOT-JUNK?",
+      "location": "Clearwater, FL",
+      "remote": "unspecified",
+      "department": "",
+      "employment_type": "FULL_TIME",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-19",
+      "updated": "2026-11-19",
+      "deadline": "",
+      "source_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4515467009",
+      "apply_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4515467009",
+      "first_seen": "2026-11-20T15:23:49Z",
+      "last_checked": "2026-11-20T15:23:49Z"
+    },
+    {
+      "id": "4515505009",
+      "title": "Junk Removal & Route Driver",
+      "company": "1-800-GOT-JUNK?",
+      "location": "Pensacola, FL",
+      "remote": "unspecified",
+      "department": "",
+      "employment_type": "FULL_TIME",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-19",
+      "updated": "2026-11-19",
+      "deadline": "",
+      "source_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4515505009",
+      "apply_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4515505009",
+      "first_seen": "2026-11-20T15:23:49Z",
+      "last_checked": "2026-11-20T15:23:49Z"
+    },
+    {
+      "id": "4515510009",
+      "title": "Junk Removal & Field Sales",
+      "company": "1-800-GOT-JUNK?",
+      "location": "Fort Myers, FL",
+      "remote": "unspecified",
+      "department": "",
+      "employment_type": "FULL_TIME",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-19",
+      "updated": "2026-11-19",
+      "deadline": "",
+      "source_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4515510009",
+      "apply_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4515510009",
+      "first_seen": "2026-11-20T15:23:49Z",
+      "last_checked": "2026-11-20T15:23:49Z"
     }
   ],
   "ats": "greenhouse",

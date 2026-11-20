@@ -1,8 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-19T15:42:04Z",
+  "checked_at": "2026-11-20T15:23:49Z",
   "failed_at": null,
-  "etag": "W/\"b91b5a1a4660074159fda8521bcc128b\"",
+  "etag": "W/\"9dc703e59319b23c13e165c794b669c8\"",
   "jobs": [
     {
       "id": "5200002007",
@@ -20,25 +20,7 @@
       "source_url": "https://job-boards.greenhouse.io/baton/jobs/5200002007",
       "apply_url": "https://job-boards.greenhouse.io/baton/jobs/5200002007",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
-    },
-    {
-      "id": "5215515007",
-      "title": "Senior Product Manager, Machine Learning",
-      "company": "Baton (A Ryder Technology Lab)",
-      "location": "San Francisco, California, United States",
-      "remote": "unspecified",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-08-24",
-      "updated": "2026-08-24",
-      "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/baton/jobs/5215515007",
-      "apply_url": "https://job-boards.greenhouse.io/baton/jobs/5215515007",
-      "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "5255959007",
@@ -56,7 +38,7 @@
       "source_url": "https://job-boards.greenhouse.io/baton/jobs/5255959007",
       "apply_url": "https://job-boards.greenhouse.io/baton/jobs/5255959007",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     }
   ],
   "ats": "greenhouse",

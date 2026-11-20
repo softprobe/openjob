@@ -1,8 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-19T15:42:04Z",
+  "checked_at": "2026-11-20T15:23:49Z",
   "failed_at": null,
-  "etag": "W/\"258c43107ab1e331765303f88daadb4e\"",
+  "etag": "W/\"6927167fa97618f440149871dab7d4bd\"",
   "jobs": [
     {
       "id": "4749356008",
@@ -20,7 +20,7 @@
       "source_url": "https://job-boards.greenhouse.io/massarcapital/jobs/4749356008",
       "apply_url": "https://job-boards.greenhouse.io/massarcapital/jobs/4749356008",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "4785522008",
@@ -38,7 +38,7 @@
       "source_url": "https://job-boards.greenhouse.io/massarcapital/jobs/4785522008",
       "apply_url": "https://job-boards.greenhouse.io/massarcapital/jobs/4785522008",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "4935227008",
@@ -56,7 +56,7 @@
       "source_url": "https://job-boards.greenhouse.io/massarcapital/jobs/4935227008",
       "apply_url": "https://job-boards.greenhouse.io/massarcapital/jobs/4935227008",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "5024481008",
@@ -74,7 +74,7 @@
       "source_url": "https://job-boards.greenhouse.io/massarcapital/jobs/5024481008",
       "apply_url": "https://job-boards.greenhouse.io/massarcapital/jobs/5024481008",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "5099359008",
@@ -92,11 +92,11 @@
       "source_url": "https://job-boards.greenhouse.io/massarcapital/jobs/5099359008",
       "apply_url": "https://job-boards.greenhouse.io/massarcapital/jobs/5099359008",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
-      "id": "5102978008",
-      "title": "Metals Analyst",
+      "id": "5490553008",
+      "title": "Senior Data Engineer (Vienna on-site)",
       "company": "Massar Capital",
       "location": "Vienna, Austria",
       "remote": "unspecified",
@@ -104,13 +104,13 @@
       "employment_type": "",
       "salary_text": "",
       "salary_source": "",
-      "posted": "2026-01-30",
-      "updated": "2026-02-12",
+      "posted": "2026-11-20",
+      "updated": "2026-11-20",
       "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/massarcapital/jobs/5102978008",
-      "apply_url": "https://job-boards.greenhouse.io/massarcapital/jobs/5102978008",
-      "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "source_url": "https://job-boards.greenhouse.io/massarcapital/jobs/5490553008",
+      "apply_url": "https://job-boards.greenhouse.io/massarcapital/jobs/5490553008",
+      "first_seen": "2026-11-20T15:23:49Z",
+      "last_checked": "2026-11-20T15:23:49Z"
     }
   ],
   "ats": "greenhouse",

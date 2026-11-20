@@ -1,8 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-19T15:42:04Z",
+  "checked_at": "2026-11-20T15:23:49Z",
   "failed_at": null,
-  "etag": "W/\"cd301fc1e571136138ae249e2c74ee1c\"",
+  "etag": "W/\"cdfa6492bc7d75cf37cb8d59c5c6d6da\"",
   "jobs": [
     {
       "id": "6372770",
@@ -20,7 +20,7 @@
       "source_url": "https://job-boards.greenhouse.io/twilio/jobs/6372770",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/6372770",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "7781659",
@@ -33,12 +33,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-06-30",
-      "updated": "2026-11-18",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/twilio/jobs/7781659",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/7781659",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "7782805",
@@ -56,7 +56,7 @@
       "source_url": "https://job-boards.greenhouse.io/twilio/jobs/7782805",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/7782805",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "7865849",
@@ -69,12 +69,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-04-29",
-      "updated": "2026-11-18",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/twilio/jobs/7865849",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/7865849",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "7966928",
@@ -92,7 +92,7 @@
       "source_url": "https://job-boards.greenhouse.io/twilio/jobs/7966928",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/7966928",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8001804",
@@ -110,7 +110,7 @@
       "source_url": "https://job-boards.greenhouse.io/twilio/jobs/8001804",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8001804",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8028473",
@@ -123,12 +123,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-05",
-      "updated": "2026-11-18",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/twilio/jobs/8028473",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8028473",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8028958",
@@ -141,12 +141,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-07-06",
-      "updated": "2026-11-17",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/twilio/jobs/8028958",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8028958",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8044650",
@@ -164,7 +164,7 @@
       "source_url": "https://job-boards.greenhouse.io/twilio/jobs/8044650",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8044650",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8055481",
@@ -177,12 +177,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-07-10",
-      "updated": "2026-11-18",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/twilio/jobs/8055481",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8055481",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8064090",
@@ -195,12 +195,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-07-20",
-      "updated": "2026-11-18",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/twilio/jobs/8064090",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8064090",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8067027",
@@ -213,12 +213,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-05",
-      "updated": "2026-11-18",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/twilio/jobs/8067027",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8067027",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8076981",
@@ -231,12 +231,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-30",
-      "updated": "2026-11-17",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/twilio/jobs/8076981",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8076981",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8093320",
@@ -254,25 +254,7 @@
       "source_url": "https://job-boards.greenhouse.io/twilio/jobs/8093320",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8093320",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-19T15:42:04Z"
-    },
-    {
-      "id": "8097524",
-      "title": "Fast Track Operations Specialist 2",
-      "company": "Twilio",
-      "location": "Remote - Colombia",
-      "remote": "remote",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-09-22",
-      "updated": "2026-11-17",
-      "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/twilio/jobs/8097524",
-      "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8097524",
-      "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8108771",
@@ -285,12 +267,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-05",
-      "updated": "2026-11-18",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/twilio/jobs/8108771",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8108771",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8112239",
@@ -303,12 +285,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-18",
-      "updated": "2026-11-18",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/twilio/jobs/8112239",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8112239",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8114393",
@@ -321,12 +303,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-28",
-      "updated": "2026-11-18",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/twilio/jobs/8114393",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8114393",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8125581",
@@ -339,12 +321,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-13",
-      "updated": "2026-11-18",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/twilio/jobs/8125581",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8125581",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8131089",
@@ -357,12 +339,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-16",
-      "updated": "2026-11-18",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/twilio/jobs/8131089",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8131089",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8143768",
@@ -375,12 +357,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-24",
-      "updated": "2026-11-18",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/twilio/jobs/8143768",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8143768",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8145984",
@@ -393,12 +375,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-24",
-      "updated": "2026-11-17",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/twilio/jobs/8145984",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8145984",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8157507",
@@ -411,12 +393,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-27",
-      "updated": "2026-11-18",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/twilio/jobs/8157507",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8157507",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8157509",
@@ -429,12 +411,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-28",
-      "updated": "2026-11-18",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/twilio/jobs/8157509",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8157509",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8160532",
@@ -447,12 +429,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-02",
-      "updated": "2026-11-18",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/twilio/jobs/8160532",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8160532",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8168599",
@@ -465,12 +447,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-05",
-      "updated": "2026-11-18",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/twilio/jobs/8168599",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8168599",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8175075",
@@ -488,7 +470,7 @@
       "source_url": "https://job-boards.greenhouse.io/twilio/jobs/8175075",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8175075",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8178812",
@@ -501,12 +483,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-08",
-      "updated": "2026-11-18",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/twilio/jobs/8178812",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8178812",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8185629",
@@ -524,7 +506,7 @@
       "source_url": "https://job-boards.greenhouse.io/twilio/jobs/8185629",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8185629",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8195222",
@@ -542,7 +524,7 @@
       "source_url": "https://job-boards.greenhouse.io/twilio/jobs/8195222",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8195222",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8201498",
@@ -555,30 +537,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-30",
-      "updated": "2026-11-17",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/twilio/jobs/8201498",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8201498",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-19T15:42:04Z"
-    },
-    {
-      "id": "8204407",
-      "title": "Technical Support Engineer",
-      "company": "Twilio",
-      "location": "Remote - Ireland",
-      "remote": "remote",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-09-22",
-      "updated": "2026-11-18",
-      "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/twilio/jobs/8204407",
-      "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8204407",
-      "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8205254",
@@ -596,7 +560,7 @@
       "source_url": "https://job-boards.greenhouse.io/twilio/jobs/8205254",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8205254",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8208337",
@@ -614,7 +578,7 @@
       "source_url": "https://job-boards.greenhouse.io/twilio/jobs/8208337",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8208337",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8213730",
@@ -627,12 +591,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-23",
-      "updated": "2026-11-18",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/twilio/jobs/8213730",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8213730",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8213826",
@@ -650,7 +614,7 @@
       "source_url": "https://job-boards.greenhouse.io/twilio/jobs/8213826",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8213826",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8236862",
@@ -668,7 +632,7 @@
       "source_url": "https://job-boards.greenhouse.io/twilio/jobs/8236862",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8236862",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8237699",
@@ -686,7 +650,7 @@
       "source_url": "https://job-boards.greenhouse.io/twilio/jobs/8237699",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8237699",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8240288",
@@ -699,12 +663,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-29",
-      "updated": "2026-11-18",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/twilio/jobs/8240288",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8240288",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8240487",
@@ -717,12 +681,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-28",
-      "updated": "2026-11-17",
+      "updated": "2026-11-19",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/twilio/jobs/8240487",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8240487",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8240694",
@@ -740,7 +704,7 @@
       "source_url": "https://job-boards.greenhouse.io/twilio/jobs/8240694",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8240694",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8243069",
@@ -758,7 +722,7 @@
       "source_url": "https://job-boards.greenhouse.io/twilio/jobs/8243069",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8243069",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8243073",
@@ -771,12 +735,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-02",
-      "updated": "2026-11-18",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/twilio/jobs/8243073",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8243073",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8247185",
@@ -794,7 +758,7 @@
       "source_url": "https://job-boards.greenhouse.io/twilio/jobs/8247185",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8247185",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8249285",
@@ -807,12 +771,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-02",
-      "updated": "2026-11-18",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/twilio/jobs/8249285",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8249285",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8249615",
@@ -830,7 +794,7 @@
       "source_url": "https://job-boards.greenhouse.io/twilio/jobs/8249615",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8249615",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8256114",
@@ -848,7 +812,7 @@
       "source_url": "https://job-boards.greenhouse.io/twilio/jobs/8256114",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8256114",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8256373",
@@ -861,12 +825,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-08",
-      "updated": "2026-11-18",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/twilio/jobs/8256373",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8256373",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8256427",
@@ -884,7 +848,7 @@
       "source_url": "https://job-boards.greenhouse.io/twilio/jobs/8256427",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8256427",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8256912",
@@ -897,12 +861,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-09",
-      "updated": "2026-11-18",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/twilio/jobs/8256912",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8256912",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8258581",
@@ -915,12 +879,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-26",
-      "updated": "2026-11-18",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/twilio/jobs/8258581",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8258581",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8258587",
@@ -933,12 +897,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-08",
-      "updated": "2026-11-18",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/twilio/jobs/8258587",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8258587",
       "first_seen": "2026-11-18T15:36:26Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8258589",
@@ -951,12 +915,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-23",
-      "updated": "2026-11-18",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/twilio/jobs/8258589",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8258589",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8258593",
@@ -969,12 +933,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-08",
-      "updated": "2026-11-18",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/twilio/jobs/8258593",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8258593",
       "first_seen": "2026-11-18T15:36:26Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8258597",
@@ -992,7 +956,7 @@
       "source_url": "https://job-boards.greenhouse.io/twilio/jobs/8258597",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8258597",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8261245",
@@ -1005,12 +969,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-07",
-      "updated": "2026-11-17",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/twilio/jobs/8261245",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8261245",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8261247",
@@ -1028,7 +992,7 @@
       "source_url": "https://job-boards.greenhouse.io/twilio/jobs/8261247",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8261247",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8261705",
@@ -1046,7 +1010,7 @@
       "source_url": "https://job-boards.greenhouse.io/twilio/jobs/8261705",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8261705",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8263280",
@@ -1059,12 +1023,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-07",
-      "updated": "2026-11-18",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/twilio/jobs/8263280",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8263280",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8265268",
@@ -1077,12 +1041,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-19",
-      "updated": "2026-11-19",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/twilio/jobs/8265268",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8265268",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8266975",
@@ -1095,12 +1059,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-09",
-      "updated": "2026-11-18",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/twilio/jobs/8266975",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8266975",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8267928",
@@ -1113,12 +1077,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-09",
-      "updated": "2026-11-18",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/twilio/jobs/8267928",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8267928",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8280711",
@@ -1131,12 +1095,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-22",
-      "updated": "2026-11-17",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/twilio/jobs/8280711",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8280711",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8281950",
@@ -1149,12 +1113,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-15",
-      "updated": "2026-11-17",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/twilio/jobs/8281950",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8281950",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8292798",
@@ -1172,7 +1136,7 @@
       "source_url": "https://job-boards.greenhouse.io/twilio/jobs/8292798",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8292798",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8300856",
@@ -1185,30 +1149,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-21",
-      "updated": "2026-11-17",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/twilio/jobs/8300856",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8300856",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-19T15:42:04Z"
-    },
-    {
-      "id": "8303973",
-      "title": "Legal Services Manager",
-      "company": "Twilio",
-      "location": "Remote - United Kingdom",
-      "remote": "remote",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-10-21",
-      "updated": "2026-11-18",
-      "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/twilio/jobs/8303973",
-      "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8303973",
-      "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8304419",
@@ -1226,7 +1172,7 @@
       "source_url": "https://job-boards.greenhouse.io/twilio/jobs/8304419",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8304419",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8306459",
@@ -1239,12 +1185,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-22",
-      "updated": "2026-11-18",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/twilio/jobs/8306459",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8306459",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8306461",
@@ -1257,12 +1203,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-22",
-      "updated": "2026-11-18",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/twilio/jobs/8306461",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8306461",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8310632",
@@ -1280,25 +1226,7 @@
       "source_url": "https://job-boards.greenhouse.io/twilio/jobs/8310632",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8310632",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-19T15:42:04Z"
-    },
-    {
-      "id": "8312421",
-      "title": "Compliance Operations Specialist",
-      "company": "Twilio",
-      "location": "Remote - Colombia",
-      "remote": "remote",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-11-03",
-      "updated": "2026-11-17",
-      "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/twilio/jobs/8312421",
-      "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8312421",
-      "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8316035",
@@ -1316,7 +1244,7 @@
       "source_url": "https://job-boards.greenhouse.io/twilio/jobs/8316035",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8316035",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8319160",
@@ -1334,7 +1262,7 @@
       "source_url": "https://job-boards.greenhouse.io/twilio/jobs/8319160",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8319160",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8319388",
@@ -1352,7 +1280,7 @@
       "source_url": "https://job-boards.greenhouse.io/twilio/jobs/8319388",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8319388",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8319434",
@@ -1365,30 +1293,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-02",
-      "updated": "2026-11-18",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/twilio/jobs/8319434",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8319434",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-19T15:42:04Z"
-    },
-    {
-      "id": "8324443",
-      "title": "Payroll Analyst II (Colombia and LATAM Payroll)",
-      "company": "Twilio",
-      "location": "Remote - Mexico",
-      "remote": "remote",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-10-28",
-      "updated": "2026-11-17",
-      "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/twilio/jobs/8324443",
-      "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8324443",
-      "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8324446",
@@ -1401,12 +1311,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-28",
-      "updated": "2026-11-17",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/twilio/jobs/8324446",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8324446",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8327434",
@@ -1424,7 +1334,7 @@
       "source_url": "https://job-boards.greenhouse.io/twilio/jobs/8327434",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8327434",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8327527",
@@ -1442,7 +1352,7 @@
       "source_url": "https://job-boards.greenhouse.io/twilio/jobs/8327527",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8327527",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8327839",
@@ -1455,12 +1365,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-30",
-      "updated": "2026-11-18",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/twilio/jobs/8327839",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8327839",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8330326",
@@ -1473,12 +1383,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-28",
-      "updated": "2026-11-18",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/twilio/jobs/8330326",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8330326",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8334053",
@@ -1491,12 +1401,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-05",
-      "updated": "2026-11-18",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/twilio/jobs/8334053",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8334053",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8346263",
@@ -1509,12 +1419,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-05",
-      "updated": "2026-11-18",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/twilio/jobs/8346263",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8346263",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8347887",
@@ -1532,7 +1442,7 @@
       "source_url": "https://job-boards.greenhouse.io/twilio/jobs/8347887",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8347887",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8350197",
@@ -1550,7 +1460,7 @@
       "source_url": "https://job-boards.greenhouse.io/twilio/jobs/8350197",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8350197",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8350289",
@@ -1563,12 +1473,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-05",
-      "updated": "2026-11-18",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/twilio/jobs/8350289",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8350289",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8355801",
@@ -1581,12 +1491,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-06",
-      "updated": "2026-11-18",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/twilio/jobs/8355801",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8355801",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8356811",
@@ -1604,7 +1514,7 @@
       "source_url": "https://job-boards.greenhouse.io/twilio/jobs/8356811",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8356811",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8358938",
@@ -1617,12 +1527,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-17",
-      "updated": "2026-11-18",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/twilio/jobs/8358938",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8358938",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8362926",
@@ -1640,7 +1550,7 @@
       "source_url": "https://job-boards.greenhouse.io/twilio/jobs/8362926",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8362926",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8366792",
@@ -1653,12 +1563,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-12",
-      "updated": "2026-11-17",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/twilio/jobs/8366792",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8366792",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8373065",
@@ -1676,7 +1586,25 @@
       "source_url": "https://job-boards.greenhouse.io/twilio/jobs/8373065",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8373065",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
+    },
+    {
+      "id": "8379039",
+      "title": "Technical Account Manager",
+      "company": "Twilio",
+      "location": "Remote - Colombia",
+      "remote": "remote",
+      "department": "",
+      "employment_type": "",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-19",
+      "updated": "2026-11-20",
+      "deadline": "",
+      "source_url": "https://job-boards.greenhouse.io/twilio/jobs/8379039",
+      "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8379039",
+      "first_seen": "2026-11-20T15:23:49Z",
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8382226",
@@ -1694,7 +1622,7 @@
       "source_url": "https://job-boards.greenhouse.io/twilio/jobs/8382226",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8382226",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8383015",
@@ -1707,12 +1635,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-12",
-      "updated": "2026-11-18",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/twilio/jobs/8383015",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8383015",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8383479",
@@ -1730,7 +1658,25 @@
       "source_url": "https://job-boards.greenhouse.io/twilio/jobs/8383479",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8383479",
       "first_seen": "2026-11-18T15:36:26Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
+    },
+    {
+      "id": "8384556",
+      "title": "Staff Technical Account Manager",
+      "company": "Twilio",
+      "location": "Remote - US",
+      "remote": "remote",
+      "department": "",
+      "employment_type": "",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-19",
+      "updated": "2026-11-19",
+      "deadline": "",
+      "source_url": "https://job-boards.greenhouse.io/twilio/jobs/8384556",
+      "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8384556",
+      "first_seen": "2026-11-20T15:23:49Z",
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8385420",
@@ -1743,12 +1689,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-17",
-      "updated": "2026-11-18",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/twilio/jobs/8385420",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8385420",
       "first_seen": "2026-11-18T15:36:26Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8385422",
@@ -1766,7 +1712,7 @@
       "source_url": "https://job-boards.greenhouse.io/twilio/jobs/8385422",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8385422",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8385593",
@@ -1779,12 +1725,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-18",
-      "updated": "2026-11-18",
+      "updated": "2026-11-19",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/twilio/jobs/8385593",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8385593",
       "first_seen": "2026-11-18T15:36:26Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8385881",
@@ -1797,12 +1743,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-17",
-      "updated": "2026-11-18",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/twilio/jobs/8385881",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8385881",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8386024",
@@ -1820,7 +1766,7 @@
       "source_url": "https://job-boards.greenhouse.io/twilio/jobs/8386024",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8386024",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8386095",
@@ -1838,7 +1784,7 @@
       "source_url": "https://job-boards.greenhouse.io/twilio/jobs/8386095",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8386095",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8393928",
@@ -1856,7 +1802,7 @@
       "source_url": "https://job-boards.greenhouse.io/twilio/jobs/8393928",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8393928",
       "first_seen": "2026-11-18T15:36:26Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8393931",
@@ -1874,7 +1820,7 @@
       "source_url": "https://job-boards.greenhouse.io/twilio/jobs/8393931",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8393931",
       "first_seen": "2026-11-18T15:36:26Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8393935",
@@ -1887,12 +1833,48 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-16",
-      "updated": "2026-11-18",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/twilio/jobs/8393935",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8393935",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
+    },
+    {
+      "id": "8394774",
+      "title": "New Business Account Executive (French speaker)",
+      "company": "Twilio",
+      "location": "Remote - United Kingdom",
+      "remote": "remote",
+      "department": "",
+      "employment_type": "",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-19",
+      "updated": "2026-11-20",
+      "deadline": "",
+      "source_url": "https://job-boards.greenhouse.io/twilio/jobs/8394774",
+      "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8394774",
+      "first_seen": "2026-11-20T15:23:49Z",
+      "last_checked": "2026-11-20T15:23:49Z"
+    },
+    {
+      "id": "8394776",
+      "title": "New Business Account Executive (Hebrew speaker)",
+      "company": "Twilio",
+      "location": "Remote - United Kingdom",
+      "remote": "remote",
+      "department": "",
+      "employment_type": "",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-20",
+      "updated": "2026-11-20",
+      "deadline": "",
+      "source_url": "https://job-boards.greenhouse.io/twilio/jobs/8394776",
+      "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8394776",
+      "first_seen": "2026-11-20T15:23:49Z",
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8396809",
@@ -1910,7 +1892,7 @@
       "source_url": "https://job-boards.greenhouse.io/twilio/jobs/8396809",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8396809",
       "first_seen": "2026-11-18T15:36:26Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8399190",
@@ -1928,7 +1910,7 @@
       "source_url": "https://job-boards.greenhouse.io/twilio/jobs/8399190",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8399190",
       "first_seen": "2026-11-19T15:42:04Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     }
   ],
   "ats": "greenhouse",

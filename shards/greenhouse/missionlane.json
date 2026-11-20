@@ -1,8 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-19T15:42:04Z",
+  "checked_at": "2026-11-20T15:23:49Z",
   "failed_at": null,
-  "etag": "W/\"712103d4c2d13385f8bbdfbd0a475ca7\"",
+  "etag": "W/\"1cec3414ce140b15b59d91de074aef9b\"",
   "jobs": [
     {
       "id": "8089484002",
@@ -20,7 +20,7 @@
       "source_url": "https://job-boards.greenhouse.io/missionlane/jobs/8089484002",
       "apply_url": "https://job-boards.greenhouse.io/missionlane/jobs/8089484002",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8642294002",
@@ -38,25 +38,7 @@
       "source_url": "https://job-boards.greenhouse.io/missionlane/jobs/8642294002",
       "apply_url": "https://job-boards.greenhouse.io/missionlane/jobs/8642294002",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
-    },
-    {
-      "id": "8680126002",
-      "title": "Senior Treasury Analyst",
-      "company": "Mission Lane",
-      "location": "Remote, United States",
-      "remote": "remote",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-08-05",
-      "updated": "2026-11-16",
-      "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/missionlane/jobs/8680126002",
-      "apply_url": "https://job-boards.greenhouse.io/missionlane/jobs/8680126002",
-      "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8691107002",
@@ -74,7 +56,7 @@
       "source_url": "https://job-boards.greenhouse.io/missionlane/jobs/8691107002",
       "apply_url": "https://job-boards.greenhouse.io/missionlane/jobs/8691107002",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8860735002",
@@ -92,25 +74,7 @@
       "source_url": "https://job-boards.greenhouse.io/missionlane/jobs/8860735002",
       "apply_url": "https://job-boards.greenhouse.io/missionlane/jobs/8860735002",
       "first_seen": "2026-11-19T15:42:04Z",
-      "last_checked": "2026-11-19T15:42:04Z"
-    },
-    {
-      "id": "8861461002",
-      "title": "Paralegal",
-      "company": "Mission Lane",
-      "location": "Remote, United States",
-      "remote": "remote",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-10-01",
-      "updated": "2026-11-16",
-      "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/missionlane/jobs/8861461002",
-      "apply_url": "https://job-boards.greenhouse.io/missionlane/jobs/8861461002",
-      "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8865042002",
@@ -128,7 +92,7 @@
       "source_url": "https://job-boards.greenhouse.io/missionlane/jobs/8865042002",
       "apply_url": "https://job-boards.greenhouse.io/missionlane/jobs/8865042002",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8867341002",
@@ -146,7 +110,7 @@
       "source_url": "https://job-boards.greenhouse.io/missionlane/jobs/8867341002",
       "apply_url": "https://job-boards.greenhouse.io/missionlane/jobs/8867341002",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8881551002",
@@ -164,7 +128,7 @@
       "source_url": "https://job-boards.greenhouse.io/missionlane/jobs/8881551002",
       "apply_url": "https://job-boards.greenhouse.io/missionlane/jobs/8881551002",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8900061002",
@@ -182,7 +146,7 @@
       "source_url": "https://job-boards.greenhouse.io/missionlane/jobs/8900061002",
       "apply_url": "https://job-boards.greenhouse.io/missionlane/jobs/8900061002",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8922651002",
@@ -200,7 +164,7 @@
       "source_url": "https://job-boards.greenhouse.io/missionlane/jobs/8922651002",
       "apply_url": "https://job-boards.greenhouse.io/missionlane/jobs/8922651002",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8940587002",
@@ -218,7 +182,7 @@
       "source_url": "https://job-boards.greenhouse.io/missionlane/jobs/8940587002",
       "apply_url": "https://job-boards.greenhouse.io/missionlane/jobs/8940587002",
       "first_seen": "2026-11-16T15:39:28Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8940592002",
@@ -236,7 +200,43 @@
       "source_url": "https://job-boards.greenhouse.io/missionlane/jobs/8940592002",
       "apply_url": "https://job-boards.greenhouse.io/missionlane/jobs/8940592002",
       "first_seen": "2026-11-16T15:39:28Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
+    },
+    {
+      "id": "8941354002",
+      "title": "Senior Manager, Performance Marketing",
+      "company": "Mission Lane",
+      "location": "Remote, United States",
+      "remote": "remote",
+      "department": "",
+      "employment_type": "",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-19",
+      "updated": "2026-11-19",
+      "deadline": "",
+      "source_url": "https://job-boards.greenhouse.io/missionlane/jobs/8941354002",
+      "apply_url": "https://job-boards.greenhouse.io/missionlane/jobs/8941354002",
+      "first_seen": "2026-11-20T15:23:49Z",
+      "last_checked": "2026-11-20T15:23:49Z"
+    },
+    {
+      "id": "8948330002",
+      "title": "Principal Governance, Risk and Compliance Analyst",
+      "company": "Mission Lane",
+      "location": "Remote, United States",
+      "remote": "remote",
+      "department": "",
+      "employment_type": "",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-19",
+      "updated": "2026-11-19",
+      "deadline": "",
+      "source_url": "https://job-boards.greenhouse.io/missionlane/jobs/8948330002",
+      "apply_url": "https://job-boards.greenhouse.io/missionlane/jobs/8948330002",
+      "first_seen": "2026-11-20T15:23:49Z",
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8950533002",
@@ -254,7 +254,7 @@
       "source_url": "https://job-boards.greenhouse.io/missionlane/jobs/8950533002",
       "apply_url": "https://job-boards.greenhouse.io/missionlane/jobs/8950533002",
       "first_seen": "2026-11-19T15:42:04Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     }
   ],
   "ats": "greenhouse",

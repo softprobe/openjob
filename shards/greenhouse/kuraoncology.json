@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-19T15:42:04Z",
+  "checked_at": "2026-11-20T15:23:49Z",
   "failed_at": null,
   "etag": "W/\"43f626fa84568ab0a0dd2a8ee3910a09\"",
   "jobs": [
@@ -20,7 +20,7 @@
       "source_url": "https://job-boards.greenhouse.io/kuraoncology/jobs/5625028004",
       "apply_url": "https://job-boards.greenhouse.io/kuraoncology/jobs/5625028004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "6184395004",
@@ -38,7 +38,7 @@
       "source_url": "https://job-boards.greenhouse.io/kuraoncology/jobs/6184395004",
       "apply_url": "https://job-boards.greenhouse.io/kuraoncology/jobs/6184395004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "6192076004",
@@ -56,7 +56,7 @@
       "source_url": "https://job-boards.greenhouse.io/kuraoncology/jobs/6192076004",
       "apply_url": "https://job-boards.greenhouse.io/kuraoncology/jobs/6192076004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "6211382004",
@@ -74,7 +74,7 @@
       "source_url": "https://job-boards.greenhouse.io/kuraoncology/jobs/6211382004",
       "apply_url": "https://job-boards.greenhouse.io/kuraoncology/jobs/6211382004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "6221265004",
@@ -92,7 +92,7 @@
       "source_url": "https://job-boards.greenhouse.io/kuraoncology/jobs/6221265004",
       "apply_url": "https://job-boards.greenhouse.io/kuraoncology/jobs/6221265004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "6231226004",
@@ -110,7 +110,7 @@
       "source_url": "https://job-boards.greenhouse.io/kuraoncology/jobs/6231226004",
       "apply_url": "https://job-boards.greenhouse.io/kuraoncology/jobs/6231226004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "6251551004",
@@ -128,7 +128,7 @@
       "source_url": "https://job-boards.greenhouse.io/kuraoncology/jobs/6251551004",
       "apply_url": "https://job-boards.greenhouse.io/kuraoncology/jobs/6251551004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     }
   ],
   "ats": "greenhouse",

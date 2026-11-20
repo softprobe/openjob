@@ -1,8 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-19T15:42:04Z",
+  "checked_at": "2026-11-20T15:23:49Z",
   "failed_at": null,
-  "etag": "W/\"17aad-Qa4OK0HITzGAVPXJltMNrA\"",
+  "etag": "W/\"17aad-QTozZ1UzfST7Xofa1WVZRA\"",
   "jobs": [
     {
       "id": "011a52df-a67d-48dc-8824-b15d27ca09ac",
@@ -20,7 +20,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/threatbook/39679#/job/011a52df-a67d-48dc-8824-b15d27ca09ac",
       "apply_url": "https://app.mokahr.com/campus_apply/threatbook/39679#/job/011a52df-a67d-48dc-8824-b15d27ca09ac/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "025f23c4-65b9-41c5-82a4-3c7419e6a44f",
@@ -38,7 +38,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/threatbook/39679#/job/025f23c4-65b9-41c5-82a4-3c7419e6a44f",
       "apply_url": "https://app.mokahr.com/campus_apply/threatbook/39679#/job/025f23c4-65b9-41c5-82a4-3c7419e6a44f/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "05ccf78c-2650-4ae3-ac8f-aa707f8a9b9f",
@@ -56,7 +56,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/threatbook/39679#/job/05ccf78c-2650-4ae3-ac8f-aa707f8a9b9f",
       "apply_url": "https://app.mokahr.com/campus_apply/threatbook/39679#/job/05ccf78c-2650-4ae3-ac8f-aa707f8a9b9f/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "103a690f-9d24-4c54-9938-496646176e4d",
@@ -74,7 +74,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/threatbook/39679#/job/103a690f-9d24-4c54-9938-496646176e4d",
       "apply_url": "https://app.mokahr.com/campus_apply/threatbook/39679#/job/103a690f-9d24-4c54-9938-496646176e4d/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "1471e6d1-7115-476d-80d9-e39eed39cf59",
@@ -87,12 +87,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-07",
-      "updated": "2026-09-07",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://app.mokahr.com/campus-recruitment/threatbook/39679#/job/1471e6d1-7115-476d-80d9-e39eed39cf59",
       "apply_url": "https://app.mokahr.com/campus_apply/threatbook/39679#/job/1471e6d1-7115-476d-80d9-e39eed39cf59/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "18ddacff-c255-46b6-a8b4-5982ba2e23fc",
@@ -105,12 +105,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-07",
-      "updated": "2026-09-07",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://app.mokahr.com/campus-recruitment/threatbook/39679#/job/18ddacff-c255-46b6-a8b4-5982ba2e23fc",
       "apply_url": "https://app.mokahr.com/campus_apply/threatbook/39679#/job/18ddacff-c255-46b6-a8b4-5982ba2e23fc/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "1f59eb1b-e003-4d36-8be6-6a5117d5e2a4",
@@ -128,7 +128,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/threatbook/39679#/job/1f59eb1b-e003-4d36-8be6-6a5117d5e2a4",
       "apply_url": "https://app.mokahr.com/campus_apply/threatbook/39679#/job/1f59eb1b-e003-4d36-8be6-6a5117d5e2a4/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "1f7dc068-410f-49b9-b66c-b540e734ac11",
@@ -141,12 +141,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-07",
-      "updated": "2026-10-30",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://app.mokahr.com/campus-recruitment/threatbook/39679#/job/1f7dc068-410f-49b9-b66c-b540e734ac11",
       "apply_url": "https://app.mokahr.com/campus_apply/threatbook/39679#/job/1f7dc068-410f-49b9-b66c-b540e734ac11/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "24b5826a-d061-481b-b808-009e86d5883e",
@@ -164,7 +164,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/threatbook/39679#/job/24b5826a-d061-481b-b808-009e86d5883e",
       "apply_url": "https://app.mokahr.com/campus_apply/threatbook/39679#/job/24b5826a-d061-481b-b808-009e86d5883e/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "29bbcf14-7212-42cd-bf63-c8c433999ddd",
@@ -182,7 +182,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/threatbook/39679#/job/29bbcf14-7212-42cd-bf63-c8c433999ddd",
       "apply_url": "https://app.mokahr.com/campus_apply/threatbook/39679#/job/29bbcf14-7212-42cd-bf63-c8c433999ddd/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "2cf8d6e4-a2f9-4b6f-a2b4-cd77f8064a7c",
@@ -200,7 +200,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/threatbook/39679#/job/2cf8d6e4-a2f9-4b6f-a2b4-cd77f8064a7c",
       "apply_url": "https://app.mokahr.com/campus_apply/threatbook/39679#/job/2cf8d6e4-a2f9-4b6f-a2b4-cd77f8064a7c/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "2f446ff0-ac1e-4b43-a6c4-6cde52ea7858",
@@ -218,7 +218,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/threatbook/39679#/job/2f446ff0-ac1e-4b43-a6c4-6cde52ea7858",
       "apply_url": "https://app.mokahr.com/campus_apply/threatbook/39679#/job/2f446ff0-ac1e-4b43-a6c4-6cde52ea7858/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "34a93dce-3d97-4eff-a333-d4053463813a",
@@ -236,7 +236,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/threatbook/39679#/job/34a93dce-3d97-4eff-a333-d4053463813a",
       "apply_url": "https://app.mokahr.com/campus_apply/threatbook/39679#/job/34a93dce-3d97-4eff-a333-d4053463813a/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "37b27ae3-50d8-4127-b65b-78ffda9035ae",
@@ -254,7 +254,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/threatbook/39679#/job/37b27ae3-50d8-4127-b65b-78ffda9035ae",
       "apply_url": "https://app.mokahr.com/campus_apply/threatbook/39679#/job/37b27ae3-50d8-4127-b65b-78ffda9035ae/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "3bb80b22-ad78-49a7-9e6e-ce04eb1cdf13",
@@ -272,7 +272,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/threatbook/39679#/job/3bb80b22-ad78-49a7-9e6e-ce04eb1cdf13",
       "apply_url": "https://app.mokahr.com/campus_apply/threatbook/39679#/job/3bb80b22-ad78-49a7-9e6e-ce04eb1cdf13/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "3d2e29cf-50e8-4a63-b9a9-a84daf7cd9e1",
@@ -290,7 +290,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/threatbook/39679#/job/3d2e29cf-50e8-4a63-b9a9-a84daf7cd9e1",
       "apply_url": "https://app.mokahr.com/campus_apply/threatbook/39679#/job/3d2e29cf-50e8-4a63-b9a9-a84daf7cd9e1/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "412ba081-84a0-4831-943a-f29f57f2162c",
@@ -308,7 +308,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/threatbook/39679#/job/412ba081-84a0-4831-943a-f29f57f2162c",
       "apply_url": "https://app.mokahr.com/campus_apply/threatbook/39679#/job/412ba081-84a0-4831-943a-f29f57f2162c/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "43ed668d-884e-41ee-bf18-617f6ae4c458",
@@ -321,12 +321,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-07",
-      "updated": "2026-09-07",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://app.mokahr.com/campus-recruitment/threatbook/39679#/job/43ed668d-884e-41ee-bf18-617f6ae4c458",
       "apply_url": "https://app.mokahr.com/campus_apply/threatbook/39679#/job/43ed668d-884e-41ee-bf18-617f6ae4c458/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "4c81a5e2-d727-43d8-806e-a9acc3a30529",
@@ -344,7 +344,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/threatbook/39679#/job/4c81a5e2-d727-43d8-806e-a9acc3a30529",
       "apply_url": "https://app.mokahr.com/campus_apply/threatbook/39679#/job/4c81a5e2-d727-43d8-806e-a9acc3a30529/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "4fabd6e9-24f0-4ed3-b3ba-708a527702f0",
@@ -362,7 +362,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/threatbook/39679#/job/4fabd6e9-24f0-4ed3-b3ba-708a527702f0",
       "apply_url": "https://app.mokahr.com/campus_apply/threatbook/39679#/job/4fabd6e9-24f0-4ed3-b3ba-708a527702f0/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "60f290ee-eb66-47e8-98c7-506731949ee5",
@@ -380,7 +380,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/threatbook/39679#/job/60f290ee-eb66-47e8-98c7-506731949ee5",
       "apply_url": "https://app.mokahr.com/campus_apply/threatbook/39679#/job/60f290ee-eb66-47e8-98c7-506731949ee5/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "6288d7bc-2e51-41de-b669-1f9fd5a7a166",
@@ -398,7 +398,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/threatbook/39679#/job/6288d7bc-2e51-41de-b669-1f9fd5a7a166",
       "apply_url": "https://app.mokahr.com/campus_apply/threatbook/39679#/job/6288d7bc-2e51-41de-b669-1f9fd5a7a166/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "6a230fdc-221c-4ba9-93ef-b1d25d1ecc1e",
@@ -416,7 +416,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/threatbook/39679#/job/6a230fdc-221c-4ba9-93ef-b1d25d1ecc1e",
       "apply_url": "https://app.mokahr.com/campus_apply/threatbook/39679#/job/6a230fdc-221c-4ba9-93ef-b1d25d1ecc1e/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "7288f3c8-4342-4b3a-851b-b019a95b5508",
@@ -434,7 +434,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/threatbook/39679#/job/7288f3c8-4342-4b3a-851b-b019a95b5508",
       "apply_url": "https://app.mokahr.com/campus_apply/threatbook/39679#/job/7288f3c8-4342-4b3a-851b-b019a95b5508/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "7487164a-0d85-41fc-9bf8-44b1848ec7fc",
@@ -452,7 +452,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/threatbook/39679#/job/7487164a-0d85-41fc-9bf8-44b1848ec7fc",
       "apply_url": "https://app.mokahr.com/campus_apply/threatbook/39679#/job/7487164a-0d85-41fc-9bf8-44b1848ec7fc/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "75b6672e-e83b-4a2c-971c-ff33e5bc5e0a",
@@ -470,7 +470,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/threatbook/39679#/job/75b6672e-e83b-4a2c-971c-ff33e5bc5e0a",
       "apply_url": "https://app.mokahr.com/campus_apply/threatbook/39679#/job/75b6672e-e83b-4a2c-971c-ff33e5bc5e0a/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "77252e22-9084-4149-bf4c-ef7fec1836b8",
@@ -488,7 +488,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/threatbook/39679#/job/77252e22-9084-4149-bf4c-ef7fec1836b8",
       "apply_url": "https://app.mokahr.com/campus_apply/threatbook/39679#/job/77252e22-9084-4149-bf4c-ef7fec1836b8/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "7c1e5810-d219-4f51-8e46-3a7e74236255",
@@ -506,7 +506,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/threatbook/39679#/job/7c1e5810-d219-4f51-8e46-3a7e74236255",
       "apply_url": "https://app.mokahr.com/campus_apply/threatbook/39679#/job/7c1e5810-d219-4f51-8e46-3a7e74236255/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "7d05d780-119d-45cb-8d80-848221bd5cd4",
@@ -524,7 +524,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/threatbook/39679#/job/7d05d780-119d-45cb-8d80-848221bd5cd4",
       "apply_url": "https://app.mokahr.com/campus_apply/threatbook/39679#/job/7d05d780-119d-45cb-8d80-848221bd5cd4/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8cfc5957-b147-485d-833b-6f85fb57361c",
@@ -537,12 +537,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-07",
-      "updated": "2026-09-07",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://app.mokahr.com/campus-recruitment/threatbook/39679#/job/8cfc5957-b147-485d-833b-6f85fb57361c",
       "apply_url": "https://app.mokahr.com/campus_apply/threatbook/39679#/job/8cfc5957-b147-485d-833b-6f85fb57361c/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8e73b34f-b916-439e-a1b0-664ec399bbc0",
@@ -560,7 +560,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/threatbook/39679#/job/8e73b34f-b916-439e-a1b0-664ec399bbc0",
       "apply_url": "https://app.mokahr.com/campus_apply/threatbook/39679#/job/8e73b34f-b916-439e-a1b0-664ec399bbc0/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "92491c80-06c2-4362-aced-6194557c49be",
@@ -578,7 +578,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/threatbook/39679#/job/92491c80-06c2-4362-aced-6194557c49be",
       "apply_url": "https://app.mokahr.com/campus_apply/threatbook/39679#/job/92491c80-06c2-4362-aced-6194557c49be/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "9b18486a-af2f-46e3-8942-ae52e6f59971",
@@ -596,7 +596,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/threatbook/39679#/job/9b18486a-af2f-46e3-8942-ae52e6f59971",
       "apply_url": "https://app.mokahr.com/campus_apply/threatbook/39679#/job/9b18486a-af2f-46e3-8942-ae52e6f59971/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "aa62af73-154f-4491-938d-71a6e00e497e",
@@ -614,7 +614,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/threatbook/39679#/job/aa62af73-154f-4491-938d-71a6e00e497e",
       "apply_url": "https://app.mokahr.com/campus_apply/threatbook/39679#/job/aa62af73-154f-4491-938d-71a6e00e497e/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "ad6201d9-a062-4a2e-bf1f-c302e49e4114",
@@ -632,7 +632,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/threatbook/39679#/job/ad6201d9-a062-4a2e-bf1f-c302e49e4114",
       "apply_url": "https://app.mokahr.com/campus_apply/threatbook/39679#/job/ad6201d9-a062-4a2e-bf1f-c302e49e4114/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "b8ac64b1-cf68-4ad5-a70e-d3c81cf44b9e",
@@ -650,7 +650,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/threatbook/39679#/job/b8ac64b1-cf68-4ad5-a70e-d3c81cf44b9e",
       "apply_url": "https://app.mokahr.com/campus_apply/threatbook/39679#/job/b8ac64b1-cf68-4ad5-a70e-d3c81cf44b9e/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "be4cff12-148f-4f88-9977-24cc3c345066",
@@ -668,7 +668,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/threatbook/39679#/job/be4cff12-148f-4f88-9977-24cc3c345066",
       "apply_url": "https://app.mokahr.com/campus_apply/threatbook/39679#/job/be4cff12-148f-4f88-9977-24cc3c345066/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "bf6ffeee-cd85-430e-b173-1cc7d0950675",
@@ -686,7 +686,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/threatbook/39679#/job/bf6ffeee-cd85-430e-b173-1cc7d0950675",
       "apply_url": "https://app.mokahr.com/campus_apply/threatbook/39679#/job/bf6ffeee-cd85-430e-b173-1cc7d0950675/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "c2c180e8-fa41-4dcb-8717-f243e202a6c5",
@@ -704,7 +704,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/threatbook/39679#/job/c2c180e8-fa41-4dcb-8717-f243e202a6c5",
       "apply_url": "https://app.mokahr.com/campus_apply/threatbook/39679#/job/c2c180e8-fa41-4dcb-8717-f243e202a6c5/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "dc1ac9ef-6f1f-4771-be27-86ff3076a655",
@@ -722,7 +722,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/threatbook/39679#/job/dc1ac9ef-6f1f-4771-be27-86ff3076a655",
       "apply_url": "https://app.mokahr.com/campus_apply/threatbook/39679#/job/dc1ac9ef-6f1f-4771-be27-86ff3076a655/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "df026fcd-97de-487c-9411-2a7c129ca898",
@@ -740,7 +740,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/threatbook/39679#/job/df026fcd-97de-487c-9411-2a7c129ca898",
       "apply_url": "https://app.mokahr.com/campus_apply/threatbook/39679#/job/df026fcd-97de-487c-9411-2a7c129ca898/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "df99a7da-9f5a-4bc1-bec6-390d778f5368",
@@ -758,7 +758,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/threatbook/39679#/job/df99a7da-9f5a-4bc1-bec6-390d778f5368",
       "apply_url": "https://app.mokahr.com/campus_apply/threatbook/39679#/job/df99a7da-9f5a-4bc1-bec6-390d778f5368/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "e6ac0ccd-0aaa-4ae6-82d0-59394d9d5e8f",
@@ -776,7 +776,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/threatbook/39679#/job/e6ac0ccd-0aaa-4ae6-82d0-59394d9d5e8f",
       "apply_url": "https://app.mokahr.com/campus_apply/threatbook/39679#/job/e6ac0ccd-0aaa-4ae6-82d0-59394d9d5e8f/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "ea78b941-880b-4638-b1db-d0ef0777fffe",
@@ -794,7 +794,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/threatbook/39679#/job/ea78b941-880b-4638-b1db-d0ef0777fffe",
       "apply_url": "https://app.mokahr.com/campus_apply/threatbook/39679#/job/ea78b941-880b-4638-b1db-d0ef0777fffe/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "ee10da42-4e55-467f-a668-26be4735d822",
@@ -812,7 +812,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/threatbook/39679#/job/ee10da42-4e55-467f-a668-26be4735d822",
       "apply_url": "https://app.mokahr.com/campus_apply/threatbook/39679#/job/ee10da42-4e55-467f-a668-26be4735d822/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "f6b42e59-0aa3-48d9-9316-fb02a7dc62eb",
@@ -830,7 +830,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/threatbook/39679#/job/f6b42e59-0aa3-48d9-9316-fb02a7dc62eb",
       "apply_url": "https://app.mokahr.com/campus_apply/threatbook/39679#/job/f6b42e59-0aa3-48d9-9316-fb02a7dc62eb/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "f6ed300b-8574-42b5-847f-3d155091b5f6",
@@ -848,7 +848,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/threatbook/39679#/job/f6ed300b-8574-42b5-847f-3d155091b5f6",
       "apply_url": "https://app.mokahr.com/campus_apply/threatbook/39679#/job/f6ed300b-8574-42b5-847f-3d155091b5f6/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "f781607e-6249-4979-9eef-a96ecaab18c2",
@@ -866,7 +866,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/threatbook/39679#/job/f781607e-6249-4979-9eef-a96ecaab18c2",
       "apply_url": "https://app.mokahr.com/campus_apply/threatbook/39679#/job/f781607e-6249-4979-9eef-a96ecaab18c2/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "f78714f6-9307-42b6-857c-cfa1d4b7d5e1",
@@ -884,7 +884,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/threatbook/39679#/job/f78714f6-9307-42b6-857c-cfa1d4b7d5e1",
       "apply_url": "https://app.mokahr.com/campus_apply/threatbook/39679#/job/f78714f6-9307-42b6-857c-cfa1d4b7d5e1/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     }
   ],
   "ats": "moka",

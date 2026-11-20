@@ -1,8 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-19T15:42:04Z",
+  "checked_at": "2026-11-20T15:23:49Z",
   "failed_at": null,
-  "etag": "W/\"93b9dc3274a26027af208ff03e873241\"",
+  "etag": "W/\"ec38ac624a9395846006900c13f6cf03\"",
   "jobs": [
     {
       "id": "5231479004",
@@ -20,7 +20,7 @@
       "source_url": "https://job-boards.greenhouse.io/smartlyio/jobs/5231479004",
       "apply_url": "https://job-boards.greenhouse.io/smartlyio/jobs/5231479004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "5599636004",
@@ -38,7 +38,7 @@
       "source_url": "https://job-boards.greenhouse.io/smartlyio/jobs/5599636004",
       "apply_url": "https://job-boards.greenhouse.io/smartlyio/jobs/5599636004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "5658123004",
@@ -56,7 +56,7 @@
       "source_url": "https://job-boards.greenhouse.io/smartlyio/jobs/5658123004",
       "apply_url": "https://job-boards.greenhouse.io/smartlyio/jobs/5658123004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "5670374004",
@@ -74,7 +74,7 @@
       "source_url": "https://job-boards.greenhouse.io/smartlyio/jobs/5670374004",
       "apply_url": "https://job-boards.greenhouse.io/smartlyio/jobs/5670374004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "5704053004",
@@ -92,7 +92,7 @@
       "source_url": "https://job-boards.greenhouse.io/smartlyio/jobs/5704053004",
       "apply_url": "https://job-boards.greenhouse.io/smartlyio/jobs/5704053004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "5728537004",
@@ -110,7 +110,7 @@
       "source_url": "https://job-boards.greenhouse.io/smartlyio/jobs/5728537004",
       "apply_url": "https://job-boards.greenhouse.io/smartlyio/jobs/5728537004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "5784406004",
@@ -128,7 +128,7 @@
       "source_url": "https://job-boards.greenhouse.io/smartlyio/jobs/5784406004",
       "apply_url": "https://job-boards.greenhouse.io/smartlyio/jobs/5784406004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "5790147004",
@@ -146,7 +146,7 @@
       "source_url": "https://job-boards.greenhouse.io/smartlyio/jobs/5790147004",
       "apply_url": "https://job-boards.greenhouse.io/smartlyio/jobs/5790147004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "5808193004",
@@ -164,7 +164,7 @@
       "source_url": "https://job-boards.greenhouse.io/smartlyio/jobs/5808193004",
       "apply_url": "https://job-boards.greenhouse.io/smartlyio/jobs/5808193004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "5811638004",
@@ -182,7 +182,7 @@
       "source_url": "https://job-boards.greenhouse.io/smartlyio/jobs/5811638004",
       "apply_url": "https://job-boards.greenhouse.io/smartlyio/jobs/5811638004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "5811641004",
@@ -200,7 +200,7 @@
       "source_url": "https://job-boards.greenhouse.io/smartlyio/jobs/5811641004",
       "apply_url": "https://job-boards.greenhouse.io/smartlyio/jobs/5811641004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "5811642004",
@@ -218,7 +218,7 @@
       "source_url": "https://job-boards.greenhouse.io/smartlyio/jobs/5811642004",
       "apply_url": "https://job-boards.greenhouse.io/smartlyio/jobs/5811642004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "5813408004",
@@ -236,7 +236,7 @@
       "source_url": "https://job-boards.greenhouse.io/smartlyio/jobs/5813408004",
       "apply_url": "https://job-boards.greenhouse.io/smartlyio/jobs/5813408004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "5833004004",
@@ -254,25 +254,7 @@
       "source_url": "https://job-boards.greenhouse.io/smartlyio/jobs/5833004004",
       "apply_url": "https://job-boards.greenhouse.io/smartlyio/jobs/5833004004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
-    },
-    {
-      "id": "5833028004",
-      "title": "Finance Business Partner (NYC)",
-      "company": "Smartly",
-      "location": "New York, New York, United States",
-      "remote": "unspecified",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-03-20",
-      "updated": "2026-10-30",
-      "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/smartlyio/jobs/5833028004",
-      "apply_url": "https://job-boards.greenhouse.io/smartlyio/jobs/5833028004",
-      "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "5839116004",
@@ -290,7 +272,7 @@
       "source_url": "https://job-boards.greenhouse.io/smartlyio/jobs/5839116004",
       "apply_url": "https://job-boards.greenhouse.io/smartlyio/jobs/5839116004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "5841771004",
@@ -308,7 +290,7 @@
       "source_url": "https://job-boards.greenhouse.io/smartlyio/jobs/5841771004",
       "apply_url": "https://job-boards.greenhouse.io/smartlyio/jobs/5841771004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "5850913004",
@@ -326,7 +308,7 @@
       "source_url": "https://job-boards.greenhouse.io/smartlyio/jobs/5850913004",
       "apply_url": "https://job-boards.greenhouse.io/smartlyio/jobs/5850913004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "6010952004",
@@ -344,7 +326,7 @@
       "source_url": "https://job-boards.greenhouse.io/smartlyio/jobs/6010952004",
       "apply_url": "https://job-boards.greenhouse.io/smartlyio/jobs/6010952004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "6013776004",
@@ -362,7 +344,7 @@
       "source_url": "https://job-boards.greenhouse.io/smartlyio/jobs/6013776004",
       "apply_url": "https://job-boards.greenhouse.io/smartlyio/jobs/6013776004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "6014125004",
@@ -380,7 +362,7 @@
       "source_url": "https://job-boards.greenhouse.io/smartlyio/jobs/6014125004",
       "apply_url": "https://job-boards.greenhouse.io/smartlyio/jobs/6014125004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "6017235004",
@@ -398,7 +380,7 @@
       "source_url": "https://job-boards.greenhouse.io/smartlyio/jobs/6017235004",
       "apply_url": "https://job-boards.greenhouse.io/smartlyio/jobs/6017235004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "6020669004",
@@ -416,7 +398,7 @@
       "source_url": "https://job-boards.greenhouse.io/smartlyio/jobs/6020669004",
       "apply_url": "https://job-boards.greenhouse.io/smartlyio/jobs/6020669004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "6099504004",
@@ -434,7 +416,25 @@
       "source_url": "https://job-boards.greenhouse.io/smartlyio/jobs/6099504004",
       "apply_url": "https://job-boards.greenhouse.io/smartlyio/jobs/6099504004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
+    },
+    {
+      "id": "6104668004",
+      "title": "Solutions Engineer",
+      "company": "Smartly",
+      "location": "Mexico City",
+      "remote": "unspecified",
+      "department": "",
+      "employment_type": "",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-07-16",
+      "updated": "2026-11-19",
+      "deadline": "",
+      "source_url": "https://job-boards.greenhouse.io/smartlyio/jobs/6104668004",
+      "apply_url": "https://job-boards.greenhouse.io/smartlyio/jobs/6104668004",
+      "first_seen": "2026-11-20T15:23:49Z",
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "6105549004",
@@ -452,7 +452,7 @@
       "source_url": "https://job-boards.greenhouse.io/smartlyio/jobs/6105549004",
       "apply_url": "https://job-boards.greenhouse.io/smartlyio/jobs/6105549004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "6105849004",
@@ -470,7 +470,7 @@
       "source_url": "https://job-boards.greenhouse.io/smartlyio/jobs/6105849004",
       "apply_url": "https://job-boards.greenhouse.io/smartlyio/jobs/6105849004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "6105867004",
@@ -488,7 +488,7 @@
       "source_url": "https://job-boards.greenhouse.io/smartlyio/jobs/6105867004",
       "apply_url": "https://job-boards.greenhouse.io/smartlyio/jobs/6105867004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "6114705004",
@@ -506,7 +506,7 @@
       "source_url": "https://job-boards.greenhouse.io/smartlyio/jobs/6114705004",
       "apply_url": "https://job-boards.greenhouse.io/smartlyio/jobs/6114705004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "6126653004",
@@ -524,7 +524,7 @@
       "source_url": "https://job-boards.greenhouse.io/smartlyio/jobs/6126653004",
       "apply_url": "https://job-boards.greenhouse.io/smartlyio/jobs/6126653004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "6126659004",
@@ -542,7 +542,7 @@
       "source_url": "https://job-boards.greenhouse.io/smartlyio/jobs/6126659004",
       "apply_url": "https://job-boards.greenhouse.io/smartlyio/jobs/6126659004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "6126660004",
@@ -560,7 +560,7 @@
       "source_url": "https://job-boards.greenhouse.io/smartlyio/jobs/6126660004",
       "apply_url": "https://job-boards.greenhouse.io/smartlyio/jobs/6126660004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "6126661004",
@@ -578,7 +578,7 @@
       "source_url": "https://job-boards.greenhouse.io/smartlyio/jobs/6126661004",
       "apply_url": "https://job-boards.greenhouse.io/smartlyio/jobs/6126661004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "6126663004",
@@ -596,7 +596,7 @@
       "source_url": "https://job-boards.greenhouse.io/smartlyio/jobs/6126663004",
       "apply_url": "https://job-boards.greenhouse.io/smartlyio/jobs/6126663004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "6126669004",
@@ -614,7 +614,7 @@
       "source_url": "https://job-boards.greenhouse.io/smartlyio/jobs/6126669004",
       "apply_url": "https://job-boards.greenhouse.io/smartlyio/jobs/6126669004",
       "first_seen": "2026-11-18T15:36:26Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "6131758004",
@@ -632,7 +632,7 @@
       "source_url": "https://job-boards.greenhouse.io/smartlyio/jobs/6131758004",
       "apply_url": "https://job-boards.greenhouse.io/smartlyio/jobs/6131758004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "6133362004",
@@ -650,7 +650,7 @@
       "source_url": "https://job-boards.greenhouse.io/smartlyio/jobs/6133362004",
       "apply_url": "https://job-boards.greenhouse.io/smartlyio/jobs/6133362004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "6139511004",
@@ -668,7 +668,7 @@
       "source_url": "https://job-boards.greenhouse.io/smartlyio/jobs/6139511004",
       "apply_url": "https://job-boards.greenhouse.io/smartlyio/jobs/6139511004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "6146519004",
@@ -686,7 +686,7 @@
       "source_url": "https://job-boards.greenhouse.io/smartlyio/jobs/6146519004",
       "apply_url": "https://job-boards.greenhouse.io/smartlyio/jobs/6146519004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "6163433004",
@@ -699,12 +699,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-26",
-      "updated": "2026-10-30",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/smartlyio/jobs/6163433004",
       "apply_url": "https://job-boards.greenhouse.io/smartlyio/jobs/6163433004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "6179174004",
@@ -722,7 +722,7 @@
       "source_url": "https://job-boards.greenhouse.io/smartlyio/jobs/6179174004",
       "apply_url": "https://job-boards.greenhouse.io/smartlyio/jobs/6179174004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "6179175004",
@@ -740,25 +740,7 @@
       "source_url": "https://job-boards.greenhouse.io/smartlyio/jobs/6179175004",
       "apply_url": "https://job-boards.greenhouse.io/smartlyio/jobs/6179175004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
-    },
-    {
-      "id": "6179424004",
-      "title": "Finance Business Partner (Chicago)",
-      "company": "Smartly",
-      "location": "Chicago",
-      "remote": "unspecified",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-09-02",
-      "updated": "2026-10-30",
-      "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/smartlyio/jobs/6179424004",
-      "apply_url": "https://job-boards.greenhouse.io/smartlyio/jobs/6179424004",
-      "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "6203025004",
@@ -776,7 +758,7 @@
       "source_url": "https://job-boards.greenhouse.io/smartlyio/jobs/6203025004",
       "apply_url": "https://job-boards.greenhouse.io/smartlyio/jobs/6203025004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "6206085004",
@@ -794,7 +776,7 @@
       "source_url": "https://job-boards.greenhouse.io/smartlyio/jobs/6206085004",
       "apply_url": "https://job-boards.greenhouse.io/smartlyio/jobs/6206085004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "6208020004",
@@ -812,7 +794,7 @@
       "source_url": "https://job-boards.greenhouse.io/smartlyio/jobs/6208020004",
       "apply_url": "https://job-boards.greenhouse.io/smartlyio/jobs/6208020004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "6210419004",
@@ -830,7 +812,7 @@
       "source_url": "https://job-boards.greenhouse.io/smartlyio/jobs/6210419004",
       "apply_url": "https://job-boards.greenhouse.io/smartlyio/jobs/6210419004",
       "first_seen": "2026-11-19T15:42:04Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "6215257004",
@@ -848,7 +830,7 @@
       "source_url": "https://job-boards.greenhouse.io/smartlyio/jobs/6215257004",
       "apply_url": "https://job-boards.greenhouse.io/smartlyio/jobs/6215257004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "6216217004",
@@ -866,7 +848,7 @@
       "source_url": "https://job-boards.greenhouse.io/smartlyio/jobs/6216217004",
       "apply_url": "https://job-boards.greenhouse.io/smartlyio/jobs/6216217004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "6216221004",
@@ -884,7 +866,7 @@
       "source_url": "https://job-boards.greenhouse.io/smartlyio/jobs/6216221004",
       "apply_url": "https://job-boards.greenhouse.io/smartlyio/jobs/6216221004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "6216824004",
@@ -902,7 +884,7 @@
       "source_url": "https://job-boards.greenhouse.io/smartlyio/jobs/6216824004",
       "apply_url": "https://job-boards.greenhouse.io/smartlyio/jobs/6216824004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "6218155004",
@@ -920,7 +902,7 @@
       "source_url": "https://job-boards.greenhouse.io/smartlyio/jobs/6218155004",
       "apply_url": "https://job-boards.greenhouse.io/smartlyio/jobs/6218155004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "6220233004",
@@ -938,7 +920,7 @@
       "source_url": "https://job-boards.greenhouse.io/smartlyio/jobs/6220233004",
       "apply_url": "https://job-boards.greenhouse.io/smartlyio/jobs/6220233004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "6222858004",
@@ -956,7 +938,25 @@
       "source_url": "https://job-boards.greenhouse.io/smartlyio/jobs/6222858004",
       "apply_url": "https://job-boards.greenhouse.io/smartlyio/jobs/6222858004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
+    },
+    {
+      "id": "6222859004",
+      "title": "Finance Systems Support",
+      "company": "Smartly",
+      "location": "Philippines",
+      "remote": "unspecified",
+      "department": "",
+      "employment_type": "",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-19",
+      "updated": "2026-11-19",
+      "deadline": "",
+      "source_url": "https://job-boards.greenhouse.io/smartlyio/jobs/6222859004",
+      "apply_url": "https://job-boards.greenhouse.io/smartlyio/jobs/6222859004",
+      "first_seen": "2026-11-20T15:23:49Z",
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "6223347004",
@@ -974,7 +974,7 @@
       "source_url": "https://job-boards.greenhouse.io/smartlyio/jobs/6223347004",
       "apply_url": "https://job-boards.greenhouse.io/smartlyio/jobs/6223347004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "6228027004",
@@ -992,7 +992,7 @@
       "source_url": "https://job-boards.greenhouse.io/smartlyio/jobs/6228027004",
       "apply_url": "https://job-boards.greenhouse.io/smartlyio/jobs/6228027004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "6229335004",
@@ -1010,7 +1010,7 @@
       "source_url": "https://job-boards.greenhouse.io/smartlyio/jobs/6229335004",
       "apply_url": "https://job-boards.greenhouse.io/smartlyio/jobs/6229335004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "6229347004",
@@ -1028,7 +1028,7 @@
       "source_url": "https://job-boards.greenhouse.io/smartlyio/jobs/6229347004",
       "apply_url": "https://job-boards.greenhouse.io/smartlyio/jobs/6229347004",
       "first_seen": "2026-11-19T15:42:04Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "6229531004",
@@ -1046,7 +1046,7 @@
       "source_url": "https://job-boards.greenhouse.io/smartlyio/jobs/6229531004",
       "apply_url": "https://job-boards.greenhouse.io/smartlyio/jobs/6229531004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "6230851004",
@@ -1064,25 +1064,7 @@
       "source_url": "https://job-boards.greenhouse.io/smartlyio/jobs/6230851004",
       "apply_url": "https://job-boards.greenhouse.io/smartlyio/jobs/6230851004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
-    },
-    {
-      "id": "6230853004",
-      "title": "Managed Service Support",
-      "company": "Smartly",
-      "location": "Philippines",
-      "remote": "unspecified",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-11-11",
-      "updated": "2026-11-11",
-      "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/smartlyio/jobs/6230853004",
-      "apply_url": "https://job-boards.greenhouse.io/smartlyio/jobs/6230853004",
-      "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "6232105004",
@@ -1100,7 +1082,7 @@
       "source_url": "https://job-boards.greenhouse.io/smartlyio/jobs/6232105004",
       "apply_url": "https://job-boards.greenhouse.io/smartlyio/jobs/6232105004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "6238263004",
@@ -1118,7 +1100,7 @@
       "source_url": "https://job-boards.greenhouse.io/smartlyio/jobs/6238263004",
       "apply_url": "https://job-boards.greenhouse.io/smartlyio/jobs/6238263004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "6238432004",
@@ -1136,7 +1118,7 @@
       "source_url": "https://job-boards.greenhouse.io/smartlyio/jobs/6238432004",
       "apply_url": "https://job-boards.greenhouse.io/smartlyio/jobs/6238432004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "6238438004",
@@ -1154,7 +1136,7 @@
       "source_url": "https://job-boards.greenhouse.io/smartlyio/jobs/6238438004",
       "apply_url": "https://job-boards.greenhouse.io/smartlyio/jobs/6238438004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "6240469004",
@@ -1172,7 +1154,7 @@
       "source_url": "https://job-boards.greenhouse.io/smartlyio/jobs/6240469004",
       "apply_url": "https://job-boards.greenhouse.io/smartlyio/jobs/6240469004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "6248386004",
@@ -1190,7 +1172,7 @@
       "source_url": "https://job-boards.greenhouse.io/smartlyio/jobs/6248386004",
       "apply_url": "https://job-boards.greenhouse.io/smartlyio/jobs/6248386004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "6250051004",
@@ -1208,7 +1190,7 @@
       "source_url": "https://job-boards.greenhouse.io/smartlyio/jobs/6250051004",
       "apply_url": "https://job-boards.greenhouse.io/smartlyio/jobs/6250051004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "6250367004",
@@ -1226,7 +1208,25 @@
       "source_url": "https://job-boards.greenhouse.io/smartlyio/jobs/6250367004",
       "apply_url": "https://job-boards.greenhouse.io/smartlyio/jobs/6250367004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
+    },
+    {
+      "id": "6250401004",
+      "title": "Managed Service Support",
+      "company": "Smartly",
+      "location": "Philippines",
+      "remote": "unspecified",
+      "department": "",
+      "employment_type": "",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-20",
+      "updated": "2026-11-20",
+      "deadline": "",
+      "source_url": "https://job-boards.greenhouse.io/smartlyio/jobs/6250401004",
+      "apply_url": "https://job-boards.greenhouse.io/smartlyio/jobs/6250401004",
+      "first_seen": "2026-11-20T15:23:49Z",
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "6253960004",
@@ -1244,25 +1244,7 @@
       "source_url": "https://job-boards.greenhouse.io/smartlyio/jobs/6253960004",
       "apply_url": "https://job-boards.greenhouse.io/smartlyio/jobs/6253960004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
-    },
-    {
-      "id": "6254535004",
-      "title": "Early Interest - Finance Systems Support, Manila",
-      "company": "Smartly",
-      "location": "Philippines",
-      "remote": "unspecified",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-11-11",
-      "updated": "2026-11-11",
-      "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/smartlyio/jobs/6254535004",
-      "apply_url": "https://job-boards.greenhouse.io/smartlyio/jobs/6254535004",
-      "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "6256049004",
@@ -1280,7 +1262,7 @@
       "source_url": "https://job-boards.greenhouse.io/smartlyio/jobs/6256049004",
       "apply_url": "https://job-boards.greenhouse.io/smartlyio/jobs/6256049004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "6264795004",
@@ -1298,7 +1280,7 @@
       "source_url": "https://job-boards.greenhouse.io/smartlyio/jobs/6264795004",
       "apply_url": "https://job-boards.greenhouse.io/smartlyio/jobs/6264795004",
       "first_seen": "2026-11-18T15:36:26Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "6265885004",
@@ -1316,7 +1298,7 @@
       "source_url": "https://job-boards.greenhouse.io/smartlyio/jobs/6265885004",
       "apply_url": "https://job-boards.greenhouse.io/smartlyio/jobs/6265885004",
       "first_seen": "2026-11-19T15:42:04Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     }
   ],
   "ats": "greenhouse",

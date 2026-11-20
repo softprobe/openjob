@@ -1,8 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-19T15:42:04Z",
+  "checked_at": "2026-11-20T15:23:49Z",
   "failed_at": null,
-  "etag": "W/\"ad9d954a8c88546942e11099e4c22b47\"",
+  "etag": "W/\"3b81d9058564862ed01eec801958f331\"",
   "jobs": [
     {
       "id": "5113268007",
@@ -20,7 +20,7 @@
       "source_url": "https://job-boards.greenhouse.io/consumerreports/jobs/5113268007",
       "apply_url": "https://job-boards.greenhouse.io/consumerreports/jobs/5113268007",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "5125371007",
@@ -38,7 +38,7 @@
       "source_url": "https://job-boards.greenhouse.io/consumerreports/jobs/5125371007",
       "apply_url": "https://job-boards.greenhouse.io/consumerreports/jobs/5125371007",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "5217989007",
@@ -56,7 +56,7 @@
       "source_url": "https://job-boards.greenhouse.io/consumerreports/jobs/5217989007",
       "apply_url": "https://job-boards.greenhouse.io/consumerreports/jobs/5217989007",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "5247409007",
@@ -74,7 +74,7 @@
       "source_url": "https://job-boards.greenhouse.io/consumerreports/jobs/5247409007",
       "apply_url": "https://job-boards.greenhouse.io/consumerreports/jobs/5247409007",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "5283513007",
@@ -87,12 +87,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-10",
-      "updated": "2026-11-16",
+      "updated": "2026-11-19",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/consumerreports/jobs/5283513007",
       "apply_url": "https://job-boards.greenhouse.io/consumerreports/jobs/5283513007",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     }
   ],
   "ats": "greenhouse",

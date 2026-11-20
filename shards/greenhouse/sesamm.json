@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-19T15:42:04Z",
+  "checked_at": "2026-11-20T15:23:49Z",
   "failed_at": null,
   "etag": "W/\"8ed2335956962a24f2a064e4ff0b04cf\"",
   "jobs": [
@@ -20,7 +20,7 @@
       "source_url": "https://job-boards.greenhouse.io/sesamm/jobs/4078077004",
       "apply_url": "https://job-boards.greenhouse.io/sesamm/jobs/4078077004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     }
   ],
   "ats": "greenhouse",

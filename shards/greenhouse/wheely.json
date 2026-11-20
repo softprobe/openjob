@@ -1,8 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-19T15:42:04Z",
+  "checked_at": "2026-11-20T15:23:49Z",
   "failed_at": null,
-  "etag": "W/\"152e6074f27e9677af7e4bf75335c359\"",
+  "etag": "W/\"83b1b793a786377e9138318954a38135\"",
   "jobs": [
     {
       "id": "6558940003",
@@ -20,7 +20,7 @@
       "source_url": "https://boards.greenhouse.io/wheely/jobs/6558940003?gh_jid=6558940003",
       "apply_url": "https://boards.greenhouse.io/wheely/jobs/6558940003?gh_jid=6558940003",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "7588263003",
@@ -38,7 +38,7 @@
       "source_url": "https://boards.greenhouse.io/wheely/jobs/7588263003?gh_jid=7588263003",
       "apply_url": "https://boards.greenhouse.io/wheely/jobs/7588263003?gh_jid=7588263003",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "7588277003",
@@ -56,7 +56,7 @@
       "source_url": "https://boards.greenhouse.io/wheely/jobs/7588277003?gh_jid=7588277003",
       "apply_url": "https://boards.greenhouse.io/wheely/jobs/7588277003?gh_jid=7588277003",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "7588282003",
@@ -74,7 +74,7 @@
       "source_url": "https://boards.greenhouse.io/wheely/jobs/7588282003?gh_jid=7588282003",
       "apply_url": "https://boards.greenhouse.io/wheely/jobs/7588282003?gh_jid=7588282003",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "7588285003",
@@ -92,7 +92,7 @@
       "source_url": "https://boards.greenhouse.io/wheely/jobs/7588285003?gh_jid=7588285003",
       "apply_url": "https://boards.greenhouse.io/wheely/jobs/7588285003?gh_jid=7588285003",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "7588305003",
@@ -110,7 +110,7 @@
       "source_url": "https://boards.greenhouse.io/wheely/jobs/7588305003?gh_jid=7588305003",
       "apply_url": "https://boards.greenhouse.io/wheely/jobs/7588305003?gh_jid=7588305003",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "7588312003",
@@ -128,7 +128,7 @@
       "source_url": "https://boards.greenhouse.io/wheely/jobs/7588312003?gh_jid=7588312003",
       "apply_url": "https://boards.greenhouse.io/wheely/jobs/7588312003?gh_jid=7588312003",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "7588377003",
@@ -146,7 +146,7 @@
       "source_url": "https://boards.greenhouse.io/wheely/jobs/7588377003?gh_jid=7588377003",
       "apply_url": "https://boards.greenhouse.io/wheely/jobs/7588377003?gh_jid=7588377003",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "7588404003",
@@ -164,7 +164,7 @@
       "source_url": "https://boards.greenhouse.io/wheely/jobs/7588404003?gh_jid=7588404003",
       "apply_url": "https://boards.greenhouse.io/wheely/jobs/7588404003?gh_jid=7588404003",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "7588414003",
@@ -182,7 +182,7 @@
       "source_url": "https://boards.greenhouse.io/wheely/jobs/7588414003?gh_jid=7588414003",
       "apply_url": "https://boards.greenhouse.io/wheely/jobs/7588414003?gh_jid=7588414003",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "7655287003",
@@ -200,7 +200,7 @@
       "source_url": "https://boards.greenhouse.io/wheely/jobs/7655287003?gh_jid=7655287003",
       "apply_url": "https://boards.greenhouse.io/wheely/jobs/7655287003?gh_jid=7655287003",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "7655292003",
@@ -218,7 +218,7 @@
       "source_url": "https://boards.greenhouse.io/wheely/jobs/7655292003?gh_jid=7655292003",
       "apply_url": "https://boards.greenhouse.io/wheely/jobs/7655292003?gh_jid=7655292003",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "7712039003",
@@ -236,7 +236,7 @@
       "source_url": "https://boards.greenhouse.io/wheely/jobs/7712039003?gh_jid=7712039003",
       "apply_url": "https://boards.greenhouse.io/wheely/jobs/7712039003?gh_jid=7712039003",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "7712071003",
@@ -254,7 +254,7 @@
       "source_url": "https://boards.greenhouse.io/wheely/jobs/7712071003?gh_jid=7712071003",
       "apply_url": "https://boards.greenhouse.io/wheely/jobs/7712071003?gh_jid=7712071003",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "7752602003",
@@ -272,7 +272,7 @@
       "source_url": "https://boards.greenhouse.io/wheely/jobs/7752602003?gh_jid=7752602003",
       "apply_url": "https://boards.greenhouse.io/wheely/jobs/7752602003?gh_jid=7752602003",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "7820065003",
@@ -290,43 +290,7 @@
       "source_url": "https://boards.greenhouse.io/wheely/jobs/7820065003?gh_jid=7820065003",
       "apply_url": "https://boards.greenhouse.io/wheely/jobs/7820065003?gh_jid=7820065003",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
-    },
-    {
-      "id": "8011693003",
-      "title": "GM, Wheely for Business",
-      "company": "Wheely",
-      "location": "New York, New York, United States",
-      "remote": "unspecified",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-10-05",
-      "updated": "2026-10-29",
-      "deadline": "",
-      "source_url": "https://boards.greenhouse.io/wheely/jobs/8011693003?gh_jid=8011693003",
-      "apply_url": "https://boards.greenhouse.io/wheely/jobs/8011693003?gh_jid=8011693003",
-      "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
-    },
-    {
-      "id": "8014396003",
-      "title": "GM, Wheely for Business",
-      "company": "Wheely",
-      "location": "London, England, United Kingdom",
-      "remote": "unspecified",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-10-06",
-      "updated": "2026-10-29",
-      "deadline": "",
-      "source_url": "https://boards.greenhouse.io/wheely/jobs/8014396003?gh_jid=8014396003",
-      "apply_url": "https://boards.greenhouse.io/wheely/jobs/8014396003?gh_jid=8014396003",
-      "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8015672003",
@@ -344,7 +308,7 @@
       "source_url": "https://boards.greenhouse.io/wheely/jobs/8015672003?gh_jid=8015672003",
       "apply_url": "https://boards.greenhouse.io/wheely/jobs/8015672003?gh_jid=8015672003",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8016670003",
@@ -362,7 +326,7 @@
       "source_url": "https://boards.greenhouse.io/wheely/jobs/8016670003?gh_jid=8016670003",
       "apply_url": "https://boards.greenhouse.io/wheely/jobs/8016670003?gh_jid=8016670003",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8016792003",
@@ -380,7 +344,7 @@
       "source_url": "https://boards.greenhouse.io/wheely/jobs/8016792003?gh_jid=8016792003",
       "apply_url": "https://boards.greenhouse.io/wheely/jobs/8016792003?gh_jid=8016792003",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8016802003",
@@ -398,7 +362,7 @@
       "source_url": "https://boards.greenhouse.io/wheely/jobs/8016802003?gh_jid=8016802003",
       "apply_url": "https://boards.greenhouse.io/wheely/jobs/8016802003?gh_jid=8016802003",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8016813003",
@@ -416,7 +380,7 @@
       "source_url": "https://boards.greenhouse.io/wheely/jobs/8016813003?gh_jid=8016813003",
       "apply_url": "https://boards.greenhouse.io/wheely/jobs/8016813003?gh_jid=8016813003",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8016820003",
@@ -434,7 +398,7 @@
       "source_url": "https://boards.greenhouse.io/wheely/jobs/8016820003?gh_jid=8016820003",
       "apply_url": "https://boards.greenhouse.io/wheely/jobs/8016820003?gh_jid=8016820003",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8016826003",
@@ -452,7 +416,7 @@
       "source_url": "https://boards.greenhouse.io/wheely/jobs/8016826003?gh_jid=8016826003",
       "apply_url": "https://boards.greenhouse.io/wheely/jobs/8016826003?gh_jid=8016826003",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8037295003",
@@ -470,7 +434,7 @@
       "source_url": "https://boards.greenhouse.io/wheely/jobs/8037295003?gh_jid=8037295003",
       "apply_url": "https://boards.greenhouse.io/wheely/jobs/8037295003?gh_jid=8037295003",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8041654003",
@@ -488,7 +452,7 @@
       "source_url": "https://boards.greenhouse.io/wheely/jobs/8041654003?gh_jid=8041654003",
       "apply_url": "https://boards.greenhouse.io/wheely/jobs/8041654003?gh_jid=8041654003",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8072417003",
@@ -506,7 +470,7 @@
       "source_url": "https://boards.greenhouse.io/wheely/jobs/8072417003?gh_jid=8072417003",
       "apply_url": "https://boards.greenhouse.io/wheely/jobs/8072417003?gh_jid=8072417003",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8072418003",
@@ -524,7 +488,7 @@
       "source_url": "https://boards.greenhouse.io/wheely/jobs/8072418003?gh_jid=8072418003",
       "apply_url": "https://boards.greenhouse.io/wheely/jobs/8072418003?gh_jid=8072418003",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8191822003",
@@ -542,7 +506,7 @@
       "source_url": "https://boards.greenhouse.io/wheely/jobs/8191822003?gh_jid=8191822003",
       "apply_url": "https://boards.greenhouse.io/wheely/jobs/8191822003?gh_jid=8191822003",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8197462003",
@@ -560,7 +524,7 @@
       "source_url": "https://boards.greenhouse.io/wheely/jobs/8197462003?gh_jid=8197462003",
       "apply_url": "https://boards.greenhouse.io/wheely/jobs/8197462003?gh_jid=8197462003",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8202462003",
@@ -578,7 +542,7 @@
       "source_url": "https://boards.greenhouse.io/wheely/jobs/8202462003?gh_jid=8202462003",
       "apply_url": "https://boards.greenhouse.io/wheely/jobs/8202462003?gh_jid=8202462003",
       "first_seen": "2026-11-16T15:39:28Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8202469003",
@@ -591,12 +555,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-13",
-      "updated": "2026-11-13",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://boards.greenhouse.io/wheely/jobs/8202469003?gh_jid=8202469003",
       "apply_url": "https://boards.greenhouse.io/wheely/jobs/8202469003?gh_jid=8202469003",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8205364003",
@@ -614,7 +578,7 @@
       "source_url": "https://boards.greenhouse.io/wheely/jobs/8205364003?gh_jid=8205364003",
       "apply_url": "https://boards.greenhouse.io/wheely/jobs/8205364003?gh_jid=8205364003",
       "first_seen": "2026-11-16T15:39:28Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8205366003",
@@ -632,7 +596,7 @@
       "source_url": "https://boards.greenhouse.io/wheely/jobs/8205366003?gh_jid=8205366003",
       "apply_url": "https://boards.greenhouse.io/wheely/jobs/8205366003?gh_jid=8205366003",
       "first_seen": "2026-11-16T15:39:28Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8205371003",
@@ -650,7 +614,7 @@
       "source_url": "https://boards.greenhouse.io/wheely/jobs/8205371003?gh_jid=8205371003",
       "apply_url": "https://boards.greenhouse.io/wheely/jobs/8205371003?gh_jid=8205371003",
       "first_seen": "2026-11-16T15:39:28Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8208007003",
@@ -668,7 +632,7 @@
       "source_url": "https://boards.greenhouse.io/wheely/jobs/8208007003?gh_jid=8208007003",
       "apply_url": "https://boards.greenhouse.io/wheely/jobs/8208007003?gh_jid=8208007003",
       "first_seen": "2026-11-18T15:36:26Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8208009003",
@@ -686,7 +650,7 @@
       "source_url": "https://boards.greenhouse.io/wheely/jobs/8208009003?gh_jid=8208009003",
       "apply_url": "https://boards.greenhouse.io/wheely/jobs/8208009003?gh_jid=8208009003",
       "first_seen": "2026-11-18T15:36:26Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8208040003",
@@ -704,7 +668,7 @@
       "source_url": "https://boards.greenhouse.io/wheely/jobs/8208040003?gh_jid=8208040003",
       "apply_url": "https://boards.greenhouse.io/wheely/jobs/8208040003?gh_jid=8208040003",
       "first_seen": "2026-11-18T15:36:26Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8208215003",
@@ -722,7 +686,61 @@
       "source_url": "https://boards.greenhouse.io/wheely/jobs/8208215003?gh_jid=8208215003",
       "apply_url": "https://boards.greenhouse.io/wheely/jobs/8208215003?gh_jid=8208215003",
       "first_seen": "2026-11-18T15:36:26Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
+    },
+    {
+      "id": "8210441003",
+      "title": "GM, Wheely for Business",
+      "company": "Wheely",
+      "location": "New York, New York, United States",
+      "remote": "unspecified",
+      "department": "",
+      "employment_type": "",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-20",
+      "updated": "2026-11-20",
+      "deadline": "",
+      "source_url": "https://boards.greenhouse.io/wheely/jobs/8210441003?gh_jid=8210441003",
+      "apply_url": "https://boards.greenhouse.io/wheely/jobs/8210441003?gh_jid=8210441003",
+      "first_seen": "2026-11-20T15:23:49Z",
+      "last_checked": "2026-11-20T15:23:49Z"
+    },
+    {
+      "id": "8210442003",
+      "title": "GM, Wheely for Business",
+      "company": "Wheely",
+      "location": "London, England, United Kingdom",
+      "remote": "unspecified",
+      "department": "",
+      "employment_type": "",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-20",
+      "updated": "2026-11-20",
+      "deadline": "",
+      "source_url": "https://boards.greenhouse.io/wheely/jobs/8210442003?gh_jid=8210442003",
+      "apply_url": "https://boards.greenhouse.io/wheely/jobs/8210442003?gh_jid=8210442003",
+      "first_seen": "2026-11-20T15:23:49Z",
+      "last_checked": "2026-11-20T15:23:49Z"
+    },
+    {
+      "id": "8210449003",
+      "title": "Business Development Representative (Chauffeur Partner)",
+      "company": "Wheely",
+      "location": "New York, New York, United States",
+      "remote": "unspecified",
+      "department": "",
+      "employment_type": "",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-20",
+      "updated": "2026-11-20",
+      "deadline": "",
+      "source_url": "https://boards.greenhouse.io/wheely/jobs/8210449003?gh_jid=8210449003",
+      "apply_url": "https://boards.greenhouse.io/wheely/jobs/8210449003?gh_jid=8210449003",
+      "first_seen": "2026-11-20T15:23:49Z",
+      "last_checked": "2026-11-20T15:23:49Z"
     }
   ],
   "ats": "greenhouse",

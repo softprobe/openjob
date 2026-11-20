@@ -1,8 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-19T15:42:04Z",
+  "checked_at": "2026-11-20T15:23:49Z",
   "failed_at": null,
-  "etag": "W/\"26efb79c7ea622b49756f5014838738e\"",
+  "etag": "W/\"a88c52d5c5d44a4d2e7cc0d67b272b5b\"",
   "jobs": [
     {
       "id": "7809130002",
@@ -15,30 +15,30 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2025-01-30",
-      "updated": "2026-10-02",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://www.augury.com/careers/7809130002?gh_jid=7809130002",
       "apply_url": "https://www.augury.com/careers/7809130002?gh_jid=7809130002",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8605027002",
       "title": "Reliability Success Manager",
       "company": "Augury",
-      "location": "Europe",
+      "location": "England",
       "remote": "unspecified",
       "department": "",
       "employment_type": "",
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-06-29",
-      "updated": "2026-10-06",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://www.augury.com/careers/8605027002?gh_jid=8605027002",
       "apply_url": "https://www.augury.com/careers/8605027002?gh_jid=8605027002",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8631129002",
@@ -51,12 +51,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-07-13",
-      "updated": "2026-09-17",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://www.augury.com/careers/8631129002?gh_jid=8631129002",
       "apply_url": "https://www.augury.com/careers/8631129002?gh_jid=8631129002",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8676206002",
@@ -69,12 +69,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-04",
-      "updated": "2026-11-03",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://www.augury.com/careers/8676206002?gh_jid=8676206002",
       "apply_url": "https://www.augury.com/careers/8676206002?gh_jid=8676206002",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8816775002",
@@ -87,12 +87,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-17",
-      "updated": "2026-09-17",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://www.augury.com/careers/8816775002?gh_jid=8816775002",
       "apply_url": "https://www.augury.com/careers/8816775002?gh_jid=8816775002",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8827553002",
@@ -105,12 +105,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-21",
-      "updated": "2026-09-21",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://www.augury.com/careers/8827553002?gh_jid=8827553002",
       "apply_url": "https://www.augury.com/careers/8827553002?gh_jid=8827553002",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8881311002",
@@ -123,12 +123,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-09",
-      "updated": "2026-10-14",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://www.augury.com/careers/8881311002?gh_jid=8881311002",
       "apply_url": "https://www.augury.com/careers/8881311002?gh_jid=8881311002",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8886302002",
@@ -141,12 +141,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-13",
-      "updated": "2026-10-15",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://www.augury.com/careers/8886302002?gh_jid=8886302002",
       "apply_url": "https://www.augury.com/careers/8886302002?gh_jid=8886302002",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8894123002",
@@ -159,12 +159,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-16",
-      "updated": "2026-10-16",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://www.augury.com/careers/8894123002?gh_jid=8894123002",
       "apply_url": "https://www.augury.com/careers/8894123002?gh_jid=8894123002",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8908682002",
@@ -177,12 +177,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-22",
-      "updated": "2026-10-22",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://www.augury.com/careers/8908682002?gh_jid=8908682002",
       "apply_url": "https://www.augury.com/careers/8908682002?gh_jid=8908682002",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8929757002",
@@ -195,12 +195,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-10",
-      "updated": "2026-11-10",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://www.augury.com/careers/8929757002?gh_jid=8929757002",
       "apply_url": "https://www.augury.com/careers/8929757002?gh_jid=8929757002",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     },
     {
       "id": "8949141002",
@@ -213,12 +213,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-17",
-      "updated": "2026-11-17",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://www.augury.com/careers/8949141002?gh_jid=8949141002",
       "apply_url": "https://www.augury.com/careers/8949141002?gh_jid=8949141002",
       "first_seen": "2026-11-18T15:36:26Z",
-      "last_checked": "2026-11-19T15:42:04Z"
+      "last_checked": "2026-11-20T15:23:49Z"
     }
   ],
   "ats": "greenhouse",

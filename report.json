@@ -1,29 +1,34 @@
 {
-  "generated": "2026-11-19T15:42:04Z",
+  "generated": "2026-11-20T15:23:49Z",
   "publish": true,
   "companies": 369,
-  "jobs": 33307,
+  "jobs": 33361,
   "before": {
-    "greenhouse": 12896,
-    "ashby": 3620,
-    "lever": 1942,
-    "workable": 6,
-    "moka": 14642
-  },
-  "after": {
     "greenhouse": 12943,
     "ashby": 3613,
     "lever": 1957,
-    "moka": 14788,
-    "workable": 6
+    "workable": 6,
+    "moka": 14788
+  },
+  "after": {
+    "greenhouse": 12953,
+    "ashby": 3626,
+    "lever": 1959,
+    "moka": 14813,
+    "workable": 10
   },
   "dropped": [],
   "hidden": [],
   "stale": [
     {
       "ats": "lever",
-      "board": "acceldata",
-      "slug": "acceldata"
+      "board": "amarbank",
+      "slug": "amar-bank"
+    },
+    {
+      "ats": "lever",
+      "board": "bhhc",
+      "slug": "berkshire-hathaway-homestate-companies"
     }
   ]
 }
