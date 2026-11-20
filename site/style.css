@@ -515,23 +515,3 @@ body.entry h1 {
   height: 40px;
   flex: none;
 }
-
-/* Article tables (data stories) — minimal, matches the brand tokens. */
-article table {
-  width: 100%;
-  border-collapse: collapse;
-  margin: 1em 0;
-  font-size: 0.95em;
-}
-article th,
-article td {
-  text-align: left;
-  padding: 0.45em 0.6em;
-  border-bottom: 1px solid #E7E0CF;
-}
-article th {
-  font-weight: 600;
-}
-article tr:last-child td {
-  border-bottom: none;
-}
