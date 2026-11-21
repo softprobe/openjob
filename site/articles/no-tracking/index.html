@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" type="image/svg+xml" href="../../favicon.svg">
+  <title>A job board with no tracking, on purpose — OpenJob</title>
+  <meta name="description" content="OpenJob has no accounts, no third-party scripts, no phone numbers in any post, and no emails on profiles. The privacy is enforced by the post checker, not promised in a policy page.">
+  <link rel="canonical" href="https://openjob.softprobe.ai/articles/no-tracking/">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="OpenJob">
+  <meta property="og:title" content="A job board with no tracking, on purpose — OpenJob">
+  <meta property="og:description" content="OpenJob has no accounts, no third-party scripts, no phone numbers in any post, and no emails on profiles. The privacy is enforced by the post checker, not promised in a policy page.">
+  <meta property="og:url" content="https://openjob.softprobe.ai/articles/no-tracking/">
+  <!-- openjob:social -->
+  <meta property="og:image" content="https://openjob.softprobe.ai/og.png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="OpenJob. Open, privacy-first job board on GitHub">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:image" content="https://openjob.softprobe.ai/og.png">
+  <meta name="twitter:image:alt" content="OpenJob. Open, privacy-first job board on GitHub">
+  <meta name="google-site-verification" content="a2xq4xTZGnwkNdS2FSOJ9EGiUwnSmcRUcCAa2CUkiPI">
+  <!-- /openjob:social -->
+  <meta name="twitter:title" content="A job board with no tracking, on purpose — OpenJob">
+  <meta name="twitter:description" content="OpenJob has no accounts, no third-party scripts, no phone numbers in any post, and no emails on profiles. The privacy is enforced by the post checker, not promised in a policy page.">
+  <link rel="stylesheet" href="../../style.css">
+</head>
+<body class="entry">
+  <div class="wrap">
+    <header class="mast">
+      <div>
+        <div class="brand-row"><img class="brand-mark" src="../../favicon.svg" alt="OpenJob logo" width="40" height="40"><p class="kicker">OpenJob</p></div>
+        <h1>A job board with no tracking, on purpose</h1>
+        <p class="sub">OpenJob · November 20, 2026</p>
+      </div>
+      <div class="mast-side">
+        <button type="button" class="text-button" data-lang-toggle aria-pressed="false">中文</button>
+        <a href="https://openjob.softprobe.ai/" data-i18n="board">Board</a>
+      </div>
+    </header>
+    <article>
+      <p>OpenJob's front page says it in one line: free for everyone, no account, no tracking. That is not a marketing claim. It is a description of how the board is built — and, where it matters, it is enforced by the same checker that validates every post.</p>
+      <h2>No tracking, because there is nothing to track with</h2>
+      <p>Searching the board needs no account, no sign-in, and no cookie banner to dismiss. The pages load their scripts from OpenJob itself — the board's own <code>app.js</code>, <code>share.js</code>, <code>i18n.js</code>, and a vendored QR-code script — and fetch their data from OpenJob's own index. There are no third-party scripts, no analytics beacons, and no ads. A job board for agents has no use for knowing who you are: your agent does the matching, the board just publishes the facts, and the facts do not improve if we watch you read them.</p>
+      <p>Posting is the one place an account exists, and it is not ours. A job is a pull request on GitHub, so the login is GitHub's. OpenJob holds no passwords and no credentials of its own; there is nothing here to leak.</p>
+      <h2>No phone numbers, anywhere, ever</h2>
+      <p>The post checker rejects a phone number in any post — job, talent profile, or company page. It also rejects the disguises: <code>name [at] domain</code>, fullwidth characters, HTML entities, <code>%40</code>, <code>+86</code> mobiles, and Chinese numerals. A phone number is the one contact method that cannot be filtered, unsubscribed from, or revoked, so the board does not allow it in any form.</p>
+      <h2>No emails on profiles — and one address, at most, on a job</h2>
+      <p>A talent profile cannot contain an email address at all. The contact for a person is the GitHub pull request that published the profile, plus an optional personal website or LinkedIn link. No WeChat ID, no WhatsApp handle, no Telegram handle either.</p>
+      <p>A job may carry exactly one hiring address, and only on the company's own domain — <code>mailto:jobs@example.com</code> when email is the only application method, or as <code>apply_email</code> alongside an <code>https://</code> application link. A personal address, or any address on another domain, is rejected. The address lives in the front matter only: it is never copied into the body, and it is never copied into share text. A company page carries no hiring address at all — the hiring address belongs on the job.</p>
+      <p>That last rule is the point. A hiring address on a job is a fact a candidate needs. The same address in a share card is exposure the employer never asked for. The board prints it where it is useful and withholds it where it is not.</p>
+      <h2>Expiry is privacy, too</h2>
+      <p>Data that does not linger cannot leak later. A job post lasts 60 days from its posted date; a talent profile lasts 180 days unless renewed. Expiry is enforced by the board, not requested of the poster — a scheduled workflow removes expired files from the live tree. A talent profile also carries a private delete token, so its owner can take it down at any time; the honest caveat is that deletion cannot recall copies someone already downloaded. Posts are public by design, under CC BY 4.0, and public means public.</p>
+      <h2>Why this is a design decision, not a feature</h2>
+      <p>A conventional job board collects contact details because its business is the details: resumes to sell, candidates to message, behavior to measure. OpenJob's business is a public file format. The board earns trust by holding less, not by guarding more — every field it refuses to collect is a breach that cannot happen and a consent dialog that never appears. The checker is the mechanism: the privacy rules are not a page that asks you to believe us, they are a test that every post has to pass before it goes live.</p>
+      <p>The rules are written out in full in <code>CONTRIBUTING.md</code> under "What the check enforces" and "Privacy", at <a href="https://github.com/softprobe/openjob">github.com/softprobe/openjob</a>. If a rule is missing there, it is not a rule — and if a post breaks one, the checker, not a moderator's mood, says so.</p>
+      <p><em>The board is at <a href="https://openjob.softprobe.ai">openjob.softprobe.ai</a>; the source is <a href="https://github.com/softprobe/openjob">github.com/softprobe/openjob</a>.</em></p>
+    </article>
+    <footer>
+      <p><a href="https://openjob.softprobe.ai/">OpenJob</a> · <a href="https://github.com/softprobe/openjob" data-i18n="source">Source</a></p>
+    </footer>
+  </div>
+  <script src="../../i18n.js?v=a850439327b7cac9ea924be99d3a9fa43b4fa01d"></script>
+</body>
+</html>
