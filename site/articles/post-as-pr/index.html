@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" type="image/svg+xml" href="../../favicon.svg">
+  <title>Post a job as a pull request — OpenJob</title>
+  <meta name="description" content="Posting a job on OpenJob is one Markdown file in one pull request: copy the template, fill in the front matter, open the PR, and the checker validates it and merges it. No form, no account, no fee.">
+  <link rel="canonical" href="https://openjob.softprobe.ai/articles/post-as-pr/">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="OpenJob">
+  <meta property="og:title" content="Post a job as a pull request — OpenJob">
+  <meta property="og:description" content="Posting a job on OpenJob is one Markdown file in one pull request: copy the template, fill in the front matter, open the PR, and the checker validates it and merges it. No form, no account, no fee.">
+  <meta property="og:url" content="https://openjob.softprobe.ai/articles/post-as-pr/">
+  <!-- openjob:social -->
+  <meta property="og:image" content="https://openjob.softprobe.ai/og.png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="OpenJob. Open, privacy-first job board on GitHub">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:image" content="https://openjob.softprobe.ai/og.png">
+  <meta name="twitter:image:alt" content="OpenJob. Open, privacy-first job board on GitHub">
+  <meta name="google-site-verification" content="a2xq4xTZGnwkNdS2FSOJ9EGiUwnSmcRUcCAa2CUkiPI">
+  <!-- /openjob:social -->
+  <meta name="twitter:title" content="Post a job as a pull request — OpenJob">
+  <meta name="twitter:description" content="Posting a job on OpenJob is one Markdown file in one pull request: copy the template, fill in the front matter, open the PR, and the checker validates it and merges it. No form, no account, no fee.">
+  <link rel="stylesheet" href="../../style.css">
+</head>
+<body class="entry">
+  <div class="wrap">
+    <header class="mast">
+      <div>
+        <div class="brand-row"><img class="brand-mark" src="../../favicon.svg" alt="OpenJob logo" width="40" height="40"><p class="kicker">OpenJob</p></div>
+        <h1>Post a job as a pull request</h1>
+        <p class="sub">OpenJob · November 20, 2026</p>
+      </div>
+      <div class="mast-side">
+        <button type="button" class="text-button" data-lang-toggle aria-pressed="false">中文</button>
+        <a href="https://openjob.softprobe.ai/" data-i18n="board">Board</a>
+      </div>
+    </header>
+    <article>
+      <p>There is no posting form on OpenJob, no employer account, and no fee. A job is one Markdown file in one pull request on GitHub. About two minutes of typing, a check that runs itself, and the post is live — with a permalink every agent can read. This is the whole walkthrough.</p>
+      <h2>Step 1 — Copy the template</h2>
+      <p>Copy <code>templates/job.md</code> from <a href="https://github.com/softprobe/openjob">github.com/softprobe/openjob</a>. It is a YAML front matter block and a short body. The front matter you must fill in: <code>kind</code> (<code>job</code>), <code>title</code>, <code>company</code> (a slug), <code>company_name</code>, <code>role_slug</code>, <code>location</code>, <code>remote</code> (<code>true</code>, <code>false</code>, or <code>hybrid</code> — or the words <code>remote</code>, <code>onsite</code>, <code>hybrid</code>), <code>languages</code>, <code>tags</code>, <code>apply</code>, <code>posted</code>, and <code>posted_by</code>.</p>
+      <h2>Step 2 — Set the apply method and your login</h2>
+      <p><code>apply</code> is required, and it has two shapes: an <code>https://</code> link to an ATS, a careers page, or a LinkedIn job — or one <code>mailto:</code> address on the company website's own domain. To offer both, keep the <code>https://</code> link in <code>apply</code> and put the <code>mailto:</code> in <code>apply_email</code>. A job has one hiring address; setting both fields to <code>mailto:</code> is rejected, as are shorteners, personal addresses, and addresses on any other domain. Set <code>posted_by</code> to your GitHub login — the login that will open the pull request. Set <code>posted</code> to today: a new post's posted date has to be within the last 45 days, and not more than two days in the future.</p>
+      <p>Optional fields, all backward compatible: <code>employment_type</code> (a schema.org value such as <code>FULL_TIME</code>), structured <code>salary</code> (<code>min</code>, optional <code>max</code>, ISO 4217 <code>currency</code>, <code>unit</code> of <code>HOUR</code>, <code>DAY</code>, <code>WEEK</code>, <code>MONTH</code>, or <code>YEAR</code>), structured <code>locations</code>, and a short <code>compensation</code> note. Leave <code>salary</code> out unless the number is real — do not invent one. The body, at least 40 characters, describes the work in plain words. Do not put an email address or a phone number in the body; the checker rejects both.</p>
+      <h2>Step 3 — Save it in the right path</h2>
+      <p>Save the file as <code>jobs/YYYY/MM/&lt;company&gt;-&lt;role-slug&gt;.md</code>, where <code>YYYY/MM</code> is the <code>posted</code> month. For example, a post dated November 2026 from Example Studio for an open-source maintainer goes at <code>jobs/2026/11/example-studio-open-source-maintainer.md</code>. The file must be UTF-8 Markdown, 10 KB or smaller, with at most 12 links.</p>
+      <h2>Step 4 — Open a pull request with only that file</h2>
+      <p>Open a pull request that adds only that file. A second new post is a separate pull request. If the company has no page yet, it can be added first in its own pull request — a company page lists its <code>owners</code>, is reviewed once by the maintainers, and does not auto-merge. After that, only those owners can add or edit that company's jobs; if there is no company page, only the login in <code>posted_by</code> can edit the job later.</p>
+      <h2>Step 5 — Let the checker do the review</h2>
+      <p>On the pull request, the <code>validate</code> workflow runs the unit tests and <code>python -m validator check-pr</code>. It checks the JSON Schema for the kind, the path and filename, the file size and format, the privacy rules, the link count (12), <code>https</code> on the structured links, no shorteners, and that the author owns every file. If anything fails, the bot comments with the code and the fix; push a fix and both checks run again. Posts are not reviewed by hand — the checker is the gate.</p>
+      <p>If the checks pass, the pull request squash-merges itself: the auto-merge workflow re-runs the check from the base branch and merges only when the <code>validate</code> check succeeded for the same head commit. The workflow then comments with the permalink and the share links for the post. A pull request that also edits workflows, docs, or the site does not auto-merge — the maintainers approve those.</p>
+      <h2>After it is live</h2>
+      <p>A job lasts 60 days from <code>posted</code>, or from <code>renewed</code> if you set it; you may set <code>expires</code> sooner, never later than the cap. To change the job, edit the same file in a new pull request and leave <code>posted</code> as it is. To renew it, set <code>renewed</code> to the day you open the pull request. To close it, delete the file in a pull request. Git history is the archive: expired files are removed from the live tree, and a post can be restored from the parent of the expiry commit.</p>
+      <p>That is the entire hiring flow: a file, a pull request, a check, a permalink. The job is then in the same public dataset every agent already reads — the board at <a href="https://openjob.softprobe.ai">openjob.softprobe.ai</a>, the manifest at <code>https://openjob.softprobe.ai/api/data/manifest.json</code>, and the <code>llms.txt</code> your candidate's agent follows. The full rules, with an example file, are in <code>CONTRIBUTING.md</code> under "Post a job" at <a href="https://github.com/softprobe/openjob">github.com/softprobe/openjob</a>.</p>
+      <p><em>Try it yourself: paste "Read https://openjob.softprobe.ai/llms.txt and follow it. Find me a job." into the agent you already use — Muse, ChatGPT/Codex, Cursor, Hermes, or Instinct — and see what it finds. The board is at <a href="https://openjob.softprobe.ai">openjob.softprobe.ai</a>; the source is <a href="https://github.com/softprobe/openjob">github.com/softprobe/openjob</a>.</em></p>
+    </article>
+    <footer>
+      <p><a href="https://openjob.softprobe.ai/">OpenJob</a> · <a href="https://github.com/softprobe/openjob" data-i18n="source">Source</a></p>
+    </footer>
+  </div>
+  <script src="../../i18n.js?v=a850439327b7cac9ea924be99d3a9fa43b4fa01d"></script>
+</body>
+</html>
