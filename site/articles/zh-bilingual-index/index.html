@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="zh-Hans">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" type="image/svg+xml" href="../../favicon.svg">
+  <title>索引中 40% 是中文岗位——一个双语索引，用双语写自己 — OpenJob</title>
+  <meta name="description" content="抽查的 5,107 个岗位标题中，2,053 个含有中文字符，占 40.2%。Moka 是中文索引，Ashby 与 Greenhouse 是英文索引；同一套字段装着两个索引。本文中文版与英文版同一天发布。">
+  <link rel="canonical" href="https://openjob.softprobe.ai/articles/zh-bilingual-index/">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="OpenJob">
+  <meta property="og:title" content="索引中 40% 是中文岗位——一个双语索引，用双语写自己 — OpenJob">
+  <meta property="og:description" content="抽查的 5,107 个岗位标题中，2,053 个含有中文字符，占 40.2%。Moka 是中文索引，Ashby 与 Greenhouse 是英文索引；同一套字段装着两个索引。本文中文版与英文版同一天发布。">
+  <meta property="og:url" content="https://openjob.softprobe.ai/articles/zh-bilingual-index/">
+  <!-- openjob:social -->
+  <meta property="og:image" content="https://openjob.softprobe.ai/og.png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="OpenJob. Open, privacy-first job board on GitHub">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:image" content="https://openjob.softprobe.ai/og.png">
+  <meta name="twitter:image:alt" content="OpenJob. Open, privacy-first job board on GitHub">
+  <meta name="google-site-verification" content="a2xq4xTZGnwkNdS2FSOJ9EGiUwnSmcRUcCAa2CUkiPI">
+  <!-- /openjob:social -->
+  <meta name="twitter:title" content="索引中 40% 是中文岗位——一个双语索引，用双语写自己 — OpenJob">
+  <meta name="twitter:description" content="抽查的 5,107 个岗位标题中，2,053 个含有中文字符，占 40.2%。Moka 是中文索引，Ashby 与 Greenhouse 是英文索引；同一套字段装着两个索引。本文中文版与英文版同一天发布。">
+  <link rel="stylesheet" href="../../style.css">
+</head>
+<body class="entry">
+  <div class="wrap">
+    <header class="mast">
+      <div>
+        <div class="brand-row"><img class="brand-mark" src="../../favicon.svg" alt="OpenJob logo" width="40" height="40"><p class="kicker">OpenJob</p></div>
+        <h1>索引中 40% 是中文岗位——一个双语索引，用双语写自己</h1>
+        <p class="sub">OpenJob · 2026年11月20日</p>
+      </div>
+      <div class="mast-side">
+        <button type="button" class="text-button" data-lang-toggle aria-pressed="false">English</button>
+        <a href="https://openjob.softprobe.ai/" data-i18n="board">招聘板</a>
+      </div>
+    </header>
+    <article>
+      <p><em>说明：我是 OpenJob 的维护者。这篇文章本身就是它讲的故事：一份双语索引，用双语写自己——中文版与英文版同一天发布，同一组数字，两种语言。</em></p>
+      <p>OpenJob 的索引是二合一的索引。抽查的 5,107 个岗位标题中，2,053 个含有中文字符，占 40.2%。近三分之一的雇主名称也含有中文字符（30.3%）。分界线正好沿着招聘系统（ATS）的管道划开：Moka 的标题 97.8% 是中文，而 Ashby 和 Greenhouse 的标题 0% 是中文。Moka 是中文索引；Ashby 和 Greenhouse 是英文索引；同一套字段装着两者。</p>
+      <h2>岗位在哪里</h2>
+      <p>按地点统计，地点来自自由文本的 location 字段（93.0% 的记录有这个字段）：</p>
+      <table>
+        <thead>
+          <tr><th>地区</th><th>全部抽查</th><th>新鲜子集（60 天内发布）</th></tr>
+        </thead>
+        <tbody>
+          <tr><td>中国</td><td>33.9%（1,729 条）</td><td>28.0%（629 条）</td></tr>
+          <tr><td>美国</td><td>27.4%（1,400 条）</td><td><strong>30.6%（688 条）</strong></td></tr>
+          <tr><td>远程 / 未注明地点文本</td><td>10.8%（550 条）</td><td>12.8%（288 条）</td></tr>
+          <tr><td>其他 / 未分类</td><td>9.3%（474 条）</td><td>11.0%（246 条）</td></tr>
+          <tr><td>地点缺失</td><td>7.0%（357 条）</td><td>2.9%（65 条）</td></tr>
+          <tr><td>其他国家</td><td>4.4%（226 条）</td><td>4.1%（91 条）</td></tr>
+          <tr><td>欧洲</td><td>4.4%（223 条）</td><td>5.9%（133 条）</td></tr>
+          <tr><td>英国</td><td>2.9%（148 条）</td><td>4.7%（105 条）</td></tr>
+        </tbody>
+      </table>
+      <p>中国是索引中最大的单一地区，约占三分之一；美国第二，略高于四分之一。原始地点出现最多的分别是 上海市, 中国（477 条）、深圳市, 广东, 中国（430 条）、北京市, 中国（301 条）——以及“Hybrid”（374 条），它是一个地点字段值，不是一个地方。</p>
+      <h2>新岗位偏向美国</h2>
+      <p>新鲜子集——最近 60 天内发布的 2,245 条记录——讲的是另一个故事。在那里，美国以 30.6% 对 28.0% 领先中国。原因是管道：Moka 是索引里最旧的来源（只有 33.4% 的记录是新鲜的，而 Ashby 是 67.2%），所以索引的中文一半比英文一半老化得更快。档案是中文重的；在招的岗位比标题数字显示的更偏向美国。</p>
+      <h2>为什么重要</h2>
+      <p>没有其他英文招聘索引会在同一套字段下提供 40% 的中文岗位。这是一个真正的差异点，不是营销话术：会中文的求职者可以用自己的 AI 助手搜索同一个招聘板、同一套字段，和英文求职者一模一样——而且 Agent 岗位也有中文的。阶跃星辰在招“Agent Harness 技术leader”和“AI Agent产品经理”；微博在招“AI Agent研发工程师”；大疆挂着“中/高级多媒体算法工程师（AI/AIGC/AI Agent）”。</p>
+      <p>对雇主来说同样重要。Moka 那一半索引背后的招聘负责人，读到的是一块会说他们语言的招聘板——OpenJob 的原生岗位同样接受中文和英文。如果索引还要增长，相当一部分增长会来自英文版发布永远触达不到的那一侧。</p>
+      <p>而这篇文章就是证明：你正在读的中文版，和英文版是同一篇文章。双语索引，双语讲述——不是翻译成中文的英文故事，而是两种语言各自讲同一个数字。</p>
+      <h2>我们是怎么数的</h2>
+      <ul>
+        <li><strong>来源：</strong>公开清单 <code>https://openjob.softprobe.ai/api/data/manifest.json</code>，生成于 2026-11-18T20:08:03Z；33,107 个岗位、34 个分片、<code>complete: true</code>。截至 2026 年 11 月 20 日，清单总数为 33,362 条；本篇的百分比来自 11 月 18 日的快照。</li>
+        <li><strong>抽查：</strong>5,107 条记录，来自编号 0、7、14、20、27、33 的分片。分片是按来源切分的，不是随机的——每个分片只装一个招聘系统（ATS）——所以这是一次整群抽查。抽查中没有 Lever 的记录（Lever 占完整数据集的 6.0%），Ashby 的比重被高估了。百分比都是抽查百分比。</li>
+        <li><strong>方法：</strong>标题含有至少一个中日韩（CJK）字符即算“含中文”。地点是用自由文本 <code>location</code> 字段的分类器划分的（中国 = 含“中国”或中国城市名；美国 = “United States”/“USA”/州代码/美国城市；英国/欧洲 = 具名城市）；9.3% 未分类，7.0% 缺失。</li>
+        <li><strong>收录 ≠ 招募。</strong>所有数字描述的都是从雇主招聘板上收录的记录。OpenJob 没有招募这些雇主；文本归雇主所有。</li>
+      </ul>
+      <p><em>招聘板在 <a href="https://openjob.softprobe.ai">openjob.softprobe.ai</a>；源代码在 <a href="https://github.com/softprobe/openjob">github.com/softprobe/openjob</a>。英文版见 <a href="https://openjob.softprobe.ai/articles/bilingual-index/">40% of the index is Chinese-language postings</a>。</em></p>
+    </article>
+    <footer>
+      <p><a href="https://openjob.softprobe.ai/">OpenJob</a> · <a href="https://github.com/softprobe/openjob" data-i18n="source">源代码</a></p>
+    </footer>
+  </div>
+  <script src="../../i18n.js?v=a850439327b7cac9ea924be99d3a9fa43b4fa01d"></script>
+</body>
+</html>
+<!-- ZH social cut: derives from this article — see the C15 bilingual thread (day2-content/s16-bilingual-thread.txt), EN + ZH in the same thread. -->
