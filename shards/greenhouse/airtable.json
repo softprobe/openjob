@@ -1,8 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-20T15:23:49Z",
+  "checked_at": "2026-11-21T14:37:10Z",
   "failed_at": null,
-  "etag": "W/\"b83a6a7db11be0a48bc37b34039006cd\"",
+  "etag": "W/\"dcee0648f432e9d69f61117828c7ca52\"",
   "jobs": [
     {
       "id": "7909563002",
@@ -15,12 +15,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2025-03-17",
-      "updated": "2026-11-17",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/airtable/jobs/7909563002",
       "apply_url": "https://job-boards.greenhouse.io/airtable/jobs/7909563002",
       "first_seen": "2026-11-18T15:36:26Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8368711002",
@@ -33,12 +33,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-01-26",
-      "updated": "2026-11-03",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/airtable/jobs/8368711002",
       "apply_url": "https://job-boards.greenhouse.io/airtable/jobs/8368711002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8403107002",
@@ -51,12 +51,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-03-03",
-      "updated": "2026-11-03",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/airtable/jobs/8403107002",
       "apply_url": "https://job-boards.greenhouse.io/airtable/jobs/8403107002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8403127002",
@@ -69,12 +69,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-02-28",
-      "updated": "2026-11-03",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/airtable/jobs/8403127002",
       "apply_url": "https://job-boards.greenhouse.io/airtable/jobs/8403127002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8425211002",
@@ -87,12 +87,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-02-17",
-      "updated": "2026-10-30",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/airtable/jobs/8425211002",
       "apply_url": "https://job-boards.greenhouse.io/airtable/jobs/8425211002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8498915002",
@@ -105,12 +105,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-04-16",
-      "updated": "2026-11-17",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/airtable/jobs/8498915002",
       "apply_url": "https://job-boards.greenhouse.io/airtable/jobs/8498915002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8579474002",
@@ -123,12 +123,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-17",
-      "updated": "2026-11-17",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/airtable/jobs/8579474002",
       "apply_url": "https://job-boards.greenhouse.io/airtable/jobs/8579474002",
       "first_seen": "2026-11-18T15:36:26Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8905022002",
@@ -141,12 +141,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-28",
-      "updated": "2026-11-03",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/airtable/jobs/8905022002",
       "apply_url": "https://job-boards.greenhouse.io/airtable/jobs/8905022002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8936208002",
@@ -159,12 +159,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-10",
-      "updated": "2026-11-10",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/airtable/jobs/8936208002",
       "apply_url": "https://job-boards.greenhouse.io/airtable/jobs/8936208002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8937075002",
@@ -177,12 +177,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-10",
-      "updated": "2026-11-10",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/airtable/jobs/8937075002",
       "apply_url": "https://job-boards.greenhouse.io/airtable/jobs/8937075002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8938456002",
@@ -195,12 +195,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-11",
-      "updated": "2026-11-11",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/airtable/jobs/8938456002",
       "apply_url": "https://job-boards.greenhouse.io/airtable/jobs/8938456002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     }
   ],
   "ats": "greenhouse",

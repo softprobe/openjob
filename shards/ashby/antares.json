@@ -1,8 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-20T15:23:49Z",
+  "checked_at": "2026-11-21T14:37:10Z",
   "failed_at": null,
-  "etag": "W/\"job-board:8d5df506025adbd6c7bde4de961ef207df2f54ee248c4e1dc58383af37416ef5\"",
+  "etag": "W/\"job-board:482cb9c5873d76f8d434adce86dee196610778b422f1f39a84b2a02f29558eda\"",
   "jobs": [
     {
       "id": "0609a90b-f698-4e34-b46f-c2807160b2c1",
@@ -20,7 +20,25 @@
       "source_url": "https://jobs.ashbyhq.com/Antares/0609a90b-f698-4e34-b46f-c2807160b2c1",
       "apply_url": "https://jobs.ashbyhq.com/Antares/0609a90b-f698-4e34-b46f-c2807160b2c1/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
+    },
+    {
+      "id": "06470218-df11-4ffb-ab57-0a18de802d9f",
+      "title": "Quality Inspector II-III",
+      "company": "Antares",
+      "location": "Los Angeles",
+      "remote": "unspecified",
+      "department": "Manufacturing & Quality",
+      "employment_type": "FULL_TIME",
+      "salary_text": "$32.25 - $52.50",
+      "salary_source": "ashby",
+      "posted": "2026-11-20",
+      "updated": "",
+      "deadline": "",
+      "source_url": "https://jobs.ashbyhq.com/Antares/06470218-df11-4ffb-ab57-0a18de802d9f",
+      "apply_url": "https://jobs.ashbyhq.com/Antares/06470218-df11-4ffb-ab57-0a18de802d9f/application",
+      "first_seen": "2026-11-21T14:37:10Z",
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "07186319-4739-49a1-b2f0-964cad1a48c4",
@@ -38,7 +56,7 @@
       "source_url": "https://jobs.ashbyhq.com/Antares/07186319-4739-49a1-b2f0-964cad1a48c4",
       "apply_url": "https://jobs.ashbyhq.com/Antares/07186319-4739-49a1-b2f0-964cad1a48c4/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "08f56bdc-bbef-4260-9ad9-1467f28481d3",
@@ -56,7 +74,7 @@
       "source_url": "https://jobs.ashbyhq.com/Antares/08f56bdc-bbef-4260-9ad9-1467f28481d3",
       "apply_url": "https://jobs.ashbyhq.com/Antares/08f56bdc-bbef-4260-9ad9-1467f28481d3/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "0916928c-c6c3-4610-ad0a-925d9b8574a4",
@@ -74,7 +92,7 @@
       "source_url": "https://jobs.ashbyhq.com/Antares/0916928c-c6c3-4610-ad0a-925d9b8574a4",
       "apply_url": "https://jobs.ashbyhq.com/Antares/0916928c-c6c3-4610-ad0a-925d9b8574a4/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "0ba5a72f-35b5-451e-b05a-8f96c9d3101e",
@@ -92,7 +110,7 @@
       "source_url": "https://jobs.ashbyhq.com/Antares/0ba5a72f-35b5-451e-b05a-8f96c9d3101e",
       "apply_url": "https://jobs.ashbyhq.com/Antares/0ba5a72f-35b5-451e-b05a-8f96c9d3101e/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "0dc3aabc-fd44-4d4b-bb79-9b2e5fd57c06",
@@ -110,7 +128,7 @@
       "source_url": "https://jobs.ashbyhq.com/Antares/0dc3aabc-fd44-4d4b-bb79-9b2e5fd57c06",
       "apply_url": "https://jobs.ashbyhq.com/Antares/0dc3aabc-fd44-4d4b-bb79-9b2e5fd57c06/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "126e9cd3-7424-485a-993d-e621e9ab60d3",
@@ -128,7 +146,7 @@
       "source_url": "https://jobs.ashbyhq.com/Antares/126e9cd3-7424-485a-993d-e621e9ab60d3",
       "apply_url": "https://jobs.ashbyhq.com/Antares/126e9cd3-7424-485a-993d-e621e9ab60d3/application",
       "first_seen": "2026-11-18T15:36:26Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "12b8efed-e05e-4ab0-8850-abd888c88ceb",
@@ -146,7 +164,7 @@
       "source_url": "https://jobs.ashbyhq.com/Antares/12b8efed-e05e-4ab0-8850-abd888c88ceb",
       "apply_url": "https://jobs.ashbyhq.com/Antares/12b8efed-e05e-4ab0-8850-abd888c88ceb/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "17e1ff12-4c38-46bb-bd95-dda09714e848",
@@ -164,7 +182,7 @@
       "source_url": "https://jobs.ashbyhq.com/Antares/17e1ff12-4c38-46bb-bd95-dda09714e848",
       "apply_url": "https://jobs.ashbyhq.com/Antares/17e1ff12-4c38-46bb-bd95-dda09714e848/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "1a16595f-b631-4797-94e5-faecf08c5d6d",
@@ -182,7 +200,7 @@
       "source_url": "https://jobs.ashbyhq.com/Antares/1a16595f-b631-4797-94e5-faecf08c5d6d",
       "apply_url": "https://jobs.ashbyhq.com/Antares/1a16595f-b631-4797-94e5-faecf08c5d6d/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "1b0a511b-887c-4679-823d-c5a649803d95",
@@ -200,7 +218,7 @@
       "source_url": "https://jobs.ashbyhq.com/Antares/1b0a511b-887c-4679-823d-c5a649803d95",
       "apply_url": "https://jobs.ashbyhq.com/Antares/1b0a511b-887c-4679-823d-c5a649803d95/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "1e6f8e40-5fbd-4796-b0ee-82720dff20fe",
@@ -218,7 +236,7 @@
       "source_url": "https://jobs.ashbyhq.com/Antares/1e6f8e40-5fbd-4796-b0ee-82720dff20fe",
       "apply_url": "https://jobs.ashbyhq.com/Antares/1e6f8e40-5fbd-4796-b0ee-82720dff20fe/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "275fc96f-9c18-4761-978a-c22039fbdb67",
@@ -236,7 +254,7 @@
       "source_url": "https://jobs.ashbyhq.com/Antares/275fc96f-9c18-4761-978a-c22039fbdb67",
       "apply_url": "https://jobs.ashbyhq.com/Antares/275fc96f-9c18-4761-978a-c22039fbdb67/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "2b9ec162-7ea9-45f9-8407-a2cafe547f1c",
@@ -254,7 +272,7 @@
       "source_url": "https://jobs.ashbyhq.com/Antares/2b9ec162-7ea9-45f9-8407-a2cafe547f1c",
       "apply_url": "https://jobs.ashbyhq.com/Antares/2b9ec162-7ea9-45f9-8407-a2cafe547f1c/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "2b9edb02-75a0-43da-b3f5-bf155c9c0050",
@@ -272,7 +290,7 @@
       "source_url": "https://jobs.ashbyhq.com/Antares/2b9edb02-75a0-43da-b3f5-bf155c9c0050",
       "apply_url": "https://jobs.ashbyhq.com/Antares/2b9edb02-75a0-43da-b3f5-bf155c9c0050/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "2c4a258e-9f4e-4e7b-bfa4-a7d8d67772b8",
@@ -290,7 +308,7 @@
       "source_url": "https://jobs.ashbyhq.com/Antares/2c4a258e-9f4e-4e7b-bfa4-a7d8d67772b8",
       "apply_url": "https://jobs.ashbyhq.com/Antares/2c4a258e-9f4e-4e7b-bfa4-a7d8d67772b8/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "2cd54a42-aebc-4c95-81d9-3427f1996b4d",
@@ -308,7 +326,7 @@
       "source_url": "https://jobs.ashbyhq.com/Antares/2cd54a42-aebc-4c95-81d9-3427f1996b4d",
       "apply_url": "https://jobs.ashbyhq.com/Antares/2cd54a42-aebc-4c95-81d9-3427f1996b4d/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "2e3e23a2-4adf-4695-a777-1b944be85828",
@@ -326,7 +344,7 @@
       "source_url": "https://jobs.ashbyhq.com/Antares/2e3e23a2-4adf-4695-a777-1b944be85828",
       "apply_url": "https://jobs.ashbyhq.com/Antares/2e3e23a2-4adf-4695-a777-1b944be85828/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "2fb62c72-e9e4-4828-a2cc-b8e46b63e2f5",
@@ -344,7 +362,7 @@
       "source_url": "https://jobs.ashbyhq.com/Antares/2fb62c72-e9e4-4828-a2cc-b8e46b63e2f5",
       "apply_url": "https://jobs.ashbyhq.com/Antares/2fb62c72-e9e4-4828-a2cc-b8e46b63e2f5/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "3061297c-a666-47be-a58a-b62881bf183d",
@@ -362,7 +380,7 @@
       "source_url": "https://jobs.ashbyhq.com/Antares/3061297c-a666-47be-a58a-b62881bf183d",
       "apply_url": "https://jobs.ashbyhq.com/Antares/3061297c-a666-47be-a58a-b62881bf183d/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "38087f67-5a2b-4c93-93a3-af5633f4b577",
@@ -380,7 +398,7 @@
       "source_url": "https://jobs.ashbyhq.com/Antares/38087f67-5a2b-4c93-93a3-af5633f4b577",
       "apply_url": "https://jobs.ashbyhq.com/Antares/38087f67-5a2b-4c93-93a3-af5633f4b577/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "39e8efad-121b-4394-b16a-917e367997b0",
@@ -398,7 +416,7 @@
       "source_url": "https://jobs.ashbyhq.com/Antares/39e8efad-121b-4394-b16a-917e367997b0",
       "apply_url": "https://jobs.ashbyhq.com/Antares/39e8efad-121b-4394-b16a-917e367997b0/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "3b45beac-b8bd-4ba6-b3e2-792c785b0e63",
@@ -416,7 +434,7 @@
       "source_url": "https://jobs.ashbyhq.com/Antares/3b45beac-b8bd-4ba6-b3e2-792c785b0e63",
       "apply_url": "https://jobs.ashbyhq.com/Antares/3b45beac-b8bd-4ba6-b3e2-792c785b0e63/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "441030a4-17a5-42c9-88d5-b4e879d205c5",
@@ -434,7 +452,7 @@
       "source_url": "https://jobs.ashbyhq.com/Antares/441030a4-17a5-42c9-88d5-b4e879d205c5",
       "apply_url": "https://jobs.ashbyhq.com/Antares/441030a4-17a5-42c9-88d5-b4e879d205c5/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "44c93b08-7adf-4212-b416-7b44f36daeec",
@@ -452,7 +470,7 @@
       "source_url": "https://jobs.ashbyhq.com/Antares/44c93b08-7adf-4212-b416-7b44f36daeec",
       "apply_url": "https://jobs.ashbyhq.com/Antares/44c93b08-7adf-4212-b416-7b44f36daeec/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "45fcab03-3f4e-4018-8650-23f80cab0c9f",
@@ -470,7 +488,7 @@
       "source_url": "https://jobs.ashbyhq.com/Antares/45fcab03-3f4e-4018-8650-23f80cab0c9f",
       "apply_url": "https://jobs.ashbyhq.com/Antares/45fcab03-3f4e-4018-8650-23f80cab0c9f/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "50bccf80-ff98-4607-9eb0-96b3ab0ee6fa",
@@ -488,7 +506,7 @@
       "source_url": "https://jobs.ashbyhq.com/Antares/50bccf80-ff98-4607-9eb0-96b3ab0ee6fa",
       "apply_url": "https://jobs.ashbyhq.com/Antares/50bccf80-ff98-4607-9eb0-96b3ab0ee6fa/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5102a68b-2742-4937-b91d-a1b1010252bd",
@@ -506,7 +524,7 @@
       "source_url": "https://jobs.ashbyhq.com/Antares/5102a68b-2742-4937-b91d-a1b1010252bd",
       "apply_url": "https://jobs.ashbyhq.com/Antares/5102a68b-2742-4937-b91d-a1b1010252bd/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "52e457c7-63f7-439e-8128-5f74ebabc669",
@@ -524,7 +542,7 @@
       "source_url": "https://jobs.ashbyhq.com/Antares/52e457c7-63f7-439e-8128-5f74ebabc669",
       "apply_url": "https://jobs.ashbyhq.com/Antares/52e457c7-63f7-439e-8128-5f74ebabc669/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5b09cbb9-45c6-431d-aa79-b7073ac483d2",
@@ -542,7 +560,7 @@
       "source_url": "https://jobs.ashbyhq.com/Antares/5b09cbb9-45c6-431d-aa79-b7073ac483d2",
       "apply_url": "https://jobs.ashbyhq.com/Antares/5b09cbb9-45c6-431d-aa79-b7073ac483d2/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5b169ac5-9d1e-4cde-a5e6-ee8759a0ef6b",
@@ -560,7 +578,7 @@
       "source_url": "https://jobs.ashbyhq.com/Antares/5b169ac5-9d1e-4cde-a5e6-ee8759a0ef6b",
       "apply_url": "https://jobs.ashbyhq.com/Antares/5b169ac5-9d1e-4cde-a5e6-ee8759a0ef6b/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5bfb3e86-ddef-4025-9283-188e865c4d49",
@@ -578,7 +596,7 @@
       "source_url": "https://jobs.ashbyhq.com/Antares/5bfb3e86-ddef-4025-9283-188e865c4d49",
       "apply_url": "https://jobs.ashbyhq.com/Antares/5bfb3e86-ddef-4025-9283-188e865c4d49/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5d95c5e0-434b-4106-b820-025f1fcc6aca",
@@ -596,7 +614,7 @@
       "source_url": "https://jobs.ashbyhq.com/Antares/5d95c5e0-434b-4106-b820-025f1fcc6aca",
       "apply_url": "https://jobs.ashbyhq.com/Antares/5d95c5e0-434b-4106-b820-025f1fcc6aca/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5edf090b-8559-4828-bf5c-203a87c4bb82",
@@ -614,7 +632,7 @@
       "source_url": "https://jobs.ashbyhq.com/Antares/5edf090b-8559-4828-bf5c-203a87c4bb82",
       "apply_url": "https://jobs.ashbyhq.com/Antares/5edf090b-8559-4828-bf5c-203a87c4bb82/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "63381d93-4d1a-454f-8c3a-6ac68f144b0b",
@@ -632,7 +650,7 @@
       "source_url": "https://jobs.ashbyhq.com/Antares/63381d93-4d1a-454f-8c3a-6ac68f144b0b",
       "apply_url": "https://jobs.ashbyhq.com/Antares/63381d93-4d1a-454f-8c3a-6ac68f144b0b/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "6c6fbcc9-c96d-4680-8612-4ff7dc002d3a",
@@ -650,7 +668,7 @@
       "source_url": "https://jobs.ashbyhq.com/Antares/6c6fbcc9-c96d-4680-8612-4ff7dc002d3a",
       "apply_url": "https://jobs.ashbyhq.com/Antares/6c6fbcc9-c96d-4680-8612-4ff7dc002d3a/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "75d60661-0551-4c5f-a7fb-6be81a5b35b2",
@@ -668,7 +686,7 @@
       "source_url": "https://jobs.ashbyhq.com/Antares/75d60661-0551-4c5f-a7fb-6be81a5b35b2",
       "apply_url": "https://jobs.ashbyhq.com/Antares/75d60661-0551-4c5f-a7fb-6be81a5b35b2/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "7a041532-8e89-462e-86b0-2ab5b11b9638",
@@ -686,7 +704,7 @@
       "source_url": "https://jobs.ashbyhq.com/Antares/7a041532-8e89-462e-86b0-2ab5b11b9638",
       "apply_url": "https://jobs.ashbyhq.com/Antares/7a041532-8e89-462e-86b0-2ab5b11b9638/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "7d252bad-4900-4a98-8e85-91e74af2e8d6",
@@ -704,7 +722,7 @@
       "source_url": "https://jobs.ashbyhq.com/Antares/7d252bad-4900-4a98-8e85-91e74af2e8d6",
       "apply_url": "https://jobs.ashbyhq.com/Antares/7d252bad-4900-4a98-8e85-91e74af2e8d6/application",
       "first_seen": "2026-11-19T15:42:04Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "7e72843c-fb39-434c-98b2-869e3c4ccdaa",
@@ -722,25 +740,7 @@
       "source_url": "https://jobs.ashbyhq.com/Antares/7e72843c-fb39-434c-98b2-869e3c4ccdaa",
       "apply_url": "https://jobs.ashbyhq.com/Antares/7e72843c-fb39-434c-98b2-869e3c4ccdaa/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
-    },
-    {
-      "id": "7feb2782-3bdc-4efe-b459-9751db944f81",
-      "title": "Space Mechanical Design Engineering Intern - Summer 2027",
-      "company": "Antares",
-      "location": "Los Angeles",
-      "remote": "onsite",
-      "department": "Internships",
-      "employment_type": "INTERN",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-09-18",
-      "updated": "",
-      "deadline": "",
-      "source_url": "https://jobs.ashbyhq.com/Antares/7feb2782-3bdc-4efe-b459-9751db944f81",
-      "apply_url": "https://jobs.ashbyhq.com/Antares/7feb2782-3bdc-4efe-b459-9751db944f81/application",
-      "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "84040ae5-701a-47b7-a87b-ddf52edbeb9b",
@@ -758,7 +758,7 @@
       "source_url": "https://jobs.ashbyhq.com/Antares/84040ae5-701a-47b7-a87b-ddf52edbeb9b",
       "apply_url": "https://jobs.ashbyhq.com/Antares/84040ae5-701a-47b7-a87b-ddf52edbeb9b/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "87a79e55-ce04-4bb8-a064-3db8008f38b4",
@@ -776,7 +776,7 @@
       "source_url": "https://jobs.ashbyhq.com/Antares/87a79e55-ce04-4bb8-a064-3db8008f38b4",
       "apply_url": "https://jobs.ashbyhq.com/Antares/87a79e55-ce04-4bb8-a064-3db8008f38b4/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "922a527d-9826-446d-9aba-ffc611995830",
@@ -794,7 +794,7 @@
       "source_url": "https://jobs.ashbyhq.com/Antares/922a527d-9826-446d-9aba-ffc611995830",
       "apply_url": "https://jobs.ashbyhq.com/Antares/922a527d-9826-446d-9aba-ffc611995830/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "9335fe9a-a994-4209-bd97-9a6070f4e94f",
@@ -812,7 +812,7 @@
       "source_url": "https://jobs.ashbyhq.com/Antares/9335fe9a-a994-4209-bd97-9a6070f4e94f",
       "apply_url": "https://jobs.ashbyhq.com/Antares/9335fe9a-a994-4209-bd97-9a6070f4e94f/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "94737f92-590a-4293-a76f-6eb395501265",
@@ -830,7 +830,7 @@
       "source_url": "https://jobs.ashbyhq.com/Antares/94737f92-590a-4293-a76f-6eb395501265",
       "apply_url": "https://jobs.ashbyhq.com/Antares/94737f92-590a-4293-a76f-6eb395501265/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "95f14b2f-46ae-42e7-b7dc-e9990e78579e",
@@ -848,7 +848,7 @@
       "source_url": "https://jobs.ashbyhq.com/Antares/95f14b2f-46ae-42e7-b7dc-e9990e78579e",
       "apply_url": "https://jobs.ashbyhq.com/Antares/95f14b2f-46ae-42e7-b7dc-e9990e78579e/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "9a92549f-ccb4-4d7f-ab8b-144c9c67511c",
@@ -866,7 +866,7 @@
       "source_url": "https://jobs.ashbyhq.com/Antares/9a92549f-ccb4-4d7f-ab8b-144c9c67511c",
       "apply_url": "https://jobs.ashbyhq.com/Antares/9a92549f-ccb4-4d7f-ab8b-144c9c67511c/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "9e8329cf-9453-450b-8719-05f45157c5c0",
@@ -884,7 +884,7 @@
       "source_url": "https://jobs.ashbyhq.com/Antares/9e8329cf-9453-450b-8719-05f45157c5c0",
       "apply_url": "https://jobs.ashbyhq.com/Antares/9e8329cf-9453-450b-8719-05f45157c5c0/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "a0576cda-a24f-4788-9cd4-cdd74098f96f",
@@ -902,7 +902,7 @@
       "source_url": "https://jobs.ashbyhq.com/Antares/a0576cda-a24f-4788-9cd4-cdd74098f96f",
       "apply_url": "https://jobs.ashbyhq.com/Antares/a0576cda-a24f-4788-9cd4-cdd74098f96f/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "a53935a9-ddfc-488a-b1e8-d9329aef79b6",
@@ -920,7 +920,7 @@
       "source_url": "https://jobs.ashbyhq.com/Antares/a53935a9-ddfc-488a-b1e8-d9329aef79b6",
       "apply_url": "https://jobs.ashbyhq.com/Antares/a53935a9-ddfc-488a-b1e8-d9329aef79b6/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "a584c7bc-ce61-418f-b89a-045b618bc8fd",
@@ -938,7 +938,7 @@
       "source_url": "https://jobs.ashbyhq.com/Antares/a584c7bc-ce61-418f-b89a-045b618bc8fd",
       "apply_url": "https://jobs.ashbyhq.com/Antares/a584c7bc-ce61-418f-b89a-045b618bc8fd/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "abcb98af-e7c5-45b3-8b56-d40a78a59553",
@@ -956,7 +956,7 @@
       "source_url": "https://jobs.ashbyhq.com/Antares/abcb98af-e7c5-45b3-8b56-d40a78a59553",
       "apply_url": "https://jobs.ashbyhq.com/Antares/abcb98af-e7c5-45b3-8b56-d40a78a59553/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "b002c32a-ac62-44e5-a07f-8cbf9b618c92",
@@ -974,7 +974,7 @@
       "source_url": "https://jobs.ashbyhq.com/Antares/b002c32a-ac62-44e5-a07f-8cbf9b618c92",
       "apply_url": "https://jobs.ashbyhq.com/Antares/b002c32a-ac62-44e5-a07f-8cbf9b618c92/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "b0d524a1-30ed-48ba-8a7e-609e8e6f1a8a",
@@ -992,7 +992,7 @@
       "source_url": "https://jobs.ashbyhq.com/Antares/b0d524a1-30ed-48ba-8a7e-609e8e6f1a8a",
       "apply_url": "https://jobs.ashbyhq.com/Antares/b0d524a1-30ed-48ba-8a7e-609e8e6f1a8a/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "b19c9df5-f23b-4278-80f6-29156d5d11be",
@@ -1010,7 +1010,7 @@
       "source_url": "https://jobs.ashbyhq.com/Antares/b19c9df5-f23b-4278-80f6-29156d5d11be",
       "apply_url": "https://jobs.ashbyhq.com/Antares/b19c9df5-f23b-4278-80f6-29156d5d11be/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "b8415e53-f44b-4a5f-9983-ac25b603980d",
@@ -1028,7 +1028,7 @@
       "source_url": "https://jobs.ashbyhq.com/Antares/b8415e53-f44b-4a5f-9983-ac25b603980d",
       "apply_url": "https://jobs.ashbyhq.com/Antares/b8415e53-f44b-4a5f-9983-ac25b603980d/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "b9ee9c56-4430-4a64-8773-4dea184c5c58",
@@ -1046,7 +1046,7 @@
       "source_url": "https://jobs.ashbyhq.com/Antares/b9ee9c56-4430-4a64-8773-4dea184c5c58",
       "apply_url": "https://jobs.ashbyhq.com/Antares/b9ee9c56-4430-4a64-8773-4dea184c5c58/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "bc1b2f94-ce24-4e99-a092-a671dd350c18",
@@ -1064,7 +1064,7 @@
       "source_url": "https://jobs.ashbyhq.com/Antares/bc1b2f94-ce24-4e99-a092-a671dd350c18",
       "apply_url": "https://jobs.ashbyhq.com/Antares/bc1b2f94-ce24-4e99-a092-a671dd350c18/application",
       "first_seen": "2026-11-18T15:36:26Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "be6fbc08-bf6c-43b4-b29e-f6e026636614",
@@ -1082,7 +1082,7 @@
       "source_url": "https://jobs.ashbyhq.com/Antares/be6fbc08-bf6c-43b4-b29e-f6e026636614",
       "apply_url": "https://jobs.ashbyhq.com/Antares/be6fbc08-bf6c-43b4-b29e-f6e026636614/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "c06333ba-ce06-43c2-be34-615a3582d5df",
@@ -1100,7 +1100,7 @@
       "source_url": "https://jobs.ashbyhq.com/Antares/c06333ba-ce06-43c2-be34-615a3582d5df",
       "apply_url": "https://jobs.ashbyhq.com/Antares/c06333ba-ce06-43c2-be34-615a3582d5df/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "c3bb2113-3597-4cdd-a266-294c5a122150",
@@ -1118,7 +1118,7 @@
       "source_url": "https://jobs.ashbyhq.com/Antares/c3bb2113-3597-4cdd-a266-294c5a122150",
       "apply_url": "https://jobs.ashbyhq.com/Antares/c3bb2113-3597-4cdd-a266-294c5a122150/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "c59ae7b1-1d93-434f-96d0-6f480a943d8f",
@@ -1136,7 +1136,7 @@
       "source_url": "https://jobs.ashbyhq.com/Antares/c59ae7b1-1d93-434f-96d0-6f480a943d8f",
       "apply_url": "https://jobs.ashbyhq.com/Antares/c59ae7b1-1d93-434f-96d0-6f480a943d8f/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "c9dcce1b-cd94-47a1-9076-01f5f5ca0f9d",
@@ -1154,7 +1154,7 @@
       "source_url": "https://jobs.ashbyhq.com/Antares/c9dcce1b-cd94-47a1-9076-01f5f5ca0f9d",
       "apply_url": "https://jobs.ashbyhq.com/Antares/c9dcce1b-cd94-47a1-9076-01f5f5ca0f9d/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "cdb1b8a6-61a2-42f4-82b1-ed81a356304e",
@@ -1172,7 +1172,7 @@
       "source_url": "https://jobs.ashbyhq.com/Antares/cdb1b8a6-61a2-42f4-82b1-ed81a356304e",
       "apply_url": "https://jobs.ashbyhq.com/Antares/cdb1b8a6-61a2-42f4-82b1-ed81a356304e/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "cec14d84-448c-4665-919c-170f7102ced9",
@@ -1190,7 +1190,7 @@
       "source_url": "https://jobs.ashbyhq.com/Antares/cec14d84-448c-4665-919c-170f7102ced9",
       "apply_url": "https://jobs.ashbyhq.com/Antares/cec14d84-448c-4665-919c-170f7102ced9/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "cfa46125-9a32-46ef-bd61-ba18e617f1c6",
@@ -1208,7 +1208,7 @@
       "source_url": "https://jobs.ashbyhq.com/Antares/cfa46125-9a32-46ef-bd61-ba18e617f1c6",
       "apply_url": "https://jobs.ashbyhq.com/Antares/cfa46125-9a32-46ef-bd61-ba18e617f1c6/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "d7a75acc-d184-4df8-97ff-24a2602b6001",
@@ -1226,7 +1226,7 @@
       "source_url": "https://jobs.ashbyhq.com/Antares/d7a75acc-d184-4df8-97ff-24a2602b6001",
       "apply_url": "https://jobs.ashbyhq.com/Antares/d7a75acc-d184-4df8-97ff-24a2602b6001/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "da50eea6-78ae-4195-b168-34445e751b38",
@@ -1244,7 +1244,7 @@
       "source_url": "https://jobs.ashbyhq.com/Antares/da50eea6-78ae-4195-b168-34445e751b38",
       "apply_url": "https://jobs.ashbyhq.com/Antares/da50eea6-78ae-4195-b168-34445e751b38/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "db83eca4-0c5c-455e-806d-526b326df241",
@@ -1262,7 +1262,7 @@
       "source_url": "https://jobs.ashbyhq.com/Antares/db83eca4-0c5c-455e-806d-526b326df241",
       "apply_url": "https://jobs.ashbyhq.com/Antares/db83eca4-0c5c-455e-806d-526b326df241/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "db87ca69-ba3b-46b0-a4ce-f4120a12ab65",
@@ -1280,7 +1280,7 @@
       "source_url": "https://jobs.ashbyhq.com/Antares/db87ca69-ba3b-46b0-a4ce-f4120a12ab65",
       "apply_url": "https://jobs.ashbyhq.com/Antares/db87ca69-ba3b-46b0-a4ce-f4120a12ab65/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "dc929d30-2730-4637-9b41-330f7ec4f76d",
@@ -1298,7 +1298,7 @@
       "source_url": "https://jobs.ashbyhq.com/Antares/dc929d30-2730-4637-9b41-330f7ec4f76d",
       "apply_url": "https://jobs.ashbyhq.com/Antares/dc929d30-2730-4637-9b41-330f7ec4f76d/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "e6bd4565-9b44-4376-a63e-9807e5e4303f",
@@ -1316,7 +1316,7 @@
       "source_url": "https://jobs.ashbyhq.com/Antares/e6bd4565-9b44-4376-a63e-9807e5e4303f",
       "apply_url": "https://jobs.ashbyhq.com/Antares/e6bd4565-9b44-4376-a63e-9807e5e4303f/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "e92ae489-1b1a-4616-a9c8-7c2390698af8",
@@ -1334,7 +1334,7 @@
       "source_url": "https://jobs.ashbyhq.com/Antares/e92ae489-1b1a-4616-a9c8-7c2390698af8",
       "apply_url": "https://jobs.ashbyhq.com/Antares/e92ae489-1b1a-4616-a9c8-7c2390698af8/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "ec96a761-509f-44e9-90aa-e1fee5388aa1",
@@ -1352,7 +1352,7 @@
       "source_url": "https://jobs.ashbyhq.com/Antares/ec96a761-509f-44e9-90aa-e1fee5388aa1",
       "apply_url": "https://jobs.ashbyhq.com/Antares/ec96a761-509f-44e9-90aa-e1fee5388aa1/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "eef63143-5891-4054-967f-ed41ad9e9012",
@@ -1370,7 +1370,7 @@
       "source_url": "https://jobs.ashbyhq.com/Antares/eef63143-5891-4054-967f-ed41ad9e9012",
       "apply_url": "https://jobs.ashbyhq.com/Antares/eef63143-5891-4054-967f-ed41ad9e9012/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "f077cf7b-d1e0-4312-8811-1c31d32e1d33",
@@ -1388,7 +1388,7 @@
       "source_url": "https://jobs.ashbyhq.com/Antares/f077cf7b-d1e0-4312-8811-1c31d32e1d33",
       "apply_url": "https://jobs.ashbyhq.com/Antares/f077cf7b-d1e0-4312-8811-1c31d32e1d33/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "f24dfce6-edc9-4154-a5c1-094156fde9a9",
@@ -1406,7 +1406,7 @@
       "source_url": "https://jobs.ashbyhq.com/Antares/f24dfce6-edc9-4154-a5c1-094156fde9a9",
       "apply_url": "https://jobs.ashbyhq.com/Antares/f24dfce6-edc9-4154-a5c1-094156fde9a9/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "f3a4b06e-3d83-4c2b-9091-9a0cb9025d7f",
@@ -1424,7 +1424,7 @@
       "source_url": "https://jobs.ashbyhq.com/Antares/f3a4b06e-3d83-4c2b-9091-9a0cb9025d7f",
       "apply_url": "https://jobs.ashbyhq.com/Antares/f3a4b06e-3d83-4c2b-9091-9a0cb9025d7f/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "f530ad09-21b2-49a5-a133-bd24fb97cede",
@@ -1442,7 +1442,7 @@
       "source_url": "https://jobs.ashbyhq.com/Antares/f530ad09-21b2-49a5-a133-bd24fb97cede",
       "apply_url": "https://jobs.ashbyhq.com/Antares/f530ad09-21b2-49a5-a133-bd24fb97cede/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "ff02e2c0-7fe8-4dc4-9a90-74e1222b946e",
@@ -1460,7 +1460,7 @@
       "source_url": "https://jobs.ashbyhq.com/Antares/ff02e2c0-7fe8-4dc4-9a90-74e1222b946e",
       "apply_url": "https://jobs.ashbyhq.com/Antares/ff02e2c0-7fe8-4dc4-9a90-74e1222b946e/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     }
   ],
   "ats": "ashby",

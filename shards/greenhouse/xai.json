@@ -1,8 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-20T15:23:49Z",
+  "checked_at": "2026-11-21T14:37:10Z",
   "failed_at": null,
-  "etag": "W/\"75c04bf46da9100a34cc8beac7f5c3bd\"",
+  "etag": "W/\"f080c8ea5d6c95bb58bb7e1e86f12467\"",
   "jobs": [
     {
       "id": "4533894007",
@@ -15,12 +15,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2024-10-04",
-      "updated": "2026-11-16",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/4533894007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/4533894007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "4559147007",
@@ -33,12 +33,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2024-11-14",
-      "updated": "2026-11-10",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/4559147007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/4559147007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "4703144007",
@@ -51,12 +51,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2025-04-10",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/4703144007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/4703144007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "4744227007",
@@ -69,12 +69,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2025-05-26",
-      "updated": "2026-11-18",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/4744227007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/4744227007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "4800712007",
@@ -87,12 +87,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2025-07-27",
-      "updated": "2026-11-10",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/4800712007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/4800712007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "4803862007",
@@ -105,12 +105,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2025-07-29",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/4803862007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/4803862007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "4803905007",
@@ -123,12 +123,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2025-07-29",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/4803905007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/4803905007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "4805874007",
@@ -141,12 +141,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2025-07-30",
-      "updated": "2026-11-12",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/4805874007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/4805874007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "4805886007",
@@ -159,12 +159,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2025-07-30",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/4805886007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/4805886007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "4821683007",
@@ -177,12 +177,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2025-08-06",
-      "updated": "2026-11-17",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/4821683007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/4821683007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "4835611007",
@@ -195,12 +195,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2025-08-21",
-      "updated": "2026-11-12",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/4835611007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/4835611007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "4869805007",
@@ -213,12 +213,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2025-09-09",
-      "updated": "2026-11-13",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/4869805007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/4869805007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "4871633007",
@@ -231,12 +231,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2025-09-11",
-      "updated": "2026-11-10",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/4871633007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/4871633007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "4892323007",
@@ -249,12 +249,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2025-09-15",
-      "updated": "2026-11-06",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/4892323007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/4892323007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "4925823007",
@@ -267,12 +267,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2025-09-30",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/4925823007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/4925823007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "4925832007",
@@ -285,12 +285,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2025-09-30",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/4925832007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/4925832007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "4925859007",
@@ -303,12 +303,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2025-09-30",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/4925859007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/4925859007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "4925878007",
@@ -321,12 +321,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2025-09-30",
-      "updated": "2026-11-18",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/4925878007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/4925878007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "4931315007",
@@ -339,12 +339,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2025-10-03",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/4931315007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/4931315007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "4939298007",
@@ -357,12 +357,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2025-11-03",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/4939298007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/4939298007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "4940364007",
@@ -375,12 +375,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2025-10-16",
-      "updated": "2026-11-18",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/4940364007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/4940364007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "4940377007",
@@ -393,12 +393,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2025-10-16",
-      "updated": "2026-11-19",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/4940377007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/4940377007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "4946696007",
@@ -411,12 +411,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2025-10-15",
-      "updated": "2026-11-06",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/4946696007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/4946696007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "4959599007",
@@ -429,12 +429,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2025-10-27",
-      "updated": "2026-11-18",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/4959599007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/4959599007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "4965893007",
@@ -447,12 +447,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2025-10-31",
-      "updated": "2026-11-09",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/4965893007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/4965893007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "4985386007",
@@ -465,12 +465,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2025-11-18",
-      "updated": "2026-11-06",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/4985386007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/4985386007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "4996796007",
@@ -483,12 +483,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2025-12-03",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/4996796007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/4996796007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5006477007",
@@ -501,12 +501,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2025-12-17",
-      "updated": "2026-11-06",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5006477007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5006477007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5007261007",
@@ -519,12 +519,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-01-13",
-      "updated": "2026-11-10",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5007261007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5007261007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5012694007",
@@ -537,12 +537,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2025-12-29",
-      "updated": "2026-11-10",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5012694007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5012694007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5017529007",
@@ -555,12 +555,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-01-07",
-      "updated": "2026-11-10",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5017529007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5017529007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5043570007",
@@ -573,12 +573,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-02-04",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5043570007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5043570007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5051763007",
@@ -591,12 +591,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-02-18",
-      "updated": "2026-11-18",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5051763007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5051763007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5051966007",
@@ -609,12 +609,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-03-16",
-      "updated": "2026-11-06",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5051966007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5051966007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5052040007",
@@ -627,12 +627,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-03-06",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5052040007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5052040007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5063930007",
@@ -645,12 +645,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-03-19",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5063930007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5063930007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5090120007",
@@ -663,12 +663,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-04-01",
-      "updated": "2026-11-10",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5090120007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5090120007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5090180007",
@@ -681,12 +681,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-04-01",
-      "updated": "2026-11-11",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5090180007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5090180007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5090264007",
@@ -699,12 +699,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-04-01",
-      "updated": "2026-11-11",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5090264007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5090264007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5090998007",
@@ -717,12 +717,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-03-26",
-      "updated": "2026-11-18",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5090998007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5090998007",
       "first_seen": "2026-11-19T15:42:04Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5097904007",
@@ -735,12 +735,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-04-02",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5097904007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5097904007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5097907007",
@@ -753,12 +753,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-04-02",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5097907007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5097907007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5107958007",
@@ -771,12 +771,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-04-14",
-      "updated": "2026-11-06",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5107958007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5107958007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5108231007",
@@ -789,12 +789,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-04-14",
-      "updated": "2026-11-06",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5108231007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5108231007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5109691007",
@@ -807,12 +807,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-04-16",
-      "updated": "2026-11-09",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5109691007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5109691007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5114737007",
@@ -825,12 +825,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-04-28",
-      "updated": "2026-11-09",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5114737007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5114737007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5120536007",
@@ -843,12 +843,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-04-24",
-      "updated": "2026-11-06",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5120536007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5120536007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5125621007",
@@ -861,12 +861,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-04-30",
-      "updated": "2026-11-11",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5125621007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5125621007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5127510007",
@@ -879,12 +879,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-05-04",
-      "updated": "2026-11-10",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5127510007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5127510007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5127519007",
@@ -897,12 +897,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-05-04",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5127519007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5127519007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5129306007",
@@ -915,12 +915,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-05-05",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5129306007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5129306007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5134220007",
@@ -933,12 +933,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-05-11",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5134220007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5134220007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5135086007",
@@ -951,12 +951,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-05-12",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5135086007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5135086007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5136043007",
@@ -969,12 +969,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-05-12",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5136043007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5136043007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5142936007",
@@ -987,12 +987,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-05-20",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5142936007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5142936007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5142979007",
@@ -1005,12 +1005,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-05-20",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5142979007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5142979007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5148882007",
@@ -1023,12 +1023,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-05-28",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5148882007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5148882007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5149101007",
@@ -1041,12 +1041,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-07-10",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5149101007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5149101007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5150787007",
@@ -1059,12 +1059,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-05-29",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5150787007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5150787007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5152408007",
@@ -1077,12 +1077,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-06-01",
-      "updated": "2026-11-06",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5152408007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5152408007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5159174007",
@@ -1095,12 +1095,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-06-08",
-      "updated": "2026-11-10",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5159174007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5159174007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5159251007",
@@ -1113,12 +1113,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-06-08",
-      "updated": "2026-11-10",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5159251007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5159251007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5167318007",
@@ -1131,12 +1131,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-06-23",
-      "updated": "2026-11-10",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5167318007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5167318007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5169674007",
@@ -1149,12 +1149,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-06-19",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5169674007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5169674007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5169683007",
@@ -1167,12 +1167,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-06-23",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5169683007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5169683007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5170639007",
@@ -1185,12 +1185,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-06-22",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5170639007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5170639007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5174576007",
@@ -1203,12 +1203,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-19",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5174576007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5174576007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5175158007",
@@ -1221,12 +1221,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-06-26",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5175158007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5175158007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5178416007",
@@ -1239,12 +1239,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-07-01",
-      "updated": "2026-11-10",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5178416007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5178416007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5179367007",
@@ -1257,12 +1257,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-07-02",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5179367007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5179367007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5180223007",
@@ -1275,12 +1275,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-07-06",
-      "updated": "2026-11-19",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5180223007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5180223007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5180827007",
@@ -1293,12 +1293,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-07-06",
-      "updated": "2026-11-10",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5180827007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5180827007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5182046007",
@@ -1311,12 +1311,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-07-08",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5182046007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5182046007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5182183007",
@@ -1329,12 +1329,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-07-12",
-      "updated": "2026-11-06",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5182183007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5182183007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5182357007",
@@ -1347,12 +1347,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-07-08",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5182357007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5182357007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5182374007",
@@ -1365,12 +1365,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-07-08",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5182374007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5182374007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5184586007",
@@ -1383,12 +1383,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-07-10",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5184586007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5184586007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5186992007",
@@ -1401,12 +1401,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-07-14",
-      "updated": "2026-11-10",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5186992007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5186992007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5187964007",
@@ -1419,12 +1419,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-07-15",
-      "updated": "2026-11-06",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5187964007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5187964007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5188230007",
@@ -1437,12 +1437,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-07-22",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5188230007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5188230007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5189147007",
@@ -1455,12 +1455,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-07-16",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5189147007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5189147007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5189148007",
@@ -1473,12 +1473,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-07-16",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5189148007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5189148007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5191142007",
@@ -1491,12 +1491,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-07-20",
-      "updated": "2026-11-15",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5191142007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5191142007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5191183007",
@@ -1509,12 +1509,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-07-20",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5191183007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5191183007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5191800007",
@@ -1527,12 +1527,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-07-21",
-      "updated": "2026-11-16",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5191800007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5191800007",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5192318007",
@@ -1545,12 +1545,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-07-21",
-      "updated": "2026-11-10",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5192318007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5192318007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5193037007",
@@ -1563,12 +1563,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-07-21",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5193037007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5193037007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5194492007",
@@ -1581,12 +1581,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-07-24",
-      "updated": "2026-11-18",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5194492007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5194492007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5198194007",
@@ -1599,12 +1599,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-07-28",
-      "updated": "2026-11-06",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5198194007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5198194007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5201130007",
@@ -1617,12 +1617,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-04",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5201130007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5201130007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5201135007",
@@ -1635,12 +1635,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-04",
-      "updated": "2026-11-14",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5201135007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5201135007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5201304007",
@@ -1653,12 +1653,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-03",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5201304007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5201304007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5202187007",
@@ -1671,12 +1671,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-03",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5202187007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5202187007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5204788007",
@@ -1689,12 +1689,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-05",
-      "updated": "2026-11-06",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5204788007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5204788007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5204819007",
@@ -1707,12 +1707,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-05",
-      "updated": "2026-11-09",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5204819007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5204819007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5205550007",
@@ -1725,12 +1725,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-07",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5205550007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5205550007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5205848007",
@@ -1743,12 +1743,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-07",
-      "updated": "2026-11-19",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5205848007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5205848007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5205879007",
@@ -1761,12 +1761,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-21",
-      "updated": "2026-11-10",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5205879007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5205879007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5206597007",
@@ -1779,12 +1779,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-06",
-      "updated": "2026-11-10",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5206597007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5206597007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5206598007",
@@ -1797,12 +1797,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-06",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5206598007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5206598007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5206940007",
@@ -1815,12 +1815,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-10",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5206940007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5206940007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5207615007",
@@ -1833,12 +1833,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-10",
-      "updated": "2026-11-19",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5207615007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5207615007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5209858007",
@@ -1851,12 +1851,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-11",
-      "updated": "2026-11-10",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5209858007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5209858007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5210378007",
@@ -1869,12 +1869,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-17",
-      "updated": "2026-11-18",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5210378007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5210378007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5210564007",
@@ -1887,12 +1887,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-12",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5210564007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5210564007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5210802007",
@@ -1905,12 +1905,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-12",
-      "updated": "2026-11-09",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5210802007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5210802007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5212039007",
@@ -1923,12 +1923,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-14",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5212039007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5212039007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5212192007",
@@ -1941,12 +1941,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-14",
-      "updated": "2026-11-10",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5212192007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5212192007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5212216007",
@@ -1959,12 +1959,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-14",
-      "updated": "2026-11-10",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5212216007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5212216007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5212253007",
@@ -1977,12 +1977,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-14",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5212253007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5212253007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5212286007",
@@ -1995,12 +1995,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-14",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5212286007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5212286007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5212987007",
@@ -2013,12 +2013,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-14",
-      "updated": "2026-11-10",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5212987007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5212987007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5213025007",
@@ -2031,12 +2031,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-14",
-      "updated": "2026-11-10",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5213025007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5213025007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5214262007",
@@ -2049,12 +2049,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-17",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5214262007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5214262007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5214280007",
@@ -2067,12 +2067,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-18",
-      "updated": "2026-11-10",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5214280007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5214280007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5214350007",
@@ -2085,12 +2085,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-18",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5214350007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5214350007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5214352007",
@@ -2103,12 +2103,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-18",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5214352007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5214352007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5214363007",
@@ -2121,12 +2121,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-18",
-      "updated": "2026-11-10",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5214363007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5214363007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5214366007",
@@ -2139,12 +2139,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-18",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5214366007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5214366007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5214370007",
@@ -2157,12 +2157,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-18",
-      "updated": "2026-11-17",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5214370007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5214370007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5214372007",
@@ -2175,12 +2175,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-17",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5214372007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5214372007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5214918007",
@@ -2193,12 +2193,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-18",
-      "updated": "2026-11-13",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5214918007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5214918007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5214945007",
@@ -2211,12 +2211,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-18",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5214945007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5214945007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5214959007",
@@ -2229,12 +2229,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-18",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5214959007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5214959007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5215034007",
@@ -2247,12 +2247,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-18",
-      "updated": "2026-11-10",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5215034007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5215034007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5215038007",
@@ -2265,12 +2265,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-18",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5215038007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5215038007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5215043007",
@@ -2283,12 +2283,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-18",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5215043007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5215043007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5215355007",
@@ -2301,12 +2301,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-18",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5215355007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5215355007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5215570007",
@@ -2319,12 +2319,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-18",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5215570007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5215570007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5216075007",
@@ -2337,12 +2337,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-19",
-      "updated": "2026-11-12",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5216075007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5216075007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5216112007",
@@ -2355,12 +2355,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-20",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5216112007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5216112007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5216822007",
@@ -2373,12 +2373,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-19",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5216822007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5216822007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5216863007",
@@ -2391,12 +2391,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-19",
-      "updated": "2026-11-17",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5216863007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5216863007",
       "first_seen": "2026-11-18T15:36:26Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5218218007",
@@ -2409,12 +2409,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-21",
-      "updated": "2026-11-10",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5218218007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5218218007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5218222007",
@@ -2427,12 +2427,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-21",
-      "updated": "2026-11-10",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5218222007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5218222007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5219540007",
@@ -2445,12 +2445,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-23",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5219540007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5219540007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5219541007",
@@ -2463,12 +2463,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-23",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5219541007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5219541007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5219754007",
@@ -2481,12 +2481,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-24",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5219754007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5219754007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5220531007",
@@ -2499,12 +2499,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-25",
-      "updated": "2026-11-10",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5220531007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5220531007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5221126007",
@@ -2517,12 +2517,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-26",
-      "updated": "2026-11-19",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5221126007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5221126007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5224551007",
@@ -2535,12 +2535,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-27",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5224551007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5224551007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5224784007",
@@ -2553,12 +2553,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-28",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5224784007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5224784007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5226686007",
@@ -2571,12 +2571,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-31",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5226686007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5226686007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5226701007",
@@ -2589,12 +2589,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-31",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5226701007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5226701007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5227905007",
@@ -2607,12 +2607,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-01",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5227905007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5227905007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5227940007",
@@ -2625,12 +2625,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-03",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5227940007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5227940007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5227951007",
@@ -2643,12 +2643,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-03",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5227951007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5227951007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5227977007",
@@ -2661,12 +2661,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-01",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5227977007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5227977007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5227980007",
@@ -2679,12 +2679,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-01",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5227980007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5227980007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5228819007",
@@ -2697,12 +2697,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-02",
-      "updated": "2026-11-10",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5228819007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5228819007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5228822007",
@@ -2715,12 +2715,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-02",
-      "updated": "2026-11-10",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5228822007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5228822007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5229355007",
@@ -2733,12 +2733,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-02",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5229355007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5229355007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5229363007",
@@ -2751,12 +2751,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-02",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5229363007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5229363007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5229550007",
@@ -2769,12 +2769,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-03",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5229550007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5229550007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5229552007",
@@ -2787,12 +2787,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-08",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5229552007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5229552007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5229783007",
@@ -2805,12 +2805,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-03",
-      "updated": "2026-11-10",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5229783007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5229783007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5231579007",
@@ -2823,12 +2823,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-04",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5231579007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5231579007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5235761007",
@@ -2841,12 +2841,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-14",
-      "updated": "2026-11-06",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5235761007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5235761007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5235772007",
@@ -2859,12 +2859,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-14",
-      "updated": "2026-11-19",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5235772007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5235772007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5237965007",
@@ -2877,12 +2877,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-14",
-      "updated": "2026-11-13",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5237965007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5237965007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5238779007",
@@ -2895,12 +2895,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-15",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5238779007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5238779007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5239300007",
@@ -2913,12 +2913,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-15",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5239300007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5239300007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5239616007",
@@ -2931,12 +2931,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-16",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5239616007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5239616007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5239924007",
@@ -2949,12 +2949,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-17",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5239924007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5239924007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5241280007",
@@ -2967,12 +2967,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-28",
-      "updated": "2026-11-17",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5241280007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5241280007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5241381007",
@@ -2985,12 +2985,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-17",
-      "updated": "2026-11-13",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5241381007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5241381007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5241407007",
@@ -3003,12 +3003,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-17",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5241407007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5241407007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5242789007",
@@ -3021,12 +3021,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-18",
-      "updated": "2026-11-13",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5242789007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5242789007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5243278007",
@@ -3039,12 +3039,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-21",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5243278007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5243278007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5243280007",
@@ -3057,12 +3057,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-21",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5243280007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5243280007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5243282007",
@@ -3075,12 +3075,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-21",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5243282007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5243282007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5243284007",
@@ -3093,12 +3093,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-21",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5243284007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5243284007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5243286007",
@@ -3111,12 +3111,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-21",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5243286007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5243286007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5243290007",
@@ -3129,12 +3129,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-21",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5243290007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5243290007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5243301007",
@@ -3147,12 +3147,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-20",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5243301007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5243301007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5243479007",
@@ -3165,12 +3165,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-22",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5243479007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5243479007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5244069007",
@@ -3183,12 +3183,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-21",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5244069007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5244069007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5244119007",
@@ -3201,12 +3201,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-21",
-      "updated": "2026-11-10",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5244119007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5244119007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5244205007",
@@ -3219,12 +3219,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-21",
-      "updated": "2026-11-10",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5244205007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5244205007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5245777007",
@@ -3237,12 +3237,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-22",
-      "updated": "2026-11-14",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5245777007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5245777007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5246016007",
@@ -3255,12 +3255,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-22",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5246016007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5246016007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5246247007",
@@ -3273,12 +3273,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-22",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5246247007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5246247007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5246700007",
@@ -3291,12 +3291,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-22",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5246700007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5246700007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5246832007",
@@ -3309,12 +3309,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-27",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5246832007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5246832007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5247536007",
@@ -3327,12 +3327,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-23",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5247536007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5247536007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5248703007",
@@ -3345,12 +3345,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-24",
-      "updated": "2026-11-10",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5248703007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5248703007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5248787007",
@@ -3363,12 +3363,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-24",
-      "updated": "2026-11-10",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5248787007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5248787007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5248831007",
@@ -3381,12 +3381,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-24",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5248831007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5248831007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5249680007",
@@ -3404,7 +3404,7 @@
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5249680007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5249680007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5249882007",
@@ -3417,12 +3417,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-30",
-      "updated": "2026-11-10",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5249882007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5249882007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5250443007",
@@ -3435,12 +3435,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-28",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5250443007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5250443007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5251253007",
@@ -3453,12 +3453,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-29",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5251253007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5251253007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5252108007",
@@ -3471,12 +3471,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-02",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5252108007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5252108007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5252714007",
@@ -3489,30 +3489,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-30",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5252714007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5252714007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
-    },
-    {
-      "id": "5253475007",
-      "title": "Cook, Sushi",
-      "company": "SpaceXSI",
-      "location": "Palo Alto, CA",
-      "remote": "unspecified",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-09-30",
-      "updated": "2026-11-06",
-      "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/xai/jobs/5253475007",
-      "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5253475007",
-      "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5253534007",
@@ -3525,12 +3507,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-30",
-      "updated": "2026-11-10",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5253534007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5253534007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5254365007",
@@ -3543,12 +3525,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-01",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5254365007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5254365007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5255111007",
@@ -3561,12 +3543,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-02",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5255111007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5255111007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5255113007",
@@ -3579,12 +3561,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-02",
-      "updated": "2026-11-12",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5255113007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5255113007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5255116007",
@@ -3597,12 +3579,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-02",
-      "updated": "2026-11-12",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5255116007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5255116007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5255793007",
@@ -3615,12 +3597,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-05",
-      "updated": "2026-11-10",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5255793007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5255793007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5255811007",
@@ -3633,12 +3615,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-02",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5255811007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5255811007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5255858007",
@@ -3651,12 +3633,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-02",
-      "updated": "2026-11-10",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5255858007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5255858007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5256001007",
@@ -3669,12 +3651,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-02",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5256001007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5256001007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5257297007",
@@ -3687,12 +3669,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-05",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5257297007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5257297007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5257355007",
@@ -3705,12 +3687,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-05",
-      "updated": "2026-11-10",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5257355007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5257355007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5257417007",
@@ -3723,12 +3705,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-05",
-      "updated": "2026-11-14",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5257417007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5257417007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5257430007",
@@ -3741,12 +3723,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-05",
-      "updated": "2026-11-14",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5257430007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5257430007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5257435007",
@@ -3759,12 +3741,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-05",
-      "updated": "2026-11-14",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5257435007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5257435007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5259060007",
@@ -3777,12 +3759,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-06",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5259060007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5259060007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5259885007",
@@ -3795,12 +3777,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-07",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5259885007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5259885007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5260545007",
@@ -3813,12 +3795,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-07",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5260545007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5260545007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5261595007",
@@ -3831,12 +3813,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-08",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5261595007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5261595007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5261602007",
@@ -3849,12 +3831,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-08",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5261602007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5261602007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5261818007",
@@ -3867,12 +3849,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-08",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5261818007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5261818007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5262880007",
@@ -3885,12 +3867,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-09",
-      "updated": "2026-11-17",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5262880007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5262880007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5264616007",
@@ -3903,12 +3885,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-13",
-      "updated": "2026-11-14",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5264616007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5264616007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5264627007",
@@ -3921,12 +3903,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-13",
-      "updated": "2026-11-17",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5264627007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5264627007",
       "first_seen": "2026-11-18T15:36:26Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5265155007",
@@ -3939,12 +3921,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-13",
-      "updated": "2026-11-17",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5265155007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5265155007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5265194007",
@@ -3957,12 +3939,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-13",
-      "updated": "2026-11-10",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5265194007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5265194007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5266379007",
@@ -3975,12 +3957,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-15",
-      "updated": "2026-11-10",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5266379007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5266379007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5266461007",
@@ -3993,12 +3975,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-15",
-      "updated": "2026-11-10",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5266461007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5266461007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5266491007",
@@ -4011,12 +3993,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-15",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5266491007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5266491007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5266497007",
@@ -4029,12 +4011,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-15",
-      "updated": "2026-11-10",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5266497007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5266497007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5266499007",
@@ -4047,12 +4029,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-15",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5266499007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5266499007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5266813007",
@@ -4065,12 +4047,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-16",
-      "updated": "2026-11-14",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5266813007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5266813007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5267635007",
@@ -4083,12 +4065,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-16",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5267635007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5267635007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5268262007",
@@ -4101,12 +4083,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-19",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5268262007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5268262007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5270340007",
@@ -4119,12 +4101,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-20",
-      "updated": "2026-11-10",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5270340007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5270340007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5270902007",
@@ -4137,12 +4119,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-26",
-      "updated": "2026-11-10",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5270902007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5270902007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5270903007",
@@ -4155,12 +4137,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-26",
-      "updated": "2026-11-10",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5270903007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5270903007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5270904007",
@@ -4173,12 +4155,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-26",
-      "updated": "2026-11-10",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5270904007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5270904007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5270905007",
@@ -4191,12 +4173,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-26",
-      "updated": "2026-11-10",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5270905007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5270905007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5270906007",
@@ -4209,12 +4191,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-26",
-      "updated": "2026-11-10",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5270906007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5270906007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5270907007",
@@ -4227,12 +4209,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-26",
-      "updated": "2026-11-10",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5270907007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5270907007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5270908007",
@@ -4245,12 +4227,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-22",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5270908007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5270908007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5271372007",
@@ -4263,12 +4245,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-22",
-      "updated": "2026-11-06",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5271372007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5271372007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5271634007",
@@ -4281,12 +4263,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-21",
-      "updated": "2026-11-18",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5271634007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5271634007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5272020007",
@@ -4299,12 +4281,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-22",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5272020007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5272020007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5272326007",
@@ -4317,12 +4299,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-22",
-      "updated": "2026-11-10",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5272326007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5272326007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5272706007",
@@ -4335,12 +4317,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-22",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5272706007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5272706007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5272719007",
@@ -4353,12 +4335,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-03",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5272719007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5272719007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5273689007",
@@ -4371,12 +4353,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-23",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5273689007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5273689007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5273897007",
@@ -4389,12 +4371,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-23",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5273897007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5273897007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5274048007",
@@ -4407,12 +4389,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-23",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5274048007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5274048007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5275741007",
@@ -4425,12 +4407,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-27",
-      "updated": "2026-11-10",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5275741007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5275741007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5277343007",
@@ -4443,12 +4425,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-27",
-      "updated": "2026-11-14",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5277343007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5277343007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5277827007",
@@ -4461,12 +4443,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-12",
-      "updated": "2026-11-12",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5277827007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5277827007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5278701007",
@@ -4479,12 +4461,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-29",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5278701007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5278701007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5278993007",
@@ -4497,12 +4479,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-29",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5278993007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5278993007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5279620007",
@@ -4515,12 +4497,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-30",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5279620007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5279620007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5279894007",
@@ -4533,12 +4515,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-30",
-      "updated": "2026-11-13",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5279894007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5279894007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5279988007",
@@ -4551,12 +4533,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-30",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5279988007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5279988007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5280433007",
@@ -4569,12 +4551,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-30",
-      "updated": "2026-11-13",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5280433007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5280433007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5280765007",
@@ -4587,12 +4569,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-30",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5280765007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5280765007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5280771007",
@@ -4605,12 +4587,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-30",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5280771007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5280771007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5280951007",
@@ -4623,12 +4605,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-04",
-      "updated": "2026-11-10",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5280951007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5280951007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5280957007",
@@ -4641,12 +4623,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-02",
-      "updated": "2026-11-09",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5280957007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5280957007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5280958007",
@@ -4659,12 +4641,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-02",
-      "updated": "2026-11-09",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5280958007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5280958007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5282197007",
@@ -4677,12 +4659,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-10",
-      "updated": "2026-11-10",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5282197007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5282197007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5282312007",
@@ -4695,12 +4677,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-03",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5282312007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5282312007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5283864007",
@@ -4713,12 +4695,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-04",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5283864007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5283864007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5283867007",
@@ -4731,12 +4713,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-04",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5283867007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5283867007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5283878007",
@@ -4749,12 +4731,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-04",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5283878007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5283878007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5283880007",
@@ -4767,12 +4749,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-04",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5283880007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5283880007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5285000007",
@@ -4785,12 +4767,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-04",
-      "updated": "2026-11-06",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5285000007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5285000007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5286282007",
@@ -4803,12 +4785,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-05",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5286282007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5286282007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5286865007",
@@ -4821,12 +4803,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-05",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5286865007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5286865007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5286869007",
@@ -4839,12 +4821,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-05",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5286869007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5286869007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5286879007",
@@ -4857,12 +4839,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-05",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5286879007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5286879007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5286889007",
@@ -4875,12 +4857,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-05",
-      "updated": "2026-11-05",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5286889007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5286889007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5286891007",
@@ -4893,12 +4875,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-09",
-      "updated": "2026-11-09",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5286891007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5286891007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5286968007",
@@ -4911,12 +4893,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-06",
-      "updated": "2026-11-06",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5286968007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5286968007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5286971007",
@@ -4929,12 +4911,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-06",
-      "updated": "2026-11-06",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5286971007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5286971007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5286973007",
@@ -4947,12 +4929,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-06",
-      "updated": "2026-11-06",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5286973007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5286973007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5286978007",
@@ -4965,12 +4947,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-06",
-      "updated": "2026-11-06",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5286978007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5286978007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5286980007",
@@ -4983,12 +4965,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-06",
-      "updated": "2026-11-06",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5286980007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5286980007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5287988007",
@@ -5001,12 +4983,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-06",
-      "updated": "2026-11-13",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5287988007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5287988007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5288061007",
@@ -5019,12 +5001,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-06",
-      "updated": "2026-11-06",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5288061007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5288061007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5289470007",
@@ -5037,12 +5019,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-09",
-      "updated": "2026-11-09",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5289470007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5289470007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5290235007",
@@ -5055,12 +5037,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-10",
-      "updated": "2026-11-10",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5290235007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5290235007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5290321007",
@@ -5073,12 +5055,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-13",
-      "updated": "2026-11-13",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5290321007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5290321007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5292792007",
@@ -5091,12 +5073,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-26",
-      "updated": "2026-11-11",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5292792007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5292792007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5292793007",
@@ -5109,12 +5091,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-26",
-      "updated": "2026-11-11",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5292793007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5292793007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5293897007",
@@ -5127,12 +5109,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-12",
-      "updated": "2026-11-19",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5293897007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5293897007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5294031007",
@@ -5145,12 +5127,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-13",
-      "updated": "2026-11-13",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5294031007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5294031007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5294116007",
@@ -5163,12 +5145,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-12",
-      "updated": "2026-11-12",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5294116007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5294116007",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5295393007",
@@ -5181,12 +5163,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-16",
-      "updated": "2026-11-16",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5295393007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5295393007",
       "first_seen": "2026-11-16T15:39:28Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5295932007",
@@ -5199,12 +5181,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-15",
-      "updated": "2026-11-16",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5295932007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5295932007",
       "first_seen": "2026-11-16T15:39:28Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5296414007",
@@ -5217,12 +5199,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-16",
-      "updated": "2026-11-16",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5296414007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5296414007",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5297207007",
@@ -5235,12 +5217,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-16",
-      "updated": "2026-11-16",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5297207007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5297207007",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5297311007",
@@ -5253,12 +5235,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-16",
-      "updated": "2026-11-16",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5297311007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5297311007",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5297314007",
@@ -5271,12 +5253,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-16",
-      "updated": "2026-11-16",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5297314007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5297314007",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5297316007",
@@ -5289,12 +5271,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-16",
-      "updated": "2026-11-16",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5297316007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5297316007",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5298891007",
@@ -5307,12 +5289,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-18",
-      "updated": "2026-11-18",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5298891007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5298891007",
       "first_seen": "2026-11-19T15:42:04Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5298892007",
@@ -5325,12 +5307,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-18",
-      "updated": "2026-11-18",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5298892007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5298892007",
       "first_seen": "2026-11-19T15:42:04Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5298893007",
@@ -5343,12 +5325,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-18",
-      "updated": "2026-11-18",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5298893007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5298893007",
       "first_seen": "2026-11-19T15:42:04Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5299078007",
@@ -5361,12 +5343,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-18",
-      "updated": "2026-11-18",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5299078007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5299078007",
       "first_seen": "2026-11-19T15:42:04Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5300875007",
@@ -5379,12 +5361,30 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-18",
-      "updated": "2026-11-18",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/xai/jobs/5300875007",
       "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5300875007",
       "first_seen": "2026-11-19T15:42:04Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
+    },
+    {
+      "id": "5303782007",
+      "title": "Lead Operations Engineer, Construction & Site Efficiency - Memphis",
+      "company": "SpaceXSI",
+      "location": "Southaven, MS; Memphis, TN",
+      "remote": "unspecified",
+      "department": "",
+      "employment_type": "",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-20",
+      "updated": "2026-11-20",
+      "deadline": "",
+      "source_url": "https://job-boards.greenhouse.io/xai/jobs/5303782007",
+      "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5303782007",
+      "first_seen": "2026-11-21T14:37:10Z",
+      "last_checked": "2026-11-21T14:37:10Z"
     }
   ],
   "ats": "greenhouse",

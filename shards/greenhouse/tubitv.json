@@ -1,8 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-20T15:23:49Z",
+  "checked_at": "2026-11-21T14:37:10Z",
   "failed_at": null,
-  "etag": "W/\"f7ff96fed79551d89728ea70e7b740cd\"",
+  "etag": "W/\"ebefc3a4cdda8ab87e717a274cedeaca\"",
   "jobs": [
     {
       "id": "7255621",
@@ -20,7 +20,7 @@
       "source_url": "https://job-boards.greenhouse.io/tubitv/jobs/7255621",
       "apply_url": "https://job-boards.greenhouse.io/tubitv/jobs/7255621",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "7476853",
@@ -38,7 +38,7 @@
       "source_url": "https://job-boards.greenhouse.io/tubitv/jobs/7476853",
       "apply_url": "https://job-boards.greenhouse.io/tubitv/jobs/7476853",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "7702258",
@@ -56,7 +56,7 @@
       "source_url": "https://job-boards.greenhouse.io/tubitv/jobs/7702258",
       "apply_url": "https://job-boards.greenhouse.io/tubitv/jobs/7702258",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "7732090",
@@ -74,7 +74,7 @@
       "source_url": "https://job-boards.greenhouse.io/tubitv/jobs/7732090",
       "apply_url": "https://job-boards.greenhouse.io/tubitv/jobs/7732090",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8007794",
@@ -92,7 +92,7 @@
       "source_url": "https://job-boards.greenhouse.io/tubitv/jobs/8007794",
       "apply_url": "https://job-boards.greenhouse.io/tubitv/jobs/8007794",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8013225",
@@ -110,7 +110,7 @@
       "source_url": "https://job-boards.greenhouse.io/tubitv/jobs/8013225",
       "apply_url": "https://job-boards.greenhouse.io/tubitv/jobs/8013225",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8013661",
@@ -128,7 +128,7 @@
       "source_url": "https://job-boards.greenhouse.io/tubitv/jobs/8013661",
       "apply_url": "https://job-boards.greenhouse.io/tubitv/jobs/8013661",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8052429",
@@ -146,7 +146,7 @@
       "source_url": "https://job-boards.greenhouse.io/tubitv/jobs/8052429",
       "apply_url": "https://job-boards.greenhouse.io/tubitv/jobs/8052429",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8056211",
@@ -164,7 +164,7 @@
       "source_url": "https://job-boards.greenhouse.io/tubitv/jobs/8056211",
       "apply_url": "https://job-boards.greenhouse.io/tubitv/jobs/8056211",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8145044",
@@ -182,25 +182,7 @@
       "source_url": "https://job-boards.greenhouse.io/tubitv/jobs/8145044",
       "apply_url": "https://job-boards.greenhouse.io/tubitv/jobs/8145044",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-20T15:23:49Z"
-    },
-    {
-      "id": "8197676",
-      "title": "Director, Product Support Operations",
-      "company": "Tubi",
-      "location": "San Francisco, CA; Los Angeles, CA; New York, NY (Hybrid)",
-      "remote": "hybrid",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-09-14",
-      "updated": "2026-10-20",
-      "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/tubitv/jobs/8197676",
-      "apply_url": "https://job-boards.greenhouse.io/tubitv/jobs/8197676",
-      "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8205771",
@@ -218,7 +200,7 @@
       "source_url": "https://job-boards.greenhouse.io/tubitv/jobs/8205771",
       "apply_url": "https://job-boards.greenhouse.io/tubitv/jobs/8205771",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8238469",
@@ -236,25 +218,7 @@
       "source_url": "https://job-boards.greenhouse.io/tubitv/jobs/8238469",
       "apply_url": "https://job-boards.greenhouse.io/tubitv/jobs/8238469",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-20T15:23:49Z"
-    },
-    {
-      "id": "8240144",
-      "title": "Director, Consumer & Brand Communications",
-      "company": "Tubi",
-      "location": "Los Angeles, CA; New York, NY (Hybrid)",
-      "remote": "hybrid",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-10-01",
-      "updated": "2026-10-20",
-      "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/tubitv/jobs/8240144",
-      "apply_url": "https://job-boards.greenhouse.io/tubitv/jobs/8240144",
-      "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8244747",
@@ -272,7 +236,7 @@
       "source_url": "https://job-boards.greenhouse.io/tubitv/jobs/8244747",
       "apply_url": "https://job-boards.greenhouse.io/tubitv/jobs/8244747",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8247871",
@@ -290,7 +254,7 @@
       "source_url": "https://job-boards.greenhouse.io/tubitv/jobs/8247871",
       "apply_url": "https://job-boards.greenhouse.io/tubitv/jobs/8247871",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8265869",
@@ -308,7 +272,7 @@
       "source_url": "https://job-boards.greenhouse.io/tubitv/jobs/8265869",
       "apply_url": "https://job-boards.greenhouse.io/tubitv/jobs/8265869",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8283773",
@@ -326,7 +290,7 @@
       "source_url": "https://job-boards.greenhouse.io/tubitv/jobs/8283773",
       "apply_url": "https://job-boards.greenhouse.io/tubitv/jobs/8283773",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8325988",
@@ -344,7 +308,7 @@
       "source_url": "https://job-boards.greenhouse.io/tubitv/jobs/8325988",
       "apply_url": "https://job-boards.greenhouse.io/tubitv/jobs/8325988",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8332678",
@@ -362,7 +326,7 @@
       "source_url": "https://job-boards.greenhouse.io/tubitv/jobs/8332678",
       "apply_url": "https://job-boards.greenhouse.io/tubitv/jobs/8332678",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8353841",
@@ -380,7 +344,7 @@
       "source_url": "https://job-boards.greenhouse.io/tubitv/jobs/8353841",
       "apply_url": "https://job-boards.greenhouse.io/tubitv/jobs/8353841",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8356047",
@@ -398,7 +362,7 @@
       "source_url": "https://job-boards.greenhouse.io/tubitv/jobs/8356047",
       "apply_url": "https://job-boards.greenhouse.io/tubitv/jobs/8356047",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8359968",
@@ -416,7 +380,7 @@
       "source_url": "https://job-boards.greenhouse.io/tubitv/jobs/8359968",
       "apply_url": "https://job-boards.greenhouse.io/tubitv/jobs/8359968",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8381961",
@@ -434,7 +398,7 @@
       "source_url": "https://job-boards.greenhouse.io/tubitv/jobs/8381961",
       "apply_url": "https://job-boards.greenhouse.io/tubitv/jobs/8381961",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8386097",
@@ -452,7 +416,7 @@
       "source_url": "https://job-boards.greenhouse.io/tubitv/jobs/8386097",
       "apply_url": "https://job-boards.greenhouse.io/tubitv/jobs/8386097",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     }
   ],
   "ats": "greenhouse",

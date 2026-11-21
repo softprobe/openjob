@@ -1,9 +1,27 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-20T15:23:49Z",
+  "checked_at": "2026-11-21T14:37:10Z",
   "failed_at": null,
-  "etag": "W/\"bd7c6-cifE5TmBVpCnkrCjExjabuhr1Dc\"",
+  "etag": "W/\"c31ce-Xw9hlGfaiwj2hqO2iQ3ytNALVzw\"",
   "jobs": [
+    {
+      "id": "057dd784-ed82-43d1-b933-ee9eb6e55716",
+      "title": "Chief Engineer (Live-In Role)",
+      "company": "ABM Industries",
+      "location": "Oak Brook, IL",
+      "remote": "onsite",
+      "department": "Engineering, Chief Engineer",
+      "employment_type": "FULL_TIME",
+      "salary_text": "35.51-36.51 USD / per-hour-wage",
+      "salary_source": "lever",
+      "posted": "2026-10-26",
+      "updated": "",
+      "deadline": "",
+      "source_url": "https://jobs.lever.co/ableserve/057dd784-ed82-43d1-b933-ee9eb6e55716",
+      "apply_url": "https://jobs.lever.co/ableserve/057dd784-ed82-43d1-b933-ee9eb6e55716/apply",
+      "first_seen": "2026-11-21T14:37:10Z",
+      "last_checked": "2026-11-21T14:37:10Z"
+    },
     {
       "id": "099ac833-186f-401b-8b7b-c8dff75978ea",
       "title": "Lead Mobile Engineer",
@@ -20,7 +38,7 @@
       "source_url": "https://jobs.lever.co/ableserve/099ac833-186f-401b-8b7b-c8dff75978ea",
       "apply_url": "https://jobs.lever.co/ableserve/099ac833-186f-401b-8b7b-c8dff75978ea/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "099d617a-0932-442d-8585-1c44596a2254",
@@ -38,7 +56,7 @@
       "source_url": "https://jobs.lever.co/ableserve/099d617a-0932-442d-8585-1c44596a2254",
       "apply_url": "https://jobs.lever.co/ableserve/099d617a-0932-442d-8585-1c44596a2254/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "0b54a142-12be-4095-b23f-c05ada6701d9",
@@ -56,7 +74,7 @@
       "source_url": "https://jobs.lever.co/ableserve/0b54a142-12be-4095-b23f-c05ada6701d9",
       "apply_url": "https://jobs.lever.co/ableserve/0b54a142-12be-4095-b23f-c05ada6701d9/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "0c39c27e-1f2c-43ec-86b6-4972eef42a05",
@@ -74,7 +92,7 @@
       "source_url": "https://jobs.lever.co/ableserve/0c39c27e-1f2c-43ec-86b6-4972eef42a05",
       "apply_url": "https://jobs.lever.co/ableserve/0c39c27e-1f2c-43ec-86b6-4972eef42a05/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "0d0fc4c2-7666-4452-b434-b8f36218efaa",
@@ -92,7 +110,7 @@
       "source_url": "https://jobs.lever.co/ableserve/0d0fc4c2-7666-4452-b434-b8f36218efaa",
       "apply_url": "https://jobs.lever.co/ableserve/0d0fc4c2-7666-4452-b434-b8f36218efaa/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "0fa9c259-2dcf-457d-af76-b3c0cccfba7a",
@@ -110,7 +128,7 @@
       "source_url": "https://jobs.lever.co/ableserve/0fa9c259-2dcf-457d-af76-b3c0cccfba7a",
       "apply_url": "https://jobs.lever.co/ableserve/0fa9c259-2dcf-457d-af76-b3c0cccfba7a/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "13730090-d3c7-437a-ac77-26b0495c0801",
@@ -128,7 +146,7 @@
       "source_url": "https://jobs.lever.co/ableserve/13730090-d3c7-437a-ac77-26b0495c0801",
       "apply_url": "https://jobs.lever.co/ableserve/13730090-d3c7-437a-ac77-26b0495c0801/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "14dd5212-02c4-40e2-abcf-adcef1b5d669",
@@ -146,7 +164,7 @@
       "source_url": "https://jobs.lever.co/ableserve/14dd5212-02c4-40e2-abcf-adcef1b5d669",
       "apply_url": "https://jobs.lever.co/ableserve/14dd5212-02c4-40e2-abcf-adcef1b5d669/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "157e56e1-dbf0-4e06-89f9-78a11870f7e3",
@@ -164,7 +182,7 @@
       "source_url": "https://jobs.lever.co/ableserve/157e56e1-dbf0-4e06-89f9-78a11870f7e3",
       "apply_url": "https://jobs.lever.co/ableserve/157e56e1-dbf0-4e06-89f9-78a11870f7e3/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "177cc9d9-df3b-40a0-9214-4bdfa13e680b",
@@ -182,7 +200,7 @@
       "source_url": "https://jobs.lever.co/ableserve/177cc9d9-df3b-40a0-9214-4bdfa13e680b",
       "apply_url": "https://jobs.lever.co/ableserve/177cc9d9-df3b-40a0-9214-4bdfa13e680b/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "18248d32-ea64-40e6-8adf-3568a1c26d31",
@@ -200,7 +218,7 @@
       "source_url": "https://jobs.lever.co/ableserve/18248d32-ea64-40e6-8adf-3568a1c26d31",
       "apply_url": "https://jobs.lever.co/ableserve/18248d32-ea64-40e6-8adf-3568a1c26d31/apply",
       "first_seen": "2026-11-18T15:36:26Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "186f887a-4c64-4f09-9c9b-5c95f5d3bfe0",
@@ -218,7 +236,7 @@
       "source_url": "https://jobs.lever.co/ableserve/186f887a-4c64-4f09-9c9b-5c95f5d3bfe0",
       "apply_url": "https://jobs.lever.co/ableserve/186f887a-4c64-4f09-9c9b-5c95f5d3bfe0/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "19dbafe1-b9bb-4847-ac53-43c9fdc10fdf",
@@ -236,7 +254,7 @@
       "source_url": "https://jobs.lever.co/ableserve/19dbafe1-b9bb-4847-ac53-43c9fdc10fdf",
       "apply_url": "https://jobs.lever.co/ableserve/19dbafe1-b9bb-4847-ac53-43c9fdc10fdf/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "2611fc52-87d9-4f84-8d20-f7ae80509b6d",
@@ -254,7 +272,7 @@
       "source_url": "https://jobs.lever.co/ableserve/2611fc52-87d9-4f84-8d20-f7ae80509b6d",
       "apply_url": "https://jobs.lever.co/ableserve/2611fc52-87d9-4f84-8d20-f7ae80509b6d/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "2a344ce1-c76a-48eb-83dd-ab47bc21243a",
@@ -272,7 +290,7 @@
       "source_url": "https://jobs.lever.co/ableserve/2a344ce1-c76a-48eb-83dd-ab47bc21243a",
       "apply_url": "https://jobs.lever.co/ableserve/2a344ce1-c76a-48eb-83dd-ab47bc21243a/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "30177d16-d5db-49ee-a65b-4ba6d50594e9",
@@ -290,7 +308,7 @@
       "source_url": "https://jobs.lever.co/ableserve/30177d16-d5db-49ee-a65b-4ba6d50594e9",
       "apply_url": "https://jobs.lever.co/ableserve/30177d16-d5db-49ee-a65b-4ba6d50594e9/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "30d0caf5-ccdd-46af-8372-a9e2cabf63be",
@@ -308,7 +326,7 @@
       "source_url": "https://jobs.lever.co/ableserve/30d0caf5-ccdd-46af-8372-a9e2cabf63be",
       "apply_url": "https://jobs.lever.co/ableserve/30d0caf5-ccdd-46af-8372-a9e2cabf63be/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "3457fdb9-0fe7-4712-8979-21c7dd5b19c5",
@@ -326,7 +344,7 @@
       "source_url": "https://jobs.lever.co/ableserve/3457fdb9-0fe7-4712-8979-21c7dd5b19c5",
       "apply_url": "https://jobs.lever.co/ableserve/3457fdb9-0fe7-4712-8979-21c7dd5b19c5/apply",
       "first_seen": "2026-11-20T15:23:49Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "3482e359-f07c-495c-a52c-20f0bfeacd42",
@@ -344,7 +362,7 @@
       "source_url": "https://jobs.lever.co/ableserve/3482e359-f07c-495c-a52c-20f0bfeacd42",
       "apply_url": "https://jobs.lever.co/ableserve/3482e359-f07c-495c-a52c-20f0bfeacd42/apply",
       "first_seen": "2026-11-20T15:23:49Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "37b9fdc5-8975-4084-ad8a-4f9e0e32e805",
@@ -362,7 +380,7 @@
       "source_url": "https://jobs.lever.co/ableserve/37b9fdc5-8975-4084-ad8a-4f9e0e32e805",
       "apply_url": "https://jobs.lever.co/ableserve/37b9fdc5-8975-4084-ad8a-4f9e0e32e805/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "3852387f-c653-4d28-b7da-012070e40a4c",
@@ -380,7 +398,7 @@
       "source_url": "https://jobs.lever.co/ableserve/3852387f-c653-4d28-b7da-012070e40a4c",
       "apply_url": "https://jobs.lever.co/ableserve/3852387f-c653-4d28-b7da-012070e40a4c/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "387e0a6e-4f01-4c51-8d21-2f2dd1c9e3f3",
@@ -398,7 +416,7 @@
       "source_url": "https://jobs.lever.co/ableserve/387e0a6e-4f01-4c51-8d21-2f2dd1c9e3f3",
       "apply_url": "https://jobs.lever.co/ableserve/387e0a6e-4f01-4c51-8d21-2f2dd1c9e3f3/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "38cc86bf-3112-4355-97f0-54fd705b0a55",
@@ -416,7 +434,7 @@
       "source_url": "https://jobs.lever.co/ableserve/38cc86bf-3112-4355-97f0-54fd705b0a55",
       "apply_url": "https://jobs.lever.co/ableserve/38cc86bf-3112-4355-97f0-54fd705b0a55/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "47aa6c3f-f73c-4611-beb2-3bdc68c212cb",
@@ -434,7 +452,7 @@
       "source_url": "https://jobs.lever.co/ableserve/47aa6c3f-f73c-4611-beb2-3bdc68c212cb",
       "apply_url": "https://jobs.lever.co/ableserve/47aa6c3f-f73c-4611-beb2-3bdc68c212cb/apply",
       "first_seen": "2026-11-19T15:42:04Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "48648cc5-9fe2-4205-968b-1f4e85f07bec",
@@ -452,7 +470,7 @@
       "source_url": "https://jobs.lever.co/ableserve/48648cc5-9fe2-4205-968b-1f4e85f07bec",
       "apply_url": "https://jobs.lever.co/ableserve/48648cc5-9fe2-4205-968b-1f4e85f07bec/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5a727113-47bd-4f36-9c18-33d992f01d97",
@@ -470,7 +488,7 @@
       "source_url": "https://jobs.lever.co/ableserve/5a727113-47bd-4f36-9c18-33d992f01d97",
       "apply_url": "https://jobs.lever.co/ableserve/5a727113-47bd-4f36-9c18-33d992f01d97/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "6349625d-0de2-4203-add4-9654130752c2",
@@ -488,7 +506,7 @@
       "source_url": "https://jobs.lever.co/ableserve/6349625d-0de2-4203-add4-9654130752c2",
       "apply_url": "https://jobs.lever.co/ableserve/6349625d-0de2-4203-add4-9654130752c2/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "651a3b85-8494-4035-9d7b-af6f2a197169",
@@ -506,7 +524,7 @@
       "source_url": "https://jobs.lever.co/ableserve/651a3b85-8494-4035-9d7b-af6f2a197169",
       "apply_url": "https://jobs.lever.co/ableserve/651a3b85-8494-4035-9d7b-af6f2a197169/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "6a119e1e-19d2-4a0c-bdb1-58ab0b89c885",
@@ -524,7 +542,7 @@
       "source_url": "https://jobs.lever.co/ableserve/6a119e1e-19d2-4a0c-bdb1-58ab0b89c885",
       "apply_url": "https://jobs.lever.co/ableserve/6a119e1e-19d2-4a0c-bdb1-58ab0b89c885/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "6e715c57-95ac-4930-8df0-dd1c404e24d9",
@@ -542,7 +560,7 @@
       "source_url": "https://jobs.lever.co/ableserve/6e715c57-95ac-4930-8df0-dd1c404e24d9",
       "apply_url": "https://jobs.lever.co/ableserve/6e715c57-95ac-4930-8df0-dd1c404e24d9/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "6fb41ce9-f412-442a-b6e6-bfd3eb762a6d",
@@ -560,7 +578,7 @@
       "source_url": "https://jobs.lever.co/ableserve/6fb41ce9-f412-442a-b6e6-bfd3eb762a6d",
       "apply_url": "https://jobs.lever.co/ableserve/6fb41ce9-f412-442a-b6e6-bfd3eb762a6d/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "7e84002a-8fbf-4114-9ba2-912135fac9b6",
@@ -578,7 +596,7 @@
       "source_url": "https://jobs.lever.co/ableserve/7e84002a-8fbf-4114-9ba2-912135fac9b6",
       "apply_url": "https://jobs.lever.co/ableserve/7e84002a-8fbf-4114-9ba2-912135fac9b6/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "843f84bd-fdfb-445a-aecd-9b3d9d9f0d43",
@@ -596,7 +614,7 @@
       "source_url": "https://jobs.lever.co/ableserve/843f84bd-fdfb-445a-aecd-9b3d9d9f0d43",
       "apply_url": "https://jobs.lever.co/ableserve/843f84bd-fdfb-445a-aecd-9b3d9d9f0d43/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "84911c60-a128-49db-9075-9722c1b986b3",
@@ -614,7 +632,7 @@
       "source_url": "https://jobs.lever.co/ableserve/84911c60-a128-49db-9075-9722c1b986b3",
       "apply_url": "https://jobs.lever.co/ableserve/84911c60-a128-49db-9075-9722c1b986b3/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "84ec2353-885d-4a8f-a3cc-49fb7b8e5fa5",
@@ -632,7 +650,7 @@
       "source_url": "https://jobs.lever.co/ableserve/84ec2353-885d-4a8f-a3cc-49fb7b8e5fa5",
       "apply_url": "https://jobs.lever.co/ableserve/84ec2353-885d-4a8f-a3cc-49fb7b8e5fa5/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "87281093-e2dc-4f0a-ad17-f9bdea793e9a",
@@ -650,7 +668,7 @@
       "source_url": "https://jobs.lever.co/ableserve/87281093-e2dc-4f0a-ad17-f9bdea793e9a",
       "apply_url": "https://jobs.lever.co/ableserve/87281093-e2dc-4f0a-ad17-f9bdea793e9a/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "89842a63-c490-4779-94c5-dc8e23705fe7",
@@ -668,7 +686,7 @@
       "source_url": "https://jobs.lever.co/ableserve/89842a63-c490-4779-94c5-dc8e23705fe7",
       "apply_url": "https://jobs.lever.co/ableserve/89842a63-c490-4779-94c5-dc8e23705fe7/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "9199b7b9-2692-4498-b60b-a45464482378",
@@ -686,7 +704,7 @@
       "source_url": "https://jobs.lever.co/ableserve/9199b7b9-2692-4498-b60b-a45464482378",
       "apply_url": "https://jobs.lever.co/ableserve/9199b7b9-2692-4498-b60b-a45464482378/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "93a3be68-54bc-41d5-b6bf-d042bb091f16",
@@ -704,7 +722,7 @@
       "source_url": "https://jobs.lever.co/ableserve/93a3be68-54bc-41d5-b6bf-d042bb091f16",
       "apply_url": "https://jobs.lever.co/ableserve/93a3be68-54bc-41d5-b6bf-d042bb091f16/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "946c721d-0d3a-429d-a4b5-d05d381d32a5",
@@ -722,7 +740,7 @@
       "source_url": "https://jobs.lever.co/ableserve/946c721d-0d3a-429d-a4b5-d05d381d32a5",
       "apply_url": "https://jobs.lever.co/ableserve/946c721d-0d3a-429d-a4b5-d05d381d32a5/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "95ad4745-91d9-4ce6-9e01-6964bafb20b0",
@@ -740,7 +758,7 @@
       "source_url": "https://jobs.lever.co/ableserve/95ad4745-91d9-4ce6-9e01-6964bafb20b0",
       "apply_url": "https://jobs.lever.co/ableserve/95ad4745-91d9-4ce6-9e01-6964bafb20b0/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "963fd28a-f5fc-4bb2-82a5-9262eff429a4",
@@ -758,7 +776,7 @@
       "source_url": "https://jobs.lever.co/ableserve/963fd28a-f5fc-4bb2-82a5-9262eff429a4",
       "apply_url": "https://jobs.lever.co/ableserve/963fd28a-f5fc-4bb2-82a5-9262eff429a4/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "9a29a97f-740e-450e-a419-c1b4cd6bcd1f",
@@ -776,7 +794,7 @@
       "source_url": "https://jobs.lever.co/ableserve/9a29a97f-740e-450e-a419-c1b4cd6bcd1f",
       "apply_url": "https://jobs.lever.co/ableserve/9a29a97f-740e-450e-a419-c1b4cd6bcd1f/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "9cb87cd3-badc-4f99-a26c-456cdd89119e",
@@ -794,7 +812,7 @@
       "source_url": "https://jobs.lever.co/ableserve/9cb87cd3-badc-4f99-a26c-456cdd89119e",
       "apply_url": "https://jobs.lever.co/ableserve/9cb87cd3-badc-4f99-a26c-456cdd89119e/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "a6d2b1b8-ff5b-4448-a348-00013c0007f9",
@@ -812,7 +830,7 @@
       "source_url": "https://jobs.lever.co/ableserve/a6d2b1b8-ff5b-4448-a348-00013c0007f9",
       "apply_url": "https://jobs.lever.co/ableserve/a6d2b1b8-ff5b-4448-a348-00013c0007f9/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "aaac1a26-77df-4f16-8f10-284a42744816",
@@ -830,7 +848,7 @@
       "source_url": "https://jobs.lever.co/ableserve/aaac1a26-77df-4f16-8f10-284a42744816",
       "apply_url": "https://jobs.lever.co/ableserve/aaac1a26-77df-4f16-8f10-284a42744816/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "ad12d435-bcf0-4557-9b72-3ee0707a3a69",
@@ -848,7 +866,7 @@
       "source_url": "https://jobs.lever.co/ableserve/ad12d435-bcf0-4557-9b72-3ee0707a3a69",
       "apply_url": "https://jobs.lever.co/ableserve/ad12d435-bcf0-4557-9b72-3ee0707a3a69/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "ad51483d-bf8c-4741-a25d-2a736e61d422",
@@ -866,7 +884,7 @@
       "source_url": "https://jobs.lever.co/ableserve/ad51483d-bf8c-4741-a25d-2a736e61d422",
       "apply_url": "https://jobs.lever.co/ableserve/ad51483d-bf8c-4741-a25d-2a736e61d422/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "b17ff0de-ce47-410c-8270-556a60ccb246",
@@ -884,7 +902,7 @@
       "source_url": "https://jobs.lever.co/ableserve/b17ff0de-ce47-410c-8270-556a60ccb246",
       "apply_url": "https://jobs.lever.co/ableserve/b17ff0de-ce47-410c-8270-556a60ccb246/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "b4b73105-33a3-425d-8a61-7963a0866369",
@@ -902,7 +920,7 @@
       "source_url": "https://jobs.lever.co/ableserve/b4b73105-33a3-425d-8a61-7963a0866369",
       "apply_url": "https://jobs.lever.co/ableserve/b4b73105-33a3-425d-8a61-7963a0866369/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "b5ebd330-3969-49bd-b76d-d8df055f890f",
@@ -920,7 +938,7 @@
       "source_url": "https://jobs.lever.co/ableserve/b5ebd330-3969-49bd-b76d-d8df055f890f",
       "apply_url": "https://jobs.lever.co/ableserve/b5ebd330-3969-49bd-b76d-d8df055f890f/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "b6d11318-1a57-4159-8670-9718f47968de",
@@ -938,7 +956,7 @@
       "source_url": "https://jobs.lever.co/ableserve/b6d11318-1a57-4159-8670-9718f47968de",
       "apply_url": "https://jobs.lever.co/ableserve/b6d11318-1a57-4159-8670-9718f47968de/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "b784124d-ac3c-4aa3-ab42-36caaa2e98c5",
@@ -956,7 +974,7 @@
       "source_url": "https://jobs.lever.co/ableserve/b784124d-ac3c-4aa3-ab42-36caaa2e98c5",
       "apply_url": "https://jobs.lever.co/ableserve/b784124d-ac3c-4aa3-ab42-36caaa2e98c5/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "ba592cb0-4856-467d-93fb-47ad3c512ce9",
@@ -974,7 +992,7 @@
       "source_url": "https://jobs.lever.co/ableserve/ba592cb0-4856-467d-93fb-47ad3c512ce9",
       "apply_url": "https://jobs.lever.co/ableserve/ba592cb0-4856-467d-93fb-47ad3c512ce9/apply",
       "first_seen": "2026-11-20T15:23:49Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "c3fa24c2-fbeb-48bc-a723-7dee89bf4859",
@@ -992,7 +1010,7 @@
       "source_url": "https://jobs.lever.co/ableserve/c3fa24c2-fbeb-48bc-a723-7dee89bf4859",
       "apply_url": "https://jobs.lever.co/ableserve/c3fa24c2-fbeb-48bc-a723-7dee89bf4859/apply",
       "first_seen": "2026-11-17T15:56:57Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "c5ee4dc3-99dc-475e-b754-71669e85f229",
@@ -1010,7 +1028,7 @@
       "source_url": "https://jobs.lever.co/ableserve/c5ee4dc3-99dc-475e-b754-71669e85f229",
       "apply_url": "https://jobs.lever.co/ableserve/c5ee4dc3-99dc-475e-b754-71669e85f229/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "e055ec0c-d665-42e2-a5b1-2d274262d550",
@@ -1028,7 +1046,7 @@
       "source_url": "https://jobs.lever.co/ableserve/e055ec0c-d665-42e2-a5b1-2d274262d550",
       "apply_url": "https://jobs.lever.co/ableserve/e055ec0c-d665-42e2-a5b1-2d274262d550/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "e42edc0a-0595-437f-9585-0a2df9c5ebd7",
@@ -1046,7 +1064,7 @@
       "source_url": "https://jobs.lever.co/ableserve/e42edc0a-0595-437f-9585-0a2df9c5ebd7",
       "apply_url": "https://jobs.lever.co/ableserve/e42edc0a-0595-437f-9585-0a2df9c5ebd7/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "e4e74dc3-6b82-4736-8478-0c0ff3ed697d",
@@ -1064,7 +1082,7 @@
       "source_url": "https://jobs.lever.co/ableserve/e4e74dc3-6b82-4736-8478-0c0ff3ed697d",
       "apply_url": "https://jobs.lever.co/ableserve/e4e74dc3-6b82-4736-8478-0c0ff3ed697d/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "e6c44c06-d866-4e3c-a937-c7b9de643132",
@@ -1082,7 +1100,7 @@
       "source_url": "https://jobs.lever.co/ableserve/e6c44c06-d866-4e3c-a937-c7b9de643132",
       "apply_url": "https://jobs.lever.co/ableserve/e6c44c06-d866-4e3c-a937-c7b9de643132/apply",
       "first_seen": "2026-11-20T15:23:49Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "e70a5da7-2fe1-4842-9d31-7e29385249a8",
@@ -1100,7 +1118,7 @@
       "source_url": "https://jobs.lever.co/ableserve/e70a5da7-2fe1-4842-9d31-7e29385249a8",
       "apply_url": "https://jobs.lever.co/ableserve/e70a5da7-2fe1-4842-9d31-7e29385249a8/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "ecc5d27d-c9e1-4914-a6de-a9116fe4b191",
@@ -1118,7 +1136,7 @@
       "source_url": "https://jobs.lever.co/ableserve/ecc5d27d-c9e1-4914-a6de-a9116fe4b191",
       "apply_url": "https://jobs.lever.co/ableserve/ecc5d27d-c9e1-4914-a6de-a9116fe4b191/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "ecf2d740-b5cf-4491-97ec-ac45e40a4027",
@@ -1136,7 +1154,7 @@
       "source_url": "https://jobs.lever.co/ableserve/ecf2d740-b5cf-4491-97ec-ac45e40a4027",
       "apply_url": "https://jobs.lever.co/ableserve/ecf2d740-b5cf-4491-97ec-ac45e40a4027/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "eeadc15f-d77c-49df-9a7b-b6d2a9caac30",
@@ -1154,7 +1172,7 @@
       "source_url": "https://jobs.lever.co/ableserve/eeadc15f-d77c-49df-9a7b-b6d2a9caac30",
       "apply_url": "https://jobs.lever.co/ableserve/eeadc15f-d77c-49df-9a7b-b6d2a9caac30/apply",
       "first_seen": "2026-11-18T15:36:26Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "efdfc0ba-ebd5-4b82-8964-53d2365d97d9",
@@ -1172,7 +1190,7 @@
       "source_url": "https://jobs.lever.co/ableserve/efdfc0ba-ebd5-4b82-8964-53d2365d97d9",
       "apply_url": "https://jobs.lever.co/ableserve/efdfc0ba-ebd5-4b82-8964-53d2365d97d9/apply",
       "first_seen": "2026-11-18T15:36:26Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "f59b4845-e6b4-4dad-9123-d14374b5a7d5",
@@ -1190,7 +1208,7 @@
       "source_url": "https://jobs.lever.co/ableserve/f59b4845-e6b4-4dad-9123-d14374b5a7d5",
       "apply_url": "https://jobs.lever.co/ableserve/f59b4845-e6b4-4dad-9123-d14374b5a7d5/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "f62b195a-0d49-4ba7-b890-581e518e9e1b",
@@ -1208,7 +1226,7 @@
       "source_url": "https://jobs.lever.co/ableserve/f62b195a-0d49-4ba7-b890-581e518e9e1b",
       "apply_url": "https://jobs.lever.co/ableserve/f62b195a-0d49-4ba7-b890-581e518e9e1b/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "f6b4dcf4-3873-4dba-80c2-7ee3601c35a5",
@@ -1226,7 +1244,7 @@
       "source_url": "https://jobs.lever.co/ableserve/f6b4dcf4-3873-4dba-80c2-7ee3601c35a5",
       "apply_url": "https://jobs.lever.co/ableserve/f6b4dcf4-3873-4dba-80c2-7ee3601c35a5/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "f88824e8-3211-4493-9177-5d14710a8806",
@@ -1244,7 +1262,7 @@
       "source_url": "https://jobs.lever.co/ableserve/f88824e8-3211-4493-9177-5d14710a8806",
       "apply_url": "https://jobs.lever.co/ableserve/f88824e8-3211-4493-9177-5d14710a8806/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "f9339068-fba4-461a-a784-db7fea6baf58",
@@ -1262,7 +1280,7 @@
       "source_url": "https://jobs.lever.co/ableserve/f9339068-fba4-461a-a784-db7fea6baf58",
       "apply_url": "https://jobs.lever.co/ableserve/f9339068-fba4-461a-a784-db7fea6baf58/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "f9c352ac-7b29-468d-ba0a-fe324b2c535e",
@@ -1280,7 +1298,7 @@
       "source_url": "https://jobs.lever.co/ableserve/f9c352ac-7b29-468d-ba0a-fe324b2c535e",
       "apply_url": "https://jobs.lever.co/ableserve/f9c352ac-7b29-468d-ba0a-fe324b2c535e/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "fd28cdf8-f6a7-4d4f-954f-8d2e91e5f7d8",
@@ -1298,7 +1316,7 @@
       "source_url": "https://jobs.lever.co/ableserve/fd28cdf8-f6a7-4d4f-954f-8d2e91e5f7d8",
       "apply_url": "https://jobs.lever.co/ableserve/fd28cdf8-f6a7-4d4f-954f-8d2e91e5f7d8/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     }
   ],
   "ats": "lever",

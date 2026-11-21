@@ -1,8 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-20T15:23:49Z",
+  "checked_at": "2026-11-21T14:37:10Z",
   "failed_at": null,
-  "etag": "W/\"e6ec7c6d25b1e9139682ade7df61f697\"",
+  "etag": "W/\"950c0e690c6f1b84cff0171d22fe3e78\"",
   "jobs": [
     {
       "id": "8322483002",
@@ -20,11 +20,11 @@
       "source_url": "https://boards.greenhouse.io/chime/jobs/8322483002?gh_jid=8322483002",
       "apply_url": "https://boards.greenhouse.io/chime/jobs/8322483002?gh_jid=8322483002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8342899002",
-      "title": "Principal Product Designer, Growth",
+      "title": "Product Designer, Growth",
       "company": "Chime Financial, Inc",
       "location": "New York, NY, USA; San Francisco, CA, USA",
       "remote": "unspecified",
@@ -33,12 +33,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2025-12-17",
-      "updated": "2026-11-03",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://boards.greenhouse.io/chime/jobs/8342899002?gh_jid=8342899002",
       "apply_url": "https://boards.greenhouse.io/chime/jobs/8342899002?gh_jid=8342899002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8505462002",
@@ -56,7 +56,7 @@
       "source_url": "https://boards.greenhouse.io/chime/jobs/8505462002?gh_jid=8505462002",
       "apply_url": "https://boards.greenhouse.io/chime/jobs/8505462002?gh_jid=8505462002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8525743002",
@@ -74,7 +74,7 @@
       "source_url": "https://boards.greenhouse.io/chime/jobs/8525743002?gh_jid=8525743002",
       "apply_url": "https://boards.greenhouse.io/chime/jobs/8525743002?gh_jid=8525743002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8526680002",
@@ -87,12 +87,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-05-04",
-      "updated": "2026-11-17",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://boards.greenhouse.io/chime/jobs/8526680002?gh_jid=8526680002",
       "apply_url": "https://boards.greenhouse.io/chime/jobs/8526680002?gh_jid=8526680002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8529549002",
@@ -110,7 +110,7 @@
       "source_url": "https://boards.greenhouse.io/chime/jobs/8529549002?gh_jid=8529549002",
       "apply_url": "https://boards.greenhouse.io/chime/jobs/8529549002?gh_jid=8529549002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8535340002",
@@ -128,7 +128,7 @@
       "source_url": "https://boards.greenhouse.io/chime/jobs/8535340002?gh_jid=8535340002",
       "apply_url": "https://boards.greenhouse.io/chime/jobs/8535340002?gh_jid=8535340002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8564916002",
@@ -146,7 +146,7 @@
       "source_url": "https://boards.greenhouse.io/chime/jobs/8564916002?gh_jid=8564916002",
       "apply_url": "https://boards.greenhouse.io/chime/jobs/8564916002?gh_jid=8564916002",
       "first_seen": "2026-11-20T15:23:49Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8569267002",
@@ -164,7 +164,7 @@
       "source_url": "https://boards.greenhouse.io/chime/jobs/8569267002?gh_jid=8569267002",
       "apply_url": "https://boards.greenhouse.io/chime/jobs/8569267002?gh_jid=8569267002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8569366002",
@@ -182,7 +182,7 @@
       "source_url": "https://boards.greenhouse.io/chime/jobs/8569366002?gh_jid=8569366002",
       "apply_url": "https://boards.greenhouse.io/chime/jobs/8569366002?gh_jid=8569366002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8575541002",
@@ -200,7 +200,7 @@
       "source_url": "https://boards.greenhouse.io/chime/jobs/8575541002?gh_jid=8575541002",
       "apply_url": "https://boards.greenhouse.io/chime/jobs/8575541002?gh_jid=8575541002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8594959002",
@@ -218,7 +218,7 @@
       "source_url": "https://boards.greenhouse.io/chime/jobs/8594959002?gh_jid=8594959002",
       "apply_url": "https://boards.greenhouse.io/chime/jobs/8594959002?gh_jid=8594959002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8604565002",
@@ -236,7 +236,7 @@
       "source_url": "https://boards.greenhouse.io/chime/jobs/8604565002?gh_jid=8604565002",
       "apply_url": "https://boards.greenhouse.io/chime/jobs/8604565002?gh_jid=8604565002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8607191002",
@@ -254,7 +254,25 @@
       "source_url": "https://boards.greenhouse.io/chime/jobs/8607191002?gh_jid=8607191002",
       "apply_url": "https://boards.greenhouse.io/chime/jobs/8607191002?gh_jid=8607191002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
+    },
+    {
+      "id": "8609159002",
+      "title": "Tech Lead Manager, Cards",
+      "company": "Chime Financial, Inc",
+      "location": "San Francisco, CA, USA",
+      "remote": "unspecified",
+      "department": "",
+      "employment_type": "",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-07-30",
+      "updated": "2026-11-20",
+      "deadline": "",
+      "source_url": "https://boards.greenhouse.io/chime/jobs/8609159002?gh_jid=8609159002",
+      "apply_url": "https://boards.greenhouse.io/chime/jobs/8609159002?gh_jid=8609159002",
+      "first_seen": "2026-11-21T14:37:10Z",
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8612037002",
@@ -272,7 +290,25 @@
       "source_url": "https://boards.greenhouse.io/chime/jobs/8612037002?gh_jid=8612037002",
       "apply_url": "https://boards.greenhouse.io/chime/jobs/8612037002?gh_jid=8612037002",
       "first_seen": "2026-11-19T15:42:04Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
+    },
+    {
+      "id": "8612045002",
+      "title": "Senior Data Scientist, Membership",
+      "company": "Chime Financial, Inc",
+      "location": "San Francisco, CA, USA",
+      "remote": "unspecified",
+      "department": "",
+      "employment_type": "",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-08-11",
+      "updated": "2026-11-20",
+      "deadline": "",
+      "source_url": "https://boards.greenhouse.io/chime/jobs/8612045002?gh_jid=8612045002",
+      "apply_url": "https://boards.greenhouse.io/chime/jobs/8612045002?gh_jid=8612045002",
+      "first_seen": "2026-11-21T14:37:10Z",
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8614188002",
@@ -290,7 +326,7 @@
       "source_url": "https://boards.greenhouse.io/chime/jobs/8614188002?gh_jid=8614188002",
       "apply_url": "https://boards.greenhouse.io/chime/jobs/8614188002?gh_jid=8614188002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8616359002",
@@ -308,7 +344,7 @@
       "source_url": "https://boards.greenhouse.io/chime/jobs/8616359002?gh_jid=8616359002",
       "apply_url": "https://boards.greenhouse.io/chime/jobs/8616359002?gh_jid=8616359002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8625622002",
@@ -326,7 +362,7 @@
       "source_url": "https://boards.greenhouse.io/chime/jobs/8625622002?gh_jid=8625622002",
       "apply_url": "https://boards.greenhouse.io/chime/jobs/8625622002?gh_jid=8625622002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8627466002",
@@ -344,7 +380,7 @@
       "source_url": "https://boards.greenhouse.io/chime/jobs/8627466002?gh_jid=8627466002",
       "apply_url": "https://boards.greenhouse.io/chime/jobs/8627466002?gh_jid=8627466002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8656937002",
@@ -362,7 +398,7 @@
       "source_url": "https://boards.greenhouse.io/chime/jobs/8656937002?gh_jid=8656937002",
       "apply_url": "https://boards.greenhouse.io/chime/jobs/8656937002?gh_jid=8656937002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8657011002",
@@ -380,7 +416,7 @@
       "source_url": "https://boards.greenhouse.io/chime/jobs/8657011002?gh_jid=8657011002",
       "apply_url": "https://boards.greenhouse.io/chime/jobs/8657011002?gh_jid=8657011002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8692366002",
@@ -398,7 +434,7 @@
       "source_url": "https://boards.greenhouse.io/chime/jobs/8692366002?gh_jid=8692366002",
       "apply_url": "https://boards.greenhouse.io/chime/jobs/8692366002?gh_jid=8692366002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8724243002",
@@ -416,7 +452,7 @@
       "source_url": "https://boards.greenhouse.io/chime/jobs/8724243002?gh_jid=8724243002",
       "apply_url": "https://boards.greenhouse.io/chime/jobs/8724243002?gh_jid=8724243002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8733757002",
@@ -434,7 +470,7 @@
       "source_url": "https://boards.greenhouse.io/chime/jobs/8733757002?gh_jid=8733757002",
       "apply_url": "https://boards.greenhouse.io/chime/jobs/8733757002?gh_jid=8733757002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8765680002",
@@ -452,7 +488,7 @@
       "source_url": "https://boards.greenhouse.io/chime/jobs/8765680002?gh_jid=8765680002",
       "apply_url": "https://boards.greenhouse.io/chime/jobs/8765680002?gh_jid=8765680002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8765682002",
@@ -470,7 +506,7 @@
       "source_url": "https://boards.greenhouse.io/chime/jobs/8765682002?gh_jid=8765682002",
       "apply_url": "https://boards.greenhouse.io/chime/jobs/8765682002?gh_jid=8765682002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8765684002",
@@ -488,7 +524,7 @@
       "source_url": "https://boards.greenhouse.io/chime/jobs/8765684002?gh_jid=8765684002",
       "apply_url": "https://boards.greenhouse.io/chime/jobs/8765684002?gh_jid=8765684002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8765690002",
@@ -506,7 +542,7 @@
       "source_url": "https://boards.greenhouse.io/chime/jobs/8765690002?gh_jid=8765690002",
       "apply_url": "https://boards.greenhouse.io/chime/jobs/8765690002?gh_jid=8765690002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8779819002",
@@ -524,7 +560,7 @@
       "source_url": "https://boards.greenhouse.io/chime/jobs/8779819002?gh_jid=8779819002",
       "apply_url": "https://boards.greenhouse.io/chime/jobs/8779819002?gh_jid=8779819002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8782503002",
@@ -542,7 +578,7 @@
       "source_url": "https://boards.greenhouse.io/chime/jobs/8782503002?gh_jid=8782503002",
       "apply_url": "https://boards.greenhouse.io/chime/jobs/8782503002?gh_jid=8782503002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8786182002",
@@ -560,7 +596,7 @@
       "source_url": "https://boards.greenhouse.io/chime/jobs/8786182002?gh_jid=8786182002",
       "apply_url": "https://boards.greenhouse.io/chime/jobs/8786182002?gh_jid=8786182002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8788272002",
@@ -578,7 +614,7 @@
       "source_url": "https://boards.greenhouse.io/chime/jobs/8788272002?gh_jid=8788272002",
       "apply_url": "https://boards.greenhouse.io/chime/jobs/8788272002?gh_jid=8788272002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8788322002",
@@ -596,7 +632,7 @@
       "source_url": "https://boards.greenhouse.io/chime/jobs/8788322002?gh_jid=8788322002",
       "apply_url": "https://boards.greenhouse.io/chime/jobs/8788322002?gh_jid=8788322002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8792103002",
@@ -614,7 +650,7 @@
       "source_url": "https://boards.greenhouse.io/chime/jobs/8792103002?gh_jid=8792103002",
       "apply_url": "https://boards.greenhouse.io/chime/jobs/8792103002?gh_jid=8792103002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8795524002",
@@ -632,7 +668,7 @@
       "source_url": "https://boards.greenhouse.io/chime/jobs/8795524002?gh_jid=8795524002",
       "apply_url": "https://boards.greenhouse.io/chime/jobs/8795524002?gh_jid=8795524002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8801438002",
@@ -650,7 +686,7 @@
       "source_url": "https://boards.greenhouse.io/chime/jobs/8801438002?gh_jid=8801438002",
       "apply_url": "https://boards.greenhouse.io/chime/jobs/8801438002?gh_jid=8801438002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8802615002",
@@ -668,7 +704,7 @@
       "source_url": "https://boards.greenhouse.io/chime/jobs/8802615002?gh_jid=8802615002",
       "apply_url": "https://boards.greenhouse.io/chime/jobs/8802615002?gh_jid=8802615002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8831472002",
@@ -686,7 +722,7 @@
       "source_url": "https://boards.greenhouse.io/chime/jobs/8831472002?gh_jid=8831472002",
       "apply_url": "https://boards.greenhouse.io/chime/jobs/8831472002?gh_jid=8831472002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8838389002",
@@ -704,7 +740,7 @@
       "source_url": "https://boards.greenhouse.io/chime/jobs/8838389002?gh_jid=8838389002",
       "apply_url": "https://boards.greenhouse.io/chime/jobs/8838389002?gh_jid=8838389002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8840193002",
@@ -722,7 +758,7 @@
       "source_url": "https://boards.greenhouse.io/chime/jobs/8840193002?gh_jid=8840193002",
       "apply_url": "https://boards.greenhouse.io/chime/jobs/8840193002?gh_jid=8840193002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8840205002",
@@ -740,7 +776,7 @@
       "source_url": "https://boards.greenhouse.io/chime/jobs/8840205002?gh_jid=8840205002",
       "apply_url": "https://boards.greenhouse.io/chime/jobs/8840205002?gh_jid=8840205002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8859182002",
@@ -758,7 +794,7 @@
       "source_url": "https://boards.greenhouse.io/chime/jobs/8859182002?gh_jid=8859182002",
       "apply_url": "https://boards.greenhouse.io/chime/jobs/8859182002?gh_jid=8859182002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8864214002",
@@ -776,7 +812,7 @@
       "source_url": "https://boards.greenhouse.io/chime/jobs/8864214002?gh_jid=8864214002",
       "apply_url": "https://boards.greenhouse.io/chime/jobs/8864214002?gh_jid=8864214002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8866651002",
@@ -794,7 +830,7 @@
       "source_url": "https://boards.greenhouse.io/chime/jobs/8866651002?gh_jid=8866651002",
       "apply_url": "https://boards.greenhouse.io/chime/jobs/8866651002?gh_jid=8866651002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8868948002",
@@ -812,7 +848,7 @@
       "source_url": "https://boards.greenhouse.io/chime/jobs/8868948002?gh_jid=8868948002",
       "apply_url": "https://boards.greenhouse.io/chime/jobs/8868948002?gh_jid=8868948002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8868950002",
@@ -830,7 +866,7 @@
       "source_url": "https://boards.greenhouse.io/chime/jobs/8868950002?gh_jid=8868950002",
       "apply_url": "https://boards.greenhouse.io/chime/jobs/8868950002?gh_jid=8868950002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8869139002",
@@ -848,7 +884,7 @@
       "source_url": "https://boards.greenhouse.io/chime/jobs/8869139002?gh_jid=8869139002",
       "apply_url": "https://boards.greenhouse.io/chime/jobs/8869139002?gh_jid=8869139002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8875663002",
@@ -866,7 +902,7 @@
       "source_url": "https://boards.greenhouse.io/chime/jobs/8875663002?gh_jid=8875663002",
       "apply_url": "https://boards.greenhouse.io/chime/jobs/8875663002?gh_jid=8875663002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8875820002",
@@ -884,7 +920,7 @@
       "source_url": "https://boards.greenhouse.io/chime/jobs/8875820002?gh_jid=8875820002",
       "apply_url": "https://boards.greenhouse.io/chime/jobs/8875820002?gh_jid=8875820002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8875914002",
@@ -902,25 +938,7 @@
       "source_url": "https://boards.greenhouse.io/chime/jobs/8875914002?gh_jid=8875914002",
       "apply_url": "https://boards.greenhouse.io/chime/jobs/8875914002?gh_jid=8875914002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
-    },
-    {
-      "id": "8877396002",
-      "title": "Business Control Manager",
-      "company": "Chime Financial, Inc",
-      "location": "Chicago, IL, USA; New York, NY, USA; San Francisco, CA, USA",
-      "remote": "unspecified",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-10-08",
-      "updated": "2026-11-03",
-      "deadline": "",
-      "source_url": "https://boards.greenhouse.io/chime/jobs/8877396002?gh_jid=8877396002",
-      "apply_url": "https://boards.greenhouse.io/chime/jobs/8877396002?gh_jid=8877396002",
-      "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8879659002",
@@ -938,7 +956,7 @@
       "source_url": "https://boards.greenhouse.io/chime/jobs/8879659002?gh_jid=8879659002",
       "apply_url": "https://boards.greenhouse.io/chime/jobs/8879659002?gh_jid=8879659002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8879740002",
@@ -956,7 +974,7 @@
       "source_url": "https://boards.greenhouse.io/chime/jobs/8879740002?gh_jid=8879740002",
       "apply_url": "https://boards.greenhouse.io/chime/jobs/8879740002?gh_jid=8879740002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8881989002",
@@ -974,7 +992,7 @@
       "source_url": "https://boards.greenhouse.io/chime/jobs/8881989002?gh_jid=8881989002",
       "apply_url": "https://boards.greenhouse.io/chime/jobs/8881989002?gh_jid=8881989002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8882465002",
@@ -992,7 +1010,7 @@
       "source_url": "https://boards.greenhouse.io/chime/jobs/8882465002?gh_jid=8882465002",
       "apply_url": "https://boards.greenhouse.io/chime/jobs/8882465002?gh_jid=8882465002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8892857002",
@@ -1010,7 +1028,7 @@
       "source_url": "https://boards.greenhouse.io/chime/jobs/8892857002?gh_jid=8892857002",
       "apply_url": "https://boards.greenhouse.io/chime/jobs/8892857002?gh_jid=8892857002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8895833002",
@@ -1028,7 +1046,7 @@
       "source_url": "https://boards.greenhouse.io/chime/jobs/8895833002?gh_jid=8895833002",
       "apply_url": "https://boards.greenhouse.io/chime/jobs/8895833002?gh_jid=8895833002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8900232002",
@@ -1046,7 +1064,7 @@
       "source_url": "https://boards.greenhouse.io/chime/jobs/8900232002?gh_jid=8900232002",
       "apply_url": "https://boards.greenhouse.io/chime/jobs/8900232002?gh_jid=8900232002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8904126002",
@@ -1064,7 +1082,7 @@
       "source_url": "https://boards.greenhouse.io/chime/jobs/8904126002?gh_jid=8904126002",
       "apply_url": "https://boards.greenhouse.io/chime/jobs/8904126002?gh_jid=8904126002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8904561002",
@@ -1082,7 +1100,7 @@
       "source_url": "https://boards.greenhouse.io/chime/jobs/8904561002?gh_jid=8904561002",
       "apply_url": "https://boards.greenhouse.io/chime/jobs/8904561002?gh_jid=8904561002",
       "first_seen": "2026-11-19T15:42:04Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8917560002",
@@ -1100,25 +1118,7 @@
       "source_url": "https://boards.greenhouse.io/chime/jobs/8917560002?gh_jid=8917560002",
       "apply_url": "https://boards.greenhouse.io/chime/jobs/8917560002?gh_jid=8917560002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
-    },
-    {
-      "id": "8920142002",
-      "title": "Senior Operations Manager, Partner Management",
-      "company": "Chime Financial, Inc",
-      "location": "Austin, TX, USA",
-      "remote": "unspecified",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-10-30",
-      "updated": "2026-11-03",
-      "deadline": "",
-      "source_url": "https://boards.greenhouse.io/chime/jobs/8920142002?gh_jid=8920142002",
-      "apply_url": "https://boards.greenhouse.io/chime/jobs/8920142002?gh_jid=8920142002",
-      "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8922004002",
@@ -1136,7 +1136,7 @@
       "source_url": "https://boards.greenhouse.io/chime/jobs/8922004002?gh_jid=8922004002",
       "apply_url": "https://boards.greenhouse.io/chime/jobs/8922004002?gh_jid=8922004002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8922481002",
@@ -1154,7 +1154,7 @@
       "source_url": "https://boards.greenhouse.io/chime/jobs/8922481002?gh_jid=8922481002",
       "apply_url": "https://boards.greenhouse.io/chime/jobs/8922481002?gh_jid=8922481002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8928783002",
@@ -1172,7 +1172,7 @@
       "source_url": "https://boards.greenhouse.io/chime/jobs/8928783002?gh_jid=8928783002",
       "apply_url": "https://boards.greenhouse.io/chime/jobs/8928783002?gh_jid=8928783002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8929303002",
@@ -1190,7 +1190,7 @@
       "source_url": "https://boards.greenhouse.io/chime/jobs/8929303002?gh_jid=8929303002",
       "apply_url": "https://boards.greenhouse.io/chime/jobs/8929303002?gh_jid=8929303002",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8929305002",
@@ -1208,7 +1208,7 @@
       "source_url": "https://boards.greenhouse.io/chime/jobs/8929305002?gh_jid=8929305002",
       "apply_url": "https://boards.greenhouse.io/chime/jobs/8929305002?gh_jid=8929305002",
       "first_seen": "2026-11-18T15:36:26Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8929507002",
@@ -1226,7 +1226,7 @@
       "source_url": "https://boards.greenhouse.io/chime/jobs/8929507002?gh_jid=8929507002",
       "apply_url": "https://boards.greenhouse.io/chime/jobs/8929507002?gh_jid=8929507002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8932327002",
@@ -1244,7 +1244,7 @@
       "source_url": "https://boards.greenhouse.io/chime/jobs/8932327002?gh_jid=8932327002",
       "apply_url": "https://boards.greenhouse.io/chime/jobs/8932327002?gh_jid=8932327002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8932546002",
@@ -1262,7 +1262,7 @@
       "source_url": "https://boards.greenhouse.io/chime/jobs/8932546002?gh_jid=8932546002",
       "apply_url": "https://boards.greenhouse.io/chime/jobs/8932546002?gh_jid=8932546002",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8933682002",
@@ -1280,7 +1280,7 @@
       "source_url": "https://boards.greenhouse.io/chime/jobs/8933682002?gh_jid=8933682002",
       "apply_url": "https://boards.greenhouse.io/chime/jobs/8933682002?gh_jid=8933682002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8939592002",
@@ -1298,7 +1298,7 @@
       "source_url": "https://boards.greenhouse.io/chime/jobs/8939592002?gh_jid=8939592002",
       "apply_url": "https://boards.greenhouse.io/chime/jobs/8939592002?gh_jid=8939592002",
       "first_seen": "2026-11-17T15:56:57Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8940707002",
@@ -1316,7 +1316,7 @@
       "source_url": "https://boards.greenhouse.io/chime/jobs/8940707002?gh_jid=8940707002",
       "apply_url": "https://boards.greenhouse.io/chime/jobs/8940707002?gh_jid=8940707002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8941673002",
@@ -1334,7 +1334,7 @@
       "source_url": "https://boards.greenhouse.io/chime/jobs/8941673002?gh_jid=8941673002",
       "apply_url": "https://boards.greenhouse.io/chime/jobs/8941673002?gh_jid=8941673002",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8943054002",
@@ -1352,7 +1352,7 @@
       "source_url": "https://boards.greenhouse.io/chime/jobs/8943054002?gh_jid=8943054002",
       "apply_url": "https://boards.greenhouse.io/chime/jobs/8943054002?gh_jid=8943054002",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8945757002",
@@ -1370,7 +1370,7 @@
       "source_url": "https://boards.greenhouse.io/chime/jobs/8945757002?gh_jid=8945757002",
       "apply_url": "https://boards.greenhouse.io/chime/jobs/8945757002?gh_jid=8945757002",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8948694002",
@@ -1388,7 +1388,61 @@
       "source_url": "https://boards.greenhouse.io/chime/jobs/8948694002?gh_jid=8948694002",
       "apply_url": "https://boards.greenhouse.io/chime/jobs/8948694002?gh_jid=8948694002",
       "first_seen": "2026-11-20T15:23:49Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
+    },
+    {
+      "id": "8950849002",
+      "title": "Principal Product Designer",
+      "company": "Chime Financial, Inc",
+      "location": "San Francisco, CA, USA",
+      "remote": "unspecified",
+      "department": "",
+      "employment_type": "",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-20",
+      "updated": "2026-11-20",
+      "deadline": "",
+      "source_url": "https://boards.greenhouse.io/chime/jobs/8950849002?gh_jid=8950849002",
+      "apply_url": "https://boards.greenhouse.io/chime/jobs/8950849002?gh_jid=8950849002",
+      "first_seen": "2026-11-21T14:37:10Z",
+      "last_checked": "2026-11-21T14:37:10Z"
+    },
+    {
+      "id": "8950917002",
+      "title": "Senior Infrastructure Security Engineer",
+      "company": "Chime Financial, Inc",
+      "location": "Chicago, IL, USA; New York, NY, USA; San Francisco, CA, USA",
+      "remote": "unspecified",
+      "department": "",
+      "employment_type": "",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-20",
+      "updated": "2026-11-20",
+      "deadline": "",
+      "source_url": "https://boards.greenhouse.io/chime/jobs/8950917002?gh_jid=8950917002",
+      "apply_url": "https://boards.greenhouse.io/chime/jobs/8950917002?gh_jid=8950917002",
+      "first_seen": "2026-11-21T14:37:10Z",
+      "last_checked": "2026-11-21T14:37:10Z"
+    },
+    {
+      "id": "8952336002",
+      "title": "Lead Technical Recruiter",
+      "company": "Chime Financial, Inc",
+      "location": "Chicago, IL, USA; New York, NY, USA; San Francisco, CA, USA",
+      "remote": "unspecified",
+      "department": "",
+      "employment_type": "",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-20",
+      "updated": "2026-11-20",
+      "deadline": "",
+      "source_url": "https://boards.greenhouse.io/chime/jobs/8952336002?gh_jid=8952336002",
+      "apply_url": "https://boards.greenhouse.io/chime/jobs/8952336002?gh_jid=8952336002",
+      "first_seen": "2026-11-21T14:37:10Z",
+      "last_checked": "2026-11-21T14:37:10Z"
     }
   ],
   "ats": "greenhouse",

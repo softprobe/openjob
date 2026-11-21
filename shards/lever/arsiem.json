@@ -1,8 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-20T15:23:49Z",
+  "checked_at": "2026-11-21T14:37:10Z",
   "failed_at": null,
-  "etag": "W/\"c0697-9pjlcEL+pRAuHkmelm7Cm59etao\"",
+  "etag": "W/\"d5759-OLD8tSLckLMfA+WpqDl+X31Rj4Y\"",
   "jobs": [
     {
       "id": "0777a15d-7854-4f24-b476-59bffb1dbdf7",
@@ -20,7 +20,7 @@
       "source_url": "https://jobs.lever.co/arsiem/0777a15d-7854-4f24-b476-59bffb1dbdf7",
       "apply_url": "https://jobs.lever.co/arsiem/0777a15d-7854-4f24-b476-59bffb1dbdf7/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "0f023887-89a9-460b-bd22-dea3c255760c",
@@ -38,7 +38,25 @@
       "source_url": "https://jobs.lever.co/arsiem/0f023887-89a9-460b-bd22-dea3c255760c",
       "apply_url": "https://jobs.lever.co/arsiem/0f023887-89a9-460b-bd22-dea3c255760c/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
+    },
+    {
+      "id": "1615856e-cd03-406f-9520-8463b2637899",
+      "title": "Incident Manager III",
+      "company": "ARSIEM",
+      "location": "Arlington, VA",
+      "remote": "onsite",
+      "department": "0008-0003",
+      "employment_type": "FULL_TIME",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-19",
+      "updated": "",
+      "deadline": "",
+      "source_url": "https://jobs.lever.co/arsiem/1615856e-cd03-406f-9520-8463b2637899",
+      "apply_url": "https://jobs.lever.co/arsiem/1615856e-cd03-406f-9520-8463b2637899/apply",
+      "first_seen": "2026-11-21T14:37:10Z",
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "17f974d8-5cc7-444d-8613-6790ba279cd3",
@@ -56,7 +74,7 @@
       "source_url": "https://jobs.lever.co/arsiem/17f974d8-5cc7-444d-8613-6790ba279cd3",
       "apply_url": "https://jobs.lever.co/arsiem/17f974d8-5cc7-444d-8613-6790ba279cd3/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "1cb0e76d-b167-4d61-bb79-97e5d63c0ada",
@@ -74,7 +92,7 @@
       "source_url": "https://jobs.lever.co/arsiem/1cb0e76d-b167-4d61-bb79-97e5d63c0ada",
       "apply_url": "https://jobs.lever.co/arsiem/1cb0e76d-b167-4d61-bb79-97e5d63c0ada/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "20066973-6b1b-4c6f-86c3-ddacff67a5ab",
@@ -92,7 +110,7 @@
       "source_url": "https://jobs.lever.co/arsiem/20066973-6b1b-4c6f-86c3-ddacff67a5ab",
       "apply_url": "https://jobs.lever.co/arsiem/20066973-6b1b-4c6f-86c3-ddacff67a5ab/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "20762571-442c-47c5-9aed-31eb006cb885",
@@ -110,7 +128,7 @@
       "source_url": "https://jobs.lever.co/arsiem/20762571-442c-47c5-9aed-31eb006cb885",
       "apply_url": "https://jobs.lever.co/arsiem/20762571-442c-47c5-9aed-31eb006cb885/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "2406fae0-e6bb-4b10-9f9d-f1aeb35d5eac",
@@ -128,7 +146,7 @@
       "source_url": "https://jobs.lever.co/arsiem/2406fae0-e6bb-4b10-9f9d-f1aeb35d5eac",
       "apply_url": "https://jobs.lever.co/arsiem/2406fae0-e6bb-4b10-9f9d-f1aeb35d5eac/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "2d882815-4d40-418b-9258-ec6e8dce5e5a",
@@ -146,7 +164,7 @@
       "source_url": "https://jobs.lever.co/arsiem/2d882815-4d40-418b-9258-ec6e8dce5e5a",
       "apply_url": "https://jobs.lever.co/arsiem/2d882815-4d40-418b-9258-ec6e8dce5e5a/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "3223f7e2-4c9b-454e-afe6-9f18104942e6",
@@ -164,7 +182,7 @@
       "source_url": "https://jobs.lever.co/arsiem/3223f7e2-4c9b-454e-afe6-9f18104942e6",
       "apply_url": "https://jobs.lever.co/arsiem/3223f7e2-4c9b-454e-afe6-9f18104942e6/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "349c1f96-0a7a-4068-b43b-759007b44274",
@@ -182,7 +200,7 @@
       "source_url": "https://jobs.lever.co/arsiem/349c1f96-0a7a-4068-b43b-759007b44274",
       "apply_url": "https://jobs.lever.co/arsiem/349c1f96-0a7a-4068-b43b-759007b44274/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "36a758bb-cafc-4ce3-80a8-f15a544d5dce",
@@ -200,7 +218,7 @@
       "source_url": "https://jobs.lever.co/arsiem/36a758bb-cafc-4ce3-80a8-f15a544d5dce",
       "apply_url": "https://jobs.lever.co/arsiem/36a758bb-cafc-4ce3-80a8-f15a544d5dce/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "388ea628-f123-4855-9c68-f73d19845444",
@@ -218,7 +236,7 @@
       "source_url": "https://jobs.lever.co/arsiem/388ea628-f123-4855-9c68-f73d19845444",
       "apply_url": "https://jobs.lever.co/arsiem/388ea628-f123-4855-9c68-f73d19845444/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "3a4a6214-b4c4-4ab2-89c0-40da127b58e5",
@@ -236,7 +254,7 @@
       "source_url": "https://jobs.lever.co/arsiem/3a4a6214-b4c4-4ab2-89c0-40da127b58e5",
       "apply_url": "https://jobs.lever.co/arsiem/3a4a6214-b4c4-4ab2-89c0-40da127b58e5/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "3ed5cb28-2b7b-464a-8887-10c7bd03d534",
@@ -254,7 +272,7 @@
       "source_url": "https://jobs.lever.co/arsiem/3ed5cb28-2b7b-464a-8887-10c7bd03d534",
       "apply_url": "https://jobs.lever.co/arsiem/3ed5cb28-2b7b-464a-8887-10c7bd03d534/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "406f57e9-0706-43fe-80ba-51f0d7857973",
@@ -272,7 +290,7 @@
       "source_url": "https://jobs.lever.co/arsiem/406f57e9-0706-43fe-80ba-51f0d7857973",
       "apply_url": "https://jobs.lever.co/arsiem/406f57e9-0706-43fe-80ba-51f0d7857973/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "45771c61-d7c7-4d68-a850-8fb26c251e8d",
@@ -290,7 +308,7 @@
       "source_url": "https://jobs.lever.co/arsiem/45771c61-d7c7-4d68-a850-8fb26c251e8d",
       "apply_url": "https://jobs.lever.co/arsiem/45771c61-d7c7-4d68-a850-8fb26c251e8d/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "47b27833-d55c-4bd9-992e-2e385e2a831c",
@@ -308,7 +326,7 @@
       "source_url": "https://jobs.lever.co/arsiem/47b27833-d55c-4bd9-992e-2e385e2a831c",
       "apply_url": "https://jobs.lever.co/arsiem/47b27833-d55c-4bd9-992e-2e385e2a831c/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "507137c2-c554-4625-b219-2035427f19dd",
@@ -326,7 +344,7 @@
       "source_url": "https://jobs.lever.co/arsiem/507137c2-c554-4625-b219-2035427f19dd",
       "apply_url": "https://jobs.lever.co/arsiem/507137c2-c554-4625-b219-2035427f19dd/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5551ac01-9710-4ede-b4aa-44ecedeadb69",
@@ -344,7 +362,7 @@
       "source_url": "https://jobs.lever.co/arsiem/5551ac01-9710-4ede-b4aa-44ecedeadb69",
       "apply_url": "https://jobs.lever.co/arsiem/5551ac01-9710-4ede-b4aa-44ecedeadb69/apply",
       "first_seen": "2026-11-18T15:36:26Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "55fc1d5c-1a48-4386-a1e5-3ac54ca2dee7",
@@ -362,7 +380,25 @@
       "source_url": "https://jobs.lever.co/arsiem/55fc1d5c-1a48-4386-a1e5-3ac54ca2dee7",
       "apply_url": "https://jobs.lever.co/arsiem/55fc1d5c-1a48-4386-a1e5-3ac54ca2dee7/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
+    },
+    {
+      "id": "5843b2a4-6e1e-435e-9677-e7fe481e4679",
+      "title": "Incident Response Expert IV",
+      "company": "ARSIEM",
+      "location": "Arlington, VA",
+      "remote": "onsite",
+      "department": "0008-0003",
+      "employment_type": "FULL_TIME",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-19",
+      "updated": "",
+      "deadline": "",
+      "source_url": "https://jobs.lever.co/arsiem/5843b2a4-6e1e-435e-9677-e7fe481e4679",
+      "apply_url": "https://jobs.lever.co/arsiem/5843b2a4-6e1e-435e-9677-e7fe481e4679/apply",
+      "first_seen": "2026-11-21T14:37:10Z",
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "59635acb-0a21-4efa-989d-c0cc1eb37ccb",
@@ -380,7 +416,7 @@
       "source_url": "https://jobs.lever.co/arsiem/59635acb-0a21-4efa-989d-c0cc1eb37ccb",
       "apply_url": "https://jobs.lever.co/arsiem/59635acb-0a21-4efa-989d-c0cc1eb37ccb/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5a66cffa-36b1-47e7-aeac-11f6acb86411",
@@ -398,7 +434,7 @@
       "source_url": "https://jobs.lever.co/arsiem/5a66cffa-36b1-47e7-aeac-11f6acb86411",
       "apply_url": "https://jobs.lever.co/arsiem/5a66cffa-36b1-47e7-aeac-11f6acb86411/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5b72b567-e451-46af-bfb8-d4a7992c6c1a",
@@ -416,7 +452,7 @@
       "source_url": "https://jobs.lever.co/arsiem/5b72b567-e451-46af-bfb8-d4a7992c6c1a",
       "apply_url": "https://jobs.lever.co/arsiem/5b72b567-e451-46af-bfb8-d4a7992c6c1a/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5cbbdc45-ce9d-48f2-b61b-04d46b68f6e1",
@@ -434,7 +470,7 @@
       "source_url": "https://jobs.lever.co/arsiem/5cbbdc45-ce9d-48f2-b61b-04d46b68f6e1",
       "apply_url": "https://jobs.lever.co/arsiem/5cbbdc45-ce9d-48f2-b61b-04d46b68f6e1/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "5e8325b2-5fdd-431f-b3ce-5a8901632f62",
@@ -452,7 +488,7 @@
       "source_url": "https://jobs.lever.co/arsiem/5e8325b2-5fdd-431f-b3ce-5a8901632f62",
       "apply_url": "https://jobs.lever.co/arsiem/5e8325b2-5fdd-431f-b3ce-5a8901632f62/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "60844a0c-fd6a-4fbe-a6ed-41a55b6a4194",
@@ -470,7 +506,25 @@
       "source_url": "https://jobs.lever.co/arsiem/60844a0c-fd6a-4fbe-a6ed-41a55b6a4194",
       "apply_url": "https://jobs.lever.co/arsiem/60844a0c-fd6a-4fbe-a6ed-41a55b6a4194/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
+    },
+    {
+      "id": "60cb8039-d805-4156-ac6d-3928740bd676",
+      "title": "Incident Manager III",
+      "company": "ARSIEM",
+      "location": "Arlington, VA",
+      "remote": "onsite",
+      "department": "0008-0003",
+      "employment_type": "FULL_TIME",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-19",
+      "updated": "",
+      "deadline": "",
+      "source_url": "https://jobs.lever.co/arsiem/60cb8039-d805-4156-ac6d-3928740bd676",
+      "apply_url": "https://jobs.lever.co/arsiem/60cb8039-d805-4156-ac6d-3928740bd676/apply",
+      "first_seen": "2026-11-21T14:37:10Z",
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "63829615-81ee-43d2-a7d2-80e57420f66e",
@@ -488,7 +542,7 @@
       "source_url": "https://jobs.lever.co/arsiem/63829615-81ee-43d2-a7d2-80e57420f66e",
       "apply_url": "https://jobs.lever.co/arsiem/63829615-81ee-43d2-a7d2-80e57420f66e/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "6b7fcfd8-3a87-49af-a357-27f10b2db8f3",
@@ -506,7 +560,7 @@
       "source_url": "https://jobs.lever.co/arsiem/6b7fcfd8-3a87-49af-a357-27f10b2db8f3",
       "apply_url": "https://jobs.lever.co/arsiem/6b7fcfd8-3a87-49af-a357-27f10b2db8f3/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "6d237f55-70bc-4490-b509-1264d72fab38",
@@ -524,7 +578,25 @@
       "source_url": "https://jobs.lever.co/arsiem/6d237f55-70bc-4490-b509-1264d72fab38",
       "apply_url": "https://jobs.lever.co/arsiem/6d237f55-70bc-4490-b509-1264d72fab38/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
+    },
+    {
+      "id": "701d07ec-7f53-40ef-b8d4-79d05eb18079",
+      "title": "Applications Developer III",
+      "company": "ARSIEM",
+      "location": "Arlington, VA",
+      "remote": "onsite",
+      "department": "0008-0003",
+      "employment_type": "FULL_TIME",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-19",
+      "updated": "",
+      "deadline": "",
+      "source_url": "https://jobs.lever.co/arsiem/701d07ec-7f53-40ef-b8d4-79d05eb18079",
+      "apply_url": "https://jobs.lever.co/arsiem/701d07ec-7f53-40ef-b8d4-79d05eb18079/apply",
+      "first_seen": "2026-11-21T14:37:10Z",
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "712aa770-a956-4d56-922f-2aeea225911a",
@@ -542,7 +614,7 @@
       "source_url": "https://jobs.lever.co/arsiem/712aa770-a956-4d56-922f-2aeea225911a",
       "apply_url": "https://jobs.lever.co/arsiem/712aa770-a956-4d56-922f-2aeea225911a/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "75d137ee-fd01-4dea-bcf8-48d7a95c99aa",
@@ -560,7 +632,7 @@
       "source_url": "https://jobs.lever.co/arsiem/75d137ee-fd01-4dea-bcf8-48d7a95c99aa",
       "apply_url": "https://jobs.lever.co/arsiem/75d137ee-fd01-4dea-bcf8-48d7a95c99aa/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "76e6b3c9-4fb5-4f62-b1bb-e60643d78524",
@@ -578,7 +650,7 @@
       "source_url": "https://jobs.lever.co/arsiem/76e6b3c9-4fb5-4f62-b1bb-e60643d78524",
       "apply_url": "https://jobs.lever.co/arsiem/76e6b3c9-4fb5-4f62-b1bb-e60643d78524/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "783a5eae-2f4f-4338-9b1f-1941a0eef30e",
@@ -596,7 +668,7 @@
       "source_url": "https://jobs.lever.co/arsiem/783a5eae-2f4f-4338-9b1f-1941a0eef30e",
       "apply_url": "https://jobs.lever.co/arsiem/783a5eae-2f4f-4338-9b1f-1941a0eef30e/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "78fa62f8-2354-4872-86bf-13eccdced324",
@@ -614,7 +686,7 @@
       "source_url": "https://jobs.lever.co/arsiem/78fa62f8-2354-4872-86bf-13eccdced324",
       "apply_url": "https://jobs.lever.co/arsiem/78fa62f8-2354-4872-86bf-13eccdced324/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "7def7139-06df-4215-9ed0-fc13d6985c7e",
@@ -632,7 +704,7 @@
       "source_url": "https://jobs.lever.co/arsiem/7def7139-06df-4215-9ed0-fc13d6985c7e",
       "apply_url": "https://jobs.lever.co/arsiem/7def7139-06df-4215-9ed0-fc13d6985c7e/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "7f65e4eb-12bb-4645-810b-9b4603e43def",
@@ -650,7 +722,25 @@
       "source_url": "https://jobs.lever.co/arsiem/7f65e4eb-12bb-4645-810b-9b4603e43def",
       "apply_url": "https://jobs.lever.co/arsiem/7f65e4eb-12bb-4645-810b-9b4603e43def/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
+    },
+    {
+      "id": "7ff4b964-192e-454d-b857-ae35210b951b",
+      "title": "Incident Response Expert III",
+      "company": "ARSIEM",
+      "location": "Arlington, VA",
+      "remote": "onsite",
+      "department": "0008-0003",
+      "employment_type": "FULL_TIME",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-19",
+      "updated": "",
+      "deadline": "",
+      "source_url": "https://jobs.lever.co/arsiem/7ff4b964-192e-454d-b857-ae35210b951b",
+      "apply_url": "https://jobs.lever.co/arsiem/7ff4b964-192e-454d-b857-ae35210b951b/apply",
+      "first_seen": "2026-11-21T14:37:10Z",
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "83f0c246-1e09-4bc0-926d-cd4962118d9b",
@@ -668,7 +758,7 @@
       "source_url": "https://jobs.lever.co/arsiem/83f0c246-1e09-4bc0-926d-cd4962118d9b",
       "apply_url": "https://jobs.lever.co/arsiem/83f0c246-1e09-4bc0-926d-cd4962118d9b/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "848a6309-7337-4dcd-ad15-eb33c58a9eb8",
@@ -686,7 +776,7 @@
       "source_url": "https://jobs.lever.co/arsiem/848a6309-7337-4dcd-ad15-eb33c58a9eb8",
       "apply_url": "https://jobs.lever.co/arsiem/848a6309-7337-4dcd-ad15-eb33c58a9eb8/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "87a9e178-e5b2-4046-8517-170bd9f2a08e",
@@ -704,7 +794,7 @@
       "source_url": "https://jobs.lever.co/arsiem/87a9e178-e5b2-4046-8517-170bd9f2a08e",
       "apply_url": "https://jobs.lever.co/arsiem/87a9e178-e5b2-4046-8517-170bd9f2a08e/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8ecc4c5f-f53d-42b6-9454-799593f7a271",
@@ -722,7 +812,7 @@
       "source_url": "https://jobs.lever.co/arsiem/8ecc4c5f-f53d-42b6-9454-799593f7a271",
       "apply_url": "https://jobs.lever.co/arsiem/8ecc4c5f-f53d-42b6-9454-799593f7a271/apply",
       "first_seen": "2026-11-20T15:23:49Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8f1efad7-419a-43c7-995a-b2ac7b5448f2",
@@ -740,7 +830,7 @@
       "source_url": "https://jobs.lever.co/arsiem/8f1efad7-419a-43c7-995a-b2ac7b5448f2",
       "apply_url": "https://jobs.lever.co/arsiem/8f1efad7-419a-43c7-995a-b2ac7b5448f2/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "90523210-2e8c-41cc-9076-aa99397f4a2e",
@@ -758,7 +848,7 @@
       "source_url": "https://jobs.lever.co/arsiem/90523210-2e8c-41cc-9076-aa99397f4a2e",
       "apply_url": "https://jobs.lever.co/arsiem/90523210-2e8c-41cc-9076-aa99397f4a2e/apply",
       "first_seen": "2026-11-20T15:23:49Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "910eeb85-3ab0-469a-bfcb-a8bed71ae793",
@@ -776,7 +866,7 @@
       "source_url": "https://jobs.lever.co/arsiem/910eeb85-3ab0-469a-bfcb-a8bed71ae793",
       "apply_url": "https://jobs.lever.co/arsiem/910eeb85-3ab0-469a-bfcb-a8bed71ae793/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "98600f85-d7f6-4b2a-8501-6a913e046a06",
@@ -794,7 +884,7 @@
       "source_url": "https://jobs.lever.co/arsiem/98600f85-d7f6-4b2a-8501-6a913e046a06",
       "apply_url": "https://jobs.lever.co/arsiem/98600f85-d7f6-4b2a-8501-6a913e046a06/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "9db40430-1934-4d9c-a3fc-8fa44e09273c",
@@ -812,7 +902,25 @@
       "source_url": "https://jobs.lever.co/arsiem/9db40430-1934-4d9c-a3fc-8fa44e09273c",
       "apply_url": "https://jobs.lever.co/arsiem/9db40430-1934-4d9c-a3fc-8fa44e09273c/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
+    },
+    {
+      "id": "a02727da-99e3-443d-96bd-fec3a4ed95b5",
+      "title": "Incident Manager II",
+      "company": "ARSIEM",
+      "location": "Arlington, VA",
+      "remote": "onsite",
+      "department": "0008-0003",
+      "employment_type": "FULL_TIME",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-19",
+      "updated": "",
+      "deadline": "",
+      "source_url": "https://jobs.lever.co/arsiem/a02727da-99e3-443d-96bd-fec3a4ed95b5",
+      "apply_url": "https://jobs.lever.co/arsiem/a02727da-99e3-443d-96bd-fec3a4ed95b5/apply",
+      "first_seen": "2026-11-21T14:37:10Z",
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "a4f8e2d8-e32a-4cf9-bd2c-e28ad89ba803",
@@ -830,7 +938,7 @@
       "source_url": "https://jobs.lever.co/arsiem/a4f8e2d8-e32a-4cf9-bd2c-e28ad89ba803",
       "apply_url": "https://jobs.lever.co/arsiem/a4f8e2d8-e32a-4cf9-bd2c-e28ad89ba803/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "aa0d2ed4-6c17-42e4-9742-c9cde20e6d48",
@@ -848,7 +956,7 @@
       "source_url": "https://jobs.lever.co/arsiem/aa0d2ed4-6c17-42e4-9742-c9cde20e6d48",
       "apply_url": "https://jobs.lever.co/arsiem/aa0d2ed4-6c17-42e4-9742-c9cde20e6d48/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "abe774c2-e8ac-479a-b047-a377bea67866",
@@ -866,7 +974,7 @@
       "source_url": "https://jobs.lever.co/arsiem/abe774c2-e8ac-479a-b047-a377bea67866",
       "apply_url": "https://jobs.lever.co/arsiem/abe774c2-e8ac-479a-b047-a377bea67866/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "b3a2c65f-75e2-4b24-9d7c-1f46b493ce56",
@@ -884,7 +992,7 @@
       "source_url": "https://jobs.lever.co/arsiem/b3a2c65f-75e2-4b24-9d7c-1f46b493ce56",
       "apply_url": "https://jobs.lever.co/arsiem/b3a2c65f-75e2-4b24-9d7c-1f46b493ce56/apply",
       "first_seen": "2026-11-18T15:36:26Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "b8938ca5-835b-4a13-b738-27d7b04bc0b3",
@@ -902,7 +1010,7 @@
       "source_url": "https://jobs.lever.co/arsiem/b8938ca5-835b-4a13-b738-27d7b04bc0b3",
       "apply_url": "https://jobs.lever.co/arsiem/b8938ca5-835b-4a13-b738-27d7b04bc0b3/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "befad51b-99b9-46b5-9996-2c2bc99bb174",
@@ -920,7 +1028,7 @@
       "source_url": "https://jobs.lever.co/arsiem/befad51b-99b9-46b5-9996-2c2bc99bb174",
       "apply_url": "https://jobs.lever.co/arsiem/befad51b-99b9-46b5-9996-2c2bc99bb174/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "c1abc6d9-0451-47e7-81d3-b65a210105ef",
@@ -938,7 +1046,7 @@
       "source_url": "https://jobs.lever.co/arsiem/c1abc6d9-0451-47e7-81d3-b65a210105ef",
       "apply_url": "https://jobs.lever.co/arsiem/c1abc6d9-0451-47e7-81d3-b65a210105ef/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "c2095201-b3df-4625-aa2d-118ef7c76df6",
@@ -956,7 +1064,7 @@
       "source_url": "https://jobs.lever.co/arsiem/c2095201-b3df-4625-aa2d-118ef7c76df6",
       "apply_url": "https://jobs.lever.co/arsiem/c2095201-b3df-4625-aa2d-118ef7c76df6/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "c242b61f-8466-4478-8e8e-2164fdd29127",
@@ -974,7 +1082,7 @@
       "source_url": "https://jobs.lever.co/arsiem/c242b61f-8466-4478-8e8e-2164fdd29127",
       "apply_url": "https://jobs.lever.co/arsiem/c242b61f-8466-4478-8e8e-2164fdd29127/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "c32d771d-8fb6-4d57-bba2-3c19486c3c37",
@@ -992,7 +1100,7 @@
       "source_url": "https://jobs.lever.co/arsiem/c32d771d-8fb6-4d57-bba2-3c19486c3c37",
       "apply_url": "https://jobs.lever.co/arsiem/c32d771d-8fb6-4d57-bba2-3c19486c3c37/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "c3b6fca8-1c26-4f2c-bec6-e84562728e7d",
@@ -1010,7 +1118,7 @@
       "source_url": "https://jobs.lever.co/arsiem/c3b6fca8-1c26-4f2c-bec6-e84562728e7d",
       "apply_url": "https://jobs.lever.co/arsiem/c3b6fca8-1c26-4f2c-bec6-e84562728e7d/apply",
       "first_seen": "2026-11-18T15:36:26Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "c3ead027-53f1-4626-b00b-ad34c9a35d53",
@@ -1028,7 +1136,7 @@
       "source_url": "https://jobs.lever.co/arsiem/c3ead027-53f1-4626-b00b-ad34c9a35d53",
       "apply_url": "https://jobs.lever.co/arsiem/c3ead027-53f1-4626-b00b-ad34c9a35d53/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "c654e870-f2b6-45bb-82d4-0bd65506e39e",
@@ -1046,7 +1154,7 @@
       "source_url": "https://jobs.lever.co/arsiem/c654e870-f2b6-45bb-82d4-0bd65506e39e",
       "apply_url": "https://jobs.lever.co/arsiem/c654e870-f2b6-45bb-82d4-0bd65506e39e/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "c7b6d3ca-4a22-45a9-99bf-68e631418c87",
@@ -1064,7 +1172,7 @@
       "source_url": "https://jobs.lever.co/arsiem/c7b6d3ca-4a22-45a9-99bf-68e631418c87",
       "apply_url": "https://jobs.lever.co/arsiem/c7b6d3ca-4a22-45a9-99bf-68e631418c87/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "c87bf8bc-e4bb-4ff6-a077-cf90e54095a0",
@@ -1082,7 +1190,7 @@
       "source_url": "https://jobs.lever.co/arsiem/c87bf8bc-e4bb-4ff6-a077-cf90e54095a0",
       "apply_url": "https://jobs.lever.co/arsiem/c87bf8bc-e4bb-4ff6-a077-cf90e54095a0/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "d2e30a49-31f7-44ba-bb7b-88e257781c4a",
@@ -1100,7 +1208,7 @@
       "source_url": "https://jobs.lever.co/arsiem/d2e30a49-31f7-44ba-bb7b-88e257781c4a",
       "apply_url": "https://jobs.lever.co/arsiem/d2e30a49-31f7-44ba-bb7b-88e257781c4a/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "d44228cc-dc57-416d-b999-8163b4a98502",
@@ -1118,7 +1226,7 @@
       "source_url": "https://jobs.lever.co/arsiem/d44228cc-dc57-416d-b999-8163b4a98502",
       "apply_url": "https://jobs.lever.co/arsiem/d44228cc-dc57-416d-b999-8163b4a98502/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "d536d4d1-e67f-44f0-9168-982f57fb389a",
@@ -1136,7 +1244,7 @@
       "source_url": "https://jobs.lever.co/arsiem/d536d4d1-e67f-44f0-9168-982f57fb389a",
       "apply_url": "https://jobs.lever.co/arsiem/d536d4d1-e67f-44f0-9168-982f57fb389a/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "d842998c-c4f6-4da5-8650-8aeb5daa937a",
@@ -1154,7 +1262,7 @@
       "source_url": "https://jobs.lever.co/arsiem/d842998c-c4f6-4da5-8650-8aeb5daa937a",
       "apply_url": "https://jobs.lever.co/arsiem/d842998c-c4f6-4da5-8650-8aeb5daa937a/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "dd6ae25e-960a-4324-bc9c-3236b6c440dc",
@@ -1172,7 +1280,7 @@
       "source_url": "https://jobs.lever.co/arsiem/dd6ae25e-960a-4324-bc9c-3236b6c440dc",
       "apply_url": "https://jobs.lever.co/arsiem/dd6ae25e-960a-4324-bc9c-3236b6c440dc/apply",
       "first_seen": "2026-11-20T15:23:49Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "de428ba8-fca3-4b9e-9507-a4bdb5333654",
@@ -1190,7 +1298,7 @@
       "source_url": "https://jobs.lever.co/arsiem/de428ba8-fca3-4b9e-9507-a4bdb5333654",
       "apply_url": "https://jobs.lever.co/arsiem/de428ba8-fca3-4b9e-9507-a4bdb5333654/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "e1b1e38e-a3d1-48b3-b14c-26edd1b79375",
@@ -1208,7 +1316,7 @@
       "source_url": "https://jobs.lever.co/arsiem/e1b1e38e-a3d1-48b3-b14c-26edd1b79375",
       "apply_url": "https://jobs.lever.co/arsiem/e1b1e38e-a3d1-48b3-b14c-26edd1b79375/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "e2707df2-56ed-4025-a29e-65678a81dbe1",
@@ -1226,7 +1334,7 @@
       "source_url": "https://jobs.lever.co/arsiem/e2707df2-56ed-4025-a29e-65678a81dbe1",
       "apply_url": "https://jobs.lever.co/arsiem/e2707df2-56ed-4025-a29e-65678a81dbe1/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "ec58c3da-78b7-4944-bea5-2e8990b76bf7",
@@ -1244,7 +1352,7 @@
       "source_url": "https://jobs.lever.co/arsiem/ec58c3da-78b7-4944-bea5-2e8990b76bf7",
       "apply_url": "https://jobs.lever.co/arsiem/ec58c3da-78b7-4944-bea5-2e8990b76bf7/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "ef46b259-e404-490a-b9ed-89afcc7ff3f3",
@@ -1262,7 +1370,7 @@
       "source_url": "https://jobs.lever.co/arsiem/ef46b259-e404-490a-b9ed-89afcc7ff3f3",
       "apply_url": "https://jobs.lever.co/arsiem/ef46b259-e404-490a-b9ed-89afcc7ff3f3/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "f07b302e-c28a-40a0-bd06-8178a2b3c611",
@@ -1280,7 +1388,7 @@
       "source_url": "https://jobs.lever.co/arsiem/f07b302e-c28a-40a0-bd06-8178a2b3c611",
       "apply_url": "https://jobs.lever.co/arsiem/f07b302e-c28a-40a0-bd06-8178a2b3c611/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "f08a4b98-46af-4115-95f7-90c44f65305f",
@@ -1298,7 +1406,7 @@
       "source_url": "https://jobs.lever.co/arsiem/f08a4b98-46af-4115-95f7-90c44f65305f",
       "apply_url": "https://jobs.lever.co/arsiem/f08a4b98-46af-4115-95f7-90c44f65305f/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "f280c777-aa44-441f-8236-ada4e204f851",
@@ -1316,7 +1424,7 @@
       "source_url": "https://jobs.lever.co/arsiem/f280c777-aa44-441f-8236-ada4e204f851",
       "apply_url": "https://jobs.lever.co/arsiem/f280c777-aa44-441f-8236-ada4e204f851/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "f4ac8df9-1177-4037-8436-8f9799cbd3cd",
@@ -1334,7 +1442,25 @@
       "source_url": "https://jobs.lever.co/arsiem/f4ac8df9-1177-4037-8436-8f9799cbd3cd",
       "apply_url": "https://jobs.lever.co/arsiem/f4ac8df9-1177-4037-8436-8f9799cbd3cd/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
+    },
+    {
+      "id": "fb4f57fa-d20f-4a82-87cf-41ac2f86b598",
+      "title": "Project Manager III",
+      "company": "ARSIEM",
+      "location": "Arlington, VA",
+      "remote": "onsite",
+      "department": "0008-0003",
+      "employment_type": "FULL_TIME",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-19",
+      "updated": "",
+      "deadline": "",
+      "source_url": "https://jobs.lever.co/arsiem/fb4f57fa-d20f-4a82-87cf-41ac2f86b598",
+      "apply_url": "https://jobs.lever.co/arsiem/fb4f57fa-d20f-4a82-87cf-41ac2f86b598/apply",
+      "first_seen": "2026-11-21T14:37:10Z",
+      "last_checked": "2026-11-21T14:37:10Z"
     }
   ],
   "ats": "lever",

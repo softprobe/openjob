@@ -1,8 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-20T15:23:49Z",
+  "checked_at": "2026-11-21T14:37:10Z",
   "failed_at": null,
-  "etag": "W/\"a1e4c51cfc83b3721b828b06c2afe013\"",
+  "etag": "W/\"72f09b847b239b3bfcfb10b1db9a49b8\"",
   "jobs": [
     {
       "id": "4453213009",
@@ -20,43 +20,7 @@
       "source_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4453213009",
       "apply_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4453213009",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
-    },
-    {
-      "id": "4453327009",
-      "title": "Junk Removal - Sales Training Provided",
-      "company": "1-800-GOT-JUNK?",
-      "location": "Boise, ID",
-      "remote": "unspecified",
-      "department": "",
-      "employment_type": "FULL_TIME",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-10-15",
-      "updated": "2026-10-15",
-      "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4453327009",
-      "apply_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4453327009",
-      "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
-    },
-    {
-      "id": "4484052009",
-      "title": "Junk Removal and Route Sales Associate",
-      "company": "1-800-GOT-JUNK?",
-      "location": "Troy, Michigan, United States",
-      "remote": "unspecified",
-      "department": "",
-      "employment_type": "FULL_TIME",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-11-06",
-      "updated": "2026-11-06",
-      "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4484052009",
-      "apply_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4484052009",
-      "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "4485442009",
@@ -74,25 +38,7 @@
       "source_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4485442009",
       "apply_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4485442009",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
-    },
-    {
-      "id": "4486576009",
-      "title": "Junk Removal and Sales Training",
-      "company": "1-800-GOT-JUNK?",
-      "location": "Westlake Village, CA",
-      "remote": "unspecified",
-      "department": "",
-      "employment_type": "FULL_TIME",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-11-16",
-      "updated": "2026-11-16",
-      "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4486576009",
-      "apply_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4486576009",
-      "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "4506157009",
@@ -110,7 +56,7 @@
       "source_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4506157009",
       "apply_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4506157009",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "4506160009",
@@ -128,7 +74,7 @@
       "source_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4506160009",
       "apply_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4506160009",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "4506555009",
@@ -146,7 +92,7 @@
       "source_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4506555009",
       "apply_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4506555009",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "4506558009",
@@ -164,7 +110,7 @@
       "source_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4506558009",
       "apply_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4506558009",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "4506698009",
@@ -182,7 +128,7 @@
       "source_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4506698009",
       "apply_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4506698009",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "4507609009",
@@ -200,7 +146,7 @@
       "source_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4507609009",
       "apply_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4507609009",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "4508512009",
@@ -218,133 +164,7 @@
       "source_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4508512009",
       "apply_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4508512009",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
-    },
-    {
-      "id": "4508522009",
-      "title": "Junk Removal and Sales Training",
-      "company": "1-800-GOT-JUNK?",
-      "location": "Prairieville, LA",
-      "remote": "unspecified",
-      "department": "",
-      "employment_type": "FULL_TIME",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-11-16",
-      "updated": "2026-11-16",
-      "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4508522009",
-      "apply_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4508522009",
-      "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
-    },
-    {
-      "id": "4508523009",
-      "title": "Junk Removal and Customer Service",
-      "company": "1-800-GOT-JUNK?",
-      "location": "Minneapolis, MN",
-      "remote": "unspecified",
-      "department": "",
-      "employment_type": "FULL_TIME",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-11-16",
-      "updated": "2026-11-16",
-      "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4508523009",
-      "apply_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4508523009",
-      "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
-    },
-    {
-      "id": "4508526009",
-      "title": "Junk Removal and Sales Training",
-      "company": "1-800-GOT-JUNK?",
-      "location": "Denver, CO",
-      "remote": "unspecified",
-      "department": "",
-      "employment_type": "FULL_TIME",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-11-16",
-      "updated": "2026-11-16",
-      "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4508526009",
-      "apply_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4508526009",
-      "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
-    },
-    {
-      "id": "4508528009",
-      "title": "Junk Removal and Customer Service",
-      "company": "1-800-GOT-JUNK?",
-      "location": "Boise, ID",
-      "remote": "unspecified",
-      "department": "",
-      "employment_type": "FULL_TIME",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-11-16",
-      "updated": "2026-11-16",
-      "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4508528009",
-      "apply_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4508528009",
-      "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
-    },
-    {
-      "id": "4508539009",
-      "title": "Junk Removal and Customer Service",
-      "company": "1-800-GOT-JUNK?",
-      "location": "Sacramento, CA",
-      "remote": "unspecified",
-      "department": "",
-      "employment_type": "FULL_TIME",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-11-16",
-      "updated": "2026-11-16",
-      "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4508539009",
-      "apply_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4508539009",
-      "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
-    },
-    {
-      "id": "4508541009",
-      "title": "Junk Removal and Sales Training",
-      "company": "1-800-GOT-JUNK?",
-      "location": "Glendale, CA",
-      "remote": "unspecified",
-      "department": "",
-      "employment_type": "FULL_TIME",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-11-16",
-      "updated": "2026-11-16",
-      "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4508541009",
-      "apply_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4508541009",
-      "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
-    },
-    {
-      "id": "4510452009",
-      "title": "Operations In-Training",
-      "company": "1-800-GOT-JUNK?",
-      "location": "Prairieville, Louisiana",
-      "remote": "unspecified",
-      "department": "",
-      "employment_type": "FULL_TIME",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-11-17",
-      "updated": "2026-11-17",
-      "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4510452009",
-      "apply_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4510452009",
-      "first_seen": "2026-11-17T15:56:57Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "4514432009",
@@ -362,7 +182,7 @@
       "source_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4514432009",
       "apply_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4514432009",
       "first_seen": "2026-11-19T15:42:04Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "4514434009",
@@ -380,7 +200,7 @@
       "source_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4514434009",
       "apply_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4514434009",
       "first_seen": "2026-11-19T15:42:04Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "4514441009",
@@ -398,7 +218,7 @@
       "source_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4514441009",
       "apply_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4514441009",
       "first_seen": "2026-11-19T15:42:04Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "4514447009",
@@ -416,7 +236,7 @@
       "source_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4514447009",
       "apply_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4514447009",
       "first_seen": "2026-11-19T15:42:04Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "4514450009",
@@ -434,7 +254,7 @@
       "source_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4514450009",
       "apply_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4514450009",
       "first_seen": "2026-11-19T15:42:04Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "4514453009",
@@ -452,7 +272,7 @@
       "source_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4514453009",
       "apply_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4514453009",
       "first_seen": "2026-11-19T15:42:04Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "4514455009",
@@ -470,7 +290,7 @@
       "source_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4514455009",
       "apply_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4514455009",
       "first_seen": "2026-11-19T15:42:04Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "4514461009",
@@ -488,7 +308,7 @@
       "source_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4514461009",
       "apply_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4514461009",
       "first_seen": "2026-11-19T15:42:04Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "4514463009",
@@ -506,7 +326,7 @@
       "source_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4514463009",
       "apply_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4514463009",
       "first_seen": "2026-11-19T15:42:04Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "4514470009",
@@ -524,7 +344,7 @@
       "source_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4514470009",
       "apply_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4514470009",
       "first_seen": "2026-11-19T15:42:04Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "4514834009",
@@ -542,7 +362,7 @@
       "source_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4514834009",
       "apply_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4514834009",
       "first_seen": "2026-11-20T15:23:49Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "4514840009",
@@ -560,7 +380,7 @@
       "source_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4514840009",
       "apply_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4514840009",
       "first_seen": "2026-11-20T15:23:49Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "4514843009",
@@ -578,7 +398,7 @@
       "source_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4514843009",
       "apply_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4514843009",
       "first_seen": "2026-11-20T15:23:49Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "4514850009",
@@ -596,7 +416,7 @@
       "source_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4514850009",
       "apply_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4514850009",
       "first_seen": "2026-11-20T15:23:49Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "4514852009",
@@ -614,7 +434,7 @@
       "source_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4514852009",
       "apply_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4514852009",
       "first_seen": "2026-11-20T15:23:49Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "4514857009",
@@ -632,7 +452,7 @@
       "source_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4514857009",
       "apply_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4514857009",
       "first_seen": "2026-11-20T15:23:49Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "4514860009",
@@ -650,7 +470,7 @@
       "source_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4514860009",
       "apply_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4514860009",
       "first_seen": "2026-11-20T15:23:49Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "4514870009",
@@ -668,7 +488,7 @@
       "source_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4514870009",
       "apply_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4514870009",
       "first_seen": "2026-11-20T15:23:49Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "4514931009",
@@ -686,7 +506,7 @@
       "source_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4514931009",
       "apply_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4514931009",
       "first_seen": "2026-11-20T15:23:49Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "4515004009",
@@ -704,7 +524,7 @@
       "source_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4515004009",
       "apply_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4515004009",
       "first_seen": "2026-11-20T15:23:49Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "4515413009",
@@ -722,7 +542,7 @@
       "source_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4515413009",
       "apply_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4515413009",
       "first_seen": "2026-11-20T15:23:49Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "4515428009",
@@ -740,7 +560,7 @@
       "source_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4515428009",
       "apply_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4515428009",
       "first_seen": "2026-11-20T15:23:49Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "4515435009",
@@ -758,7 +578,7 @@
       "source_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4515435009",
       "apply_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4515435009",
       "first_seen": "2026-11-20T15:23:49Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "4515453009",
@@ -776,7 +596,7 @@
       "source_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4515453009",
       "apply_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4515453009",
       "first_seen": "2026-11-20T15:23:49Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "4515467009",
@@ -794,7 +614,7 @@
       "source_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4515467009",
       "apply_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4515467009",
       "first_seen": "2026-11-20T15:23:49Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "4515505009",
@@ -812,25 +632,349 @@
       "source_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4515505009",
       "apply_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4515505009",
       "first_seen": "2026-11-20T15:23:49Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
-      "id": "4515510009",
-      "title": "Junk Removal & Field Sales",
+      "id": "4516823009",
+      "title": "Operations In-Training",
       "company": "1-800-GOT-JUNK?",
-      "location": "Fort Myers, FL",
+      "location": "Prairieville, Louisiana",
       "remote": "unspecified",
       "department": "",
       "employment_type": "FULL_TIME",
       "salary_text": "",
       "salary_source": "",
-      "posted": "2026-11-19",
-      "updated": "2026-11-19",
+      "posted": "2026-11-20",
+      "updated": "2026-11-20",
       "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4515510009",
-      "apply_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4515510009",
-      "first_seen": "2026-11-20T15:23:49Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "source_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4516823009",
+      "apply_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4516823009",
+      "first_seen": "2026-11-21T14:37:10Z",
+      "last_checked": "2026-11-21T14:37:10Z"
+    },
+    {
+      "id": "4516826009",
+      "title": "Junk Removal and Sales Training",
+      "company": "1-800-GOT-JUNK?",
+      "location": "Prairieville, LA",
+      "remote": "unspecified",
+      "department": "",
+      "employment_type": "FULL_TIME",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-20",
+      "updated": "2026-11-20",
+      "deadline": "",
+      "source_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4516826009",
+      "apply_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4516826009",
+      "first_seen": "2026-11-21T14:37:10Z",
+      "last_checked": "2026-11-21T14:37:10Z"
+    },
+    {
+      "id": "4516832009",
+      "title": "Junk Removal and Customer Service",
+      "company": "1-800-GOT-JUNK?",
+      "location": "Minneapolis, MN",
+      "remote": "unspecified",
+      "department": "",
+      "employment_type": "FULL_TIME",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-20",
+      "updated": "2026-11-20",
+      "deadline": "",
+      "source_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4516832009",
+      "apply_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4516832009",
+      "first_seen": "2026-11-21T14:37:10Z",
+      "last_checked": "2026-11-21T14:37:10Z"
+    },
+    {
+      "id": "4516834009",
+      "title": "Junk Removal and Sales Training",
+      "company": "1-800-GOT-JUNK?",
+      "location": "Denver, CO",
+      "remote": "unspecified",
+      "department": "",
+      "employment_type": "FULL_TIME",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-20",
+      "updated": "2026-11-20",
+      "deadline": "",
+      "source_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4516834009",
+      "apply_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4516834009",
+      "first_seen": "2026-11-21T14:37:10Z",
+      "last_checked": "2026-11-21T14:37:10Z"
+    },
+    {
+      "id": "4516851009",
+      "title": "Junk Removal and Customer Service",
+      "company": "1-800-GOT-JUNK?",
+      "location": "Boise, ID",
+      "remote": "unspecified",
+      "department": "",
+      "employment_type": "FULL_TIME",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-20",
+      "updated": "2026-11-20",
+      "deadline": "",
+      "source_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4516851009",
+      "apply_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4516851009",
+      "first_seen": "2026-11-21T14:37:10Z",
+      "last_checked": "2026-11-21T14:37:10Z"
+    },
+    {
+      "id": "4516852009",
+      "title": "Junk Removal - Sales Training Provided",
+      "company": "1-800-GOT-JUNK?",
+      "location": "Boise, ID",
+      "remote": "unspecified",
+      "department": "",
+      "employment_type": "FULL_TIME",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-20",
+      "updated": "2026-11-20",
+      "deadline": "",
+      "source_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4516852009",
+      "apply_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4516852009",
+      "first_seen": "2026-11-21T14:37:10Z",
+      "last_checked": "2026-11-21T14:37:10Z"
+    },
+    {
+      "id": "4516856009",
+      "title": "Junk Removal and Customer Service",
+      "company": "1-800-GOT-JUNK?",
+      "location": "Sacramento, CA",
+      "remote": "unspecified",
+      "department": "",
+      "employment_type": "FULL_TIME",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-20",
+      "updated": "2026-11-20",
+      "deadline": "",
+      "source_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4516856009",
+      "apply_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4516856009",
+      "first_seen": "2026-11-21T14:37:10Z",
+      "last_checked": "2026-11-21T14:37:10Z"
+    },
+    {
+      "id": "4516859009",
+      "title": "Junk Removal and Sales Training",
+      "company": "1-800-GOT-JUNK?",
+      "location": "Glendale, CA",
+      "remote": "unspecified",
+      "department": "",
+      "employment_type": "FULL_TIME",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-20",
+      "updated": "2026-11-20",
+      "deadline": "",
+      "source_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4516859009",
+      "apply_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4516859009",
+      "first_seen": "2026-11-21T14:37:10Z",
+      "last_checked": "2026-11-21T14:37:10Z"
+    },
+    {
+      "id": "4516860009",
+      "title": "Junk Removal and Sales Training",
+      "company": "1-800-GOT-JUNK?",
+      "location": "Westlake Village, CA",
+      "remote": "unspecified",
+      "department": "",
+      "employment_type": "FULL_TIME",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-20",
+      "updated": "2026-11-20",
+      "deadline": "",
+      "source_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4516860009",
+      "apply_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4516860009",
+      "first_seen": "2026-11-21T14:37:10Z",
+      "last_checked": "2026-11-21T14:37:10Z"
+    },
+    {
+      "id": "4516863009",
+      "title": "Junk Removal and Customer Service",
+      "company": "1-800-GOT-JUNK?",
+      "location": "Santa Maria, CA",
+      "remote": "unspecified",
+      "department": "",
+      "employment_type": "FULL_TIME",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-20",
+      "updated": "2026-11-20",
+      "deadline": "",
+      "source_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4516863009",
+      "apply_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4516863009",
+      "first_seen": "2026-11-21T14:37:10Z",
+      "last_checked": "2026-11-21T14:37:10Z"
+    },
+    {
+      "id": "4516944009",
+      "title": "Junk Removal Specialist",
+      "company": "1-800-GOT-JUNK?",
+      "location": "Calgary, AB",
+      "remote": "unspecified",
+      "department": "",
+      "employment_type": "FULL_TIME",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-20",
+      "updated": "2026-11-20",
+      "deadline": "",
+      "source_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4516944009",
+      "apply_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4516944009",
+      "first_seen": "2026-11-21T14:37:10Z",
+      "last_checked": "2026-11-21T14:37:10Z"
+    },
+    {
+      "id": "4516993009",
+      "title": "Customer Experience Leader",
+      "company": "1-800-GOT-JUNK?",
+      "location": "Edmonton, AB",
+      "remote": "unspecified",
+      "department": "",
+      "employment_type": "FULL_TIME",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-20",
+      "updated": "2026-11-20",
+      "deadline": "",
+      "source_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4516993009",
+      "apply_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4516993009",
+      "first_seen": "2026-11-21T14:37:10Z",
+      "last_checked": "2026-11-21T14:37:10Z"
+    },
+    {
+      "id": "4516997009",
+      "title": "Junk Removal and Customer Service",
+      "company": "1-800-GOT-JUNK?",
+      "location": "Honolulu, HI",
+      "remote": "unspecified",
+      "department": "",
+      "employment_type": "FULL_TIME",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-20",
+      "updated": "2026-11-20",
+      "deadline": "",
+      "source_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4516997009",
+      "apply_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4516997009",
+      "first_seen": "2026-11-21T14:37:10Z",
+      "last_checked": "2026-11-21T14:37:10Z"
+    },
+    {
+      "id": "4516999009",
+      "title": "Junk Removal and Customer Service",
+      "company": "1-800-GOT-JUNK?",
+      "location": "Chandler, AZ",
+      "remote": "unspecified",
+      "department": "",
+      "employment_type": "FULL_TIME",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-20",
+      "updated": "2026-11-20",
+      "deadline": "",
+      "source_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4516999009",
+      "apply_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4516999009",
+      "first_seen": "2026-11-21T14:37:10Z",
+      "last_checked": "2026-11-21T14:37:10Z"
+    },
+    {
+      "id": "4517006009",
+      "title": "Junk Removal and Customer Service",
+      "company": "1-800-GOT-JUNK?",
+      "location": "Sparks, NV",
+      "remote": "unspecified",
+      "department": "",
+      "employment_type": "FULL_TIME",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-20",
+      "updated": "2026-11-20",
+      "deadline": "",
+      "source_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4517006009",
+      "apply_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4517006009",
+      "first_seen": "2026-11-21T14:37:10Z",
+      "last_checked": "2026-11-21T14:37:10Z"
+    },
+    {
+      "id": "4517015009",
+      "title": "Junk Removal & Customer Service",
+      "company": "1-800-GOT-JUNK?",
+      "location": "Tucson, AZ",
+      "remote": "unspecified",
+      "department": "",
+      "employment_type": "FULL_TIME",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-20",
+      "updated": "2026-11-20",
+      "deadline": "",
+      "source_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4517015009",
+      "apply_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4517015009",
+      "first_seen": "2026-11-21T14:37:10Z",
+      "last_checked": "2026-11-21T14:37:10Z"
+    },
+    {
+      "id": "4517047009",
+      "title": "Junk Removal and Customer Service",
+      "company": "1-800-GOT-JUNK?",
+      "location": "Vancouver, BC",
+      "remote": "unspecified",
+      "department": "",
+      "employment_type": "FULL_TIME",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-20",
+      "updated": "2026-11-20",
+      "deadline": "",
+      "source_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4517047009",
+      "apply_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4517047009",
+      "first_seen": "2026-11-21T14:37:10Z",
+      "last_checked": "2026-11-21T14:37:10Z"
+    },
+    {
+      "id": "4517339009",
+      "title": "Junk Removal & On-Site Sales",
+      "company": "1-800-GOT-JUNK?",
+      "location": "Lakeland, FL",
+      "remote": "unspecified",
+      "department": "",
+      "employment_type": "FULL_TIME",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-20",
+      "updated": "2026-11-20",
+      "deadline": "",
+      "source_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4517339009",
+      "apply_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4517339009",
+      "first_seen": "2026-11-21T14:37:10Z",
+      "last_checked": "2026-11-21T14:37:10Z"
+    },
+    {
+      "id": "4517488009",
+      "title": "Junk and Route Sales Associate",
+      "company": "1-800-GOT-JUNK?",
+      "location": "Dallas, TX",
+      "remote": "unspecified",
+      "department": "",
+      "employment_type": "FULL_TIME",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-20",
+      "updated": "2026-11-20",
+      "deadline": "",
+      "source_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4517488009",
+      "apply_url": "https://job-boards.greenhouse.io/1800gotjunk/jobs/4517488009",
+      "first_seen": "2026-11-21T14:37:10Z",
+      "last_checked": "2026-11-21T14:37:10Z"
     }
   ],
   "ats": "greenhouse",

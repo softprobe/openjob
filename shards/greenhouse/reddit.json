@@ -1,8 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-20T15:23:49Z",
+  "checked_at": "2026-11-21T14:37:10Z",
   "failed_at": null,
-  "etag": "W/\"206980041687da2bce7e21847f5e74b3\"",
+  "etag": "W/\"b7b40259c4aed8305a5ffb1a16a3a9d6\"",
   "jobs": [
     {
       "id": "6469397",
@@ -20,7 +20,7 @@
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/6469397",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/6469397",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "6512458",
@@ -38,7 +38,7 @@
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/6512458",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/6512458",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "6909091",
@@ -56,7 +56,7 @@
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/6909091",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/6909091",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "6909093",
@@ -74,7 +74,7 @@
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/6909093",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/6909093",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "6960831",
@@ -92,7 +92,7 @@
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/6960831",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/6960831",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "6960833",
@@ -110,43 +110,7 @@
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/6960833",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/6960833",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
-    },
-    {
-      "id": "7131932",
-      "title": "Machine Learning Engineer",
-      "company": "Reddit",
-      "location": "Remote - United States",
-      "remote": "remote",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2025-08-14",
-      "updated": "2026-11-19",
-      "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/reddit/jobs/7131932",
-      "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/7131932",
-      "first_seen": "2026-11-19T15:42:04Z",
-      "last_checked": "2026-11-20T15:23:49Z"
-    },
-    {
-      "id": "7131934",
-      "title": "Machine Learning Engineer",
-      "company": "Reddit",
-      "location": "Remote - Ontario, Canada",
-      "remote": "remote",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2025-08-14",
-      "updated": "2026-11-19",
-      "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/reddit/jobs/7131934",
-      "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/7131934",
-      "first_seen": "2026-11-19T15:42:04Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "7330347",
@@ -159,12 +123,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2025-10-14",
-      "updated": "2026-11-18",
+      "updated": "2026-11-21",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/7330347",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/7330347",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "7445240",
@@ -177,12 +141,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-05-05",
-      "updated": "2026-11-18",
+      "updated": "2026-11-21",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/7445240",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/7445240",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "7701558",
@@ -200,7 +164,7 @@
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/7701558",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/7701558",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "7721787",
@@ -213,12 +177,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-03-16",
-      "updated": "2026-11-18",
+      "updated": "2026-11-21",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/7721787",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/7721787",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "7721851",
@@ -231,12 +195,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-03-16",
-      "updated": "2026-11-18",
+      "updated": "2026-11-21",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/7721851",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/7721851",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "7731772",
@@ -254,7 +218,7 @@
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/7731772",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/7731772",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "7731788",
@@ -272,7 +236,7 @@
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/7731788",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/7731788",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "7747244",
@@ -290,7 +254,7 @@
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/7747244",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/7747244",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "7772274",
@@ -308,7 +272,7 @@
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/7772274",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/7772274",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "7895156",
@@ -326,7 +290,7 @@
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/7895156",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/7895156",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "7931000",
@@ -339,12 +303,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-05-15",
-      "updated": "2026-11-18",
+      "updated": "2026-11-21",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/7931000",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/7931000",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "7950520",
@@ -362,7 +326,7 @@
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/7950520",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/7950520",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "7957771",
@@ -380,7 +344,7 @@
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/7957771",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/7957771",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "7961154",
@@ -398,7 +362,7 @@
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/7961154",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/7961154",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "7974605",
@@ -411,12 +375,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-06-01",
-      "updated": "2026-11-18",
+      "updated": "2026-11-21",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/7974605",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/7974605",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "7980795",
@@ -429,12 +393,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-06-03",
-      "updated": "2026-11-18",
+      "updated": "2026-11-21",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/7980795",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/7980795",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8010425",
@@ -447,12 +411,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-06-16",
-      "updated": "2026-11-18",
+      "updated": "2026-11-21",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8010425",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8010425",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8011428",
@@ -470,7 +434,7 @@
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8011428",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8011428",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8017274",
@@ -488,7 +452,7 @@
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8017274",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8017274",
       "first_seen": "2026-11-18T15:36:26Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8018513",
@@ -506,7 +470,7 @@
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8018513",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8018513",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8018517",
@@ -524,7 +488,7 @@
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8018517",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8018517",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8018555",
@@ -542,7 +506,7 @@
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8018555",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8018555",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8029120",
@@ -555,12 +519,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-06-26",
-      "updated": "2026-11-18",
+      "updated": "2026-11-21",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8029120",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8029120",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8031491",
@@ -578,7 +542,7 @@
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8031491",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8031491",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8044767",
@@ -596,7 +560,7 @@
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8044767",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8044767",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8049518",
@@ -609,12 +573,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-09",
-      "updated": "2026-11-18",
+      "updated": "2026-11-21",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8049518",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8049518",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8049762",
@@ -632,7 +596,7 @@
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8049762",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8049762",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8049901",
@@ -650,7 +614,7 @@
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8049901",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8049901",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8072076",
@@ -663,12 +627,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-07-17",
-      "updated": "2026-11-18",
+      "updated": "2026-11-21",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8072076",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8072076",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8075185",
@@ -681,12 +645,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-06",
-      "updated": "2026-11-19",
+      "updated": "2026-11-21",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8075185",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8075185",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8094985",
@@ -704,7 +668,7 @@
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8094985",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8094985",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8095009",
@@ -722,7 +686,7 @@
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8095009",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8095009",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8103609",
@@ -735,12 +699,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-03",
-      "updated": "2026-11-18",
+      "updated": "2026-11-21",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8103609",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8103609",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8104403",
@@ -753,12 +717,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-12",
-      "updated": "2026-11-18",
+      "updated": "2026-11-21",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8104403",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8104403",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8106246",
@@ -776,7 +740,7 @@
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8106246",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8106246",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8110339",
@@ -794,7 +758,7 @@
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8110339",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8110339",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8121099",
@@ -812,7 +776,7 @@
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8121099",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8121099",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8122606",
@@ -830,7 +794,7 @@
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8122606",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8122606",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8122887",
@@ -848,7 +812,7 @@
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8122887",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8122887",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8125507",
@@ -866,7 +830,7 @@
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8125507",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8125507",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8125836",
@@ -879,12 +843,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-19",
-      "updated": "2026-11-16",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8125836",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8125836",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8126946",
@@ -897,12 +861,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-12",
-      "updated": "2026-11-18",
+      "updated": "2026-11-21",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8126946",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8126946",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8128860",
@@ -920,7 +884,7 @@
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8128860",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8128860",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8131228",
@@ -938,7 +902,7 @@
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8131228",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8131228",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8139781",
@@ -956,7 +920,7 @@
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8139781",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8139781",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8140121",
@@ -969,12 +933,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-31",
-      "updated": "2026-11-18",
+      "updated": "2026-11-21",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8140121",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8140121",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8142128",
@@ -987,12 +951,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-21",
-      "updated": "2026-11-18",
+      "updated": "2026-11-21",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8142128",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8142128",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8143677",
@@ -1010,7 +974,7 @@
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8143677",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8143677",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8143702",
@@ -1028,7 +992,7 @@
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8143702",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8143702",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8147617",
@@ -1046,7 +1010,7 @@
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8147617",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8147617",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8148055",
@@ -1064,7 +1028,7 @@
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8148055",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8148055",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8148089",
@@ -1077,12 +1041,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-30",
-      "updated": "2026-11-18",
+      "updated": "2026-11-21",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8148089",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8148089",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8153017",
@@ -1095,12 +1059,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-07",
-      "updated": "2026-11-18",
+      "updated": "2026-11-21",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8153017",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8153017",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8157275",
@@ -1113,12 +1077,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-25",
-      "updated": "2026-11-18",
+      "updated": "2026-11-21",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8157275",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8157275",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8171546",
@@ -1131,12 +1095,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-09",
-      "updated": "2026-11-18",
+      "updated": "2026-11-21",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8171546",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8171546",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8172457",
@@ -1154,7 +1118,7 @@
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8172457",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8172457",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8175131",
@@ -1172,7 +1136,7 @@
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8175131",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8175131",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8175520",
@@ -1185,12 +1149,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-02",
-      "updated": "2026-11-18",
+      "updated": "2026-11-21",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8175520",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8175520",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8178085",
@@ -1203,12 +1167,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-16",
-      "updated": "2026-11-18",
+      "updated": "2026-11-21",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8178085",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8178085",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8186566",
@@ -1221,12 +1185,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-09",
-      "updated": "2026-11-19",
+      "updated": "2026-11-21",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8186566",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8186566",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8187247",
@@ -1244,7 +1208,7 @@
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8187247",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8187247",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8187521",
@@ -1257,12 +1221,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-02",
-      "updated": "2026-11-18",
+      "updated": "2026-11-21",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8187521",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8187521",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8189395",
@@ -1280,7 +1244,7 @@
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8189395",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8189395",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8189894",
@@ -1293,12 +1257,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-09",
-      "updated": "2026-11-19",
+      "updated": "2026-11-21",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8189894",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8189894",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8189899",
@@ -1311,12 +1275,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-09",
-      "updated": "2026-11-19",
+      "updated": "2026-11-21",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8189899",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8189899",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8191664",
@@ -1329,12 +1293,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-22",
-      "updated": "2026-11-18",
+      "updated": "2026-11-21",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8191664",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8191664",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8192369",
@@ -1347,12 +1311,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-14",
-      "updated": "2026-11-18",
+      "updated": "2026-11-21",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8192369",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8192369",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8194576",
@@ -1365,12 +1329,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-11",
-      "updated": "2026-11-18",
+      "updated": "2026-11-21",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8194576",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8194576",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8201913",
@@ -1388,7 +1352,7 @@
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8201913",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8201913",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8203478",
@@ -1406,7 +1370,7 @@
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8203478",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8203478",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8204924",
@@ -1424,7 +1388,7 @@
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8204924",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8204924",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8205402",
@@ -1442,7 +1406,7 @@
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8205402",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8205402",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8205702",
@@ -1460,7 +1424,7 @@
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8205702",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8205702",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8212175",
@@ -1473,12 +1437,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-18",
-      "updated": "2026-11-18",
+      "updated": "2026-11-21",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8212175",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8212175",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8221539",
@@ -1496,7 +1460,7 @@
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8221539",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8221539",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8234154",
@@ -1509,12 +1473,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-25",
-      "updated": "2026-11-18",
+      "updated": "2026-11-21",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8234154",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8234154",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8237375",
@@ -1527,12 +1491,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-19",
-      "updated": "2026-11-19",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8237375",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8237375",
       "first_seen": "2026-11-20T15:23:49Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8237636",
@@ -1550,7 +1514,7 @@
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8237636",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8237636",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8237639",
@@ -1568,7 +1532,7 @@
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8237639",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8237639",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8240716",
@@ -1581,12 +1545,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-29",
-      "updated": "2026-11-18",
+      "updated": "2026-11-21",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8240716",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8240716",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8243010",
@@ -1604,7 +1568,7 @@
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8243010",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8243010",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8244067",
@@ -1617,12 +1581,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-02",
-      "updated": "2026-11-18",
+      "updated": "2026-11-21",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8244067",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8244067",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8247280",
@@ -1640,7 +1604,7 @@
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8247280",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8247280",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8249259",
@@ -1653,12 +1617,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-02",
-      "updated": "2026-11-18",
+      "updated": "2026-11-21",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8249259",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8249259",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8250389",
@@ -1671,12 +1635,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-02",
-      "updated": "2026-11-18",
+      "updated": "2026-11-21",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8250389",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8250389",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8256326",
@@ -1689,12 +1653,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-07",
-      "updated": "2026-11-18",
+      "updated": "2026-11-21",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8256326",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8256326",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8263374",
@@ -1712,7 +1676,7 @@
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8263374",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8263374",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8263407",
@@ -1730,7 +1694,7 @@
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8263407",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8263407",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8263435",
@@ -1743,12 +1707,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-23",
-      "updated": "2026-11-18",
+      "updated": "2026-11-21",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8263435",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8263435",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8275143",
@@ -1766,7 +1730,7 @@
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8275143",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8275143",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8275952",
@@ -1784,7 +1748,7 @@
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8275952",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8275952",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8275964",
@@ -1802,7 +1766,7 @@
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8275964",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8275964",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8276095",
@@ -1815,12 +1779,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-13",
-      "updated": "2026-11-18",
+      "updated": "2026-11-21",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8276095",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8276095",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8282187",
@@ -1838,7 +1802,7 @@
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8282187",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8282187",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8282748",
@@ -1851,12 +1815,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-02",
-      "updated": "2026-11-18",
+      "updated": "2026-11-21",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8282748",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8282748",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8282760",
@@ -1869,12 +1833,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-14",
-      "updated": "2026-11-18",
+      "updated": "2026-11-21",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8282760",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8282760",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8283770",
@@ -1892,7 +1856,7 @@
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8283770",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8283770",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8287466",
@@ -1905,12 +1869,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-29",
-      "updated": "2026-11-18",
+      "updated": "2026-11-21",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8287466",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8287466",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8289304",
@@ -1923,12 +1887,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-26",
-      "updated": "2026-11-18",
+      "updated": "2026-11-21",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8289304",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8289304",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8289345",
@@ -1941,12 +1905,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-21",
-      "updated": "2026-11-18",
+      "updated": "2026-11-21",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8289345",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8289345",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8293700",
@@ -1959,12 +1923,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-19",
-      "updated": "2026-11-18",
+      "updated": "2026-11-21",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8293700",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8293700",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8301736",
@@ -1977,12 +1941,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-19",
-      "updated": "2026-11-18",
+      "updated": "2026-11-21",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8301736",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8301736",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8301784",
@@ -1995,12 +1959,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-19",
-      "updated": "2026-11-18",
+      "updated": "2026-11-21",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8301784",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8301784",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8303511",
@@ -2018,25 +1982,7 @@
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8303511",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8303511",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
-    },
-    {
-      "id": "8303790",
-      "title": "Client Account Manager, Mid-Market Sales (Goods)",
-      "company": "Reddit",
-      "location": "Toronto, Canada",
-      "remote": "unspecified",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-10-20",
-      "updated": "2026-11-18",
-      "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8303790",
-      "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8303790",
-      "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8303798",
@@ -2054,7 +2000,7 @@
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8303798",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8303798",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8304463",
@@ -2072,7 +2018,7 @@
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8304463",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8304463",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8311209",
@@ -2090,7 +2036,7 @@
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8311209",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8311209",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8316086",
@@ -2103,12 +2049,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-23",
-      "updated": "2026-11-18",
+      "updated": "2026-11-21",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8316086",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8316086",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8318010",
@@ -2126,7 +2072,7 @@
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8318010",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8318010",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8319655",
@@ -2139,12 +2085,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-24",
-      "updated": "2026-11-18",
+      "updated": "2026-11-21",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8319655",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8319655",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8319764",
@@ -2162,7 +2108,7 @@
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8319764",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8319764",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8330450",
@@ -2180,7 +2126,7 @@
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8330450",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8330450",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8330469",
@@ -2198,7 +2144,7 @@
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8330469",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8330469",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8331341",
@@ -2216,7 +2162,7 @@
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8331341",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8331341",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8331370",
@@ -2234,7 +2180,7 @@
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8331370",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8331370",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8334138",
@@ -2247,12 +2193,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-29",
-      "updated": "2026-11-18",
+      "updated": "2026-11-21",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8334138",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8334138",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8337323",
@@ -2270,7 +2216,7 @@
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8337323",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8337323",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8337440",
@@ -2288,7 +2234,7 @@
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8337440",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8337440",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8337444",
@@ -2306,7 +2252,7 @@
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8337444",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8337444",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8350749",
@@ -2324,7 +2270,7 @@
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8350749",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8350749",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8350761",
@@ -2342,7 +2288,7 @@
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8350761",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8350761",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8351484",
@@ -2355,12 +2301,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-19",
-      "updated": "2026-11-19",
+      "updated": "2026-11-21",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8351484",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8351484",
       "first_seen": "2026-11-20T15:23:49Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8359289",
@@ -2373,12 +2319,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-06",
-      "updated": "2026-11-18",
+      "updated": "2026-11-21",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8359289",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8359289",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8360267",
@@ -2391,12 +2337,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-06",
-      "updated": "2026-11-18",
+      "updated": "2026-11-21",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8360267",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8360267",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8367400",
@@ -2414,7 +2360,7 @@
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8367400",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8367400",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8368600",
@@ -2427,12 +2373,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-19",
-      "updated": "2026-11-19",
+      "updated": "2026-11-21",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8368600",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8368600",
       "first_seen": "2026-11-20T15:23:49Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8369169",
@@ -2450,7 +2396,7 @@
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8369169",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8369169",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8369767",
@@ -2468,7 +2414,7 @@
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8369767",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8369767",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8372525",
@@ -2481,12 +2427,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-10",
-      "updated": "2026-11-18",
+      "updated": "2026-11-21",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8372525",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8372525",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8379092",
@@ -2504,7 +2450,7 @@
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8379092",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8379092",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8382925",
@@ -2522,7 +2468,7 @@
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8382925",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8382925",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8395504",
@@ -2535,12 +2481,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-17",
-      "updated": "2026-11-18",
+      "updated": "2026-11-21",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8395504",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8395504",
       "first_seen": "2026-11-17T15:56:57Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8396679",
@@ -2558,7 +2504,7 @@
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8396679",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8396679",
       "first_seen": "2026-11-18T15:36:26Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8399227",
@@ -2576,7 +2522,25 @@
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8399227",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8399227",
       "first_seen": "2026-11-20T15:23:49Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
+    },
+    {
+      "id": "8399795",
+      "title": "Lead Client Partner, Large Customer Sales (AUS)",
+      "company": "Reddit",
+      "location": "Sydney, Australia",
+      "remote": "unspecified",
+      "department": "",
+      "employment_type": "",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-20",
+      "updated": "2026-11-20",
+      "deadline": "",
+      "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8399795",
+      "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8399795",
+      "first_seen": "2026-11-21T14:37:10Z",
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8399813",
@@ -2589,12 +2553,48 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-18",
-      "updated": "2026-11-18",
+      "updated": "2026-11-20",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8399813",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8399813",
       "first_seen": "2026-11-19T15:42:04Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
+    },
+    {
+      "id": "8399817",
+      "title": "Principal Engineer, Security",
+      "company": "Reddit",
+      "location": "Remote - United States",
+      "remote": "remote",
+      "department": "",
+      "employment_type": "",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-20",
+      "updated": "2026-11-20",
+      "deadline": "",
+      "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8399817",
+      "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8399817",
+      "first_seen": "2026-11-21T14:37:10Z",
+      "last_checked": "2026-11-21T14:37:10Z"
+    },
+    {
+      "id": "8400056",
+      "title": "Staff Product Manager, Agentic Ads Buying",
+      "company": "Reddit",
+      "location": "Remote - United States",
+      "remote": "remote",
+      "department": "",
+      "employment_type": "",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-20",
+      "updated": "2026-11-21",
+      "deadline": "",
+      "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8400056",
+      "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8400056",
+      "first_seen": "2026-11-21T14:37:10Z",
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8406144",
@@ -2612,7 +2612,7 @@
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8406144",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8406144",
       "first_seen": "2026-11-20T15:23:49Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8406146",
@@ -2630,7 +2630,7 @@
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8406146",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8406146",
       "first_seen": "2026-11-20T15:23:49Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
     },
     {
       "id": "8406151",
@@ -2648,7 +2648,25 @@
       "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8406151",
       "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8406151",
       "first_seen": "2026-11-20T15:23:49Z",
-      "last_checked": "2026-11-20T15:23:49Z"
+      "last_checked": "2026-11-21T14:37:10Z"
+    },
+    {
+      "id": "8407162",
+      "title": "Staff Product Manager, Agentic Ads Buying",
+      "company": "Reddit",
+      "location": "Remote - United States",
+      "remote": "remote",
+      "department": "",
+      "employment_type": "",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-20",
+      "updated": "2026-11-21",
+      "deadline": "",
+      "source_url": "https://job-boards.greenhouse.io/reddit/jobs/8407162",
+      "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8407162",
+      "first_seen": "2026-11-21T14:37:10Z",
+      "last_checked": "2026-11-21T14:37:10Z"
     }
   ],
   "ats": "greenhouse",
