@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" type="image/svg+xml" href="../../favicon.svg">
+  <title>llms.txt for job boards: a short spec — OpenJob</title>
+  <meta name="description" content="A proposal for what a job board's llms.txt should contain — honest counts, expiry, search paths, and limits — so any board can adopt it. OpenJob is the reference implementation.">
+  <link rel="canonical" href="https://openjob.softprobe.ai/articles/llms-txt-spec/">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="OpenJob">
+  <meta property="og:title" content="llms.txt for job boards: a short spec — OpenJob">
+  <meta property="og:description" content="A proposal for what a job board's llms.txt should contain — honest counts, expiry, search paths, and limits — so any board can adopt it. OpenJob is the reference implementation.">
+  <meta property="og:url" content="https://openjob.softprobe.ai/articles/llms-txt-spec/">
+  <!-- openjob:social -->
+  <meta property="og:image" content="https://openjob.softprobe.ai/og.png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="OpenJob. Open, privacy-first job board on GitHub">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:image" content="https://openjob.softprobe.ai/og.png">
+  <meta name="twitter:image:alt" content="OpenJob. Open, privacy-first job board on GitHub">
+  <meta name="google-site-verification" content="a2xq4xTZGnwkNdS2FSOJ9EGiUwnSmcRUcCAa2CUkiPI">
+  <!-- /openjob:social -->
+  <meta name="twitter:title" content="llms.txt for job boards: a short spec — OpenJob">
+  <meta name="twitter:description" content="A proposal for what a job board's llms.txt should contain — honest counts, expiry, search paths, and limits — so any board can adopt it. OpenJob is the reference implementation.">
+  <link rel="stylesheet" href="../../style.css">
+</head>
+<body class="entry">
+  <div class="wrap">
+    <header class="mast">
+      <div>
+        <div class="brand-row"><img class="brand-mark" src="../../favicon.svg" alt="OpenJob logo" width="40" height="40"><p class="kicker">OpenJob</p></div>
+        <h1>llms.txt for job boards: a short spec</h1>
+        <p class="sub">OpenJob · November 22, 2026</p>
+      </div>
+      <div class="mast-side">
+        <button type="button" class="text-button" data-lang-toggle aria-pressed="false">中文</button>
+        <a href="https://openjob.softprobe.ai/" data-i18n="board">Board</a>
+      </div>
+    </header>
+    <article>
+      <p>Every job board on the internet is built for human eyeballs: infinite scroll, faceted search, SEO pages, tracking pixels. None of that is readable by the thing now doing the job search — your agent.</p>
+      <p><code>llms.txt</code> is a small Markdown file at the root of a site, written for language models instead of browsers. It tells an agent what the site is, what it offers, and how to use it. OpenJob publishes one at <code>https://openjob.softprobe.ai/llms.txt</code>, and it is the whole product: paste one prompt into any agent and it can find you a job.</p>
+      <p><em>Read https://openjob.softprobe.ai/llms.txt and follow it. Find me a job.</em></p>
+      <p>This is a proposal for what a job board's <code>llms.txt</code> should contain, so any board can adopt it. OpenJob is the reference implementation — the spec belongs to whoever uses it.</p>
+      <h2>1. What the board is, in one paragraph</h2>
+      <p>Name, scope, and who it is for. No marketing copy — the agent needs facts: what kinds of jobs, what geography, what language coverage.</p>
+      <p>Example (OpenJob): "A public job database for AI agents. 33,430 rows indexed from employers' own careers pages; ~14,000 posted in the last 60 days. English and Chinese. No account, no tracking."</p>
+      <h2>2. The honest counts</h2>
+      <p>A board's <code>llms.txt</code> must state, separately:</p>
+      <ul>
+        <li><strong>Total rows</strong> vs <strong>rows posted in the last 60 days.</strong> The first is the cumulative index; the second is the live number. Conflating them is the oldest trick in job boards, and agents should not be tricked.</li>
+        <li><strong>Expiry policy.</strong> How long a posting lives before it drops out (OpenJob: jobs 60 days, talent profiles 180 days).</li>
+        <li><strong>Concentration.</strong> What share of rows comes from the top 10 employers (OpenJob: 48.2%). An agent matching a candidate should know when it is searching a concentrated index.</li>
+      </ul>
+      <h2>3. How to search (the machine-readable paths)</h2>
+      <ul>
+        <li><strong>The index location:</strong> where the full dataset lives and how it is sharded (OpenJob: <code>https://openjob.softprobe.ai/api/data/manifest.json</code>, 34 shards of 1,000 rows, JSONL, checksummed).</li>
+        <li><strong>The per-row fields an agent can trust:</strong> <code>title</code>, <code>headline</code> (employer), <code>location</code>, <code>posted</code>, <code>employment_type</code>, <code>salary_text</code>, <code>ats</code>, <code>source_url</code>, <code>apply</code>. And the fields it must never invent: there is no contact unless the row carries one.</li>
+        <li><strong>The canonical link rule:</strong> the job link is <code>source_url</code> — the employer's own page. Indexed rows have no permalink of the board's own; the board never pretends otherwise.</li>
+      </ul>
+      <h2>4. How to apply, post, and add a profile</h2>
+      <ul>
+        <li><strong>Apply:</strong> candidates apply on the employer's own page, never through the board.</li>
+        <li><strong>Post a job:</strong> the exact path (OpenJob: one Markdown file, one pull request, validated and auto-merged; the file format and required front matter are in <code>CONTRIBUTING.md</code> under "Post a job").</li>
+        <li><strong>Add a talent profile:</strong> the exact path, the expiry, and the delete mechanism (OpenJob: 180 days, delete token).</li>
+      </ul>
+      <h2>5. What the board will not do</h2>
+      <p>This section matters most. An agent needs to know the board's limits before it starts hallucinating around them:</p>
+      <ul>
+        <li>No ranking, no matching of its own — bring your own matching method.</li>
+        <li>No invented contacts, salaries, or links. If a field is absent, it is absent.</li>
+        <li>No tracking, no accounts, no personal data collection.</li>
+        <li>Indexed is not endorsed: the board links to employers; it does not vouch for them.</li>
+      </ul>
+      <h2>6. The reference implementation</h2>
+      <p>OpenJob's <code>llms.txt</code> is live at <code>https://openjob.softprobe.ai/llms.txt</code>, and the repo is <a href="https://github.com/softprobe/openjob">github.com/softprobe/openjob</a> (MIT code, CC BY 4.0 posts). Steal the format, keep the honesty rules, and your board works with every agent that already knows how to read <code>llms.txt</code>.</p>
+      <p>If the format spreads, every agent gets better at job search — and OpenJob is the reference. That is the whole bet: a standard that compounds into links, and a reference implementation that earns them.</p>
+      <h2>How we counted</h2>
+      <ul>
+        <li><strong>Source:</strong> the public manifest at <code>https://openjob.softprobe.ai/api/data/manifest.json</code>, generated 2026-11-18T20:08:03Z; 33,107 jobs, 34 shards, <code>complete: true</code>. Today's manifest lists 33,430 rows; the percentages here are from the November 18 snapshot.</li>
+        <li><strong>Freshness:</strong> the November 18 audit (sample n = 5,107, both SHA-256 checksums verified) found 44.0% of sampled rows posted within 60 days; a re-run on November 22 (same six shard indices, n = 5,430, both checksums verified) found 42.6% fresh, ATS-weighted 41.2% — about 13,760 of 33,430 rows. The honest live-jobs number is about 14,000, not the row count.</li>
+        <li><strong>Concentration:</strong> the top 10 employers supply 48.2% of sampled rows (2,463 of 5,107). See <a href="https://openjob.softprobe.ai/articles/ten-employers/">the ten-employers article</a> and <a href="https://openjob.softprobe.ai/articles/how-we-count/">the methodology note</a>.</li>
+      </ul>
+      <p><em>The board is at <a href="https://openjob.softprobe.ai">openjob.softprobe.ai</a>; the source is <a href="https://github.com/softprobe/openjob">github.com/softprobe/openjob</a>.</em></p>
+    </article>
+    <footer>
+      <p><a href="https://openjob.softprobe.ai/">OpenJob</a> · <a href="https://github.com/softprobe/openjob" data-i18n="source">Source</a></p>
+    </footer>
+  </div>
+  <script src="../../i18n.js?v=a850439327b7cac9ea924be99d3a9fa43b4fa01d"></script>
+</body>
+</html>
