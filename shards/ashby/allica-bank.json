@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-21T14:37:10Z",
+  "checked_at": "2026-11-22T14:31:17Z",
   "failed_at": null,
   "etag": "W/\"job-board:503ea1c1ee1c92d3e761f9f40abab6f996174ac5bb46ef12481aacaf4ad24dba\"",
   "jobs": [
@@ -20,7 +20,7 @@
       "source_url": "https://jobs.ashbyhq.com/allica-bank/0aa60c93-009b-450b-9e81-a36ba255d23f",
       "apply_url": "https://jobs.ashbyhq.com/allica-bank/0aa60c93-009b-450b-9e81-a36ba255d23f/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-21T14:37:10Z"
+      "last_checked": "2026-11-22T14:31:17Z"
     },
     {
       "id": "158b68d3-a41b-4e80-b7a7-268de7263d57",
@@ -38,7 +38,7 @@
       "source_url": "https://jobs.ashbyhq.com/allica-bank/158b68d3-a41b-4e80-b7a7-268de7263d57",
       "apply_url": "https://jobs.ashbyhq.com/allica-bank/158b68d3-a41b-4e80-b7a7-268de7263d57/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-21T14:37:10Z"
+      "last_checked": "2026-11-22T14:31:17Z"
     },
     {
       "id": "1c53ae1a-ad95-4d45-ad8d-8488c665145d",
@@ -56,7 +56,7 @@
       "source_url": "https://jobs.ashbyhq.com/allica-bank/1c53ae1a-ad95-4d45-ad8d-8488c665145d",
       "apply_url": "https://jobs.ashbyhq.com/allica-bank/1c53ae1a-ad95-4d45-ad8d-8488c665145d/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-21T14:37:10Z"
+      "last_checked": "2026-11-22T14:31:17Z"
     },
     {
       "id": "23d8bc59-dd5a-4f11-b2c7-481d9523d1e8",
@@ -74,7 +74,7 @@
       "source_url": "https://jobs.ashbyhq.com/allica-bank/23d8bc59-dd5a-4f11-b2c7-481d9523d1e8",
       "apply_url": "https://jobs.ashbyhq.com/allica-bank/23d8bc59-dd5a-4f11-b2c7-481d9523d1e8/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-21T14:37:10Z"
+      "last_checked": "2026-11-22T14:31:17Z"
     },
     {
       "id": "2cdd55d2-c8a4-4644-8498-39530699c694",
@@ -92,7 +92,7 @@
       "source_url": "https://jobs.ashbyhq.com/allica-bank/2cdd55d2-c8a4-4644-8498-39530699c694",
       "apply_url": "https://jobs.ashbyhq.com/allica-bank/2cdd55d2-c8a4-4644-8498-39530699c694/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-21T14:37:10Z"
+      "last_checked": "2026-11-22T14:31:17Z"
     },
     {
       "id": "2d09a792-9acf-44d3-8047-dde0c8b1fa0b",
@@ -110,7 +110,7 @@
       "source_url": "https://jobs.ashbyhq.com/allica-bank/2d09a792-9acf-44d3-8047-dde0c8b1fa0b",
       "apply_url": "https://jobs.ashbyhq.com/allica-bank/2d09a792-9acf-44d3-8047-dde0c8b1fa0b/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-21T14:37:10Z"
+      "last_checked": "2026-11-22T14:31:17Z"
     },
     {
       "id": "41fddb50-04eb-471a-be5c-524e39f2f7ba",
@@ -128,7 +128,7 @@
       "source_url": "https://jobs.ashbyhq.com/allica-bank/41fddb50-04eb-471a-be5c-524e39f2f7ba",
       "apply_url": "https://jobs.ashbyhq.com/allica-bank/41fddb50-04eb-471a-be5c-524e39f2f7ba/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-21T14:37:10Z"
+      "last_checked": "2026-11-22T14:31:17Z"
     },
     {
       "id": "4330ddc3-0767-4fe1-a435-68df701e622c",
@@ -146,7 +146,7 @@
       "source_url": "https://jobs.ashbyhq.com/allica-bank/4330ddc3-0767-4fe1-a435-68df701e622c",
       "apply_url": "https://jobs.ashbyhq.com/allica-bank/4330ddc3-0767-4fe1-a435-68df701e622c/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-21T14:37:10Z"
+      "last_checked": "2026-11-22T14:31:17Z"
     },
     {
       "id": "5c29b415-ccbd-4a30-ae41-3ceda2c5707b",
@@ -164,7 +164,7 @@
       "source_url": "https://jobs.ashbyhq.com/allica-bank/5c29b415-ccbd-4a30-ae41-3ceda2c5707b",
       "apply_url": "https://jobs.ashbyhq.com/allica-bank/5c29b415-ccbd-4a30-ae41-3ceda2c5707b/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-21T14:37:10Z"
+      "last_checked": "2026-11-22T14:31:17Z"
     },
     {
       "id": "6f3d9ddf-ea00-4315-83e4-10824554bffc",
@@ -182,7 +182,7 @@
       "source_url": "https://jobs.ashbyhq.com/allica-bank/6f3d9ddf-ea00-4315-83e4-10824554bffc",
       "apply_url": "https://jobs.ashbyhq.com/allica-bank/6f3d9ddf-ea00-4315-83e4-10824554bffc/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-21T14:37:10Z"
+      "last_checked": "2026-11-22T14:31:17Z"
     },
     {
       "id": "7080969f-9af8-4373-a17d-17cef598e7e6",
@@ -200,7 +200,7 @@
       "source_url": "https://jobs.ashbyhq.com/allica-bank/7080969f-9af8-4373-a17d-17cef598e7e6",
       "apply_url": "https://jobs.ashbyhq.com/allica-bank/7080969f-9af8-4373-a17d-17cef598e7e6/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-21T14:37:10Z"
+      "last_checked": "2026-11-22T14:31:17Z"
     },
     {
       "id": "70e67824-92c5-4206-b994-405d64f61c2f",
@@ -218,7 +218,7 @@
       "source_url": "https://jobs.ashbyhq.com/allica-bank/70e67824-92c5-4206-b994-405d64f61c2f",
       "apply_url": "https://jobs.ashbyhq.com/allica-bank/70e67824-92c5-4206-b994-405d64f61c2f/application",
       "first_seen": "2026-11-19T15:42:04Z",
-      "last_checked": "2026-11-21T14:37:10Z"
+      "last_checked": "2026-11-22T14:31:17Z"
     },
     {
       "id": "70e69d59-e9ff-46a6-94c9-1171990b1127",
@@ -236,7 +236,7 @@
       "source_url": "https://jobs.ashbyhq.com/allica-bank/70e69d59-e9ff-46a6-94c9-1171990b1127",
       "apply_url": "https://jobs.ashbyhq.com/allica-bank/70e69d59-e9ff-46a6-94c9-1171990b1127/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-21T14:37:10Z"
+      "last_checked": "2026-11-22T14:31:17Z"
     },
     {
       "id": "71bff72a-8142-4fe4-a324-0bfa819d49c2",
@@ -254,7 +254,7 @@
       "source_url": "https://jobs.ashbyhq.com/allica-bank/71bff72a-8142-4fe4-a324-0bfa819d49c2",
       "apply_url": "https://jobs.ashbyhq.com/allica-bank/71bff72a-8142-4fe4-a324-0bfa819d49c2/application",
       "first_seen": "2026-11-18T15:36:26Z",
-      "last_checked": "2026-11-21T14:37:10Z"
+      "last_checked": "2026-11-22T14:31:17Z"
     },
     {
       "id": "8854db2f-5d20-45d2-a054-19c5ad1121f5",
@@ -272,7 +272,7 @@
       "source_url": "https://jobs.ashbyhq.com/allica-bank/8854db2f-5d20-45d2-a054-19c5ad1121f5",
       "apply_url": "https://jobs.ashbyhq.com/allica-bank/8854db2f-5d20-45d2-a054-19c5ad1121f5/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-21T14:37:10Z"
+      "last_checked": "2026-11-22T14:31:17Z"
     },
     {
       "id": "88653f9d-924a-453d-8b86-67f5885f2ee4",
@@ -290,7 +290,7 @@
       "source_url": "https://jobs.ashbyhq.com/allica-bank/88653f9d-924a-453d-8b86-67f5885f2ee4",
       "apply_url": "https://jobs.ashbyhq.com/allica-bank/88653f9d-924a-453d-8b86-67f5885f2ee4/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-21T14:37:10Z"
+      "last_checked": "2026-11-22T14:31:17Z"
     },
     {
       "id": "9636f363-249c-4176-8718-28a38095cf21",
@@ -308,7 +308,7 @@
       "source_url": "https://jobs.ashbyhq.com/allica-bank/9636f363-249c-4176-8718-28a38095cf21",
       "apply_url": "https://jobs.ashbyhq.com/allica-bank/9636f363-249c-4176-8718-28a38095cf21/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-21T14:37:10Z"
+      "last_checked": "2026-11-22T14:31:17Z"
     },
     {
       "id": "9e5ec349-5831-4c3c-9867-db1c07845022",
@@ -326,7 +326,7 @@
       "source_url": "https://jobs.ashbyhq.com/allica-bank/9e5ec349-5831-4c3c-9867-db1c07845022",
       "apply_url": "https://jobs.ashbyhq.com/allica-bank/9e5ec349-5831-4c3c-9867-db1c07845022/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-21T14:37:10Z"
+      "last_checked": "2026-11-22T14:31:17Z"
     },
     {
       "id": "a0fcb754-c056-4576-a71d-095ccc84dbe8",
@@ -344,7 +344,7 @@
       "source_url": "https://jobs.ashbyhq.com/allica-bank/a0fcb754-c056-4576-a71d-095ccc84dbe8",
       "apply_url": "https://jobs.ashbyhq.com/allica-bank/a0fcb754-c056-4576-a71d-095ccc84dbe8/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-21T14:37:10Z"
+      "last_checked": "2026-11-22T14:31:17Z"
     },
     {
       "id": "b554536f-e7ba-4725-9631-4c9da1ad78cc",
@@ -362,7 +362,7 @@
       "source_url": "https://jobs.ashbyhq.com/allica-bank/b554536f-e7ba-4725-9631-4c9da1ad78cc",
       "apply_url": "https://jobs.ashbyhq.com/allica-bank/b554536f-e7ba-4725-9631-4c9da1ad78cc/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-21T14:37:10Z"
+      "last_checked": "2026-11-22T14:31:17Z"
     },
     {
       "id": "c380b3b3-61e6-4a47-a584-403e66cec566",
@@ -380,7 +380,7 @@
       "source_url": "https://jobs.ashbyhq.com/allica-bank/c380b3b3-61e6-4a47-a584-403e66cec566",
       "apply_url": "https://jobs.ashbyhq.com/allica-bank/c380b3b3-61e6-4a47-a584-403e66cec566/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-21T14:37:10Z"
+      "last_checked": "2026-11-22T14:31:17Z"
     },
     {
       "id": "c967c68c-3d55-40c0-bb2f-735cfec31487",
@@ -398,7 +398,7 @@
       "source_url": "https://jobs.ashbyhq.com/allica-bank/c967c68c-3d55-40c0-bb2f-735cfec31487",
       "apply_url": "https://jobs.ashbyhq.com/allica-bank/c967c68c-3d55-40c0-bb2f-735cfec31487/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-21T14:37:10Z"
+      "last_checked": "2026-11-22T14:31:17Z"
     },
     {
       "id": "ca7423bf-d20d-4d10-a2dc-f807c84c7b3f",
@@ -416,7 +416,7 @@
       "source_url": "https://jobs.ashbyhq.com/allica-bank/ca7423bf-d20d-4d10-a2dc-f807c84c7b3f",
       "apply_url": "https://jobs.ashbyhq.com/allica-bank/ca7423bf-d20d-4d10-a2dc-f807c84c7b3f/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-21T14:37:10Z"
+      "last_checked": "2026-11-22T14:31:17Z"
     },
     {
       "id": "db5807cb-4f80-4a6d-b86a-ea6fca96d266",
@@ -434,7 +434,7 @@
       "source_url": "https://jobs.ashbyhq.com/allica-bank/db5807cb-4f80-4a6d-b86a-ea6fca96d266",
       "apply_url": "https://jobs.ashbyhq.com/allica-bank/db5807cb-4f80-4a6d-b86a-ea6fca96d266/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-21T14:37:10Z"
+      "last_checked": "2026-11-22T14:31:17Z"
     },
     {
       "id": "ebfbbf7b-3db8-45b4-91c2-c60d00f01bde",
@@ -452,7 +452,7 @@
       "source_url": "https://jobs.ashbyhq.com/allica-bank/ebfbbf7b-3db8-45b4-91c2-c60d00f01bde",
       "apply_url": "https://jobs.ashbyhq.com/allica-bank/ebfbbf7b-3db8-45b4-91c2-c60d00f01bde/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-21T14:37:10Z"
+      "last_checked": "2026-11-22T14:31:17Z"
     },
     {
       "id": "ee38caac-7095-4f24-92de-0e6bd53a6853",
@@ -470,7 +470,7 @@
       "source_url": "https://jobs.ashbyhq.com/allica-bank/ee38caac-7095-4f24-92de-0e6bd53a6853",
       "apply_url": "https://jobs.ashbyhq.com/allica-bank/ee38caac-7095-4f24-92de-0e6bd53a6853/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-21T14:37:10Z"
+      "last_checked": "2026-11-22T14:31:17Z"
     },
     {
       "id": "f42c4e76-3ee1-47e3-8e74-6eb572cd56d8",
@@ -488,7 +488,7 @@
       "source_url": "https://jobs.ashbyhq.com/allica-bank/f42c4e76-3ee1-47e3-8e74-6eb572cd56d8",
       "apply_url": "https://jobs.ashbyhq.com/allica-bank/f42c4e76-3ee1-47e3-8e74-6eb572cd56d8/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-21T14:37:10Z"
+      "last_checked": "2026-11-22T14:31:17Z"
     },
     {
       "id": "f96300d7-6e0c-4c16-94bc-e92c884d6be7",
@@ -506,7 +506,7 @@
       "source_url": "https://jobs.ashbyhq.com/allica-bank/f96300d7-6e0c-4c16-94bc-e92c884d6be7",
       "apply_url": "https://jobs.ashbyhq.com/allica-bank/f96300d7-6e0c-4c16-94bc-e92c884d6be7/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-21T14:37:10Z"
+      "last_checked": "2026-11-22T14:31:17Z"
     }
   ],
   "ats": "ashby",

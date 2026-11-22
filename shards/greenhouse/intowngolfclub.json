@@ -1,8 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-21T14:37:10Z",
+  "checked_at": "2026-11-22T14:31:17Z",
   "failed_at": null,
-  "etag": "W/\"7c13f2c2b53cea59f243f59dcd35ad27\"",
+  "etag": "W/\"4fdff7f20a2b66d59f8b0b48e9690fab\"",
   "jobs": [
     {
       "id": "5418165008",
@@ -20,7 +20,7 @@
       "source_url": "https://job-boards.greenhouse.io/intowngolfclub/jobs/5418165008",
       "apply_url": "https://job-boards.greenhouse.io/intowngolfclub/jobs/5418165008",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-21T14:37:10Z"
+      "last_checked": "2026-11-22T14:31:17Z"
     },
     {
       "id": "5422167008",
@@ -38,7 +38,7 @@
       "source_url": "https://job-boards.greenhouse.io/intowngolfclub/jobs/5422167008",
       "apply_url": "https://job-boards.greenhouse.io/intowngolfclub/jobs/5422167008",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-21T14:37:10Z"
+      "last_checked": "2026-11-22T14:31:17Z"
     },
     {
       "id": "5440946008",
@@ -56,7 +56,7 @@
       "source_url": "https://job-boards.greenhouse.io/intowngolfclub/jobs/5440946008",
       "apply_url": "https://job-boards.greenhouse.io/intowngolfclub/jobs/5440946008",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-21T14:37:10Z"
+      "last_checked": "2026-11-22T14:31:17Z"
     },
     {
       "id": "5448439008",
@@ -74,7 +74,7 @@
       "source_url": "https://job-boards.greenhouse.io/intowngolfclub/jobs/5448439008",
       "apply_url": "https://job-boards.greenhouse.io/intowngolfclub/jobs/5448439008",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-21T14:37:10Z"
+      "last_checked": "2026-11-22T14:31:17Z"
     },
     {
       "id": "5452849008",
@@ -92,7 +92,7 @@
       "source_url": "https://job-boards.greenhouse.io/intowngolfclub/jobs/5452849008",
       "apply_url": "https://job-boards.greenhouse.io/intowngolfclub/jobs/5452849008",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-21T14:37:10Z"
+      "last_checked": "2026-11-22T14:31:17Z"
     },
     {
       "id": "5463362008",
@@ -110,7 +110,7 @@
       "source_url": "https://job-boards.greenhouse.io/intowngolfclub/jobs/5463362008",
       "apply_url": "https://job-boards.greenhouse.io/intowngolfclub/jobs/5463362008",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-21T14:37:10Z"
+      "last_checked": "2026-11-22T14:31:17Z"
     },
     {
       "id": "5466095008",
@@ -128,7 +128,7 @@
       "source_url": "https://job-boards.greenhouse.io/intowngolfclub/jobs/5466095008",
       "apply_url": "https://job-boards.greenhouse.io/intowngolfclub/jobs/5466095008",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-21T14:37:10Z"
+      "last_checked": "2026-11-22T14:31:17Z"
     },
     {
       "id": "5479253008",
@@ -146,7 +146,7 @@
       "source_url": "https://job-boards.greenhouse.io/intowngolfclub/jobs/5479253008",
       "apply_url": "https://job-boards.greenhouse.io/intowngolfclub/jobs/5479253008",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-21T14:37:10Z"
+      "last_checked": "2026-11-22T14:31:17Z"
     },
     {
       "id": "5479262008",
@@ -164,7 +164,7 @@
       "source_url": "https://job-boards.greenhouse.io/intowngolfclub/jobs/5479262008",
       "apply_url": "https://job-boards.greenhouse.io/intowngolfclub/jobs/5479262008",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-21T14:37:10Z"
+      "last_checked": "2026-11-22T14:31:17Z"
     },
     {
       "id": "5486480008",
@@ -182,7 +182,7 @@
       "source_url": "https://job-boards.greenhouse.io/intowngolfclub/jobs/5486480008",
       "apply_url": "https://job-boards.greenhouse.io/intowngolfclub/jobs/5486480008",
       "first_seen": "2026-11-18T15:36:26Z",
-      "last_checked": "2026-11-21T14:37:10Z"
+      "last_checked": "2026-11-22T14:31:17Z"
     },
     {
       "id": "5487103008",
@@ -200,7 +200,7 @@
       "source_url": "https://job-boards.greenhouse.io/intowngolfclub/jobs/5487103008",
       "apply_url": "https://job-boards.greenhouse.io/intowngolfclub/jobs/5487103008",
       "first_seen": "2026-11-19T15:42:04Z",
-      "last_checked": "2026-11-21T14:37:10Z"
+      "last_checked": "2026-11-22T14:31:17Z"
     }
   ],
   "ats": "greenhouse",

@@ -1,20 +1,20 @@
 {
-  "generated": "2026-11-21T14:37:10Z",
+  "generated": "2026-11-22T14:31:17Z",
   "publish": true,
   "companies": 369,
-  "jobs": 33436,
+  "jobs": 33429,
   "before": {
-    "greenhouse": 12953,
+    "greenhouse": 13009,
     "workable": 10,
-    "lever": 1959,
-    "ashby": 3626,
-    "moka": 14813
+    "lever": 1968,
+    "ashby": 3632,
+    "moka": 14817
   },
   "after": {
-    "greenhouse": 13009,
+    "greenhouse": 13003,
     "ashby": 3632,
-    "lever": 1968,
-    "moka": 14817,
+    "lever": 1965,
+    "moka": 14819,
     "workable": 10
   },
   "dropped": [],
