@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" type="image/svg+xml" href="../../favicon.svg">
+  <title>A week after our first audit, the broadened index held — OpenJob</title>
+  <meta name="description" content="One week after OpenJob's first audit, the index held its breadth: the top 10 employers are 43.7% of sampled rows (was 48.2%), 99 employers appear in the sample, and about 14,000 roles were posted in the last 60 days.">
+  <link rel="canonical" href="https://openjob.softprobe.ai/articles/week-one-steady/">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="OpenJob">
+  <meta property="og:title" content="A week after our first audit, the broadened index held — OpenJob">
+  <meta property="og:description" content="One week after OpenJob's first audit, the index held its breadth: the top 10 employers are 43.7% of sampled rows (was 48.2%), 99 employers appear in the sample, and about 14,000 roles were posted in the last 60 days.">
+  <meta property="og:url" content="https://openjob.softprobe.ai/articles/week-one-steady/">
+  <!-- openjob:social -->
+  <meta property="og:image" content="https://openjob.softprobe.ai/og.png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="OpenJob. Open, privacy-first job board on GitHub">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:image" content="https://openjob.softprobe.ai/og.png">
+  <meta name="twitter:image:alt" content="OpenJob. Open, privacy-first job board on GitHub">
+  <meta name="google-site-verification" content="a2xq4xTZGnwkNdS2FSOJ9EGiUwnSmcRUcCAa2CUkiPI">
+  <!-- /openjob:social -->
+  <meta name="twitter:title" content="A week after our first audit, the broadened index held — OpenJob">
+  <meta name="twitter:description" content="One week after OpenJob's first audit, the index held its breadth: the top 10 employers are 43.7% of sampled rows (was 48.2%), 99 employers appear in the sample, and about 14,000 roles were posted in the last 60 days.">
+  <link rel="stylesheet" href="../../style.css">
+</head>
+<body class="entry">
+  <div class="wrap">
+    <header class="mast">
+      <div>
+        <div class="brand-row"><img class="brand-mark" src="../../favicon.svg" alt="OpenJob logo" width="40" height="40"><p class="kicker">OpenJob</p></div>
+        <h1>A week after our first audit, the broadened index held</h1>
+        <p class="sub">OpenJob · November 23, 2026</p>
+      </div>
+      <div class="mast-side">
+        <button type="button" class="text-button" data-lang-toggle aria-pressed="false">中文</button>
+        <a href="https://openjob.softprobe.ai/" data-i18n="board">Board</a>
+      </div>
+    </header>
+    <article>
+      <p><strong>The headline number:</strong> a week after our first audit, the OpenJob index is holding the breadth it gained. The top 10 employers are <strong>43.7%</strong> of sampled rows — down from 48.2% on November 18 and flat against 43.8% yesterday — the sample now covers <strong>99 employers</strong> (was 81 a week ago), and the manifest grew to <strong>33,438 rows</strong>. The honest live-jobs figure still holds at about <strong>14,000 posted in the last 60 days</strong>.</p>
+      <p>Day to day, almost nothing moved — and that is the point of re-running the same count. Five of the six sampled shards are byte-identical to yesterday; only one shard changed, by eight rows. A job index that churns wildly every morning is an index you cannot trust to answer the same question twice. Ours answers the same question the same way, and the week-over-week direction is the one that matters: more employers, same fresh core.</p>
+      <h2>What your agent can read today</h2>
+      <p>In the sample, <strong>2,290 of 5,438 rows were posted in the last 60 days</strong> (42.1%). Weighted across the full dataset that is about 13,650 of 33,438 — the live figure we quote as about 14,000. The freshest pipe is still Ashby, at 66.3% of its sampled rows posted in the last 60 days; Greenhouse is at 47.0% and Moka at 27.8%. If your agent filters to the last 60 days, it is searching the live part of the index, not the archive.</p>
+      <p>The AI-agent roles are still there, and still named: <strong>64 roles</strong> on the narrow keyword set (1.2% of the sample), 33 of them fresh — Cloudflare's Agentic Commerce and Agentic Discovery teams, Reddit's Agentic Ads, Hugging Face's Voice Agents, Scale AI's agent work, and the rest. The broad AI/ML set is 6.4% (346 roles). Agent hiring is a small slice of the index, but it is a real, named slice, and it did not shrink this week.</p>
+      <h2>The week in numbers</h2>
+      <table>
+        <thead>
+          <tr><th>Metric</th><th>Nov 18</th><th>Nov 23</th></tr>
+        </thead>
+        <tbody>
+          <tr><td>Manifest rows</td><td>33,107</td><td>33,438</td></tr>
+          <tr><td>Top-10 employers' share</td><td>48.2%</td><td>43.7%</td></tr>
+          <tr><td>Employers in sample</td><td>81</td><td>99</td></tr>
+          <tr><td>Fresh share (posted last 60 days)</td><td>44.0%</td><td>42.1%</td></tr>
+          <tr><td>AI-agent roles, narrow</td><td>76 (1.5%)</td><td>64 (1.2%)</td></tr>
+          <tr><td>Roles showing pay (all Ashby)</td><td>6.2%</td><td>5.7%</td></tr>
+          <tr><td>Titles containing CJK characters</td><td>40.2%</td><td>43.2%</td></tr>
+        </tbody>
+      </table>
+      <p>The narrow AI-agent count fell from 76 to 64 over the week — not because agent hiring stopped, but because the sample broadened toward Moka rows, where agent-titled roles are rarer (0.1% of Moka rows vs 2.2% of Greenhouse on this week's count). The count is honest either way: same six shards, same definitions, same word-boundary keyword match. A note on method: a quick substring match overcounts this number badly — it returns 83, counting "Fulfillment" (it contains "llm") and Chinese titles with no word boundaries. We publish the word-boundary count, 64, and we checked it twice.</p>
+      <h2>How we counted</h2>
+      <ul>
+        <li><strong>Source:</strong> the public manifest at <code>https://openjob.softprobe.ai/api/data/manifest.json</code>, generated 2026-11-23T00:07:23Z; 33,438 jobs, 34 shards, <code>complete: true</code>. The November 18 snapshot was 33,107 jobs, generated 2026-11-18T20:08:03Z; the November 22 snapshot was 33,430 jobs.</li>
+        <li><strong>Sample:</strong> 5,438 rows from shards 0, 7, 14, 20, 27, 33 (was 5,107 on Nov 18 — shard 33 grew 107 → 438 rows). Both SHA-256 checksums (gzip + raw) verified against the manifest on all six shards. The shards are source-blocked, not random — each shard holds exactly one ATS system — so this is a cluster sample. "Fresh" means a posted date on or after September 24, 2026 (60 days before Nov 23); on Nov 18 the cutoff was September 19, 2026.</li>
+        <li><strong>Indexed ≠ recruited.</strong> Every number describes rows indexed from employer ATS boards. OpenJob did not recruit these employers; the employers own the text.</li>
+        <li><strong>Full method:</strong> see <a href="https://openjob.softprobe.ai/articles/how-we-count/">How we count</a>, the <a href="https://openjob.softprobe.ai/articles/index-broadened/">index-broadened story</a> from November 22, and the <a href="https://openjob.softprobe.ai/articles/ten-employers/">ten-employers article</a> from the first audit.</li>
+      </ul>
+      <p><em>Try it yourself: paste "Read https://openjob.softprobe.ai/llms.txt and follow it. Find me a job posted in the last 30 days." into the agent you already use — Muse, ChatGPT/Codex, Cursor, Hermes, or Instinct — and see what it finds. The board is at <a href="https://openjob.softprobe.ai">openjob.softprobe.ai</a>; the source is <a href="https://github.com/softprobe/openjob">github.com/softprobe/openjob</a>.</em></p>
+    </article>
+    <footer>
+      <p><a href="https://openjob.softprobe.ai/">OpenJob</a> · <a href="https://github.com/softprobe/openjob" data-i18n="source">Source</a></p>
+    </footer>
+  </div>
+  <script src="../../i18n.js?v=a850439327b7cac9ea924be99d3a9fa43b4fa01d"></script>
+</body>
+</html>
