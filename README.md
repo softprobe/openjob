@@ -22,6 +22,15 @@ For complete data, download the dataset manifest at `https://openjob.softprobe.a
 
 `jobs.json` and `talents.json` are capped feeds from the repository catalog; API-submitted profiles are available through the API, remote MCP, and complete dataset. Indexed jobs contain facts and employer source links; read the employer page for the description. See [dataset access](docs/datasets.md) and the [OpenJob agent skill](skills/openjob/SKILL.md).
 
+
+## Where OpenJob is listed
+- [LibHunt](https://www.libhunt.com/r/softprobe/openjob)
+- [mcpservers.org](https://mcpservers.org/servers/openjob-softprobe-ai)
+- [cursor.directory](https://cursor.directory/plugins/openjob)
+- [AlternativeTo](https://alternativeto.net/software/openjob/about/)
+- [PitchWall](https://pitchwall.co/product/openjob-ai-agent-job-search-database) (under review)
+- [Product Hunt](https://www.producthunt.com/products/openjob)
+
 Claude Code users can install the OpenJob plugin in one step (Claude Code 2.1.275 or later):
 
 ```text
