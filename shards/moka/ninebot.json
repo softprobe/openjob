@@ -1,8 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-22T14:31:17Z",
+  "checked_at": "2026-11-23T18:00:07Z",
   "failed_at": null,
-  "etag": "W/\"3b7e9-GqqOAmZ/pACRHTr9jdrzaw\"",
+  "etag": "W/\"3b7e9-DjUqCO5214FSzxvuXS2nZg\"",
   "jobs": [
     {
       "id": "0182cc7b-c304-42fa-9ba8-f8b9acf01c1c",
@@ -20,7 +20,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/0182cc7b-c304-42fa-9ba8-f8b9acf01c1c",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/0182cc7b-c304-42fa-9ba8-f8b9acf01c1c/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "042f97c6-5198-4f99-a470-275dabab6c2f",
@@ -38,7 +38,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/042f97c6-5198-4f99-a470-275dabab6c2f",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/042f97c6-5198-4f99-a470-275dabab6c2f/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "0632152d-1f27-4faa-81b4-27aaf205a975",
@@ -56,7 +56,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/0632152d-1f27-4faa-81b4-27aaf205a975",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/0632152d-1f27-4faa-81b4-27aaf205a975/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "079d6458-c6be-43ad-b1dc-7a6fd0e1f628",
@@ -74,7 +74,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/079d6458-c6be-43ad-b1dc-7a6fd0e1f628",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/079d6458-c6be-43ad-b1dc-7a6fd0e1f628/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "07e79d0d-6d81-4d9b-aaa7-736af0344d0a",
@@ -92,7 +92,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/07e79d0d-6d81-4d9b-aaa7-736af0344d0a",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/07e79d0d-6d81-4d9b-aaa7-736af0344d0a/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "07f45efb-ddad-4f68-b649-024a86892ff5",
@@ -110,7 +110,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/07f45efb-ddad-4f68-b649-024a86892ff5",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/07f45efb-ddad-4f68-b649-024a86892ff5/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "0b9f804f-e222-4315-a167-5b3f11dedec5",
@@ -128,7 +128,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/0b9f804f-e222-4315-a167-5b3f11dedec5",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/0b9f804f-e222-4315-a167-5b3f11dedec5/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "0c6c4d91-7b8f-46b9-9b88-d87b145be88a",
@@ -146,7 +146,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/0c6c4d91-7b8f-46b9-9b88-d87b145be88a",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/0c6c4d91-7b8f-46b9-9b88-d87b145be88a/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "0dfc81e6-6294-4ba6-9ff3-a66c7159ee25",
@@ -164,7 +164,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/0dfc81e6-6294-4ba6-9ff3-a66c7159ee25",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/0dfc81e6-6294-4ba6-9ff3-a66c7159ee25/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "0ea38f57-5df2-45bb-93c6-f3c85ac78b46",
@@ -182,7 +182,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/0ea38f57-5df2-45bb-93c6-f3c85ac78b46",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/0ea38f57-5df2-45bb-93c6-f3c85ac78b46/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "0ebc9c2c-ef2f-4f82-ac10-7ce7ad34e963",
@@ -200,7 +200,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/0ebc9c2c-ef2f-4f82-ac10-7ce7ad34e963",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/0ebc9c2c-ef2f-4f82-ac10-7ce7ad34e963/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "10470fe3-cf3e-4e28-9e06-645152aaecb3",
@@ -218,7 +218,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/10470fe3-cf3e-4e28-9e06-645152aaecb3",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/10470fe3-cf3e-4e28-9e06-645152aaecb3/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "123e3862-e31f-4d6d-b54f-f0f9edbaf4ac",
@@ -236,7 +236,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/123e3862-e31f-4d6d-b54f-f0f9edbaf4ac",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/123e3862-e31f-4d6d-b54f-f0f9edbaf4ac/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "14e97baf-6dfa-491b-a9e4-49b616c3bbde",
@@ -254,7 +254,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/14e97baf-6dfa-491b-a9e4-49b616c3bbde",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/14e97baf-6dfa-491b-a9e4-49b616c3bbde/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "15ffd503-0720-468d-bdff-286e9f9e38e7",
@@ -272,7 +272,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/15ffd503-0720-468d-bdff-286e9f9e38e7",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/15ffd503-0720-468d-bdff-286e9f9e38e7/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "167e00b0-77b0-4f66-ae4a-f05e9ace5808",
@@ -290,7 +290,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/167e00b0-77b0-4f66-ae4a-f05e9ace5808",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/167e00b0-77b0-4f66-ae4a-f05e9ace5808/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "168bd1c7-c4c6-46ae-9677-da90117aa6c7",
@@ -308,7 +308,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/168bd1c7-c4c6-46ae-9677-da90117aa6c7",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/168bd1c7-c4c6-46ae-9677-da90117aa6c7/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "184eb73c-9785-4007-8ad7-27e27509210a",
@@ -326,7 +326,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/184eb73c-9785-4007-8ad7-27e27509210a",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/184eb73c-9785-4007-8ad7-27e27509210a/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "199fbed5-82e6-40ed-8f56-ec7f968a8ff6",
@@ -344,7 +344,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/199fbed5-82e6-40ed-8f56-ec7f968a8ff6",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/199fbed5-82e6-40ed-8f56-ec7f968a8ff6/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "1cacb92c-efd3-492f-b2bc-680fea7a6f8b",
@@ -362,7 +362,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/1cacb92c-efd3-492f-b2bc-680fea7a6f8b",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/1cacb92c-efd3-492f-b2bc-680fea7a6f8b/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "1d2fe656-ef12-4851-a5c4-561b79660a64",
@@ -380,7 +380,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/1d2fe656-ef12-4851-a5c4-561b79660a64",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/1d2fe656-ef12-4851-a5c4-561b79660a64/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "1e02db3a-a70e-470a-84d2-cc4b80451143",
@@ -398,7 +398,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/1e02db3a-a70e-470a-84d2-cc4b80451143",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/1e02db3a-a70e-470a-84d2-cc4b80451143/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "1f9a86a2-50b8-42b4-ae33-b6a9b7f001bf",
@@ -416,7 +416,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/1f9a86a2-50b8-42b4-ae33-b6a9b7f001bf",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/1f9a86a2-50b8-42b4-ae33-b6a9b7f001bf/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "2092189f-0dad-44ce-8fad-65647def708d",
@@ -434,7 +434,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/2092189f-0dad-44ce-8fad-65647def708d",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/2092189f-0dad-44ce-8fad-65647def708d/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "2114aaa0-bf66-4f14-847b-bb91e72cfb5a",
@@ -452,7 +452,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/2114aaa0-bf66-4f14-847b-bb91e72cfb5a",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/2114aaa0-bf66-4f14-847b-bb91e72cfb5a/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "21b4ca70-367b-44ce-9436-ca3d27552441",
@@ -470,7 +470,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/21b4ca70-367b-44ce-9436-ca3d27552441",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/21b4ca70-367b-44ce-9436-ca3d27552441/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "21d3e5a3-2f9c-4b44-85cf-ade776aeb6e6",
@@ -488,7 +488,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/21d3e5a3-2f9c-4b44-85cf-ade776aeb6e6",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/21d3e5a3-2f9c-4b44-85cf-ade776aeb6e6/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "2347a7f2-6d70-46e0-ac19-31cd96c7ae7b",
@@ -506,7 +506,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/2347a7f2-6d70-46e0-ac19-31cd96c7ae7b",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/2347a7f2-6d70-46e0-ac19-31cd96c7ae7b/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "253236ad-d778-47b8-bb3e-dbafc2583ee6",
@@ -524,7 +524,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/253236ad-d778-47b8-bb3e-dbafc2583ee6",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/253236ad-d778-47b8-bb3e-dbafc2583ee6/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "26bb07d8-38d9-4d76-a2bf-a831457fecf5",
@@ -542,7 +542,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/26bb07d8-38d9-4d76-a2bf-a831457fecf5",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/26bb07d8-38d9-4d76-a2bf-a831457fecf5/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "27394950-51a7-422b-a795-fb121a81cafc",
@@ -560,7 +560,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/27394950-51a7-422b-a795-fb121a81cafc",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/27394950-51a7-422b-a795-fb121a81cafc/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "2acda527-105a-4654-80ef-f07edbb79890",
@@ -578,7 +578,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/2acda527-105a-4654-80ef-f07edbb79890",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/2acda527-105a-4654-80ef-f07edbb79890/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "2b1c246b-18d0-41ee-ab48-d6393e780cb7",
@@ -596,7 +596,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/2b1c246b-18d0-41ee-ab48-d6393e780cb7",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/2b1c246b-18d0-41ee-ab48-d6393e780cb7/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "2bb3bb2f-0b4c-4e2d-810e-a0de78ae717d",
@@ -614,7 +614,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/2bb3bb2f-0b4c-4e2d-810e-a0de78ae717d",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/2bb3bb2f-0b4c-4e2d-810e-a0de78ae717d/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "2bc92096-8d12-4d7e-8f4b-d54273ca1a96",
@@ -632,7 +632,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/2bc92096-8d12-4d7e-8f4b-d54273ca1a96",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/2bc92096-8d12-4d7e-8f4b-d54273ca1a96/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "2beb907b-79ec-44fc-8812-c2b18865cb07",
@@ -650,7 +650,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/2beb907b-79ec-44fc-8812-c2b18865cb07",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/2beb907b-79ec-44fc-8812-c2b18865cb07/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "2c29b666-5c78-429f-9940-51f5585ae5f1",
@@ -668,7 +668,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/2c29b666-5c78-429f-9940-51f5585ae5f1",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/2c29b666-5c78-429f-9940-51f5585ae5f1/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "2cb61810-0028-4744-87b3-120d51cfb103",
@@ -686,7 +686,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/2cb61810-0028-4744-87b3-120d51cfb103",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/2cb61810-0028-4744-87b3-120d51cfb103/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "2cdc9087-6f9b-47e4-8168-5343744dd14d",
@@ -704,7 +704,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/2cdc9087-6f9b-47e4-8168-5343744dd14d",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/2cdc9087-6f9b-47e4-8168-5343744dd14d/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "2e8fb37d-8f73-4c56-b5df-19e177f4726e",
@@ -722,7 +722,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/2e8fb37d-8f73-4c56-b5df-19e177f4726e",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/2e8fb37d-8f73-4c56-b5df-19e177f4726e/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "2e9c5129-ea99-4993-92c1-ce5565a6c12f",
@@ -740,7 +740,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/2e9c5129-ea99-4993-92c1-ce5565a6c12f",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/2e9c5129-ea99-4993-92c1-ce5565a6c12f/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "30b0ed20-8bff-4de4-8293-43fa8ea345be",
@@ -758,7 +758,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/30b0ed20-8bff-4de4-8293-43fa8ea345be",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/30b0ed20-8bff-4de4-8293-43fa8ea345be/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "328b5180-1d62-4e4e-9fe2-9b6a677786d3",
@@ -776,7 +776,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/328b5180-1d62-4e4e-9fe2-9b6a677786d3",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/328b5180-1d62-4e4e-9fe2-9b6a677786d3/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "336c3375-7d2d-4079-93f7-838f8e686aa5",
@@ -794,7 +794,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/336c3375-7d2d-4079-93f7-838f8e686aa5",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/336c3375-7d2d-4079-93f7-838f8e686aa5/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "3414fe92-b8af-4d33-8942-bcffff0529fd",
@@ -812,7 +812,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/3414fe92-b8af-4d33-8942-bcffff0529fd",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/3414fe92-b8af-4d33-8942-bcffff0529fd/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "37141c0b-a7e7-4da9-82e3-da0d09087461",
@@ -830,7 +830,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/37141c0b-a7e7-4da9-82e3-da0d09087461",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/37141c0b-a7e7-4da9-82e3-da0d09087461/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "38d1552a-89bb-4b7e-bf31-66e545362d6b",
@@ -848,7 +848,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/38d1552a-89bb-4b7e-bf31-66e545362d6b",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/38d1552a-89bb-4b7e-bf31-66e545362d6b/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "3975113e-219f-4fc0-99ad-9812930cfa12",
@@ -866,7 +866,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/3975113e-219f-4fc0-99ad-9812930cfa12",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/3975113e-219f-4fc0-99ad-9812930cfa12/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "39c91fa2-86ac-4fd0-80ac-e64207bff6fb",
@@ -884,7 +884,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/39c91fa2-86ac-4fd0-80ac-e64207bff6fb",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/39c91fa2-86ac-4fd0-80ac-e64207bff6fb/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "3a5c2e04-59eb-4f91-ba62-c6358f4a60c8",
@@ -902,7 +902,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/3a5c2e04-59eb-4f91-ba62-c6358f4a60c8",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/3a5c2e04-59eb-4f91-ba62-c6358f4a60c8/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "3b4563ee-1e13-458c-bf4d-2d1aa3733e5f",
@@ -920,7 +920,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/3b4563ee-1e13-458c-bf4d-2d1aa3733e5f",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/3b4563ee-1e13-458c-bf4d-2d1aa3733e5f/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "3d133a41-b7a2-4dc3-b4e8-d75fce557317",
@@ -938,7 +938,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/3d133a41-b7a2-4dc3-b4e8-d75fce557317",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/3d133a41-b7a2-4dc3-b4e8-d75fce557317/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "3e37ad1c-2749-4806-b688-ef79862da401",
@@ -956,7 +956,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/3e37ad1c-2749-4806-b688-ef79862da401",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/3e37ad1c-2749-4806-b688-ef79862da401/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "3e4561e2-7179-4f32-b676-161a3b30d999",
@@ -974,7 +974,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/3e4561e2-7179-4f32-b676-161a3b30d999",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/3e4561e2-7179-4f32-b676-161a3b30d999/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "3efa0a77-a4ca-4e5f-9aac-4e00f03214cf",
@@ -992,7 +992,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/3efa0a77-a4ca-4e5f-9aac-4e00f03214cf",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/3efa0a77-a4ca-4e5f-9aac-4e00f03214cf/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "4090f4d8-d382-4e4a-b774-c7a243fc0bab",
@@ -1010,7 +1010,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/4090f4d8-d382-4e4a-b774-c7a243fc0bab",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/4090f4d8-d382-4e4a-b774-c7a243fc0bab/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "415ba664-602d-407b-ae93-522ea0862ce0",
@@ -1028,7 +1028,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/415ba664-602d-407b-ae93-522ea0862ce0",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/415ba664-602d-407b-ae93-522ea0862ce0/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "4243035a-7cb1-4e4a-81ef-d7bfe236f723",
@@ -1046,7 +1046,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/4243035a-7cb1-4e4a-81ef-d7bfe236f723",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/4243035a-7cb1-4e4a-81ef-d7bfe236f723/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "42625f22-aa37-4b8f-a0d1-396615e64822",
@@ -1064,7 +1064,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/42625f22-aa37-4b8f-a0d1-396615e64822",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/42625f22-aa37-4b8f-a0d1-396615e64822/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "42a64a9e-7c61-49c2-89d0-ba8e7ec9f792",
@@ -1082,7 +1082,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/42a64a9e-7c61-49c2-89d0-ba8e7ec9f792",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/42a64a9e-7c61-49c2-89d0-ba8e7ec9f792/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "430b28d4-be38-4d8d-bfca-d633e72c60db",
@@ -1100,7 +1100,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/430b28d4-be38-4d8d-bfca-d633e72c60db",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/430b28d4-be38-4d8d-bfca-d633e72c60db/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "430c324b-95f5-4363-9dee-6eb258fbe9f8",
@@ -1118,7 +1118,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/430c324b-95f5-4363-9dee-6eb258fbe9f8",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/430c324b-95f5-4363-9dee-6eb258fbe9f8/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "43a73784-4130-4448-83f7-22da04d9f500",
@@ -1136,7 +1136,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/43a73784-4130-4448-83f7-22da04d9f500",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/43a73784-4130-4448-83f7-22da04d9f500/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "44916b85-2035-4cb7-97f1-64c95999dde9",
@@ -1154,7 +1154,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/44916b85-2035-4cb7-97f1-64c95999dde9",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/44916b85-2035-4cb7-97f1-64c95999dde9/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "44d23945-c42a-4033-93f1-c2e611f5c2be",
@@ -1172,7 +1172,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/44d23945-c42a-4033-93f1-c2e611f5c2be",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/44d23945-c42a-4033-93f1-c2e611f5c2be/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "4681c3e0-60da-42ed-8bf9-abaa694bbf94",
@@ -1190,7 +1190,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/4681c3e0-60da-42ed-8bf9-abaa694bbf94",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/4681c3e0-60da-42ed-8bf9-abaa694bbf94/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "48a1eced-759d-49b3-80d0-1f4ee58b3536",
@@ -1208,7 +1208,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/48a1eced-759d-49b3-80d0-1f4ee58b3536",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/48a1eced-759d-49b3-80d0-1f4ee58b3536/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "49e639e5-a630-4fb4-8a0a-2b17dd25ed32",
@@ -1226,7 +1226,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/49e639e5-a630-4fb4-8a0a-2b17dd25ed32",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/49e639e5-a630-4fb4-8a0a-2b17dd25ed32/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "4a1d27ef-8c90-455d-9e33-d3cc8b0e3844",
@@ -1244,7 +1244,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/4a1d27ef-8c90-455d-9e33-d3cc8b0e3844",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/4a1d27ef-8c90-455d-9e33-d3cc8b0e3844/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "4aa13e99-a214-49ce-8895-1d45411bbe68",
@@ -1262,7 +1262,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/4aa13e99-a214-49ce-8895-1d45411bbe68",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/4aa13e99-a214-49ce-8895-1d45411bbe68/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "4c2d0814-e907-4b23-a041-aa9164e8a6fb",
@@ -1280,7 +1280,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/4c2d0814-e907-4b23-a041-aa9164e8a6fb",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/4c2d0814-e907-4b23-a041-aa9164e8a6fb/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "4da51c19-d13b-454b-acdd-715b487d0329",
@@ -1298,7 +1298,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/4da51c19-d13b-454b-acdd-715b487d0329",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/4da51c19-d13b-454b-acdd-715b487d0329/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "4df040ae-a757-4d83-937b-a7d19ee4ee22",
@@ -1316,7 +1316,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/4df040ae-a757-4d83-937b-a7d19ee4ee22",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/4df040ae-a757-4d83-937b-a7d19ee4ee22/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "4fa5730e-7982-4059-8c51-b5ca1fb1f4ef",
@@ -1334,7 +1334,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/4fa5730e-7982-4059-8c51-b5ca1fb1f4ef",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/4fa5730e-7982-4059-8c51-b5ca1fb1f4ef/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "4fae93c1-d825-4227-ad19-afffca50164c",
@@ -1352,7 +1352,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/4fae93c1-d825-4227-ad19-afffca50164c",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/4fae93c1-d825-4227-ad19-afffca50164c/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "504185d3-26f7-4876-a5f2-75cff91c0b66",
@@ -1370,7 +1370,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/504185d3-26f7-4876-a5f2-75cff91c0b66",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/504185d3-26f7-4876-a5f2-75cff91c0b66/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "50db3f07-85f8-4765-8255-49ecd94acff0",
@@ -1388,7 +1388,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/50db3f07-85f8-4765-8255-49ecd94acff0",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/50db3f07-85f8-4765-8255-49ecd94acff0/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "51171dde-69ed-4dc8-b588-9e740c31ab24",
@@ -1406,7 +1406,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/51171dde-69ed-4dc8-b588-9e740c31ab24",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/51171dde-69ed-4dc8-b588-9e740c31ab24/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "512aa59c-ce4b-4193-9556-85e6ae65ae07",
@@ -1424,7 +1424,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/512aa59c-ce4b-4193-9556-85e6ae65ae07",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/512aa59c-ce4b-4193-9556-85e6ae65ae07/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "514ecd58-6f50-4502-aa45-e7b8416851f1",
@@ -1442,7 +1442,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/514ecd58-6f50-4502-aa45-e7b8416851f1",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/514ecd58-6f50-4502-aa45-e7b8416851f1/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "5305d336-86ac-4954-be09-e0aec48b63e9",
@@ -1460,7 +1460,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/5305d336-86ac-4954-be09-e0aec48b63e9",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/5305d336-86ac-4954-be09-e0aec48b63e9/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "54d809b6-baa7-4b40-a8f7-f576dc2c48f0",
@@ -1478,7 +1478,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/54d809b6-baa7-4b40-a8f7-f576dc2c48f0",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/54d809b6-baa7-4b40-a8f7-f576dc2c48f0/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "54fd0c8f-3526-4462-ad07-953c7d8ffa1c",
@@ -1496,7 +1496,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/54fd0c8f-3526-4462-ad07-953c7d8ffa1c",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/54fd0c8f-3526-4462-ad07-953c7d8ffa1c/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "56272eed-d7ba-426c-a1e2-35a3b10c662a",
@@ -1514,7 +1514,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/56272eed-d7ba-426c-a1e2-35a3b10c662a",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/56272eed-d7ba-426c-a1e2-35a3b10c662a/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "573aa0a3-bc60-4bc4-8a98-be0076049796",
@@ -1532,7 +1532,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/573aa0a3-bc60-4bc4-8a98-be0076049796",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/573aa0a3-bc60-4bc4-8a98-be0076049796/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "581319c5-b8ad-46b2-b2b1-bcea1137bf26",
@@ -1550,7 +1550,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/581319c5-b8ad-46b2-b2b1-bcea1137bf26",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/581319c5-b8ad-46b2-b2b1-bcea1137bf26/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "58539d2f-51bb-40e3-a3c5-e2f9e01412a4",
@@ -1568,7 +1568,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/58539d2f-51bb-40e3-a3c5-e2f9e01412a4",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/58539d2f-51bb-40e3-a3c5-e2f9e01412a4/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "585e14e1-60c3-4dfe-b7bb-452cf3c72a17",
@@ -1586,7 +1586,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/585e14e1-60c3-4dfe-b7bb-452cf3c72a17",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/585e14e1-60c3-4dfe-b7bb-452cf3c72a17/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "598f9186-914a-473e-81f3-ec5985fda389",
@@ -1604,7 +1604,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/598f9186-914a-473e-81f3-ec5985fda389",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/598f9186-914a-473e-81f3-ec5985fda389/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "5a3836ae-ef6f-4030-aabb-e88e69359322",
@@ -1622,7 +1622,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/5a3836ae-ef6f-4030-aabb-e88e69359322",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/5a3836ae-ef6f-4030-aabb-e88e69359322/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "5b37ad0a-2d6c-4389-bd08-402e87a608e2",
@@ -1640,7 +1640,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/5b37ad0a-2d6c-4389-bd08-402e87a608e2",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/5b37ad0a-2d6c-4389-bd08-402e87a608e2/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "5b5ee116-d13b-4b0b-bdbf-3c856ee02efe",
@@ -1658,7 +1658,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/5b5ee116-d13b-4b0b-bdbf-3c856ee02efe",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/5b5ee116-d13b-4b0b-bdbf-3c856ee02efe/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "5cbb38eb-f3fe-48e2-acdb-d5740d54aaf1",
@@ -1676,7 +1676,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/5cbb38eb-f3fe-48e2-acdb-d5740d54aaf1",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/5cbb38eb-f3fe-48e2-acdb-d5740d54aaf1/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "5ccfd678-fbd5-4acb-a8f2-a8fcfe538990",
@@ -1694,7 +1694,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/5ccfd678-fbd5-4acb-a8f2-a8fcfe538990",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/5ccfd678-fbd5-4acb-a8f2-a8fcfe538990/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "5d517856-a25b-4b82-9741-06b3fe932173",
@@ -1712,7 +1712,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/5d517856-a25b-4b82-9741-06b3fe932173",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/5d517856-a25b-4b82-9741-06b3fe932173/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "5e2b183e-33e4-4eac-a1cd-b8ee8e8f5751",
@@ -1730,7 +1730,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/5e2b183e-33e4-4eac-a1cd-b8ee8e8f5751",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/5e2b183e-33e4-4eac-a1cd-b8ee8e8f5751/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "5e6a4c60-386d-4458-9146-7ce967ab8e18",
@@ -1748,7 +1748,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/5e6a4c60-386d-4458-9146-7ce967ab8e18",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/5e6a4c60-386d-4458-9146-7ce967ab8e18/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "5f3af530-2ea8-4a94-afe0-695b888385f6",
@@ -1766,7 +1766,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/5f3af530-2ea8-4a94-afe0-695b888385f6",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/5f3af530-2ea8-4a94-afe0-695b888385f6/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "5f3fb8dc-2151-4622-af9e-db5560caae80",
@@ -1784,25 +1784,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/5f3fb8dc-2151-4622-af9e-db5560caae80",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/5f3fb8dc-2151-4622-af9e-db5560caae80/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
-    },
-    {
-      "id": "5f6fd705-c9f0-4e78-8614-96afd56fe804",
-      "title": "助理设计SE（集团-品牌与设计）",
-      "company": "九号公司",
-      "location": "上海市, 中国",
-      "remote": "unspecified",
-      "department": "设计SE组",
-      "employment_type": "FULL_TIME",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-09-02",
-      "updated": "2026-10-15",
-      "deadline": "",
-      "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/5f6fd705-c9f0-4e78-8614-96afd56fe804",
-      "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/5f6fd705-c9f0-4e78-8614-96afd56fe804/apply?pure=1",
-      "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "602d5a1c-fe1e-4bda-9372-91fcb369cb64",
@@ -1820,7 +1802,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/602d5a1c-fe1e-4bda-9372-91fcb369cb64",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/602d5a1c-fe1e-4bda-9372-91fcb369cb64/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "60d47c71-7dab-422c-b00b-e7057763ecfe",
@@ -1838,7 +1820,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/60d47c71-7dab-422c-b00b-e7057763ecfe",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/60d47c71-7dab-422c-b00b-e7057763ecfe/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "616c626e-9a7a-480f-bf7e-73bddee8c09f",
@@ -1856,7 +1838,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/616c626e-9a7a-480f-bf7e-73bddee8c09f",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/616c626e-9a7a-480f-bf7e-73bddee8c09f/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "6417736b-eed1-42b4-9f3c-20e114b1b54f",
@@ -1874,7 +1856,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/6417736b-eed1-42b4-9f3c-20e114b1b54f",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/6417736b-eed1-42b4-9f3c-20e114b1b54f/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "665566d1-d0e8-487b-85ec-f22c6697c602",
@@ -1892,7 +1874,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/665566d1-d0e8-487b-85ec-f22c6697c602",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/665566d1-d0e8-487b-85ec-f22c6697c602/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "66655b93-dc9f-4638-82c2-0deba23ea387",
@@ -1910,7 +1892,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/66655b93-dc9f-4638-82c2-0deba23ea387",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/66655b93-dc9f-4638-82c2-0deba23ea387/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "668183ca-bdbf-424c-84e3-003b9c398141",
@@ -1928,7 +1910,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/668183ca-bdbf-424c-84e3-003b9c398141",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/668183ca-bdbf-424c-84e3-003b9c398141/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "67b9f6cb-27af-43a1-98a4-e31a627ae36e",
@@ -1946,7 +1928,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/67b9f6cb-27af-43a1-98a4-e31a627ae36e",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/67b9f6cb-27af-43a1-98a4-e31a627ae36e/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "6813065d-a8ac-4380-87eb-05d93337edaf",
@@ -1964,7 +1946,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/6813065d-a8ac-4380-87eb-05d93337edaf",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/6813065d-a8ac-4380-87eb-05d93337edaf/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "68ce9020-54b6-4b7f-a068-95ff1264abad",
@@ -1982,7 +1964,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/68ce9020-54b6-4b7f-a068-95ff1264abad",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/68ce9020-54b6-4b7f-a068-95ff1264abad/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "6a9a6813-bccd-481b-908c-e1382e8e7504",
@@ -2000,7 +1982,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/6a9a6813-bccd-481b-908c-e1382e8e7504",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/6a9a6813-bccd-481b-908c-e1382e8e7504/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "6b8f86f4-43ff-4936-84b3-8ac965a09541",
@@ -2018,7 +2000,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/6b8f86f4-43ff-4936-84b3-8ac965a09541",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/6b8f86f4-43ff-4936-84b3-8ac965a09541/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "6ce6997a-42ee-4c7e-a7a3-6a465e0d9091",
@@ -2036,7 +2018,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/6ce6997a-42ee-4c7e-a7a3-6a465e0d9091",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/6ce6997a-42ee-4c7e-a7a3-6a465e0d9091/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "6cf55f65-40a1-4329-acf3-c463ef5909de",
@@ -2054,7 +2036,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/6cf55f65-40a1-4329-acf3-c463ef5909de",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/6cf55f65-40a1-4329-acf3-c463ef5909de/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "6d06336d-9a3c-4f04-b6a2-4833a1745260",
@@ -2072,7 +2054,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/6d06336d-9a3c-4f04-b6a2-4833a1745260",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/6d06336d-9a3c-4f04-b6a2-4833a1745260/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "6dad0401-94b0-42f9-afc0-c81c5746f190",
@@ -2090,7 +2072,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/6dad0401-94b0-42f9-afc0-c81c5746f190",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/6dad0401-94b0-42f9-afc0-c81c5746f190/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "6ec04c49-ba11-4287-8a04-8175dfccc061",
@@ -2108,7 +2090,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/6ec04c49-ba11-4287-8a04-8175dfccc061",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/6ec04c49-ba11-4287-8a04-8175dfccc061/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "6ee93a7c-2aca-416c-8933-ba159b875986",
@@ -2126,7 +2108,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/6ee93a7c-2aca-416c-8933-ba159b875986",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/6ee93a7c-2aca-416c-8933-ba159b875986/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "6fdd7752-47c8-4dd4-ac8e-3bbb8cc9167c",
@@ -2144,7 +2126,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/6fdd7752-47c8-4dd4-ac8e-3bbb8cc9167c",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/6fdd7752-47c8-4dd4-ac8e-3bbb8cc9167c/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "705ed624-98ec-48e0-8d23-172966c149f4",
@@ -2162,7 +2144,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/705ed624-98ec-48e0-8d23-172966c149f4",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/705ed624-98ec-48e0-8d23-172966c149f4/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "70d07693-3f47-44ca-85c6-d6db82960710",
@@ -2180,7 +2162,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/70d07693-3f47-44ca-85c6-d6db82960710",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/70d07693-3f47-44ca-85c6-d6db82960710/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "7157d4eb-f653-40b8-9acf-cbb54818385f",
@@ -2198,7 +2180,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/7157d4eb-f653-40b8-9acf-cbb54818385f",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/7157d4eb-f653-40b8-9acf-cbb54818385f/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "7228b2e8-4d0b-4815-9963-b6094df621f3",
@@ -2216,7 +2198,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/7228b2e8-4d0b-4815-9963-b6094df621f3",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/7228b2e8-4d0b-4815-9963-b6094df621f3/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "7251cd3b-381b-4bd7-8b97-3c46bade1d07",
@@ -2234,7 +2216,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/7251cd3b-381b-4bd7-8b97-3c46bade1d07",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/7251cd3b-381b-4bd7-8b97-3c46bade1d07/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "73a2675b-ca89-46c5-9eef-6566591c454d",
@@ -2252,7 +2234,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/73a2675b-ca89-46c5-9eef-6566591c454d",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/73a2675b-ca89-46c5-9eef-6566591c454d/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "73d40fcc-d276-4257-a0d2-abc658a58760",
@@ -2270,7 +2252,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/73d40fcc-d276-4257-a0d2-abc658a58760",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/73d40fcc-d276-4257-a0d2-abc658a58760/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "75a72e75-d018-4322-9255-877a8a90ef10",
@@ -2288,7 +2270,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/75a72e75-d018-4322-9255-877a8a90ef10",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/75a72e75-d018-4322-9255-877a8a90ef10/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "76763fba-0fcb-483e-965a-9880ff2346b3",
@@ -2306,7 +2288,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/76763fba-0fcb-483e-965a-9880ff2346b3",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/76763fba-0fcb-483e-965a-9880ff2346b3/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "76d4aa0e-b114-4e7d-bffd-c75b994a523b",
@@ -2324,7 +2306,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/76d4aa0e-b114-4e7d-bffd-c75b994a523b",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/76d4aa0e-b114-4e7d-bffd-c75b994a523b/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "76d9e969-3585-4d99-b322-971956bf97fb",
@@ -2342,7 +2324,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/76d9e969-3585-4d99-b322-971956bf97fb",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/76d9e969-3585-4d99-b322-971956bf97fb/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "7716bf02-04c9-4f8a-9f02-819f5ce6cf14",
@@ -2360,7 +2342,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/7716bf02-04c9-4f8a-9f02-819f5ce6cf14",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/7716bf02-04c9-4f8a-9f02-819f5ce6cf14/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "7ac1ad9e-7280-4257-bfc8-2e4c8afc2245",
@@ -2378,7 +2360,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/7ac1ad9e-7280-4257-bfc8-2e4c8afc2245",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/7ac1ad9e-7280-4257-bfc8-2e4c8afc2245/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "7cbe283a-f954-4beb-a063-61121b7e0fa9",
@@ -2396,7 +2378,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/7cbe283a-f954-4beb-a063-61121b7e0fa9",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/7cbe283a-f954-4beb-a063-61121b7e0fa9/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "7cd0b20d-8a56-429b-aec3-15aceb242a68",
@@ -2414,7 +2396,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/7cd0b20d-8a56-429b-aec3-15aceb242a68",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/7cd0b20d-8a56-429b-aec3-15aceb242a68/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "7d3497c8-1367-4f42-a628-c00bc18fc44a",
@@ -2432,7 +2414,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/7d3497c8-1367-4f42-a628-c00bc18fc44a",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/7d3497c8-1367-4f42-a628-c00bc18fc44a/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "7d849732-a256-447a-9346-644bfc7caaf2",
@@ -2450,7 +2432,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/7d849732-a256-447a-9346-644bfc7caaf2",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/7d849732-a256-447a-9346-644bfc7caaf2/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "7ecb8e3e-7465-472e-be55-be3bfd94a773",
@@ -2468,7 +2450,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/7ecb8e3e-7465-472e-be55-be3bfd94a773",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/7ecb8e3e-7465-472e-be55-be3bfd94a773/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "7eddfb13-1490-460d-8316-64a141fc634f",
@@ -2486,7 +2468,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/7eddfb13-1490-460d-8316-64a141fc634f",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/7eddfb13-1490-460d-8316-64a141fc634f/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "7f45eac9-ec71-4eb5-84b9-7fa8582ff213",
@@ -2504,7 +2486,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/7f45eac9-ec71-4eb5-84b9-7fa8582ff213",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/7f45eac9-ec71-4eb5-84b9-7fa8582ff213/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "804c6706-0f21-47f6-bf5b-ea24cf102867",
@@ -2522,7 +2504,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/804c6706-0f21-47f6-bf5b-ea24cf102867",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/804c6706-0f21-47f6-bf5b-ea24cf102867/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "80b00a0d-7e9b-42fd-985a-3da35f01ff79",
@@ -2540,7 +2522,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/80b00a0d-7e9b-42fd-985a-3da35f01ff79",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/80b00a0d-7e9b-42fd-985a-3da35f01ff79/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "81392af2-cb30-4d00-9119-9760087a5098",
@@ -2558,7 +2540,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/81392af2-cb30-4d00-9119-9760087a5098",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/81392af2-cb30-4d00-9119-9760087a5098/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "86f09a39-fd56-470b-adf7-c58cd3ce52f9",
@@ -2576,7 +2558,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/86f09a39-fd56-470b-adf7-c58cd3ce52f9",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/86f09a39-fd56-470b-adf7-c58cd3ce52f9/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "875354bb-6a97-4291-a142-44aa1a8f95b9",
@@ -2594,7 +2576,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/875354bb-6a97-4291-a142-44aa1a8f95b9",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/875354bb-6a97-4291-a142-44aa1a8f95b9/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "878b1479-d0e6-4c57-bebf-c8ee61192898",
@@ -2612,7 +2594,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/878b1479-d0e6-4c57-bebf-c8ee61192898",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/878b1479-d0e6-4c57-bebf-c8ee61192898/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "87d27b2e-8371-4697-879e-4f7ef433552b",
@@ -2630,7 +2612,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/87d27b2e-8371-4697-879e-4f7ef433552b",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/87d27b2e-8371-4697-879e-4f7ef433552b/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "88ea8853-b83d-4665-ad18-a6b34b8550a6",
@@ -2648,7 +2630,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/88ea8853-b83d-4665-ad18-a6b34b8550a6",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/88ea8853-b83d-4665-ad18-a6b34b8550a6/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "8b65d77a-753a-4627-92ee-1b8e4d0d8a50",
@@ -2666,7 +2648,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/8b65d77a-753a-4627-92ee-1b8e4d0d8a50",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/8b65d77a-753a-4627-92ee-1b8e4d0d8a50/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "8c659d45-805d-441c-8e4a-7189e1649dba",
@@ -2684,7 +2666,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/8c659d45-805d-441c-8e4a-7189e1649dba",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/8c659d45-805d-441c-8e4a-7189e1649dba/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "8d1d2a63-75a4-4378-a7df-1f2788ebdbac",
@@ -2702,7 +2684,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/8d1d2a63-75a4-4378-a7df-1f2788ebdbac",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/8d1d2a63-75a4-4378-a7df-1f2788ebdbac/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "8e3a6430-2d71-4a48-a6cc-b9ceb0ff9ec5",
@@ -2720,7 +2702,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/8e3a6430-2d71-4a48-a6cc-b9ceb0ff9ec5",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/8e3a6430-2d71-4a48-a6cc-b9ceb0ff9ec5/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "8ec4be77-772b-4118-9207-31fb7c02049d",
@@ -2738,7 +2720,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/8ec4be77-772b-4118-9207-31fb7c02049d",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/8ec4be77-772b-4118-9207-31fb7c02049d/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "9205351f-9734-4ee6-944c-d980fe4f147e",
@@ -2756,7 +2738,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/9205351f-9734-4ee6-944c-d980fe4f147e",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/9205351f-9734-4ee6-944c-d980fe4f147e/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "9222aa32-c19d-479d-8973-2b68cb7b36f6",
@@ -2774,7 +2756,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/9222aa32-c19d-479d-8973-2b68cb7b36f6",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/9222aa32-c19d-479d-8973-2b68cb7b36f6/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "92ef3acf-2583-45a7-b8e3-97e4d6a2e102",
@@ -2792,7 +2774,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/92ef3acf-2583-45a7-b8e3-97e4d6a2e102",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/92ef3acf-2583-45a7-b8e3-97e4d6a2e102/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "970f045f-cb0b-4aad-9b0b-05f2c08df661",
@@ -2810,7 +2792,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/970f045f-cb0b-4aad-9b0b-05f2c08df661",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/970f045f-cb0b-4aad-9b0b-05f2c08df661/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "97633c04-bd00-418f-b0d0-d8fe93cd07e7",
@@ -2828,7 +2810,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/97633c04-bd00-418f-b0d0-d8fe93cd07e7",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/97633c04-bd00-418f-b0d0-d8fe93cd07e7/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "98681471-cbb6-4b14-b390-61dec0dad4a2",
@@ -2846,7 +2828,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/98681471-cbb6-4b14-b390-61dec0dad4a2",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/98681471-cbb6-4b14-b390-61dec0dad4a2/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "98ec7ca4-639e-410f-aff7-b9a9504722fb",
@@ -2864,7 +2846,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/98ec7ca4-639e-410f-aff7-b9a9504722fb",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/98ec7ca4-639e-410f-aff7-b9a9504722fb/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "99800d42-5e8b-49ad-a42c-3b05d5318f9b",
@@ -2882,7 +2864,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/99800d42-5e8b-49ad-a42c-3b05d5318f9b",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/99800d42-5e8b-49ad-a42c-3b05d5318f9b/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "9af68429-d5c6-4e16-adc3-2607fb8a1965",
@@ -2900,7 +2882,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/9af68429-d5c6-4e16-adc3-2607fb8a1965",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/9af68429-d5c6-4e16-adc3-2607fb8a1965/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "9c006246-b7d4-4f6d-bfcc-29d85906df53",
@@ -2918,7 +2900,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/9c006246-b7d4-4f6d-bfcc-29d85906df53",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/9c006246-b7d4-4f6d-bfcc-29d85906df53/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "9c5d9717-639a-4f49-95ec-f53adc87970d",
@@ -2936,7 +2918,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/9c5d9717-639a-4f49-95ec-f53adc87970d",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/9c5d9717-639a-4f49-95ec-f53adc87970d/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "9c5dd8b2-130e-4041-9f69-3eb010919764",
@@ -2954,7 +2936,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/9c5dd8b2-130e-4041-9f69-3eb010919764",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/9c5dd8b2-130e-4041-9f69-3eb010919764/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "9f29d7c9-8543-4997-9166-01a3e81dcd0d",
@@ -2972,7 +2954,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/9f29d7c9-8543-4997-9166-01a3e81dcd0d",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/9f29d7c9-8543-4997-9166-01a3e81dcd0d/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "9fee1614-8633-49ab-a5ec-b66ae6c7a8db",
@@ -2990,7 +2972,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/9fee1614-8633-49ab-a5ec-b66ae6c7a8db",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/9fee1614-8633-49ab-a5ec-b66ae6c7a8db/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "a03c1c10-52e6-4502-aa04-63ab7c578406",
@@ -3008,7 +2990,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/a03c1c10-52e6-4502-aa04-63ab7c578406",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/a03c1c10-52e6-4502-aa04-63ab7c578406/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "a311fbde-70bc-48ec-a6b8-46047db51e00",
@@ -3026,7 +3008,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/a311fbde-70bc-48ec-a6b8-46047db51e00",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/a311fbde-70bc-48ec-a6b8-46047db51e00/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "a3799a50-20e1-4262-bdf4-29a04fcadb54",
@@ -3044,7 +3026,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/a3799a50-20e1-4262-bdf4-29a04fcadb54",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/a3799a50-20e1-4262-bdf4-29a04fcadb54/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "a44f74b9-32f2-41ae-a98a-26176590619a",
@@ -3062,7 +3044,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/a44f74b9-32f2-41ae-a98a-26176590619a",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/a44f74b9-32f2-41ae-a98a-26176590619a/apply?pure=1",
       "first_seen": "2026-11-20T15:23:49Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "a5c1b3cd-7a24-4008-90dc-0db9a1df9e2f",
@@ -3080,7 +3062,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/a5c1b3cd-7a24-4008-90dc-0db9a1df9e2f",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/a5c1b3cd-7a24-4008-90dc-0db9a1df9e2f/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "a65561f7-ea5b-4d29-bd19-d5e7e74266e9",
@@ -3098,7 +3080,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/a65561f7-ea5b-4d29-bd19-d5e7e74266e9",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/a65561f7-ea5b-4d29-bd19-d5e7e74266e9/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "a6af2a71-0564-4be9-94f9-0fb79b0557d5",
@@ -3116,7 +3098,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/a6af2a71-0564-4be9-94f9-0fb79b0557d5",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/a6af2a71-0564-4be9-94f9-0fb79b0557d5/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "a6b917e3-8e51-473d-9ccb-14dee8f57024",
@@ -3134,7 +3116,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/a6b917e3-8e51-473d-9ccb-14dee8f57024",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/a6b917e3-8e51-473d-9ccb-14dee8f57024/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "a8901f2d-8ee7-4c7f-8023-b8527e7a1630",
@@ -3152,7 +3134,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/a8901f2d-8ee7-4c7f-8023-b8527e7a1630",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/a8901f2d-8ee7-4c7f-8023-b8527e7a1630/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "a8c4b590-a771-4705-a635-7515acf9fd06",
@@ -3170,7 +3152,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/a8c4b590-a771-4705-a635-7515acf9fd06",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/a8c4b590-a771-4705-a635-7515acf9fd06/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "a8c756d7-c5c4-4520-8cdc-f68556c35f45",
@@ -3188,7 +3170,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/a8c756d7-c5c4-4520-8cdc-f68556c35f45",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/a8c756d7-c5c4-4520-8cdc-f68556c35f45/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "a95a6fc7-9a71-4ddd-8a41-19f17e84c99b",
@@ -3206,7 +3188,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/a95a6fc7-9a71-4ddd-8a41-19f17e84c99b",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/a95a6fc7-9a71-4ddd-8a41-19f17e84c99b/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "a9950018-403d-4d27-8d16-300e79c930e0",
@@ -3224,7 +3206,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/a9950018-403d-4d27-8d16-300e79c930e0",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/a9950018-403d-4d27-8d16-300e79c930e0/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "abc5af2b-ee65-49d1-9128-89d80188b02d",
@@ -3242,7 +3224,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/abc5af2b-ee65-49d1-9128-89d80188b02d",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/abc5af2b-ee65-49d1-9128-89d80188b02d/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "ad927d7a-00e0-40d9-8e18-3c5c24740f94",
@@ -3260,7 +3242,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/ad927d7a-00e0-40d9-8e18-3c5c24740f94",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/ad927d7a-00e0-40d9-8e18-3c5c24740f94/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "ae8d71b0-48f2-488d-a549-d13f560d88b1",
@@ -3278,7 +3260,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/ae8d71b0-48f2-488d-a549-d13f560d88b1",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/ae8d71b0-48f2-488d-a549-d13f560d88b1/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "aea537a4-a98d-49a2-8ee9-46a65445db8d",
@@ -3296,7 +3278,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/aea537a4-a98d-49a2-8ee9-46a65445db8d",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/aea537a4-a98d-49a2-8ee9-46a65445db8d/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "b2313917-49a9-4ad1-8800-a4d8bd5ac0c1",
@@ -3314,7 +3296,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/b2313917-49a9-4ad1-8800-a4d8bd5ac0c1",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/b2313917-49a9-4ad1-8800-a4d8bd5ac0c1/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "b44c6557-ae33-4a7a-8e5f-0b7a7beeb577",
@@ -3332,7 +3314,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/b44c6557-ae33-4a7a-8e5f-0b7a7beeb577",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/b44c6557-ae33-4a7a-8e5f-0b7a7beeb577/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "b55deff7-ed94-4477-bae2-119f6253c096",
@@ -3350,7 +3332,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/b55deff7-ed94-4477-bae2-119f6253c096",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/b55deff7-ed94-4477-bae2-119f6253c096/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "b656dbad-eecb-494b-8336-58b42fab23b0",
@@ -3368,7 +3350,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/b656dbad-eecb-494b-8336-58b42fab23b0",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/b656dbad-eecb-494b-8336-58b42fab23b0/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "b733aec9-5e39-4041-a02f-ce9c3ee78e65",
@@ -3386,7 +3368,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/b733aec9-5e39-4041-a02f-ce9c3ee78e65",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/b733aec9-5e39-4041-a02f-ce9c3ee78e65/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "b89fc6f1-fe1f-4684-a57d-59c6946e70f8",
@@ -3404,7 +3386,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/b89fc6f1-fe1f-4684-a57d-59c6946e70f8",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/b89fc6f1-fe1f-4684-a57d-59c6946e70f8/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "b92d9f9d-9ff7-4d56-afc9-34363114c89c",
@@ -3422,7 +3404,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/b92d9f9d-9ff7-4d56-afc9-34363114c89c",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/b92d9f9d-9ff7-4d56-afc9-34363114c89c/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "ba98c5d9-f7e4-44c9-a650-483ca62bb60c",
@@ -3440,7 +3422,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/ba98c5d9-f7e4-44c9-a650-483ca62bb60c",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/ba98c5d9-f7e4-44c9-a650-483ca62bb60c/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "baaa73f3-bd58-4f7e-8f4b-56f31cd14bdf",
@@ -3458,7 +3440,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/baaa73f3-bd58-4f7e-8f4b-56f31cd14bdf",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/baaa73f3-bd58-4f7e-8f4b-56f31cd14bdf/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "bac990dc-88a7-47b7-985a-c08a832056e1",
@@ -3476,7 +3458,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/bac990dc-88a7-47b7-985a-c08a832056e1",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/bac990dc-88a7-47b7-985a-c08a832056e1/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "bcfc3bd9-8d15-43bd-bc07-60870bac572f",
@@ -3494,7 +3476,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/bcfc3bd9-8d15-43bd-bc07-60870bac572f",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/bcfc3bd9-8d15-43bd-bc07-60870bac572f/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "bde80b38-fc99-450b-9147-1e7c9acc4afc",
@@ -3512,7 +3494,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/bde80b38-fc99-450b-9147-1e7c9acc4afc",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/bde80b38-fc99-450b-9147-1e7c9acc4afc/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "be99f755-48c0-45c8-9154-c4bbb0ee61aa",
@@ -3530,7 +3512,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/be99f755-48c0-45c8-9154-c4bbb0ee61aa",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/be99f755-48c0-45c8-9154-c4bbb0ee61aa/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "c24637c8-5a20-4678-9d1b-b7af0c35b72e",
@@ -3548,7 +3530,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/c24637c8-5a20-4678-9d1b-b7af0c35b72e",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/c24637c8-5a20-4678-9d1b-b7af0c35b72e/apply?pure=1",
       "first_seen": "2026-11-20T15:23:49Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "c3373b23-58c1-4fa1-a781-9aca2d3f0b0f",
@@ -3566,7 +3548,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/c3373b23-58c1-4fa1-a781-9aca2d3f0b0f",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/c3373b23-58c1-4fa1-a781-9aca2d3f0b0f/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "c40be39e-d73b-44fc-8bda-ae58020af4c2",
@@ -3584,7 +3566,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/c40be39e-d73b-44fc-8bda-ae58020af4c2",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/c40be39e-d73b-44fc-8bda-ae58020af4c2/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "c524e03f-16e1-4aa9-a037-8c42e6da1b38",
@@ -3602,7 +3584,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/c524e03f-16e1-4aa9-a037-8c42e6da1b38",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/c524e03f-16e1-4aa9-a037-8c42e6da1b38/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "c5ac9092-9e05-4977-aac5-529eed2f898e",
@@ -3620,7 +3602,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/c5ac9092-9e05-4977-aac5-529eed2f898e",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/c5ac9092-9e05-4977-aac5-529eed2f898e/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "c6c7dc5d-8b8d-4122-947f-c50ae26cc13e",
@@ -3638,7 +3620,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/c6c7dc5d-8b8d-4122-947f-c50ae26cc13e",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/c6c7dc5d-8b8d-4122-947f-c50ae26cc13e/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "c7cddd4f-aa94-4913-9422-6d205d5e36d0",
@@ -3656,7 +3638,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/c7cddd4f-aa94-4913-9422-6d205d5e36d0",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/c7cddd4f-aa94-4913-9422-6d205d5e36d0/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "c8ceeb70-5b7f-40d6-a2c2-7f3a59ef3f6c",
@@ -3674,7 +3656,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/c8ceeb70-5b7f-40d6-a2c2-7f3a59ef3f6c",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/c8ceeb70-5b7f-40d6-a2c2-7f3a59ef3f6c/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "c9d3ed62-aeb0-4b8a-8005-93833152d7ae",
@@ -3692,7 +3674,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/c9d3ed62-aeb0-4b8a-8005-93833152d7ae",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/c9d3ed62-aeb0-4b8a-8005-93833152d7ae/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "cb1de6ab-72c8-4f8c-89dd-db8ec38e9012",
@@ -3710,7 +3692,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/cb1de6ab-72c8-4f8c-89dd-db8ec38e9012",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/cb1de6ab-72c8-4f8c-89dd-db8ec38e9012/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "cd29dc37-9af3-45d6-adb4-25dea65de46b",
@@ -3728,7 +3710,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/cd29dc37-9af3-45d6-adb4-25dea65de46b",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/cd29dc37-9af3-45d6-adb4-25dea65de46b/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "cd638f69-1baa-47f2-9623-da31a071a2e7",
@@ -3746,7 +3728,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/cd638f69-1baa-47f2-9623-da31a071a2e7",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/cd638f69-1baa-47f2-9623-da31a071a2e7/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "cfdca0da-7fc3-4c70-9c18-c9364e47234d",
@@ -3764,7 +3746,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/cfdca0da-7fc3-4c70-9c18-c9364e47234d",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/cfdca0da-7fc3-4c70-9c18-c9364e47234d/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "d0beb2cf-926b-424e-888a-0f1ff8cbfe87",
@@ -3782,7 +3764,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/d0beb2cf-926b-424e-888a-0f1ff8cbfe87",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/d0beb2cf-926b-424e-888a-0f1ff8cbfe87/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "d149425b-058a-487f-ba1f-41c89ce12ffc",
@@ -3800,7 +3782,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/d149425b-058a-487f-ba1f-41c89ce12ffc",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/d149425b-058a-487f-ba1f-41c89ce12ffc/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "d22bc877-e84c-4a30-ac99-d3b1917b7997",
@@ -3818,7 +3800,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/d22bc877-e84c-4a30-ac99-d3b1917b7997",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/d22bc877-e84c-4a30-ac99-d3b1917b7997/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "d3404a6c-c6a1-4903-a3d3-b3c71e96df75",
@@ -3836,7 +3818,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/d3404a6c-c6a1-4903-a3d3-b3c71e96df75",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/d3404a6c-c6a1-4903-a3d3-b3c71e96df75/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "d4845883-92d7-42e7-adfd-318cb03adb73",
@@ -3854,7 +3836,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/d4845883-92d7-42e7-adfd-318cb03adb73",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/d4845883-92d7-42e7-adfd-318cb03adb73/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "d65d3abe-8278-4fc9-92c9-f6db56c6b878",
@@ -3872,7 +3854,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/d65d3abe-8278-4fc9-92c9-f6db56c6b878",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/d65d3abe-8278-4fc9-92c9-f6db56c6b878/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "d7f269e0-2348-48f9-af38-9e55760438fe",
@@ -3890,7 +3872,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/d7f269e0-2348-48f9-af38-9e55760438fe",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/d7f269e0-2348-48f9-af38-9e55760438fe/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "d8b6f718-a66b-42f0-a87a-804eb9f8837c",
@@ -3908,7 +3890,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/d8b6f718-a66b-42f0-a87a-804eb9f8837c",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/d8b6f718-a66b-42f0-a87a-804eb9f8837c/apply?pure=1",
       "first_seen": "2026-11-20T15:23:49Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "da0e8446-e755-40ab-b848-c3b550ec4b9b",
@@ -3926,7 +3908,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/da0e8446-e755-40ab-b848-c3b550ec4b9b",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/da0e8446-e755-40ab-b848-c3b550ec4b9b/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "da67065d-228f-462d-a519-27b4bc5c88fc",
@@ -3944,7 +3926,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/da67065d-228f-462d-a519-27b4bc5c88fc",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/da67065d-228f-462d-a519-27b4bc5c88fc/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "dc386c78-b69d-4c3a-b568-3696d47ab534",
@@ -3962,7 +3944,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/dc386c78-b69d-4c3a-b568-3696d47ab534",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/dc386c78-b69d-4c3a-b568-3696d47ab534/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "dea4893b-22f4-427b-9e35-251603bcbb28",
@@ -3980,7 +3962,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/dea4893b-22f4-427b-9e35-251603bcbb28",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/dea4893b-22f4-427b-9e35-251603bcbb28/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "defb0a00-1bf5-4bee-8f94-39eef67a9692",
@@ -3998,7 +3980,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/defb0a00-1bf5-4bee-8f94-39eef67a9692",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/defb0a00-1bf5-4bee-8f94-39eef67a9692/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "df8ff67a-29b3-4c46-a020-04b181ff387e",
@@ -4016,7 +3998,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/df8ff67a-29b3-4c46-a020-04b181ff387e",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/df8ff67a-29b3-4c46-a020-04b181ff387e/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "dfe2236f-664e-4430-b381-7052997443ca",
@@ -4034,7 +4016,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/dfe2236f-664e-4430-b381-7052997443ca",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/dfe2236f-664e-4430-b381-7052997443ca/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "e03b972d-9a22-4b28-a451-8b59e978d775",
@@ -4052,7 +4034,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/e03b972d-9a22-4b28-a451-8b59e978d775",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/e03b972d-9a22-4b28-a451-8b59e978d775/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "e401ce8d-8262-4144-83a3-2202af361e85",
@@ -4070,7 +4052,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/e401ce8d-8262-4144-83a3-2202af361e85",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/e401ce8d-8262-4144-83a3-2202af361e85/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "e56dc33a-6362-493b-bb8a-42115d6ad336",
@@ -4088,7 +4070,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/e56dc33a-6362-493b-bb8a-42115d6ad336",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/e56dc33a-6362-493b-bb8a-42115d6ad336/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "e6e5827f-08a9-491c-ade6-0b07ce2b684c",
@@ -4106,7 +4088,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/e6e5827f-08a9-491c-ade6-0b07ce2b684c",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/e6e5827f-08a9-491c-ade6-0b07ce2b684c/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "e6fc70eb-92da-4d14-8e7a-d960f3400a7c",
@@ -4124,7 +4106,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/e6fc70eb-92da-4d14-8e7a-d960f3400a7c",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/e6fc70eb-92da-4d14-8e7a-d960f3400a7c/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "e9aa5e16-2e5b-4129-a3d1-825ff15af106",
@@ -4142,7 +4124,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/e9aa5e16-2e5b-4129-a3d1-825ff15af106",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/e9aa5e16-2e5b-4129-a3d1-825ff15af106/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "e9e27a40-8f74-4320-9831-ee2ec758df83",
@@ -4160,7 +4142,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/e9e27a40-8f74-4320-9831-ee2ec758df83",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/e9e27a40-8f74-4320-9831-ee2ec758df83/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "eb875531-af10-4460-bd21-60e94bc76183",
@@ -4178,7 +4160,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/eb875531-af10-4460-bd21-60e94bc76183",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/eb875531-af10-4460-bd21-60e94bc76183/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "ec1523f2-6576-490d-8cf0-0399659a4d82",
@@ -4196,7 +4178,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/ec1523f2-6576-490d-8cf0-0399659a4d82",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/ec1523f2-6576-490d-8cf0-0399659a4d82/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "ee369d0b-13fb-4654-99a5-fb6fc0c8c793",
@@ -4214,7 +4196,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/ee369d0b-13fb-4654-99a5-fb6fc0c8c793",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/ee369d0b-13fb-4654-99a5-fb6fc0c8c793/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "ee802bae-1447-425d-a762-dc7bba357cf4",
@@ -4232,7 +4214,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/ee802bae-1447-425d-a762-dc7bba357cf4",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/ee802bae-1447-425d-a762-dc7bba357cf4/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "eec072c7-1e81-44c5-87bc-237734be028e",
@@ -4250,7 +4232,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/eec072c7-1e81-44c5-87bc-237734be028e",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/eec072c7-1e81-44c5-87bc-237734be028e/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "eee09490-b0ef-432c-b076-fa7772c895c0",
@@ -4268,7 +4250,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/eee09490-b0ef-432c-b076-fa7772c895c0",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/eee09490-b0ef-432c-b076-fa7772c895c0/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "eee7f57c-60e5-468a-a294-f9d05dc9a13d",
@@ -4286,7 +4268,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/eee7f57c-60e5-468a-a294-f9d05dc9a13d",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/eee7f57c-60e5-468a-a294-f9d05dc9a13d/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "ef4ceeca-368e-48b2-9c10-1a9c6c216a23",
@@ -4304,7 +4286,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/ef4ceeca-368e-48b2-9c10-1a9c6c216a23",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/ef4ceeca-368e-48b2-9c10-1a9c6c216a23/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "f0463f20-30ee-4a85-945e-5c25fe5d561b",
@@ -4322,7 +4304,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/f0463f20-30ee-4a85-945e-5c25fe5d561b",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/f0463f20-30ee-4a85-945e-5c25fe5d561b/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "f063866c-5e43-4ee8-8323-5adc8d262881",
@@ -4340,7 +4322,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/f063866c-5e43-4ee8-8323-5adc8d262881",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/f063866c-5e43-4ee8-8323-5adc8d262881/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "f099090d-0076-40ff-9c21-3e14e97531d8",
@@ -4358,7 +4340,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/f099090d-0076-40ff-9c21-3e14e97531d8",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/f099090d-0076-40ff-9c21-3e14e97531d8/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "f2e0a487-266d-4d17-8358-8f3de0fc83ed",
@@ -4376,7 +4358,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/f2e0a487-266d-4d17-8358-8f3de0fc83ed",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/f2e0a487-266d-4d17-8358-8f3de0fc83ed/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "f377dc1a-2b40-41a7-861d-e497268c5824",
@@ -4394,25 +4376,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/f377dc1a-2b40-41a7-861d-e497268c5824",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/f377dc1a-2b40-41a7-861d-e497268c5824/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
-    },
-    {
-      "id": "f43f63a4-4694-4580-bf29-387022740bda",
-      "title": "助理品牌设计师（集团-品牌与设计）",
-      "company": "九号公司",
-      "location": "上海市, 中国",
-      "remote": "unspecified",
-      "department": "品牌视觉设计组",
-      "employment_type": "FULL_TIME",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-09-02",
-      "updated": "2026-10-15",
-      "deadline": "",
-      "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/f43f63a4-4694-4580-bf29-387022740bda",
-      "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/f43f63a4-4694-4580-bf29-387022740bda/apply?pure=1",
-      "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "f557ac0e-d2bf-4fa1-94e0-e9e79bcd0248",
@@ -4430,7 +4394,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/f557ac0e-d2bf-4fa1-94e0-e9e79bcd0248",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/f557ac0e-d2bf-4fa1-94e0-e9e79bcd0248/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "f6b56c53-b6b1-4892-b6ce-f63cc5385aa8",
@@ -4448,7 +4412,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/f6b56c53-b6b1-4892-b6ce-f63cc5385aa8",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/f6b56c53-b6b1-4892-b6ce-f63cc5385aa8/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "f797c224-5781-4d66-90d8-8ac49ca99bde",
@@ -4466,7 +4430,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/f797c224-5781-4d66-90d8-8ac49ca99bde",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/f797c224-5781-4d66-90d8-8ac49ca99bde/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "f79c0c21-5f1b-4c24-b733-4f918c687c03",
@@ -4484,7 +4448,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/f79c0c21-5f1b-4c24-b733-4f918c687c03",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/f79c0c21-5f1b-4c24-b733-4f918c687c03/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "f9400fc0-3102-421c-b2be-468eecc09600",
@@ -4502,7 +4466,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/f9400fc0-3102-421c-b2be-468eecc09600",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/f9400fc0-3102-421c-b2be-468eecc09600/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "fa325806-c583-4ba3-85ac-f788879d80ca",
@@ -4520,7 +4484,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/fa325806-c583-4ba3-85ac-f788879d80ca",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/fa325806-c583-4ba3-85ac-f788879d80ca/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "fae68699-5d6e-445f-9740-17f8c8d749fe",
@@ -4538,7 +4502,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/fae68699-5d6e-445f-9740-17f8c8d749fe",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/fae68699-5d6e-445f-9740-17f8c8d749fe/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "faf8e661-e5d9-45c1-b7a8-1e2d649450c3",
@@ -4556,7 +4520,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/faf8e661-e5d9-45c1-b7a8-1e2d649450c3",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/faf8e661-e5d9-45c1-b7a8-1e2d649450c3/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "fb06cd98-fc6f-4f7a-9064-d65f21c4a009",
@@ -4574,7 +4538,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/fb06cd98-fc6f-4f7a-9064-d65f21c4a009",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/fb06cd98-fc6f-4f7a-9064-d65f21c4a009/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "fd4235ed-8efc-430c-aa08-1f8a6875803e",
@@ -4592,7 +4556,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/fd4235ed-8efc-430c-aa08-1f8a6875803e",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/fd4235ed-8efc-430c-aa08-1f8a6875803e/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "fdbfb790-08ad-4a91-8d97-d5a8520b0c70",
@@ -4610,7 +4574,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/ninebot/45627#/job/fdbfb790-08ad-4a91-8d97-d5a8520b0c70",
       "apply_url": "https://app.mokahr.com/campus_apply/ninebot/45627#/job/fdbfb790-08ad-4a91-8d97-d5a8520b0c70/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     }
   ],
   "ats": "moka",

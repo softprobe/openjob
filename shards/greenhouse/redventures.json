@@ -1,8 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-22T14:31:17Z",
+  "checked_at": "2026-11-23T18:00:07Z",
   "failed_at": null,
-  "etag": "W/\"2a828f383d12004ed5f98dc564eb9e31\"",
+  "etag": "W/\"10b1c6596bd0742f55cbcc6127649e7c\"",
   "jobs": [
     {
       "id": "7144817",
@@ -20,7 +20,7 @@
       "source_url": "https://www.redventures.com/careers/positions/open?gh_jid=7144817",
       "apply_url": "https://www.redventures.com/careers/positions/open?gh_jid=7144817",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "7255052",
@@ -38,7 +38,7 @@
       "source_url": "https://www.redventures.com/careers/positions/open?gh_jid=7255052",
       "apply_url": "https://www.redventures.com/careers/positions/open?gh_jid=7255052",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "7362669",
@@ -56,11 +56,11 @@
       "source_url": "https://www.redventures.com/careers/positions/open?gh_jid=7362669",
       "apply_url": "https://www.redventures.com/careers/positions/open?gh_jid=7362669",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "7524554",
-      "title": "Senior AI Product Manager | Growth & Transformation",
+      "title": "Senior AI Product Manager | Delivery",
       "company": "Red Ventures",
       "location": "Charlotte, NC; New York City, NY",
       "remote": "unspecified",
@@ -69,12 +69,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-01-08",
-      "updated": "2026-11-20",
+      "updated": "2026-11-23",
       "deadline": "",
       "source_url": "https://www.redventures.com/careers/positions/open?gh_jid=7524554",
       "apply_url": "https://www.redventures.com/careers/positions/open?gh_jid=7524554",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "7723797",
@@ -92,7 +92,7 @@
       "source_url": "https://www.redventures.com/careers/positions/open?gh_jid=7723797",
       "apply_url": "https://www.redventures.com/careers/positions/open?gh_jid=7723797",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "8008090",
@@ -105,12 +105,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-06-15",
-      "updated": "2026-11-18",
+      "updated": "2026-11-23",
       "deadline": "",
       "source_url": "https://www.redventures.com/careers/positions/open?gh_jid=8008090",
       "apply_url": "https://www.redventures.com/careers/positions/open?gh_jid=8008090",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "8027093",
@@ -128,7 +128,7 @@
       "source_url": "https://www.redventures.com/careers/positions/open?gh_jid=8027093",
       "apply_url": "https://www.redventures.com/careers/positions/open?gh_jid=8027093",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "8067322",
@@ -146,7 +146,7 @@
       "source_url": "https://www.redventures.com/careers/positions/open?gh_jid=8067322",
       "apply_url": "https://www.redventures.com/careers/positions/open?gh_jid=8067322",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "8092530",
@@ -164,7 +164,7 @@
       "source_url": "https://www.redventures.com/careers/positions/open?gh_jid=8092530",
       "apply_url": "https://www.redventures.com/careers/positions/open?gh_jid=8092530",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "8109664",
@@ -182,7 +182,7 @@
       "source_url": "https://www.redventures.com/careers/positions/open?gh_jid=8109664",
       "apply_url": "https://www.redventures.com/careers/positions/open?gh_jid=8109664",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "8120387",
@@ -200,7 +200,7 @@
       "source_url": "https://www.redventures.com/careers/positions/open?gh_jid=8120387",
       "apply_url": "https://www.redventures.com/careers/positions/open?gh_jid=8120387",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "8144937",
@@ -218,7 +218,7 @@
       "source_url": "https://www.redventures.com/careers/positions/open?gh_jid=8144937",
       "apply_url": "https://www.redventures.com/careers/positions/open?gh_jid=8144937",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "8167070",
@@ -236,7 +236,7 @@
       "source_url": "https://www.redventures.com/careers/positions/open?gh_jid=8167070",
       "apply_url": "https://www.redventures.com/careers/positions/open?gh_jid=8167070",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "8185731",
@@ -249,12 +249,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-12",
-      "updated": "2026-11-18",
+      "updated": "2026-11-23",
       "deadline": "",
       "source_url": "https://www.redventures.com/careers/positions/open?gh_jid=8185731",
       "apply_url": "https://www.redventures.com/careers/positions/open?gh_jid=8185731",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "8186369",
@@ -267,12 +267,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-10",
-      "updated": "2026-11-18",
+      "updated": "2026-11-23",
       "deadline": "",
       "source_url": "https://www.redventures.com/careers/positions/open?gh_jid=8186369",
       "apply_url": "https://www.redventures.com/careers/positions/open?gh_jid=8186369",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "8194403",
@@ -290,7 +290,7 @@
       "source_url": "https://www.redventures.com/careers/positions/open?gh_jid=8194403",
       "apply_url": "https://www.redventures.com/careers/positions/open?gh_jid=8194403",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "8201727",
@@ -308,7 +308,7 @@
       "source_url": "https://www.redventures.com/careers/positions/open?gh_jid=8201727",
       "apply_url": "https://www.redventures.com/careers/positions/open?gh_jid=8201727",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "8202911",
@@ -326,7 +326,7 @@
       "source_url": "https://www.redventures.com/careers/positions/open?gh_jid=8202911",
       "apply_url": "https://www.redventures.com/careers/positions/open?gh_jid=8202911",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "8211376",
@@ -344,7 +344,7 @@
       "source_url": "https://www.redventures.com/careers/positions/open?gh_jid=8211376",
       "apply_url": "https://www.redventures.com/careers/positions/open?gh_jid=8211376",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "8211411",
@@ -362,25 +362,7 @@
       "source_url": "https://www.redventures.com/careers/positions/open?gh_jid=8211411",
       "apply_url": "https://www.redventures.com/careers/positions/open?gh_jid=8211411",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-22T14:31:17Z"
-    },
-    {
-      "id": "8214056",
-      "title": "Vice President, Privacy & AI Governance | Legal",
-      "company": "Red Ventures",
-      "location": "United States",
-      "remote": "unspecified",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-09-18",
-      "updated": "2026-10-27",
-      "deadline": "",
-      "source_url": "https://www.redventures.com/careers/positions/open?gh_jid=8214056",
-      "apply_url": "https://www.redventures.com/careers/positions/open?gh_jid=8214056",
-      "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "8223813",
@@ -398,7 +380,7 @@
       "source_url": "https://www.redventures.com/careers/positions/open?gh_jid=8223813",
       "apply_url": "https://www.redventures.com/careers/positions/open?gh_jid=8223813",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "8233284",
@@ -416,7 +398,7 @@
       "source_url": "https://www.redventures.com/careers/positions/open?gh_jid=8233284",
       "apply_url": "https://www.redventures.com/careers/positions/open?gh_jid=8233284",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "8234145",
@@ -434,7 +416,7 @@
       "source_url": "https://www.redventures.com/careers/positions/open?gh_jid=8234145",
       "apply_url": "https://www.redventures.com/careers/positions/open?gh_jid=8234145",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "8234151",
@@ -452,7 +434,7 @@
       "source_url": "https://www.redventures.com/careers/positions/open?gh_jid=8234151",
       "apply_url": "https://www.redventures.com/careers/positions/open?gh_jid=8234151",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "8247217",
@@ -470,7 +452,7 @@
       "source_url": "https://www.redventures.com/careers/positions/open?gh_jid=8247217",
       "apply_url": "https://www.redventures.com/careers/positions/open?gh_jid=8247217",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "8258541",
@@ -488,7 +470,7 @@
       "source_url": "https://www.redventures.com/careers/positions/open?gh_jid=8258541",
       "apply_url": "https://www.redventures.com/careers/positions/open?gh_jid=8258541",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "8274586",
@@ -506,7 +488,7 @@
       "source_url": "https://www.redventures.com/careers/positions/open?gh_jid=8274586",
       "apply_url": "https://www.redventures.com/careers/positions/open?gh_jid=8274586",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "8274620",
@@ -524,7 +506,7 @@
       "source_url": "https://www.redventures.com/careers/positions/open?gh_jid=8274620",
       "apply_url": "https://www.redventures.com/careers/positions/open?gh_jid=8274620",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "8274639",
@@ -542,7 +524,7 @@
       "source_url": "https://www.redventures.com/careers/positions/open?gh_jid=8274639",
       "apply_url": "https://www.redventures.com/careers/positions/open?gh_jid=8274639",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "8278286",
@@ -560,7 +542,7 @@
       "source_url": "https://www.redventures.com/careers/positions/open?gh_jid=8278286",
       "apply_url": "https://www.redventures.com/careers/positions/open?gh_jid=8278286",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "8302478",
@@ -578,7 +560,7 @@
       "source_url": "https://www.redventures.com/careers/positions/open?gh_jid=8302478",
       "apply_url": "https://www.redventures.com/careers/positions/open?gh_jid=8302478",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "8306381",
@@ -596,7 +578,7 @@
       "source_url": "https://www.redventures.com/careers/positions/open?gh_jid=8306381",
       "apply_url": "https://www.redventures.com/careers/positions/open?gh_jid=8306381",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "8311737",
@@ -614,7 +596,7 @@
       "source_url": "https://www.redventures.com/careers/positions/open?gh_jid=8311737",
       "apply_url": "https://www.redventures.com/careers/positions/open?gh_jid=8311737",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "8330849",
@@ -632,7 +614,7 @@
       "source_url": "https://www.redventures.com/careers/positions/open?gh_jid=8330849",
       "apply_url": "https://www.redventures.com/careers/positions/open?gh_jid=8330849",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "8335010",
@@ -650,7 +632,7 @@
       "source_url": "https://www.redventures.com/careers/positions/open?gh_jid=8335010",
       "apply_url": "https://www.redventures.com/careers/positions/open?gh_jid=8335010",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "8336733",
@@ -668,7 +650,7 @@
       "source_url": "https://www.redventures.com/careers/positions/open?gh_jid=8336733",
       "apply_url": "https://www.redventures.com/careers/positions/open?gh_jid=8336733",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "8337709",
@@ -686,7 +668,7 @@
       "source_url": "https://www.redventures.com/careers/positions/open?gh_jid=8337709",
       "apply_url": "https://www.redventures.com/careers/positions/open?gh_jid=8337709",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "8353368",
@@ -704,7 +686,7 @@
       "source_url": "https://www.redventures.com/careers/positions/open?gh_jid=8353368",
       "apply_url": "https://www.redventures.com/careers/positions/open?gh_jid=8353368",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "8356170",
@@ -722,7 +704,7 @@
       "source_url": "https://www.redventures.com/careers/positions/open?gh_jid=8356170",
       "apply_url": "https://www.redventures.com/careers/positions/open?gh_jid=8356170",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "8356177",
@@ -740,7 +722,7 @@
       "source_url": "https://www.redventures.com/careers/positions/open?gh_jid=8356177",
       "apply_url": "https://www.redventures.com/careers/positions/open?gh_jid=8356177",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "8367854",
@@ -758,7 +740,7 @@
       "source_url": "https://www.redventures.com/careers/positions/open?gh_jid=8367854",
       "apply_url": "https://www.redventures.com/careers/positions/open?gh_jid=8367854",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "8375002",
@@ -776,7 +758,7 @@
       "source_url": "https://www.redventures.com/careers/positions/open?gh_jid=8375002",
       "apply_url": "https://www.redventures.com/careers/positions/open?gh_jid=8375002",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "8393248",
@@ -794,7 +776,7 @@
       "source_url": "https://www.redventures.com/careers/positions/open?gh_jid=8393248",
       "apply_url": "https://www.redventures.com/careers/positions/open?gh_jid=8393248",
       "first_seen": "2026-11-20T15:23:49Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "8403082",
@@ -812,7 +794,43 @@
       "source_url": "https://www.redventures.com/careers/positions/open?gh_jid=8403082",
       "apply_url": "https://www.redventures.com/careers/positions/open?gh_jid=8403082",
       "first_seen": "2026-11-21T14:37:10Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
+    },
+    {
+      "id": "8406313",
+      "title": "Senior AI Product Manager | Agentic Delivery",
+      "company": "Red Ventures",
+      "location": "Charlotte, NC or New York, NY",
+      "remote": "unspecified",
+      "department": "",
+      "employment_type": "",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-23",
+      "updated": "2026-11-23",
+      "deadline": "",
+      "source_url": "https://www.redventures.com/careers/positions/open?gh_jid=8406313",
+      "apply_url": "https://www.redventures.com/careers/positions/open?gh_jid=8406313",
+      "first_seen": "2026-11-23T18:00:07Z",
+      "last_checked": "2026-11-23T18:00:07Z"
+    },
+    {
+      "id": "8406322",
+      "title": "Group AI Product Manager | Agentic Delivery",
+      "company": "Red Ventures",
+      "location": "Charlotte, NC",
+      "remote": "unspecified",
+      "department": "",
+      "employment_type": "",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-23",
+      "updated": "2026-11-23",
+      "deadline": "",
+      "source_url": "https://www.redventures.com/careers/positions/open?gh_jid=8406322",
+      "apply_url": "https://www.redventures.com/careers/positions/open?gh_jid=8406322",
+      "first_seen": "2026-11-23T18:00:07Z",
+      "last_checked": "2026-11-23T18:00:07Z"
     }
   ],
   "ats": "greenhouse",

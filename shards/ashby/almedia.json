@@ -1,9 +1,45 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-22T14:31:17Z",
+  "checked_at": "2026-11-23T18:00:07Z",
   "failed_at": null,
-  "etag": "W/\"job-board:6bee83dc6747f52719fdcf9b788468b9dad220f593da2e17dfe612a9411afd25\"",
+  "etag": "W/\"job-board:f3e38a32e0f6c24e8c4e928af058f1a5975f14831d3b726a529ed43a4ab0559e\"",
   "jobs": [
+    {
+      "id": "020fa9f3-00e2-47e7-978e-7941dbfc308f",
+      "title": "Growth Manager - Business Expansion (Japan)",
+      "company": "Almedia",
+      "location": "Tokyo",
+      "remote": "hybrid",
+      "department": "Growth",
+      "employment_type": "FULL_TIME",
+      "salary_text": "€50K - €65K",
+      "salary_source": "ashby",
+      "posted": "2026-11-23",
+      "updated": "",
+      "deadline": "",
+      "source_url": "https://jobs.ashbyhq.com/almedia/020fa9f3-00e2-47e7-978e-7941dbfc308f",
+      "apply_url": "https://jobs.ashbyhq.com/almedia/020fa9f3-00e2-47e7-978e-7941dbfc308f/application",
+      "first_seen": "2026-11-23T18:00:07Z",
+      "last_checked": "2026-11-23T18:00:07Z"
+    },
+    {
+      "id": "138bbbb1-06ad-4c70-b983-fbdb7a214083",
+      "title": "Senior Growth Manager - Strategic Accounts (Japan)",
+      "company": "Almedia",
+      "location": "Tokyo",
+      "remote": "hybrid",
+      "department": "Growth",
+      "employment_type": "FULL_TIME",
+      "salary_text": "€65K - €90K",
+      "salary_source": "ashby",
+      "posted": "2026-11-23",
+      "updated": "",
+      "deadline": "",
+      "source_url": "https://jobs.ashbyhq.com/almedia/138bbbb1-06ad-4c70-b983-fbdb7a214083",
+      "apply_url": "https://jobs.ashbyhq.com/almedia/138bbbb1-06ad-4c70-b983-fbdb7a214083/application",
+      "first_seen": "2026-11-23T18:00:07Z",
+      "last_checked": "2026-11-23T18:00:07Z"
+    },
     {
       "id": "13c7df64-04e1-4f15-97a5-74cd14fc9ea7",
       "title": "AI Full Stack Engineer",
@@ -20,7 +56,7 @@
       "source_url": "https://jobs.ashbyhq.com/almedia/13c7df64-04e1-4f15-97a5-74cd14fc9ea7",
       "apply_url": "https://jobs.ashbyhq.com/almedia/13c7df64-04e1-4f15-97a5-74cd14fc9ea7/application",
       "first_seen": "2026-11-19T15:42:04Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "1799b3be-974c-4f4c-8452-76b01354da1b",
@@ -38,25 +74,7 @@
       "source_url": "https://jobs.ashbyhq.com/almedia/1799b3be-974c-4f4c-8452-76b01354da1b",
       "apply_url": "https://jobs.ashbyhq.com/almedia/1799b3be-974c-4f4c-8452-76b01354da1b/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
-    },
-    {
-      "id": "1be842de-5c94-4e49-b2b4-3430f402f6c2",
-      "title": "Senior Growth Manager (Japan)",
-      "company": "Almedia",
-      "location": "Tokyo",
-      "remote": "remote",
-      "department": "Growth",
-      "employment_type": "FULL_TIME",
-      "salary_text": "€60K - €80K",
-      "salary_source": "ashby",
-      "posted": "2026-09-29",
-      "updated": "",
-      "deadline": "",
-      "source_url": "https://jobs.ashbyhq.com/almedia/1be842de-5c94-4e49-b2b4-3430f402f6c2",
-      "apply_url": "https://jobs.ashbyhq.com/almedia/1be842de-5c94-4e49-b2b4-3430f402f6c2/application",
-      "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "1becea14-737a-4b3c-b34f-74f60bd00fbc",
@@ -74,7 +92,7 @@
       "source_url": "https://jobs.ashbyhq.com/almedia/1becea14-737a-4b3c-b34f-74f60bd00fbc",
       "apply_url": "https://jobs.ashbyhq.com/almedia/1becea14-737a-4b3c-b34f-74f60bd00fbc/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "2ddbfc23-6303-46a5-a7d1-163279d74bbb",
@@ -92,7 +110,7 @@
       "source_url": "https://jobs.ashbyhq.com/almedia/2ddbfc23-6303-46a5-a7d1-163279d74bbb",
       "apply_url": "https://jobs.ashbyhq.com/almedia/2ddbfc23-6303-46a5-a7d1-163279d74bbb/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "2df9d784-c3d0-49d8-aef3-4a4ba5bd11ba",
@@ -110,7 +128,7 @@
       "source_url": "https://jobs.ashbyhq.com/almedia/2df9d784-c3d0-49d8-aef3-4a4ba5bd11ba",
       "apply_url": "https://jobs.ashbyhq.com/almedia/2df9d784-c3d0-49d8-aef3-4a4ba5bd11ba/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "3434a835-f40c-4359-bec4-be9e172a822f",
@@ -128,7 +146,7 @@
       "source_url": "https://jobs.ashbyhq.com/almedia/3434a835-f40c-4359-bec4-be9e172a822f",
       "apply_url": "https://jobs.ashbyhq.com/almedia/3434a835-f40c-4359-bec4-be9e172a822f/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "353becd1-ebe8-4723-92b0-53790ed36c7b",
@@ -146,7 +164,7 @@
       "source_url": "https://jobs.ashbyhq.com/almedia/353becd1-ebe8-4723-92b0-53790ed36c7b",
       "apply_url": "https://jobs.ashbyhq.com/almedia/353becd1-ebe8-4723-92b0-53790ed36c7b/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "3835f505-4132-4db7-8288-43e1d1529b24",
@@ -164,7 +182,7 @@
       "source_url": "https://jobs.ashbyhq.com/almedia/3835f505-4132-4db7-8288-43e1d1529b24",
       "apply_url": "https://jobs.ashbyhq.com/almedia/3835f505-4132-4db7-8288-43e1d1529b24/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "3fae038c-d129-4e1a-9766-2dfda9cdf161",
@@ -182,11 +200,11 @@
       "source_url": "https://jobs.ashbyhq.com/almedia/3fae038c-d129-4e1a-9766-2dfda9cdf161",
       "apply_url": "https://jobs.ashbyhq.com/almedia/3fae038c-d129-4e1a-9766-2dfda9cdf161/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
-      "id": "5c514236-aac7-4ef0-86d6-5dd530fbb6c8",
-      "title": "Senior Growth Manager (Berlin) - Turkish speaking",
+      "id": "51f79790-8451-4ec0-ae9d-6f661182fb18",
+      "title": "Senior Growth Manager - Strategic Accounts (Berlin)",
       "company": "Almedia",
       "location": "Berlin",
       "remote": "onsite",
@@ -194,13 +212,13 @@
       "employment_type": "FULL_TIME",
       "salary_text": "€65K - €90K",
       "salary_source": "ashby",
-      "posted": "2026-10-13",
+      "posted": "2026-11-23",
       "updated": "",
       "deadline": "",
-      "source_url": "https://jobs.ashbyhq.com/almedia/5c514236-aac7-4ef0-86d6-5dd530fbb6c8",
-      "apply_url": "https://jobs.ashbyhq.com/almedia/5c514236-aac7-4ef0-86d6-5dd530fbb6c8/application",
-      "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "source_url": "https://jobs.ashbyhq.com/almedia/51f79790-8451-4ec0-ae9d-6f661182fb18",
+      "apply_url": "https://jobs.ashbyhq.com/almedia/51f79790-8451-4ec0-ae9d-6f661182fb18/application",
+      "first_seen": "2026-11-23T18:00:07Z",
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "5c6dcc91-e246-4fb3-89d0-6b90a80d8740",
@@ -218,7 +236,7 @@
       "source_url": "https://jobs.ashbyhq.com/almedia/5c6dcc91-e246-4fb3-89d0-6b90a80d8740",
       "apply_url": "https://jobs.ashbyhq.com/almedia/5c6dcc91-e246-4fb3-89d0-6b90a80d8740/application",
       "first_seen": "2026-11-18T15:36:26Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "5cb8381e-5ef9-4793-b85d-e3d4dc63802a",
@@ -236,7 +254,7 @@
       "source_url": "https://jobs.ashbyhq.com/almedia/5cb8381e-5ef9-4793-b85d-e3d4dc63802a",
       "apply_url": "https://jobs.ashbyhq.com/almedia/5cb8381e-5ef9-4793-b85d-e3d4dc63802a/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "6c3dc27b-5205-42b8-9821-3697b42a6178",
@@ -254,7 +272,7 @@
       "source_url": "https://jobs.ashbyhq.com/almedia/6c3dc27b-5205-42b8-9821-3697b42a6178",
       "apply_url": "https://jobs.ashbyhq.com/almedia/6c3dc27b-5205-42b8-9821-3697b42a6178/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "6cf832b9-6bec-4aeb-bc5a-39d9e07aa94a",
@@ -272,43 +290,7 @@
       "source_url": "https://jobs.ashbyhq.com/almedia/6cf832b9-6bec-4aeb-bc5a-39d9e07aa94a",
       "apply_url": "https://jobs.ashbyhq.com/almedia/6cf832b9-6bec-4aeb-bc5a-39d9e07aa94a/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
-    },
-    {
-      "id": "7989213d-01c7-4e94-813a-f4527e783352",
-      "title": "Senior Growth Manager (Berlin)",
-      "company": "Almedia",
-      "location": "Berlin",
-      "remote": "onsite",
-      "department": "Growth",
-      "employment_type": "FULL_TIME",
-      "salary_text": "€65K - €90K",
-      "salary_source": "ashby",
-      "posted": "2026-09-29",
-      "updated": "",
-      "deadline": "",
-      "source_url": "https://jobs.ashbyhq.com/almedia/7989213d-01c7-4e94-813a-f4527e783352",
-      "apply_url": "https://jobs.ashbyhq.com/almedia/7989213d-01c7-4e94-813a-f4527e783352/application",
-      "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
-    },
-    {
-      "id": "7b784069-e1d5-4c2b-81ea-175afdf92c9b",
-      "title": "Senior Growth Manager (China)",
-      "company": "Almedia",
-      "location": "Beijing",
-      "remote": "onsite",
-      "department": "Growth",
-      "employment_type": "FULL_TIME",
-      "salary_text": "€65K - €90K",
-      "salary_source": "ashby",
-      "posted": "2026-09-28",
-      "updated": "",
-      "deadline": "",
-      "source_url": "https://jobs.ashbyhq.com/almedia/7b784069-e1d5-4c2b-81ea-175afdf92c9b",
-      "apply_url": "https://jobs.ashbyhq.com/almedia/7b784069-e1d5-4c2b-81ea-175afdf92c9b/application",
-      "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "8dbdf346-da77-4fd6-bf05-b3094bf62f2c",
@@ -326,7 +308,7 @@
       "source_url": "https://jobs.ashbyhq.com/almedia/8dbdf346-da77-4fd6-bf05-b3094bf62f2c",
       "apply_url": "https://jobs.ashbyhq.com/almedia/8dbdf346-da77-4fd6-bf05-b3094bf62f2c/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "90dbf17b-f709-4cfc-9775-8f642d931d58",
@@ -344,7 +326,25 @@
       "source_url": "https://jobs.ashbyhq.com/almedia/90dbf17b-f709-4cfc-9775-8f642d931d58",
       "apply_url": "https://jobs.ashbyhq.com/almedia/90dbf17b-f709-4cfc-9775-8f642d931d58/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
+    },
+    {
+      "id": "916a90a9-dd11-4adf-a8ee-4667beb3dbb2",
+      "title": "Senior Growth Manager - Business Expansion (Japan)",
+      "company": "Almedia",
+      "location": "Tokyo",
+      "remote": "hybrid",
+      "department": "Growth",
+      "employment_type": "FULL_TIME",
+      "salary_text": "€65K - €90K",
+      "salary_source": "ashby",
+      "posted": "2026-11-23",
+      "updated": "",
+      "deadline": "",
+      "source_url": "https://jobs.ashbyhq.com/almedia/916a90a9-dd11-4adf-a8ee-4667beb3dbb2",
+      "apply_url": "https://jobs.ashbyhq.com/almedia/916a90a9-dd11-4adf-a8ee-4667beb3dbb2/application",
+      "first_seen": "2026-11-23T18:00:07Z",
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "927ae9e7-1bf8-41d3-8f56-8d5fc4dbfd8c",
@@ -362,7 +362,7 @@
       "source_url": "https://jobs.ashbyhq.com/almedia/927ae9e7-1bf8-41d3-8f56-8d5fc4dbfd8c",
       "apply_url": "https://jobs.ashbyhq.com/almedia/927ae9e7-1bf8-41d3-8f56-8d5fc4dbfd8c/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "a14b273c-801c-43e4-a6bf-84fb22651b12",
@@ -380,7 +380,7 @@
       "source_url": "https://jobs.ashbyhq.com/almedia/a14b273c-801c-43e4-a6bf-84fb22651b12",
       "apply_url": "https://jobs.ashbyhq.com/almedia/a14b273c-801c-43e4-a6bf-84fb22651b12/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "ad0fe4c3-0440-4a09-b78b-6f739c3d917d",
@@ -398,7 +398,25 @@
       "source_url": "https://jobs.ashbyhq.com/almedia/ad0fe4c3-0440-4a09-b78b-6f739c3d917d",
       "apply_url": "https://jobs.ashbyhq.com/almedia/ad0fe4c3-0440-4a09-b78b-6f739c3d917d/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
+    },
+    {
+      "id": "b74cf064-e979-4cdf-81e6-ce9c8461c21b",
+      "title": "Growth Manager - Strategic Accounts (Japan)",
+      "company": "Almedia",
+      "location": "Tokyo",
+      "remote": "hybrid",
+      "department": "Growth",
+      "employment_type": "FULL_TIME",
+      "salary_text": "€50K - €65K",
+      "salary_source": "ashby",
+      "posted": "2026-11-23",
+      "updated": "",
+      "deadline": "",
+      "source_url": "https://jobs.ashbyhq.com/almedia/b74cf064-e979-4cdf-81e6-ce9c8461c21b",
+      "apply_url": "https://jobs.ashbyhq.com/almedia/b74cf064-e979-4cdf-81e6-ce9c8461c21b/application",
+      "first_seen": "2026-11-23T18:00:07Z",
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "b8e6cea7-038f-4e62-b8cc-bb1912673722",
@@ -416,25 +434,61 @@
       "source_url": "https://jobs.ashbyhq.com/almedia/b8e6cea7-038f-4e62-b8cc-bb1912673722",
       "apply_url": "https://jobs.ashbyhq.com/almedia/b8e6cea7-038f-4e62-b8cc-bb1912673722/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
-      "id": "cba2b04e-a7a5-4142-a77a-e816fc541b4f",
-      "title": "Senior Growth Manager (Berlin) - Russian speaking",
+      "id": "c32971f7-c7d4-4c9e-90e6-5aba044180df",
+      "title": "Growth Manager - Business Expansion (Berlin)",
       "company": "Almedia",
       "location": "Berlin",
       "remote": "onsite",
       "department": "Growth",
       "employment_type": "FULL_TIME",
-      "salary_text": "€65K - €90K",
+      "salary_text": "€50K - €65K",
       "salary_source": "ashby",
-      "posted": "2026-10-27",
+      "posted": "2026-11-23",
       "updated": "",
       "deadline": "",
-      "source_url": "https://jobs.ashbyhq.com/almedia/cba2b04e-a7a5-4142-a77a-e816fc541b4f",
-      "apply_url": "https://jobs.ashbyhq.com/almedia/cba2b04e-a7a5-4142-a77a-e816fc541b4f/application",
-      "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "source_url": "https://jobs.ashbyhq.com/almedia/c32971f7-c7d4-4c9e-90e6-5aba044180df",
+      "apply_url": "https://jobs.ashbyhq.com/almedia/c32971f7-c7d4-4c9e-90e6-5aba044180df/application",
+      "first_seen": "2026-11-23T18:00:07Z",
+      "last_checked": "2026-11-23T18:00:07Z"
+    },
+    {
+      "id": "cd00706f-2407-48a8-809f-ea36b74298a2",
+      "title": "Growth Manager - Strategic Accounts (Berlin)",
+      "company": "Almedia",
+      "location": "Berlin",
+      "remote": "onsite",
+      "department": "Growth",
+      "employment_type": "FULL_TIME",
+      "salary_text": "€50K - €65K",
+      "salary_source": "ashby",
+      "posted": "2026-11-23",
+      "updated": "",
+      "deadline": "",
+      "source_url": "https://jobs.ashbyhq.com/almedia/cd00706f-2407-48a8-809f-ea36b74298a2",
+      "apply_url": "https://jobs.ashbyhq.com/almedia/cd00706f-2407-48a8-809f-ea36b74298a2/application",
+      "first_seen": "2026-11-23T18:00:07Z",
+      "last_checked": "2026-11-23T18:00:07Z"
+    },
+    {
+      "id": "ce4ea328-9fc5-4828-badc-656130e0c771",
+      "title": "Senior Growth Manager - Business Expansion (China)",
+      "company": "Almedia",
+      "location": "Beijing",
+      "remote": "onsite",
+      "department": "Growth",
+      "employment_type": "FULL_TIME",
+      "salary_text": "€65K - €90K",
+      "salary_source": "ashby",
+      "posted": "2026-11-23",
+      "updated": "",
+      "deadline": "",
+      "source_url": "https://jobs.ashbyhq.com/almedia/ce4ea328-9fc5-4828-badc-656130e0c771",
+      "apply_url": "https://jobs.ashbyhq.com/almedia/ce4ea328-9fc5-4828-badc-656130e0c771/application",
+      "first_seen": "2026-11-23T18:00:07Z",
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "d01f25b1-5e12-4f0d-9356-e60b33187ce7",
@@ -452,7 +506,7 @@
       "source_url": "https://jobs.ashbyhq.com/almedia/d01f25b1-5e12-4f0d-9356-e60b33187ce7",
       "apply_url": "https://jobs.ashbyhq.com/almedia/d01f25b1-5e12-4f0d-9356-e60b33187ce7/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "d63880aa-547a-4f44-87e4-bc395068b815",
@@ -470,7 +524,25 @@
       "source_url": "https://jobs.ashbyhq.com/almedia/d63880aa-547a-4f44-87e4-bc395068b815",
       "apply_url": "https://jobs.ashbyhq.com/almedia/d63880aa-547a-4f44-87e4-bc395068b815/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
+    },
+    {
+      "id": "e5e4622c-3943-4fc2-bb96-51e679817d26",
+      "title": "Senior Growth Manager - Business Expansion (Berlin)",
+      "company": "Almedia",
+      "location": "Berlin",
+      "remote": "onsite",
+      "department": "Growth",
+      "employment_type": "FULL_TIME",
+      "salary_text": "€65K - €90K",
+      "salary_source": "ashby",
+      "posted": "2026-11-23",
+      "updated": "",
+      "deadline": "",
+      "source_url": "https://jobs.ashbyhq.com/almedia/e5e4622c-3943-4fc2-bb96-51e679817d26",
+      "apply_url": "https://jobs.ashbyhq.com/almedia/e5e4622c-3943-4fc2-bb96-51e679817d26/application",
+      "first_seen": "2026-11-23T18:00:07Z",
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "ee26478c-a682-4227-ac47-ae732f711856",
@@ -488,7 +560,7 @@
       "source_url": "https://jobs.ashbyhq.com/almedia/ee26478c-a682-4227-ac47-ae732f711856",
       "apply_url": "https://jobs.ashbyhq.com/almedia/ee26478c-a682-4227-ac47-ae732f711856/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "f44d2f91-3adf-4197-85ef-b87cf2ed4aa9",
@@ -506,7 +578,61 @@
       "source_url": "https://jobs.ashbyhq.com/almedia/f44d2f91-3adf-4197-85ef-b87cf2ed4aa9",
       "apply_url": "https://jobs.ashbyhq.com/almedia/f44d2f91-3adf-4197-85ef-b87cf2ed4aa9/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
+    },
+    {
+      "id": "f7106ef8-2ba8-4e67-8854-b45a72baf563",
+      "title": "Growth Manager - Business Expansion (China)",
+      "company": "Almedia",
+      "location": "Beijing",
+      "remote": "onsite",
+      "department": "Growth",
+      "employment_type": "FULL_TIME",
+      "salary_text": "€50K - €65K",
+      "salary_source": "ashby",
+      "posted": "2026-11-23",
+      "updated": "",
+      "deadline": "",
+      "source_url": "https://jobs.ashbyhq.com/almedia/f7106ef8-2ba8-4e67-8854-b45a72baf563",
+      "apply_url": "https://jobs.ashbyhq.com/almedia/f7106ef8-2ba8-4e67-8854-b45a72baf563/application",
+      "first_seen": "2026-11-23T18:00:07Z",
+      "last_checked": "2026-11-23T18:00:07Z"
+    },
+    {
+      "id": "f86e7ffa-8104-42f2-a0fb-dc500ca14c8a",
+      "title": "Growth Manager - Strategic Accounts (China)",
+      "company": "Almedia",
+      "location": "Beijing",
+      "remote": "onsite",
+      "department": "Growth",
+      "employment_type": "FULL_TIME",
+      "salary_text": "€50K - €65K",
+      "salary_source": "ashby",
+      "posted": "2026-11-23",
+      "updated": "",
+      "deadline": "",
+      "source_url": "https://jobs.ashbyhq.com/almedia/f86e7ffa-8104-42f2-a0fb-dc500ca14c8a",
+      "apply_url": "https://jobs.ashbyhq.com/almedia/f86e7ffa-8104-42f2-a0fb-dc500ca14c8a/application",
+      "first_seen": "2026-11-23T18:00:07Z",
+      "last_checked": "2026-11-23T18:00:07Z"
+    },
+    {
+      "id": "fbd5fd8a-5c85-4f62-8469-705709b6b031",
+      "title": "Senior Growth Manager - Strategic Accounts (China)",
+      "company": "Almedia",
+      "location": "Beijing",
+      "remote": "onsite",
+      "department": "Growth",
+      "employment_type": "FULL_TIME",
+      "salary_text": "€65K - €90K",
+      "salary_source": "ashby",
+      "posted": "2026-11-23",
+      "updated": "",
+      "deadline": "",
+      "source_url": "https://jobs.ashbyhq.com/almedia/fbd5fd8a-5c85-4f62-8469-705709b6b031",
+      "apply_url": "https://jobs.ashbyhq.com/almedia/fbd5fd8a-5c85-4f62-8469-705709b6b031/application",
+      "first_seen": "2026-11-23T18:00:07Z",
+      "last_checked": "2026-11-23T18:00:07Z"
     }
   ],
   "ats": "ashby",

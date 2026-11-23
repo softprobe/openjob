@@ -1,8 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-22T14:31:17Z",
+  "checked_at": "2026-11-23T18:00:07Z",
   "failed_at": null,
-  "etag": "W/\"318bb-XY8mPrGeG95Sd40ZlVFdzw\"",
+  "etag": "W/\"30e03-ucdGQCCuHd+WADZuFS2iNQ\"",
   "jobs": [
     {
       "id": "01a009a5-49e6-4f8e-bf7c-5b50aa1a893a",
@@ -20,7 +20,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/01a009a5-49e6-4f8e-bf7c-5b50aa1a893a",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/01a009a5-49e6-4f8e-bf7c-5b50aa1a893a/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "026939f7-1f0d-4cf3-aee3-540fedb37839",
@@ -38,7 +38,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/026939f7-1f0d-4cf3-aee3-540fedb37839",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/026939f7-1f0d-4cf3-aee3-540fedb37839/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "04602018-a5a2-4d95-a4a7-367c28abcf0d",
@@ -56,7 +56,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/04602018-a5a2-4d95-a4a7-367c28abcf0d",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/04602018-a5a2-4d95-a4a7-367c28abcf0d/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "05b8ac87-bf5c-4c28-bae1-4641e4a6697e",
@@ -74,7 +74,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/05b8ac87-bf5c-4c28-bae1-4641e4a6697e",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/05b8ac87-bf5c-4c28-bae1-4641e4a6697e/apply?pure=1",
       "first_seen": "2026-11-17T15:56:57Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "078f1cc3-f871-4555-820f-62fb20bd33e9",
@@ -92,7 +92,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/078f1cc3-f871-4555-820f-62fb20bd33e9",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/078f1cc3-f871-4555-820f-62fb20bd33e9/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "07bc71e7-eecc-4d7e-a4b8-6babb4bd1621",
@@ -110,7 +110,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/07bc71e7-eecc-4d7e-a4b8-6babb4bd1621",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/07bc71e7-eecc-4d7e-a4b8-6babb4bd1621/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "0aee931a-9ec0-4bbf-978a-e3a2d0dd7abb",
@@ -128,7 +128,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/0aee931a-9ec0-4bbf-978a-e3a2d0dd7abb",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/0aee931a-9ec0-4bbf-978a-e3a2d0dd7abb/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "0c0bfff0-de47-4147-9607-b16702d7b2fd",
@@ -146,7 +146,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/0c0bfff0-de47-4147-9607-b16702d7b2fd",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/0c0bfff0-de47-4147-9607-b16702d7b2fd/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "0e171f4e-87b3-4ce5-bb81-4bad871a7c60",
@@ -164,7 +164,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/0e171f4e-87b3-4ce5-bb81-4bad871a7c60",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/0e171f4e-87b3-4ce5-bb81-4bad871a7c60/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "1180a2a1-3a0c-42e2-a441-1f84d7a5afd5",
@@ -182,7 +182,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/1180a2a1-3a0c-42e2-a441-1f84d7a5afd5",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/1180a2a1-3a0c-42e2-a441-1f84d7a5afd5/apply?pure=1",
       "first_seen": "2026-11-17T15:56:57Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "123aff76-9930-46cf-b3cf-80741ec90499",
@@ -200,7 +200,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/123aff76-9930-46cf-b3cf-80741ec90499",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/123aff76-9930-46cf-b3cf-80741ec90499/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "15564ae1-a711-44bf-a568-6f3c3d715970",
@@ -218,7 +218,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/15564ae1-a711-44bf-a568-6f3c3d715970",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/15564ae1-a711-44bf-a568-6f3c3d715970/apply?pure=1",
       "first_seen": "2026-11-17T15:56:57Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "1673f7ae-cad0-4258-928a-8bcbe8ed7fc4",
@@ -236,7 +236,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/1673f7ae-cad0-4258-928a-8bcbe8ed7fc4",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/1673f7ae-cad0-4258-928a-8bcbe8ed7fc4/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "16b282d3-9f43-4fda-aeab-3837b94357e2",
@@ -254,7 +254,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/16b282d3-9f43-4fda-aeab-3837b94357e2",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/16b282d3-9f43-4fda-aeab-3837b94357e2/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "177a3d49-7604-42e5-baf3-f5d0c154d984",
@@ -272,7 +272,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/177a3d49-7604-42e5-baf3-f5d0c154d984",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/177a3d49-7604-42e5-baf3-f5d0c154d984/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "18c4c62c-d0b6-47b5-b4c2-292900d3d261",
@@ -290,7 +290,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/18c4c62c-d0b6-47b5-b4c2-292900d3d261",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/18c4c62c-d0b6-47b5-b4c2-292900d3d261/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "18e51d6f-d354-4eda-93d3-47c4359c105a",
@@ -308,7 +308,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/18e51d6f-d354-4eda-93d3-47c4359c105a",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/18e51d6f-d354-4eda-93d3-47c4359c105a/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "193542b8-96e0-41e5-aeba-515071897e99",
@@ -326,7 +326,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/193542b8-96e0-41e5-aeba-515071897e99",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/193542b8-96e0-41e5-aeba-515071897e99/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "1eba52ae-5b74-4598-8358-e60b292fb787",
@@ -344,7 +344,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/1eba52ae-5b74-4598-8358-e60b292fb787",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/1eba52ae-5b74-4598-8358-e60b292fb787/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "1f333a5c-8efb-4720-9808-5b4a646a8ce7",
@@ -362,7 +362,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/1f333a5c-8efb-4720-9808-5b4a646a8ce7",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/1f333a5c-8efb-4720-9808-5b4a646a8ce7/apply?pure=1",
       "first_seen": "2026-11-17T15:56:57Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "1fe89e86-0e63-429f-a1d0-6059aed108be",
@@ -380,7 +380,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/1fe89e86-0e63-429f-a1d0-6059aed108be",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/1fe89e86-0e63-429f-a1d0-6059aed108be/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "22894b36-b179-4632-ab56-e30ff4d51dfe",
@@ -398,7 +398,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/22894b36-b179-4632-ab56-e30ff4d51dfe",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/22894b36-b179-4632-ab56-e30ff4d51dfe/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "25eba95f-03d3-4bd5-80ab-e88c73cf828f",
@@ -416,7 +416,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/25eba95f-03d3-4bd5-80ab-e88c73cf828f",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/25eba95f-03d3-4bd5-80ab-e88c73cf828f/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "260f4b03-1710-4df4-9fd5-37bc1e6285dd",
@@ -434,7 +434,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/260f4b03-1710-4df4-9fd5-37bc1e6285dd",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/260f4b03-1710-4df4-9fd5-37bc1e6285dd/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "2844262e-c0c4-4cb3-b11e-2719b8bf737b",
@@ -452,7 +452,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/2844262e-c0c4-4cb3-b11e-2719b8bf737b",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/2844262e-c0c4-4cb3-b11e-2719b8bf737b/apply?pure=1",
       "first_seen": "2026-11-17T15:56:57Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "29523756-5c66-4c75-b444-05cfb17264af",
@@ -470,7 +470,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/29523756-5c66-4c75-b444-05cfb17264af",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/29523756-5c66-4c75-b444-05cfb17264af/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "2a8fb11d-4ac5-4a91-98dd-754601566473",
@@ -488,7 +488,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/2a8fb11d-4ac5-4a91-98dd-754601566473",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/2a8fb11d-4ac5-4a91-98dd-754601566473/apply?pure=1",
       "first_seen": "2026-11-17T15:56:57Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "2b65996f-bfaf-440c-86f4-31661ac04abf",
@@ -506,7 +506,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/2b65996f-bfaf-440c-86f4-31661ac04abf",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/2b65996f-bfaf-440c-86f4-31661ac04abf/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "305fb5f4-f983-4d02-abba-283245f9b01e",
@@ -524,7 +524,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/305fb5f4-f983-4d02-abba-283245f9b01e",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/305fb5f4-f983-4d02-abba-283245f9b01e/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "31f198de-a64d-4444-aae8-ca7bc2b466c1",
@@ -542,7 +542,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/31f198de-a64d-4444-aae8-ca7bc2b466c1",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/31f198de-a64d-4444-aae8-ca7bc2b466c1/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "321b1e9f-f8c7-4f97-ac06-70efcd0a2e09",
@@ -560,7 +560,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/321b1e9f-f8c7-4f97-ac06-70efcd0a2e09",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/321b1e9f-f8c7-4f97-ac06-70efcd0a2e09/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "3300ff2b-4f97-44f0-934f-44345f69b181",
@@ -578,7 +578,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/3300ff2b-4f97-44f0-934f-44345f69b181",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/3300ff2b-4f97-44f0-934f-44345f69b181/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "33983fe1-7777-48d6-b233-dde58e8829f8",
@@ -596,7 +596,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/33983fe1-7777-48d6-b233-dde58e8829f8",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/33983fe1-7777-48d6-b233-dde58e8829f8/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "34510793-3e13-4464-a767-68d9f68cf568",
@@ -614,7 +614,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/34510793-3e13-4464-a767-68d9f68cf568",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/34510793-3e13-4464-a767-68d9f68cf568/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "356d4c43-93e8-4985-9cbc-dd40946fa34b",
@@ -632,43 +632,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/356d4c43-93e8-4985-9cbc-dd40946fa34b",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/356d4c43-93e8-4985-9cbc-dd40946fa34b/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
-    },
-    {
-      "id": "359300a5-c0f0-4ae1-995d-5b76e41251f7",
-      "title": "研发HRBP总监/副总监",
-      "company": "RemeGen",
-      "location": "",
-      "remote": "unspecified",
-      "department": "",
-      "employment_type": "FULL_TIME",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-07-20",
-      "updated": "2026-07-20",
-      "deadline": "",
-      "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/359300a5-c0f0-4ae1-995d-5b76e41251f7",
-      "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/359300a5-c0f0-4ae1-995d-5b76e41251f7/apply?pure=1",
-      "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
-    },
-    {
-      "id": "363ed1a2-6049-4d45-8a42-5bf1285e91ba",
-      "title": "药化研究员",
-      "company": "RemeGen",
-      "location": "",
-      "remote": "unspecified",
-      "department": "",
-      "employment_type": "FULL_TIME",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-07-20",
-      "updated": "2026-07-20",
-      "deadline": "",
-      "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/363ed1a2-6049-4d45-8a42-5bf1285e91ba",
-      "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/363ed1a2-6049-4d45-8a42-5bf1285e91ba/apply?pure=1",
-      "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "36f74dbf-7625-4695-90c6-11dc19d938a2",
@@ -686,7 +650,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/36f74dbf-7625-4695-90c6-11dc19d938a2",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/36f74dbf-7625-4695-90c6-11dc19d938a2/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "375b4fea-e0d3-46e3-b462-efd09728bd20",
@@ -704,7 +668,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/375b4fea-e0d3-46e3-b462-efd09728bd20",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/375b4fea-e0d3-46e3-b462-efd09728bd20/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "385edfda-bd13-483f-8832-6f41bad13672",
@@ -722,7 +686,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/385edfda-bd13-483f-8832-6f41bad13672",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/385edfda-bd13-483f-8832-6f41bad13672/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "391073ff-e897-42cd-b0ba-ea1f762e91d8",
@@ -740,7 +704,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/391073ff-e897-42cd-b0ba-ea1f762e91d8",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/391073ff-e897-42cd-b0ba-ea1f762e91d8/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "393a7309-3637-4669-969e-d9167f96726f",
@@ -758,7 +722,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/393a7309-3637-4669-969e-d9167f96726f",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/393a7309-3637-4669-969e-d9167f96726f/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "395d05b2-c80d-426b-ba8e-2a16e0aa4c5f",
@@ -776,7 +740,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/395d05b2-c80d-426b-ba8e-2a16e0aa4c5f",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/395d05b2-c80d-426b-ba8e-2a16e0aa4c5f/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "39fda667-dfb6-4349-a509-2f8a56d0efac",
@@ -794,7 +758,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/39fda667-dfb6-4349-a509-2f8a56d0efac",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/39fda667-dfb6-4349-a509-2f8a56d0efac/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "3a55d00e-4b9a-494b-b105-506b02d440a2",
@@ -812,7 +776,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/3a55d00e-4b9a-494b-b105-506b02d440a2",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/3a55d00e-4b9a-494b-b105-506b02d440a2/apply?pure=1",
       "first_seen": "2026-11-17T15:56:57Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "3acbd9c1-449d-42da-a041-0f93014d8e64",
@@ -830,7 +794,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/3acbd9c1-449d-42da-a041-0f93014d8e64",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/3acbd9c1-449d-42da-a041-0f93014d8e64/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "3b874e8f-c2af-43a1-be60-149b47e6383f",
@@ -848,7 +812,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/3b874e8f-c2af-43a1-be60-149b47e6383f",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/3b874e8f-c2af-43a1-be60-149b47e6383f/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "3c2b6efe-9ebf-4b80-81bd-7fd9fba0a8bb",
@@ -866,7 +830,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/3c2b6efe-9ebf-4b80-81bd-7fd9fba0a8bb",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/3c2b6efe-9ebf-4b80-81bd-7fd9fba0a8bb/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "3eec7182-60b0-4a68-bd1a-b150c7ec83fa",
@@ -884,7 +848,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/3eec7182-60b0-4a68-bd1a-b150c7ec83fa",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/3eec7182-60b0-4a68-bd1a-b150c7ec83fa/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "40535368-a570-4af4-a54f-0b72c19ad969",
@@ -902,7 +866,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/40535368-a570-4af4-a54f-0b72c19ad969",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/40535368-a570-4af4-a54f-0b72c19ad969/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "40772813-eb8e-403b-97d4-29c9f6dbf943",
@@ -920,7 +884,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/40772813-eb8e-403b-97d4-29c9f6dbf943",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/40772813-eb8e-403b-97d4-29c9f6dbf943/apply?pure=1",
       "first_seen": "2026-11-19T15:42:04Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "414e3551-e04e-46de-8e82-1d923e30a7ac",
@@ -938,7 +902,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/414e3551-e04e-46de-8e82-1d923e30a7ac",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/414e3551-e04e-46de-8e82-1d923e30a7ac/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "4207b22b-ceff-4c0b-8c67-093b4c92020e",
@@ -956,7 +920,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/4207b22b-ceff-4c0b-8c67-093b4c92020e",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/4207b22b-ceff-4c0b-8c67-093b4c92020e/apply?pure=1",
       "first_seen": "2026-11-17T15:56:57Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "44f7309d-ccdc-426f-9294-70840b85f4bc",
@@ -974,7 +938,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/44f7309d-ccdc-426f-9294-70840b85f4bc",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/44f7309d-ccdc-426f-9294-70840b85f4bc/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "46f4d91e-4b47-49ca-8e73-ed75dbd52a8f",
@@ -992,7 +956,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/46f4d91e-4b47-49ca-8e73-ed75dbd52a8f",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/46f4d91e-4b47-49ca-8e73-ed75dbd52a8f/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "4753d5dd-d6b5-4fd4-9c7f-0ea49e14892e",
@@ -1010,7 +974,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/4753d5dd-d6b5-4fd4-9c7f-0ea49e14892e",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/4753d5dd-d6b5-4fd4-9c7f-0ea49e14892e/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "4b6ea6a2-61ee-47c7-8cb1-b812cea95665",
@@ -1028,7 +992,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/4b6ea6a2-61ee-47c7-8cb1-b812cea95665",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/4b6ea6a2-61ee-47c7-8cb1-b812cea95665/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "4b7bd0d6-61f4-4fce-ace6-fbd684ebacc7",
@@ -1046,7 +1010,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/4b7bd0d6-61f4-4fce-ace6-fbd684ebacc7",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/4b7bd0d6-61f4-4fce-ace6-fbd684ebacc7/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "4bebaff3-dafb-4831-9415-71267cd524de",
@@ -1064,7 +1028,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/4bebaff3-dafb-4831-9415-71267cd524de",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/4bebaff3-dafb-4831-9415-71267cd524de/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "4c629077-cbaa-46fb-959d-85ee2f8ac226",
@@ -1082,7 +1046,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/4c629077-cbaa-46fb-959d-85ee2f8ac226",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/4c629077-cbaa-46fb-959d-85ee2f8ac226/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "4c9a30f9-3b88-4c8d-90b4-b4eab51a824c",
@@ -1100,7 +1064,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/4c9a30f9-3b88-4c8d-90b4-b4eab51a824c",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/4c9a30f9-3b88-4c8d-90b4-b4eab51a824c/apply?pure=1",
       "first_seen": "2026-11-17T15:56:57Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "4ca802cb-c129-46dc-b849-e89a5edbce00",
@@ -1118,7 +1082,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/4ca802cb-c129-46dc-b849-e89a5edbce00",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/4ca802cb-c129-46dc-b849-e89a5edbce00/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "4e88187d-8e31-45e6-8a17-0c52153c8e5c",
@@ -1136,7 +1100,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/4e88187d-8e31-45e6-8a17-0c52153c8e5c",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/4e88187d-8e31-45e6-8a17-0c52153c8e5c/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "4fd5be24-3ae4-48e8-9762-c4aa33be565e",
@@ -1154,7 +1118,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/4fd5be24-3ae4-48e8-9762-c4aa33be565e",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/4fd5be24-3ae4-48e8-9762-c4aa33be565e/apply?pure=1",
       "first_seen": "2026-11-17T15:56:57Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "4fde13c6-937e-4556-827e-d27a750f6e91",
@@ -1172,7 +1136,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/4fde13c6-937e-4556-827e-d27a750f6e91",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/4fde13c6-937e-4556-827e-d27a750f6e91/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "5191a5e7-e6d0-44b8-bd79-fde8e75f51fe",
@@ -1190,7 +1154,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/5191a5e7-e6d0-44b8-bd79-fde8e75f51fe",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/5191a5e7-e6d0-44b8-bd79-fde8e75f51fe/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "54105a14-496c-4008-abc2-ddb58840fb59",
@@ -1208,7 +1172,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/54105a14-496c-4008-abc2-ddb58840fb59",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/54105a14-496c-4008-abc2-ddb58840fb59/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "55212b1e-590b-4eb2-b492-14f99112cb2c",
@@ -1226,7 +1190,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/55212b1e-590b-4eb2-b492-14f99112cb2c",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/55212b1e-590b-4eb2-b492-14f99112cb2c/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "56b241af-730f-4a1c-953d-0a1e51332f5c",
@@ -1244,7 +1208,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/56b241af-730f-4a1c-953d-0a1e51332f5c",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/56b241af-730f-4a1c-953d-0a1e51332f5c/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "57531715-db02-48fb-96d4-b2500f9b2540",
@@ -1262,7 +1226,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/57531715-db02-48fb-96d4-b2500f9b2540",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/57531715-db02-48fb-96d4-b2500f9b2540/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "59ee2b4c-0e20-4504-aace-7974436fb576",
@@ -1280,7 +1244,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/59ee2b4c-0e20-4504-aace-7974436fb576",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/59ee2b4c-0e20-4504-aace-7974436fb576/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "5d5c3418-9e29-4708-b544-443f7dabfb16",
@@ -1298,7 +1262,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/5d5c3418-9e29-4708-b544-443f7dabfb16",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/5d5c3418-9e29-4708-b544-443f7dabfb16/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "62494391-95f4-4561-87b4-50d87680aaf2",
@@ -1316,7 +1280,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/62494391-95f4-4561-87b4-50d87680aaf2",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/62494391-95f4-4561-87b4-50d87680aaf2/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "62c64303-9557-448e-b334-f4b2958a4fba",
@@ -1334,7 +1298,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/62c64303-9557-448e-b334-f4b2958a4fba",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/62c64303-9557-448e-b334-f4b2958a4fba/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "63e20f8d-4ea9-4013-809a-355a8edba358",
@@ -1352,7 +1316,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/63e20f8d-4ea9-4013-809a-355a8edba358",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/63e20f8d-4ea9-4013-809a-355a8edba358/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "647f70e1-e536-4f14-b74b-00bd875ccab0",
@@ -1370,7 +1334,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/647f70e1-e536-4f14-b74b-00bd875ccab0",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/647f70e1-e536-4f14-b74b-00bd875ccab0/apply?pure=1",
       "first_seen": "2026-11-17T15:56:57Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "64a82632-8583-497f-a830-709a8068fc38",
@@ -1388,7 +1352,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/64a82632-8583-497f-a830-709a8068fc38",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/64a82632-8583-497f-a830-709a8068fc38/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "657addea-875c-440e-941f-9d53204d16d5",
@@ -1406,7 +1370,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/657addea-875c-440e-941f-9d53204d16d5",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/657addea-875c-440e-941f-9d53204d16d5/apply?pure=1",
       "first_seen": "2026-11-17T15:56:57Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "685ba859-aa79-4304-858d-128ca26398f1",
@@ -1424,7 +1388,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/685ba859-aa79-4304-858d-128ca26398f1",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/685ba859-aa79-4304-858d-128ca26398f1/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "693da89f-cc42-47b0-94b8-84b308ecf865",
@@ -1442,7 +1406,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/693da89f-cc42-47b0-94b8-84b308ecf865",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/693da89f-cc42-47b0-94b8-84b308ecf865/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "69af73eb-9efb-4fd9-8f57-e7db2fc4ed7b",
@@ -1460,7 +1424,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/69af73eb-9efb-4fd9-8f57-e7db2fc4ed7b",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/69af73eb-9efb-4fd9-8f57-e7db2fc4ed7b/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "6a51e413-d989-4780-b553-0b473ef4083c",
@@ -1478,7 +1442,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/6a51e413-d989-4780-b553-0b473ef4083c",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/6a51e413-d989-4780-b553-0b473ef4083c/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "6ae4f62d-6592-420d-a7b2-5624ef59a918",
@@ -1496,7 +1460,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/6ae4f62d-6592-420d-a7b2-5624ef59a918",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/6ae4f62d-6592-420d-a7b2-5624ef59a918/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "6b653657-cd85-49a3-a4ca-16c7b0879dce",
@@ -1514,7 +1478,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/6b653657-cd85-49a3-a4ca-16c7b0879dce",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/6b653657-cd85-49a3-a4ca-16c7b0879dce/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "6bb4bd02-10a4-455d-9431-485442002204",
@@ -1532,7 +1496,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/6bb4bd02-10a4-455d-9431-485442002204",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/6bb4bd02-10a4-455d-9431-485442002204/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "6bb6453d-ac8b-4060-af33-7454a8611aad",
@@ -1550,7 +1514,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/6bb6453d-ac8b-4060-af33-7454a8611aad",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/6bb6453d-ac8b-4060-af33-7454a8611aad/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "6c5dda2c-5f69-470b-894c-b00b44c29c5e",
@@ -1568,25 +1532,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/6c5dda2c-5f69-470b-894c-b00b44c29c5e",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/6c5dda2c-5f69-470b-894c-b00b44c29c5e/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
-    },
-    {
-      "id": "6d31c04c-6b18-46f2-bab0-93a17ac8e90d",
-      "title": "细胞培养工艺高级研究员",
-      "company": "RemeGen",
-      "location": "",
-      "remote": "unspecified",
-      "department": "荣昌生物",
-      "employment_type": "FULL_TIME",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-08-05",
-      "updated": "2026-08-07",
-      "deadline": "",
-      "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/6d31c04c-6b18-46f2-bab0-93a17ac8e90d",
-      "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/6d31c04c-6b18-46f2-bab0-93a17ac8e90d/apply?pure=1",
-      "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "6e33edc2-9f49-4482-94be-bd721bc59ebe",
@@ -1604,7 +1550,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/6e33edc2-9f49-4482-94be-bd721bc59ebe",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/6e33edc2-9f49-4482-94be-bd721bc59ebe/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "6f132c02-1fc9-45d2-b82b-031f8919bc3f",
@@ -1622,7 +1568,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/6f132c02-1fc9-45d2-b82b-031f8919bc3f",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/6f132c02-1fc9-45d2-b82b-031f8919bc3f/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "6fe77cff-0061-4799-a194-568899d2e501",
@@ -1640,7 +1586,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/6fe77cff-0061-4799-a194-568899d2e501",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/6fe77cff-0061-4799-a194-568899d2e501/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "71ee29a1-9452-41e0-a62c-6d5db12081cf",
@@ -1658,7 +1604,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/71ee29a1-9452-41e0-a62c-6d5db12081cf",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/71ee29a1-9452-41e0-a62c-6d5db12081cf/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "739f2087-2ca7-4f5d-8528-feb182b35526",
@@ -1676,7 +1622,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/739f2087-2ca7-4f5d-8528-feb182b35526",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/739f2087-2ca7-4f5d-8528-feb182b35526/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "7560b02f-4a46-4a79-8a41-45224c9d09d1",
@@ -1694,7 +1640,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/7560b02f-4a46-4a79-8a41-45224c9d09d1",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/7560b02f-4a46-4a79-8a41-45224c9d09d1/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "75bb2b2b-4c43-4725-8dd5-d9a1c136e83e",
@@ -1712,7 +1658,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/75bb2b2b-4c43-4725-8dd5-d9a1c136e83e",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/75bb2b2b-4c43-4725-8dd5-d9a1c136e83e/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "76001d4f-de6a-4131-9f9f-4ac496e885c9",
@@ -1730,7 +1676,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/76001d4f-de6a-4131-9f9f-4ac496e885c9",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/76001d4f-de6a-4131-9f9f-4ac496e885c9/apply?pure=1",
       "first_seen": "2026-11-17T15:56:57Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "777b334e-0673-4a39-aac1-af5f454f2345",
@@ -1748,7 +1694,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/777b334e-0673-4a39-aac1-af5f454f2345",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/777b334e-0673-4a39-aac1-af5f454f2345/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "7df04841-d300-4b50-b1ae-8eb62255c731",
@@ -1766,7 +1712,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/7df04841-d300-4b50-b1ae-8eb62255c731",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/7df04841-d300-4b50-b1ae-8eb62255c731/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "7e768c33-574b-4f19-be46-9cb6e42b19d7",
@@ -1784,7 +1730,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/7e768c33-574b-4f19-be46-9cb6e42b19d7",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/7e768c33-574b-4f19-be46-9cb6e42b19d7/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "7ee37b18-11af-4532-8055-4578ec9e2488",
@@ -1802,7 +1748,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/7ee37b18-11af-4532-8055-4578ec9e2488",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/7ee37b18-11af-4532-8055-4578ec9e2488/apply?pure=1",
       "first_seen": "2026-11-17T15:56:57Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "7fee8f6c-7197-4624-9b53-e789853dc951",
@@ -1820,7 +1766,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/7fee8f6c-7197-4624-9b53-e789853dc951",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/7fee8f6c-7197-4624-9b53-e789853dc951/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "809f5e76-5aea-4e71-bc85-f99c0e170686",
@@ -1838,7 +1784,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/809f5e76-5aea-4e71-bc85-f99c0e170686",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/809f5e76-5aea-4e71-bc85-f99c0e170686/apply?pure=1",
       "first_seen": "2026-11-17T15:56:57Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "8353fb53-4393-4413-a4d6-c00ed5e48c76",
@@ -1856,7 +1802,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/8353fb53-4393-4413-a4d6-c00ed5e48c76",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/8353fb53-4393-4413-a4d6-c00ed5e48c76/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "83f20dd3-7678-430c-abb9-f011be10f4ab",
@@ -1874,7 +1820,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/83f20dd3-7678-430c-abb9-f011be10f4ab",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/83f20dd3-7678-430c-abb9-f011be10f4ab/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "84508c74-1ddb-475c-a749-53037b9021c0",
@@ -1892,7 +1838,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/84508c74-1ddb-475c-a749-53037b9021c0",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/84508c74-1ddb-475c-a749-53037b9021c0/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "846a212c-113f-4396-adfa-a7a963f37577",
@@ -1910,7 +1856,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/846a212c-113f-4396-adfa-a7a963f37577",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/846a212c-113f-4396-adfa-a7a963f37577/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "8813b44d-335f-4efc-9148-3727f289e6e4",
@@ -1928,7 +1874,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/8813b44d-335f-4efc-9148-3727f289e6e4",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/8813b44d-335f-4efc-9148-3727f289e6e4/apply?pure=1",
       "first_seen": "2026-11-17T15:56:57Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "890cd88a-4b59-4de5-b1e2-488de36986af",
@@ -1946,7 +1892,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/890cd88a-4b59-4de5-b1e2-488de36986af",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/890cd88a-4b59-4de5-b1e2-488de36986af/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "89ffd130-dd44-4665-9b4f-75c40bcc2f07",
@@ -1964,7 +1910,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/89ffd130-dd44-4665-9b4f-75c40bcc2f07",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/89ffd130-dd44-4665-9b4f-75c40bcc2f07/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "8af7f748-b107-4b98-9c55-02efcc13cdcb",
@@ -1982,7 +1928,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/8af7f748-b107-4b98-9c55-02efcc13cdcb",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/8af7f748-b107-4b98-9c55-02efcc13cdcb/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "8d622e28-5aec-4c5f-8a54-55786b4e75e1",
@@ -2000,7 +1946,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/8d622e28-5aec-4c5f-8a54-55786b4e75e1",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/8d622e28-5aec-4c5f-8a54-55786b4e75e1/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "8ea99b19-0220-4b82-932f-273fbe53b9e8",
@@ -2018,7 +1964,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/8ea99b19-0220-4b82-932f-273fbe53b9e8",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/8ea99b19-0220-4b82-932f-273fbe53b9e8/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "900fad10-8f81-47ae-b891-6f33324f0594",
@@ -2036,7 +1982,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/900fad10-8f81-47ae-b891-6f33324f0594",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/900fad10-8f81-47ae-b891-6f33324f0594/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "95f595a2-283c-4666-9361-52ccf02774a6",
@@ -2054,7 +2000,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/95f595a2-283c-4666-9361-52ccf02774a6",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/95f595a2-283c-4666-9361-52ccf02774a6/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "96ebc2f3-052e-4fba-a446-e7b254dc523b",
@@ -2072,7 +2018,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/96ebc2f3-052e-4fba-a446-e7b254dc523b",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/96ebc2f3-052e-4fba-a446-e7b254dc523b/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "972f31d1-5df2-4e0a-8c70-44f68fd8d4bd",
@@ -2090,7 +2036,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/972f31d1-5df2-4e0a-8c70-44f68fd8d4bd",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/972f31d1-5df2-4e0a-8c70-44f68fd8d4bd/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "977076c9-6581-4c71-b627-bd1f7077386e",
@@ -2108,7 +2054,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/977076c9-6581-4c71-b627-bd1f7077386e",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/977076c9-6581-4c71-b627-bd1f7077386e/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "98a63bb1-cba9-4911-b272-120b979a87d5",
@@ -2126,7 +2072,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/98a63bb1-cba9-4911-b272-120b979a87d5",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/98a63bb1-cba9-4911-b272-120b979a87d5/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "9a35369d-0125-48f7-9ce8-19d16d445c06",
@@ -2144,7 +2090,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/9a35369d-0125-48f7-9ce8-19d16d445c06",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/9a35369d-0125-48f7-9ce8-19d16d445c06/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "9aae1544-756c-4caf-b684-1162ec607ca4",
@@ -2162,7 +2108,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/9aae1544-756c-4caf-b684-1162ec607ca4",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/9aae1544-756c-4caf-b684-1162ec607ca4/apply?pure=1",
       "first_seen": "2026-11-17T15:56:57Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "9afb07b0-0c18-4b0e-bfa9-100c6a4b1fa7",
@@ -2180,7 +2126,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/9afb07b0-0c18-4b0e-bfa9-100c6a4b1fa7",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/9afb07b0-0c18-4b0e-bfa9-100c6a4b1fa7/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "9c4aa8f7-6e90-4e8e-933d-bf25bd8d090a",
@@ -2198,7 +2144,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/9c4aa8f7-6e90-4e8e-933d-bf25bd8d090a",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/9c4aa8f7-6e90-4e8e-933d-bf25bd8d090a/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "9e3bab2c-d65a-4db8-960a-261a37e47ddc",
@@ -2216,7 +2162,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/9e3bab2c-d65a-4db8-960a-261a37e47ddc",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/9e3bab2c-d65a-4db8-960a-261a37e47ddc/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "9ea6fa4e-c372-4de2-957e-44c21530f5a5",
@@ -2234,7 +2180,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/9ea6fa4e-c372-4de2-957e-44c21530f5a5",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/9ea6fa4e-c372-4de2-957e-44c21530f5a5/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "9ec27971-19a3-4174-ae72-52bfaf371f3f",
@@ -2252,7 +2198,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/9ec27971-19a3-4174-ae72-52bfaf371f3f",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/9ec27971-19a3-4174-ae72-52bfaf371f3f/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "9fa1dc00-1098-4624-92ce-55a3ef5a99d2",
@@ -2270,7 +2216,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/9fa1dc00-1098-4624-92ce-55a3ef5a99d2",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/9fa1dc00-1098-4624-92ce-55a3ef5a99d2/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "a0b7c59f-6a85-4761-b54d-682f91ef724b",
@@ -2288,7 +2234,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/a0b7c59f-6a85-4761-b54d-682f91ef724b",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/a0b7c59f-6a85-4761-b54d-682f91ef724b/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "a1a2bf10-b897-4416-a917-323cd8b26d80",
@@ -2306,7 +2252,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/a1a2bf10-b897-4416-a917-323cd8b26d80",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/a1a2bf10-b897-4416-a917-323cd8b26d80/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "a38fd40a-9c8b-43df-997b-3e19063ceb56",
@@ -2324,7 +2270,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/a38fd40a-9c8b-43df-997b-3e19063ceb56",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/a38fd40a-9c8b-43df-997b-3e19063ceb56/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "a7d1efb0-e046-428d-8750-0d7683127dac",
@@ -2342,7 +2288,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/a7d1efb0-e046-428d-8750-0d7683127dac",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/a7d1efb0-e046-428d-8750-0d7683127dac/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "a87c7dd9-36d0-441f-85b0-97a3a0bb3834",
@@ -2360,7 +2306,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/a87c7dd9-36d0-441f-85b0-97a3a0bb3834",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/a87c7dd9-36d0-441f-85b0-97a3a0bb3834/apply?pure=1",
       "first_seen": "2026-11-17T15:56:57Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "a8cc4d1a-c461-479c-bde1-0c63feb358ee",
@@ -2378,7 +2324,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/a8cc4d1a-c461-479c-bde1-0c63feb358ee",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/a8cc4d1a-c461-479c-bde1-0c63feb358ee/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "aa490781-3d3d-474a-83af-0be058560352",
@@ -2396,7 +2342,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/aa490781-3d3d-474a-83af-0be058560352",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/aa490781-3d3d-474a-83af-0be058560352/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "aa6214ce-2373-4c32-909c-1f0456ca6bcd",
@@ -2414,7 +2360,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/aa6214ce-2373-4c32-909c-1f0456ca6bcd",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/aa6214ce-2373-4c32-909c-1f0456ca6bcd/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "ab808fe0-e6df-4611-80b1-a925018682be",
@@ -2432,7 +2378,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/ab808fe0-e6df-4611-80b1-a925018682be",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/ab808fe0-e6df-4611-80b1-a925018682be/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "ae2a7401-b34f-4557-84f4-5c13940c8127",
@@ -2450,7 +2396,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/ae2a7401-b34f-4557-84f4-5c13940c8127",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/ae2a7401-b34f-4557-84f4-5c13940c8127/apply?pure=1",
       "first_seen": "2026-11-17T15:56:57Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "aeb39a50-fd37-4a06-a8cb-ac4a99661286",
@@ -2468,7 +2414,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/aeb39a50-fd37-4a06-a8cb-ac4a99661286",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/aeb39a50-fd37-4a06-a8cb-ac4a99661286/apply?pure=1",
       "first_seen": "2026-11-17T15:56:57Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "afef6efd-139e-4807-8080-8e840914f98e",
@@ -2486,7 +2432,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/afef6efd-139e-4807-8080-8e840914f98e",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/afef6efd-139e-4807-8080-8e840914f98e/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "b25d9eb9-642f-4085-8729-92d850f645a5",
@@ -2504,7 +2450,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/b25d9eb9-642f-4085-8729-92d850f645a5",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/b25d9eb9-642f-4085-8729-92d850f645a5/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "b2d9cbb7-5e29-48a2-b954-3ce241fb5850",
@@ -2522,7 +2468,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/b2d9cbb7-5e29-48a2-b954-3ce241fb5850",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/b2d9cbb7-5e29-48a2-b954-3ce241fb5850/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "b30793a3-7566-48ff-8d07-717f634bd8b4",
@@ -2540,7 +2486,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/b30793a3-7566-48ff-8d07-717f634bd8b4",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/b30793a3-7566-48ff-8d07-717f634bd8b4/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "b3da0603-db93-42ce-8faf-868e9a3dc0f7",
@@ -2558,7 +2504,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/b3da0603-db93-42ce-8faf-868e9a3dc0f7",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/b3da0603-db93-42ce-8faf-868e9a3dc0f7/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "b4270a8c-0523-41d2-b6b4-c0cae2452c92",
@@ -2576,25 +2522,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/b4270a8c-0523-41d2-b6b4-c0cae2452c92",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/b4270a8c-0523-41d2-b6b4-c0cae2452c92/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
-    },
-    {
-      "id": "b45ae05d-c4d8-428b-a024-d03bc944c806",
-      "title": "药化高级工艺研究员",
-      "company": "RemeGen",
-      "location": "",
-      "remote": "unspecified",
-      "department": "",
-      "employment_type": "FULL_TIME",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-07-20",
-      "updated": "2026-07-20",
-      "deadline": "",
-      "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/b45ae05d-c4d8-428b-a024-d03bc944c806",
-      "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/b45ae05d-c4d8-428b-a024-d03bc944c806/apply?pure=1",
-      "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "b5429677-cd73-441a-9080-306d3f9d36a6",
@@ -2612,7 +2540,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/b5429677-cd73-441a-9080-306d3f9d36a6",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/b5429677-cd73-441a-9080-306d3f9d36a6/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "b6074e97-3eba-4eab-8b7b-c11fd561e7df",
@@ -2630,7 +2558,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/b6074e97-3eba-4eab-8b7b-c11fd561e7df",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/b6074e97-3eba-4eab-8b7b-c11fd561e7df/apply?pure=1",
       "first_seen": "2026-11-17T15:56:57Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "b82cfa30-413f-4efb-9e84-758bf1605738",
@@ -2648,7 +2576,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/b82cfa30-413f-4efb-9e84-758bf1605738",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/b82cfa30-413f-4efb-9e84-758bf1605738/apply?pure=1",
       "first_seen": "2026-11-17T15:56:57Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "ba0c27cb-7e65-4aa6-8a94-9d1ccf6d649a",
@@ -2666,7 +2594,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/ba0c27cb-7e65-4aa6-8a94-9d1ccf6d649a",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/ba0c27cb-7e65-4aa6-8a94-9d1ccf6d649a/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "ba56a8c6-0e1e-4c9b-8f7f-e32e10ab7c2f",
@@ -2684,7 +2612,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/ba56a8c6-0e1e-4c9b-8f7f-e32e10ab7c2f",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/ba56a8c6-0e1e-4c9b-8f7f-e32e10ab7c2f/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "bb37a88b-ef7f-4672-8681-cf57cef3774b",
@@ -2702,7 +2630,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/bb37a88b-ef7f-4672-8681-cf57cef3774b",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/bb37a88b-ef7f-4672-8681-cf57cef3774b/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "bc98bfd7-f99c-4807-ae40-7c181d110f40",
@@ -2720,7 +2648,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/bc98bfd7-f99c-4807-ae40-7c181d110f40",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/bc98bfd7-f99c-4807-ae40-7c181d110f40/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "bd9a0c10-e41e-487f-8ef4-23018793d956",
@@ -2738,7 +2666,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/bd9a0c10-e41e-487f-8ef4-23018793d956",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/bd9a0c10-e41e-487f-8ef4-23018793d956/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "be891486-0187-4567-964c-ff24f6c7791a",
@@ -2756,7 +2684,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/be891486-0187-4567-964c-ff24f6c7791a",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/be891486-0187-4567-964c-ff24f6c7791a/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "be9c6047-5f62-4cbb-a957-7a8127df27e0",
@@ -2774,7 +2702,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/be9c6047-5f62-4cbb-a957-7a8127df27e0",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/be9c6047-5f62-4cbb-a957-7a8127df27e0/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "bed51f99-7729-406f-b436-bc9d0a12d0c2",
@@ -2792,7 +2720,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/bed51f99-7729-406f-b436-bc9d0a12d0c2",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/bed51f99-7729-406f-b436-bc9d0a12d0c2/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "bedfbead-0c99-438e-9bf3-89a282797605",
@@ -2810,7 +2738,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/bedfbead-0c99-438e-9bf3-89a282797605",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/bedfbead-0c99-438e-9bf3-89a282797605/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "c1a1d72a-b958-4de6-8ae8-9638910a5c2c",
@@ -2828,7 +2756,25 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/c1a1d72a-b958-4de6-8ae8-9638910a5c2c",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/c1a1d72a-b958-4de6-8ae8-9638910a5c2c/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
+    },
+    {
+      "id": "c4075574-a202-4e1e-adcf-483fa74a29da",
+      "title": "研发分析AD质量研究员—理化分析",
+      "company": "RemeGen",
+      "location": "",
+      "remote": "unspecified",
+      "department": "",
+      "employment_type": "FULL_TIME",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-23",
+      "updated": "2026-11-23",
+      "deadline": "",
+      "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/c4075574-a202-4e1e-adcf-483fa74a29da",
+      "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/c4075574-a202-4e1e-adcf-483fa74a29da/apply?pure=1",
+      "first_seen": "2026-11-23T18:00:07Z",
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "c4266f89-9162-40cc-a481-fda7ac3c9b77",
@@ -2846,7 +2792,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/c4266f89-9162-40cc-a481-fda7ac3c9b77",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/c4266f89-9162-40cc-a481-fda7ac3c9b77/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "c499d428-3a27-4ddc-b7c1-a6c03bedb4e0",
@@ -2864,7 +2810,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/c499d428-3a27-4ddc-b7c1-a6c03bedb4e0",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/c499d428-3a27-4ddc-b7c1-a6c03bedb4e0/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "c4b619c2-8c08-45ac-94e4-f3e66c8105ae",
@@ -2882,7 +2828,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/c4b619c2-8c08-45ac-94e4-f3e66c8105ae",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/c4b619c2-8c08-45ac-94e4-f3e66c8105ae/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "c4d8c91e-a3b8-4552-b6ed-4d20c6e082d2",
@@ -2900,7 +2846,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/c4d8c91e-a3b8-4552-b6ed-4d20c6e082d2",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/c4d8c91e-a3b8-4552-b6ed-4d20c6e082d2/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "c4f88a77-ad11-4042-bc60-fbbef15c7e69",
@@ -2918,7 +2864,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/c4f88a77-ad11-4042-bc60-fbbef15c7e69",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/c4f88a77-ad11-4042-bc60-fbbef15c7e69/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "c5a48bd0-b5b6-4039-b749-ae5df0d66a88",
@@ -2936,7 +2882,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/c5a48bd0-b5b6-4039-b749-ae5df0d66a88",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/c5a48bd0-b5b6-4039-b749-ae5df0d66a88/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "c63632ff-1421-45fa-a520-d63756df8359",
@@ -2954,7 +2900,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/c63632ff-1421-45fa-a520-d63756df8359",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/c63632ff-1421-45fa-a520-d63756df8359/apply?pure=1",
       "first_seen": "2026-11-17T15:56:57Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "c765953e-abbd-44ef-bfe1-4de4915be5aa",
@@ -2972,7 +2918,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/c765953e-abbd-44ef-bfe1-4de4915be5aa",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/c765953e-abbd-44ef-bfe1-4de4915be5aa/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "c787b3c7-7ebf-4a36-a728-ae95d8989f52",
@@ -2990,7 +2936,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/c787b3c7-7ebf-4a36-a728-ae95d8989f52",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/c787b3c7-7ebf-4a36-a728-ae95d8989f52/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "c83c0971-9100-4b18-85c8-725b93b152a6",
@@ -3008,7 +2954,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/c83c0971-9100-4b18-85c8-725b93b152a6",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/c83c0971-9100-4b18-85c8-725b93b152a6/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "ce7af451-2bf2-4b09-958f-5a4e4a28bc87",
@@ -3026,7 +2972,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/ce7af451-2bf2-4b09-958f-5a4e4a28bc87",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/ce7af451-2bf2-4b09-958f-5a4e4a28bc87/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "cf2eef67-3845-4e9c-b074-2cb9320150aa",
@@ -3044,7 +2990,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/cf2eef67-3845-4e9c-b074-2cb9320150aa",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/cf2eef67-3845-4e9c-b074-2cb9320150aa/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "d1c430f2-74c3-4e01-b8e9-44d777b1dad4",
@@ -3062,7 +3008,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/d1c430f2-74c3-4e01-b8e9-44d777b1dad4",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/d1c430f2-74c3-4e01-b8e9-44d777b1dad4/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "d1cee2fd-e303-456c-8a72-5bc167b9cf89",
@@ -3080,7 +3026,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/d1cee2fd-e303-456c-8a72-5bc167b9cf89",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/d1cee2fd-e303-456c-8a72-5bc167b9cf89/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "d2b33c10-3ab2-4363-b515-bbc342d04bfa",
@@ -3098,7 +3044,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/d2b33c10-3ab2-4363-b515-bbc342d04bfa",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/d2b33c10-3ab2-4363-b515-bbc342d04bfa/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "d3864ecc-73eb-4e22-89a7-afd5ab7734cc",
@@ -3116,7 +3062,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/d3864ecc-73eb-4e22-89a7-afd5ab7734cc",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/d3864ecc-73eb-4e22-89a7-afd5ab7734cc/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "d40c8e69-472e-494f-ab13-e515c023bc23",
@@ -3134,7 +3080,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/d40c8e69-472e-494f-ab13-e515c023bc23",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/d40c8e69-472e-494f-ab13-e515c023bc23/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "d492b6c6-89c2-45d2-9e67-85f2866c9534",
@@ -3152,7 +3098,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/d492b6c6-89c2-45d2-9e67-85f2866c9534",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/d492b6c6-89c2-45d2-9e67-85f2866c9534/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "d55ebc50-c073-416a-b98a-a17506f255b0",
@@ -3170,7 +3116,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/d55ebc50-c073-416a-b98a-a17506f255b0",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/d55ebc50-c073-416a-b98a-a17506f255b0/apply?pure=1",
       "first_seen": "2026-11-17T15:56:57Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "d775abf9-c732-451d-a97a-b622b5a57955",
@@ -3188,7 +3134,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/d775abf9-c732-451d-a97a-b622b5a57955",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/d775abf9-c732-451d-a97a-b622b5a57955/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "d8120916-b83a-451a-aecb-ef3ea9620ba7",
@@ -3206,7 +3152,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/d8120916-b83a-451a-aecb-ef3ea9620ba7",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/d8120916-b83a-451a-aecb-ef3ea9620ba7/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "da310d52-c32b-4716-a14d-71027c4484f7",
@@ -3224,7 +3170,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/da310d52-c32b-4716-a14d-71027c4484f7",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/da310d52-c32b-4716-a14d-71027c4484f7/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "daffe293-39ef-4ad8-8e1c-ee773f46fa1c",
@@ -3242,7 +3188,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/daffe293-39ef-4ad8-8e1c-ee773f46fa1c",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/daffe293-39ef-4ad8-8e1c-ee773f46fa1c/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "dbcaba17-6796-4000-986e-bd544ad5e9b1",
@@ -3260,7 +3206,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/dbcaba17-6796-4000-986e-bd544ad5e9b1",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/dbcaba17-6796-4000-986e-bd544ad5e9b1/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "dc2b43ec-50a9-4fd8-85e1-1115ca618253",
@@ -3278,7 +3224,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/dc2b43ec-50a9-4fd8-85e1-1115ca618253",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/dc2b43ec-50a9-4fd8-85e1-1115ca618253/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "dd0533df-b2b5-4912-b9a6-70872ed092b5",
@@ -3296,7 +3242,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/dd0533df-b2b5-4912-b9a6-70872ed092b5",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/dd0533df-b2b5-4912-b9a6-70872ed092b5/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "dd25ccaf-150b-4e81-8b9d-509eca48f6ab",
@@ -3314,7 +3260,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/dd25ccaf-150b-4e81-8b9d-509eca48f6ab",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/dd25ccaf-150b-4e81-8b9d-509eca48f6ab/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "dfea576e-08f5-4c06-8d5a-2f142831ee1f",
@@ -3332,7 +3278,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/dfea576e-08f5-4c06-8d5a-2f142831ee1f",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/dfea576e-08f5-4c06-8d5a-2f142831ee1f/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "e153bda6-3691-4edc-a38c-156a834d6200",
@@ -3350,7 +3296,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/e153bda6-3691-4edc-a38c-156a834d6200",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/e153bda6-3691-4edc-a38c-156a834d6200/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "e24a7494-8ffb-4520-a5b6-d29e23f79e68",
@@ -3368,7 +3314,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/e24a7494-8ffb-4520-a5b6-d29e23f79e68",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/e24a7494-8ffb-4520-a5b6-d29e23f79e68/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "e2c08a08-9182-453b-94b7-c2c0b8782afc",
@@ -3386,7 +3332,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/e2c08a08-9182-453b-94b7-c2c0b8782afc",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/e2c08a08-9182-453b-94b7-c2c0b8782afc/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "e37a4070-6b45-4dc5-a377-681dfa31327e",
@@ -3404,7 +3350,25 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/e37a4070-6b45-4dc5-a377-681dfa31327e",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/e37a4070-6b45-4dc5-a377-681dfa31327e/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
+    },
+    {
+      "id": "e4012ba6-34cc-442f-9d89-ce6ce3b4579f",
+      "title": "北京二大区经理（肾科领域）",
+      "company": "RemeGen",
+      "location": "",
+      "remote": "unspecified",
+      "department": "荣昌生物",
+      "employment_type": "FULL_TIME",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-23",
+      "updated": "2026-11-23",
+      "deadline": "",
+      "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/e4012ba6-34cc-442f-9d89-ce6ce3b4579f",
+      "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/e4012ba6-34cc-442f-9d89-ce6ce3b4579f/apply?pure=1",
+      "first_seen": "2026-11-23T18:00:07Z",
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "e449622d-5d08-49bc-8a62-ffcc4ea27531",
@@ -3422,7 +3386,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/e449622d-5d08-49bc-8a62-ffcc4ea27531",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/e449622d-5d08-49bc-8a62-ffcc4ea27531/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "e5c08e55-1b44-4c5b-93e4-f060ace5ccd5",
@@ -3440,7 +3404,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/e5c08e55-1b44-4c5b-93e4-f060ace5ccd5",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/e5c08e55-1b44-4c5b-93e4-f060ace5ccd5/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "e646d0cc-ba5a-4797-9afd-ffb976260e07",
@@ -3458,7 +3422,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/e646d0cc-ba5a-4797-9afd-ffb976260e07",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/e646d0cc-ba5a-4797-9afd-ffb976260e07/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "e8055d87-149f-436c-8660-e3327897595c",
@@ -3476,7 +3440,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/e8055d87-149f-436c-8660-e3327897595c",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/e8055d87-149f-436c-8660-e3327897595c/apply?pure=1",
       "first_seen": "2026-11-17T15:56:57Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "e89c2077-b03f-4928-a254-5bf693991ac7",
@@ -3494,7 +3458,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/e89c2077-b03f-4928-a254-5bf693991ac7",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/e89c2077-b03f-4928-a254-5bf693991ac7/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "ea9cde5a-630e-4471-87fb-968645529886",
@@ -3512,7 +3476,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/ea9cde5a-630e-4471-87fb-968645529886",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/ea9cde5a-630e-4471-87fb-968645529886/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "eabd1871-c5a0-40f0-9090-89331af6528c",
@@ -3530,7 +3494,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/eabd1871-c5a0-40f0-9090-89331af6528c",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/eabd1871-c5a0-40f0-9090-89331af6528c/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "eb8b1e4a-2492-48c9-b53a-f31de2dedee7",
@@ -3548,11 +3512,11 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/eb8b1e4a-2492-48c9-b53a-f31de2dedee7",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/eb8b1e4a-2492-48c9-b53a-f31de2dedee7/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
-      "id": "ed456293-c09c-4bb5-a7b1-99438ff29a2c",
-      "title": "HRBP/经理",
+      "id": "eda963f3-085f-43ef-b5eb-5f27f56cd540",
+      "title": "研发分析AD质量研究员—色谱分析",
       "company": "RemeGen",
       "location": "",
       "remote": "unspecified",
@@ -3560,13 +3524,13 @@
       "employment_type": "FULL_TIME",
       "salary_text": "",
       "salary_source": "",
-      "posted": "2026-07-20",
-      "updated": "2026-07-20",
+      "posted": "2026-11-23",
+      "updated": "2026-11-23",
       "deadline": "",
-      "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/ed456293-c09c-4bb5-a7b1-99438ff29a2c",
-      "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/ed456293-c09c-4bb5-a7b1-99438ff29a2c/apply?pure=1",
-      "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/eda963f3-085f-43ef-b5eb-5f27f56cd540",
+      "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/eda963f3-085f-43ef-b5eb-5f27f56cd540/apply?pure=1",
+      "first_seen": "2026-11-23T18:00:07Z",
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "ef6e67a3-0417-4e5a-9e0c-30695422be0a",
@@ -3584,7 +3548,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/ef6e67a3-0417-4e5a-9e0c-30695422be0a",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/ef6e67a3-0417-4e5a-9e0c-30695422be0a/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "ef8111d6-255c-47ea-91b9-16e685c944f6",
@@ -3602,7 +3566,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/ef8111d6-255c-47ea-91b9-16e685c944f6",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/ef8111d6-255c-47ea-91b9-16e685c944f6/apply?pure=1",
       "first_seen": "2026-11-17T15:56:57Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "efc7c46a-7a3d-457b-a76b-9c6e386d1a01",
@@ -3620,7 +3584,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/efc7c46a-7a3d-457b-a76b-9c6e386d1a01",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/efc7c46a-7a3d-457b-a76b-9c6e386d1a01/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "f0fdcf7b-3a24-4691-ab26-1724be449c2c",
@@ -3638,7 +3602,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/f0fdcf7b-3a24-4691-ab26-1724be449c2c",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/f0fdcf7b-3a24-4691-ab26-1724be449c2c/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "f1a47b70-f365-4e9f-b030-c44b92038394",
@@ -3656,7 +3620,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/f1a47b70-f365-4e9f-b030-c44b92038394",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/f1a47b70-f365-4e9f-b030-c44b92038394/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "f1b4d3a8-e053-44df-a083-9a456ddc69a2",
@@ -3674,7 +3638,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/f1b4d3a8-e053-44df-a083-9a456ddc69a2",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/f1b4d3a8-e053-44df-a083-9a456ddc69a2/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "f1fea9ee-4af4-4f92-8d9a-ddcba376dfcc",
@@ -3692,7 +3656,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/f1fea9ee-4af4-4f92-8d9a-ddcba376dfcc",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/f1fea9ee-4af4-4f92-8d9a-ddcba376dfcc/apply?pure=1",
       "first_seen": "2026-11-17T15:56:57Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "f20388d7-0133-407b-bacf-1f44826fd256",
@@ -3710,7 +3674,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/f20388d7-0133-407b-bacf-1f44826fd256",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/f20388d7-0133-407b-bacf-1f44826fd256/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "f422902e-e12f-449f-af05-4eab03097908",
@@ -3728,7 +3692,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/f422902e-e12f-449f-af05-4eab03097908",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/f422902e-e12f-449f-af05-4eab03097908/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "f447602e-0d21-4714-919e-7cf2fda3807b",
@@ -3746,7 +3710,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/f447602e-0d21-4714-919e-7cf2fda3807b",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/f447602e-0d21-4714-919e-7cf2fda3807b/apply?pure=1",
       "first_seen": "2026-11-17T15:56:57Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "f54227ea-e15c-44f0-b294-99492807cb7b",
@@ -3764,7 +3728,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/f54227ea-e15c-44f0-b294-99492807cb7b",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/f54227ea-e15c-44f0-b294-99492807cb7b/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "f5c9a7e1-5dd5-4c86-9f0f-c9af77f0050b",
@@ -3782,7 +3746,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/f5c9a7e1-5dd5-4c86-9f0f-c9af77f0050b",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/f5c9a7e1-5dd5-4c86-9f0f-c9af77f0050b/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "f7588e2f-bda3-4a68-9d4e-87bf604c4ec2",
@@ -3800,7 +3764,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/f7588e2f-bda3-4a68-9d4e-87bf604c4ec2",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/f7588e2f-bda3-4a68-9d4e-87bf604c4ec2/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "f78c28ba-6330-465d-82fd-df019a15d05b",
@@ -3818,7 +3782,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/f78c28ba-6330-465d-82fd-df019a15d05b",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/f78c28ba-6330-465d-82fd-df019a15d05b/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "f7bf35e9-06c9-4458-b79f-258ee0805bda",
@@ -3836,7 +3800,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/f7bf35e9-06c9-4458-b79f-258ee0805bda",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/f7bf35e9-06c9-4458-b79f-258ee0805bda/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "fab334f9-d57c-435f-8a3e-3252bbec5496",
@@ -3854,7 +3818,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/fab334f9-d57c-435f-8a3e-3252bbec5496",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/fab334f9-d57c-435f-8a3e-3252bbec5496/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "fb1e5c23-411a-49e7-9a67-30bc3b540549",
@@ -3872,7 +3836,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/fb1e5c23-411a-49e7-9a67-30bc3b540549",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/fb1e5c23-411a-49e7-9a67-30bc3b540549/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "fbe24fc3-a6dd-4248-b393-ef92821c95ba",
@@ -3890,7 +3854,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/fbe24fc3-a6dd-4248-b393-ef92821c95ba",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/fbe24fc3-a6dd-4248-b393-ef92821c95ba/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "fd60eda9-1568-48c8-8d7e-f9cb724f08cd",
@@ -3908,7 +3872,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/fd60eda9-1568-48c8-8d7e-f9cb724f08cd",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/fd60eda9-1568-48c8-8d7e-f9cb724f08cd/apply?pure=1",
       "first_seen": "2026-11-17T15:56:57Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "ffe893a8-3400-4356-a423-d70bc1bda5bc",
@@ -3926,7 +3890,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/remegen/45549#/job/ffe893a8-3400-4356-a423-d70bc1bda5bc",
       "apply_url": "https://app.mokahr.com/apply/remegen/45549#/job/ffe893a8-3400-4356-a423-d70bc1bda5bc/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     }
   ],
   "ats": "moka",

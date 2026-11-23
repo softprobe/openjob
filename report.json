@@ -1,23 +1,29 @@
 {
-  "generated": "2026-11-22T14:31:17Z",
+  "generated": "2026-11-23T18:00:07Z",
   "publish": true,
   "companies": 369,
-  "jobs": 33429,
+  "jobs": 33407,
   "before": {
-    "greenhouse": 13009,
+    "greenhouse": 13003,
     "workable": 10,
-    "lever": 1968,
+    "lever": 1965,
     "ashby": 3632,
-    "moka": 14817
+    "moka": 14819
   },
   "after": {
-    "greenhouse": 13003,
-    "ashby": 3632,
-    "lever": 1965,
-    "moka": 14819,
+    "greenhouse": 12985,
+    "ashby": 3634,
+    "lever": 1967,
+    "moka": 14811,
     "workable": 10
   },
   "dropped": [],
   "hidden": [],
-  "stale": []
+  "stale": [
+    {
+      "ats": "lever",
+      "board": "bloomwellcare",
+      "slug": "bloomwell-autism-therapy"
+    }
+  ]
 }

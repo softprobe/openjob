@@ -1,8 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-22T14:31:17Z",
+  "checked_at": "2026-11-23T18:00:07Z",
   "failed_at": null,
-  "etag": "W/\"9dc703e59319b23c13e165c794b669c8\"",
+  "etag": "W/\"369b6d22fa0795ac7670bfbbf2e8b0d0\"",
   "jobs": [
     {
       "id": "5200002007",
@@ -20,11 +20,11 @@
       "source_url": "https://job-boards.greenhouse.io/baton/jobs/5200002007",
       "apply_url": "https://job-boards.greenhouse.io/baton/jobs/5200002007",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
-      "id": "5255959007",
-      "title": "Talent Lead",
+      "id": "5307037007",
+      "title": "Technical Recruiting Lead",
       "company": "Baton (A Ryder Technology Lab)",
       "location": "San Francisco, California, United States",
       "remote": "unspecified",
@@ -32,13 +32,13 @@
       "employment_type": "",
       "salary_text": "",
       "salary_source": "",
-      "posted": "2026-10-02",
-      "updated": "2026-10-02",
+      "posted": "2026-11-23",
+      "updated": "2026-11-23",
       "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/baton/jobs/5255959007",
-      "apply_url": "https://job-boards.greenhouse.io/baton/jobs/5255959007",
-      "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "source_url": "https://job-boards.greenhouse.io/baton/jobs/5307037007",
+      "apply_url": "https://job-boards.greenhouse.io/baton/jobs/5307037007",
+      "first_seen": "2026-11-23T18:00:07Z",
+      "last_checked": "2026-11-23T18:00:07Z"
     }
   ],
   "ats": "greenhouse",

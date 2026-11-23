@@ -1,8 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-22T14:31:17Z",
+  "checked_at": "2026-11-23T18:00:07Z",
   "failed_at": null,
-  "etag": "W/\"6927167fa97618f440149871dab7d4bd\"",
+  "etag": "W/\"58cf189fc4516ee0646abbaf21649bf2\"",
   "jobs": [
     {
       "id": "4749356008",
@@ -20,25 +20,7 @@
       "source_url": "https://job-boards.greenhouse.io/massarcapital/jobs/4749356008",
       "apply_url": "https://job-boards.greenhouse.io/massarcapital/jobs/4749356008",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-22T14:31:17Z"
-    },
-    {
-      "id": "4785522008",
-      "title": "Quantitative Engineer",
-      "company": "Massar Capital",
-      "location": "Vienna, Austria",
-      "remote": "unspecified",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-03-19",
-      "updated": "2026-03-19",
-      "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/massarcapital/jobs/4785522008",
-      "apply_url": "https://job-boards.greenhouse.io/massarcapital/jobs/4785522008",
-      "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "4935227008",
@@ -56,7 +38,7 @@
       "source_url": "https://job-boards.greenhouse.io/massarcapital/jobs/4935227008",
       "apply_url": "https://job-boards.greenhouse.io/massarcapital/jobs/4935227008",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "5024481008",
@@ -74,7 +56,7 @@
       "source_url": "https://job-boards.greenhouse.io/massarcapital/jobs/5024481008",
       "apply_url": "https://job-boards.greenhouse.io/massarcapital/jobs/5024481008",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "5099359008",
@@ -92,7 +74,43 @@
       "source_url": "https://job-boards.greenhouse.io/massarcapital/jobs/5099359008",
       "apply_url": "https://job-boards.greenhouse.io/massarcapital/jobs/5099359008",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
+    },
+    {
+      "id": "5369657008",
+      "title": "Data Engineer",
+      "company": "Massar Capital",
+      "location": "Vienna, Austria",
+      "remote": "unspecified",
+      "department": "",
+      "employment_type": "",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-23",
+      "updated": "2026-11-23",
+      "deadline": "",
+      "source_url": "https://job-boards.greenhouse.io/massarcapital/jobs/5369657008",
+      "apply_url": "https://job-boards.greenhouse.io/massarcapital/jobs/5369657008",
+      "first_seen": "2026-11-23T18:00:07Z",
+      "last_checked": "2026-11-23T18:00:07Z"
+    },
+    {
+      "id": "5438350008",
+      "title": "Data Engineer",
+      "company": "Massar Capital",
+      "location": "New York City",
+      "remote": "unspecified",
+      "department": "",
+      "employment_type": "",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-23",
+      "updated": "2026-11-23",
+      "deadline": "",
+      "source_url": "https://job-boards.greenhouse.io/massarcapital/jobs/5438350008",
+      "apply_url": "https://job-boards.greenhouse.io/massarcapital/jobs/5438350008",
+      "first_seen": "2026-11-23T18:00:07Z",
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "5490553008",
@@ -110,7 +128,25 @@
       "source_url": "https://job-boards.greenhouse.io/massarcapital/jobs/5490553008",
       "apply_url": "https://job-boards.greenhouse.io/massarcapital/jobs/5490553008",
       "first_seen": "2026-11-20T15:23:49Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
+    },
+    {
+      "id": "5492172008",
+      "title": "C++ Software Engineer (NYC)",
+      "company": "Massar Capital",
+      "location": "New York City",
+      "remote": "unspecified",
+      "department": "",
+      "employment_type": "",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-23",
+      "updated": "2026-11-23",
+      "deadline": "",
+      "source_url": "https://job-boards.greenhouse.io/massarcapital/jobs/5492172008",
+      "apply_url": "https://job-boards.greenhouse.io/massarcapital/jobs/5492172008",
+      "first_seen": "2026-11-23T18:00:07Z",
+      "last_checked": "2026-11-23T18:00:07Z"
     }
   ],
   "ats": "greenhouse",

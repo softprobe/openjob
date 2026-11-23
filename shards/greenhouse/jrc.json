@@ -1,8 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-22T14:31:17Z",
+  "checked_at": "2026-11-23T18:00:07Z",
   "failed_at": null,
-  "etag": "W/\"38557f8ec6e57648e244c9327c74e5d1\"",
+  "etag": "W/\"12981d096a466bc003cb6779a1476648\"",
   "jobs": [
     {
       "id": "4419972009",
@@ -20,7 +20,7 @@
       "source_url": "https://job-boards.greenhouse.io/jrc/jobs/4419972009",
       "apply_url": "https://job-boards.greenhouse.io/jrc/jobs/4419972009",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "4424272009",
@@ -38,7 +38,7 @@
       "source_url": "https://job-boards.greenhouse.io/jrc/jobs/4424272009",
       "apply_url": "https://job-boards.greenhouse.io/jrc/jobs/4424272009",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "4434933009",
@@ -56,7 +56,7 @@
       "source_url": "https://job-boards.greenhouse.io/jrc/jobs/4434933009",
       "apply_url": "https://job-boards.greenhouse.io/jrc/jobs/4434933009",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "4438320009",
@@ -74,11 +74,11 @@
       "source_url": "https://job-boards.greenhouse.io/jrc/jobs/4438320009",
       "apply_url": "https://job-boards.greenhouse.io/jrc/jobs/4438320009",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "4443870009",
-      "title": "Strategic Weapons Systems Program Analyst",
+      "title": "Program Analyst, Strategic Weapons Systems",
       "company": "JRC Careers",
       "location": "Dahlgren, Virginia, United States",
       "remote": "unspecified",
@@ -87,16 +87,16 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-16",
-      "updated": "2026-11-18",
+      "updated": "2026-11-23",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/jrc/jobs/4443870009",
       "apply_url": "https://job-boards.greenhouse.io/jrc/jobs/4443870009",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "4462311009",
-      "title": "Submarine Technical Writer",
+      "title": "Documentation Specialist",
       "company": "JRC Careers",
       "location": "Dahlgren, Virginia, United States",
       "remote": "unspecified",
@@ -105,12 +105,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-21",
-      "updated": "2026-11-18",
+      "updated": "2026-11-23",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/jrc/jobs/4462311009",
       "apply_url": "https://job-boards.greenhouse.io/jrc/jobs/4462311009",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "4465461009",
@@ -128,7 +128,7 @@
       "source_url": "https://job-boards.greenhouse.io/jrc/jobs/4465461009",
       "apply_url": "https://job-boards.greenhouse.io/jrc/jobs/4465461009",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "4465466009",
@@ -146,7 +146,7 @@
       "source_url": "https://job-boards.greenhouse.io/jrc/jobs/4465466009",
       "apply_url": "https://job-boards.greenhouse.io/jrc/jobs/4465466009",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "4474187009",
@@ -164,7 +164,7 @@
       "source_url": "https://job-boards.greenhouse.io/jrc/jobs/4474187009",
       "apply_url": "https://job-boards.greenhouse.io/jrc/jobs/4474187009",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "4475905009",
@@ -182,25 +182,7 @@
       "source_url": "https://job-boards.greenhouse.io/jrc/jobs/4475905009",
       "apply_url": "https://job-boards.greenhouse.io/jrc/jobs/4475905009",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-22T14:31:17Z"
-    },
-    {
-      "id": "4477366009",
-      "title": "Program Analyst",
-      "company": "JRC Careers",
-      "location": "Yorba Linda, California, United States",
-      "remote": "unspecified",
-      "department": "",
-      "employment_type": "TEMPORARY",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-11-03",
-      "updated": "2026-11-18",
-      "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/jrc/jobs/4477366009",
-      "apply_url": "https://job-boards.greenhouse.io/jrc/jobs/4477366009",
-      "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "4484174009",
@@ -218,7 +200,7 @@
       "source_url": "https://job-boards.greenhouse.io/jrc/jobs/4484174009",
       "apply_url": "https://job-boards.greenhouse.io/jrc/jobs/4484174009",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "4484199009",
@@ -236,7 +218,7 @@
       "source_url": "https://job-boards.greenhouse.io/jrc/jobs/4484199009",
       "apply_url": "https://job-boards.greenhouse.io/jrc/jobs/4484199009",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "4485922009",
@@ -254,7 +236,7 @@
       "source_url": "https://job-boards.greenhouse.io/jrc/jobs/4485922009",
       "apply_url": "https://job-boards.greenhouse.io/jrc/jobs/4485922009",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "4485964009",
@@ -272,7 +254,7 @@
       "source_url": "https://job-boards.greenhouse.io/jrc/jobs/4485964009",
       "apply_url": "https://job-boards.greenhouse.io/jrc/jobs/4485964009",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "4488565009",
@@ -290,7 +272,7 @@
       "source_url": "https://job-boards.greenhouse.io/jrc/jobs/4488565009",
       "apply_url": "https://job-boards.greenhouse.io/jrc/jobs/4488565009",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "4488594009",
@@ -308,7 +290,7 @@
       "source_url": "https://job-boards.greenhouse.io/jrc/jobs/4488594009",
       "apply_url": "https://job-boards.greenhouse.io/jrc/jobs/4488594009",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "4506477009",
@@ -326,7 +308,7 @@
       "source_url": "https://job-boards.greenhouse.io/jrc/jobs/4506477009",
       "apply_url": "https://job-boards.greenhouse.io/jrc/jobs/4506477009",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "4508540009",
@@ -344,25 +326,7 @@
       "source_url": "https://job-boards.greenhouse.io/jrc/jobs/4508540009",
       "apply_url": "https://job-boards.greenhouse.io/jrc/jobs/4508540009",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
-    },
-    {
-      "id": "4508790009",
-      "title": "Senior Security Officer (SS0)",
-      "company": "JRC Careers",
-      "location": "District of Columbia, United States",
-      "remote": "unspecified",
-      "department": "",
-      "employment_type": "FULL_TIME",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-11-16",
-      "updated": "2026-11-18",
-      "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/jrc/jobs/4508790009",
-      "apply_url": "https://job-boards.greenhouse.io/jrc/jobs/4508790009",
-      "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "4512159009",
@@ -380,7 +344,7 @@
       "source_url": "https://job-boards.greenhouse.io/jrc/jobs/4512159009",
       "apply_url": "https://job-boards.greenhouse.io/jrc/jobs/4512159009",
       "first_seen": "2026-11-18T15:36:26Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "4512199009",
@@ -398,7 +362,7 @@
       "source_url": "https://job-boards.greenhouse.io/jrc/jobs/4512199009",
       "apply_url": "https://job-boards.greenhouse.io/jrc/jobs/4512199009",
       "first_seen": "2026-11-18T15:36:26Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "4512282009",
@@ -416,7 +380,7 @@
       "source_url": "https://job-boards.greenhouse.io/jrc/jobs/4512282009",
       "apply_url": "https://job-boards.greenhouse.io/jrc/jobs/4512282009",
       "first_seen": "2026-11-18T15:36:26Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "4513768009",
@@ -434,7 +398,25 @@
       "source_url": "https://job-boards.greenhouse.io/jrc/jobs/4513768009",
       "apply_url": "https://job-boards.greenhouse.io/jrc/jobs/4513768009",
       "first_seen": "2026-11-19T15:42:04Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
+    },
+    {
+      "id": "4518218009",
+      "title": "Electronic Security Technician",
+      "company": "JRC Careers",
+      "location": "District of Columbia, United States",
+      "remote": "unspecified",
+      "department": "",
+      "employment_type": "FULL_TIME",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-23",
+      "updated": "2026-11-23",
+      "deadline": "",
+      "source_url": "https://job-boards.greenhouse.io/jrc/jobs/4518218009",
+      "apply_url": "https://job-boards.greenhouse.io/jrc/jobs/4518218009",
+      "first_seen": "2026-11-23T18:00:07Z",
+      "last_checked": "2026-11-23T18:00:07Z"
     }
   ],
   "ats": "greenhouse",

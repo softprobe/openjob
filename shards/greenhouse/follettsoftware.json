@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-22T14:31:17Z",
+  "checked_at": "2026-11-23T18:00:07Z",
   "failed_at": null,
   "etag": "W/\"3741507693301e18aa000dccbd62596c\"",
   "jobs": [
@@ -20,7 +20,7 @@
       "source_url": "https://job-boards.greenhouse.io/follettsoftware/jobs/4541496008",
       "apply_url": "https://job-boards.greenhouse.io/follettsoftware/jobs/4541496008",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "5209314008",
@@ -38,7 +38,7 @@
       "source_url": "https://job-boards.greenhouse.io/follettsoftware/jobs/5209314008",
       "apply_url": "https://job-boards.greenhouse.io/follettsoftware/jobs/5209314008",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "5448216008",
@@ -56,7 +56,7 @@
       "source_url": "https://job-boards.greenhouse.io/follettsoftware/jobs/5448216008",
       "apply_url": "https://job-boards.greenhouse.io/follettsoftware/jobs/5448216008",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "5479730008",
@@ -74,7 +74,7 @@
       "source_url": "https://job-boards.greenhouse.io/follettsoftware/jobs/5479730008",
       "apply_url": "https://job-boards.greenhouse.io/follettsoftware/jobs/5479730008",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     }
   ],
   "ats": "greenhouse",

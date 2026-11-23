@@ -1,8 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-22T14:31:17Z",
+  "checked_at": "2026-11-23T18:00:07Z",
   "failed_at": null,
-  "etag": "W/\"93d917e3d9c15b0a1a96f651f3806ffe\"",
+  "etag": "W/\"939e389a35a4fe11141a04167539c564\"",
   "jobs": [
     {
       "id": "4419042006",
@@ -20,25 +20,7 @@
       "source_url": "https://job-boards.greenhouse.io/reactivate/jobs/4419042006",
       "apply_url": "https://job-boards.greenhouse.io/reactivate/jobs/4419042006",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-22T14:31:17Z"
-    },
-    {
-      "id": "4695664006",
-      "title": "Development Manager",
-      "company": "Reactivate",
-      "location": "Remote",
-      "remote": "remote",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-07-08",
-      "updated": "2026-09-18",
-      "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/reactivate/jobs/4695664006",
-      "apply_url": "https://job-boards.greenhouse.io/reactivate/jobs/4695664006",
-      "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "4721316006",
@@ -56,7 +38,7 @@
       "source_url": "https://job-boards.greenhouse.io/reactivate/jobs/4721316006",
       "apply_url": "https://job-boards.greenhouse.io/reactivate/jobs/4721316006",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "4721497006",
@@ -74,25 +56,7 @@
       "source_url": "https://job-boards.greenhouse.io/reactivate/jobs/4721497006",
       "apply_url": "https://job-boards.greenhouse.io/reactivate/jobs/4721497006",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-22T14:31:17Z"
-    },
-    {
-      "id": "4724478006",
-      "title": "Temp Manager, Business Process & Systems Improvement",
-      "company": "Reactivate",
-      "location": "Remote",
-      "remote": "remote",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-10-23",
-      "updated": "2026-10-29",
-      "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/reactivate/jobs/4724478006",
-      "apply_url": "https://job-boards.greenhouse.io/reactivate/jobs/4724478006",
-      "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "4725311006",
@@ -110,7 +74,7 @@
       "source_url": "https://job-boards.greenhouse.io/reactivate/jobs/4725311006",
       "apply_url": "https://job-boards.greenhouse.io/reactivate/jobs/4725311006",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     }
   ],
   "ats": "greenhouse",

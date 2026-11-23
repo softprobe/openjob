@@ -1,8 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-22T14:31:17Z",
+  "checked_at": "2026-11-23T18:00:07Z",
   "failed_at": null,
-  "etag": "W/\"b8ce38af8618918a3fbabadf4ade5a08\"",
+  "etag": "W/\"7e4fe7753622cda2d0b56169897b3113\"",
   "jobs": [
     {
       "id": "5113268007",
@@ -20,7 +20,7 @@
       "source_url": "https://job-boards.greenhouse.io/consumerreports/jobs/5113268007",
       "apply_url": "https://job-boards.greenhouse.io/consumerreports/jobs/5113268007",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "5125371007",
@@ -38,25 +38,7 @@
       "source_url": "https://job-boards.greenhouse.io/consumerreports/jobs/5125371007",
       "apply_url": "https://job-boards.greenhouse.io/consumerreports/jobs/5125371007",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-22T14:31:17Z"
-    },
-    {
-      "id": "5217989007",
-      "title": "Technical Project Manager / TPM - Data and Personalization",
-      "company": "Consumer Reports",
-      "location": "Yonkers, NY",
-      "remote": "unspecified",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-08-21",
-      "updated": "2026-11-04",
-      "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/consumerreports/jobs/5217989007",
-      "apply_url": "https://job-boards.greenhouse.io/consumerreports/jobs/5217989007",
-      "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "5247409007",
@@ -74,7 +56,7 @@
       "source_url": "https://job-boards.greenhouse.io/consumerreports/jobs/5247409007",
       "apply_url": "https://job-boards.greenhouse.io/consumerreports/jobs/5247409007",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "5283513007",
@@ -92,7 +74,7 @@
       "source_url": "https://job-boards.greenhouse.io/consumerreports/jobs/5283513007",
       "apply_url": "https://job-boards.greenhouse.io/consumerreports/jobs/5283513007",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     }
   ],
   "ats": "greenhouse",

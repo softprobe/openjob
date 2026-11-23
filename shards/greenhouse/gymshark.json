@@ -1,8 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-22T14:31:17Z",
+  "checked_at": "2026-11-23T18:00:07Z",
   "failed_at": null,
-  "etag": "W/\"f49e555d2ab57c0645cfd4a1c2b91e53\"",
+  "etag": "W/\"8b11952402ef79c3345fc0cf34243e63\"",
   "jobs": [
     {
       "id": "4974208101",
@@ -20,7 +20,7 @@
       "source_url": "https://job-boards.eu.greenhouse.io/gymshark/jobs/4974208101",
       "apply_url": "https://job-boards.eu.greenhouse.io/gymshark/jobs/4974208101",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "4978978101",
@@ -38,7 +38,7 @@
       "source_url": "https://job-boards.eu.greenhouse.io/gymshark/jobs/4978978101",
       "apply_url": "https://job-boards.eu.greenhouse.io/gymshark/jobs/4978978101",
       "first_seen": "2026-11-20T15:23:49Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "4981295101",
@@ -56,7 +56,7 @@
       "source_url": "https://job-boards.eu.greenhouse.io/gymshark/jobs/4981295101",
       "apply_url": "https://job-boards.eu.greenhouse.io/gymshark/jobs/4981295101",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "4988756101",
@@ -74,7 +74,7 @@
       "source_url": "https://job-boards.eu.greenhouse.io/gymshark/jobs/4988756101",
       "apply_url": "https://job-boards.eu.greenhouse.io/gymshark/jobs/4988756101",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "5042226101",
@@ -92,7 +92,7 @@
       "source_url": "https://job-boards.eu.greenhouse.io/gymshark/jobs/5042226101",
       "apply_url": "https://job-boards.eu.greenhouse.io/gymshark/jobs/5042226101",
       "first_seen": "2026-11-19T15:42:04Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "5042541101",
@@ -110,7 +110,7 @@
       "source_url": "https://job-boards.eu.greenhouse.io/gymshark/jobs/5042541101",
       "apply_url": "https://job-boards.eu.greenhouse.io/gymshark/jobs/5042541101",
       "first_seen": "2026-11-19T15:42:04Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "5043202101",
@@ -128,7 +128,7 @@
       "source_url": "https://job-boards.eu.greenhouse.io/gymshark/jobs/5043202101",
       "apply_url": "https://job-boards.eu.greenhouse.io/gymshark/jobs/5043202101",
       "first_seen": "2026-11-20T15:23:49Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "5043211101",
@@ -146,7 +146,25 @@
       "source_url": "https://job-boards.eu.greenhouse.io/gymshark/jobs/5043211101",
       "apply_url": "https://job-boards.eu.greenhouse.io/gymshark/jobs/5043211101",
       "first_seen": "2026-11-20T15:23:49Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
+    },
+    {
+      "id": "5044086101",
+      "title": "Head of Influencer Marketing",
+      "company": "Gymshark",
+      "location": "Solihull, England, United Kingdom",
+      "remote": "unspecified",
+      "department": "",
+      "employment_type": "FULL_TIME",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-22",
+      "updated": "2026-11-22",
+      "deadline": "2026-12-06",
+      "source_url": "https://job-boards.eu.greenhouse.io/gymshark/jobs/5044086101",
+      "apply_url": "https://job-boards.eu.greenhouse.io/gymshark/jobs/5044086101",
+      "first_seen": "2026-11-23T18:00:07Z",
+      "last_checked": "2026-11-23T18:00:07Z"
     }
   ],
   "ats": "greenhouse",

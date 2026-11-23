@@ -1,8 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-22T14:31:17Z",
+  "checked_at": "2026-11-23T18:00:07Z",
   "failed_at": null,
-  "etag": "W/\"job-board:2434a143d0e1a6f9b6ec3f65e953f7d80f3542bbf413c69b959271e16497756e\"",
+  "etag": "W/\"job-board:ddd10fa051551c0c236669c4c834345e737d5502941c00a8740f9e1c51f03600\"",
   "jobs": [
     {
       "id": "01b42b2d-538f-4d5f-b9f1-2de1197bc0cb",
@@ -20,7 +20,7 @@
       "source_url": "https://jobs.ashbyhq.com/langchain/01b42b2d-538f-4d5f-b9f1-2de1197bc0cb",
       "apply_url": "https://jobs.ashbyhq.com/langchain/01b42b2d-538f-4d5f-b9f1-2de1197bc0cb/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "0a5dd30c-6da1-4095-bd96-b16f27eeb333",
@@ -38,7 +38,7 @@
       "source_url": "https://jobs.ashbyhq.com/langchain/0a5dd30c-6da1-4095-bd96-b16f27eeb333",
       "apply_url": "https://jobs.ashbyhq.com/langchain/0a5dd30c-6da1-4095-bd96-b16f27eeb333/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "0ce4562c-3a98-408f-8945-15d8d4af6cb6",
@@ -56,7 +56,7 @@
       "source_url": "https://jobs.ashbyhq.com/langchain/0ce4562c-3a98-408f-8945-15d8d4af6cb6",
       "apply_url": "https://jobs.ashbyhq.com/langchain/0ce4562c-3a98-408f-8945-15d8d4af6cb6/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "0ea7e53d-9692-42d8-8f2d-a893dca3aef6",
@@ -74,7 +74,7 @@
       "source_url": "https://jobs.ashbyhq.com/langchain/0ea7e53d-9692-42d8-8f2d-a893dca3aef6",
       "apply_url": "https://jobs.ashbyhq.com/langchain/0ea7e53d-9692-42d8-8f2d-a893dca3aef6/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "0ee73994-b8a3-4a75-9675-da536abd3e10",
@@ -92,7 +92,7 @@
       "source_url": "https://jobs.ashbyhq.com/langchain/0ee73994-b8a3-4a75-9675-da536abd3e10",
       "apply_url": "https://jobs.ashbyhq.com/langchain/0ee73994-b8a3-4a75-9675-da536abd3e10/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "0f35c8e1-9318-411d-929b-04c60e6d8522",
@@ -110,7 +110,7 @@
       "source_url": "https://jobs.ashbyhq.com/langchain/0f35c8e1-9318-411d-929b-04c60e6d8522",
       "apply_url": "https://jobs.ashbyhq.com/langchain/0f35c8e1-9318-411d-929b-04c60e6d8522/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "14727440-65bd-4cce-bed1-27d0c863eab3",
@@ -128,7 +128,7 @@
       "source_url": "https://jobs.ashbyhq.com/langchain/14727440-65bd-4cce-bed1-27d0c863eab3",
       "apply_url": "https://jobs.ashbyhq.com/langchain/14727440-65bd-4cce-bed1-27d0c863eab3/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "1b125fc4-be24-422f-a180-30b7431fc6cf",
@@ -146,25 +146,7 @@
       "source_url": "https://jobs.ashbyhq.com/langchain/1b125fc4-be24-422f-a180-30b7431fc6cf",
       "apply_url": "https://jobs.ashbyhq.com/langchain/1b125fc4-be24-422f-a180-30b7431fc6cf/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-22T14:31:17Z"
-    },
-    {
-      "id": "22bd243f-4088-49e0-bf02-fbad4442b0cb",
-      "title": "Account Manager, Renewals & Expansion (East Coast)",
-      "company": "LangChain",
-      "location": "New York, NY",
-      "remote": "onsite",
-      "department": "Customer Engineering",
-      "employment_type": "FULL_TIME",
-      "salary_text": "$230K",
-      "salary_source": "ashby",
-      "posted": "2026-10-09",
-      "updated": "",
-      "deadline": "",
-      "source_url": "https://jobs.ashbyhq.com/langchain/22bd243f-4088-49e0-bf02-fbad4442b0cb",
-      "apply_url": "https://jobs.ashbyhq.com/langchain/22bd243f-4088-49e0-bf02-fbad4442b0cb/application",
-      "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "23ad4d96-98ea-420c-b935-5646318d8996",
@@ -182,7 +164,7 @@
       "source_url": "https://jobs.ashbyhq.com/langchain/23ad4d96-98ea-420c-b935-5646318d8996",
       "apply_url": "https://jobs.ashbyhq.com/langchain/23ad4d96-98ea-420c-b935-5646318d8996/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "24af8cb4-aa2a-4d98-a6af-9feb6817f872",
@@ -200,7 +182,7 @@
       "source_url": "https://jobs.ashbyhq.com/langchain/24af8cb4-aa2a-4d98-a6af-9feb6817f872",
       "apply_url": "https://jobs.ashbyhq.com/langchain/24af8cb4-aa2a-4d98-a6af-9feb6817f872/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "26b29c27-711c-4239-9c1d-90cb45e02aa0",
@@ -218,7 +200,7 @@
       "source_url": "https://jobs.ashbyhq.com/langchain/26b29c27-711c-4239-9c1d-90cb45e02aa0",
       "apply_url": "https://jobs.ashbyhq.com/langchain/26b29c27-711c-4239-9c1d-90cb45e02aa0/application",
       "first_seen": "2026-11-20T15:23:49Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "27af5f96-b287-4bcc-8679-f96686dc7c8d",
@@ -236,7 +218,7 @@
       "source_url": "https://jobs.ashbyhq.com/langchain/27af5f96-b287-4bcc-8679-f96686dc7c8d",
       "apply_url": "https://jobs.ashbyhq.com/langchain/27af5f96-b287-4bcc-8679-f96686dc7c8d/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "28aba38e-de19-4ae5-9316-08575a11ae4d",
@@ -254,7 +236,7 @@
       "source_url": "https://jobs.ashbyhq.com/langchain/28aba38e-de19-4ae5-9316-08575a11ae4d",
       "apply_url": "https://jobs.ashbyhq.com/langchain/28aba38e-de19-4ae5-9316-08575a11ae4d/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "2b151a4e-f3a4-41fc-95f7-4e802906f2cb",
@@ -272,7 +254,7 @@
       "source_url": "https://jobs.ashbyhq.com/langchain/2b151a4e-f3a4-41fc-95f7-4e802906f2cb",
       "apply_url": "https://jobs.ashbyhq.com/langchain/2b151a4e-f3a4-41fc-95f7-4e802906f2cb/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "2e05a8c8-a9d8-4627-a651-6700923b2a70",
@@ -290,7 +272,7 @@
       "source_url": "https://jobs.ashbyhq.com/langchain/2e05a8c8-a9d8-4627-a651-6700923b2a70",
       "apply_url": "https://jobs.ashbyhq.com/langchain/2e05a8c8-a9d8-4627-a651-6700923b2a70/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "2ec70ad4-e93f-4a51-a169-eef862fb3b64",
@@ -308,7 +290,7 @@
       "source_url": "https://jobs.ashbyhq.com/langchain/2ec70ad4-e93f-4a51-a169-eef862fb3b64",
       "apply_url": "https://jobs.ashbyhq.com/langchain/2ec70ad4-e93f-4a51-a169-eef862fb3b64/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "2f9100e9-655b-4244-9dab-9a37c153af6a",
@@ -326,7 +308,7 @@
       "source_url": "https://jobs.ashbyhq.com/langchain/2f9100e9-655b-4244-9dab-9a37c153af6a",
       "apply_url": "https://jobs.ashbyhq.com/langchain/2f9100e9-655b-4244-9dab-9a37c153af6a/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "32c6fe13-76e0-49a2-849d-991014416987",
@@ -344,7 +326,7 @@
       "source_url": "https://jobs.ashbyhq.com/langchain/32c6fe13-76e0-49a2-849d-991014416987",
       "apply_url": "https://jobs.ashbyhq.com/langchain/32c6fe13-76e0-49a2-849d-991014416987/application",
       "first_seen": "2026-11-21T14:37:10Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "342fdab9-275c-4016-8b1a-8847579372ba",
@@ -356,13 +338,13 @@
       "employment_type": "FULL_TIME",
       "salary_text": "",
       "salary_source": "",
-      "posted": "2026-11-07",
+      "posted": "2026-11-23",
       "updated": "",
       "deadline": "",
       "source_url": "https://jobs.ashbyhq.com/langchain/342fdab9-275c-4016-8b1a-8847579372ba",
       "apply_url": "https://jobs.ashbyhq.com/langchain/342fdab9-275c-4016-8b1a-8847579372ba/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "3858b7f4-6762-47d0-9fb5-ea2610a5a099",
@@ -380,7 +362,7 @@
       "source_url": "https://jobs.ashbyhq.com/langchain/3858b7f4-6762-47d0-9fb5-ea2610a5a099",
       "apply_url": "https://jobs.ashbyhq.com/langchain/3858b7f4-6762-47d0-9fb5-ea2610a5a099/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "38947013-3d0c-4257-aa58-ab8fe247ea3e",
@@ -398,7 +380,7 @@
       "source_url": "https://jobs.ashbyhq.com/langchain/38947013-3d0c-4257-aa58-ab8fe247ea3e",
       "apply_url": "https://jobs.ashbyhq.com/langchain/38947013-3d0c-4257-aa58-ab8fe247ea3e/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "3a9b99ca-347f-4abf-8d34-9d66259c017f",
@@ -416,7 +398,7 @@
       "source_url": "https://jobs.ashbyhq.com/langchain/3a9b99ca-347f-4abf-8d34-9d66259c017f",
       "apply_url": "https://jobs.ashbyhq.com/langchain/3a9b99ca-347f-4abf-8d34-9d66259c017f/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "3c38ac0d-4cb5-4c04-86c0-37b20166c8ec",
@@ -434,7 +416,7 @@
       "source_url": "https://jobs.ashbyhq.com/langchain/3c38ac0d-4cb5-4c04-86c0-37b20166c8ec",
       "apply_url": "https://jobs.ashbyhq.com/langchain/3c38ac0d-4cb5-4c04-86c0-37b20166c8ec/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "3e31c750-67f2-4d3d-ac29-48a2b57cf4bd",
@@ -452,7 +434,7 @@
       "source_url": "https://jobs.ashbyhq.com/langchain/3e31c750-67f2-4d3d-ac29-48a2b57cf4bd",
       "apply_url": "https://jobs.ashbyhq.com/langchain/3e31c750-67f2-4d3d-ac29-48a2b57cf4bd/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "426359a5-3a48-4b81-ba25-b2f32678b153",
@@ -470,25 +452,7 @@
       "source_url": "https://jobs.ashbyhq.com/langchain/426359a5-3a48-4b81-ba25-b2f32678b153",
       "apply_url": "https://jobs.ashbyhq.com/langchain/426359a5-3a48-4b81-ba25-b2f32678b153/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-22T14:31:17Z"
-    },
-    {
-      "id": "45773971-c904-41c4-b7af-1f3a661c49cc",
-      "title": "Account Manager, Renewals & Expansion (West Coast)",
-      "company": "LangChain",
-      "location": "San Francisco, CA",
-      "remote": "onsite",
-      "department": "Customer Engineering",
-      "employment_type": "FULL_TIME",
-      "salary_text": "$230K",
-      "salary_source": "ashby",
-      "posted": "2026-10-14",
-      "updated": "",
-      "deadline": "",
-      "source_url": "https://jobs.ashbyhq.com/langchain/45773971-c904-41c4-b7af-1f3a661c49cc",
-      "apply_url": "https://jobs.ashbyhq.com/langchain/45773971-c904-41c4-b7af-1f3a661c49cc/application",
-      "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "46c1a69d-5eff-425f-8f76-da7ddf047dd4",
@@ -506,7 +470,7 @@
       "source_url": "https://jobs.ashbyhq.com/langchain/46c1a69d-5eff-425f-8f76-da7ddf047dd4",
       "apply_url": "https://jobs.ashbyhq.com/langchain/46c1a69d-5eff-425f-8f76-da7ddf047dd4/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "47a3bc2a-2bed-4d61-b1de-b3d7ec211a08",
@@ -524,7 +488,7 @@
       "source_url": "https://jobs.ashbyhq.com/langchain/47a3bc2a-2bed-4d61-b1de-b3d7ec211a08",
       "apply_url": "https://jobs.ashbyhq.com/langchain/47a3bc2a-2bed-4d61-b1de-b3d7ec211a08/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "4beade3b-0bf2-4720-b553-0309880e22b4",
@@ -542,7 +506,7 @@
       "source_url": "https://jobs.ashbyhq.com/langchain/4beade3b-0bf2-4720-b553-0309880e22b4",
       "apply_url": "https://jobs.ashbyhq.com/langchain/4beade3b-0bf2-4720-b553-0309880e22b4/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "4f80ad29-1c30-433c-9fff-3385bc8f9fe9",
@@ -560,7 +524,7 @@
       "source_url": "https://jobs.ashbyhq.com/langchain/4f80ad29-1c30-433c-9fff-3385bc8f9fe9",
       "apply_url": "https://jobs.ashbyhq.com/langchain/4f80ad29-1c30-433c-9fff-3385bc8f9fe9/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "5095871a-9af2-4521-8c63-ff0d852f7354",
@@ -578,7 +542,7 @@
       "source_url": "https://jobs.ashbyhq.com/langchain/5095871a-9af2-4521-8c63-ff0d852f7354",
       "apply_url": "https://jobs.ashbyhq.com/langchain/5095871a-9af2-4521-8c63-ff0d852f7354/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "5b20b362-a407-4d12-934c-4ae0d2028432",
@@ -596,7 +560,7 @@
       "source_url": "https://jobs.ashbyhq.com/langchain/5b20b362-a407-4d12-934c-4ae0d2028432",
       "apply_url": "https://jobs.ashbyhq.com/langchain/5b20b362-a407-4d12-934c-4ae0d2028432/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "5f5f8239-603c-47ca-a1ee-5a7ed34b502d",
@@ -614,7 +578,7 @@
       "source_url": "https://jobs.ashbyhq.com/langchain/5f5f8239-603c-47ca-a1ee-5a7ed34b502d",
       "apply_url": "https://jobs.ashbyhq.com/langchain/5f5f8239-603c-47ca-a1ee-5a7ed34b502d/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "60d3bd4f-e80f-45fb-9801-725d8b681d54",
@@ -632,7 +596,7 @@
       "source_url": "https://jobs.ashbyhq.com/langchain/60d3bd4f-e80f-45fb-9801-725d8b681d54",
       "apply_url": "https://jobs.ashbyhq.com/langchain/60d3bd4f-e80f-45fb-9801-725d8b681d54/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "657e8401-922f-4a47-8206-f1bf0180a626",
@@ -650,7 +614,7 @@
       "source_url": "https://jobs.ashbyhq.com/langchain/657e8401-922f-4a47-8206-f1bf0180a626",
       "apply_url": "https://jobs.ashbyhq.com/langchain/657e8401-922f-4a47-8206-f1bf0180a626/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "65dbb419-ca80-4fda-b1b7-b81c08878992",
@@ -668,7 +632,7 @@
       "source_url": "https://jobs.ashbyhq.com/langchain/65dbb419-ca80-4fda-b1b7-b81c08878992",
       "apply_url": "https://jobs.ashbyhq.com/langchain/65dbb419-ca80-4fda-b1b7-b81c08878992/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "6847e38f-ec98-4fb2-a2cb-a97cdd9be108",
@@ -686,7 +650,7 @@
       "source_url": "https://jobs.ashbyhq.com/langchain/6847e38f-ec98-4fb2-a2cb-a97cdd9be108",
       "apply_url": "https://jobs.ashbyhq.com/langchain/6847e38f-ec98-4fb2-a2cb-a97cdd9be108/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "6a53f11d-5446-4ca2-baf5-c4b84d4986a7",
@@ -704,7 +668,7 @@
       "source_url": "https://jobs.ashbyhq.com/langchain/6a53f11d-5446-4ca2-baf5-c4b84d4986a7",
       "apply_url": "https://jobs.ashbyhq.com/langchain/6a53f11d-5446-4ca2-baf5-c4b84d4986a7/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "6b6ee951-6f94-4a2f-9e53-8410e9928614",
@@ -722,7 +686,7 @@
       "source_url": "https://jobs.ashbyhq.com/langchain/6b6ee951-6f94-4a2f-9e53-8410e9928614",
       "apply_url": "https://jobs.ashbyhq.com/langchain/6b6ee951-6f94-4a2f-9e53-8410e9928614/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "6c1c47cf-fac0-4367-975e-795197df2c5d",
@@ -740,7 +704,7 @@
       "source_url": "https://jobs.ashbyhq.com/langchain/6c1c47cf-fac0-4367-975e-795197df2c5d",
       "apply_url": "https://jobs.ashbyhq.com/langchain/6c1c47cf-fac0-4367-975e-795197df2c5d/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "6c5eacaf-0f0c-43c5-bac8-78c98424b979",
@@ -758,7 +722,7 @@
       "source_url": "https://jobs.ashbyhq.com/langchain/6c5eacaf-0f0c-43c5-bac8-78c98424b979",
       "apply_url": "https://jobs.ashbyhq.com/langchain/6c5eacaf-0f0c-43c5-bac8-78c98424b979/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "6eecbcda-d94f-4700-b8c7-ce54cb212290",
@@ -776,7 +740,7 @@
       "source_url": "https://jobs.ashbyhq.com/langchain/6eecbcda-d94f-4700-b8c7-ce54cb212290",
       "apply_url": "https://jobs.ashbyhq.com/langchain/6eecbcda-d94f-4700-b8c7-ce54cb212290/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "6f50988c-8e95-4a68-aeea-a94872651ff7",
@@ -794,7 +758,7 @@
       "source_url": "https://jobs.ashbyhq.com/langchain/6f50988c-8e95-4a68-aeea-a94872651ff7",
       "apply_url": "https://jobs.ashbyhq.com/langchain/6f50988c-8e95-4a68-aeea-a94872651ff7/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "70b5d446-7238-4324-9e70-a971b67a438c",
@@ -812,7 +776,7 @@
       "source_url": "https://jobs.ashbyhq.com/langchain/70b5d446-7238-4324-9e70-a971b67a438c",
       "apply_url": "https://jobs.ashbyhq.com/langchain/70b5d446-7238-4324-9e70-a971b67a438c/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "72eefb77-605d-4616-adda-820eb5208ac8",
@@ -830,7 +794,7 @@
       "source_url": "https://jobs.ashbyhq.com/langchain/72eefb77-605d-4616-adda-820eb5208ac8",
       "apply_url": "https://jobs.ashbyhq.com/langchain/72eefb77-605d-4616-adda-820eb5208ac8/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "733417d6-7b74-4260-95d9-3cabf85ce0b8",
@@ -848,7 +812,7 @@
       "source_url": "https://jobs.ashbyhq.com/langchain/733417d6-7b74-4260-95d9-3cabf85ce0b8",
       "apply_url": "https://jobs.ashbyhq.com/langchain/733417d6-7b74-4260-95d9-3cabf85ce0b8/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "74e5f9f4-e44a-4594-ba26-abdf71bf287d",
@@ -866,7 +830,7 @@
       "source_url": "https://jobs.ashbyhq.com/langchain/74e5f9f4-e44a-4594-ba26-abdf71bf287d",
       "apply_url": "https://jobs.ashbyhq.com/langchain/74e5f9f4-e44a-4594-ba26-abdf71bf287d/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "792b5e2e-be55-47db-be21-733a9dad8f32",
@@ -884,7 +848,7 @@
       "source_url": "https://jobs.ashbyhq.com/langchain/792b5e2e-be55-47db-be21-733a9dad8f32",
       "apply_url": "https://jobs.ashbyhq.com/langchain/792b5e2e-be55-47db-be21-733a9dad8f32/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "7af64749-bc2c-4722-b40a-febac36fc56b",
@@ -902,7 +866,7 @@
       "source_url": "https://jobs.ashbyhq.com/langchain/7af64749-bc2c-4722-b40a-febac36fc56b",
       "apply_url": "https://jobs.ashbyhq.com/langchain/7af64749-bc2c-4722-b40a-febac36fc56b/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "7b1e5ff7-4531-4d4a-8379-52a21b6d386d",
@@ -920,7 +884,7 @@
       "source_url": "https://jobs.ashbyhq.com/langchain/7b1e5ff7-4531-4d4a-8379-52a21b6d386d",
       "apply_url": "https://jobs.ashbyhq.com/langchain/7b1e5ff7-4531-4d4a-8379-52a21b6d386d/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "7b54b0b9-703a-49f0-b927-98c43494b23a",
@@ -938,7 +902,7 @@
       "source_url": "https://jobs.ashbyhq.com/langchain/7b54b0b9-703a-49f0-b927-98c43494b23a",
       "apply_url": "https://jobs.ashbyhq.com/langchain/7b54b0b9-703a-49f0-b927-98c43494b23a/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "7bc0df5b-f358-4c70-b15c-9577a868c5c0",
@@ -956,7 +920,7 @@
       "source_url": "https://jobs.ashbyhq.com/langchain/7bc0df5b-f358-4c70-b15c-9577a868c5c0",
       "apply_url": "https://jobs.ashbyhq.com/langchain/7bc0df5b-f358-4c70-b15c-9577a868c5c0/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "7c4fd239-1166-4ed4-b7bf-686b7a390928",
@@ -974,7 +938,7 @@
       "source_url": "https://jobs.ashbyhq.com/langchain/7c4fd239-1166-4ed4-b7bf-686b7a390928",
       "apply_url": "https://jobs.ashbyhq.com/langchain/7c4fd239-1166-4ed4-b7bf-686b7a390928/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "86ba410e-2625-41e4-b430-3f0d7c7477a5",
@@ -992,7 +956,7 @@
       "source_url": "https://jobs.ashbyhq.com/langchain/86ba410e-2625-41e4-b430-3f0d7c7477a5",
       "apply_url": "https://jobs.ashbyhq.com/langchain/86ba410e-2625-41e4-b430-3f0d7c7477a5/application",
       "first_seen": "2026-11-18T15:36:26Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "8807d9b6-64ef-4254-b2e0-ec712fd9ff77",
@@ -1010,7 +974,7 @@
       "source_url": "https://jobs.ashbyhq.com/langchain/8807d9b6-64ef-4254-b2e0-ec712fd9ff77",
       "apply_url": "https://jobs.ashbyhq.com/langchain/8807d9b6-64ef-4254-b2e0-ec712fd9ff77/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "886be84d-b56a-4260-a8dc-87992640293d",
@@ -1028,7 +992,7 @@
       "source_url": "https://jobs.ashbyhq.com/langchain/886be84d-b56a-4260-a8dc-87992640293d",
       "apply_url": "https://jobs.ashbyhq.com/langchain/886be84d-b56a-4260-a8dc-87992640293d/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "890884ed-1143-43a5-8a46-1aef8f66e119",
@@ -1046,7 +1010,7 @@
       "source_url": "https://jobs.ashbyhq.com/langchain/890884ed-1143-43a5-8a46-1aef8f66e119",
       "apply_url": "https://jobs.ashbyhq.com/langchain/890884ed-1143-43a5-8a46-1aef8f66e119/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "8928b6e9-aa61-4bbe-9d63-bf9acaba18b1",
@@ -1064,7 +1028,7 @@
       "source_url": "https://jobs.ashbyhq.com/langchain/8928b6e9-aa61-4bbe-9d63-bf9acaba18b1",
       "apply_url": "https://jobs.ashbyhq.com/langchain/8928b6e9-aa61-4bbe-9d63-bf9acaba18b1/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "8b83f97a-12fb-42a6-9697-c3ef07646335",
@@ -1082,7 +1046,7 @@
       "source_url": "https://jobs.ashbyhq.com/langchain/8b83f97a-12fb-42a6-9697-c3ef07646335",
       "apply_url": "https://jobs.ashbyhq.com/langchain/8b83f97a-12fb-42a6-9697-c3ef07646335/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "92a89b0e-a520-4510-a0ba-f3398dbc6983",
@@ -1100,7 +1064,7 @@
       "source_url": "https://jobs.ashbyhq.com/langchain/92a89b0e-a520-4510-a0ba-f3398dbc6983",
       "apply_url": "https://jobs.ashbyhq.com/langchain/92a89b0e-a520-4510-a0ba-f3398dbc6983/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "933a41a3-43ca-44de-a0ae-f541149151b7",
@@ -1118,7 +1082,7 @@
       "source_url": "https://jobs.ashbyhq.com/langchain/933a41a3-43ca-44de-a0ae-f541149151b7",
       "apply_url": "https://jobs.ashbyhq.com/langchain/933a41a3-43ca-44de-a0ae-f541149151b7/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "960828f4-45ed-4925-97ad-28384c4311cc",
@@ -1136,7 +1100,7 @@
       "source_url": "https://jobs.ashbyhq.com/langchain/960828f4-45ed-4925-97ad-28384c4311cc",
       "apply_url": "https://jobs.ashbyhq.com/langchain/960828f4-45ed-4925-97ad-28384c4311cc/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "97ac0410-c6db-4c2a-9492-b68f62fcbbe3",
@@ -1154,7 +1118,7 @@
       "source_url": "https://jobs.ashbyhq.com/langchain/97ac0410-c6db-4c2a-9492-b68f62fcbbe3",
       "apply_url": "https://jobs.ashbyhq.com/langchain/97ac0410-c6db-4c2a-9492-b68f62fcbbe3/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "9930dd01-d12e-42e1-b751-5240c3814f85",
@@ -1172,7 +1136,7 @@
       "source_url": "https://jobs.ashbyhq.com/langchain/9930dd01-d12e-42e1-b751-5240c3814f85",
       "apply_url": "https://jobs.ashbyhq.com/langchain/9930dd01-d12e-42e1-b751-5240c3814f85/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "9ef63e88-b1ff-4e88-9bf8-20c01439b80a",
@@ -1190,7 +1154,7 @@
       "source_url": "https://jobs.ashbyhq.com/langchain/9ef63e88-b1ff-4e88-9bf8-20c01439b80a",
       "apply_url": "https://jobs.ashbyhq.com/langchain/9ef63e88-b1ff-4e88-9bf8-20c01439b80a/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "a03b3e54-495d-4960-aee7-0194a3cef57d",
@@ -1208,7 +1172,7 @@
       "source_url": "https://jobs.ashbyhq.com/langchain/a03b3e54-495d-4960-aee7-0194a3cef57d",
       "apply_url": "https://jobs.ashbyhq.com/langchain/a03b3e54-495d-4960-aee7-0194a3cef57d/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "a38cccbe-f540-4e4f-a970-3aa197c7b097",
@@ -1226,7 +1190,7 @@
       "source_url": "https://jobs.ashbyhq.com/langchain/a38cccbe-f540-4e4f-a970-3aa197c7b097",
       "apply_url": "https://jobs.ashbyhq.com/langchain/a38cccbe-f540-4e4f-a970-3aa197c7b097/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "ac5efe22-6098-49dc-850a-b89d332df41d",
@@ -1244,7 +1208,7 @@
       "source_url": "https://jobs.ashbyhq.com/langchain/ac5efe22-6098-49dc-850a-b89d332df41d",
       "apply_url": "https://jobs.ashbyhq.com/langchain/ac5efe22-6098-49dc-850a-b89d332df41d/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "afb91b9b-46d5-4c9d-aa84-a4f1a3f74263",
@@ -1262,7 +1226,7 @@
       "source_url": "https://jobs.ashbyhq.com/langchain/afb91b9b-46d5-4c9d-aa84-a4f1a3f74263",
       "apply_url": "https://jobs.ashbyhq.com/langchain/afb91b9b-46d5-4c9d-aa84-a4f1a3f74263/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "b23ea9af-c6dc-40fa-86ce-75042b905173",
@@ -1280,7 +1244,7 @@
       "source_url": "https://jobs.ashbyhq.com/langchain/b23ea9af-c6dc-40fa-86ce-75042b905173",
       "apply_url": "https://jobs.ashbyhq.com/langchain/b23ea9af-c6dc-40fa-86ce-75042b905173/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "b8e80939-373d-4d9d-a191-faee606c7efe",
@@ -1298,7 +1262,7 @@
       "source_url": "https://jobs.ashbyhq.com/langchain/b8e80939-373d-4d9d-a191-faee606c7efe",
       "apply_url": "https://jobs.ashbyhq.com/langchain/b8e80939-373d-4d9d-a191-faee606c7efe/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "b9cf3229-c257-4536-bae6-e9b63134dc68",
@@ -1316,7 +1280,7 @@
       "source_url": "https://jobs.ashbyhq.com/langchain/b9cf3229-c257-4536-bae6-e9b63134dc68",
       "apply_url": "https://jobs.ashbyhq.com/langchain/b9cf3229-c257-4536-bae6-e9b63134dc68/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "c02afa2f-5544-411d-a4e2-8bdc199b0c53",
@@ -1334,7 +1298,7 @@
       "source_url": "https://jobs.ashbyhq.com/langchain/c02afa2f-5544-411d-a4e2-8bdc199b0c53",
       "apply_url": "https://jobs.ashbyhq.com/langchain/c02afa2f-5544-411d-a4e2-8bdc199b0c53/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "c16d44ab-faf0-4111-9ca7-8acb5dffcf46",
@@ -1352,7 +1316,7 @@
       "source_url": "https://jobs.ashbyhq.com/langchain/c16d44ab-faf0-4111-9ca7-8acb5dffcf46",
       "apply_url": "https://jobs.ashbyhq.com/langchain/c16d44ab-faf0-4111-9ca7-8acb5dffcf46/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "c425239d-ddca-4333-84fd-d719b8d3cb8b",
@@ -1370,7 +1334,7 @@
       "source_url": "https://jobs.ashbyhq.com/langchain/c425239d-ddca-4333-84fd-d719b8d3cb8b",
       "apply_url": "https://jobs.ashbyhq.com/langchain/c425239d-ddca-4333-84fd-d719b8d3cb8b/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "c4575cc8-ed78-47d7-8b53-637402e77d8d",
@@ -1388,7 +1352,7 @@
       "source_url": "https://jobs.ashbyhq.com/langchain/c4575cc8-ed78-47d7-8b53-637402e77d8d",
       "apply_url": "https://jobs.ashbyhq.com/langchain/c4575cc8-ed78-47d7-8b53-637402e77d8d/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "c4b4b4e2-f434-460a-89a4-355ca53983ac",
@@ -1406,7 +1370,7 @@
       "source_url": "https://jobs.ashbyhq.com/langchain/c4b4b4e2-f434-460a-89a4-355ca53983ac",
       "apply_url": "https://jobs.ashbyhq.com/langchain/c4b4b4e2-f434-460a-89a4-355ca53983ac/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "c8150807-d346-47d5-9242-b0994d77ca87",
@@ -1424,7 +1388,7 @@
       "source_url": "https://jobs.ashbyhq.com/langchain/c8150807-d346-47d5-9242-b0994d77ca87",
       "apply_url": "https://jobs.ashbyhq.com/langchain/c8150807-d346-47d5-9242-b0994d77ca87/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "d6673e5e-30c4-413c-bda8-70d15908ff80",
@@ -1442,7 +1406,7 @@
       "source_url": "https://jobs.ashbyhq.com/langchain/d6673e5e-30c4-413c-bda8-70d15908ff80",
       "apply_url": "https://jobs.ashbyhq.com/langchain/d6673e5e-30c4-413c-bda8-70d15908ff80/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "d7454c6d-7025-4e46-befc-e23bedd8f452",
@@ -1460,7 +1424,7 @@
       "source_url": "https://jobs.ashbyhq.com/langchain/d7454c6d-7025-4e46-befc-e23bedd8f452",
       "apply_url": "https://jobs.ashbyhq.com/langchain/d7454c6d-7025-4e46-befc-e23bedd8f452/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "d96a60dd-849b-4a2f-a48a-ea73845b86ea",
@@ -1478,7 +1442,7 @@
       "source_url": "https://jobs.ashbyhq.com/langchain/d96a60dd-849b-4a2f-a48a-ea73845b86ea",
       "apply_url": "https://jobs.ashbyhq.com/langchain/d96a60dd-849b-4a2f-a48a-ea73845b86ea/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "da014d1d-f537-4bd2-a1de-f1e755c73d6e",
@@ -1496,7 +1460,7 @@
       "source_url": "https://jobs.ashbyhq.com/langchain/da014d1d-f537-4bd2-a1de-f1e755c73d6e",
       "apply_url": "https://jobs.ashbyhq.com/langchain/da014d1d-f537-4bd2-a1de-f1e755c73d6e/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "da7cbabd-ceed-4d7d-ae25-f226cac0c1c1",
@@ -1514,7 +1478,7 @@
       "source_url": "https://jobs.ashbyhq.com/langchain/da7cbabd-ceed-4d7d-ae25-f226cac0c1c1",
       "apply_url": "https://jobs.ashbyhq.com/langchain/da7cbabd-ceed-4d7d-ae25-f226cac0c1c1/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "ddf92275-1cc3-49c0-9f25-e8ded43b07f6",
@@ -1532,7 +1496,7 @@
       "source_url": "https://jobs.ashbyhq.com/langchain/ddf92275-1cc3-49c0-9f25-e8ded43b07f6",
       "apply_url": "https://jobs.ashbyhq.com/langchain/ddf92275-1cc3-49c0-9f25-e8ded43b07f6/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "df3a645d-5c08-4ea2-8823-7e40a5cbf9a6",
@@ -1550,7 +1514,7 @@
       "source_url": "https://jobs.ashbyhq.com/langchain/df3a645d-5c08-4ea2-8823-7e40a5cbf9a6",
       "apply_url": "https://jobs.ashbyhq.com/langchain/df3a645d-5c08-4ea2-8823-7e40a5cbf9a6/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "e1263bfe-b638-4019-b4d5-0aacca93b2b3",
@@ -1568,7 +1532,7 @@
       "source_url": "https://jobs.ashbyhq.com/langchain/e1263bfe-b638-4019-b4d5-0aacca93b2b3",
       "apply_url": "https://jobs.ashbyhq.com/langchain/e1263bfe-b638-4019-b4d5-0aacca93b2b3/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "e12d7176-8b9f-438a-8f3b-0cbbffab9c5c",
@@ -1586,7 +1550,7 @@
       "source_url": "https://jobs.ashbyhq.com/langchain/e12d7176-8b9f-438a-8f3b-0cbbffab9c5c",
       "apply_url": "https://jobs.ashbyhq.com/langchain/e12d7176-8b9f-438a-8f3b-0cbbffab9c5c/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "e16813af-c276-41ee-9f7a-c7a5cfc63f1b",
@@ -1604,7 +1568,7 @@
       "source_url": "https://jobs.ashbyhq.com/langchain/e16813af-c276-41ee-9f7a-c7a5cfc63f1b",
       "apply_url": "https://jobs.ashbyhq.com/langchain/e16813af-c276-41ee-9f7a-c7a5cfc63f1b/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "e39f60c8-6bfb-4ca4-b1b0-dd3d44d128bc",
@@ -1622,7 +1586,7 @@
       "source_url": "https://jobs.ashbyhq.com/langchain/e39f60c8-6bfb-4ca4-b1b0-dd3d44d128bc",
       "apply_url": "https://jobs.ashbyhq.com/langchain/e39f60c8-6bfb-4ca4-b1b0-dd3d44d128bc/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "e6d2bc1e-e0b9-4076-be01-ef8681863c01",
@@ -1640,7 +1604,7 @@
       "source_url": "https://jobs.ashbyhq.com/langchain/e6d2bc1e-e0b9-4076-be01-ef8681863c01",
       "apply_url": "https://jobs.ashbyhq.com/langchain/e6d2bc1e-e0b9-4076-be01-ef8681863c01/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "e725293d-c27b-4a79-959d-19f5618f2f8e",
@@ -1658,7 +1622,7 @@
       "source_url": "https://jobs.ashbyhq.com/langchain/e725293d-c27b-4a79-959d-19f5618f2f8e",
       "apply_url": "https://jobs.ashbyhq.com/langchain/e725293d-c27b-4a79-959d-19f5618f2f8e/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "e86a5b13-75e7-4b4e-bc18-3c81b58d1543",
@@ -1676,7 +1640,7 @@
       "source_url": "https://jobs.ashbyhq.com/langchain/e86a5b13-75e7-4b4e-bc18-3c81b58d1543",
       "apply_url": "https://jobs.ashbyhq.com/langchain/e86a5b13-75e7-4b4e-bc18-3c81b58d1543/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "ebfd7cd4-c9cd-46bd-b406-3fadaffcecef",
@@ -1694,7 +1658,7 @@
       "source_url": "https://jobs.ashbyhq.com/langchain/ebfd7cd4-c9cd-46bd-b406-3fadaffcecef",
       "apply_url": "https://jobs.ashbyhq.com/langchain/ebfd7cd4-c9cd-46bd-b406-3fadaffcecef/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "f0396971-39fa-4d40-9af8-60e529bb6c86",
@@ -1712,7 +1676,7 @@
       "source_url": "https://jobs.ashbyhq.com/langchain/f0396971-39fa-4d40-9af8-60e529bb6c86",
       "apply_url": "https://jobs.ashbyhq.com/langchain/f0396971-39fa-4d40-9af8-60e529bb6c86/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "f07c1416-f126-4925-8606-5dd7c5a90f6f",
@@ -1730,7 +1694,7 @@
       "source_url": "https://jobs.ashbyhq.com/langchain/f07c1416-f126-4925-8606-5dd7c5a90f6f",
       "apply_url": "https://jobs.ashbyhq.com/langchain/f07c1416-f126-4925-8606-5dd7c5a90f6f/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "f5887f10-50e7-459f-80e4-4c22a7db77bd",
@@ -1748,7 +1712,7 @@
       "source_url": "https://jobs.ashbyhq.com/langchain/f5887f10-50e7-459f-80e4-4c22a7db77bd",
       "apply_url": "https://jobs.ashbyhq.com/langchain/f5887f10-50e7-459f-80e4-4c22a7db77bd/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "f71210f9-12e1-4726-88b9-ebafa194d5b2",
@@ -1766,7 +1730,7 @@
       "source_url": "https://jobs.ashbyhq.com/langchain/f71210f9-12e1-4726-88b9-ebafa194d5b2",
       "apply_url": "https://jobs.ashbyhq.com/langchain/f71210f9-12e1-4726-88b9-ebafa194d5b2/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "f7de4819-e7aa-4dfb-9acd-8b81ad8caf2c",
@@ -1784,7 +1748,7 @@
       "source_url": "https://jobs.ashbyhq.com/langchain/f7de4819-e7aa-4dfb-9acd-8b81ad8caf2c",
       "apply_url": "https://jobs.ashbyhq.com/langchain/f7de4819-e7aa-4dfb-9acd-8b81ad8caf2c/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "faeb56fd-e7d6-47d6-babe-e35315969206",
@@ -1802,7 +1766,7 @@
       "source_url": "https://jobs.ashbyhq.com/langchain/faeb56fd-e7d6-47d6-babe-e35315969206",
       "apply_url": "https://jobs.ashbyhq.com/langchain/faeb56fd-e7d6-47d6-babe-e35315969206/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "fc868832-3865-4f4a-8222-33422a7d3d96",
@@ -1820,7 +1784,7 @@
       "source_url": "https://jobs.ashbyhq.com/langchain/fc868832-3865-4f4a-8222-33422a7d3d96",
       "apply_url": "https://jobs.ashbyhq.com/langchain/fc868832-3865-4f4a-8222-33422a7d3d96/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "fd3767ba-6247-47bd-85ae-7e76be3871e6",
@@ -1838,7 +1802,7 @@
       "source_url": "https://jobs.ashbyhq.com/langchain/fd3767ba-6247-47bd-85ae-7e76be3871e6",
       "apply_url": "https://jobs.ashbyhq.com/langchain/fd3767ba-6247-47bd-85ae-7e76be3871e6/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     }
   ],
   "ats": "ashby",

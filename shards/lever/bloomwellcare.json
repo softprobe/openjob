@@ -1,7 +1,7 @@
 {
-  "status": "ok",
+  "status": "stale",
   "checked_at": "2026-11-22T14:31:17Z",
-  "failed_at": null,
+  "failed_at": "2026-11-23T18:00:07Z",
   "etag": "W/\"9d199-/dC6FiesJV0A/GxfxFLiQ6yxJAI\"",
   "jobs": [
     {

@@ -1,8 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-22T14:31:17Z",
+  "checked_at": "2026-11-23T18:00:07Z",
   "failed_at": null,
-  "etag": "W/\"70db-0hPoqaRXeCzZvv6ACwC47A\"",
+  "etag": "W/\"70db-9Vc6sUDylvz2ptwe9RwVbA\"",
   "jobs": [
     {
       "id": "201f3af8-ae04-4653-8399-5e1cb8481062",
@@ -20,7 +20,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/genemind/41725#/job/201f3af8-ae04-4653-8399-5e1cb8481062",
       "apply_url": "https://app.mokahr.com/apply/genemind/41725#/job/201f3af8-ae04-4653-8399-5e1cb8481062/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "29572cff-8b22-481b-8436-7e80e99e8933",
@@ -38,7 +38,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/genemind/41725#/job/29572cff-8b22-481b-8436-7e80e99e8933",
       "apply_url": "https://app.mokahr.com/apply/genemind/41725#/job/29572cff-8b22-481b-8436-7e80e99e8933/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "2fb51ac8-4daa-45d1-842d-3a3daa7b4410",
@@ -56,7 +56,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/genemind/41725#/job/2fb51ac8-4daa-45d1-842d-3a3daa7b4410",
       "apply_url": "https://app.mokahr.com/apply/genemind/41725#/job/2fb51ac8-4daa-45d1-842d-3a3daa7b4410/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "40782075-9cdd-48ea-b5f8-0d4a7fd47f2d",
@@ -74,7 +74,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/genemind/41725#/job/40782075-9cdd-48ea-b5f8-0d4a7fd47f2d",
       "apply_url": "https://app.mokahr.com/apply/genemind/41725#/job/40782075-9cdd-48ea-b5f8-0d4a7fd47f2d/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "4531d5b7-d006-4bc9-b45b-14b5947aa7f7",
@@ -92,7 +92,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/genemind/41725#/job/4531d5b7-d006-4bc9-b45b-14b5947aa7f7",
       "apply_url": "https://app.mokahr.com/apply/genemind/41725#/job/4531d5b7-d006-4bc9-b45b-14b5947aa7f7/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "51268766-eba2-40a6-b77a-45eca3e365a1",
@@ -110,7 +110,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/genemind/41725#/job/51268766-eba2-40a6-b77a-45eca3e365a1",
       "apply_url": "https://app.mokahr.com/apply/genemind/41725#/job/51268766-eba2-40a6-b77a-45eca3e365a1/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "817b8eb1-4b20-455f-a51c-01b2b1de5a9b",
@@ -128,7 +128,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/genemind/41725#/job/817b8eb1-4b20-455f-a51c-01b2b1de5a9b",
       "apply_url": "https://app.mokahr.com/apply/genemind/41725#/job/817b8eb1-4b20-455f-a51c-01b2b1de5a9b/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "a455509b-7ef9-4482-8eb3-d3318a2249e8",
@@ -146,7 +146,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/genemind/41725#/job/a455509b-7ef9-4482-8eb3-d3318a2249e8",
       "apply_url": "https://app.mokahr.com/apply/genemind/41725#/job/a455509b-7ef9-4482-8eb3-d3318a2249e8/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "a4815612-26a4-476f-acba-b297e52a48d4",
@@ -164,7 +164,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/genemind/41725#/job/a4815612-26a4-476f-acba-b297e52a48d4",
       "apply_url": "https://app.mokahr.com/apply/genemind/41725#/job/a4815612-26a4-476f-acba-b297e52a48d4/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "e2c705f6-f1b5-42b7-81a6-bc8a4c03b9d8",
@@ -182,7 +182,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/genemind/41725#/job/e2c705f6-f1b5-42b7-81a6-bc8a4c03b9d8",
       "apply_url": "https://app.mokahr.com/apply/genemind/41725#/job/e2c705f6-f1b5-42b7-81a6-bc8a4c03b9d8/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "e55542b6-7646-4163-bd3c-9649cefa5088",
@@ -200,7 +200,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/genemind/41725#/job/e55542b6-7646-4163-bd3c-9649cefa5088",
       "apply_url": "https://app.mokahr.com/apply/genemind/41725#/job/e55542b6-7646-4163-bd3c-9649cefa5088/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     },
     {
       "id": "eaaf743c-53cd-4363-9e19-3ee11a36ff25",
@@ -218,7 +218,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/genemind/41725#/job/eaaf743c-53cd-4363-9e19-3ee11a36ff25",
       "apply_url": "https://app.mokahr.com/apply/genemind/41725#/job/eaaf743c-53cd-4363-9e19-3ee11a36ff25/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-22T14:31:17Z"
+      "last_checked": "2026-11-23T18:00:07Z"
     }
   ],
   "ats": "moka",
