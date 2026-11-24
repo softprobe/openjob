@@ -1,8 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-23T18:00:07Z",
+  "checked_at": "2026-11-24T17:38:09Z",
   "failed_at": null,
-  "etag": "W/\"3ffd-QfGprg7Y9A3JnuK/OEdP2w\"",
+  "etag": "W/\"25be-tVyo5QZVxAsoV+2QOfJnVg\"",
   "jobs": [
     {
       "id": "0b41d89a-47d7-4a06-857a-76153f7d6be6",
@@ -20,7 +20,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/yoozoo/91950#/job/0b41d89a-47d7-4a06-857a-76153f7d6be6",
       "apply_url": "https://app.mokahr.com/apply/yoozoo/91950#/job/0b41d89a-47d7-4a06-857a-76153f7d6be6/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "37d5bd92-31d7-48eb-a53f-5418c71b563f",
@@ -38,25 +38,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/yoozoo/91950#/job/37d5bd92-31d7-48eb-a53f-5418c71b563f",
       "apply_url": "https://app.mokahr.com/apply/yoozoo/91950#/job/37d5bd92-31d7-48eb-a53f-5418c71b563f/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
-    },
-    {
-      "id": "8b4c0fa2-9387-47c9-aa43-2466d24c7d33",
-      "title": "制作人",
-      "company": "游族网络",
-      "location": "上海市, 中国",
-      "remote": "unspecified",
-      "department": "游族网络",
-      "employment_type": "FULL_TIME",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2025-10-20",
-      "updated": "2026-07-01",
-      "deadline": "",
-      "source_url": "https://app.mokahr.com/social-recruitment/yoozoo/91950#/job/8b4c0fa2-9387-47c9-aa43-2466d24c7d33",
-      "apply_url": "https://app.mokahr.com/apply/yoozoo/91950#/job/8b4c0fa2-9387-47c9-aa43-2466d24c7d33/apply?pure=1",
-      "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "983c3bac-dd8c-4bd8-a1bf-d8265739732b",
@@ -74,25 +56,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/yoozoo/91950#/job/983c3bac-dd8c-4bd8-a1bf-d8265739732b",
       "apply_url": "https://app.mokahr.com/apply/yoozoo/91950#/job/983c3bac-dd8c-4bd8-a1bf-d8265739732b/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
-    },
-    {
-      "id": "c849cb23-222e-4af7-96b8-6278b219f326",
-      "title": "AI-Agent工程师",
-      "company": "游族网络",
-      "location": "上海市, 中国",
-      "remote": "unspecified",
-      "department": "应用开发部",
-      "employment_type": "FULL_TIME",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-08-11",
-      "updated": "2026-08-31",
-      "deadline": "",
-      "source_url": "https://app.mokahr.com/social-recruitment/yoozoo/91950#/job/c849cb23-222e-4af7-96b8-6278b219f326",
-      "apply_url": "https://app.mokahr.com/apply/yoozoo/91950#/job/c849cb23-222e-4af7-96b8-6278b219f326/apply?pure=1",
-      "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "ea63d0b9-657f-46c2-930b-6dc63e14503b",
@@ -110,7 +74,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/yoozoo/91950#/job/ea63d0b9-657f-46c2-930b-6dc63e14503b",
       "apply_url": "https://app.mokahr.com/apply/yoozoo/91950#/job/ea63d0b9-657f-46c2-930b-6dc63e14503b/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     }
   ],
   "ats": "moka",

@@ -1,8 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-23T18:00:07Z",
+  "checked_at": "2026-11-24T17:38:09Z",
   "failed_at": null,
-  "etag": "W/\"915a3fbf2f221efa262e02011aba6dc9\"",
+  "etag": "W/\"fa55416e8eed7ce6d3d49a044527696f\"",
   "jobs": [
     {
       "id": "5212552008",
@@ -20,7 +20,7 @@
       "source_url": "https://job-boards.greenhouse.io/federato/jobs/5212552008",
       "apply_url": "https://job-boards.greenhouse.io/federato/jobs/5212552008",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "5422324008",
@@ -38,7 +38,7 @@
       "source_url": "https://job-boards.greenhouse.io/federato/jobs/5422324008",
       "apply_url": "https://job-boards.greenhouse.io/federato/jobs/5422324008",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "5423888008",
@@ -56,7 +56,7 @@
       "source_url": "https://job-boards.greenhouse.io/federato/jobs/5423888008",
       "apply_url": "https://job-boards.greenhouse.io/federato/jobs/5423888008",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "5430208008",
@@ -74,7 +74,7 @@
       "source_url": "https://job-boards.greenhouse.io/federato/jobs/5430208008",
       "apply_url": "https://job-boards.greenhouse.io/federato/jobs/5430208008",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "5444353008",
@@ -87,12 +87,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-06",
-      "updated": "2026-10-08",
+      "updated": "2026-11-23",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/federato/jobs/5444353008",
       "apply_url": "https://job-boards.greenhouse.io/federato/jobs/5444353008",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "5447036008",
@@ -110,25 +110,7 @@
       "source_url": "https://job-boards.greenhouse.io/federato/jobs/5447036008",
       "apply_url": "https://job-boards.greenhouse.io/federato/jobs/5447036008",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-23T18:00:07Z"
-    },
-    {
-      "id": "5462609008",
-      "title": "Senior Event Marketing Manager",
-      "company": "Federato",
-      "location": "Remote",
-      "remote": "remote",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-10-27",
-      "updated": "2026-11-17",
-      "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/federato/jobs/5462609008",
-      "apply_url": "https://job-boards.greenhouse.io/federato/jobs/5462609008",
-      "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "5465127008",
@@ -146,7 +128,7 @@
       "source_url": "https://job-boards.greenhouse.io/federato/jobs/5465127008",
       "apply_url": "https://job-boards.greenhouse.io/federato/jobs/5465127008",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "5471957008",
@@ -164,7 +146,7 @@
       "source_url": "https://job-boards.greenhouse.io/federato/jobs/5471957008",
       "apply_url": "https://job-boards.greenhouse.io/federato/jobs/5471957008",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "5485542008",
@@ -182,7 +164,7 @@
       "source_url": "https://job-boards.greenhouse.io/federato/jobs/5485542008",
       "apply_url": "https://job-boards.greenhouse.io/federato/jobs/5485542008",
       "first_seen": "2026-11-18T15:36:26Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     }
   ],
   "ats": "greenhouse",

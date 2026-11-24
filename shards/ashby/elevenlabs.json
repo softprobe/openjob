@@ -1,8 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-23T18:00:07Z",
+  "checked_at": "2026-11-24T17:38:09Z",
   "failed_at": null,
-  "etag": "W/\"job-board:a8cdb8378c2a6f702f1738ddf4c3967eb0439a601ceaa6896e675adb08247e25\"",
+  "etag": "W/\"job-board:0bde838d7352f83223acc55ff12176292f61247ffcd65215c778826f0a852509\"",
   "jobs": [
     {
       "id": "00686b87-a6e2-4fbc-9dd5-b3b35ad02638",
@@ -20,7 +20,25 @@
       "source_url": "https://jobs.ashbyhq.com/ElevenLabs/00686b87-a6e2-4fbc-9dd5-b3b35ad02638",
       "apply_url": "https://jobs.ashbyhq.com/ElevenLabs/00686b87-a6e2-4fbc-9dd5-b3b35ad02638/application",
       "first_seen": "2026-11-19T15:42:04Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
+    },
+    {
+      "id": "04d1c724-466a-4520-aea1-44aee822c14b",
+      "title": "Commercial Counsel - Brazil",
+      "company": "ElevenLabs",
+      "location": "Brazil",
+      "remote": "remote",
+      "department": "Legal",
+      "employment_type": "FULL_TIME",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-23",
+      "updated": "",
+      "deadline": "",
+      "source_url": "https://jobs.ashbyhq.com/ElevenLabs/04d1c724-466a-4520-aea1-44aee822c14b",
+      "apply_url": "https://jobs.ashbyhq.com/ElevenLabs/04d1c724-466a-4520-aea1-44aee822c14b/application",
+      "first_seen": "2026-11-24T17:38:09Z",
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "0547cf3a-856f-4db2-8307-73db634c4096",
@@ -38,7 +56,7 @@
       "source_url": "https://jobs.ashbyhq.com/ElevenLabs/0547cf3a-856f-4db2-8307-73db634c4096",
       "apply_url": "https://jobs.ashbyhq.com/ElevenLabs/0547cf3a-856f-4db2-8307-73db634c4096/application",
       "first_seen": "2026-11-17T15:56:57Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "062dba92-e25b-47ee-b119-aeca540f515f",
@@ -56,7 +74,7 @@
       "source_url": "https://jobs.ashbyhq.com/ElevenLabs/062dba92-e25b-47ee-b119-aeca540f515f",
       "apply_url": "https://jobs.ashbyhq.com/ElevenLabs/062dba92-e25b-47ee-b119-aeca540f515f/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "084978b8-b63d-4c61-8a15-362da4348ef4",
@@ -74,7 +92,7 @@
       "source_url": "https://jobs.ashbyhq.com/ElevenLabs/084978b8-b63d-4c61-8a15-362da4348ef4",
       "apply_url": "https://jobs.ashbyhq.com/ElevenLabs/084978b8-b63d-4c61-8a15-362da4348ef4/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "09936411-899b-466d-aae7-54f6873caea0",
@@ -92,7 +110,7 @@
       "source_url": "https://jobs.ashbyhq.com/ElevenLabs/09936411-899b-466d-aae7-54f6873caea0",
       "apply_url": "https://jobs.ashbyhq.com/ElevenLabs/09936411-899b-466d-aae7-54f6873caea0/application",
       "first_seen": "2026-11-19T15:42:04Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "0ceda3d9-d02f-4daa-b9e6-c8d1ca1404bc",
@@ -110,7 +128,7 @@
       "source_url": "https://jobs.ashbyhq.com/ElevenLabs/0ceda3d9-d02f-4daa-b9e6-c8d1ca1404bc",
       "apply_url": "https://jobs.ashbyhq.com/ElevenLabs/0ceda3d9-d02f-4daa-b9e6-c8d1ca1404bc/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "0dbfbe3e-7218-4045-ba78-28b0d2e5ab6d",
@@ -128,7 +146,7 @@
       "source_url": "https://jobs.ashbyhq.com/ElevenLabs/0dbfbe3e-7218-4045-ba78-28b0d2e5ab6d",
       "apply_url": "https://jobs.ashbyhq.com/ElevenLabs/0dbfbe3e-7218-4045-ba78-28b0d2e5ab6d/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "108c99e6-ba2b-44a0-b830-7d535e14a152",
@@ -146,7 +164,7 @@
       "source_url": "https://jobs.ashbyhq.com/ElevenLabs/108c99e6-ba2b-44a0-b830-7d535e14a152",
       "apply_url": "https://jobs.ashbyhq.com/ElevenLabs/108c99e6-ba2b-44a0-b830-7d535e14a152/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "10e6475e-67ef-4621-8718-7b087c354651",
@@ -164,7 +182,7 @@
       "source_url": "https://jobs.ashbyhq.com/ElevenLabs/10e6475e-67ef-4621-8718-7b087c354651",
       "apply_url": "https://jobs.ashbyhq.com/ElevenLabs/10e6475e-67ef-4621-8718-7b087c354651/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "14c7802d-8e72-46b0-833c-3f0835363e48",
@@ -182,7 +200,7 @@
       "source_url": "https://jobs.ashbyhq.com/ElevenLabs/14c7802d-8e72-46b0-833c-3f0835363e48",
       "apply_url": "https://jobs.ashbyhq.com/ElevenLabs/14c7802d-8e72-46b0-833c-3f0835363e48/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "14d0ad09-fa26-4aa5-9bb3-f22a7f5917b9",
@@ -200,7 +218,7 @@
       "source_url": "https://jobs.ashbyhq.com/ElevenLabs/14d0ad09-fa26-4aa5-9bb3-f22a7f5917b9",
       "apply_url": "https://jobs.ashbyhq.com/ElevenLabs/14d0ad09-fa26-4aa5-9bb3-f22a7f5917b9/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "15eb4b53-fdd8-49e6-8c7c-0951f6e40b99",
@@ -218,7 +236,7 @@
       "source_url": "https://jobs.ashbyhq.com/ElevenLabs/15eb4b53-fdd8-49e6-8c7c-0951f6e40b99",
       "apply_url": "https://jobs.ashbyhq.com/ElevenLabs/15eb4b53-fdd8-49e6-8c7c-0951f6e40b99/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "1713bfd7-a63b-4dd4-b6e7-b0b8b8560a4a",
@@ -236,7 +254,7 @@
       "source_url": "https://jobs.ashbyhq.com/ElevenLabs/1713bfd7-a63b-4dd4-b6e7-b0b8b8560a4a",
       "apply_url": "https://jobs.ashbyhq.com/ElevenLabs/1713bfd7-a63b-4dd4-b6e7-b0b8b8560a4a/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "191bba6f-c66d-4ac0-8ddd-300b272046e0",
@@ -254,7 +272,7 @@
       "source_url": "https://jobs.ashbyhq.com/ElevenLabs/191bba6f-c66d-4ac0-8ddd-300b272046e0",
       "apply_url": "https://jobs.ashbyhq.com/ElevenLabs/191bba6f-c66d-4ac0-8ddd-300b272046e0/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "19b21930-d142-4dae-be23-751f5425b0af",
@@ -272,7 +290,7 @@
       "source_url": "https://jobs.ashbyhq.com/ElevenLabs/19b21930-d142-4dae-be23-751f5425b0af",
       "apply_url": "https://jobs.ashbyhq.com/ElevenLabs/19b21930-d142-4dae-be23-751f5425b0af/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "1b90a2b2-1352-458d-b2b7-3900f6e02df5",
@@ -290,7 +308,7 @@
       "source_url": "https://jobs.ashbyhq.com/ElevenLabs/1b90a2b2-1352-458d-b2b7-3900f6e02df5",
       "apply_url": "https://jobs.ashbyhq.com/ElevenLabs/1b90a2b2-1352-458d-b2b7-3900f6e02df5/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "1f7a2786-46d3-46c9-81f3-c3849b412988",
@@ -308,7 +326,7 @@
       "source_url": "https://jobs.ashbyhq.com/ElevenLabs/1f7a2786-46d3-46c9-81f3-c3849b412988",
       "apply_url": "https://jobs.ashbyhq.com/ElevenLabs/1f7a2786-46d3-46c9-81f3-c3849b412988/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "257f24da-83db-4bad-a6dc-37793a1a0bac",
@@ -326,7 +344,7 @@
       "source_url": "https://jobs.ashbyhq.com/ElevenLabs/257f24da-83db-4bad-a6dc-37793a1a0bac",
       "apply_url": "https://jobs.ashbyhq.com/ElevenLabs/257f24da-83db-4bad-a6dc-37793a1a0bac/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "258de005-ab84-4cc7-9a59-1df0c74a12b8",
@@ -344,7 +362,7 @@
       "source_url": "https://jobs.ashbyhq.com/ElevenLabs/258de005-ab84-4cc7-9a59-1df0c74a12b8",
       "apply_url": "https://jobs.ashbyhq.com/ElevenLabs/258de005-ab84-4cc7-9a59-1df0c74a12b8/application",
       "first_seen": "2026-11-16T15:39:28Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "275f43d0-b62d-401d-830c-7c1ac0e688aa",
@@ -362,7 +380,7 @@
       "source_url": "https://jobs.ashbyhq.com/ElevenLabs/275f43d0-b62d-401d-830c-7c1ac0e688aa",
       "apply_url": "https://jobs.ashbyhq.com/ElevenLabs/275f43d0-b62d-401d-830c-7c1ac0e688aa/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "277de6ad-3db5-4b96-afb5-cec3d797e788",
@@ -380,7 +398,7 @@
       "source_url": "https://jobs.ashbyhq.com/ElevenLabs/277de6ad-3db5-4b96-afb5-cec3d797e788",
       "apply_url": "https://jobs.ashbyhq.com/ElevenLabs/277de6ad-3db5-4b96-afb5-cec3d797e788/application",
       "first_seen": "2026-11-23T18:00:07Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "27e92957-374f-409a-b787-166b10e0f042",
@@ -398,7 +416,7 @@
       "source_url": "https://jobs.ashbyhq.com/ElevenLabs/27e92957-374f-409a-b787-166b10e0f042",
       "apply_url": "https://jobs.ashbyhq.com/ElevenLabs/27e92957-374f-409a-b787-166b10e0f042/application",
       "first_seen": "2026-11-18T15:36:26Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "2ae519e9-1068-423b-8e07-dfdebbdca7b4",
@@ -416,7 +434,7 @@
       "source_url": "https://jobs.ashbyhq.com/ElevenLabs/2ae519e9-1068-423b-8e07-dfdebbdca7b4",
       "apply_url": "https://jobs.ashbyhq.com/ElevenLabs/2ae519e9-1068-423b-8e07-dfdebbdca7b4/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "2d0016e0-3cc2-4ec7-b164-bc2b83990fb6",
@@ -434,7 +452,7 @@
       "source_url": "https://jobs.ashbyhq.com/ElevenLabs/2d0016e0-3cc2-4ec7-b164-bc2b83990fb6",
       "apply_url": "https://jobs.ashbyhq.com/ElevenLabs/2d0016e0-3cc2-4ec7-b164-bc2b83990fb6/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "2de358a6-ebea-4205-be57-33d1191154e3",
@@ -452,7 +470,7 @@
       "source_url": "https://jobs.ashbyhq.com/ElevenLabs/2de358a6-ebea-4205-be57-33d1191154e3",
       "apply_url": "https://jobs.ashbyhq.com/ElevenLabs/2de358a6-ebea-4205-be57-33d1191154e3/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "34dbe44c-9815-40b2-81f4-91c607fd84b2",
@@ -470,7 +488,7 @@
       "source_url": "https://jobs.ashbyhq.com/ElevenLabs/34dbe44c-9815-40b2-81f4-91c607fd84b2",
       "apply_url": "https://jobs.ashbyhq.com/ElevenLabs/34dbe44c-9815-40b2-81f4-91c607fd84b2/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "34e9eed1-3fd4-4a25-8f02-dff7f12bebf6",
@@ -488,7 +506,7 @@
       "source_url": "https://jobs.ashbyhq.com/ElevenLabs/34e9eed1-3fd4-4a25-8f02-dff7f12bebf6",
       "apply_url": "https://jobs.ashbyhq.com/ElevenLabs/34e9eed1-3fd4-4a25-8f02-dff7f12bebf6/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "356d08ba-6119-4c76-93ad-362ca7283569",
@@ -506,7 +524,7 @@
       "source_url": "https://jobs.ashbyhq.com/ElevenLabs/356d08ba-6119-4c76-93ad-362ca7283569",
       "apply_url": "https://jobs.ashbyhq.com/ElevenLabs/356d08ba-6119-4c76-93ad-362ca7283569/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "35813150-a851-4821-b732-a037b4e6c4fe",
@@ -524,7 +542,7 @@
       "source_url": "https://jobs.ashbyhq.com/ElevenLabs/35813150-a851-4821-b732-a037b4e6c4fe",
       "apply_url": "https://jobs.ashbyhq.com/ElevenLabs/35813150-a851-4821-b732-a037b4e6c4fe/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "3abf96ca-2937-4290-9d23-5208aece08b2",
@@ -542,7 +560,7 @@
       "source_url": "https://jobs.ashbyhq.com/ElevenLabs/3abf96ca-2937-4290-9d23-5208aece08b2",
       "apply_url": "https://jobs.ashbyhq.com/ElevenLabs/3abf96ca-2937-4290-9d23-5208aece08b2/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "3acbcb5a-605b-4192-baeb-3999004233a6",
@@ -560,7 +578,7 @@
       "source_url": "https://jobs.ashbyhq.com/ElevenLabs/3acbcb5a-605b-4192-baeb-3999004233a6",
       "apply_url": "https://jobs.ashbyhq.com/ElevenLabs/3acbcb5a-605b-4192-baeb-3999004233a6/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "3d650946-5ac2-4729-9ae4-129c43fcd0b5",
@@ -578,7 +596,7 @@
       "source_url": "https://jobs.ashbyhq.com/ElevenLabs/3d650946-5ac2-4729-9ae4-129c43fcd0b5",
       "apply_url": "https://jobs.ashbyhq.com/ElevenLabs/3d650946-5ac2-4729-9ae4-129c43fcd0b5/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "3e9f8e45-cd55-4fb9-9452-0ebbd6e15de6",
@@ -596,7 +614,7 @@
       "source_url": "https://jobs.ashbyhq.com/ElevenLabs/3e9f8e45-cd55-4fb9-9452-0ebbd6e15de6",
       "apply_url": "https://jobs.ashbyhq.com/ElevenLabs/3e9f8e45-cd55-4fb9-9452-0ebbd6e15de6/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "41b892ba-b530-44cb-9ae1-178908fc324c",
@@ -614,7 +632,7 @@
       "source_url": "https://jobs.ashbyhq.com/ElevenLabs/41b892ba-b530-44cb-9ae1-178908fc324c",
       "apply_url": "https://jobs.ashbyhq.com/ElevenLabs/41b892ba-b530-44cb-9ae1-178908fc324c/application",
       "first_seen": "2026-11-19T15:42:04Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "4389da7f-b5c9-4660-aaf2-d097f4caba07",
@@ -632,7 +650,7 @@
       "source_url": "https://jobs.ashbyhq.com/ElevenLabs/4389da7f-b5c9-4660-aaf2-d097f4caba07",
       "apply_url": "https://jobs.ashbyhq.com/ElevenLabs/4389da7f-b5c9-4660-aaf2-d097f4caba07/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "4738893a-de4f-4a06-b104-315c6a4d366c",
@@ -650,7 +668,7 @@
       "source_url": "https://jobs.ashbyhq.com/ElevenLabs/4738893a-de4f-4a06-b104-315c6a4d366c",
       "apply_url": "https://jobs.ashbyhq.com/ElevenLabs/4738893a-de4f-4a06-b104-315c6a4d366c/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "4aaebda4-53be-424c-8246-cde77ff853bb",
@@ -668,7 +686,7 @@
       "source_url": "https://jobs.ashbyhq.com/ElevenLabs/4aaebda4-53be-424c-8246-cde77ff853bb",
       "apply_url": "https://jobs.ashbyhq.com/ElevenLabs/4aaebda4-53be-424c-8246-cde77ff853bb/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "5db6aeaa-1074-41cd-8f2c-10ccfac73918",
@@ -686,7 +704,7 @@
       "source_url": "https://jobs.ashbyhq.com/ElevenLabs/5db6aeaa-1074-41cd-8f2c-10ccfac73918",
       "apply_url": "https://jobs.ashbyhq.com/ElevenLabs/5db6aeaa-1074-41cd-8f2c-10ccfac73918/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "5e003193-3e64-400f-ad97-ec43e5152d2e",
@@ -704,7 +722,7 @@
       "source_url": "https://jobs.ashbyhq.com/ElevenLabs/5e003193-3e64-400f-ad97-ec43e5152d2e",
       "apply_url": "https://jobs.ashbyhq.com/ElevenLabs/5e003193-3e64-400f-ad97-ec43e5152d2e/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "65f83bd7-70da-4a31-a364-28fd0f361ea9",
@@ -722,7 +740,7 @@
       "source_url": "https://jobs.ashbyhq.com/ElevenLabs/65f83bd7-70da-4a31-a364-28fd0f361ea9",
       "apply_url": "https://jobs.ashbyhq.com/ElevenLabs/65f83bd7-70da-4a31-a364-28fd0f361ea9/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "687394d7-fbf8-49ed-822e-c0690191330c",
@@ -740,7 +758,7 @@
       "source_url": "https://jobs.ashbyhq.com/ElevenLabs/687394d7-fbf8-49ed-822e-c0690191330c",
       "apply_url": "https://jobs.ashbyhq.com/ElevenLabs/687394d7-fbf8-49ed-822e-c0690191330c/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "6a530871-b6c6-4783-ac6b-69cc3b084192",
@@ -758,7 +776,7 @@
       "source_url": "https://jobs.ashbyhq.com/ElevenLabs/6a530871-b6c6-4783-ac6b-69cc3b084192",
       "apply_url": "https://jobs.ashbyhq.com/ElevenLabs/6a530871-b6c6-4783-ac6b-69cc3b084192/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "6b5a902d-49ea-4fa9-ab67-d6e88c361695",
@@ -776,7 +794,7 @@
       "source_url": "https://jobs.ashbyhq.com/ElevenLabs/6b5a902d-49ea-4fa9-ab67-d6e88c361695",
       "apply_url": "https://jobs.ashbyhq.com/ElevenLabs/6b5a902d-49ea-4fa9-ab67-d6e88c361695/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "6c4c57c1-ec72-42ba-af3a-eb7aebbde2e6",
@@ -794,7 +812,7 @@
       "source_url": "https://jobs.ashbyhq.com/ElevenLabs/6c4c57c1-ec72-42ba-af3a-eb7aebbde2e6",
       "apply_url": "https://jobs.ashbyhq.com/ElevenLabs/6c4c57c1-ec72-42ba-af3a-eb7aebbde2e6/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "6d4c4080-b53b-4b00-8b1d-3ec1e0955135",
@@ -812,7 +830,7 @@
       "source_url": "https://jobs.ashbyhq.com/ElevenLabs/6d4c4080-b53b-4b00-8b1d-3ec1e0955135",
       "apply_url": "https://jobs.ashbyhq.com/ElevenLabs/6d4c4080-b53b-4b00-8b1d-3ec1e0955135/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "6de4d812-1c2e-4e3e-942a-54d20e5f6cc6",
@@ -830,7 +848,7 @@
       "source_url": "https://jobs.ashbyhq.com/ElevenLabs/6de4d812-1c2e-4e3e-942a-54d20e5f6cc6",
       "apply_url": "https://jobs.ashbyhq.com/ElevenLabs/6de4d812-1c2e-4e3e-942a-54d20e5f6cc6/application",
       "first_seen": "2026-11-16T15:39:28Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "709b53e4-9db5-47ae-9c4b-a6fb9f33044c",
@@ -848,7 +866,7 @@
       "source_url": "https://jobs.ashbyhq.com/ElevenLabs/709b53e4-9db5-47ae-9c4b-a6fb9f33044c",
       "apply_url": "https://jobs.ashbyhq.com/ElevenLabs/709b53e4-9db5-47ae-9c4b-a6fb9f33044c/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "71992118-5b37-4a4a-a862-99e82e02916f",
@@ -866,7 +884,7 @@
       "source_url": "https://jobs.ashbyhq.com/ElevenLabs/71992118-5b37-4a4a-a862-99e82e02916f",
       "apply_url": "https://jobs.ashbyhq.com/ElevenLabs/71992118-5b37-4a4a-a862-99e82e02916f/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "71cf2fcc-ec19-45dd-b6c6-439f702779bb",
@@ -884,7 +902,7 @@
       "source_url": "https://jobs.ashbyhq.com/ElevenLabs/71cf2fcc-ec19-45dd-b6c6-439f702779bb",
       "apply_url": "https://jobs.ashbyhq.com/ElevenLabs/71cf2fcc-ec19-45dd-b6c6-439f702779bb/application",
       "first_seen": "2026-11-17T15:56:57Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "71fe2339-de89-41f6-afd3-e1daa05e7fa1",
@@ -902,7 +920,7 @@
       "source_url": "https://jobs.ashbyhq.com/ElevenLabs/71fe2339-de89-41f6-afd3-e1daa05e7fa1",
       "apply_url": "https://jobs.ashbyhq.com/ElevenLabs/71fe2339-de89-41f6-afd3-e1daa05e7fa1/application",
       "first_seen": "2026-11-20T15:23:49Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "7209ce9f-3c69-4dbb-adbb-6c6c068ebad0",
@@ -920,7 +938,7 @@
       "source_url": "https://jobs.ashbyhq.com/ElevenLabs/7209ce9f-3c69-4dbb-adbb-6c6c068ebad0",
       "apply_url": "https://jobs.ashbyhq.com/ElevenLabs/7209ce9f-3c69-4dbb-adbb-6c6c068ebad0/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "75f7890c-2d11-4c18-a95f-03ef85e6bd15",
@@ -938,7 +956,7 @@
       "source_url": "https://jobs.ashbyhq.com/ElevenLabs/75f7890c-2d11-4c18-a95f-03ef85e6bd15",
       "apply_url": "https://jobs.ashbyhq.com/ElevenLabs/75f7890c-2d11-4c18-a95f-03ef85e6bd15/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "7758cdc5-b5c9-4a5c-8c80-11678f7cba9d",
@@ -956,7 +974,7 @@
       "source_url": "https://jobs.ashbyhq.com/ElevenLabs/7758cdc5-b5c9-4a5c-8c80-11678f7cba9d",
       "apply_url": "https://jobs.ashbyhq.com/ElevenLabs/7758cdc5-b5c9-4a5c-8c80-11678f7cba9d/application",
       "first_seen": "2026-11-23T18:00:07Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "7a235499-7cee-48f5-9fe4-3f4764b91865",
@@ -974,7 +992,7 @@
       "source_url": "https://jobs.ashbyhq.com/ElevenLabs/7a235499-7cee-48f5-9fe4-3f4764b91865",
       "apply_url": "https://jobs.ashbyhq.com/ElevenLabs/7a235499-7cee-48f5-9fe4-3f4764b91865/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "7a27a4f4-e32f-4ff2-a6b0-a01a5e187db0",
@@ -992,7 +1010,7 @@
       "source_url": "https://jobs.ashbyhq.com/ElevenLabs/7a27a4f4-e32f-4ff2-a6b0-a01a5e187db0",
       "apply_url": "https://jobs.ashbyhq.com/ElevenLabs/7a27a4f4-e32f-4ff2-a6b0-a01a5e187db0/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "7d01b1ec-511d-40bf-a6ed-88b212932edb",
@@ -1010,7 +1028,7 @@
       "source_url": "https://jobs.ashbyhq.com/ElevenLabs/7d01b1ec-511d-40bf-a6ed-88b212932edb",
       "apply_url": "https://jobs.ashbyhq.com/ElevenLabs/7d01b1ec-511d-40bf-a6ed-88b212932edb/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "820e5023-c637-4b36-91a9-f732f235998e",
@@ -1028,25 +1046,7 @@
       "source_url": "https://jobs.ashbyhq.com/ElevenLabs/820e5023-c637-4b36-91a9-f732f235998e",
       "apply_url": "https://jobs.ashbyhq.com/ElevenLabs/820e5023-c637-4b36-91a9-f732f235998e/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-23T18:00:07Z"
-    },
-    {
-      "id": "829d5af0-3581-4d49-8073-866f30d09503",
-      "title": "Deployment Strategist Lead - Middle East",
-      "company": "ElevenLabs",
-      "location": "UAE",
-      "remote": "remote",
-      "department": "Engineering & Product",
-      "employment_type": "FULL_TIME",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-11-04",
-      "updated": "",
-      "deadline": "",
-      "source_url": "https://jobs.ashbyhq.com/ElevenLabs/829d5af0-3581-4d49-8073-866f30d09503",
-      "apply_url": "https://jobs.ashbyhq.com/ElevenLabs/829d5af0-3581-4d49-8073-866f30d09503/application",
-      "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "84a75f68-c964-4ad7-994d-a44506e333b2",
@@ -1064,7 +1064,7 @@
       "source_url": "https://jobs.ashbyhq.com/ElevenLabs/84a75f68-c964-4ad7-994d-a44506e333b2",
       "apply_url": "https://jobs.ashbyhq.com/ElevenLabs/84a75f68-c964-4ad7-994d-a44506e333b2/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "8a573932-b1fb-4df7-9023-e13a6cecbbbb",
@@ -1082,7 +1082,7 @@
       "source_url": "https://jobs.ashbyhq.com/ElevenLabs/8a573932-b1fb-4df7-9023-e13a6cecbbbb",
       "apply_url": "https://jobs.ashbyhq.com/ElevenLabs/8a573932-b1fb-4df7-9023-e13a6cecbbbb/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "8a587dcd-f3ff-4768-82d4-5f5e952edf6b",
@@ -1100,7 +1100,7 @@
       "source_url": "https://jobs.ashbyhq.com/ElevenLabs/8a587dcd-f3ff-4768-82d4-5f5e952edf6b",
       "apply_url": "https://jobs.ashbyhq.com/ElevenLabs/8a587dcd-f3ff-4768-82d4-5f5e952edf6b/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "8cf16203-4039-4bcb-828d-a3d3d6bab4a1",
@@ -1118,7 +1118,7 @@
       "source_url": "https://jobs.ashbyhq.com/ElevenLabs/8cf16203-4039-4bcb-828d-a3d3d6bab4a1",
       "apply_url": "https://jobs.ashbyhq.com/ElevenLabs/8cf16203-4039-4bcb-828d-a3d3d6bab4a1/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "8d25dd85-5b50-4dfa-b410-273b1ddd437c",
@@ -1136,7 +1136,7 @@
       "source_url": "https://jobs.ashbyhq.com/ElevenLabs/8d25dd85-5b50-4dfa-b410-273b1ddd437c",
       "apply_url": "https://jobs.ashbyhq.com/ElevenLabs/8d25dd85-5b50-4dfa-b410-273b1ddd437c/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "8f37f4e5-83f8-4e7d-b3b6-b5b406bf4eb9",
@@ -1154,7 +1154,7 @@
       "source_url": "https://jobs.ashbyhq.com/ElevenLabs/8f37f4e5-83f8-4e7d-b3b6-b5b406bf4eb9",
       "apply_url": "https://jobs.ashbyhq.com/ElevenLabs/8f37f4e5-83f8-4e7d-b3b6-b5b406bf4eb9/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "90873fda-95c3-4d21-bae8-c5a30f5b7ac8",
@@ -1172,7 +1172,7 @@
       "source_url": "https://jobs.ashbyhq.com/ElevenLabs/90873fda-95c3-4d21-bae8-c5a30f5b7ac8",
       "apply_url": "https://jobs.ashbyhq.com/ElevenLabs/90873fda-95c3-4d21-bae8-c5a30f5b7ac8/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "90cc8a34-1707-4aef-b509-94f94389d149",
@@ -1190,7 +1190,7 @@
       "source_url": "https://jobs.ashbyhq.com/ElevenLabs/90cc8a34-1707-4aef-b509-94f94389d149",
       "apply_url": "https://jobs.ashbyhq.com/ElevenLabs/90cc8a34-1707-4aef-b509-94f94389d149/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "91dd600a-d0dd-4a75-a53d-f59aa9855626",
@@ -1208,7 +1208,7 @@
       "source_url": "https://jobs.ashbyhq.com/ElevenLabs/91dd600a-d0dd-4a75-a53d-f59aa9855626",
       "apply_url": "https://jobs.ashbyhq.com/ElevenLabs/91dd600a-d0dd-4a75-a53d-f59aa9855626/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "974c2288-d49d-4f05-8d74-0feb08445637",
@@ -1226,7 +1226,7 @@
       "source_url": "https://jobs.ashbyhq.com/ElevenLabs/974c2288-d49d-4f05-8d74-0feb08445637",
       "apply_url": "https://jobs.ashbyhq.com/ElevenLabs/974c2288-d49d-4f05-8d74-0feb08445637/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "98f8ca46-95d1-40ad-8b41-f6d9c6860840",
@@ -1244,7 +1244,7 @@
       "source_url": "https://jobs.ashbyhq.com/ElevenLabs/98f8ca46-95d1-40ad-8b41-f6d9c6860840",
       "apply_url": "https://jobs.ashbyhq.com/ElevenLabs/98f8ca46-95d1-40ad-8b41-f6d9c6860840/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "9aca205e-b2bc-405b-85d6-3d2aadbe49b1",
@@ -1262,7 +1262,7 @@
       "source_url": "https://jobs.ashbyhq.com/ElevenLabs/9aca205e-b2bc-405b-85d6-3d2aadbe49b1",
       "apply_url": "https://jobs.ashbyhq.com/ElevenLabs/9aca205e-b2bc-405b-85d6-3d2aadbe49b1/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "9ce2cd02-c7f2-4705-8b70-accab2f863e1",
@@ -1280,7 +1280,7 @@
       "source_url": "https://jobs.ashbyhq.com/ElevenLabs/9ce2cd02-c7f2-4705-8b70-accab2f863e1",
       "apply_url": "https://jobs.ashbyhq.com/ElevenLabs/9ce2cd02-c7f2-4705-8b70-accab2f863e1/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "9d731858-01bf-4d42-89e5-5912ae94cf55",
@@ -1298,7 +1298,7 @@
       "source_url": "https://jobs.ashbyhq.com/ElevenLabs/9d731858-01bf-4d42-89e5-5912ae94cf55",
       "apply_url": "https://jobs.ashbyhq.com/ElevenLabs/9d731858-01bf-4d42-89e5-5912ae94cf55/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "9fbd9227-57e0-4221-9255-1a1d967be8ed",
@@ -1316,7 +1316,7 @@
       "source_url": "https://jobs.ashbyhq.com/ElevenLabs/9fbd9227-57e0-4221-9255-1a1d967be8ed",
       "apply_url": "https://jobs.ashbyhq.com/ElevenLabs/9fbd9227-57e0-4221-9255-1a1d967be8ed/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "a0389dc2-77d8-439b-960b-2acb8712991e",
@@ -1334,7 +1334,7 @@
       "source_url": "https://jobs.ashbyhq.com/ElevenLabs/a0389dc2-77d8-439b-960b-2acb8712991e",
       "apply_url": "https://jobs.ashbyhq.com/ElevenLabs/a0389dc2-77d8-439b-960b-2acb8712991e/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "a1dba952-6682-431c-ac7f-a40b5d4f9ccb",
@@ -1352,7 +1352,7 @@
       "source_url": "https://jobs.ashbyhq.com/ElevenLabs/a1dba952-6682-431c-ac7f-a40b5d4f9ccb",
       "apply_url": "https://jobs.ashbyhq.com/ElevenLabs/a1dba952-6682-431c-ac7f-a40b5d4f9ccb/application",
       "first_seen": "2026-11-18T15:36:26Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "a435a526-e2b3-4fcf-a732-0e70864178bb",
@@ -1370,25 +1370,7 @@
       "source_url": "https://jobs.ashbyhq.com/ElevenLabs/a435a526-e2b3-4fcf-a732-0e70864178bb",
       "apply_url": "https://jobs.ashbyhq.com/ElevenLabs/a435a526-e2b3-4fcf-a732-0e70864178bb/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-23T18:00:07Z"
-    },
-    {
-      "id": "a571b8e4-8176-4e31-aab6-2287ee810236",
-      "title": "Account Manager - India",
-      "company": "ElevenLabs",
-      "location": "India",
-      "remote": "remote",
-      "department": "Revenue",
-      "employment_type": "FULL_TIME",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-10-15",
-      "updated": "",
-      "deadline": "",
-      "source_url": "https://jobs.ashbyhq.com/ElevenLabs/a571b8e4-8176-4e31-aab6-2287ee810236",
-      "apply_url": "https://jobs.ashbyhq.com/ElevenLabs/a571b8e4-8176-4e31-aab6-2287ee810236/application",
-      "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "a605e308-0d28-42b6-8cbb-03cc7799cecc",
@@ -1406,7 +1388,7 @@
       "source_url": "https://jobs.ashbyhq.com/ElevenLabs/a605e308-0d28-42b6-8cbb-03cc7799cecc",
       "apply_url": "https://jobs.ashbyhq.com/ElevenLabs/a605e308-0d28-42b6-8cbb-03cc7799cecc/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "a89a7892-3d9d-40ab-a3f1-1c6ed1f7b84f",
@@ -1424,7 +1406,7 @@
       "source_url": "https://jobs.ashbyhq.com/ElevenLabs/a89a7892-3d9d-40ab-a3f1-1c6ed1f7b84f",
       "apply_url": "https://jobs.ashbyhq.com/ElevenLabs/a89a7892-3d9d-40ab-a3f1-1c6ed1f7b84f/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "aac94946-449f-4822-8299-2c0c19cf6a7d",
@@ -1442,25 +1424,7 @@
       "source_url": "https://jobs.ashbyhq.com/ElevenLabs/aac94946-449f-4822-8299-2c0c19cf6a7d",
       "apply_url": "https://jobs.ashbyhq.com/ElevenLabs/aac94946-449f-4822-8299-2c0c19cf6a7d/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-23T18:00:07Z"
-    },
-    {
-      "id": "ab51c926-63fe-43ff-b7f1-7859e6032b12",
-      "title": "Sales Development - UK/I",
-      "company": "ElevenLabs",
-      "location": "United Kingdom",
-      "remote": "remote",
-      "department": "Revenue",
-      "employment_type": "FULL_TIME",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-11-19",
-      "updated": "",
-      "deadline": "",
-      "source_url": "https://jobs.ashbyhq.com/ElevenLabs/ab51c926-63fe-43ff-b7f1-7859e6032b12",
-      "apply_url": "https://jobs.ashbyhq.com/ElevenLabs/ab51c926-63fe-43ff-b7f1-7859e6032b12/application",
-      "first_seen": "2026-11-20T15:23:49Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "b28719ff-833d-49b4-8286-f59082732186",
@@ -1478,7 +1442,7 @@
       "source_url": "https://jobs.ashbyhq.com/ElevenLabs/b28719ff-833d-49b4-8286-f59082732186",
       "apply_url": "https://jobs.ashbyhq.com/ElevenLabs/b28719ff-833d-49b4-8286-f59082732186/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "b380fb97-bb18-46a5-91db-5132e6693e93",
@@ -1496,7 +1460,7 @@
       "source_url": "https://jobs.ashbyhq.com/ElevenLabs/b380fb97-bb18-46a5-91db-5132e6693e93",
       "apply_url": "https://jobs.ashbyhq.com/ElevenLabs/b380fb97-bb18-46a5-91db-5132e6693e93/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "b3dd0a00-6223-405b-9064-8619e98fa6e6",
@@ -1514,7 +1478,7 @@
       "source_url": "https://jobs.ashbyhq.com/ElevenLabs/b3dd0a00-6223-405b-9064-8619e98fa6e6",
       "apply_url": "https://jobs.ashbyhq.com/ElevenLabs/b3dd0a00-6223-405b-9064-8619e98fa6e6/application",
       "first_seen": "2026-11-18T15:36:26Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "b43e388f-f204-41c5-a2bc-ee3bc1281e39",
@@ -1532,7 +1496,7 @@
       "source_url": "https://jobs.ashbyhq.com/ElevenLabs/b43e388f-f204-41c5-a2bc-ee3bc1281e39",
       "apply_url": "https://jobs.ashbyhq.com/ElevenLabs/b43e388f-f204-41c5-a2bc-ee3bc1281e39/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "b89ff518-824e-4736-a4c7-c68ea3b6b62f",
@@ -1550,7 +1514,7 @@
       "source_url": "https://jobs.ashbyhq.com/ElevenLabs/b89ff518-824e-4736-a4c7-c68ea3b6b62f",
       "apply_url": "https://jobs.ashbyhq.com/ElevenLabs/b89ff518-824e-4736-a4c7-c68ea3b6b62f/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "b8a111fa-9fd5-44d0-97ed-8fd1280be4ef",
@@ -1568,7 +1532,7 @@
       "source_url": "https://jobs.ashbyhq.com/ElevenLabs/b8a111fa-9fd5-44d0-97ed-8fd1280be4ef",
       "apply_url": "https://jobs.ashbyhq.com/ElevenLabs/b8a111fa-9fd5-44d0-97ed-8fd1280be4ef/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "b92059ea-d71f-4eef-a184-8510265752fb",
@@ -1586,25 +1550,7 @@
       "source_url": "https://jobs.ashbyhq.com/ElevenLabs/b92059ea-d71f-4eef-a184-8510265752fb",
       "apply_url": "https://jobs.ashbyhq.com/ElevenLabs/b92059ea-d71f-4eef-a184-8510265752fb/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-23T18:00:07Z"
-    },
-    {
-      "id": "ba1c19cc-3b0e-4f3e-b7c1-a96d5fb4bbf9",
-      "title": "Influencer Marketer",
-      "company": "ElevenLabs",
-      "location": "United States",
-      "remote": "remote",
-      "department": "Growth",
-      "employment_type": "FULL_TIME",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-09-10",
-      "updated": "",
-      "deadline": "",
-      "source_url": "https://jobs.ashbyhq.com/ElevenLabs/ba1c19cc-3b0e-4f3e-b7c1-a96d5fb4bbf9",
-      "apply_url": "https://jobs.ashbyhq.com/ElevenLabs/ba1c19cc-3b0e-4f3e-b7c1-a96d5fb4bbf9/application",
-      "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "bd230a18-2ff4-493c-8555-8476bf7de0e4",
@@ -1622,7 +1568,7 @@
       "source_url": "https://jobs.ashbyhq.com/ElevenLabs/bd230a18-2ff4-493c-8555-8476bf7de0e4",
       "apply_url": "https://jobs.ashbyhq.com/ElevenLabs/bd230a18-2ff4-493c-8555-8476bf7de0e4/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "c340cedd-6453-4d48-a580-359c1d7d9d49",
@@ -1640,7 +1586,7 @@
       "source_url": "https://jobs.ashbyhq.com/ElevenLabs/c340cedd-6453-4d48-a580-359c1d7d9d49",
       "apply_url": "https://jobs.ashbyhq.com/ElevenLabs/c340cedd-6453-4d48-a580-359c1d7d9d49/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "c4085864-14ca-4959-a3f8-3a4015c76eb5",
@@ -1658,7 +1604,7 @@
       "source_url": "https://jobs.ashbyhq.com/ElevenLabs/c4085864-14ca-4959-a3f8-3a4015c76eb5",
       "apply_url": "https://jobs.ashbyhq.com/ElevenLabs/c4085864-14ca-4959-a3f8-3a4015c76eb5/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "c4f86796-2d73-4f0a-b44a-92372c80e25f",
@@ -1676,7 +1622,7 @@
       "source_url": "https://jobs.ashbyhq.com/ElevenLabs/c4f86796-2d73-4f0a-b44a-92372c80e25f",
       "apply_url": "https://jobs.ashbyhq.com/ElevenLabs/c4f86796-2d73-4f0a-b44a-92372c80e25f/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "c5f6c9f4-593f-4ab9-9b08-466eee6c3fb8",
@@ -1694,7 +1640,7 @@
       "source_url": "https://jobs.ashbyhq.com/ElevenLabs/c5f6c9f4-593f-4ab9-9b08-466eee6c3fb8",
       "apply_url": "https://jobs.ashbyhq.com/ElevenLabs/c5f6c9f4-593f-4ab9-9b08-466eee6c3fb8/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "c7d59014-b918-4c15-ae33-79f5c9f2cf9f",
@@ -1712,7 +1658,7 @@
       "source_url": "https://jobs.ashbyhq.com/ElevenLabs/c7d59014-b918-4c15-ae33-79f5c9f2cf9f",
       "apply_url": "https://jobs.ashbyhq.com/ElevenLabs/c7d59014-b918-4c15-ae33-79f5c9f2cf9f/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "c89e8bf6-6d4c-43bd-bd2a-661ae73c82bf",
@@ -1730,7 +1676,7 @@
       "source_url": "https://jobs.ashbyhq.com/ElevenLabs/c89e8bf6-6d4c-43bd-bd2a-661ae73c82bf",
       "apply_url": "https://jobs.ashbyhq.com/ElevenLabs/c89e8bf6-6d4c-43bd-bd2a-661ae73c82bf/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "c90159fa-8577-4213-b5b3-356051742c67",
@@ -1748,25 +1694,7 @@
       "source_url": "https://jobs.ashbyhq.com/ElevenLabs/c90159fa-8577-4213-b5b3-356051742c67",
       "apply_url": "https://jobs.ashbyhq.com/ElevenLabs/c90159fa-8577-4213-b5b3-356051742c67/application",
       "first_seen": "2026-11-18T15:36:26Z",
-      "last_checked": "2026-11-23T18:00:07Z"
-    },
-    {
-      "id": "cdcf48bf-b6cf-41ce-88ee-34674768fb0d",
-      "title": "Account Manager - Brazil",
-      "company": "ElevenLabs",
-      "location": "Brazil",
-      "remote": "remote",
-      "department": "Revenue",
-      "employment_type": "FULL_TIME",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-10-29",
-      "updated": "",
-      "deadline": "",
-      "source_url": "https://jobs.ashbyhq.com/ElevenLabs/cdcf48bf-b6cf-41ce-88ee-34674768fb0d",
-      "apply_url": "https://jobs.ashbyhq.com/ElevenLabs/cdcf48bf-b6cf-41ce-88ee-34674768fb0d/application",
-      "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "ce3d5a59-fb8c-482b-bc3f-60e44576c5e0",
@@ -1784,7 +1712,7 @@
       "source_url": "https://jobs.ashbyhq.com/ElevenLabs/ce3d5a59-fb8c-482b-bc3f-60e44576c5e0",
       "apply_url": "https://jobs.ashbyhq.com/ElevenLabs/ce3d5a59-fb8c-482b-bc3f-60e44576c5e0/application",
       "first_seen": "2026-11-18T15:36:26Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "cee1d585-329b-4935-b7a3-5ca9104c2573",
@@ -1802,7 +1730,7 @@
       "source_url": "https://jobs.ashbyhq.com/ElevenLabs/cee1d585-329b-4935-b7a3-5ca9104c2573",
       "apply_url": "https://jobs.ashbyhq.com/ElevenLabs/cee1d585-329b-4935-b7a3-5ca9104c2573/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "d16a7ad6-ffbd-4655-8716-4872263f99ce",
@@ -1820,7 +1748,7 @@
       "source_url": "https://jobs.ashbyhq.com/ElevenLabs/d16a7ad6-ffbd-4655-8716-4872263f99ce",
       "apply_url": "https://jobs.ashbyhq.com/ElevenLabs/d16a7ad6-ffbd-4655-8716-4872263f99ce/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "d2443707-b19e-49c2-b2ec-de0c4c889089",
@@ -1838,7 +1766,7 @@
       "source_url": "https://jobs.ashbyhq.com/ElevenLabs/d2443707-b19e-49c2-b2ec-de0c4c889089",
       "apply_url": "https://jobs.ashbyhq.com/ElevenLabs/d2443707-b19e-49c2-b2ec-de0c4c889089/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "d7df0937-d88a-4cd1-8d7a-a38f176910d6",
@@ -1856,7 +1784,7 @@
       "source_url": "https://jobs.ashbyhq.com/ElevenLabs/d7df0937-d88a-4cd1-8d7a-a38f176910d6",
       "apply_url": "https://jobs.ashbyhq.com/ElevenLabs/d7df0937-d88a-4cd1-8d7a-a38f176910d6/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "daf083cd-feda-4f28-ae49-7922b1a26ed7",
@@ -1874,7 +1802,7 @@
       "source_url": "https://jobs.ashbyhq.com/ElevenLabs/daf083cd-feda-4f28-ae49-7922b1a26ed7",
       "apply_url": "https://jobs.ashbyhq.com/ElevenLabs/daf083cd-feda-4f28-ae49-7922b1a26ed7/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "dc9950e5-88da-4070-8fa2-c1813f24fe94",
@@ -1892,7 +1820,7 @@
       "source_url": "https://jobs.ashbyhq.com/ElevenLabs/dc9950e5-88da-4070-8fa2-c1813f24fe94",
       "apply_url": "https://jobs.ashbyhq.com/ElevenLabs/dc9950e5-88da-4070-8fa2-c1813f24fe94/application",
       "first_seen": "2026-11-16T15:39:28Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "e2bc0a9f-15b5-49a1-a796-2dc9b2f5b7ac",
@@ -1910,7 +1838,7 @@
       "source_url": "https://jobs.ashbyhq.com/ElevenLabs/e2bc0a9f-15b5-49a1-a796-2dc9b2f5b7ac",
       "apply_url": "https://jobs.ashbyhq.com/ElevenLabs/e2bc0a9f-15b5-49a1-a796-2dc9b2f5b7ac/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "e4e0450f-d139-4f8e-b210-2f326a680d90",
@@ -1928,7 +1856,7 @@
       "source_url": "https://jobs.ashbyhq.com/ElevenLabs/e4e0450f-d139-4f8e-b210-2f326a680d90",
       "apply_url": "https://jobs.ashbyhq.com/ElevenLabs/e4e0450f-d139-4f8e-b210-2f326a680d90/application",
       "first_seen": "2026-11-18T15:36:26Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "e53c5be6-5c1a-4870-ad85-8397a1f201de",
@@ -1946,7 +1874,7 @@
       "source_url": "https://jobs.ashbyhq.com/ElevenLabs/e53c5be6-5c1a-4870-ad85-8397a1f201de",
       "apply_url": "https://jobs.ashbyhq.com/ElevenLabs/e53c5be6-5c1a-4870-ad85-8397a1f201de/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "e5cca48b-1f34-48fe-9ebf-3c6ff526f9ba",
@@ -1964,7 +1892,7 @@
       "source_url": "https://jobs.ashbyhq.com/ElevenLabs/e5cca48b-1f34-48fe-9ebf-3c6ff526f9ba",
       "apply_url": "https://jobs.ashbyhq.com/ElevenLabs/e5cca48b-1f34-48fe-9ebf-3c6ff526f9ba/application",
       "first_seen": "2026-11-20T15:23:49Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "e6924f60-c8cc-42b3-9d05-2442ec30e12d",
@@ -1982,7 +1910,7 @@
       "source_url": "https://jobs.ashbyhq.com/ElevenLabs/e6924f60-c8cc-42b3-9d05-2442ec30e12d",
       "apply_url": "https://jobs.ashbyhq.com/ElevenLabs/e6924f60-c8cc-42b3-9d05-2442ec30e12d/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "e7b83599-1b70-4830-85da-7132b99a3b57",
@@ -2000,7 +1928,7 @@
       "source_url": "https://jobs.ashbyhq.com/ElevenLabs/e7b83599-1b70-4830-85da-7132b99a3b57",
       "apply_url": "https://jobs.ashbyhq.com/ElevenLabs/e7b83599-1b70-4830-85da-7132b99a3b57/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "e9075e24-5dc2-4ae5-b7ce-37ccae8c4270",
@@ -2018,7 +1946,7 @@
       "source_url": "https://jobs.ashbyhq.com/ElevenLabs/e9075e24-5dc2-4ae5-b7ce-37ccae8c4270",
       "apply_url": "https://jobs.ashbyhq.com/ElevenLabs/e9075e24-5dc2-4ae5-b7ce-37ccae8c4270/application",
       "first_seen": "2026-11-19T15:42:04Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "ec04799b-6567-4032-8d6c-3c27261618e1",
@@ -2036,7 +1964,7 @@
       "source_url": "https://jobs.ashbyhq.com/ElevenLabs/ec04799b-6567-4032-8d6c-3c27261618e1",
       "apply_url": "https://jobs.ashbyhq.com/ElevenLabs/ec04799b-6567-4032-8d6c-3c27261618e1/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "ed5d50eb-e41a-48e4-bea0-3686176f0461",
@@ -2054,7 +1982,7 @@
       "source_url": "https://jobs.ashbyhq.com/ElevenLabs/ed5d50eb-e41a-48e4-bea0-3686176f0461",
       "apply_url": "https://jobs.ashbyhq.com/ElevenLabs/ed5d50eb-e41a-48e4-bea0-3686176f0461/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "ef0a1e14-40ee-43d2-aab9-59fc9f6a4b8c",
@@ -2072,7 +2000,7 @@
       "source_url": "https://jobs.ashbyhq.com/ElevenLabs/ef0a1e14-40ee-43d2-aab9-59fc9f6a4b8c",
       "apply_url": "https://jobs.ashbyhq.com/ElevenLabs/ef0a1e14-40ee-43d2-aab9-59fc9f6a4b8c/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "f0d1e869-4874-45af-9bc3-81479d88565b",
@@ -2090,13 +2018,13 @@
       "source_url": "https://jobs.ashbyhq.com/ElevenLabs/f0d1e869-4874-45af-9bc3-81479d88565b",
       "apply_url": "https://jobs.ashbyhq.com/ElevenLabs/f0d1e869-4874-45af-9bc3-81479d88565b/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "f2bf078d-d104-4a7b-96fd-5187a550f4a0",
       "title": "Technical Customer Support Specialist",
       "company": "ElevenLabs",
-      "location": "Australia",
+      "location": "Japan",
       "remote": "remote",
       "department": "Operations",
       "employment_type": "FULL_TIME",
@@ -2108,7 +2036,7 @@
       "source_url": "https://jobs.ashbyhq.com/ElevenLabs/f2bf078d-d104-4a7b-96fd-5187a550f4a0",
       "apply_url": "https://jobs.ashbyhq.com/ElevenLabs/f2bf078d-d104-4a7b-96fd-5187a550f4a0/application",
       "first_seen": "2026-11-22T14:31:17Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "f591a101-0ffe-44ba-8ff3-a913c86442b6",
@@ -2126,7 +2054,7 @@
       "source_url": "https://jobs.ashbyhq.com/ElevenLabs/f591a101-0ffe-44ba-8ff3-a913c86442b6",
       "apply_url": "https://jobs.ashbyhq.com/ElevenLabs/f591a101-0ffe-44ba-8ff3-a913c86442b6/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "f805267e-2f77-4cdf-8d8a-a3ed5b07e726",
@@ -2144,7 +2072,7 @@
       "source_url": "https://jobs.ashbyhq.com/ElevenLabs/f805267e-2f77-4cdf-8d8a-a3ed5b07e726",
       "apply_url": "https://jobs.ashbyhq.com/ElevenLabs/f805267e-2f77-4cdf-8d8a-a3ed5b07e726/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "f82da674-f6c8-4035-86ef-ff61a7f9cf9c",
@@ -2162,7 +2090,7 @@
       "source_url": "https://jobs.ashbyhq.com/ElevenLabs/f82da674-f6c8-4035-86ef-ff61a7f9cf9c",
       "apply_url": "https://jobs.ashbyhq.com/ElevenLabs/f82da674-f6c8-4035-86ef-ff61a7f9cf9c/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "fabef09e-b84d-44a8-a987-a3cdfd99a974",
@@ -2180,7 +2108,7 @@
       "source_url": "https://jobs.ashbyhq.com/ElevenLabs/fabef09e-b84d-44a8-a987-a3cdfd99a974",
       "apply_url": "https://jobs.ashbyhq.com/ElevenLabs/fabef09e-b84d-44a8-a987-a3cdfd99a974/application",
       "first_seen": "2026-11-19T15:42:04Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "ff152bcd-af7d-408d-88a1-883e03502c4c",
@@ -2198,7 +2126,7 @@
       "source_url": "https://jobs.ashbyhq.com/ElevenLabs/ff152bcd-af7d-408d-88a1-883e03502c4c",
       "apply_url": "https://jobs.ashbyhq.com/ElevenLabs/ff152bcd-af7d-408d-88a1-883e03502c4c/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     }
   ],
   "ats": "ashby",

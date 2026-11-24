@@ -1,8 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-23T18:00:07Z",
+  "checked_at": "2026-11-24T17:38:09Z",
   "failed_at": null,
-  "etag": "W/\"aebf1a32739df1d6e8bf2d73585a1993\"",
+  "etag": "W/\"89d4cab03ce402f44dceeae19a95a139\"",
   "jobs": [
     {
       "id": "5003363",
@@ -20,7 +20,7 @@
       "source_url": "https://job-boards.greenhouse.io/signifyd95/jobs/5003363",
       "apply_url": "https://job-boards.greenhouse.io/signifyd95/jobs/5003363",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "7586185",
@@ -38,7 +38,7 @@
       "source_url": "https://job-boards.greenhouse.io/signifyd95/jobs/7586185",
       "apply_url": "https://job-boards.greenhouse.io/signifyd95/jobs/7586185",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "8046396",
@@ -56,7 +56,7 @@
       "source_url": "https://job-boards.greenhouse.io/signifyd95/jobs/8046396",
       "apply_url": "https://job-boards.greenhouse.io/signifyd95/jobs/8046396",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "8130353",
@@ -74,25 +74,7 @@
       "source_url": "https://job-boards.greenhouse.io/signifyd95/jobs/8130353",
       "apply_url": "https://job-boards.greenhouse.io/signifyd95/jobs/8130353",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-23T18:00:07Z"
-    },
-    {
-      "id": "8247684",
-      "title": "Chargeback Analyst (Brazil)",
-      "company": "Signifyd",
-      "location": "Brazil; São Paulo, Brazil;",
-      "remote": "unspecified",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-10-02",
-      "updated": "2026-10-19",
-      "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/signifyd95/jobs/8247684",
-      "apply_url": "https://job-boards.greenhouse.io/signifyd95/jobs/8247684",
-      "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "8301266",
@@ -110,7 +92,7 @@
       "source_url": "https://job-boards.greenhouse.io/signifyd95/jobs/8301266",
       "apply_url": "https://job-boards.greenhouse.io/signifyd95/jobs/8301266",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "8311261",
@@ -128,7 +110,7 @@
       "source_url": "https://job-boards.greenhouse.io/signifyd95/jobs/8311261",
       "apply_url": "https://job-boards.greenhouse.io/signifyd95/jobs/8311261",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     }
   ],
   "ats": "greenhouse",

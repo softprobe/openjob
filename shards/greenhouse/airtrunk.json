@@ -1,8 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-23T18:00:07Z",
+  "checked_at": "2026-11-24T17:38:09Z",
   "failed_at": null,
-  "etag": "W/\"384c069f46d8d79209fbaefaa1d7102a\"",
+  "etag": "W/\"98c4ab0d261a3c9a9a2b9bf19ebb7015\"",
   "jobs": [
     {
       "id": "7538582003",
@@ -20,7 +20,7 @@
       "source_url": "https://job-boards.greenhouse.io/airtrunk/jobs/7538582003",
       "apply_url": "https://job-boards.greenhouse.io/airtrunk/jobs/7538582003",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "7592257003",
@@ -38,7 +38,7 @@
       "source_url": "https://job-boards.greenhouse.io/airtrunk/jobs/7592257003",
       "apply_url": "https://job-boards.greenhouse.io/airtrunk/jobs/7592257003",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "7633479003",
@@ -56,7 +56,7 @@
       "source_url": "https://job-boards.greenhouse.io/airtrunk/jobs/7633479003",
       "apply_url": "https://job-boards.greenhouse.io/airtrunk/jobs/7633479003",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "7660981003",
@@ -74,7 +74,7 @@
       "source_url": "https://job-boards.greenhouse.io/airtrunk/jobs/7660981003",
       "apply_url": "https://job-boards.greenhouse.io/airtrunk/jobs/7660981003",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "7671467003",
@@ -92,7 +92,7 @@
       "source_url": "https://job-boards.greenhouse.io/airtrunk/jobs/7671467003",
       "apply_url": "https://job-boards.greenhouse.io/airtrunk/jobs/7671467003",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "7671480003",
@@ -110,7 +110,7 @@
       "source_url": "https://job-boards.greenhouse.io/airtrunk/jobs/7671480003",
       "apply_url": "https://job-boards.greenhouse.io/airtrunk/jobs/7671480003",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "7671493003",
@@ -128,25 +128,7 @@
       "source_url": "https://job-boards.greenhouse.io/airtrunk/jobs/7671493003",
       "apply_url": "https://job-boards.greenhouse.io/airtrunk/jobs/7671493003",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
-    },
-    {
-      "id": "7683305003",
-      "title": "Senior Technical Services Manager",
-      "company": "AirTrunk",
-      "location": "Johor Bahru",
-      "remote": "unspecified",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-04-02",
-      "updated": "2026-11-18",
-      "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/airtrunk/jobs/7683305003",
-      "apply_url": "https://job-boards.greenhouse.io/airtrunk/jobs/7683305003",
-      "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "7728184003",
@@ -164,7 +146,7 @@
       "source_url": "https://job-boards.greenhouse.io/airtrunk/jobs/7728184003",
       "apply_url": "https://job-boards.greenhouse.io/airtrunk/jobs/7728184003",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "7732809003",
@@ -182,7 +164,7 @@
       "source_url": "https://job-boards.greenhouse.io/airtrunk/jobs/7732809003",
       "apply_url": "https://job-boards.greenhouse.io/airtrunk/jobs/7732809003",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "7749172003",
@@ -200,7 +182,7 @@
       "source_url": "https://job-boards.greenhouse.io/airtrunk/jobs/7749172003",
       "apply_url": "https://job-boards.greenhouse.io/airtrunk/jobs/7749172003",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "7778730003",
@@ -218,7 +200,7 @@
       "source_url": "https://job-boards.greenhouse.io/airtrunk/jobs/7778730003",
       "apply_url": "https://job-boards.greenhouse.io/airtrunk/jobs/7778730003",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "7796557003",
@@ -236,7 +218,7 @@
       "source_url": "https://job-boards.greenhouse.io/airtrunk/jobs/7796557003",
       "apply_url": "https://job-boards.greenhouse.io/airtrunk/jobs/7796557003",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "7807675003",
@@ -254,7 +236,7 @@
       "source_url": "https://job-boards.greenhouse.io/airtrunk/jobs/7807675003",
       "apply_url": "https://job-boards.greenhouse.io/airtrunk/jobs/7807675003",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "7809322003",
@@ -272,7 +254,7 @@
       "source_url": "https://job-boards.greenhouse.io/airtrunk/jobs/7809322003",
       "apply_url": "https://job-boards.greenhouse.io/airtrunk/jobs/7809322003",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "7818473003",
@@ -290,7 +272,7 @@
       "source_url": "https://job-boards.greenhouse.io/airtrunk/jobs/7818473003",
       "apply_url": "https://job-boards.greenhouse.io/airtrunk/jobs/7818473003",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "7823960003",
@@ -308,7 +290,7 @@
       "source_url": "https://job-boards.greenhouse.io/airtrunk/jobs/7823960003",
       "apply_url": "https://job-boards.greenhouse.io/airtrunk/jobs/7823960003",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "7847315003",
@@ -326,7 +308,7 @@
       "source_url": "https://job-boards.greenhouse.io/airtrunk/jobs/7847315003",
       "apply_url": "https://job-boards.greenhouse.io/airtrunk/jobs/7847315003",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "7910597003",
@@ -344,7 +326,7 @@
       "source_url": "https://job-boards.greenhouse.io/airtrunk/jobs/7910597003",
       "apply_url": "https://job-boards.greenhouse.io/airtrunk/jobs/7910597003",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "7958831003",
@@ -362,7 +344,7 @@
       "source_url": "https://job-boards.greenhouse.io/airtrunk/jobs/7958831003",
       "apply_url": "https://job-boards.greenhouse.io/airtrunk/jobs/7958831003",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "7977841003",
@@ -380,7 +362,7 @@
       "source_url": "https://job-boards.greenhouse.io/airtrunk/jobs/7977841003",
       "apply_url": "https://job-boards.greenhouse.io/airtrunk/jobs/7977841003",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "7978961003",
@@ -398,7 +380,7 @@
       "source_url": "https://job-boards.greenhouse.io/airtrunk/jobs/7978961003",
       "apply_url": "https://job-boards.greenhouse.io/airtrunk/jobs/7978961003",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "7983006003",
@@ -416,7 +398,7 @@
       "source_url": "https://job-boards.greenhouse.io/airtrunk/jobs/7983006003",
       "apply_url": "https://job-boards.greenhouse.io/airtrunk/jobs/7983006003",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "7989731003",
@@ -434,7 +416,7 @@
       "source_url": "https://job-boards.greenhouse.io/airtrunk/jobs/7989731003",
       "apply_url": "https://job-boards.greenhouse.io/airtrunk/jobs/7989731003",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "7989735003",
@@ -452,7 +434,7 @@
       "source_url": "https://job-boards.greenhouse.io/airtrunk/jobs/7989735003",
       "apply_url": "https://job-boards.greenhouse.io/airtrunk/jobs/7989735003",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "7989743003",
@@ -470,7 +452,7 @@
       "source_url": "https://job-boards.greenhouse.io/airtrunk/jobs/7989743003",
       "apply_url": "https://job-boards.greenhouse.io/airtrunk/jobs/7989743003",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "7996699003",
@@ -488,7 +470,7 @@
       "source_url": "https://job-boards.greenhouse.io/airtrunk/jobs/7996699003",
       "apply_url": "https://job-boards.greenhouse.io/airtrunk/jobs/7996699003",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "7997901003",
@@ -506,7 +488,7 @@
       "source_url": "https://job-boards.greenhouse.io/airtrunk/jobs/7997901003",
       "apply_url": "https://job-boards.greenhouse.io/airtrunk/jobs/7997901003",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "8004119003",
@@ -524,7 +506,7 @@
       "source_url": "https://job-boards.greenhouse.io/airtrunk/jobs/8004119003",
       "apply_url": "https://job-boards.greenhouse.io/airtrunk/jobs/8004119003",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "8004124003",
@@ -542,7 +524,7 @@
       "source_url": "https://job-boards.greenhouse.io/airtrunk/jobs/8004124003",
       "apply_url": "https://job-boards.greenhouse.io/airtrunk/jobs/8004124003",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "8005015003",
@@ -560,7 +542,7 @@
       "source_url": "https://job-boards.greenhouse.io/airtrunk/jobs/8005015003",
       "apply_url": "https://job-boards.greenhouse.io/airtrunk/jobs/8005015003",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "8006410003",
@@ -578,7 +560,7 @@
       "source_url": "https://job-boards.greenhouse.io/airtrunk/jobs/8006410003",
       "apply_url": "https://job-boards.greenhouse.io/airtrunk/jobs/8006410003",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "8010160003",
@@ -596,7 +578,7 @@
       "source_url": "https://job-boards.greenhouse.io/airtrunk/jobs/8010160003",
       "apply_url": "https://job-boards.greenhouse.io/airtrunk/jobs/8010160003",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "8014192003",
@@ -614,7 +596,7 @@
       "source_url": "https://job-boards.greenhouse.io/airtrunk/jobs/8014192003",
       "apply_url": "https://job-boards.greenhouse.io/airtrunk/jobs/8014192003",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "8014196003",
@@ -632,7 +614,7 @@
       "source_url": "https://job-boards.greenhouse.io/airtrunk/jobs/8014196003",
       "apply_url": "https://job-boards.greenhouse.io/airtrunk/jobs/8014196003",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "8018065003",
@@ -650,7 +632,7 @@
       "source_url": "https://job-boards.greenhouse.io/airtrunk/jobs/8018065003",
       "apply_url": "https://job-boards.greenhouse.io/airtrunk/jobs/8018065003",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "8026574003",
@@ -668,7 +650,7 @@
       "source_url": "https://job-boards.greenhouse.io/airtrunk/jobs/8026574003",
       "apply_url": "https://job-boards.greenhouse.io/airtrunk/jobs/8026574003",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "8028947003",
@@ -686,7 +668,7 @@
       "source_url": "https://job-boards.greenhouse.io/airtrunk/jobs/8028947003",
       "apply_url": "https://job-boards.greenhouse.io/airtrunk/jobs/8028947003",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "8028949003",
@@ -704,7 +686,7 @@
       "source_url": "https://job-boards.greenhouse.io/airtrunk/jobs/8028949003",
       "apply_url": "https://job-boards.greenhouse.io/airtrunk/jobs/8028949003",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "8032434003",
@@ -722,7 +704,7 @@
       "source_url": "https://job-boards.greenhouse.io/airtrunk/jobs/8032434003",
       "apply_url": "https://job-boards.greenhouse.io/airtrunk/jobs/8032434003",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "8032454003",
@@ -740,7 +722,7 @@
       "source_url": "https://job-boards.greenhouse.io/airtrunk/jobs/8032454003",
       "apply_url": "https://job-boards.greenhouse.io/airtrunk/jobs/8032454003",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "8042310003",
@@ -758,7 +740,7 @@
       "source_url": "https://job-boards.greenhouse.io/airtrunk/jobs/8042310003",
       "apply_url": "https://job-boards.greenhouse.io/airtrunk/jobs/8042310003",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "8042469003",
@@ -776,7 +758,7 @@
       "source_url": "https://job-boards.greenhouse.io/airtrunk/jobs/8042469003",
       "apply_url": "https://job-boards.greenhouse.io/airtrunk/jobs/8042469003",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "8045429003",
@@ -794,7 +776,7 @@
       "source_url": "https://job-boards.greenhouse.io/airtrunk/jobs/8045429003",
       "apply_url": "https://job-boards.greenhouse.io/airtrunk/jobs/8045429003",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "8045763003",
@@ -812,7 +794,7 @@
       "source_url": "https://job-boards.greenhouse.io/airtrunk/jobs/8045763003",
       "apply_url": "https://job-boards.greenhouse.io/airtrunk/jobs/8045763003",
       "first_seen": "2026-11-19T15:42:04Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "8045767003",
@@ -830,7 +812,7 @@
       "source_url": "https://job-boards.greenhouse.io/airtrunk/jobs/8045767003",
       "apply_url": "https://job-boards.greenhouse.io/airtrunk/jobs/8045767003",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "8046821003",
@@ -848,7 +830,7 @@
       "source_url": "https://job-boards.greenhouse.io/airtrunk/jobs/8046821003",
       "apply_url": "https://job-boards.greenhouse.io/airtrunk/jobs/8046821003",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "8046836003",
@@ -866,7 +848,7 @@
       "source_url": "https://job-boards.greenhouse.io/airtrunk/jobs/8046836003",
       "apply_url": "https://job-boards.greenhouse.io/airtrunk/jobs/8046836003",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "8046970003",
@@ -884,25 +866,7 @@
       "source_url": "https://job-boards.greenhouse.io/airtrunk/jobs/8046970003",
       "apply_url": "https://job-boards.greenhouse.io/airtrunk/jobs/8046970003",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
-    },
-    {
-      "id": "8060506003",
-      "title": "Service Delivery Manager",
-      "company": "AirTrunk",
-      "location": "Western Sydney",
-      "remote": "unspecified",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-11-04",
-      "updated": "2026-11-18",
-      "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/airtrunk/jobs/8060506003",
-      "apply_url": "https://job-boards.greenhouse.io/airtrunk/jobs/8060506003",
-      "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "8063045003",
@@ -920,7 +884,7 @@
       "source_url": "https://job-boards.greenhouse.io/airtrunk/jobs/8063045003",
       "apply_url": "https://job-boards.greenhouse.io/airtrunk/jobs/8063045003",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "8064212003",
@@ -938,7 +902,7 @@
       "source_url": "https://job-boards.greenhouse.io/airtrunk/jobs/8064212003",
       "apply_url": "https://job-boards.greenhouse.io/airtrunk/jobs/8064212003",
       "first_seen": "2026-11-23T18:00:07Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "8168410003",
@@ -956,7 +920,7 @@
       "source_url": "https://job-boards.greenhouse.io/airtrunk/jobs/8168410003",
       "apply_url": "https://job-boards.greenhouse.io/airtrunk/jobs/8168410003",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "8168553003",
@@ -974,7 +938,7 @@
       "source_url": "https://job-boards.greenhouse.io/airtrunk/jobs/8168553003",
       "apply_url": "https://job-boards.greenhouse.io/airtrunk/jobs/8168553003",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "8171517003",
@@ -992,7 +956,7 @@
       "source_url": "https://job-boards.greenhouse.io/airtrunk/jobs/8171517003",
       "apply_url": "https://job-boards.greenhouse.io/airtrunk/jobs/8171517003",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "8196329003",
@@ -1010,7 +974,7 @@
       "source_url": "https://job-boards.greenhouse.io/airtrunk/jobs/8196329003",
       "apply_url": "https://job-boards.greenhouse.io/airtrunk/jobs/8196329003",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "8196354003",
@@ -1028,7 +992,7 @@
       "source_url": "https://job-boards.greenhouse.io/airtrunk/jobs/8196354003",
       "apply_url": "https://job-boards.greenhouse.io/airtrunk/jobs/8196354003",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "8196362003",
@@ -1046,7 +1010,7 @@
       "source_url": "https://job-boards.greenhouse.io/airtrunk/jobs/8196362003",
       "apply_url": "https://job-boards.greenhouse.io/airtrunk/jobs/8196362003",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "8197359003",
@@ -1064,7 +1028,7 @@
       "source_url": "https://job-boards.greenhouse.io/airtrunk/jobs/8197359003",
       "apply_url": "https://job-boards.greenhouse.io/airtrunk/jobs/8197359003",
       "first_seen": "2026-11-18T15:36:26Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "8197364003",
@@ -1082,7 +1046,7 @@
       "source_url": "https://job-boards.greenhouse.io/airtrunk/jobs/8197364003",
       "apply_url": "https://job-boards.greenhouse.io/airtrunk/jobs/8197364003",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "8197366003",
@@ -1100,7 +1064,7 @@
       "source_url": "https://job-boards.greenhouse.io/airtrunk/jobs/8197366003",
       "apply_url": "https://job-boards.greenhouse.io/airtrunk/jobs/8197366003",
       "first_seen": "2026-11-18T15:36:26Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "8198727003",
@@ -1118,7 +1082,7 @@
       "source_url": "https://job-boards.greenhouse.io/airtrunk/jobs/8198727003",
       "apply_url": "https://job-boards.greenhouse.io/airtrunk/jobs/8198727003",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "8201144003",
@@ -1136,7 +1100,7 @@
       "source_url": "https://job-boards.greenhouse.io/airtrunk/jobs/8201144003",
       "apply_url": "https://job-boards.greenhouse.io/airtrunk/jobs/8201144003",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "8201231003",
@@ -1154,7 +1118,7 @@
       "source_url": "https://job-boards.greenhouse.io/airtrunk/jobs/8201231003",
       "apply_url": "https://job-boards.greenhouse.io/airtrunk/jobs/8201231003",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "8206254003",
@@ -1172,43 +1136,25 @@
       "source_url": "https://job-boards.greenhouse.io/airtrunk/jobs/8206254003",
       "apply_url": "https://job-boards.greenhouse.io/airtrunk/jobs/8206254003",
       "first_seen": "2026-11-23T18:00:07Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
-      "id": "8207762003",
-      "title": "Associate Director, Environment, Health and Safety Data Centre Operations",
+      "id": "8207953003",
+      "title": "Senior Technical Services Manager",
       "company": "AirTrunk",
-      "location": "AirTrunk HQ - North Sydney",
+      "location": "Johor Bahru",
       "remote": "unspecified",
       "department": "",
       "employment_type": "",
       "salary_text": "",
       "salary_source": "",
-      "posted": "2026-11-17",
-      "updated": "2026-11-20",
+      "posted": "2026-11-23",
+      "updated": "2026-11-23",
       "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/airtrunk/jobs/8207762003",
-      "apply_url": "https://job-boards.greenhouse.io/airtrunk/jobs/8207762003",
-      "first_seen": "2026-11-18T15:36:26Z",
-      "last_checked": "2026-11-23T18:00:07Z"
-    },
-    {
-      "id": "8207885003",
-      "title": "Associate Director, Environment, Health and Safety Data Centre Operations",
-      "company": "AirTrunk",
-      "location": "Melbourne; Melbourne, Victoria, Australia",
-      "remote": "unspecified",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-11-20",
-      "updated": "2026-11-20",
-      "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/airtrunk/jobs/8207885003",
-      "apply_url": "https://job-boards.greenhouse.io/airtrunk/jobs/8207885003",
-      "first_seen": "2026-11-20T15:23:49Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "source_url": "https://job-boards.greenhouse.io/airtrunk/jobs/8207953003",
+      "apply_url": "https://job-boards.greenhouse.io/airtrunk/jobs/8207953003",
+      "first_seen": "2026-11-24T17:38:09Z",
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "8208947003",
@@ -1226,7 +1172,7 @@
       "source_url": "https://job-boards.greenhouse.io/airtrunk/jobs/8208947003",
       "apply_url": "https://job-boards.greenhouse.io/airtrunk/jobs/8208947003",
       "first_seen": "2026-11-19T15:42:04Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "8208966003",
@@ -1244,7 +1190,7 @@
       "source_url": "https://job-boards.greenhouse.io/airtrunk/jobs/8208966003",
       "apply_url": "https://job-boards.greenhouse.io/airtrunk/jobs/8208966003",
       "first_seen": "2026-11-19T15:42:04Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "8209808003",
@@ -1262,7 +1208,7 @@
       "source_url": "https://job-boards.greenhouse.io/airtrunk/jobs/8209808003",
       "apply_url": "https://job-boards.greenhouse.io/airtrunk/jobs/8209808003",
       "first_seen": "2026-11-20T15:23:49Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "8213830003",
@@ -1280,7 +1226,7 @@
       "source_url": "https://job-boards.greenhouse.io/airtrunk/jobs/8213830003",
       "apply_url": "https://job-boards.greenhouse.io/airtrunk/jobs/8213830003",
       "first_seen": "2026-11-23T18:00:07Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     }
   ],
   "ats": "greenhouse",

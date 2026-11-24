@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-23T18:00:07Z",
+  "checked_at": "2026-11-24T17:38:09Z",
   "failed_at": null,
   "etag": "W/\"3a20-4GoJ131EHcv/ePSI/BJXTQ\"",
   "jobs": [
@@ -20,7 +20,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/dewenwils/145203#/job/16c5dc3f-af06-4e76-8c73-4cfb10ac1aa6",
       "apply_url": "https://app.mokahr.com/apply/dewenwils/145203#/job/16c5dc3f-af06-4e76-8c73-4cfb10ac1aa6/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "5bd40d20-e44b-40e4-99ed-60cd3a6fc5fe",
@@ -38,7 +38,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/dewenwils/145203#/job/5bd40d20-e44b-40e4-99ed-60cd3a6fc5fe",
       "apply_url": "https://app.mokahr.com/apply/dewenwils/145203#/job/5bd40d20-e44b-40e4-99ed-60cd3a6fc5fe/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "6779f9eb-2686-4b2b-8fdd-5d5a51c74df6",
@@ -56,7 +56,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/dewenwils/145203#/job/6779f9eb-2686-4b2b-8fdd-5d5a51c74df6",
       "apply_url": "https://app.mokahr.com/apply/dewenwils/145203#/job/6779f9eb-2686-4b2b-8fdd-5d5a51c74df6/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "bd23b775-dfac-4365-a6d1-68f8067ba829",
@@ -74,7 +74,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/dewenwils/145203#/job/bd23b775-dfac-4365-a6d1-68f8067ba829",
       "apply_url": "https://app.mokahr.com/apply/dewenwils/145203#/job/bd23b775-dfac-4365-a6d1-68f8067ba829/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "d8711809-4216-4c3e-bbb1-aa7464be82ff",
@@ -92,7 +92,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/dewenwils/145203#/job/d8711809-4216-4c3e-bbb1-aa7464be82ff",
       "apply_url": "https://app.mokahr.com/apply/dewenwils/145203#/job/d8711809-4216-4c3e-bbb1-aa7464be82ff/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "dd675e8d-ac46-4115-ae13-056d24c49150",
@@ -110,7 +110,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/dewenwils/145203#/job/dd675e8d-ac46-4115-ae13-056d24c49150",
       "apply_url": "https://app.mokahr.com/apply/dewenwils/145203#/job/dd675e8d-ac46-4115-ae13-056d24c49150/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     }
   ],
   "ats": "moka",

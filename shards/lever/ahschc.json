@@ -1,8 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-23T18:00:07Z",
+  "checked_at": "2026-11-24T17:38:09Z",
   "failed_at": null,
-  "etag": "W/\"5aefe-5XiWHZeLQoM214SUca4WDRMabpE\"",
+  "etag": "W/\"56f60-DZId4J/q8Rrb6QFe3iGsw4rMS2c\"",
   "jobs": [
     {
       "id": "075f0bbb-fe2f-476b-9d4e-3bc55cb34d3f",
@@ -20,25 +20,7 @@
       "source_url": "https://jobs.lever.co/ahschc/075f0bbb-fe2f-476b-9d4e-3bc55cb34d3f",
       "apply_url": "https://jobs.lever.co/ahschc/075f0bbb-fe2f-476b-9d4e-3bc55cb34d3f/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
-    },
-    {
-      "id": "0b38fa7c-6e36-4266-ad78-b1d968b8dcc4",
-      "title": "Geriatric Services Manager - Cantonese/Mandarin (MSW)",
-      "company": "Asian Health Services",
-      "location": "San Leandro, CA",
-      "remote": "onsite",
-      "department": "SpringLight PACE",
-      "employment_type": "FULL_TIME",
-      "salary_text": "100000-117375 USD / per-year-salary",
-      "salary_source": "lever",
-      "posted": "2026-08-27",
-      "updated": "",
-      "deadline": "",
-      "source_url": "https://jobs.lever.co/ahschc/0b38fa7c-6e36-4266-ad78-b1d968b8dcc4",
-      "apply_url": "https://jobs.lever.co/ahschc/0b38fa7c-6e36-4266-ad78-b1d968b8dcc4/apply",
-      "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "1ee9f5a3-524f-42e1-816e-2edae876c3df",
@@ -56,7 +38,7 @@
       "source_url": "https://jobs.lever.co/ahschc/1ee9f5a3-524f-42e1-816e-2edae876c3df",
       "apply_url": "https://jobs.lever.co/ahschc/1ee9f5a3-524f-42e1-816e-2edae876c3df/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "1fd21787-9f8c-4671-a46c-274973b9a4be",
@@ -74,7 +56,7 @@
       "source_url": "https://jobs.lever.co/ahschc/1fd21787-9f8c-4671-a46c-274973b9a4be",
       "apply_url": "https://jobs.lever.co/ahschc/1fd21787-9f8c-4671-a46c-274973b9a4be/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "326e793e-0746-422a-a081-0d8664364dae",
@@ -92,7 +74,7 @@
       "source_url": "https://jobs.lever.co/ahschc/326e793e-0746-422a-a081-0d8664364dae",
       "apply_url": "https://jobs.lever.co/ahschc/326e793e-0746-422a-a081-0d8664364dae/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "336fe90f-5c65-4e4f-a37d-4375709c7063",
@@ -110,7 +92,7 @@
       "source_url": "https://jobs.lever.co/ahschc/336fe90f-5c65-4e4f-a37d-4375709c7063",
       "apply_url": "https://jobs.lever.co/ahschc/336fe90f-5c65-4e4f-a37d-4375709c7063/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "60e122c9-7d1b-4193-b9c2-747823010957",
@@ -128,7 +110,7 @@
       "source_url": "https://jobs.lever.co/ahschc/60e122c9-7d1b-4193-b9c2-747823010957",
       "apply_url": "https://jobs.lever.co/ahschc/60e122c9-7d1b-4193-b9c2-747823010957/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "7622f02f-f8be-441e-bc80-4ecde646018f",
@@ -146,7 +128,7 @@
       "source_url": "https://jobs.lever.co/ahschc/7622f02f-f8be-441e-bc80-4ecde646018f",
       "apply_url": "https://jobs.lever.co/ahschc/7622f02f-f8be-441e-bc80-4ecde646018f/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "82af1e75-9399-4bbc-b36f-f09709c43cb3",
@@ -164,7 +146,7 @@
       "source_url": "https://jobs.lever.co/ahschc/82af1e75-9399-4bbc-b36f-f09709c43cb3",
       "apply_url": "https://jobs.lever.co/ahschc/82af1e75-9399-4bbc-b36f-f09709c43cb3/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "85d65af0-b331-4220-9afb-0aa87bcf3cc7",
@@ -182,7 +164,7 @@
       "source_url": "https://jobs.lever.co/ahschc/85d65af0-b331-4220-9afb-0aa87bcf3cc7",
       "apply_url": "https://jobs.lever.co/ahschc/85d65af0-b331-4220-9afb-0aa87bcf3cc7/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "880fb644-c57a-4bc0-a831-7517b0e8d73b",
@@ -200,7 +182,7 @@
       "source_url": "https://jobs.lever.co/ahschc/880fb644-c57a-4bc0-a831-7517b0e8d73b",
       "apply_url": "https://jobs.lever.co/ahschc/880fb644-c57a-4bc0-a831-7517b0e8d73b/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "8948a948-f437-4a4d-8fed-02a1f7c25205",
@@ -218,7 +200,7 @@
       "source_url": "https://jobs.lever.co/ahschc/8948a948-f437-4a4d-8fed-02a1f7c25205",
       "apply_url": "https://jobs.lever.co/ahschc/8948a948-f437-4a4d-8fed-02a1f7c25205/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "97904a2d-805a-4657-bd51-36ea3a60647f",
@@ -236,7 +218,7 @@
       "source_url": "https://jobs.lever.co/ahschc/97904a2d-805a-4657-bd51-36ea3a60647f",
       "apply_url": "https://jobs.lever.co/ahschc/97904a2d-805a-4657-bd51-36ea3a60647f/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "a2a13372-0b22-41ed-b965-d74065fdd575",
@@ -254,7 +236,7 @@
       "source_url": "https://jobs.lever.co/ahschc/a2a13372-0b22-41ed-b965-d74065fdd575",
       "apply_url": "https://jobs.lever.co/ahschc/a2a13372-0b22-41ed-b965-d74065fdd575/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "a3acb089-939c-4343-99c2-dd61557ab316",
@@ -272,7 +254,7 @@
       "source_url": "https://jobs.lever.co/ahschc/a3acb089-939c-4343-99c2-dd61557ab316",
       "apply_url": "https://jobs.lever.co/ahschc/a3acb089-939c-4343-99c2-dd61557ab316/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "a9bf79cd-731a-46dd-9b9b-d6f9a14282d1",
@@ -290,7 +272,7 @@
       "source_url": "https://jobs.lever.co/ahschc/a9bf79cd-731a-46dd-9b9b-d6f9a14282d1",
       "apply_url": "https://jobs.lever.co/ahschc/a9bf79cd-731a-46dd-9b9b-d6f9a14282d1/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "aab6fd73-bcc3-4c96-a5ce-af7387dc2154",
@@ -308,7 +290,7 @@
       "source_url": "https://jobs.lever.co/ahschc/aab6fd73-bcc3-4c96-a5ce-af7387dc2154",
       "apply_url": "https://jobs.lever.co/ahschc/aab6fd73-bcc3-4c96-a5ce-af7387dc2154/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "aba686d0-d719-47c3-91f3-c8e00c6efbcb",
@@ -326,7 +308,7 @@
       "source_url": "https://jobs.lever.co/ahschc/aba686d0-d719-47c3-91f3-c8e00c6efbcb",
       "apply_url": "https://jobs.lever.co/ahschc/aba686d0-d719-47c3-91f3-c8e00c6efbcb/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "b8b8aea8-0065-438b-8567-8abdd86eaa62",
@@ -344,7 +326,7 @@
       "source_url": "https://jobs.lever.co/ahschc/b8b8aea8-0065-438b-8567-8abdd86eaa62",
       "apply_url": "https://jobs.lever.co/ahschc/b8b8aea8-0065-438b-8567-8abdd86eaa62/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "c1138bd6-c291-4e84-b206-7ad618cd3332",
@@ -362,7 +344,7 @@
       "source_url": "https://jobs.lever.co/ahschc/c1138bd6-c291-4e84-b206-7ad618cd3332",
       "apply_url": "https://jobs.lever.co/ahschc/c1138bd6-c291-4e84-b206-7ad618cd3332/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "c2a991ea-e634-42dc-84de-dd63201147a6",
@@ -380,7 +362,7 @@
       "source_url": "https://jobs.lever.co/ahschc/c2a991ea-e634-42dc-84de-dd63201147a6",
       "apply_url": "https://jobs.lever.co/ahschc/c2a991ea-e634-42dc-84de-dd63201147a6/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "c9b436b2-fe64-41b5-90e9-0163955d8263",
@@ -398,7 +380,7 @@
       "source_url": "https://jobs.lever.co/ahschc/c9b436b2-fe64-41b5-90e9-0163955d8263",
       "apply_url": "https://jobs.lever.co/ahschc/c9b436b2-fe64-41b5-90e9-0163955d8263/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "cd61b771-350e-48ca-8f98-1f51529686cc",
@@ -416,7 +398,7 @@
       "source_url": "https://jobs.lever.co/ahschc/cd61b771-350e-48ca-8f98-1f51529686cc",
       "apply_url": "https://jobs.lever.co/ahschc/cd61b771-350e-48ca-8f98-1f51529686cc/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "d0014d00-2363-4369-97b8-1c70c7a9f8c4",
@@ -434,7 +416,7 @@
       "source_url": "https://jobs.lever.co/ahschc/d0014d00-2363-4369-97b8-1c70c7a9f8c4",
       "apply_url": "https://jobs.lever.co/ahschc/d0014d00-2363-4369-97b8-1c70c7a9f8c4/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "de820707-e52a-4f73-b265-1da4afa8c579",
@@ -452,7 +434,7 @@
       "source_url": "https://jobs.lever.co/ahschc/de820707-e52a-4f73-b265-1da4afa8c579",
       "apply_url": "https://jobs.lever.co/ahschc/de820707-e52a-4f73-b265-1da4afa8c579/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "e5a89e70-28db-4900-815f-b793e13679c1",
@@ -470,7 +452,7 @@
       "source_url": "https://jobs.lever.co/ahschc/e5a89e70-28db-4900-815f-b793e13679c1",
       "apply_url": "https://jobs.lever.co/ahschc/e5a89e70-28db-4900-815f-b793e13679c1/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "ec3d2167-f686-45af-b308-1d6ab1841968",
@@ -488,7 +470,7 @@
       "source_url": "https://jobs.lever.co/ahschc/ec3d2167-f686-45af-b308-1d6ab1841968",
       "apply_url": "https://jobs.lever.co/ahschc/ec3d2167-f686-45af-b308-1d6ab1841968/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     }
   ],
   "ats": "lever",

@@ -1,8 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-23T18:00:07Z",
+  "checked_at": "2026-11-24T17:38:09Z",
   "failed_at": null,
-  "etag": "W/\"2584f-A+9UEuWzeSHZ6ipXfXjTPA\"",
+  "etag": "W/\"25f55-URAnVSY85Kh9ipBGPEOucA\"",
   "jobs": [
     {
       "id": "0799643a-f8e0-4f6c-a66d-73f69b733549",
@@ -20,7 +20,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/ztgame/37485#/job/0799643a-f8e0-4f6c-a66d-73f69b733549",
       "apply_url": "https://app.mokahr.com/apply/ztgame/37485#/job/0799643a-f8e0-4f6c-a66d-73f69b733549/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "0a435f34-6876-4e66-aa4c-27c4ead8efdc",
@@ -38,7 +38,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/ztgame/37485#/job/0a435f34-6876-4e66-aa4c-27c4ead8efdc",
       "apply_url": "https://app.mokahr.com/apply/ztgame/37485#/job/0a435f34-6876-4e66-aa4c-27c4ead8efdc/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "0b4b61f3-d498-49ee-b2a7-e04067948204",
@@ -56,7 +56,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/ztgame/37485#/job/0b4b61f3-d498-49ee-b2a7-e04067948204",
       "apply_url": "https://app.mokahr.com/apply/ztgame/37485#/job/0b4b61f3-d498-49ee-b2a7-e04067948204/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "10e2aa4b-87f5-4f49-b6c7-5a51a9ecb54e",
@@ -74,7 +74,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/ztgame/37485#/job/10e2aa4b-87f5-4f49-b6c7-5a51a9ecb54e",
       "apply_url": "https://app.mokahr.com/apply/ztgame/37485#/job/10e2aa4b-87f5-4f49-b6c7-5a51a9ecb54e/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "11fc5657-7e30-4e74-b4f4-fef935c9ca23",
@@ -92,7 +92,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/ztgame/37485#/job/11fc5657-7e30-4e74-b4f4-fef935c9ca23",
       "apply_url": "https://app.mokahr.com/apply/ztgame/37485#/job/11fc5657-7e30-4e74-b4f4-fef935c9ca23/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "15da7480-f25e-41e1-8246-1220eb906390",
@@ -110,7 +110,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/ztgame/37485#/job/15da7480-f25e-41e1-8246-1220eb906390",
       "apply_url": "https://app.mokahr.com/apply/ztgame/37485#/job/15da7480-f25e-41e1-8246-1220eb906390/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "1a1df7ec-5777-4575-84f8-6952e9e76c1b",
@@ -128,7 +128,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/ztgame/37485#/job/1a1df7ec-5777-4575-84f8-6952e9e76c1b",
       "apply_url": "https://app.mokahr.com/apply/ztgame/37485#/job/1a1df7ec-5777-4575-84f8-6952e9e76c1b/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "1effd0cb-773b-4000-bd16-00cd9fc21532",
@@ -146,7 +146,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/ztgame/37485#/job/1effd0cb-773b-4000-bd16-00cd9fc21532",
       "apply_url": "https://app.mokahr.com/apply/ztgame/37485#/job/1effd0cb-773b-4000-bd16-00cd9fc21532/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "1f51240d-c7d9-48a3-ab49-f07e0733e220",
@@ -164,7 +164,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/ztgame/37485#/job/1f51240d-c7d9-48a3-ab49-f07e0733e220",
       "apply_url": "https://app.mokahr.com/apply/ztgame/37485#/job/1f51240d-c7d9-48a3-ab49-f07e0733e220/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "23299c34-c915-41fe-84d9-4a970a2ec6bd",
@@ -182,7 +182,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/ztgame/37485#/job/23299c34-c915-41fe-84d9-4a970a2ec6bd",
       "apply_url": "https://app.mokahr.com/apply/ztgame/37485#/job/23299c34-c915-41fe-84d9-4a970a2ec6bd/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "246b4db0-53cf-48a4-aa8c-6dfa4867784a",
@@ -200,7 +200,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/ztgame/37485#/job/246b4db0-53cf-48a4-aa8c-6dfa4867784a",
       "apply_url": "https://app.mokahr.com/apply/ztgame/37485#/job/246b4db0-53cf-48a4-aa8c-6dfa4867784a/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "25f26d48-3933-44b4-9f0d-f84252ebfa5d",
@@ -218,7 +218,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/ztgame/37485#/job/25f26d48-3933-44b4-9f0d-f84252ebfa5d",
       "apply_url": "https://app.mokahr.com/apply/ztgame/37485#/job/25f26d48-3933-44b4-9f0d-f84252ebfa5d/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "2652ef78-a649-49ef-a4ce-9c1f5f3a716f",
@@ -236,7 +236,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/ztgame/37485#/job/2652ef78-a649-49ef-a4ce-9c1f5f3a716f",
       "apply_url": "https://app.mokahr.com/apply/ztgame/37485#/job/2652ef78-a649-49ef-a4ce-9c1f5f3a716f/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "265ceead-b565-430d-8f7c-ea66ef1086dd",
@@ -254,7 +254,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/ztgame/37485#/job/265ceead-b565-430d-8f7c-ea66ef1086dd",
       "apply_url": "https://app.mokahr.com/apply/ztgame/37485#/job/265ceead-b565-430d-8f7c-ea66ef1086dd/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "28358251-4cde-45ce-8a06-3fe3b2adf44d",
@@ -272,7 +272,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/ztgame/37485#/job/28358251-4cde-45ce-8a06-3fe3b2adf44d",
       "apply_url": "https://app.mokahr.com/apply/ztgame/37485#/job/28358251-4cde-45ce-8a06-3fe3b2adf44d/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "29b1ab32-3ca4-4e09-ad6b-72f6b8ac8a48",
@@ -290,7 +290,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/ztgame/37485#/job/29b1ab32-3ca4-4e09-ad6b-72f6b8ac8a48",
       "apply_url": "https://app.mokahr.com/apply/ztgame/37485#/job/29b1ab32-3ca4-4e09-ad6b-72f6b8ac8a48/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "2f4f016a-a14f-4735-b53d-a8e51c3e1a59",
@@ -308,7 +308,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/ztgame/37485#/job/2f4f016a-a14f-4735-b53d-a8e51c3e1a59",
       "apply_url": "https://app.mokahr.com/apply/ztgame/37485#/job/2f4f016a-a14f-4735-b53d-a8e51c3e1a59/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "3599f063-42de-4f10-9efa-a2119b604de0",
@@ -326,7 +326,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/ztgame/37485#/job/3599f063-42de-4f10-9efa-a2119b604de0",
       "apply_url": "https://app.mokahr.com/apply/ztgame/37485#/job/3599f063-42de-4f10-9efa-a2119b604de0/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "35fa56cf-e632-49c9-9d93-f5d335f5abdc",
@@ -344,7 +344,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/ztgame/37485#/job/35fa56cf-e632-49c9-9d93-f5d335f5abdc",
       "apply_url": "https://app.mokahr.com/apply/ztgame/37485#/job/35fa56cf-e632-49c9-9d93-f5d335f5abdc/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "3af9bf0a-3a3c-4029-b43e-ab7a34bae377",
@@ -362,7 +362,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/ztgame/37485#/job/3af9bf0a-3a3c-4029-b43e-ab7a34bae377",
       "apply_url": "https://app.mokahr.com/apply/ztgame/37485#/job/3af9bf0a-3a3c-4029-b43e-ab7a34bae377/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "3c378bfa-04a9-42db-8c68-8584b2afa8aa",
@@ -380,7 +380,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/ztgame/37485#/job/3c378bfa-04a9-42db-8c68-8584b2afa8aa",
       "apply_url": "https://app.mokahr.com/apply/ztgame/37485#/job/3c378bfa-04a9-42db-8c68-8584b2afa8aa/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "40845519-0fd1-49ab-a5ad-2ec684d2655d",
@@ -398,7 +398,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/ztgame/37485#/job/40845519-0fd1-49ab-a5ad-2ec684d2655d",
       "apply_url": "https://app.mokahr.com/apply/ztgame/37485#/job/40845519-0fd1-49ab-a5ad-2ec684d2655d/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "45eb26c2-d427-45a4-90b0-8e7ff5a1bd24",
@@ -416,7 +416,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/ztgame/37485#/job/45eb26c2-d427-45a4-90b0-8e7ff5a1bd24",
       "apply_url": "https://app.mokahr.com/apply/ztgame/37485#/job/45eb26c2-d427-45a4-90b0-8e7ff5a1bd24/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "4a2971cb-cb55-4134-a721-7ecd6d87b1e2",
@@ -434,7 +434,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/ztgame/37485#/job/4a2971cb-cb55-4134-a721-7ecd6d87b1e2",
       "apply_url": "https://app.mokahr.com/apply/ztgame/37485#/job/4a2971cb-cb55-4134-a721-7ecd6d87b1e2/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "4ab3d120-a888-4992-ad7c-0aafb3d28233",
@@ -452,7 +452,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/ztgame/37485#/job/4ab3d120-a888-4992-ad7c-0aafb3d28233",
       "apply_url": "https://app.mokahr.com/apply/ztgame/37485#/job/4ab3d120-a888-4992-ad7c-0aafb3d28233/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "4cf8fa30-3851-4a78-86ef-ee5957117c43",
@@ -470,7 +470,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/ztgame/37485#/job/4cf8fa30-3851-4a78-86ef-ee5957117c43",
       "apply_url": "https://app.mokahr.com/apply/ztgame/37485#/job/4cf8fa30-3851-4a78-86ef-ee5957117c43/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "4ecbe484-511a-419c-a437-df2012634dc1",
@@ -488,7 +488,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/ztgame/37485#/job/4ecbe484-511a-419c-a437-df2012634dc1",
       "apply_url": "https://app.mokahr.com/apply/ztgame/37485#/job/4ecbe484-511a-419c-a437-df2012634dc1/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "4f0dc62f-1edd-4c0c-aff3-f2a3a813b588",
@@ -506,7 +506,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/ztgame/37485#/job/4f0dc62f-1edd-4c0c-aff3-f2a3a813b588",
       "apply_url": "https://app.mokahr.com/apply/ztgame/37485#/job/4f0dc62f-1edd-4c0c-aff3-f2a3a813b588/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "54b04484-41e3-4b68-a721-0a3aec36dced",
@@ -524,7 +524,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/ztgame/37485#/job/54b04484-41e3-4b68-a721-0a3aec36dced",
       "apply_url": "https://app.mokahr.com/apply/ztgame/37485#/job/54b04484-41e3-4b68-a721-0a3aec36dced/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "593d8378-2573-4213-913e-a2ba5e25d54d",
@@ -542,7 +542,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/ztgame/37485#/job/593d8378-2573-4213-913e-a2ba5e25d54d",
       "apply_url": "https://app.mokahr.com/apply/ztgame/37485#/job/593d8378-2573-4213-913e-a2ba5e25d54d/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "59cf7772-f13a-491c-b8fa-a615fdf9c3b8",
@@ -560,7 +560,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/ztgame/37485#/job/59cf7772-f13a-491c-b8fa-a615fdf9c3b8",
       "apply_url": "https://app.mokahr.com/apply/ztgame/37485#/job/59cf7772-f13a-491c-b8fa-a615fdf9c3b8/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "5aa2df29-c61c-4449-8aad-697650fecb46",
@@ -578,7 +578,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/ztgame/37485#/job/5aa2df29-c61c-4449-8aad-697650fecb46",
       "apply_url": "https://app.mokahr.com/apply/ztgame/37485#/job/5aa2df29-c61c-4449-8aad-697650fecb46/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "5c1da03b-8b97-4066-a3ad-6c3a66b76682",
@@ -596,7 +596,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/ztgame/37485#/job/5c1da03b-8b97-4066-a3ad-6c3a66b76682",
       "apply_url": "https://app.mokahr.com/apply/ztgame/37485#/job/5c1da03b-8b97-4066-a3ad-6c3a66b76682/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "5c86314d-b2ae-43b8-ba38-e51a85522148",
@@ -614,7 +614,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/ztgame/37485#/job/5c86314d-b2ae-43b8-ba38-e51a85522148",
       "apply_url": "https://app.mokahr.com/apply/ztgame/37485#/job/5c86314d-b2ae-43b8-ba38-e51a85522148/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "5ebb31ff-460c-4569-9089-04c72a16e29c",
@@ -632,7 +632,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/ztgame/37485#/job/5ebb31ff-460c-4569-9089-04c72a16e29c",
       "apply_url": "https://app.mokahr.com/apply/ztgame/37485#/job/5ebb31ff-460c-4569-9089-04c72a16e29c/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "5f602ef4-73de-4216-b799-1be992c162fb",
@@ -650,7 +650,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/ztgame/37485#/job/5f602ef4-73de-4216-b799-1be992c162fb",
       "apply_url": "https://app.mokahr.com/apply/ztgame/37485#/job/5f602ef4-73de-4216-b799-1be992c162fb/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "615ec883-6d7f-493d-986d-d2d6e258bc89",
@@ -668,7 +668,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/ztgame/37485#/job/615ec883-6d7f-493d-986d-d2d6e258bc89",
       "apply_url": "https://app.mokahr.com/apply/ztgame/37485#/job/615ec883-6d7f-493d-986d-d2d6e258bc89/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "62cbf9bf-9437-45cb-88d7-def40217246a",
@@ -686,7 +686,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/ztgame/37485#/job/62cbf9bf-9437-45cb-88d7-def40217246a",
       "apply_url": "https://app.mokahr.com/apply/ztgame/37485#/job/62cbf9bf-9437-45cb-88d7-def40217246a/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "69591027-339f-4e26-ae4c-c82f4569d180",
@@ -704,7 +704,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/ztgame/37485#/job/69591027-339f-4e26-ae4c-c82f4569d180",
       "apply_url": "https://app.mokahr.com/apply/ztgame/37485#/job/69591027-339f-4e26-ae4c-c82f4569d180/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "6b8055c8-e9a7-4cd1-ab1b-cbdff7803561",
@@ -722,7 +722,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/ztgame/37485#/job/6b8055c8-e9a7-4cd1-ab1b-cbdff7803561",
       "apply_url": "https://app.mokahr.com/apply/ztgame/37485#/job/6b8055c8-e9a7-4cd1-ab1b-cbdff7803561/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "6d926cbe-1c15-4b0f-a831-438321aa1c0c",
@@ -740,7 +740,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/ztgame/37485#/job/6d926cbe-1c15-4b0f-a831-438321aa1c0c",
       "apply_url": "https://app.mokahr.com/apply/ztgame/37485#/job/6d926cbe-1c15-4b0f-a831-438321aa1c0c/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "77bdeaf2-1763-4332-81c6-4574e545bb6b",
@@ -758,7 +758,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/ztgame/37485#/job/77bdeaf2-1763-4332-81c6-4574e545bb6b",
       "apply_url": "https://app.mokahr.com/apply/ztgame/37485#/job/77bdeaf2-1763-4332-81c6-4574e545bb6b/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "7cf01926-5ff0-4ee0-b6c2-3cef6c852ec3",
@@ -776,7 +776,25 @@
       "source_url": "https://app.mokahr.com/social-recruitment/ztgame/37485#/job/7cf01926-5ff0-4ee0-b6c2-3cef6c852ec3",
       "apply_url": "https://app.mokahr.com/apply/ztgame/37485#/job/7cf01926-5ff0-4ee0-b6c2-3cef6c852ec3/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
+    },
+    {
+      "id": "7fb456b0-cc47-4633-934d-b47dae833357",
+      "title": "政府关系专家",
+      "company": "上海巨人网络科技有限公司",
+      "location": "上海市, 中国",
+      "remote": "unspecified",
+      "department": "法务部",
+      "employment_type": "FULL_TIME",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-24",
+      "updated": "2026-11-24",
+      "deadline": "",
+      "source_url": "https://app.mokahr.com/social-recruitment/ztgame/37485#/job/7fb456b0-cc47-4633-934d-b47dae833357",
+      "apply_url": "https://app.mokahr.com/apply/ztgame/37485#/job/7fb456b0-cc47-4633-934d-b47dae833357/apply?pure=1",
+      "first_seen": "2026-11-24T17:38:09Z",
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "803e19a0-6908-450e-bba5-ae5199aae212",
@@ -794,7 +812,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/ztgame/37485#/job/803e19a0-6908-450e-bba5-ae5199aae212",
       "apply_url": "https://app.mokahr.com/apply/ztgame/37485#/job/803e19a0-6908-450e-bba5-ae5199aae212/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "82ceb3a1-b02b-47b2-bba9-7f72f3d77e1a",
@@ -812,7 +830,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/ztgame/37485#/job/82ceb3a1-b02b-47b2-bba9-7f72f3d77e1a",
       "apply_url": "https://app.mokahr.com/apply/ztgame/37485#/job/82ceb3a1-b02b-47b2-bba9-7f72f3d77e1a/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "86df4292-ac36-478b-a212-b3c04f1122e7",
@@ -830,7 +848,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/ztgame/37485#/job/86df4292-ac36-478b-a212-b3c04f1122e7",
       "apply_url": "https://app.mokahr.com/apply/ztgame/37485#/job/86df4292-ac36-478b-a212-b3c04f1122e7/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "8deef875-ee03-4de3-82ee-9a520883d79b",
@@ -848,7 +866,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/ztgame/37485#/job/8deef875-ee03-4de3-82ee-9a520883d79b",
       "apply_url": "https://app.mokahr.com/apply/ztgame/37485#/job/8deef875-ee03-4de3-82ee-9a520883d79b/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "97b829a0-47af-4711-8412-c5b757d61450",
@@ -866,7 +884,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/ztgame/37485#/job/97b829a0-47af-4711-8412-c5b757d61450",
       "apply_url": "https://app.mokahr.com/apply/ztgame/37485#/job/97b829a0-47af-4711-8412-c5b757d61450/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "9a9f7c29-dba2-4812-bab6-b61c5f6a8e45",
@@ -884,7 +902,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/ztgame/37485#/job/9a9f7c29-dba2-4812-bab6-b61c5f6a8e45",
       "apply_url": "https://app.mokahr.com/apply/ztgame/37485#/job/9a9f7c29-dba2-4812-bab6-b61c5f6a8e45/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "9c56ffda-87cf-4edc-802a-e56ea0e8b9f7",
@@ -902,7 +920,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/ztgame/37485#/job/9c56ffda-87cf-4edc-802a-e56ea0e8b9f7",
       "apply_url": "https://app.mokahr.com/apply/ztgame/37485#/job/9c56ffda-87cf-4edc-802a-e56ea0e8b9f7/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "9ddce635-889f-403f-b339-2d4e85e81b62",
@@ -920,7 +938,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/ztgame/37485#/job/9ddce635-889f-403f-b339-2d4e85e81b62",
       "apply_url": "https://app.mokahr.com/apply/ztgame/37485#/job/9ddce635-889f-403f-b339-2d4e85e81b62/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "9ee0553a-106e-4116-afd9-447246f021ee",
@@ -938,7 +956,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/ztgame/37485#/job/9ee0553a-106e-4116-afd9-447246f021ee",
       "apply_url": "https://app.mokahr.com/apply/ztgame/37485#/job/9ee0553a-106e-4116-afd9-447246f021ee/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "a0fb06aa-917b-40f5-ba86-44c96840964a",
@@ -956,7 +974,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/ztgame/37485#/job/a0fb06aa-917b-40f5-ba86-44c96840964a",
       "apply_url": "https://app.mokahr.com/apply/ztgame/37485#/job/a0fb06aa-917b-40f5-ba86-44c96840964a/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "a3a3acf0-2d67-4af4-8b36-aff638bb8a9f",
@@ -974,7 +992,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/ztgame/37485#/job/a3a3acf0-2d67-4af4-8b36-aff638bb8a9f",
       "apply_url": "https://app.mokahr.com/apply/ztgame/37485#/job/a3a3acf0-2d67-4af4-8b36-aff638bb8a9f/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "a54c1a40-e0f0-460d-8dba-92b88e6aac6a",
@@ -992,7 +1010,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/ztgame/37485#/job/a54c1a40-e0f0-460d-8dba-92b88e6aac6a",
       "apply_url": "https://app.mokahr.com/apply/ztgame/37485#/job/a54c1a40-e0f0-460d-8dba-92b88e6aac6a/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "a6f5edd2-0eb8-4df8-b75e-28227e71e668",
@@ -1010,7 +1028,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/ztgame/37485#/job/a6f5edd2-0eb8-4df8-b75e-28227e71e668",
       "apply_url": "https://app.mokahr.com/apply/ztgame/37485#/job/a6f5edd2-0eb8-4df8-b75e-28227e71e668/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "ab32abde-8333-4816-8dd5-948db9bc4300",
@@ -1028,7 +1046,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/ztgame/37485#/job/ab32abde-8333-4816-8dd5-948db9bc4300",
       "apply_url": "https://app.mokahr.com/apply/ztgame/37485#/job/ab32abde-8333-4816-8dd5-948db9bc4300/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "ae32f5aa-cc98-4aa8-87b4-56889dd9680a",
@@ -1046,7 +1064,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/ztgame/37485#/job/ae32f5aa-cc98-4aa8-87b4-56889dd9680a",
       "apply_url": "https://app.mokahr.com/apply/ztgame/37485#/job/ae32f5aa-cc98-4aa8-87b4-56889dd9680a/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "afb067d1-f7a5-40ac-803a-d5a2f4b73956",
@@ -1064,7 +1082,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/ztgame/37485#/job/afb067d1-f7a5-40ac-803a-d5a2f4b73956",
       "apply_url": "https://app.mokahr.com/apply/ztgame/37485#/job/afb067d1-f7a5-40ac-803a-d5a2f4b73956/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "b0ab8403-351b-42ef-ac5b-d8b5b840eb55",
@@ -1082,7 +1100,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/ztgame/37485#/job/b0ab8403-351b-42ef-ac5b-d8b5b840eb55",
       "apply_url": "https://app.mokahr.com/apply/ztgame/37485#/job/b0ab8403-351b-42ef-ac5b-d8b5b840eb55/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "b162911d-7c87-4992-8aff-88dbd536a3d2",
@@ -1100,7 +1118,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/ztgame/37485#/job/b162911d-7c87-4992-8aff-88dbd536a3d2",
       "apply_url": "https://app.mokahr.com/apply/ztgame/37485#/job/b162911d-7c87-4992-8aff-88dbd536a3d2/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "b94d337f-2009-4032-92d6-fb72b35020dd",
@@ -1118,7 +1136,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/ztgame/37485#/job/b94d337f-2009-4032-92d6-fb72b35020dd",
       "apply_url": "https://app.mokahr.com/apply/ztgame/37485#/job/b94d337f-2009-4032-92d6-fb72b35020dd/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "c45817a9-ddfd-4064-8ebb-6c9d0bcfdb12",
@@ -1136,7 +1154,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/ztgame/37485#/job/c45817a9-ddfd-4064-8ebb-6c9d0bcfdb12",
       "apply_url": "https://app.mokahr.com/apply/ztgame/37485#/job/c45817a9-ddfd-4064-8ebb-6c9d0bcfdb12/apply?pure=1",
       "first_seen": "2026-11-18T15:36:26Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "d08a7631-f8ca-4cab-8c5b-a01ec9c9acf0",
@@ -1154,7 +1172,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/ztgame/37485#/job/d08a7631-f8ca-4cab-8c5b-a01ec9c9acf0",
       "apply_url": "https://app.mokahr.com/apply/ztgame/37485#/job/d08a7631-f8ca-4cab-8c5b-a01ec9c9acf0/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "dc0aae8b-57e1-4586-aacc-e37d0a09ca1c",
@@ -1172,7 +1190,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/ztgame/37485#/job/dc0aae8b-57e1-4586-aacc-e37d0a09ca1c",
       "apply_url": "https://app.mokahr.com/apply/ztgame/37485#/job/dc0aae8b-57e1-4586-aacc-e37d0a09ca1c/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "dc8a781d-0eb4-4c05-b0e3-abcc7414a280",
@@ -1190,7 +1208,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/ztgame/37485#/job/dc8a781d-0eb4-4c05-b0e3-abcc7414a280",
       "apply_url": "https://app.mokahr.com/apply/ztgame/37485#/job/dc8a781d-0eb4-4c05-b0e3-abcc7414a280/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "de0ad70f-f27b-4471-967b-44ecdbd34a44",
@@ -1208,7 +1226,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/ztgame/37485#/job/de0ad70f-f27b-4471-967b-44ecdbd34a44",
       "apply_url": "https://app.mokahr.com/apply/ztgame/37485#/job/de0ad70f-f27b-4471-967b-44ecdbd34a44/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "e923a4ab-5bc9-46fe-9fb9-fe5e463a1d9a",
@@ -1226,7 +1244,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/ztgame/37485#/job/e923a4ab-5bc9-46fe-9fb9-fe5e463a1d9a",
       "apply_url": "https://app.mokahr.com/apply/ztgame/37485#/job/e923a4ab-5bc9-46fe-9fb9-fe5e463a1d9a/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "eeea6957-9f4f-430c-98b4-0e786e42f7ef",
@@ -1244,7 +1262,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/ztgame/37485#/job/eeea6957-9f4f-430c-98b4-0e786e42f7ef",
       "apply_url": "https://app.mokahr.com/apply/ztgame/37485#/job/eeea6957-9f4f-430c-98b4-0e786e42f7ef/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "f24771dc-fcd6-45fd-9525-df19db8e360c",
@@ -1262,7 +1280,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/ztgame/37485#/job/f24771dc-fcd6-45fd-9525-df19db8e360c",
       "apply_url": "https://app.mokahr.com/apply/ztgame/37485#/job/f24771dc-fcd6-45fd-9525-df19db8e360c/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "fa51e45a-e187-4fd6-96d3-8c54ae735645",
@@ -1280,7 +1298,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/ztgame/37485#/job/fa51e45a-e187-4fd6-96d3-8c54ae735645",
       "apply_url": "https://app.mokahr.com/apply/ztgame/37485#/job/fa51e45a-e187-4fd6-96d3-8c54ae735645/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "fa88e21e-feb1-43fe-b8a7-477570508d4c",
@@ -1298,7 +1316,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/ztgame/37485#/job/fa88e21e-feb1-43fe-b8a7-477570508d4c",
       "apply_url": "https://app.mokahr.com/apply/ztgame/37485#/job/fa88e21e-feb1-43fe-b8a7-477570508d4c/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "fba20190-3dee-4c13-b7e0-dc973e6b0f05",
@@ -1316,7 +1334,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/ztgame/37485#/job/fba20190-3dee-4c13-b7e0-dc973e6b0f05",
       "apply_url": "https://app.mokahr.com/apply/ztgame/37485#/job/fba20190-3dee-4c13-b7e0-dc973e6b0f05/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     }
   ],
   "ats": "moka",

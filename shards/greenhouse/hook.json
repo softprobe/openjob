@@ -1,8 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-23T18:00:07Z",
+  "checked_at": "2026-11-24T17:38:09Z",
   "failed_at": null,
-  "etag": "W/\"15daec21730c7e4985ffe60d10d2e026\"",
+  "etag": "W/\"05454be366ecd4f809b7efc2ada75131\"",
   "jobs": [
     {
       "id": "6440798002",
@@ -20,7 +20,7 @@
       "source_url": "https://job-boards.greenhouse.io/hook/jobs/6440798002",
       "apply_url": "https://job-boards.greenhouse.io/hook/jobs/6440798002",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "8402409002",
@@ -38,7 +38,7 @@
       "source_url": "https://job-boards.greenhouse.io/hook/jobs/8402409002",
       "apply_url": "https://job-boards.greenhouse.io/hook/jobs/8402409002",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "8569690002",
@@ -56,25 +56,7 @@
       "source_url": "https://job-boards.greenhouse.io/hook/jobs/8569690002",
       "apply_url": "https://job-boards.greenhouse.io/hook/jobs/8569690002",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-23T18:00:07Z"
-    },
-    {
-      "id": "8643763002",
-      "title": "Senior Copywriter",
-      "company": "Hook",
-      "location": "Remote",
-      "remote": "remote",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-07-21",
-      "updated": "2026-07-21",
-      "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/hook/jobs/8643763002",
-      "apply_url": "https://job-boards.greenhouse.io/hook/jobs/8643763002",
-      "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "8649337002",
@@ -92,7 +74,7 @@
       "source_url": "https://job-boards.greenhouse.io/hook/jobs/8649337002",
       "apply_url": "https://job-boards.greenhouse.io/hook/jobs/8649337002",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "8872113002",
@@ -110,7 +92,7 @@
       "source_url": "https://job-boards.greenhouse.io/hook/jobs/8872113002",
       "apply_url": "https://job-boards.greenhouse.io/hook/jobs/8872113002",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "8886699002",
@@ -128,7 +110,7 @@
       "source_url": "https://job-boards.greenhouse.io/hook/jobs/8886699002",
       "apply_url": "https://job-boards.greenhouse.io/hook/jobs/8886699002",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "8922828002",
@@ -146,25 +128,7 @@
       "source_url": "https://job-boards.greenhouse.io/hook/jobs/8922828002",
       "apply_url": "https://job-boards.greenhouse.io/hook/jobs/8922828002",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-23T18:00:07Z"
-    },
-    {
-      "id": "8927783002",
-      "title": "Motion Designer II",
-      "company": "Hook",
-      "location": "Remote",
-      "remote": "remote",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-11-02",
-      "updated": "2026-11-02",
-      "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/hook/jobs/8927783002",
-      "apply_url": "https://job-boards.greenhouse.io/hook/jobs/8927783002",
-      "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     }
   ],
   "ats": "greenhouse",

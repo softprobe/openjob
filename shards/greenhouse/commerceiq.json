@@ -1,8 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-23T18:00:07Z",
+  "checked_at": "2026-11-24T17:38:09Z",
   "failed_at": null,
-  "etag": "W/\"4b1b1acc112b9d7d10f280003070d4fb\"",
+  "etag": "W/\"50a266658078fcc61a135ac9d5bfad4f\"",
   "jobs": [
     {
       "id": "6657889003",
@@ -20,7 +20,7 @@
       "source_url": "https://job-boards.greenhouse.io/commerceiq/jobs/6657889003",
       "apply_url": "https://job-boards.greenhouse.io/commerceiq/jobs/6657889003",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "6657902003",
@@ -38,7 +38,7 @@
       "source_url": "https://job-boards.greenhouse.io/commerceiq/jobs/6657902003",
       "apply_url": "https://job-boards.greenhouse.io/commerceiq/jobs/6657902003",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "6657907003",
@@ -56,7 +56,7 @@
       "source_url": "https://job-boards.greenhouse.io/commerceiq/jobs/6657907003",
       "apply_url": "https://job-boards.greenhouse.io/commerceiq/jobs/6657907003",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "7782529003",
@@ -74,7 +74,7 @@
       "source_url": "https://job-boards.greenhouse.io/commerceiq/jobs/7782529003",
       "apply_url": "https://job-boards.greenhouse.io/commerceiq/jobs/7782529003",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "7801532003",
@@ -92,7 +92,7 @@
       "source_url": "https://job-boards.greenhouse.io/commerceiq/jobs/7801532003",
       "apply_url": "https://job-boards.greenhouse.io/commerceiq/jobs/7801532003",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "7868669003",
@@ -110,7 +110,7 @@
       "source_url": "https://job-boards.greenhouse.io/commerceiq/jobs/7868669003",
       "apply_url": "https://job-boards.greenhouse.io/commerceiq/jobs/7868669003",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "7983633003",
@@ -128,7 +128,7 @@
       "source_url": "https://job-boards.greenhouse.io/commerceiq/jobs/7983633003",
       "apply_url": "https://job-boards.greenhouse.io/commerceiq/jobs/7983633003",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "8028343003",
@@ -146,7 +146,25 @@
       "source_url": "https://job-boards.greenhouse.io/commerceiq/jobs/8028343003",
       "apply_url": "https://job-boards.greenhouse.io/commerceiq/jobs/8028343003",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
+    },
+    {
+      "id": "8041108003",
+      "title": "Security Engineer III",
+      "company": "CommerceIQ",
+      "location": "Bengaluru, Karnataka, India",
+      "remote": "unspecified",
+      "department": "",
+      "employment_type": "",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-10-22",
+      "updated": "2026-11-24",
+      "deadline": "",
+      "source_url": "https://job-boards.greenhouse.io/commerceiq/jobs/8041108003",
+      "apply_url": "https://job-boards.greenhouse.io/commerceiq/jobs/8041108003",
+      "first_seen": "2026-11-24T17:38:09Z",
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "8041156003",
@@ -164,7 +182,7 @@
       "source_url": "https://job-boards.greenhouse.io/commerceiq/jobs/8041156003",
       "apply_url": "https://job-boards.greenhouse.io/commerceiq/jobs/8041156003",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "8045817003",
@@ -182,7 +200,7 @@
       "source_url": "https://job-boards.greenhouse.io/commerceiq/jobs/8045817003",
       "apply_url": "https://job-boards.greenhouse.io/commerceiq/jobs/8045817003",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "8045822003",
@@ -200,7 +218,7 @@
       "source_url": "https://job-boards.greenhouse.io/commerceiq/jobs/8045822003",
       "apply_url": "https://job-boards.greenhouse.io/commerceiq/jobs/8045822003",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "8045855003",
@@ -218,7 +236,7 @@
       "source_url": "https://job-boards.greenhouse.io/commerceiq/jobs/8045855003",
       "apply_url": "https://job-boards.greenhouse.io/commerceiq/jobs/8045855003",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "8045882003",
@@ -236,7 +254,7 @@
       "source_url": "https://job-boards.greenhouse.io/commerceiq/jobs/8045882003",
       "apply_url": "https://job-boards.greenhouse.io/commerceiq/jobs/8045882003",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "8201849003",
@@ -254,7 +272,7 @@
       "source_url": "https://job-boards.greenhouse.io/commerceiq/jobs/8201849003",
       "apply_url": "https://job-boards.greenhouse.io/commerceiq/jobs/8201849003",
       "first_seen": "2026-11-23T18:00:07Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "8213976003",
@@ -272,7 +290,7 @@
       "source_url": "https://job-boards.greenhouse.io/commerceiq/jobs/8213976003",
       "apply_url": "https://job-boards.greenhouse.io/commerceiq/jobs/8213976003",
       "first_seen": "2026-11-23T18:00:07Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     }
   ],
   "ats": "greenhouse",

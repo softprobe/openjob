@@ -1,8 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-23T18:00:07Z",
+  "checked_at": "2026-11-24T17:38:09Z",
   "failed_at": null,
-  "etag": "W/\"85b0ce834c3283b6f84ca5db40db4d75\"",
+  "etag": "W/\"8e851aad64c157832eb151910a382c1a\"",
   "jobs": [
     {
       "id": "6008895004",
@@ -15,12 +15,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-06-10",
-      "updated": "2026-11-12",
+      "updated": "2026-11-24",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/entersekt/jobs/6008895004",
       "apply_url": "https://job-boards.greenhouse.io/entersekt/jobs/6008895004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "6218069004",
@@ -33,12 +33,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-19",
-      "updated": "2026-10-23",
+      "updated": "2026-11-24",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/entersekt/jobs/6218069004",
       "apply_url": "https://job-boards.greenhouse.io/entersekt/jobs/6218069004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "6225246004",
@@ -51,12 +51,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-29",
-      "updated": "2026-10-29",
+      "updated": "2026-11-24",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/entersekt/jobs/6225246004",
       "apply_url": "https://job-boards.greenhouse.io/entersekt/jobs/6225246004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     }
   ],
   "ats": "greenhouse",

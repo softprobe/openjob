@@ -1,8 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-23T18:00:07Z",
+  "checked_at": "2026-11-24T17:38:09Z",
   "failed_at": null,
-  "etag": "W/\"job-board:4039d262d1d03b463564d87a4c17689d511fc11e4f254fd1b993feb4a132b951\"",
+  "etag": "W/\"job-board:0f77cce53f7b0d137cad006a24a17bdd39bd0120db8766897ab812ab049d103d\"",
   "jobs": [
     {
       "id": "0be1b52c-2401-4ae2-b7fc-5d018c1ff96f",
@@ -20,7 +20,7 @@
       "source_url": "https://jobs.ashbyhq.com/PostHog/0be1b52c-2401-4ae2-b7fc-5d018c1ff96f",
       "apply_url": "https://jobs.ashbyhq.com/PostHog/0be1b52c-2401-4ae2-b7fc-5d018c1ff96f/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "1464036f-94d5-4dbd-aef8-fe99246a26d4",
@@ -38,7 +38,7 @@
       "source_url": "https://jobs.ashbyhq.com/PostHog/1464036f-94d5-4dbd-aef8-fe99246a26d4",
       "apply_url": "https://jobs.ashbyhq.com/PostHog/1464036f-94d5-4dbd-aef8-fe99246a26d4/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "2a78f2f8-4fd3-413b-9c7d-55db568e68c1",
@@ -56,7 +56,7 @@
       "source_url": "https://jobs.ashbyhq.com/PostHog/2a78f2f8-4fd3-413b-9c7d-55db568e68c1",
       "apply_url": "https://jobs.ashbyhq.com/PostHog/2a78f2f8-4fd3-413b-9c7d-55db568e68c1/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "3c592b84-8b34-4ae4-ae23-cadce8f2212d",
@@ -74,7 +74,7 @@
       "source_url": "https://jobs.ashbyhq.com/PostHog/3c592b84-8b34-4ae4-ae23-cadce8f2212d",
       "apply_url": "https://jobs.ashbyhq.com/PostHog/3c592b84-8b34-4ae4-ae23-cadce8f2212d/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "4a8a1ee5-aa45-447e-a438-919b4577f14d",
@@ -92,7 +92,7 @@
       "source_url": "https://jobs.ashbyhq.com/PostHog/4a8a1ee5-aa45-447e-a438-919b4577f14d",
       "apply_url": "https://jobs.ashbyhq.com/PostHog/4a8a1ee5-aa45-447e-a438-919b4577f14d/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "8854fb74-8457-40cd-bc10-60125a0c0cd4",
@@ -110,7 +110,7 @@
       "source_url": "https://jobs.ashbyhq.com/PostHog/8854fb74-8457-40cd-bc10-60125a0c0cd4",
       "apply_url": "https://jobs.ashbyhq.com/PostHog/8854fb74-8457-40cd-bc10-60125a0c0cd4/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "8dc3f33a-b930-4c54-b4c4-3e6bd2ff28d3",
@@ -128,7 +128,7 @@
       "source_url": "https://jobs.ashbyhq.com/PostHog/8dc3f33a-b930-4c54-b4c4-3e6bd2ff28d3",
       "apply_url": "https://jobs.ashbyhq.com/PostHog/8dc3f33a-b930-4c54-b4c4-3e6bd2ff28d3/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "b0362f5c-ce12-42cd-9e8d-f2d3085b00a0",
@@ -146,7 +146,7 @@
       "source_url": "https://jobs.ashbyhq.com/PostHog/b0362f5c-ce12-42cd-9e8d-f2d3085b00a0",
       "apply_url": "https://jobs.ashbyhq.com/PostHog/b0362f5c-ce12-42cd-9e8d-f2d3085b00a0/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "db808740-242e-4a40-ad43-d41f26c049d7",
@@ -164,7 +164,25 @@
       "source_url": "https://jobs.ashbyhq.com/PostHog/db808740-242e-4a40-ad43-d41f26c049d7",
       "apply_url": "https://jobs.ashbyhq.com/PostHog/db808740-242e-4a40-ad43-d41f26c049d7/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
+    },
+    {
+      "id": "f154781c-0777-4374-8108-5140de5f3871",
+      "title": "Data Scientist (Sales)",
+      "company": "PostHog",
+      "location": "Remote",
+      "remote": "remote",
+      "department": "Sales & Customer Success",
+      "employment_type": "FULL_TIME",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-24",
+      "updated": "",
+      "deadline": "",
+      "source_url": "https://jobs.ashbyhq.com/PostHog/f154781c-0777-4374-8108-5140de5f3871",
+      "apply_url": "https://jobs.ashbyhq.com/PostHog/f154781c-0777-4374-8108-5140de5f3871/application",
+      "first_seen": "2026-11-24T17:38:09Z",
+      "last_checked": "2026-11-24T17:38:09Z"
     }
   ],
   "ats": "ashby",

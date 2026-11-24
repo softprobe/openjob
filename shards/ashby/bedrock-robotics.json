@@ -1,8 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-23T18:00:07Z",
+  "checked_at": "2026-11-24T17:38:09Z",
   "failed_at": null,
-  "etag": "W/\"job-board:8c0554728e084bc12b3cb552a161df78ff5bac29ff00b6c4b5526b9522fe0e08\"",
+  "etag": "W/\"job-board:25bd08e8a40e1d8ed681abd085750cf6e3bbdec28c9aa8f80dbb137547a755c3\"",
   "jobs": [
     {
       "id": "0331551e-c18e-428a-8e91-e6cb25c9c2e8",
@@ -20,7 +20,7 @@
       "source_url": "https://jobs.ashbyhq.com/bedrock-robotics/0331551e-c18e-428a-8e91-e6cb25c9c2e8",
       "apply_url": "https://jobs.ashbyhq.com/bedrock-robotics/0331551e-c18e-428a-8e91-e6cb25c9c2e8/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "087f6417-5d8c-45b6-a7d0-dfaa2cc92cf8",
@@ -38,7 +38,7 @@
       "source_url": "https://jobs.ashbyhq.com/bedrock-robotics/087f6417-5d8c-45b6-a7d0-dfaa2cc92cf8",
       "apply_url": "https://jobs.ashbyhq.com/bedrock-robotics/087f6417-5d8c-45b6-a7d0-dfaa2cc92cf8/application",
       "first_seen": "2026-11-23T18:00:07Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "0a515d83-d06f-4fac-8e6b-4e02c2161ed0",
@@ -56,7 +56,7 @@
       "source_url": "https://jobs.ashbyhq.com/bedrock-robotics/0a515d83-d06f-4fac-8e6b-4e02c2161ed0",
       "apply_url": "https://jobs.ashbyhq.com/bedrock-robotics/0a515d83-d06f-4fac-8e6b-4e02c2161ed0/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "167078b0-c930-43f3-8fa0-db10e23b0c61",
@@ -74,7 +74,7 @@
       "source_url": "https://jobs.ashbyhq.com/bedrock-robotics/167078b0-c930-43f3-8fa0-db10e23b0c61",
       "apply_url": "https://jobs.ashbyhq.com/bedrock-robotics/167078b0-c930-43f3-8fa0-db10e23b0c61/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "18001e6d-4431-4da4-8484-d2a46926f625",
@@ -92,7 +92,7 @@
       "source_url": "https://jobs.ashbyhq.com/bedrock-robotics/18001e6d-4431-4da4-8484-d2a46926f625",
       "apply_url": "https://jobs.ashbyhq.com/bedrock-robotics/18001e6d-4431-4da4-8484-d2a46926f625/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "1871fdc6-6eba-4397-8725-c4e5c036ab54",
@@ -110,7 +110,7 @@
       "source_url": "https://jobs.ashbyhq.com/bedrock-robotics/1871fdc6-6eba-4397-8725-c4e5c036ab54",
       "apply_url": "https://jobs.ashbyhq.com/bedrock-robotics/1871fdc6-6eba-4397-8725-c4e5c036ab54/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "1dcb4a02-a789-4d15-a42f-6de115410397",
@@ -128,7 +128,7 @@
       "source_url": "https://jobs.ashbyhq.com/bedrock-robotics/1dcb4a02-a789-4d15-a42f-6de115410397",
       "apply_url": "https://jobs.ashbyhq.com/bedrock-robotics/1dcb4a02-a789-4d15-a42f-6de115410397/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "1f1f0030-d201-428e-925a-6c2cb2c774bb",
@@ -146,7 +146,7 @@
       "source_url": "https://jobs.ashbyhq.com/bedrock-robotics/1f1f0030-d201-428e-925a-6c2cb2c774bb",
       "apply_url": "https://jobs.ashbyhq.com/bedrock-robotics/1f1f0030-d201-428e-925a-6c2cb2c774bb/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "1f413f83-b897-4938-a19e-ab91bd326c51",
@@ -164,7 +164,7 @@
       "source_url": "https://jobs.ashbyhq.com/bedrock-robotics/1f413f83-b897-4938-a19e-ab91bd326c51",
       "apply_url": "https://jobs.ashbyhq.com/bedrock-robotics/1f413f83-b897-4938-a19e-ab91bd326c51/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "22125105-f0bc-40a7-82d1-ece20225e2fe",
@@ -182,7 +182,7 @@
       "source_url": "https://jobs.ashbyhq.com/bedrock-robotics/22125105-f0bc-40a7-82d1-ece20225e2fe",
       "apply_url": "https://jobs.ashbyhq.com/bedrock-robotics/22125105-f0bc-40a7-82d1-ece20225e2fe/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "34fabe31-bb3d-4ce0-98b0-a8301eefc8b3",
@@ -200,7 +200,7 @@
       "source_url": "https://jobs.ashbyhq.com/bedrock-robotics/34fabe31-bb3d-4ce0-98b0-a8301eefc8b3",
       "apply_url": "https://jobs.ashbyhq.com/bedrock-robotics/34fabe31-bb3d-4ce0-98b0-a8301eefc8b3/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "3c4311c0-a123-444c-8eff-cdce539b814a",
@@ -218,7 +218,7 @@
       "source_url": "https://jobs.ashbyhq.com/bedrock-robotics/3c4311c0-a123-444c-8eff-cdce539b814a",
       "apply_url": "https://jobs.ashbyhq.com/bedrock-robotics/3c4311c0-a123-444c-8eff-cdce539b814a/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "3ea721d7-eed6-44b3-a5b7-1e6698bf621f",
@@ -236,7 +236,7 @@
       "source_url": "https://jobs.ashbyhq.com/bedrock-robotics/3ea721d7-eed6-44b3-a5b7-1e6698bf621f",
       "apply_url": "https://jobs.ashbyhq.com/bedrock-robotics/3ea721d7-eed6-44b3-a5b7-1e6698bf621f/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "45f969a1-20ec-47bd-9bda-2b4b5fa5eded",
@@ -254,7 +254,7 @@
       "source_url": "https://jobs.ashbyhq.com/bedrock-robotics/45f969a1-20ec-47bd-9bda-2b4b5fa5eded",
       "apply_url": "https://jobs.ashbyhq.com/bedrock-robotics/45f969a1-20ec-47bd-9bda-2b4b5fa5eded/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "46194f84-a04b-42ec-b3e8-f975559f6729",
@@ -272,7 +272,7 @@
       "source_url": "https://jobs.ashbyhq.com/bedrock-robotics/46194f84-a04b-42ec-b3e8-f975559f6729",
       "apply_url": "https://jobs.ashbyhq.com/bedrock-robotics/46194f84-a04b-42ec-b3e8-f975559f6729/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "4a2a5456-92c4-4d25-bdff-662ff27da790",
@@ -290,7 +290,7 @@
       "source_url": "https://jobs.ashbyhq.com/bedrock-robotics/4a2a5456-92c4-4d25-bdff-662ff27da790",
       "apply_url": "https://jobs.ashbyhq.com/bedrock-robotics/4a2a5456-92c4-4d25-bdff-662ff27da790/application",
       "first_seen": "2026-11-21T14:37:10Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "4bd2e282-a7d5-4605-9483-8bfa89e567f6",
@@ -308,7 +308,7 @@
       "source_url": "https://jobs.ashbyhq.com/bedrock-robotics/4bd2e282-a7d5-4605-9483-8bfa89e567f6",
       "apply_url": "https://jobs.ashbyhq.com/bedrock-robotics/4bd2e282-a7d5-4605-9483-8bfa89e567f6/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "4e041384-82da-4d7c-84f6-33f46d4421df",
@@ -326,7 +326,7 @@
       "source_url": "https://jobs.ashbyhq.com/bedrock-robotics/4e041384-82da-4d7c-84f6-33f46d4421df",
       "apply_url": "https://jobs.ashbyhq.com/bedrock-robotics/4e041384-82da-4d7c-84f6-33f46d4421df/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "4ed1b01a-d9f5-49d0-8dae-6bac5e1a295c",
@@ -344,7 +344,7 @@
       "source_url": "https://jobs.ashbyhq.com/bedrock-robotics/4ed1b01a-d9f5-49d0-8dae-6bac5e1a295c",
       "apply_url": "https://jobs.ashbyhq.com/bedrock-robotics/4ed1b01a-d9f5-49d0-8dae-6bac5e1a295c/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "5516dd68-5507-421a-8b10-4f45bc9b7bd5",
@@ -362,7 +362,7 @@
       "source_url": "https://jobs.ashbyhq.com/bedrock-robotics/5516dd68-5507-421a-8b10-4f45bc9b7bd5",
       "apply_url": "https://jobs.ashbyhq.com/bedrock-robotics/5516dd68-5507-421a-8b10-4f45bc9b7bd5/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "59f4cf4c-e0cc-4c39-a9a6-0e8a7c52a488",
@@ -380,7 +380,7 @@
       "source_url": "https://jobs.ashbyhq.com/bedrock-robotics/59f4cf4c-e0cc-4c39-a9a6-0e8a7c52a488",
       "apply_url": "https://jobs.ashbyhq.com/bedrock-robotics/59f4cf4c-e0cc-4c39-a9a6-0e8a7c52a488/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "5c2c834d-61f1-4ec9-812b-8665a9f5024d",
@@ -398,7 +398,7 @@
       "source_url": "https://jobs.ashbyhq.com/bedrock-robotics/5c2c834d-61f1-4ec9-812b-8665a9f5024d",
       "apply_url": "https://jobs.ashbyhq.com/bedrock-robotics/5c2c834d-61f1-4ec9-812b-8665a9f5024d/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "5f348ef0-872b-4507-a381-07f54be5900b",
@@ -416,7 +416,7 @@
       "source_url": "https://jobs.ashbyhq.com/bedrock-robotics/5f348ef0-872b-4507-a381-07f54be5900b",
       "apply_url": "https://jobs.ashbyhq.com/bedrock-robotics/5f348ef0-872b-4507-a381-07f54be5900b/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "66deac22-a655-413e-8f46-3d956860619a",
@@ -434,7 +434,7 @@
       "source_url": "https://jobs.ashbyhq.com/bedrock-robotics/66deac22-a655-413e-8f46-3d956860619a",
       "apply_url": "https://jobs.ashbyhq.com/bedrock-robotics/66deac22-a655-413e-8f46-3d956860619a/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "70765480-d706-49bb-abb3-1b1eb8a070c5",
@@ -452,7 +452,7 @@
       "source_url": "https://jobs.ashbyhq.com/bedrock-robotics/70765480-d706-49bb-abb3-1b1eb8a070c5",
       "apply_url": "https://jobs.ashbyhq.com/bedrock-robotics/70765480-d706-49bb-abb3-1b1eb8a070c5/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "77759050-75f5-45ed-a3a8-35b665daaadc",
@@ -470,7 +470,7 @@
       "source_url": "https://jobs.ashbyhq.com/bedrock-robotics/77759050-75f5-45ed-a3a8-35b665daaadc",
       "apply_url": "https://jobs.ashbyhq.com/bedrock-robotics/77759050-75f5-45ed-a3a8-35b665daaadc/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "7dbd80b9-8973-4908-a3b5-21fe7ea350b3",
@@ -488,7 +488,7 @@
       "source_url": "https://jobs.ashbyhq.com/bedrock-robotics/7dbd80b9-8973-4908-a3b5-21fe7ea350b3",
       "apply_url": "https://jobs.ashbyhq.com/bedrock-robotics/7dbd80b9-8973-4908-a3b5-21fe7ea350b3/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "83e6ab6f-70ff-4bde-bb02-8c320e54f9a7",
@@ -506,7 +506,7 @@
       "source_url": "https://jobs.ashbyhq.com/bedrock-robotics/83e6ab6f-70ff-4bde-bb02-8c320e54f9a7",
       "apply_url": "https://jobs.ashbyhq.com/bedrock-robotics/83e6ab6f-70ff-4bde-bb02-8c320e54f9a7/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "85673a43-e020-4056-8876-df9798989525",
@@ -524,7 +524,7 @@
       "source_url": "https://jobs.ashbyhq.com/bedrock-robotics/85673a43-e020-4056-8876-df9798989525",
       "apply_url": "https://jobs.ashbyhq.com/bedrock-robotics/85673a43-e020-4056-8876-df9798989525/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "85bad69a-ac4e-4090-910f-04d321001f73",
@@ -542,7 +542,7 @@
       "source_url": "https://jobs.ashbyhq.com/bedrock-robotics/85bad69a-ac4e-4090-910f-04d321001f73",
       "apply_url": "https://jobs.ashbyhq.com/bedrock-robotics/85bad69a-ac4e-4090-910f-04d321001f73/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "8927dd7e-a48d-49a2-92eb-09ec059432f4",
@@ -560,7 +560,7 @@
       "source_url": "https://jobs.ashbyhq.com/bedrock-robotics/8927dd7e-a48d-49a2-92eb-09ec059432f4",
       "apply_url": "https://jobs.ashbyhq.com/bedrock-robotics/8927dd7e-a48d-49a2-92eb-09ec059432f4/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "8c7bad61-50e3-4702-be36-72e9b72a9760",
@@ -578,7 +578,7 @@
       "source_url": "https://jobs.ashbyhq.com/bedrock-robotics/8c7bad61-50e3-4702-be36-72e9b72a9760",
       "apply_url": "https://jobs.ashbyhq.com/bedrock-robotics/8c7bad61-50e3-4702-be36-72e9b72a9760/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "8d061c9d-631a-4230-b2e5-402ed1dae5ee",
@@ -596,7 +596,7 @@
       "source_url": "https://jobs.ashbyhq.com/bedrock-robotics/8d061c9d-631a-4230-b2e5-402ed1dae5ee",
       "apply_url": "https://jobs.ashbyhq.com/bedrock-robotics/8d061c9d-631a-4230-b2e5-402ed1dae5ee/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "8ef66fcf-0804-4c79-b765-de37ffeb346b",
@@ -614,7 +614,7 @@
       "source_url": "https://jobs.ashbyhq.com/bedrock-robotics/8ef66fcf-0804-4c79-b765-de37ffeb346b",
       "apply_url": "https://jobs.ashbyhq.com/bedrock-robotics/8ef66fcf-0804-4c79-b765-de37ffeb346b/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "90558d16-8adb-4c62-a0fc-8fdfa809c0ca",
@@ -632,7 +632,7 @@
       "source_url": "https://jobs.ashbyhq.com/bedrock-robotics/90558d16-8adb-4c62-a0fc-8fdfa809c0ca",
       "apply_url": "https://jobs.ashbyhq.com/bedrock-robotics/90558d16-8adb-4c62-a0fc-8fdfa809c0ca/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "949feb1b-c60f-43c5-94de-7dd9cd70ba4a",
@@ -650,7 +650,7 @@
       "source_url": "https://jobs.ashbyhq.com/bedrock-robotics/949feb1b-c60f-43c5-94de-7dd9cd70ba4a",
       "apply_url": "https://jobs.ashbyhq.com/bedrock-robotics/949feb1b-c60f-43c5-94de-7dd9cd70ba4a/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "9545f318-f2cc-45ad-ad56-5ee1fa8ddf86",
@@ -668,7 +668,7 @@
       "source_url": "https://jobs.ashbyhq.com/bedrock-robotics/9545f318-f2cc-45ad-ad56-5ee1fa8ddf86",
       "apply_url": "https://jobs.ashbyhq.com/bedrock-robotics/9545f318-f2cc-45ad-ad56-5ee1fa8ddf86/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "96a6423e-7439-4cb4-9109-117b14e47f7c",
@@ -686,7 +686,7 @@
       "source_url": "https://jobs.ashbyhq.com/bedrock-robotics/96a6423e-7439-4cb4-9109-117b14e47f7c",
       "apply_url": "https://jobs.ashbyhq.com/bedrock-robotics/96a6423e-7439-4cb4-9109-117b14e47f7c/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "97d8761f-3238-4f1d-8893-cdff3d1cc954",
@@ -704,7 +704,7 @@
       "source_url": "https://jobs.ashbyhq.com/bedrock-robotics/97d8761f-3238-4f1d-8893-cdff3d1cc954",
       "apply_url": "https://jobs.ashbyhq.com/bedrock-robotics/97d8761f-3238-4f1d-8893-cdff3d1cc954/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "9e55dc45-1186-4177-98a9-65ddb792f2ce",
@@ -722,7 +722,7 @@
       "source_url": "https://jobs.ashbyhq.com/bedrock-robotics/9e55dc45-1186-4177-98a9-65ddb792f2ce",
       "apply_url": "https://jobs.ashbyhq.com/bedrock-robotics/9e55dc45-1186-4177-98a9-65ddb792f2ce/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "9f499006-5789-4d84-8b11-cff85ee0c25e",
@@ -740,7 +740,7 @@
       "source_url": "https://jobs.ashbyhq.com/bedrock-robotics/9f499006-5789-4d84-8b11-cff85ee0c25e",
       "apply_url": "https://jobs.ashbyhq.com/bedrock-robotics/9f499006-5789-4d84-8b11-cff85ee0c25e/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "a5d6a497-6439-4c15-a28b-93530c9443f0",
@@ -758,7 +758,7 @@
       "source_url": "https://jobs.ashbyhq.com/bedrock-robotics/a5d6a497-6439-4c15-a28b-93530c9443f0",
       "apply_url": "https://jobs.ashbyhq.com/bedrock-robotics/a5d6a497-6439-4c15-a28b-93530c9443f0/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "a61ecded-689e-4feb-9d78-224f83981ea4",
@@ -776,7 +776,7 @@
       "source_url": "https://jobs.ashbyhq.com/bedrock-robotics/a61ecded-689e-4feb-9d78-224f83981ea4",
       "apply_url": "https://jobs.ashbyhq.com/bedrock-robotics/a61ecded-689e-4feb-9d78-224f83981ea4/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "a69075ce-4e0d-4c52-86b4-537b6956dc27",
@@ -794,7 +794,7 @@
       "source_url": "https://jobs.ashbyhq.com/bedrock-robotics/a69075ce-4e0d-4c52-86b4-537b6956dc27",
       "apply_url": "https://jobs.ashbyhq.com/bedrock-robotics/a69075ce-4e0d-4c52-86b4-537b6956dc27/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "aea0c35e-1f83-46b8-8ab3-95979212b05d",
@@ -812,7 +812,7 @@
       "source_url": "https://jobs.ashbyhq.com/bedrock-robotics/aea0c35e-1f83-46b8-8ab3-95979212b05d",
       "apply_url": "https://jobs.ashbyhq.com/bedrock-robotics/aea0c35e-1f83-46b8-8ab3-95979212b05d/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "afbab0b0-0043-4f6a-80cf-247ee62ecbb4",
@@ -830,7 +830,7 @@
       "source_url": "https://jobs.ashbyhq.com/bedrock-robotics/afbab0b0-0043-4f6a-80cf-247ee62ecbb4",
       "apply_url": "https://jobs.ashbyhq.com/bedrock-robotics/afbab0b0-0043-4f6a-80cf-247ee62ecbb4/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "b1ef81db-bdd0-4c5f-9644-6f00cba34c2e",
@@ -848,7 +848,7 @@
       "source_url": "https://jobs.ashbyhq.com/bedrock-robotics/b1ef81db-bdd0-4c5f-9644-6f00cba34c2e",
       "apply_url": "https://jobs.ashbyhq.com/bedrock-robotics/b1ef81db-bdd0-4c5f-9644-6f00cba34c2e/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "c4b8a367-42dc-4bae-871a-c47e442ac02a",
@@ -866,7 +866,7 @@
       "source_url": "https://jobs.ashbyhq.com/bedrock-robotics/c4b8a367-42dc-4bae-871a-c47e442ac02a",
       "apply_url": "https://jobs.ashbyhq.com/bedrock-robotics/c4b8a367-42dc-4bae-871a-c47e442ac02a/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "c51d682e-58ee-44de-886f-4cfacb56d2e1",
@@ -884,7 +884,7 @@
       "source_url": "https://jobs.ashbyhq.com/bedrock-robotics/c51d682e-58ee-44de-886f-4cfacb56d2e1",
       "apply_url": "https://jobs.ashbyhq.com/bedrock-robotics/c51d682e-58ee-44de-886f-4cfacb56d2e1/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "c9c08251-6a42-4f9c-be4d-2621995cc8f9",
@@ -902,7 +902,7 @@
       "source_url": "https://jobs.ashbyhq.com/bedrock-robotics/c9c08251-6a42-4f9c-be4d-2621995cc8f9",
       "apply_url": "https://jobs.ashbyhq.com/bedrock-robotics/c9c08251-6a42-4f9c-be4d-2621995cc8f9/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "cb06dc4f-3e78-4546-897d-b39ba12a9178",
@@ -920,7 +920,7 @@
       "source_url": "https://jobs.ashbyhq.com/bedrock-robotics/cb06dc4f-3e78-4546-897d-b39ba12a9178",
       "apply_url": "https://jobs.ashbyhq.com/bedrock-robotics/cb06dc4f-3e78-4546-897d-b39ba12a9178/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "cbcf15d7-6f14-4270-b726-3bfa90242fc5",
@@ -938,7 +938,7 @@
       "source_url": "https://jobs.ashbyhq.com/bedrock-robotics/cbcf15d7-6f14-4270-b726-3bfa90242fc5",
       "apply_url": "https://jobs.ashbyhq.com/bedrock-robotics/cbcf15d7-6f14-4270-b726-3bfa90242fc5/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "d0235101-b7e7-4127-855e-eba2fd1a2797",
@@ -956,7 +956,7 @@
       "source_url": "https://jobs.ashbyhq.com/bedrock-robotics/d0235101-b7e7-4127-855e-eba2fd1a2797",
       "apply_url": "https://jobs.ashbyhq.com/bedrock-robotics/d0235101-b7e7-4127-855e-eba2fd1a2797/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "d7da851b-55c2-45d4-bf8b-aa879282f25c",
@@ -974,7 +974,7 @@
       "source_url": "https://jobs.ashbyhq.com/bedrock-robotics/d7da851b-55c2-45d4-bf8b-aa879282f25c",
       "apply_url": "https://jobs.ashbyhq.com/bedrock-robotics/d7da851b-55c2-45d4-bf8b-aa879282f25c/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "e199e72a-0361-40dc-8fd3-e02e534af85a",
@@ -992,7 +992,7 @@
       "source_url": "https://jobs.ashbyhq.com/bedrock-robotics/e199e72a-0361-40dc-8fd3-e02e534af85a",
       "apply_url": "https://jobs.ashbyhq.com/bedrock-robotics/e199e72a-0361-40dc-8fd3-e02e534af85a/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "e818c514-58d0-4e67-8e6b-a4c6e062f201",
@@ -1010,7 +1010,7 @@
       "source_url": "https://jobs.ashbyhq.com/bedrock-robotics/e818c514-58d0-4e67-8e6b-a4c6e062f201",
       "apply_url": "https://jobs.ashbyhq.com/bedrock-robotics/e818c514-58d0-4e67-8e6b-a4c6e062f201/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "eca9c87e-fa5f-4c27-b8ef-4fe8593105ed",
@@ -1028,7 +1028,7 @@
       "source_url": "https://jobs.ashbyhq.com/bedrock-robotics/eca9c87e-fa5f-4c27-b8ef-4fe8593105ed",
       "apply_url": "https://jobs.ashbyhq.com/bedrock-robotics/eca9c87e-fa5f-4c27-b8ef-4fe8593105ed/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "ef4ed0a0-a27a-48e0-8c85-418e26c1faff",
@@ -1046,7 +1046,7 @@
       "source_url": "https://jobs.ashbyhq.com/bedrock-robotics/ef4ed0a0-a27a-48e0-8c85-418e26c1faff",
       "apply_url": "https://jobs.ashbyhq.com/bedrock-robotics/ef4ed0a0-a27a-48e0-8c85-418e26c1faff/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "f1def984-07a4-4139-8095-dde2b830c3ae",
@@ -1064,7 +1064,7 @@
       "source_url": "https://jobs.ashbyhq.com/bedrock-robotics/f1def984-07a4-4139-8095-dde2b830c3ae",
       "apply_url": "https://jobs.ashbyhq.com/bedrock-robotics/f1def984-07a4-4139-8095-dde2b830c3ae/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "f4c2210e-f157-4392-8f32-4a9c2a9dd170",
@@ -1082,7 +1082,7 @@
       "source_url": "https://jobs.ashbyhq.com/bedrock-robotics/f4c2210e-f157-4392-8f32-4a9c2a9dd170",
       "apply_url": "https://jobs.ashbyhq.com/bedrock-robotics/f4c2210e-f157-4392-8f32-4a9c2a9dd170/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "f85f8890-3d26-451b-9e35-d7a295ffeab9",
@@ -1100,7 +1100,7 @@
       "source_url": "https://jobs.ashbyhq.com/bedrock-robotics/f85f8890-3d26-451b-9e35-d7a295ffeab9",
       "apply_url": "https://jobs.ashbyhq.com/bedrock-robotics/f85f8890-3d26-451b-9e35-d7a295ffeab9/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "fa51a34d-a4c5-4c46-99db-9556d1016f8b",
@@ -1118,7 +1118,7 @@
       "source_url": "https://jobs.ashbyhq.com/bedrock-robotics/fa51a34d-a4c5-4c46-99db-9556d1016f8b",
       "apply_url": "https://jobs.ashbyhq.com/bedrock-robotics/fa51a34d-a4c5-4c46-99db-9556d1016f8b/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     }
   ],
   "ats": "ashby",

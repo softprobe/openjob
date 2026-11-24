@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-23T18:00:07Z",
+  "checked_at": "2026-11-24T17:38:09Z",
   "failed_at": null,
   "etag": "W/\"job-board:10ba95bf3176b2d1b2878fd5f064ad0f66bd50ea3330fbd35c9ff9957ac11313\"",
   "jobs": [
@@ -20,7 +20,7 @@
       "source_url": "https://jobs.ashbyhq.com/alta-ares/02db71fb-9524-435e-8f96-4053011581c1",
       "apply_url": "https://jobs.ashbyhq.com/alta-ares/02db71fb-9524-435e-8f96-4053011581c1/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "0b8b9a87-8df5-4619-81e7-53160ce14dfe",
@@ -38,7 +38,7 @@
       "source_url": "https://jobs.ashbyhq.com/alta-ares/0b8b9a87-8df5-4619-81e7-53160ce14dfe",
       "apply_url": "https://jobs.ashbyhq.com/alta-ares/0b8b9a87-8df5-4619-81e7-53160ce14dfe/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "0dc1dfc7-8647-480e-97cb-aedc09918fc0",
@@ -56,7 +56,7 @@
       "source_url": "https://jobs.ashbyhq.com/alta-ares/0dc1dfc7-8647-480e-97cb-aedc09918fc0",
       "apply_url": "https://jobs.ashbyhq.com/alta-ares/0dc1dfc7-8647-480e-97cb-aedc09918fc0/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "0ee93aa1-da4b-4ca9-89eb-85e04cc81961",
@@ -74,7 +74,7 @@
       "source_url": "https://jobs.ashbyhq.com/alta-ares/0ee93aa1-da4b-4ca9-89eb-85e04cc81961",
       "apply_url": "https://jobs.ashbyhq.com/alta-ares/0ee93aa1-da4b-4ca9-89eb-85e04cc81961/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "177c5462-b3d1-4fcd-9b62-b1dc35a33e2e",
@@ -92,7 +92,7 @@
       "source_url": "https://jobs.ashbyhq.com/alta-ares/177c5462-b3d1-4fcd-9b62-b1dc35a33e2e",
       "apply_url": "https://jobs.ashbyhq.com/alta-ares/177c5462-b3d1-4fcd-9b62-b1dc35a33e2e/application",
       "first_seen": "2026-11-19T15:42:04Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "1b5bbaef-5f12-4844-b9a3-e4ee826fa454",
@@ -110,7 +110,7 @@
       "source_url": "https://jobs.ashbyhq.com/alta-ares/1b5bbaef-5f12-4844-b9a3-e4ee826fa454",
       "apply_url": "https://jobs.ashbyhq.com/alta-ares/1b5bbaef-5f12-4844-b9a3-e4ee826fa454/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "1ef9dffe-be25-48ce-bc9f-f4e6a6c1da45",
@@ -128,7 +128,7 @@
       "source_url": "https://jobs.ashbyhq.com/alta-ares/1ef9dffe-be25-48ce-bc9f-f4e6a6c1da45",
       "apply_url": "https://jobs.ashbyhq.com/alta-ares/1ef9dffe-be25-48ce-bc9f-f4e6a6c1da45/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "2294bf4e-747a-4992-881d-6d66d39957c6",
@@ -146,7 +146,7 @@
       "source_url": "https://jobs.ashbyhq.com/alta-ares/2294bf4e-747a-4992-881d-6d66d39957c6",
       "apply_url": "https://jobs.ashbyhq.com/alta-ares/2294bf4e-747a-4992-881d-6d66d39957c6/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "22ec73d8-26d6-4ec1-a600-55cd5b5bc7b3",
@@ -164,7 +164,7 @@
       "source_url": "https://jobs.ashbyhq.com/alta-ares/22ec73d8-26d6-4ec1-a600-55cd5b5bc7b3",
       "apply_url": "https://jobs.ashbyhq.com/alta-ares/22ec73d8-26d6-4ec1-a600-55cd5b5bc7b3/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "265b1248-7ab5-4ade-8293-309bfdb1f3a1",
@@ -182,7 +182,7 @@
       "source_url": "https://jobs.ashbyhq.com/alta-ares/265b1248-7ab5-4ade-8293-309bfdb1f3a1",
       "apply_url": "https://jobs.ashbyhq.com/alta-ares/265b1248-7ab5-4ade-8293-309bfdb1f3a1/application",
       "first_seen": "2026-11-18T15:36:26Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "270b91ad-f970-4f31-8586-cb13b0a0d19f",
@@ -200,7 +200,7 @@
       "source_url": "https://jobs.ashbyhq.com/alta-ares/270b91ad-f970-4f31-8586-cb13b0a0d19f",
       "apply_url": "https://jobs.ashbyhq.com/alta-ares/270b91ad-f970-4f31-8586-cb13b0a0d19f/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "2bf8122d-2158-4523-82fb-c154908faead",
@@ -218,7 +218,7 @@
       "source_url": "https://jobs.ashbyhq.com/alta-ares/2bf8122d-2158-4523-82fb-c154908faead",
       "apply_url": "https://jobs.ashbyhq.com/alta-ares/2bf8122d-2158-4523-82fb-c154908faead/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "316f1dcd-f26a-4e3a-b73f-8197bd9451b9",
@@ -236,7 +236,7 @@
       "source_url": "https://jobs.ashbyhq.com/alta-ares/316f1dcd-f26a-4e3a-b73f-8197bd9451b9",
       "apply_url": "https://jobs.ashbyhq.com/alta-ares/316f1dcd-f26a-4e3a-b73f-8197bd9451b9/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "32760ddb-9b07-45ed-bfa7-3ca732c446ab",
@@ -254,7 +254,7 @@
       "source_url": "https://jobs.ashbyhq.com/alta-ares/32760ddb-9b07-45ed-bfa7-3ca732c446ab",
       "apply_url": "https://jobs.ashbyhq.com/alta-ares/32760ddb-9b07-45ed-bfa7-3ca732c446ab/application",
       "first_seen": "2026-11-23T18:00:07Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "335171f8-ce28-4cd4-86ca-ed599f1d5e22",
@@ -272,7 +272,7 @@
       "source_url": "https://jobs.ashbyhq.com/alta-ares/335171f8-ce28-4cd4-86ca-ed599f1d5e22",
       "apply_url": "https://jobs.ashbyhq.com/alta-ares/335171f8-ce28-4cd4-86ca-ed599f1d5e22/application",
       "first_seen": "2026-11-20T15:23:49Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "33de19b3-57c9-468b-aec8-dee6f83d90ab",
@@ -290,7 +290,7 @@
       "source_url": "https://jobs.ashbyhq.com/alta-ares/33de19b3-57c9-468b-aec8-dee6f83d90ab",
       "apply_url": "https://jobs.ashbyhq.com/alta-ares/33de19b3-57c9-468b-aec8-dee6f83d90ab/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "37e0df0f-a39d-49c6-80b4-04d127a82a43",
@@ -308,7 +308,7 @@
       "source_url": "https://jobs.ashbyhq.com/alta-ares/37e0df0f-a39d-49c6-80b4-04d127a82a43",
       "apply_url": "https://jobs.ashbyhq.com/alta-ares/37e0df0f-a39d-49c6-80b4-04d127a82a43/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "3b329e1d-8699-4945-91a6-cba474108689",
@@ -326,7 +326,7 @@
       "source_url": "https://jobs.ashbyhq.com/alta-ares/3b329e1d-8699-4945-91a6-cba474108689",
       "apply_url": "https://jobs.ashbyhq.com/alta-ares/3b329e1d-8699-4945-91a6-cba474108689/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "491c7970-ce5c-42d8-be69-e1692d1b19be",
@@ -344,7 +344,7 @@
       "source_url": "https://jobs.ashbyhq.com/alta-ares/491c7970-ce5c-42d8-be69-e1692d1b19be",
       "apply_url": "https://jobs.ashbyhq.com/alta-ares/491c7970-ce5c-42d8-be69-e1692d1b19be/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "65ba8e8d-fa3f-4e11-b141-9e67df4cd2eb",
@@ -362,7 +362,7 @@
       "source_url": "https://jobs.ashbyhq.com/alta-ares/65ba8e8d-fa3f-4e11-b141-9e67df4cd2eb",
       "apply_url": "https://jobs.ashbyhq.com/alta-ares/65ba8e8d-fa3f-4e11-b141-9e67df4cd2eb/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "69770fad-2ba9-4296-891f-7f08dd55e032",
@@ -380,7 +380,7 @@
       "source_url": "https://jobs.ashbyhq.com/alta-ares/69770fad-2ba9-4296-891f-7f08dd55e032",
       "apply_url": "https://jobs.ashbyhq.com/alta-ares/69770fad-2ba9-4296-891f-7f08dd55e032/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "70852920-cf59-408c-81dc-1b601018aa18",
@@ -398,7 +398,7 @@
       "source_url": "https://jobs.ashbyhq.com/alta-ares/70852920-cf59-408c-81dc-1b601018aa18",
       "apply_url": "https://jobs.ashbyhq.com/alta-ares/70852920-cf59-408c-81dc-1b601018aa18/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "7a7a4e74-0b32-4da8-807a-680482d1afea",
@@ -416,7 +416,7 @@
       "source_url": "https://jobs.ashbyhq.com/alta-ares/7a7a4e74-0b32-4da8-807a-680482d1afea",
       "apply_url": "https://jobs.ashbyhq.com/alta-ares/7a7a4e74-0b32-4da8-807a-680482d1afea/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "7ae4dfab-1742-4210-adca-19491519d850",
@@ -434,7 +434,7 @@
       "source_url": "https://jobs.ashbyhq.com/alta-ares/7ae4dfab-1742-4210-adca-19491519d850",
       "apply_url": "https://jobs.ashbyhq.com/alta-ares/7ae4dfab-1742-4210-adca-19491519d850/application",
       "first_seen": "2026-11-18T15:36:26Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "8266359e-9525-40ce-850e-7b23ed9cc167",
@@ -452,7 +452,7 @@
       "source_url": "https://jobs.ashbyhq.com/alta-ares/8266359e-9525-40ce-850e-7b23ed9cc167",
       "apply_url": "https://jobs.ashbyhq.com/alta-ares/8266359e-9525-40ce-850e-7b23ed9cc167/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "89206b33-4a52-4953-8279-c9388df31052",
@@ -470,7 +470,7 @@
       "source_url": "https://jobs.ashbyhq.com/alta-ares/89206b33-4a52-4953-8279-c9388df31052",
       "apply_url": "https://jobs.ashbyhq.com/alta-ares/89206b33-4a52-4953-8279-c9388df31052/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "97db8d4b-953f-4f0f-a661-2fa5ddf571cd",
@@ -488,7 +488,7 @@
       "source_url": "https://jobs.ashbyhq.com/alta-ares/97db8d4b-953f-4f0f-a661-2fa5ddf571cd",
       "apply_url": "https://jobs.ashbyhq.com/alta-ares/97db8d4b-953f-4f0f-a661-2fa5ddf571cd/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "9c16e5d8-2eb0-4e56-bb13-cb0b62c52a64",
@@ -506,7 +506,7 @@
       "source_url": "https://jobs.ashbyhq.com/alta-ares/9c16e5d8-2eb0-4e56-bb13-cb0b62c52a64",
       "apply_url": "https://jobs.ashbyhq.com/alta-ares/9c16e5d8-2eb0-4e56-bb13-cb0b62c52a64/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "9ce7729a-67f7-4047-b04b-ffcf429859be",
@@ -524,7 +524,7 @@
       "source_url": "https://jobs.ashbyhq.com/alta-ares/9ce7729a-67f7-4047-b04b-ffcf429859be",
       "apply_url": "https://jobs.ashbyhq.com/alta-ares/9ce7729a-67f7-4047-b04b-ffcf429859be/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "a3d8b25e-5cbd-4f82-a4cc-d691040475f4",
@@ -542,7 +542,7 @@
       "source_url": "https://jobs.ashbyhq.com/alta-ares/a3d8b25e-5cbd-4f82-a4cc-d691040475f4",
       "apply_url": "https://jobs.ashbyhq.com/alta-ares/a3d8b25e-5cbd-4f82-a4cc-d691040475f4/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "a59e043e-48ba-45a0-b5f9-58c11b53d1f4",
@@ -560,7 +560,7 @@
       "source_url": "https://jobs.ashbyhq.com/alta-ares/a59e043e-48ba-45a0-b5f9-58c11b53d1f4",
       "apply_url": "https://jobs.ashbyhq.com/alta-ares/a59e043e-48ba-45a0-b5f9-58c11b53d1f4/application",
       "first_seen": "2026-11-18T15:36:26Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "a9dad07a-ce8a-4877-b5f4-f0261014531d",
@@ -578,7 +578,7 @@
       "source_url": "https://jobs.ashbyhq.com/alta-ares/a9dad07a-ce8a-4877-b5f4-f0261014531d",
       "apply_url": "https://jobs.ashbyhq.com/alta-ares/a9dad07a-ce8a-4877-b5f4-f0261014531d/application",
       "first_seen": "2026-11-23T18:00:07Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "b4727f51-4e3d-47c7-987d-196afdaafea9",
@@ -596,7 +596,7 @@
       "source_url": "https://jobs.ashbyhq.com/alta-ares/b4727f51-4e3d-47c7-987d-196afdaafea9",
       "apply_url": "https://jobs.ashbyhq.com/alta-ares/b4727f51-4e3d-47c7-987d-196afdaafea9/application",
       "first_seen": "2026-11-18T15:36:26Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "bd3cfe4f-dda6-4423-8a2f-2456983cd21b",
@@ -614,7 +614,7 @@
       "source_url": "https://jobs.ashbyhq.com/alta-ares/bd3cfe4f-dda6-4423-8a2f-2456983cd21b",
       "apply_url": "https://jobs.ashbyhq.com/alta-ares/bd3cfe4f-dda6-4423-8a2f-2456983cd21b/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "c14909e1-7423-47fb-9ba1-ab4c35991a26",
@@ -632,7 +632,7 @@
       "source_url": "https://jobs.ashbyhq.com/alta-ares/c14909e1-7423-47fb-9ba1-ab4c35991a26",
       "apply_url": "https://jobs.ashbyhq.com/alta-ares/c14909e1-7423-47fb-9ba1-ab4c35991a26/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "c63f4e34-7115-4ef3-aaca-38d3eb24638e",
@@ -650,7 +650,7 @@
       "source_url": "https://jobs.ashbyhq.com/alta-ares/c63f4e34-7115-4ef3-aaca-38d3eb24638e",
       "apply_url": "https://jobs.ashbyhq.com/alta-ares/c63f4e34-7115-4ef3-aaca-38d3eb24638e/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "cd092553-63cf-4a82-895f-027a312879fb",
@@ -668,7 +668,7 @@
       "source_url": "https://jobs.ashbyhq.com/alta-ares/cd092553-63cf-4a82-895f-027a312879fb",
       "apply_url": "https://jobs.ashbyhq.com/alta-ares/cd092553-63cf-4a82-895f-027a312879fb/application",
       "first_seen": "2026-11-19T15:42:04Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "d1f3f150-f4a7-46c0-9e42-572cc1a3d25a",
@@ -686,7 +686,7 @@
       "source_url": "https://jobs.ashbyhq.com/alta-ares/d1f3f150-f4a7-46c0-9e42-572cc1a3d25a",
       "apply_url": "https://jobs.ashbyhq.com/alta-ares/d1f3f150-f4a7-46c0-9e42-572cc1a3d25a/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "d7ee1b25-3e6c-4ff7-8dd2-e2bfe3284e0f",
@@ -704,7 +704,7 @@
       "source_url": "https://jobs.ashbyhq.com/alta-ares/d7ee1b25-3e6c-4ff7-8dd2-e2bfe3284e0f",
       "apply_url": "https://jobs.ashbyhq.com/alta-ares/d7ee1b25-3e6c-4ff7-8dd2-e2bfe3284e0f/application",
       "first_seen": "2026-11-17T15:56:57Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "e3a33816-566a-4077-ad76-afbfdd146418",
@@ -722,7 +722,7 @@
       "source_url": "https://jobs.ashbyhq.com/alta-ares/e3a33816-566a-4077-ad76-afbfdd146418",
       "apply_url": "https://jobs.ashbyhq.com/alta-ares/e3a33816-566a-4077-ad76-afbfdd146418/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "e90124e8-3f5a-4201-a18b-166ac68dcdd0",
@@ -740,7 +740,7 @@
       "source_url": "https://jobs.ashbyhq.com/alta-ares/e90124e8-3f5a-4201-a18b-166ac68dcdd0",
       "apply_url": "https://jobs.ashbyhq.com/alta-ares/e90124e8-3f5a-4201-a18b-166ac68dcdd0/application",
       "first_seen": "2026-11-18T15:36:26Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "f1c62605-45e7-49cc-a80f-089413168afc",
@@ -758,7 +758,7 @@
       "source_url": "https://jobs.ashbyhq.com/alta-ares/f1c62605-45e7-49cc-a80f-089413168afc",
       "apply_url": "https://jobs.ashbyhq.com/alta-ares/f1c62605-45e7-49cc-a80f-089413168afc/application",
       "first_seen": "2026-11-18T15:36:26Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "fa9dd9cc-db19-4ba7-9adb-de58fe680b05",
@@ -776,7 +776,7 @@
       "source_url": "https://jobs.ashbyhq.com/alta-ares/fa9dd9cc-db19-4ba7-9adb-de58fe680b05",
       "apply_url": "https://jobs.ashbyhq.com/alta-ares/fa9dd9cc-db19-4ba7-9adb-de58fe680b05/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "fe24b43e-5698-4948-b978-741fbf4c7cfd",
@@ -794,7 +794,7 @@
       "source_url": "https://jobs.ashbyhq.com/alta-ares/fe24b43e-5698-4948-b978-741fbf4c7cfd",
       "apply_url": "https://jobs.ashbyhq.com/alta-ares/fe24b43e-5698-4948-b978-741fbf4c7cfd/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     }
   ],
   "ats": "ashby",

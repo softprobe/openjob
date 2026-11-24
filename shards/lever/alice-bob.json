@@ -1,8 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-23T18:00:07Z",
+  "checked_at": "2026-11-24T17:38:09Z",
   "failed_at": null,
-  "etag": "W/\"9c3ce-Y6WnYug5B3qAomhL4YN7OPC8WDE\"",
+  "etag": "W/\"98482-sSy+9/RWZT4Ucvnry45Y/ibm0ck\"",
   "jobs": [
     {
       "id": "089b6db2-4c3a-44f3-aa92-c8ed23bdecc1",
@@ -20,7 +20,7 @@
       "source_url": "https://jobs.lever.co/alice-bob/089b6db2-4c3a-44f3-aa92-c8ed23bdecc1",
       "apply_url": "https://jobs.lever.co/alice-bob/089b6db2-4c3a-44f3-aa92-c8ed23bdecc1/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "0f776651-4d3b-4b81-a100-36f6e444441c",
@@ -38,7 +38,7 @@
       "source_url": "https://jobs.lever.co/alice-bob/0f776651-4d3b-4b81-a100-36f6e444441c",
       "apply_url": "https://jobs.lever.co/alice-bob/0f776651-4d3b-4b81-a100-36f6e444441c/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "118f5fb4-08cf-496b-bd66-ce7fc2caf855",
@@ -56,7 +56,7 @@
       "source_url": "https://jobs.lever.co/alice-bob/118f5fb4-08cf-496b-bd66-ce7fc2caf855",
       "apply_url": "https://jobs.lever.co/alice-bob/118f5fb4-08cf-496b-bd66-ce7fc2caf855/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "192307ff-4d54-48e3-85e0-34c7c14c7007",
@@ -74,7 +74,7 @@
       "source_url": "https://jobs.lever.co/alice-bob/192307ff-4d54-48e3-85e0-34c7c14c7007",
       "apply_url": "https://jobs.lever.co/alice-bob/192307ff-4d54-48e3-85e0-34c7c14c7007/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "20125c43-28c4-486c-91a7-24503b71ea3c",
@@ -92,7 +92,7 @@
       "source_url": "https://jobs.lever.co/alice-bob/20125c43-28c4-486c-91a7-24503b71ea3c",
       "apply_url": "https://jobs.lever.co/alice-bob/20125c43-28c4-486c-91a7-24503b71ea3c/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "20b01abb-4357-497f-a854-40e08ce08b10",
@@ -110,7 +110,7 @@
       "source_url": "https://jobs.lever.co/alice-bob/20b01abb-4357-497f-a854-40e08ce08b10",
       "apply_url": "https://jobs.lever.co/alice-bob/20b01abb-4357-497f-a854-40e08ce08b10/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "28de561c-d343-46ef-bb52-5c484db862f2",
@@ -128,7 +128,7 @@
       "source_url": "https://jobs.lever.co/alice-bob/28de561c-d343-46ef-bb52-5c484db862f2",
       "apply_url": "https://jobs.lever.co/alice-bob/28de561c-d343-46ef-bb52-5c484db862f2/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "2bb177ff-5716-4db7-848a-55deb73a9cbe",
@@ -146,7 +146,7 @@
       "source_url": "https://jobs.lever.co/alice-bob/2bb177ff-5716-4db7-848a-55deb73a9cbe",
       "apply_url": "https://jobs.lever.co/alice-bob/2bb177ff-5716-4db7-848a-55deb73a9cbe/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "3004bc63-f071-4b93-ae4d-bd2a712e68b4",
@@ -164,7 +164,7 @@
       "source_url": "https://jobs.lever.co/alice-bob/3004bc63-f071-4b93-ae4d-bd2a712e68b4",
       "apply_url": "https://jobs.lever.co/alice-bob/3004bc63-f071-4b93-ae4d-bd2a712e68b4/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "328bc692-806a-4f48-b9fd-951c0ce7149b",
@@ -182,7 +182,7 @@
       "source_url": "https://jobs.lever.co/alice-bob/328bc692-806a-4f48-b9fd-951c0ce7149b",
       "apply_url": "https://jobs.lever.co/alice-bob/328bc692-806a-4f48-b9fd-951c0ce7149b/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "3328b145-09aa-42f3-a015-24ac5dea2684",
@@ -200,7 +200,7 @@
       "source_url": "https://jobs.lever.co/alice-bob/3328b145-09aa-42f3-a015-24ac5dea2684",
       "apply_url": "https://jobs.lever.co/alice-bob/3328b145-09aa-42f3-a015-24ac5dea2684/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "3b054d51-0cfa-4b08-a25e-ab5c784b717b",
@@ -218,7 +218,7 @@
       "source_url": "https://jobs.lever.co/alice-bob/3b054d51-0cfa-4b08-a25e-ab5c784b717b",
       "apply_url": "https://jobs.lever.co/alice-bob/3b054d51-0cfa-4b08-a25e-ab5c784b717b/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "409fe057-f768-4487-a266-f029c1a74b64",
@@ -236,7 +236,7 @@
       "source_url": "https://jobs.lever.co/alice-bob/409fe057-f768-4487-a266-f029c1a74b64",
       "apply_url": "https://jobs.lever.co/alice-bob/409fe057-f768-4487-a266-f029c1a74b64/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "40b49d38-1c32-4b00-a379-facb985a9e2d",
@@ -254,7 +254,7 @@
       "source_url": "https://jobs.lever.co/alice-bob/40b49d38-1c32-4b00-a379-facb985a9e2d",
       "apply_url": "https://jobs.lever.co/alice-bob/40b49d38-1c32-4b00-a379-facb985a9e2d/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "4eae6b97-cbab-49f5-8b01-941fc592e953",
@@ -272,7 +272,7 @@
       "source_url": "https://jobs.lever.co/alice-bob/4eae6b97-cbab-49f5-8b01-941fc592e953",
       "apply_url": "https://jobs.lever.co/alice-bob/4eae6b97-cbab-49f5-8b01-941fc592e953/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "5fb2d3f3-8d80-4e8d-ac67-1c7cb2987644",
@@ -290,7 +290,7 @@
       "source_url": "https://jobs.lever.co/alice-bob/5fb2d3f3-8d80-4e8d-ac67-1c7cb2987644",
       "apply_url": "https://jobs.lever.co/alice-bob/5fb2d3f3-8d80-4e8d-ac67-1c7cb2987644/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "742cc9a1-e697-4ed7-ac97-f216a128e759",
@@ -308,7 +308,7 @@
       "source_url": "https://jobs.lever.co/alice-bob/742cc9a1-e697-4ed7-ac97-f216a128e759",
       "apply_url": "https://jobs.lever.co/alice-bob/742cc9a1-e697-4ed7-ac97-f216a128e759/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "7463a4ce-6daa-4b6d-af5b-9dcd97378016",
@@ -326,7 +326,7 @@
       "source_url": "https://jobs.lever.co/alice-bob/7463a4ce-6daa-4b6d-af5b-9dcd97378016",
       "apply_url": "https://jobs.lever.co/alice-bob/7463a4ce-6daa-4b6d-af5b-9dcd97378016/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "7858ac54-9160-4977-a3e2-f51b6a9a581d",
@@ -344,7 +344,7 @@
       "source_url": "https://jobs.lever.co/alice-bob/7858ac54-9160-4977-a3e2-f51b6a9a581d",
       "apply_url": "https://jobs.lever.co/alice-bob/7858ac54-9160-4977-a3e2-f51b6a9a581d/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "78869091-1ff7-4597-94b0-b286b117b8a1",
@@ -362,7 +362,7 @@
       "source_url": "https://jobs.lever.co/alice-bob/78869091-1ff7-4597-94b0-b286b117b8a1",
       "apply_url": "https://jobs.lever.co/alice-bob/78869091-1ff7-4597-94b0-b286b117b8a1/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "7f940f78-62cf-4870-bbe0-ab297402be5d",
@@ -380,7 +380,7 @@
       "source_url": "https://jobs.lever.co/alice-bob/7f940f78-62cf-4870-bbe0-ab297402be5d",
       "apply_url": "https://jobs.lever.co/alice-bob/7f940f78-62cf-4870-bbe0-ab297402be5d/apply",
       "first_seen": "2026-11-19T15:42:04Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "80311d1d-86bc-490c-8a98-5ab46c409af6",
@@ -398,7 +398,7 @@
       "source_url": "https://jobs.lever.co/alice-bob/80311d1d-86bc-490c-8a98-5ab46c409af6",
       "apply_url": "https://jobs.lever.co/alice-bob/80311d1d-86bc-490c-8a98-5ab46c409af6/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "816ee068-40a3-4073-8545-b1dfe16b4c4d",
@@ -416,25 +416,7 @@
       "source_url": "https://jobs.lever.co/alice-bob/816ee068-40a3-4073-8545-b1dfe16b4c4d",
       "apply_url": "https://jobs.lever.co/alice-bob/816ee068-40a3-4073-8545-b1dfe16b4c4d/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
-    },
-    {
-      "id": "83e4a712-9c56-481c-9ef8-e2e1c73a21de",
-      "title": "Senior Superconducting Process Data & MES Integration Engineer M/F",
-      "company": "Alice & Bob",
-      "location": "Aubervilliers",
-      "remote": "hybrid",
-      "department": "FPI - Foundries and Process Integration",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-03-03",
-      "updated": "",
-      "deadline": "",
-      "source_url": "https://jobs.lever.co/alice-bob/83e4a712-9c56-481c-9ef8-e2e1c73a21de",
-      "apply_url": "https://jobs.lever.co/alice-bob/83e4a712-9c56-481c-9ef8-e2e1c73a21de/apply",
-      "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "849e313f-10df-4f77-9246-26ad78177495",
@@ -452,7 +434,7 @@
       "source_url": "https://jobs.lever.co/alice-bob/849e313f-10df-4f77-9246-26ad78177495",
       "apply_url": "https://jobs.lever.co/alice-bob/849e313f-10df-4f77-9246-26ad78177495/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "875e6a48-271d-40c3-8923-b5dadc4ac1ec",
@@ -470,7 +452,7 @@
       "source_url": "https://jobs.lever.co/alice-bob/875e6a48-271d-40c3-8923-b5dadc4ac1ec",
       "apply_url": "https://jobs.lever.co/alice-bob/875e6a48-271d-40c3-8923-b5dadc4ac1ec/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "87db42b1-6383-4d11-b840-32c38b38f133",
@@ -488,7 +470,7 @@
       "source_url": "https://jobs.lever.co/alice-bob/87db42b1-6383-4d11-b840-32c38b38f133",
       "apply_url": "https://jobs.lever.co/alice-bob/87db42b1-6383-4d11-b840-32c38b38f133/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "89c25130-6786-45de-a28d-59ce2cae7ed9",
@@ -506,7 +488,7 @@
       "source_url": "https://jobs.lever.co/alice-bob/89c25130-6786-45de-a28d-59ce2cae7ed9",
       "apply_url": "https://jobs.lever.co/alice-bob/89c25130-6786-45de-a28d-59ce2cae7ed9/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "91ca13ee-9584-46b4-a666-49c8fa8f83d4",
@@ -524,7 +506,7 @@
       "source_url": "https://jobs.lever.co/alice-bob/91ca13ee-9584-46b4-a666-49c8fa8f83d4",
       "apply_url": "https://jobs.lever.co/alice-bob/91ca13ee-9584-46b4-a666-49c8fa8f83d4/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "92e5fccb-d2f0-49c8-9765-62ab30009e39",
@@ -542,7 +524,7 @@
       "source_url": "https://jobs.lever.co/alice-bob/92e5fccb-d2f0-49c8-9765-62ab30009e39",
       "apply_url": "https://jobs.lever.co/alice-bob/92e5fccb-d2f0-49c8-9765-62ab30009e39/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "993ba0c3-66ed-477d-b211-e013899fd832",
@@ -560,7 +542,7 @@
       "source_url": "https://jobs.lever.co/alice-bob/993ba0c3-66ed-477d-b211-e013899fd832",
       "apply_url": "https://jobs.lever.co/alice-bob/993ba0c3-66ed-477d-b211-e013899fd832/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "9955bd3b-b0a3-4e66-830e-c98537a2a46e",
@@ -578,7 +560,7 @@
       "source_url": "https://jobs.lever.co/alice-bob/9955bd3b-b0a3-4e66-830e-c98537a2a46e",
       "apply_url": "https://jobs.lever.co/alice-bob/9955bd3b-b0a3-4e66-830e-c98537a2a46e/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "9a5d464f-cccb-4200-8cfb-dc4945e67000",
@@ -596,7 +578,7 @@
       "source_url": "https://jobs.lever.co/alice-bob/9a5d464f-cccb-4200-8cfb-dc4945e67000",
       "apply_url": "https://jobs.lever.co/alice-bob/9a5d464f-cccb-4200-8cfb-dc4945e67000/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "9aa1694b-b444-435a-8d38-2006247d6244",
@@ -614,7 +596,7 @@
       "source_url": "https://jobs.lever.co/alice-bob/9aa1694b-b444-435a-8d38-2006247d6244",
       "apply_url": "https://jobs.lever.co/alice-bob/9aa1694b-b444-435a-8d38-2006247d6244/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "9ffcdef9-df77-43f2-b46f-ebfb5a6066ca",
@@ -632,7 +614,7 @@
       "source_url": "https://jobs.lever.co/alice-bob/9ffcdef9-df77-43f2-b46f-ebfb5a6066ca",
       "apply_url": "https://jobs.lever.co/alice-bob/9ffcdef9-df77-43f2-b46f-ebfb5a6066ca/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "a48434e8-f108-4f96-b926-b3cf0a8cae4c",
@@ -650,7 +632,7 @@
       "source_url": "https://jobs.lever.co/alice-bob/a48434e8-f108-4f96-b926-b3cf0a8cae4c",
       "apply_url": "https://jobs.lever.co/alice-bob/a48434e8-f108-4f96-b926-b3cf0a8cae4c/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "a9b411be-4df3-427b-b3f1-1ea80d43b461",
@@ -668,11 +650,11 @@
       "source_url": "https://jobs.lever.co/alice-bob/a9b411be-4df3-427b-b3f1-1ea80d43b461",
       "apply_url": "https://jobs.lever.co/alice-bob/a9b411be-4df3-427b-b3f1-1ea80d43b461/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "b0d87110-7d57-49ec-8de5-cb98af70f478",
-      "title": "Experimental Quantum Physics Intern M/F",
+      "title": "Experimental Quantum Physics Intern (Cryogenic) M/F",
       "company": "Alice & Bob",
       "location": "Aubervilliers",
       "remote": "onsite",
@@ -686,7 +668,7 @@
       "source_url": "https://jobs.lever.co/alice-bob/b0d87110-7d57-49ec-8de5-cb98af70f478",
       "apply_url": "https://jobs.lever.co/alice-bob/b0d87110-7d57-49ec-8de5-cb98af70f478/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "b6135aa8-d30a-403a-831f-2844b1b502e1",
@@ -704,7 +686,7 @@
       "source_url": "https://jobs.lever.co/alice-bob/b6135aa8-d30a-403a-831f-2844b1b502e1",
       "apply_url": "https://jobs.lever.co/alice-bob/b6135aa8-d30a-403a-831f-2844b1b502e1/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "bce55df9-c29f-452c-aa53-3dc76bd17975",
@@ -722,7 +704,7 @@
       "source_url": "https://jobs.lever.co/alice-bob/bce55df9-c29f-452c-aa53-3dc76bd17975",
       "apply_url": "https://jobs.lever.co/alice-bob/bce55df9-c29f-452c-aa53-3dc76bd17975/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "be7c36c0-8c8c-4f14-adfb-3fc3155453fe",
@@ -740,7 +722,7 @@
       "source_url": "https://jobs.lever.co/alice-bob/be7c36c0-8c8c-4f14-adfb-3fc3155453fe",
       "apply_url": "https://jobs.lever.co/alice-bob/be7c36c0-8c8c-4f14-adfb-3fc3155453fe/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "ce152032-bbb4-4be3-b79b-1e9f1845e6ef",
@@ -758,7 +740,7 @@
       "source_url": "https://jobs.lever.co/alice-bob/ce152032-bbb4-4be3-b79b-1e9f1845e6ef",
       "apply_url": "https://jobs.lever.co/alice-bob/ce152032-bbb4-4be3-b79b-1e9f1845e6ef/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "d6d44fbb-9759-4057-aaba-bdb3c2a185d8",
@@ -776,7 +758,7 @@
       "source_url": "https://jobs.lever.co/alice-bob/d6d44fbb-9759-4057-aaba-bdb3c2a185d8",
       "apply_url": "https://jobs.lever.co/alice-bob/d6d44fbb-9759-4057-aaba-bdb3c2a185d8/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "e291b0c7-adb2-4ac7-8f51-59d650be431c",
@@ -794,7 +776,7 @@
       "source_url": "https://jobs.lever.co/alice-bob/e291b0c7-adb2-4ac7-8f51-59d650be431c",
       "apply_url": "https://jobs.lever.co/alice-bob/e291b0c7-adb2-4ac7-8f51-59d650be431c/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "eef5dd55-313f-4c32-b137-191c8e3656fb",
@@ -812,7 +794,7 @@
       "source_url": "https://jobs.lever.co/alice-bob/eef5dd55-313f-4c32-b137-191c8e3656fb",
       "apply_url": "https://jobs.lever.co/alice-bob/eef5dd55-313f-4c32-b137-191c8e3656fb/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "ef8b188f-f1c1-480a-a5f9-8f975553d56e",
@@ -830,7 +812,7 @@
       "source_url": "https://jobs.lever.co/alice-bob/ef8b188f-f1c1-480a-a5f9-8f975553d56e",
       "apply_url": "https://jobs.lever.co/alice-bob/ef8b188f-f1c1-480a-a5f9-8f975553d56e/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "efafd7ff-6902-473f-8e27-e593b8fb346c",
@@ -848,7 +830,7 @@
       "source_url": "https://jobs.lever.co/alice-bob/efafd7ff-6902-473f-8e27-e593b8fb346c",
       "apply_url": "https://jobs.lever.co/alice-bob/efafd7ff-6902-473f-8e27-e593b8fb346c/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "fa74d8d1-58dc-49c5-b097-f0f2d6c80085",
@@ -866,7 +848,7 @@
       "source_url": "https://jobs.lever.co/alice-bob/fa74d8d1-58dc-49c5-b097-f0f2d6c80085",
       "apply_url": "https://jobs.lever.co/alice-bob/fa74d8d1-58dc-49c5-b097-f0f2d6c80085/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "fad59fcd-3e13-48d5-bc63-831ca5569a2a",
@@ -884,7 +866,7 @@
       "source_url": "https://jobs.lever.co/alice-bob/fad59fcd-3e13-48d5-bc63-831ca5569a2a",
       "apply_url": "https://jobs.lever.co/alice-bob/fad59fcd-3e13-48d5-bc63-831ca5569a2a/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     }
   ],
   "ats": "lever",

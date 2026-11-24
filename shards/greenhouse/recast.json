@@ -1,8 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-23T18:00:07Z",
+  "checked_at": "2026-11-24T17:38:09Z",
   "failed_at": null,
-  "etag": "W/\"ad38e3733b7ad4d684359c88e0a4e437\"",
+  "etag": "W/\"96972639ddc60c1a2b08114c74b008d2\"",
   "jobs": [
     {
       "id": "4032276008",
@@ -20,7 +20,7 @@
       "source_url": "https://job-boards.greenhouse.io/recast/jobs/4032276008",
       "apply_url": "https://job-boards.greenhouse.io/recast/jobs/4032276008",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "5409366008",
@@ -38,11 +38,11 @@
       "source_url": "https://job-boards.greenhouse.io/recast/jobs/5409366008",
       "apply_url": "https://job-boards.greenhouse.io/recast/jobs/5409366008",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "5454091008",
-      "title": "Enterprise Demand Gen Lead",
+      "title": "Marketing Lead, Enterprise Growth",
       "company": "Recast",
       "location": "Remote",
       "remote": "remote",
@@ -51,12 +51,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-15",
-      "updated": "2026-10-15",
+      "updated": "2026-11-24",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/recast/jobs/5454091008",
       "apply_url": "https://job-boards.greenhouse.io/recast/jobs/5454091008",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     }
   ],
   "ats": "greenhouse",

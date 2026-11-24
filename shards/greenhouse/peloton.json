@@ -1,8 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-23T18:00:07Z",
+  "checked_at": "2026-11-24T17:38:09Z",
   "failed_at": null,
-  "etag": "W/\"b54ddd4c0987871877f9201d44def90a\"",
+  "etag": "W/\"a7f5f9ffe369ee334793cc05ee992a7d\"",
   "jobs": [
     {
       "id": "7290826",
@@ -20,7 +20,7 @@
       "source_url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=7290826",
       "apply_url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=7290826",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "7718331",
@@ -38,7 +38,7 @@
       "source_url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=7718331",
       "apply_url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=7718331",
       "first_seen": "2026-11-18T15:36:26Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "8021123",
@@ -56,7 +56,25 @@
       "source_url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8021123",
       "apply_url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8021123",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
+    },
+    {
+      "id": "8067872",
+      "title": "Staff Product Line Architect",
+      "company": "Peloton",
+      "location": "Woodinville, Washington",
+      "remote": "unspecified",
+      "department": "",
+      "employment_type": "",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-07-21",
+      "updated": "2026-11-24",
+      "deadline": "",
+      "source_url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8067872",
+      "apply_url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8067872",
+      "first_seen": "2026-11-24T17:38:09Z",
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "8067874",
@@ -74,7 +92,7 @@
       "source_url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8067874",
       "apply_url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8067874",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "8074696",
@@ -92,7 +110,7 @@
       "source_url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8074696",
       "apply_url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8074696",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "8111903",
@@ -110,7 +128,7 @@
       "source_url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8111903",
       "apply_url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8111903",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "8141555",
@@ -128,7 +146,7 @@
       "source_url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8141555",
       "apply_url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8141555",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "8141557",
@@ -146,7 +164,7 @@
       "source_url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8141557",
       "apply_url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8141557",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "8154261",
@@ -164,7 +182,7 @@
       "source_url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8154261",
       "apply_url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8154261",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "8177486",
@@ -182,7 +200,7 @@
       "source_url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8177486",
       "apply_url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8177486",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "8177488",
@@ -200,7 +218,7 @@
       "source_url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8177488",
       "apply_url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8177488",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "8177490",
@@ -218,7 +236,7 @@
       "source_url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8177490",
       "apply_url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8177490",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "8177503",
@@ -236,7 +254,7 @@
       "source_url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8177503",
       "apply_url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8177503",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "8203992",
@@ -254,7 +272,7 @@
       "source_url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8203992",
       "apply_url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8203992",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "8223408",
@@ -272,7 +290,7 @@
       "source_url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8223408",
       "apply_url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8223408",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "8223422",
@@ -290,25 +308,7 @@
       "source_url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8223422",
       "apply_url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8223422",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-23T18:00:07Z"
-    },
-    {
-      "id": "8223424",
-      "title": "Product Safety and Compliance Engineer III",
-      "company": "Peloton",
-      "location": "Woodinville, Washington",
-      "remote": "unspecified",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-10-02",
-      "updated": "2026-11-17",
-      "deadline": "",
-      "source_url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8223424",
-      "apply_url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8223424",
-      "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "8223432",
@@ -326,7 +326,7 @@
       "source_url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8223432",
       "apply_url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8223432",
       "first_seen": "2026-11-20T15:23:49Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "8223434",
@@ -344,7 +344,7 @@
       "source_url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8223434",
       "apply_url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8223434",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "8223464",
@@ -362,7 +362,7 @@
       "source_url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8223464",
       "apply_url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8223464",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "8227324",
@@ -380,25 +380,7 @@
       "source_url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8227324",
       "apply_url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8227324",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-23T18:00:07Z"
-    },
-    {
-      "id": "8231489",
-      "title": "Lead Expert - Phoenix Chandler Fashion Center",
-      "company": "Peloton",
-      "location": "Phoenix, Arizona",
-      "remote": "unspecified",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-09-29",
-      "updated": "2026-11-16",
-      "deadline": "",
-      "source_url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8231489",
-      "apply_url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8231489",
-      "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "8289878",
@@ -416,7 +398,7 @@
       "source_url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8289878",
       "apply_url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8289878",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "8289908",
@@ -434,7 +416,7 @@
       "source_url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8289908",
       "apply_url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8289908",
       "first_seen": "2026-11-21T14:37:10Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "8301127",
@@ -452,7 +434,7 @@
       "source_url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8301127",
       "apply_url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8301127",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "8301421",
@@ -470,7 +452,7 @@
       "source_url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8301421",
       "apply_url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8301421",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "8304700",
@@ -488,7 +470,7 @@
       "source_url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8304700",
       "apply_url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8304700",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "8328338",
@@ -506,7 +488,7 @@
       "source_url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8328338",
       "apply_url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8328338",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "8328426",
@@ -524,7 +506,7 @@
       "source_url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8328426",
       "apply_url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8328426",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "8384619",
@@ -542,7 +524,7 @@
       "source_url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8384619",
       "apply_url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8384619",
       "first_seen": "2026-11-18T15:36:26Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "8384770",
@@ -560,7 +542,7 @@
       "source_url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8384770",
       "apply_url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8384770",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "8384772",
@@ -578,7 +560,7 @@
       "source_url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8384772",
       "apply_url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8384772",
       "first_seen": "2026-11-19T15:42:04Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "8384776",
@@ -596,7 +578,7 @@
       "source_url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8384776",
       "apply_url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8384776",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "8393496",
@@ -614,7 +596,7 @@
       "source_url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8393496",
       "apply_url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8393496",
       "first_seen": "2026-11-20T15:23:49Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "8399933",
@@ -632,7 +614,7 @@
       "source_url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8399933",
       "apply_url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8399933",
       "first_seen": "2026-11-21T14:37:10Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "8399937",
@@ -650,7 +632,7 @@
       "source_url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8399937",
       "apply_url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8399937",
       "first_seen": "2026-11-23T18:00:07Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "8399956",
@@ -668,7 +650,7 @@
       "source_url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8399956",
       "apply_url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8399956",
       "first_seen": "2026-11-20T15:23:49Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "8399961",
@@ -686,7 +668,7 @@
       "source_url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8399961",
       "apply_url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8399961",
       "first_seen": "2026-11-23T18:00:07Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "8399963",
@@ -704,7 +686,7 @@
       "source_url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8399963",
       "apply_url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8399963",
       "first_seen": "2026-11-23T18:00:07Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "8399977",
@@ -722,7 +704,7 @@
       "source_url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8399977",
       "apply_url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8399977",
       "first_seen": "2026-11-23T18:00:07Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "8399981",
@@ -740,7 +722,7 @@
       "source_url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8399981",
       "apply_url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8399981",
       "first_seen": "2026-11-21T14:37:10Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "8401009",
@@ -758,7 +740,7 @@
       "source_url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8401009",
       "apply_url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8401009",
       "first_seen": "2026-11-20T15:23:49Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "8401055",
@@ -776,7 +758,7 @@
       "source_url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8401055",
       "apply_url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8401055",
       "first_seen": "2026-11-21T14:37:10Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "8402161",
@@ -794,7 +776,7 @@
       "source_url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8402161",
       "apply_url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8402161",
       "first_seen": "2026-11-21T14:37:10Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     },
     {
       "id": "8402236",
@@ -812,7 +794,7 @@
       "source_url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8402236",
       "apply_url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8402236",
       "first_seen": "2026-11-21T14:37:10Z",
-      "last_checked": "2026-11-23T18:00:07Z"
+      "last_checked": "2026-11-24T17:38:09Z"
     }
   ],
   "ats": "greenhouse",
