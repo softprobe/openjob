@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="zh-Hans">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" type="image/svg+xml" href="../../favicon.svg">
+  <title>我们如实清点了自己的索引：33,440 条岗位中，最近 60 天内发布的只有约 14,000 条 — OpenJob</title>
+  <meta name="description" content="OpenJob 的索引共有 33,440 条岗位记录。我们抽查了 5,107 条，逐条核对了发布日期：只有 2,245 条（44.0%）是在最近 60 天内发布的。真实的在招岗位数约为 14,000 条。11 月 23 日的重算得出了同样的结论。">
+  <link rel="canonical" href="https://openjob.softprobe.ai/articles/zh-honest-count/">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="OpenJob">
+  <meta property="og:title" content="我们如实清点了自己的索引：33,440 条岗位中，最近 60 天内发布的只有约 14,000 条 — OpenJob">
+  <meta property="og:description" content="OpenJob 的索引共有 33,440 条岗位记录。我们抽查了 5,107 条，逐条核对了发布日期：只有 2,245 条（44.0%）是在最近 60 天内发布的。真实的在招岗位数约为 14,000 条。11 月 23 日的重算得出了同样的结论。">
+  <meta property="og:url" content="https://openjob.softprobe.ai/articles/zh-honest-count/">
+  <!-- openjob:social -->
+  <meta property="og:image" content="https://openjob.softprobe.ai/og.png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="OpenJob. Open, privacy-first job board on GitHub">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:image" content="https://openjob.softprobe.ai/og.png">
+  <meta name="twitter:image:alt" content="OpenJob. Open, privacy-first job board on GitHub">
+  <meta name="google-site-verification" content="a2xq4xTZGnwkNdS2FSOJ9EGiUwnSmcRUcCAa2CUkiPI">
+  <!-- /openjob:social -->
+  <meta name="twitter:title" content="我们如实清点了自己的索引：33,440 条岗位中，最近 60 天内发布的只有约 14,000 条 — OpenJob">
+  <meta name="twitter:description" content="OpenJob 的索引共有 33,440 条岗位记录。我们抽查了 5,107 条，逐条核对了发布日期：只有 2,245 条（44.0%）是在最近 60 天内发布的。真实的在招岗位数约为 14,000 条。11 月 23 日的重算得出了同样的结论。">
+  <link rel="stylesheet" href="../../style.css">
+</head>
+<body class="entry">
+  <div class="wrap">
+    <header class="mast">
+      <div>
+        <div class="brand-row"><img class="brand-mark" src="../../favicon.svg" alt="OpenJob logo" width="40" height="40"><p class="kicker">OpenJob</p></div>
+        <h1>我们如实清点了自己的索引：33,440 条岗位中，最近 60 天内发布的只有约 14,000 条</h1>
+        <p class="sub">OpenJob · 2026年11月25日</p>
+      </div>
+      <div class="mast-side">
+        <button type="button" class="text-button" data-lang-toggle aria-pressed="false">English</button>
+        <a href="https://openjob.softprobe.ai/" data-i18n="board">招聘板</a>
+      </div>
+    </header>
+    <article>
+      <p><em>说明：我是 OpenJob 的维护者。这篇文章是我们对自己索引的公开审计。</em></p>
+      <p>OpenJob 的索引里有 33,440 条岗位记录。这个数字登在首页，是真的——但它不是求职者应该关心的数字。我们抽查了 5,107 条记录，逐条核对了发布日期：只有 2,245 条，也就是 44.0%，是在最近 60 天内发布的。</p>
+      <p>真实的在招岗位数约为 14,000 条，而不是 33,440 条。我们还是要把这个拆分公开，因为一个敢在公开场合审计自己索引的招聘板，比一个只会吹嘘整数的招聘板可信得多。</p>
+      <p><em>更新（2026年11月25日）：我们在 11 月 23 日用同一方法重算了一次——同一批分片、同一定义，抽查 5,438 条。结果是 42.1% 新鲜（2,290 条），按来源加权后为 40.8%，约 13,650 条。真实的在招岗位数仍然约为 14,000 条，与 11 月 18 日的抽查结论一致。下面表格和按来源的拆分仍是 11 月 18 日的抽查结果。</em></p>
+      <h2>我们数了什么</h2>
+      <p>清单（manifest，2026 年 11 月 18 日 20:08 UTC 生成；快照 <code>a404cce5…</code>）列出 33,107 个岗位、34 个分片。我们下载了其中 6 个分片——编号 0、7、14、20、27、33——共 5,107 条记录，在计算之前验证了每个分片的两份 SHA-256 校验和（gzip 和原始文件）。“新鲜”是指雇主注明的发布日期在 2026 年 9 月 19 日或之后，即快照日期往前推 60 天。截至 2026 年 11 月 25 日，清单上的总数已增长到 33,440 条（2026 年 11 月 24 日 23:22 UTC 生成）；下面的分析用的是 11 月 18 日的快照。</p>
+      <p>下表是 11 月 18 日的抽查结果：</p>
+      <table>
+        <thead>
+          <tr><th></th><th>记录数</th><th>新鲜（60 天内发布）</th></tr>
+        </thead>
+        <tbody>
+          <tr><td>全部抽查</td><td>5,107</td><td>2,245 — <strong>44.0%</strong></td></tr>
+          <tr><td>Ashby 的记录</td><td>1,000</td><td>672 — <strong>67.2%</strong></td></tr>
+          <tr><td>Greenhouse 的记录</td><td>2,000</td><td>868 — <strong>43.4%</strong></td></tr>
+          <tr><td>Moka 的记录</td><td>2,100</td><td>702 — <strong>33.4%</strong></td></tr>
+        </tbody>
+      </table>
+      <p>按各来源在完整数据集中的占比加权，新鲜比例是 41.9%——33,107 条中约 13,900 条。抽查中最早的发布日期是 2019 年 4 月 25 日。</p>
+      <h2>新鲜度取决于岗位来自哪里</h2>
+      <p>来源之间的差距就是故事本身。Ashby 的招聘板是索引里最新鲜的：三分之二的 Ashby 记录是在最近 60 天内发布的。Greenhouse 居中，43.4%。Moka 占完整数据集的 42.6%，却是最旧的，只有 33.4%——三分之一。</p>
+      <p>索引本身是最近才建成的（记录首次收录于 2026 年 11 月 15 日至 18 日），但它指向的岗位很多已经很旧了。收录一个招聘板，不等于雇主今天还在招人；发布日期是我们手里唯一诚实的信号。</p>
+      <h2>为什么要告诉你这些</h2>
+      <p>两个原因。第一，求职者看到的数字，应该是他们真正能去申请的岗位数。把 33,440 条说成在招岗位，会把求职者——还有他们的 AI 助手——引向几年前就过期的职位。第二，解决办法是结构性的，不是表面功夫：OpenJob 上的原生岗位 60 天后自动过期，所以招聘板永远攒不出这样的档案。关于这条过期规则的完整说明，见 <a href="https://openjob.softprobe.ai/articles/listings-expire/">为什么我们的岗位会过期</a>。索引那一半数据还没有这样的约束，而第一步就是把数字大声说出来。</p>
+      <h2>我们是怎么数的</h2>
+      <ul>
+        <li><strong>来源：</strong>公开清单 <code>https://openjob.softprobe.ai/api/data/manifest.json</code>，生成于 2026-11-18T20:08:03Z；33,107 个岗位、34 个分片、<code>complete: true</code>。截至 2026 年 11 月 25 日，清单总数为 33,440 条（生成于 2026-11-24T23:22:20Z）。</li>
+        <li><strong>抽查：</strong>5,107 条记录，来自编号 0、7、14、20、27、33 的分片。分片是按来源切分的，不是随机的——每个分片只装一个招聘系统（ATS）——所以这是一次整群抽查，不是随机抽查。抽查中没有 Lever 的记录（Lever 占完整数据集的 6.0%），Ashby 的比重被高估了（抽查中占 19.6%，完整数据集中占 12.1%）。除非注明按 ATS 加权，否则百分比都是抽查百分比。</li>
+        <li><strong>“新鲜”</strong>按雇主在自己招聘板上注明的发布日期界定（抽查记录 100% 都有这个日期）。有些招聘板可能对仍在招的岗位保留着过期的日期；“新鲜”按这个日期定义，不做二次核实。</li>
+        <li><strong>收录 ≠ 招募。</strong>所有数字描述的都是从雇主招聘板上收录的记录。OpenJob 没有招募这些雇主；文本归雇主所有。</li>
+      </ul>
+      <p><em>亲自试试：把“Read https://openjob.softprobe.ai/llms.txt and follow it. Find me a job.”粘贴给你已经在用的 AI 助手——Muse、ChatGPT/Codex、Cursor、Hermes 或 Instinct——看看它能找到什么。招聘板在 <a href="https://openjob.softprobe.ai">openjob.softprobe.ai</a>；源代码在 <a href="https://github.com/softprobe/openjob">github.com/softprobe/openjob</a>。英文版见 <a href="https://openjob.softprobe.ai/articles/honest-count/">We counted our own index honestly</a>。</em></p>
+    </article>
+    <footer>
+      <p><a href="https://openjob.softprobe.ai/">OpenJob</a> · <a href="https://github.com/softprobe/openjob" data-i18n="source">源代码</a></p>
+    </footer>
+  </div>
+  <script src="../../i18n.js?v=a850439327b7cac9ea924be99d3a9fa43b4fa01d"></script>
+</body>
+</html>
