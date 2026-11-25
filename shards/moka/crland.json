@@ -1,8 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-24T17:38:09Z",
+  "checked_at": "2026-11-25T17:09:22Z",
   "failed_at": null,
-  "etag": "W/\"4c96c-15jdjb2bD2+XW273qJFuDw\"",
+  "etag": "W/\"4c535-GV0+zuwnvpubDgQ57HYSNg\"",
   "jobs": [
     {
       "id": "0061ed67-7e5a-4970-b8ff-c40edd819455",
@@ -20,7 +20,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/0061ed67-7e5a-4970-b8ff-c40edd819455",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/0061ed67-7e5a-4970-b8ff-c40edd819455/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "015f3782-6277-4f8b-afaf-79d0b9758e08",
@@ -38,7 +38,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/015f3782-6277-4f8b-afaf-79d0b9758e08",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/015f3782-6277-4f8b-afaf-79d0b9758e08/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "03981ede-2820-480f-a83c-9d80e9ad3f5e",
@@ -56,7 +56,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/03981ede-2820-480f-a83c-9d80e9ad3f5e",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/03981ede-2820-480f-a83c-9d80e9ad3f5e/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "040b1a8b-de82-4f4f-894c-eebfab181eaa",
@@ -74,7 +74,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/040b1a8b-de82-4f4f-894c-eebfab181eaa",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/040b1a8b-de82-4f4f-894c-eebfab181eaa/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "085bea59-7dde-4b09-8ad6-fc22ef76aef4",
@@ -92,7 +92,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/085bea59-7dde-4b09-8ad6-fc22ef76aef4",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/085bea59-7dde-4b09-8ad6-fc22ef76aef4/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "08c1456d-f153-429d-9608-d45bea5c3738",
@@ -110,7 +110,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/08c1456d-f153-429d-9608-d45bea5c3738",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/08c1456d-f153-429d-9608-d45bea5c3738/apply?pure=1",
       "first_seen": "2026-11-19T15:42:04Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "093cd830-a286-41ac-9897-5c3a0c3c35e3",
@@ -128,7 +128,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/093cd830-a286-41ac-9897-5c3a0c3c35e3",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/093cd830-a286-41ac-9897-5c3a0c3c35e3/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "09c88ae6-b9c3-4d28-9766-03fd27882a57",
@@ -146,7 +146,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/09c88ae6-b9c3-4d28-9766-03fd27882a57",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/09c88ae6-b9c3-4d28-9766-03fd27882a57/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "0cd8a057-afa1-48da-bad3-75322543f379",
@@ -164,7 +164,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/0cd8a057-afa1-48da-bad3-75322543f379",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/0cd8a057-afa1-48da-bad3-75322543f379/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "0e7eca04-49e3-4251-bf3d-e76fcc9cecd0",
@@ -182,7 +182,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/0e7eca04-49e3-4251-bf3d-e76fcc9cecd0",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/0e7eca04-49e3-4251-bf3d-e76fcc9cecd0/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "0f676d98-f435-42c3-a383-56c39300dea7",
@@ -200,7 +200,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/0f676d98-f435-42c3-a383-56c39300dea7",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/0f676d98-f435-42c3-a383-56c39300dea7/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "11dc6494-6bf7-4417-804b-51fd17d16ebd",
@@ -218,7 +218,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/11dc6494-6bf7-4417-804b-51fd17d16ebd",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/11dc6494-6bf7-4417-804b-51fd17d16ebd/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "12ca95e1-adbd-43aa-87e0-301193742be2",
@@ -236,7 +236,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/12ca95e1-adbd-43aa-87e0-301193742be2",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/12ca95e1-adbd-43aa-87e0-301193742be2/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "131ad86c-3ada-47e2-93c0-086fb0f840ff",
@@ -254,7 +254,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/131ad86c-3ada-47e2-93c0-086fb0f840ff",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/131ad86c-3ada-47e2-93c0-086fb0f840ff/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "142c314b-2151-4b52-99b5-eb7ed154df80",
@@ -272,7 +272,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/142c314b-2151-4b52-99b5-eb7ed154df80",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/142c314b-2151-4b52-99b5-eb7ed154df80/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "14a73c60-96fd-46fa-b6ae-993613bd8d1b",
@@ -290,7 +290,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/14a73c60-96fd-46fa-b6ae-993613bd8d1b",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/14a73c60-96fd-46fa-b6ae-993613bd8d1b/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "154191f8-6937-4cc0-8ec1-01f3840bccbf",
@@ -308,7 +308,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/154191f8-6937-4cc0-8ec1-01f3840bccbf",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/154191f8-6937-4cc0-8ec1-01f3840bccbf/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "15be6bf3-eeda-43be-a0be-c55ee47256d6",
@@ -326,7 +326,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/15be6bf3-eeda-43be-a0be-c55ee47256d6",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/15be6bf3-eeda-43be-a0be-c55ee47256d6/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "16357597-518d-4480-b892-1d5a9e3cc8a1",
@@ -344,7 +344,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/16357597-518d-4480-b892-1d5a9e3cc8a1",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/16357597-518d-4480-b892-1d5a9e3cc8a1/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "174e24c1-8790-44b0-9e7b-5f2d748c1bb0",
@@ -362,7 +362,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/174e24c1-8790-44b0-9e7b-5f2d748c1bb0",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/174e24c1-8790-44b0-9e7b-5f2d748c1bb0/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "17e12ceb-4a52-46c0-b006-5071844f26b4",
@@ -380,7 +380,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/17e12ceb-4a52-46c0-b006-5071844f26b4",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/17e12ceb-4a52-46c0-b006-5071844f26b4/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "19111822-dece-42f2-a996-f75a1bfda33e",
@@ -398,7 +398,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/19111822-dece-42f2-a996-f75a1bfda33e",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/19111822-dece-42f2-a996-f75a1bfda33e/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "1a7c7ce4-655d-42c3-b242-4651be9012ff",
@@ -416,7 +416,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/1a7c7ce4-655d-42c3-b242-4651be9012ff",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/1a7c7ce4-655d-42c3-b242-4651be9012ff/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "1b929d6d-9455-4b28-a64f-dac1a1773e88",
@@ -434,7 +434,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/1b929d6d-9455-4b28-a64f-dac1a1773e88",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/1b929d6d-9455-4b28-a64f-dac1a1773e88/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "1e0998b5-e1b6-4ac5-a322-e1e5062fbfbc",
@@ -452,7 +452,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/1e0998b5-e1b6-4ac5-a322-e1e5062fbfbc",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/1e0998b5-e1b6-4ac5-a322-e1e5062fbfbc/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "20f4b627-db75-4f7f-b790-8ee5cf2ffe8e",
@@ -470,7 +470,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/20f4b627-db75-4f7f-b790-8ee5cf2ffe8e",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/20f4b627-db75-4f7f-b790-8ee5cf2ffe8e/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "210a0044-f28f-40cb-8f0c-4a4cf66f59bc",
@@ -488,7 +488,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/210a0044-f28f-40cb-8f0c-4a4cf66f59bc",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/210a0044-f28f-40cb-8f0c-4a4cf66f59bc/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "21337ea0-0651-48df-a4a8-2ef800880510",
@@ -506,7 +506,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/21337ea0-0651-48df-a4a8-2ef800880510",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/21337ea0-0651-48df-a4a8-2ef800880510/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "21de5510-5997-4b77-a6d9-9012d553f6e0",
@@ -524,7 +524,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/21de5510-5997-4b77-a6d9-9012d553f6e0",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/21de5510-5997-4b77-a6d9-9012d553f6e0/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "22bb1019-65a3-488d-a720-7404fa4bbdbb",
@@ -542,7 +542,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/22bb1019-65a3-488d-a720-7404fa4bbdbb",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/22bb1019-65a3-488d-a720-7404fa4bbdbb/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "22d48374-a628-4388-9abf-f39e36567541",
@@ -560,7 +560,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/22d48374-a628-4388-9abf-f39e36567541",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/22d48374-a628-4388-9abf-f39e36567541/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "238481b0-f28d-4ca8-a8a0-e8032fe40924",
@@ -578,7 +578,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/238481b0-f28d-4ca8-a8a0-e8032fe40924",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/238481b0-f28d-4ca8-a8a0-e8032fe40924/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "24d01c7c-38f0-4598-b23b-0306093cd461",
@@ -596,7 +596,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/24d01c7c-38f0-4598-b23b-0306093cd461",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/24d01c7c-38f0-4598-b23b-0306093cd461/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "27bebea7-5b4b-4baf-bb26-f2834dcdd073",
@@ -614,7 +614,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/27bebea7-5b4b-4baf-bb26-f2834dcdd073",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/27bebea7-5b4b-4baf-bb26-f2834dcdd073/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "2964e08d-d34d-420a-ad52-911ca627d81e",
@@ -632,7 +632,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/2964e08d-d34d-420a-ad52-911ca627d81e",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/2964e08d-d34d-420a-ad52-911ca627d81e/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "2b295725-9b67-4106-bce1-93a9e6882554",
@@ -650,7 +650,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/2b295725-9b67-4106-bce1-93a9e6882554",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/2b295725-9b67-4106-bce1-93a9e6882554/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "2c3c6992-1ff7-4169-9ac2-64948d7248e4",
@@ -668,7 +668,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/2c3c6992-1ff7-4169-9ac2-64948d7248e4",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/2c3c6992-1ff7-4169-9ac2-64948d7248e4/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "2c7d1605-6a9e-49bf-a67f-25a74e5f50e1",
@@ -686,7 +686,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/2c7d1605-6a9e-49bf-a67f-25a74e5f50e1",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/2c7d1605-6a9e-49bf-a67f-25a74e5f50e1/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "2f4492b8-9e89-404e-8260-bef43043bd5c",
@@ -704,7 +704,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/2f4492b8-9e89-404e-8260-bef43043bd5c",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/2f4492b8-9e89-404e-8260-bef43043bd5c/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "2f6704da-54de-4aba-af35-4d73f3fcf79c",
@@ -722,7 +722,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/2f6704da-54de-4aba-af35-4d73f3fcf79c",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/2f6704da-54de-4aba-af35-4d73f3fcf79c/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "2fde2336-0a04-48cd-a9f9-974a7c532372",
@@ -740,7 +740,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/2fde2336-0a04-48cd-a9f9-974a7c532372",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/2fde2336-0a04-48cd-a9f9-974a7c532372/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "301fbb0d-a243-46fa-9db8-eabf81903cab",
@@ -758,7 +758,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/301fbb0d-a243-46fa-9db8-eabf81903cab",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/301fbb0d-a243-46fa-9db8-eabf81903cab/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "30351312-7271-4cec-9e37-b82abeb8f833",
@@ -776,7 +776,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/30351312-7271-4cec-9e37-b82abeb8f833",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/30351312-7271-4cec-9e37-b82abeb8f833/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "31efd657-e0c7-4a0c-b7e6-0251c00aeb4a",
@@ -794,7 +794,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/31efd657-e0c7-4a0c-b7e6-0251c00aeb4a",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/31efd657-e0c7-4a0c-b7e6-0251c00aeb4a/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "345db8ee-6aba-4e8b-b86e-54058d31c8c3",
@@ -812,7 +812,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/345db8ee-6aba-4e8b-b86e-54058d31c8c3",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/345db8ee-6aba-4e8b-b86e-54058d31c8c3/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "356ea066-35b6-49ef-ac06-866bc490fb19",
@@ -830,7 +830,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/356ea066-35b6-49ef-ac06-866bc490fb19",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/356ea066-35b6-49ef-ac06-866bc490fb19/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "3610e339-372c-4029-93f6-f8fe056d0b05",
@@ -848,7 +848,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/3610e339-372c-4029-93f6-f8fe056d0b05",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/3610e339-372c-4029-93f6-f8fe056d0b05/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "368d5ff9-1311-425d-b23b-f0ff514da9d9",
@@ -866,7 +866,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/368d5ff9-1311-425d-b23b-f0ff514da9d9",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/368d5ff9-1311-425d-b23b-f0ff514da9d9/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "37e1ef40-30d2-4d2d-9ab6-35047b2f4ff4",
@@ -884,7 +884,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/37e1ef40-30d2-4d2d-9ab6-35047b2f4ff4",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/37e1ef40-30d2-4d2d-9ab6-35047b2f4ff4/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "39967261-0632-4215-857b-d88921a167f9",
@@ -902,7 +902,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/39967261-0632-4215-857b-d88921a167f9",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/39967261-0632-4215-857b-d88921a167f9/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "3a0143fc-a17c-4671-98dc-f69eb869f205",
@@ -920,7 +920,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/3a0143fc-a17c-4671-98dc-f69eb869f205",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/3a0143fc-a17c-4671-98dc-f69eb869f205/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "3c3f989c-0711-4d53-b2dc-d741ebe81c52",
@@ -938,7 +938,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/3c3f989c-0711-4d53-b2dc-d741ebe81c52",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/3c3f989c-0711-4d53-b2dc-d741ebe81c52/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "3f37cf82-b8d1-406b-ba9c-b497f4da9636",
@@ -956,7 +956,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/3f37cf82-b8d1-406b-ba9c-b497f4da9636",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/3f37cf82-b8d1-406b-ba9c-b497f4da9636/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "426d2464-d5bc-4eb8-80da-24428a597e58",
@@ -974,7 +974,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/426d2464-d5bc-4eb8-80da-24428a597e58",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/426d2464-d5bc-4eb8-80da-24428a597e58/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "43084e12-1d33-4695-bb87-32a73b3fa4b8",
@@ -992,7 +992,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/43084e12-1d33-4695-bb87-32a73b3fa4b8",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/43084e12-1d33-4695-bb87-32a73b3fa4b8/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "43675ad1-e349-4106-92f4-ec4ad928c1ac",
@@ -1010,7 +1010,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/43675ad1-e349-4106-92f4-ec4ad928c1ac",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/43675ad1-e349-4106-92f4-ec4ad928c1ac/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "43d26a2f-aaed-45fc-9f98-1de12b86d254",
@@ -1028,7 +1028,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/43d26a2f-aaed-45fc-9f98-1de12b86d254",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/43d26a2f-aaed-45fc-9f98-1de12b86d254/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "4579230f-4888-400e-8743-6560af550528",
@@ -1046,7 +1046,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/4579230f-4888-400e-8743-6560af550528",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/4579230f-4888-400e-8743-6560af550528/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "45ca8d90-b1e2-45ed-803b-c8a142326828",
@@ -1064,7 +1064,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/45ca8d90-b1e2-45ed-803b-c8a142326828",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/45ca8d90-b1e2-45ed-803b-c8a142326828/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "465399fb-b145-42e9-982a-0e041e5919dc",
@@ -1082,7 +1082,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/465399fb-b145-42e9-982a-0e041e5919dc",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/465399fb-b145-42e9-982a-0e041e5919dc/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "46b66c5e-2ad6-4230-a820-2f7f2c69eafd",
@@ -1100,7 +1100,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/46b66c5e-2ad6-4230-a820-2f7f2c69eafd",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/46b66c5e-2ad6-4230-a820-2f7f2c69eafd/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "46d1069e-fbea-4f7c-83c4-a718fd6ed976",
@@ -1118,7 +1118,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/46d1069e-fbea-4f7c-83c4-a718fd6ed976",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/46d1069e-fbea-4f7c-83c4-a718fd6ed976/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "4734f083-2824-4f51-bbd3-d7b86123092b",
@@ -1136,7 +1136,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/4734f083-2824-4f51-bbd3-d7b86123092b",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/4734f083-2824-4f51-bbd3-d7b86123092b/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "483d149c-3506-4641-9739-80588a6809d2",
@@ -1154,7 +1154,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/483d149c-3506-4641-9739-80588a6809d2",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/483d149c-3506-4641-9739-80588a6809d2/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "48b48184-2be1-4e58-9e77-4b5a30e91696",
@@ -1172,7 +1172,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/48b48184-2be1-4e58-9e77-4b5a30e91696",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/48b48184-2be1-4e58-9e77-4b5a30e91696/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "4927afd2-4b5b-4766-86a7-36c79916f1b8",
@@ -1190,7 +1190,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/4927afd2-4b5b-4766-86a7-36c79916f1b8",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/4927afd2-4b5b-4766-86a7-36c79916f1b8/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "49b3cc2c-588d-4a41-82dc-299e378ec2c0",
@@ -1208,7 +1208,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/49b3cc2c-588d-4a41-82dc-299e378ec2c0",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/49b3cc2c-588d-4a41-82dc-299e378ec2c0/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "4cf60f66-db30-49d7-9289-e95b55d8a02b",
@@ -1226,7 +1226,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/4cf60f66-db30-49d7-9289-e95b55d8a02b",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/4cf60f66-db30-49d7-9289-e95b55d8a02b/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "4dfe14aa-f24e-430f-973b-4c7900e027ea",
@@ -1244,7 +1244,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/4dfe14aa-f24e-430f-973b-4c7900e027ea",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/4dfe14aa-f24e-430f-973b-4c7900e027ea/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "4e1f38f8-54ef-4aae-b3bf-c9515713e114",
@@ -1262,7 +1262,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/4e1f38f8-54ef-4aae-b3bf-c9515713e114",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/4e1f38f8-54ef-4aae-b3bf-c9515713e114/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "4e48777c-ff20-4ab6-b0e0-2cb034a73aa3",
@@ -1280,7 +1280,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/4e48777c-ff20-4ab6-b0e0-2cb034a73aa3",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/4e48777c-ff20-4ab6-b0e0-2cb034a73aa3/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "4ea6703a-3ced-44de-b6d1-5830bc5c009f",
@@ -1298,7 +1298,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/4ea6703a-3ced-44de-b6d1-5830bc5c009f",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/4ea6703a-3ced-44de-b6d1-5830bc5c009f/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "4f2794c7-5d59-409a-adda-a5260958a334",
@@ -1316,7 +1316,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/4f2794c7-5d59-409a-adda-a5260958a334",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/4f2794c7-5d59-409a-adda-a5260958a334/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "512334b4-a16f-45b5-9217-ccccbddc3b38",
@@ -1334,7 +1334,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/512334b4-a16f-45b5-9217-ccccbddc3b38",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/512334b4-a16f-45b5-9217-ccccbddc3b38/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "52436ee1-17e6-4981-9a6a-c3bf1a880920",
@@ -1352,25 +1352,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/52436ee1-17e6-4981-9a6a-c3bf1a880920",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/52436ee1-17e6-4981-9a6a-c3bf1a880920/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
-    },
-    {
-      "id": "52b42550-d83d-4eca-8528-0aeae02fd3a8",
-      "title": "TC高级专员",
-      "company": "华润万象生活",
-      "location": "杭州市, 浙江, 中国",
-      "remote": "unspecified",
-      "department": "杭州万象城-营运部1003522",
-      "employment_type": "FULL_TIME",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-08-31",
-      "updated": "2026-08-31",
-      "deadline": "",
-      "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/52b42550-d83d-4eca-8528-0aeae02fd3a8",
-      "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/52b42550-d83d-4eca-8528-0aeae02fd3a8/apply?pure=1",
-      "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "534a7764-1602-42b1-85d0-c8ed5322c756",
@@ -1388,7 +1370,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/534a7764-1602-42b1-85d0-c8ed5322c756",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/534a7764-1602-42b1-85d0-c8ed5322c756/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "558c377c-ba48-44aa-945a-7e9d47cd00df",
@@ -1406,7 +1388,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/558c377c-ba48-44aa-945a-7e9d47cd00df",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/558c377c-ba48-44aa-945a-7e9d47cd00df/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "56feb91e-a0ad-4b8f-806a-70353fc26185",
@@ -1424,7 +1406,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/56feb91e-a0ad-4b8f-806a-70353fc26185",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/56feb91e-a0ad-4b8f-806a-70353fc26185/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "570fe931-e95c-4d3f-ac45-5b3b2f10617c",
@@ -1442,7 +1424,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/570fe931-e95c-4d3f-ac45-5b3b2f10617c",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/570fe931-e95c-4d3f-ac45-5b3b2f10617c/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "578c5fcd-fdea-4cec-9868-8c8cfdf45900",
@@ -1460,7 +1442,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/578c5fcd-fdea-4cec-9868-8c8cfdf45900",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/578c5fcd-fdea-4cec-9868-8c8cfdf45900/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "589640b2-5b50-44ca-867d-9f854b0994e2",
@@ -1478,25 +1460,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/589640b2-5b50-44ca-867d-9f854b0994e2",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/589640b2-5b50-44ca-867d-9f854b0994e2/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
-    },
-    {
-      "id": "5962ef7e-ceef-48c2-beca-389a697870f2",
-      "title": "大客户服务岗（商业航道杭州万象城-直管门店）",
-      "company": "华润万象生活",
-      "location": "杭州市, 浙江, 中国",
-      "remote": "unspecified",
-      "department": "杭州万象城-客户关系部1003523",
-      "employment_type": "FULL_TIME",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-10-12",
-      "updated": "2026-10-14",
-      "deadline": "",
-      "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/5962ef7e-ceef-48c2-beca-389a697870f2",
-      "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/5962ef7e-ceef-48c2-beca-389a697870f2/apply?pure=1",
-      "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "5b067177-e6b4-4bf6-87c2-69203cb580a4",
@@ -1514,7 +1478,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/5b067177-e6b4-4bf6-87c2-69203cb580a4",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/5b067177-e6b4-4bf6-87c2-69203cb580a4/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "5b15758d-95a6-4e10-a72f-323497da75b6",
@@ -1532,7 +1496,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/5b15758d-95a6-4e10-a72f-323497da75b6",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/5b15758d-95a6-4e10-a72f-323497da75b6/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "5b23c66d-edd8-4c9b-9d31-be5e8491a018",
@@ -1550,7 +1514,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/5b23c66d-edd8-4c9b-9d31-be5e8491a018",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/5b23c66d-edd8-4c9b-9d31-be5e8491a018/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "5e0f7b9f-437e-4cc2-919b-7e18770b06f1",
@@ -1568,7 +1532,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/5e0f7b9f-437e-4cc2-919b-7e18770b06f1",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/5e0f7b9f-437e-4cc2-919b-7e18770b06f1/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "5e5bf4bb-71d9-48ce-833d-2a412fc2f82e",
@@ -1586,7 +1550,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/5e5bf4bb-71d9-48ce-833d-2a412fc2f82e",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/5e5bf4bb-71d9-48ce-833d-2a412fc2f82e/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "5f3c3aab-6868-416b-b866-b3bb5d57787d",
@@ -1604,7 +1568,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/5f3c3aab-6868-416b-b866-b3bb5d57787d",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/5f3c3aab-6868-416b-b866-b3bb5d57787d/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "6051d66d-bb42-4f48-9ee3-ed28591045a7",
@@ -1622,7 +1586,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/6051d66d-bb42-4f48-9ee3-ed28591045a7",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/6051d66d-bb42-4f48-9ee3-ed28591045a7/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "60b3a32c-8feb-4b1f-9421-c4271d13678f",
@@ -1640,7 +1604,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/60b3a32c-8feb-4b1f-9421-c4271d13678f",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/60b3a32c-8feb-4b1f-9421-c4271d13678f/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "60d69efb-be08-45b5-bc2d-40a22cac6e1b",
@@ -1658,7 +1622,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/60d69efb-be08-45b5-bc2d-40a22cac6e1b",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/60d69efb-be08-45b5-bc2d-40a22cac6e1b/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "610b3198-c2eb-45e6-871d-ade490f67995",
@@ -1676,7 +1640,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/610b3198-c2eb-45e6-871d-ade490f67995",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/610b3198-c2eb-45e6-871d-ade490f67995/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "6135be12-488d-4636-9f29-e2f51a5d9f5d",
@@ -1694,7 +1658,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/6135be12-488d-4636-9f29-e2f51a5d9f5d",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/6135be12-488d-4636-9f29-e2f51a5d9f5d/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "625f5e68-7aec-46b4-83af-89574824de94",
@@ -1712,7 +1676,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/625f5e68-7aec-46b4-83af-89574824de94",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/625f5e68-7aec-46b4-83af-89574824de94/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "63b7a8ea-328d-494e-bfe5-6c767cca9f92",
@@ -1730,7 +1694,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/63b7a8ea-328d-494e-bfe5-6c767cca9f92",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/63b7a8ea-328d-494e-bfe5-6c767cca9f92/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "64daaabb-5cbb-4e23-9b1d-10afd7ab6dfd",
@@ -1748,7 +1712,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/64daaabb-5cbb-4e23-9b1d-10afd7ab6dfd",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/64daaabb-5cbb-4e23-9b1d-10afd7ab6dfd/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "6926a1a6-0769-4341-9bf2-99c7c011e3c9",
@@ -1766,7 +1730,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/6926a1a6-0769-4341-9bf2-99c7c011e3c9",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/6926a1a6-0769-4341-9bf2-99c7c011e3c9/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "6a4b9e95-0792-4b51-8164-a3d1f89b001b",
@@ -1784,7 +1748,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/6a4b9e95-0792-4b51-8164-a3d1f89b001b",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/6a4b9e95-0792-4b51-8164-a3d1f89b001b/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "6a840cf9-95b6-49f1-97e2-a85727fea8f5",
@@ -1802,7 +1766,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/6a840cf9-95b6-49f1-97e2-a85727fea8f5",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/6a840cf9-95b6-49f1-97e2-a85727fea8f5/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "6b60d43a-ee29-49c5-a8d6-2fe64ef2d2b8",
@@ -1820,7 +1784,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/6b60d43a-ee29-49c5-a8d6-2fe64ef2d2b8",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/6b60d43a-ee29-49c5-a8d6-2fe64ef2d2b8/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "6ba44955-3675-472e-8009-d19437d25690",
@@ -1838,7 +1802,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/6ba44955-3675-472e-8009-d19437d25690",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/6ba44955-3675-472e-8009-d19437d25690/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "6dd9fdf4-5c31-4beb-ac86-a3d26a58c06b",
@@ -1856,7 +1820,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/6dd9fdf4-5c31-4beb-ac86-a3d26a58c06b",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/6dd9fdf4-5c31-4beb-ac86-a3d26a58c06b/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "6fc277aa-587b-465d-b848-89953e800084",
@@ -1874,7 +1838,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/6fc277aa-587b-465d-b848-89953e800084",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/6fc277aa-587b-465d-b848-89953e800084/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "753f7c6b-6c9a-460b-b095-ecbf1c495852",
@@ -1892,7 +1856,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/753f7c6b-6c9a-460b-b095-ecbf1c495852",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/753f7c6b-6c9a-460b-b095-ecbf1c495852/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "76182f02-9556-4f10-9606-fe69c65a7c1e",
@@ -1910,7 +1874,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/76182f02-9556-4f10-9606-fe69c65a7c1e",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/76182f02-9556-4f10-9606-fe69c65a7c1e/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "76698317-4430-405c-a631-b604f1cd44ac",
@@ -1928,7 +1892,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/76698317-4430-405c-a631-b604f1cd44ac",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/76698317-4430-405c-a631-b604f1cd44ac/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "769e02c4-78b7-402e-9125-8241f22bfef5",
@@ -1946,7 +1910,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/769e02c4-78b7-402e-9125-8241f22bfef5",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/769e02c4-78b7-402e-9125-8241f22bfef5/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "76c9a0ef-0e31-4323-99d2-f9594a10c5fb",
@@ -1964,7 +1928,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/76c9a0ef-0e31-4323-99d2-f9594a10c5fb",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/76c9a0ef-0e31-4323-99d2-f9594a10c5fb/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "779a35eb-c004-4550-9433-e3bb16cbf985",
@@ -1982,7 +1946,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/779a35eb-c004-4550-9433-e3bb16cbf985",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/779a35eb-c004-4550-9433-e3bb16cbf985/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "797d72bc-7dad-46eb-b83a-895e1f4eba81",
@@ -2000,7 +1964,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/797d72bc-7dad-46eb-b83a-895e1f4eba81",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/797d72bc-7dad-46eb-b83a-895e1f4eba81/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "7a1b6106-67b1-49a6-9de8-7bdc2b27b968",
@@ -2018,7 +1982,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/7a1b6106-67b1-49a6-9de8-7bdc2b27b968",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/7a1b6106-67b1-49a6-9de8-7bdc2b27b968/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "7b4ad147-1eec-4fdb-9d3d-2232057f372c",
@@ -2036,7 +2000,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/7b4ad147-1eec-4fdb-9d3d-2232057f372c",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/7b4ad147-1eec-4fdb-9d3d-2232057f372c/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "7e349839-6417-4d9e-9c0b-f27997ef6288",
@@ -2054,7 +2018,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/7e349839-6417-4d9e-9c0b-f27997ef6288",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/7e349839-6417-4d9e-9c0b-f27997ef6288/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8150c191-5fae-4291-b49c-7365df72f114",
@@ -2072,7 +2036,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/8150c191-5fae-4291-b49c-7365df72f114",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/8150c191-5fae-4291-b49c-7365df72f114/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "82954b07-a99f-4f26-82ac-8a293b6d6fc8",
@@ -2090,7 +2054,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/82954b07-a99f-4f26-82ac-8a293b6d6fc8",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/82954b07-a99f-4f26-82ac-8a293b6d6fc8/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "82d98087-b3ca-4858-9b1b-2bbc96dcd46a",
@@ -2108,7 +2072,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/82d98087-b3ca-4858-9b1b-2bbc96dcd46a",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/82d98087-b3ca-4858-9b1b-2bbc96dcd46a/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "83561f42-5f78-4e54-8611-40e8c727b8e1",
@@ -2126,7 +2090,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/83561f42-5f78-4e54-8611-40e8c727b8e1",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/83561f42-5f78-4e54-8611-40e8c727b8e1/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "84d9cce2-01b5-48a9-b31f-4bbcaed55b61",
@@ -2144,7 +2108,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/84d9cce2-01b5-48a9-b31f-4bbcaed55b61",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/84d9cce2-01b5-48a9-b31f-4bbcaed55b61/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "869bed97-b592-4d92-9c02-232d88e9561b",
@@ -2162,7 +2126,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/869bed97-b592-4d92-9c02-232d88e9561b",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/869bed97-b592-4d92-9c02-232d88e9561b/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "86c475eb-a7ae-446e-bb07-73b38aeb3c81",
@@ -2180,7 +2144,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/86c475eb-a7ae-446e-bb07-73b38aeb3c81",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/86c475eb-a7ae-446e-bb07-73b38aeb3c81/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8780b3fc-6768-426b-9e71-631b3564d392",
@@ -2198,7 +2162,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/8780b3fc-6768-426b-9e71-631b3564d392",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/8780b3fc-6768-426b-9e71-631b3564d392/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "87b8e6fa-150d-433e-a04f-305cda03ab0e",
@@ -2216,7 +2180,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/87b8e6fa-150d-433e-a04f-305cda03ab0e",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/87b8e6fa-150d-433e-a04f-305cda03ab0e/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8880c9a8-64de-433e-931e-73c696d4bbe7",
@@ -2234,7 +2198,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/8880c9a8-64de-433e-931e-73c696d4bbe7",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/8880c9a8-64de-433e-931e-73c696d4bbe7/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8999a5d2-5e83-4b31-a239-34f747e5d699",
@@ -2252,7 +2216,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/8999a5d2-5e83-4b31-a239-34f747e5d699",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/8999a5d2-5e83-4b31-a239-34f747e5d699/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "89cbb315-9d4f-4feb-b9f0-d790d182f1e2",
@@ -2270,7 +2234,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/89cbb315-9d4f-4feb-b9f0-d790d182f1e2",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/89cbb315-9d4f-4feb-b9f0-d790d182f1e2/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8c1f0dfc-0843-469f-a29a-178d6d7f20b1",
@@ -2288,7 +2252,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/8c1f0dfc-0843-469f-a29a-178d6d7f20b1",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/8c1f0dfc-0843-469f-a29a-178d6d7f20b1/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8dff8f03-1c53-473b-9ec0-5f83cf50f360",
@@ -2306,7 +2270,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/8dff8f03-1c53-473b-9ec0-5f83cf50f360",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/8dff8f03-1c53-473b-9ec0-5f83cf50f360/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "90218433-01c0-4f23-8c35-bd8fc3459528",
@@ -2324,7 +2288,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/90218433-01c0-4f23-8c35-bd8fc3459528",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/90218433-01c0-4f23-8c35-bd8fc3459528/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "9099d738-6c54-4c1d-8e6a-6d78e7eb62f1",
@@ -2342,7 +2306,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/9099d738-6c54-4c1d-8e6a-6d78e7eb62f1",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/9099d738-6c54-4c1d-8e6a-6d78e7eb62f1/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "90ea24cc-c2fd-4ed0-8d13-ec6af46f91b7",
@@ -2360,7 +2324,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/90ea24cc-c2fd-4ed0-8d13-ec6af46f91b7",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/90ea24cc-c2fd-4ed0-8d13-ec6af46f91b7/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "91451ead-ccbb-4546-9e4c-f1320f928d2f",
@@ -2378,7 +2342,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/91451ead-ccbb-4546-9e4c-f1320f928d2f",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/91451ead-ccbb-4546-9e4c-f1320f928d2f/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "91de45cc-dfaf-4cc4-81ac-0cf4e75ae709",
@@ -2396,7 +2360,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/91de45cc-dfaf-4cc4-81ac-0cf4e75ae709",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/91de45cc-dfaf-4cc4-81ac-0cf4e75ae709/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "92d63083-f701-4369-bcb8-c7e7789e4bc5",
@@ -2414,7 +2378,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/92d63083-f701-4369-bcb8-c7e7789e4bc5",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/92d63083-f701-4369-bcb8-c7e7789e4bc5/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "97360d8f-bc99-4cea-a84c-e2caa4b60e8d",
@@ -2432,7 +2396,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/97360d8f-bc99-4cea-a84c-e2caa4b60e8d",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/97360d8f-bc99-4cea-a84c-e2caa4b60e8d/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "993c0f20-de09-4c3b-bc6c-b4c04d256489",
@@ -2450,7 +2414,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/993c0f20-de09-4c3b-bc6c-b4c04d256489",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/993c0f20-de09-4c3b-bc6c-b4c04d256489/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "993d2b50-0085-4c47-82a3-5dbf3002e11e",
@@ -2468,7 +2432,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/993d2b50-0085-4c47-82a3-5dbf3002e11e",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/993d2b50-0085-4c47-82a3-5dbf3002e11e/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "99923807-f399-4d89-b21c-1c38cea763e4",
@@ -2486,7 +2450,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/99923807-f399-4d89-b21c-1c38cea763e4",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/99923807-f399-4d89-b21c-1c38cea763e4/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "99e2d5d7-ff6f-4e22-9c52-db6572a9c870",
@@ -2504,7 +2468,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/99e2d5d7-ff6f-4e22-9c52-db6572a9c870",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/99e2d5d7-ff6f-4e22-9c52-db6572a9c870/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "9bdf59f1-5e7f-4e21-93b7-cdb84b382c43",
@@ -2522,7 +2486,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/9bdf59f1-5e7f-4e21-93b7-cdb84b382c43",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/9bdf59f1-5e7f-4e21-93b7-cdb84b382c43/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "9f8c30df-280f-473d-8b18-f9cd917c5613",
@@ -2540,7 +2504,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/9f8c30df-280f-473d-8b18-f9cd917c5613",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/9f8c30df-280f-473d-8b18-f9cd917c5613/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "9ff051f7-57bb-442a-8242-fe1bf6e571e6",
@@ -2558,7 +2522,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/9ff051f7-57bb-442a-8242-fe1bf6e571e6",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/9ff051f7-57bb-442a-8242-fe1bf6e571e6/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "a0678a70-69c2-46b4-a457-60c15de49996",
@@ -2576,7 +2540,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/a0678a70-69c2-46b4-a457-60c15de49996",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/a0678a70-69c2-46b4-a457-60c15de49996/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "a136a268-0804-44de-92ac-c641375ffc8e",
@@ -2594,7 +2558,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/a136a268-0804-44de-92ac-c641375ffc8e",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/a136a268-0804-44de-92ac-c641375ffc8e/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "a21aaacb-462c-40c0-9469-308357cd614c",
@@ -2612,7 +2576,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/a21aaacb-462c-40c0-9469-308357cd614c",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/a21aaacb-462c-40c0-9469-308357cd614c/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "a383aa10-dea8-462d-b5dd-a0e4190a3928",
@@ -2630,7 +2594,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/a383aa10-dea8-462d-b5dd-a0e4190a3928",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/a383aa10-dea8-462d-b5dd-a0e4190a3928/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "a3d2e847-1f46-44c2-a2e7-0c76ea41a1df",
@@ -2648,7 +2612,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/a3d2e847-1f46-44c2-a2e7-0c76ea41a1df",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/a3d2e847-1f46-44c2-a2e7-0c76ea41a1df/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "a68f002a-ccf9-4c88-8112-7a4bf64aa899",
@@ -2666,7 +2630,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/a68f002a-ccf9-4c88-8112-7a4bf64aa899",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/a68f002a-ccf9-4c88-8112-7a4bf64aa899/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "a6eb1567-5ed9-4a0e-a310-2ea32cdc5519",
@@ -2684,7 +2648,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/a6eb1567-5ed9-4a0e-a310-2ea32cdc5519",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/a6eb1567-5ed9-4a0e-a310-2ea32cdc5519/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "a944ee9a-bdef-49e9-9c99-7ad943b1949c",
@@ -2702,7 +2666,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/a944ee9a-bdef-49e9-9c99-7ad943b1949c",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/a944ee9a-bdef-49e9-9c99-7ad943b1949c/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "a992c83d-ddbd-411e-9463-bf5c0df8c1e3",
@@ -2720,7 +2684,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/a992c83d-ddbd-411e-9463-bf5c0df8c1e3",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/a992c83d-ddbd-411e-9463-bf5c0df8c1e3/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "abade34e-54fe-4327-a926-10310e380056",
@@ -2738,7 +2702,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/abade34e-54fe-4327-a926-10310e380056",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/abade34e-54fe-4327-a926-10310e380056/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "acec9196-4b7e-4f00-b869-366bac84a776",
@@ -2756,7 +2720,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/acec9196-4b7e-4f00-b869-366bac84a776",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/acec9196-4b7e-4f00-b869-366bac84a776/apply?pure=1",
       "first_seen": "2026-11-21T14:37:10Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "acf9b694-4d41-4d4e-8972-33e2025f4e60",
@@ -2774,7 +2738,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/acf9b694-4d41-4d4e-8972-33e2025f4e60",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/acf9b694-4d41-4d4e-8972-33e2025f4e60/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "ad33f293-8a80-45c0-af46-75eb736f86a0",
@@ -2792,7 +2756,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/ad33f293-8a80-45c0-af46-75eb736f86a0",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/ad33f293-8a80-45c0-af46-75eb736f86a0/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "aeab6953-7079-478f-a425-f35109edbf07",
@@ -2810,7 +2774,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/aeab6953-7079-478f-a425-f35109edbf07",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/aeab6953-7079-478f-a425-f35109edbf07/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "aede041c-7bf4-4d0f-ab80-b99b4fd5b680",
@@ -2828,7 +2792,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/aede041c-7bf4-4d0f-ab80-b99b4fd5b680",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/aede041c-7bf4-4d0f-ab80-b99b4fd5b680/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "afc63863-642d-4fc4-ac55-eddfa29614ce",
@@ -2846,7 +2810,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/afc63863-642d-4fc4-ac55-eddfa29614ce",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/afc63863-642d-4fc4-ac55-eddfa29614ce/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "b1e53ca3-ede6-4d34-bbde-5dbaf7676d7f",
@@ -2864,7 +2828,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/b1e53ca3-ede6-4d34-bbde-5dbaf7676d7f",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/b1e53ca3-ede6-4d34-bbde-5dbaf7676d7f/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "b2753982-c32e-4083-a2c9-016eded0218c",
@@ -2882,7 +2846,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/b2753982-c32e-4083-a2c9-016eded0218c",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/b2753982-c32e-4083-a2c9-016eded0218c/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "b309dc86-38ed-4041-a185-1aba4f187070",
@@ -2900,7 +2864,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/b309dc86-38ed-4041-a185-1aba4f187070",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/b309dc86-38ed-4041-a185-1aba4f187070/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "b470d5d6-379b-415a-8c93-5dc025e62df5",
@@ -2918,7 +2882,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/b470d5d6-379b-415a-8c93-5dc025e62df5",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/b470d5d6-379b-415a-8c93-5dc025e62df5/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "b4a41f9c-2007-4315-9a84-9df5177bd4eb",
@@ -2936,7 +2900,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/b4a41f9c-2007-4315-9a84-9df5177bd4eb",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/b4a41f9c-2007-4315-9a84-9df5177bd4eb/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "b4b85bbc-c252-4fad-99f6-257460973394",
@@ -2954,7 +2918,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/b4b85bbc-c252-4fad-99f6-257460973394",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/b4b85bbc-c252-4fad-99f6-257460973394/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "b4bbfc90-e87e-425e-8d57-fae887791f87",
@@ -2972,7 +2936,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/b4bbfc90-e87e-425e-8d57-fae887791f87",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/b4bbfc90-e87e-425e-8d57-fae887791f87/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "b5f7ac40-032f-4ce6-a728-ee48446ad509",
@@ -2990,7 +2954,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/b5f7ac40-032f-4ce6-a728-ee48446ad509",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/b5f7ac40-032f-4ce6-a728-ee48446ad509/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "b71ba17c-49db-4e63-83ec-cef2430a71ff",
@@ -3008,7 +2972,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/b71ba17c-49db-4e63-83ec-cef2430a71ff",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/b71ba17c-49db-4e63-83ec-cef2430a71ff/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "b7904958-34dd-42ce-82be-fa0c482aef7f",
@@ -3026,7 +2990,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/b7904958-34dd-42ce-82be-fa0c482aef7f",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/b7904958-34dd-42ce-82be-fa0c482aef7f/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "b8f62ea9-df3b-474f-9190-237d6f86f81b",
@@ -3044,7 +3008,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/b8f62ea9-df3b-474f-9190-237d6f86f81b",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/b8f62ea9-df3b-474f-9190-237d6f86f81b/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "ba31ee9d-e7bd-4c94-83eb-4b9bf9d1bf32",
@@ -3062,7 +3026,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/ba31ee9d-e7bd-4c94-83eb-4b9bf9d1bf32",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/ba31ee9d-e7bd-4c94-83eb-4b9bf9d1bf32/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "baabbcae-a426-43c0-ab8b-272d7a1bf949",
@@ -3080,7 +3044,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/baabbcae-a426-43c0-ab8b-272d7a1bf949",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/baabbcae-a426-43c0-ab8b-272d7a1bf949/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "bb08af2c-02c9-4946-b193-47229a43b293",
@@ -3098,7 +3062,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/bb08af2c-02c9-4946-b193-47229a43b293",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/bb08af2c-02c9-4946-b193-47229a43b293/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "bbeac41f-6e55-4086-8ced-b0b11399cd36",
@@ -3116,7 +3080,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/bbeac41f-6e55-4086-8ced-b0b11399cd36",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/bbeac41f-6e55-4086-8ced-b0b11399cd36/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "bc7a50ad-58f5-409e-a966-62d8443aa283",
@@ -3134,7 +3098,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/bc7a50ad-58f5-409e-a966-62d8443aa283",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/bc7a50ad-58f5-409e-a966-62d8443aa283/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "bd9ad849-dc66-43bf-a63e-af77dc2d23ba",
@@ -3152,7 +3116,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/bd9ad849-dc66-43bf-a63e-af77dc2d23ba",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/bd9ad849-dc66-43bf-a63e-af77dc2d23ba/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "bdb9f5b1-2a15-45b3-b8ac-85c1ff84f775",
@@ -3170,7 +3134,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/bdb9f5b1-2a15-45b3-b8ac-85c1ff84f775",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/bdb9f5b1-2a15-45b3-b8ac-85c1ff84f775/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "bea938ef-e8c5-4bfc-b376-e7e8aaae0700",
@@ -3188,7 +3152,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/bea938ef-e8c5-4bfc-b376-e7e8aaae0700",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/bea938ef-e8c5-4bfc-b376-e7e8aaae0700/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "c0caa8dc-68e7-4240-9511-405d4f18eff1",
@@ -3206,7 +3170,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/c0caa8dc-68e7-4240-9511-405d4f18eff1",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/c0caa8dc-68e7-4240-9511-405d4f18eff1/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "c1ac903a-ecc1-4186-b085-468f004f34ad",
@@ -3224,7 +3188,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/c1ac903a-ecc1-4186-b085-468f004f34ad",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/c1ac903a-ecc1-4186-b085-468f004f34ad/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "c1e138eb-d68d-4711-b8ef-b92a7fd8a03f",
@@ -3242,7 +3206,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/c1e138eb-d68d-4711-b8ef-b92a7fd8a03f",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/c1e138eb-d68d-4711-b8ef-b92a7fd8a03f/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "c1f93a6e-157a-4504-b8b8-42c45531dc17",
@@ -3260,7 +3224,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/c1f93a6e-157a-4504-b8b8-42c45531dc17",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/c1f93a6e-157a-4504-b8b8-42c45531dc17/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "c3b6ee80-bf9a-402d-9b14-4a0555f94fc5",
@@ -3278,7 +3242,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/c3b6ee80-bf9a-402d-9b14-4a0555f94fc5",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/c3b6ee80-bf9a-402d-9b14-4a0555f94fc5/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "c4314a4b-c549-4427-9f15-c024d4c44e5f",
@@ -3296,7 +3260,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/c4314a4b-c549-4427-9f15-c024d4c44e5f",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/c4314a4b-c549-4427-9f15-c024d4c44e5f/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "c4953b09-92a6-464a-80e1-ede23a0a1bf1",
@@ -3314,7 +3278,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/c4953b09-92a6-464a-80e1-ede23a0a1bf1",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/c4953b09-92a6-464a-80e1-ede23a0a1bf1/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "c49ce187-f2a7-4130-b3ec-62a6a8d74c8b",
@@ -3332,7 +3296,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/c49ce187-f2a7-4130-b3ec-62a6a8d74c8b",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/c49ce187-f2a7-4130-b3ec-62a6a8d74c8b/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "c5396f79-9fb3-458e-8984-412a5633d396",
@@ -3350,7 +3314,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/c5396f79-9fb3-458e-8984-412a5633d396",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/c5396f79-9fb3-458e-8984-412a5633d396/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "c5c33f0f-b9ed-4948-b32d-063ee54227d4",
@@ -3368,7 +3332,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/c5c33f0f-b9ed-4948-b32d-063ee54227d4",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/c5c33f0f-b9ed-4948-b32d-063ee54227d4/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "c620a788-78bb-4fde-9f33-765b690b7ff2",
@@ -3386,7 +3350,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/c620a788-78bb-4fde-9f33-765b690b7ff2",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/c620a788-78bb-4fde-9f33-765b690b7ff2/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "c69cf39c-257d-4541-8e78-8e78a507a9da",
@@ -3399,12 +3363,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-14",
-      "updated": "2026-10-14",
+      "updated": "2026-11-25",
       "deadline": "",
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/c69cf39c-257d-4541-8e78-8e78a507a9da",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/c69cf39c-257d-4541-8e78-8e78a507a9da/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "c76078de-78c1-4d70-8345-c42763c0377c",
@@ -3422,7 +3386,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/c76078de-78c1-4d70-8345-c42763c0377c",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/c76078de-78c1-4d70-8345-c42763c0377c/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "c7cc684b-5013-4915-9d52-a4dcf796f136",
@@ -3440,7 +3404,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/c7cc684b-5013-4915-9d52-a4dcf796f136",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/c7cc684b-5013-4915-9d52-a4dcf796f136/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "cab144c1-13de-4447-8d71-91efec456fc9",
@@ -3458,7 +3422,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/cab144c1-13de-4447-8d71-91efec456fc9",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/cab144c1-13de-4447-8d71-91efec456fc9/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "cc1f8dfa-772d-4aff-afab-34b4e99e9c69",
@@ -3476,7 +3440,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/cc1f8dfa-772d-4aff-afab-34b4e99e9c69",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/cc1f8dfa-772d-4aff-afab-34b4e99e9c69/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "cd4b34b0-7072-418f-b4d1-f28b6908d17e",
@@ -3494,7 +3458,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/cd4b34b0-7072-418f-b4d1-f28b6908d17e",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/cd4b34b0-7072-418f-b4d1-f28b6908d17e/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "cdb36b63-77e6-422d-ba11-ee631128bc95",
@@ -3512,7 +3476,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/cdb36b63-77e6-422d-ba11-ee631128bc95",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/cdb36b63-77e6-422d-ba11-ee631128bc95/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "cdb8e657-3cbf-41d5-a28d-513c195b9a4b",
@@ -3530,7 +3494,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/cdb8e657-3cbf-41d5-a28d-513c195b9a4b",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/cdb8e657-3cbf-41d5-a28d-513c195b9a4b/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "cf224e02-f0ef-4b28-949f-db49c9f25b03",
@@ -3548,7 +3512,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/cf224e02-f0ef-4b28-949f-db49c9f25b03",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/cf224e02-f0ef-4b28-949f-db49c9f25b03/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "cf436a22-d165-4764-846a-94ac5aab6762",
@@ -3566,7 +3530,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/cf436a22-d165-4764-846a-94ac5aab6762",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/cf436a22-d165-4764-846a-94ac5aab6762/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "cf504723-4bdc-45a4-91cd-c4616f6af6fc",
@@ -3584,7 +3548,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/cf504723-4bdc-45a4-91cd-c4616f6af6fc",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/cf504723-4bdc-45a4-91cd-c4616f6af6fc/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "cfa1caed-1d87-42a8-9f77-93daa1638cf6",
@@ -3602,7 +3566,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/cfa1caed-1d87-42a8-9f77-93daa1638cf6",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/cfa1caed-1d87-42a8-9f77-93daa1638cf6/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "d2466d51-e6d3-4891-938a-d43eaa44aaef",
@@ -3620,7 +3584,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/d2466d51-e6d3-4891-938a-d43eaa44aaef",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/d2466d51-e6d3-4891-938a-d43eaa44aaef/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "d3ed78e2-6d51-4266-a307-cad6362ca126",
@@ -3638,7 +3602,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/d3ed78e2-6d51-4266-a307-cad6362ca126",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/d3ed78e2-6d51-4266-a307-cad6362ca126/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "d3f1c2dc-0443-437c-931e-fd48c0a7631c",
@@ -3656,7 +3620,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/d3f1c2dc-0443-437c-931e-fd48c0a7631c",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/d3f1c2dc-0443-437c-931e-fd48c0a7631c/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "d7e5a3e7-e31b-4122-892d-57b11f24a12a",
@@ -3674,7 +3638,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/d7e5a3e7-e31b-4122-892d-57b11f24a12a",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/d7e5a3e7-e31b-4122-892d-57b11f24a12a/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "d84d40c5-27f7-4fc1-84fc-eb124fbfba3f",
@@ -3692,7 +3656,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/d84d40c5-27f7-4fc1-84fc-eb124fbfba3f",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/d84d40c5-27f7-4fc1-84fc-eb124fbfba3f/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "da02b37c-d402-4ece-9a0f-18822b1bf41d",
@@ -3710,7 +3674,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/da02b37c-d402-4ece-9a0f-18822b1bf41d",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/da02b37c-d402-4ece-9a0f-18822b1bf41d/apply?pure=1",
       "first_seen": "2026-11-18T15:36:26Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "db319942-009f-40ae-b50c-c3633affbab2",
@@ -3728,7 +3692,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/db319942-009f-40ae-b50c-c3633affbab2",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/db319942-009f-40ae-b50c-c3633affbab2/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "dc03b557-2e3a-41d7-98fc-c1e16bfe3f91",
@@ -3746,7 +3710,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/dc03b557-2e3a-41d7-98fc-c1e16bfe3f91",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/dc03b557-2e3a-41d7-98fc-c1e16bfe3f91/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "dc266641-5ea5-426f-986a-818829435110",
@@ -3764,7 +3728,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/dc266641-5ea5-426f-986a-818829435110",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/dc266641-5ea5-426f-986a-818829435110/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "dc8c042e-909e-4751-bba4-44c4a622c5d1",
@@ -3782,7 +3746,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/dc8c042e-909e-4751-bba4-44c4a622c5d1",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/dc8c042e-909e-4751-bba4-44c4a622c5d1/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "dca52f2d-42b5-4394-b254-1c04f0772a53",
@@ -3800,7 +3764,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/dca52f2d-42b5-4394-b254-1c04f0772a53",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/dca52f2d-42b5-4394-b254-1c04f0772a53/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "dd495475-b243-46d8-938e-1e6cc4204f1d",
@@ -3818,7 +3782,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/dd495475-b243-46d8-938e-1e6cc4204f1d",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/dd495475-b243-46d8-938e-1e6cc4204f1d/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "dd5c0bf5-00ff-4eb0-942e-512e0320eb9b",
@@ -3836,7 +3800,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/dd5c0bf5-00ff-4eb0-942e-512e0320eb9b",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/dd5c0bf5-00ff-4eb0-942e-512e0320eb9b/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "ddc798da-20d8-445c-8aaf-130e3ac642be",
@@ -3854,7 +3818,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/ddc798da-20d8-445c-8aaf-130e3ac642be",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/ddc798da-20d8-445c-8aaf-130e3ac642be/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "de6c1195-f519-413f-b6ce-715f9b8cd4fd",
@@ -3872,7 +3836,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/de6c1195-f519-413f-b6ce-715f9b8cd4fd",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/de6c1195-f519-413f-b6ce-715f9b8cd4fd/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "def23cc3-f390-4465-9ae0-7ff4b5709962",
@@ -3890,7 +3854,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/def23cc3-f390-4465-9ae0-7ff4b5709962",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/def23cc3-f390-4465-9ae0-7ff4b5709962/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "df6df2d4-214d-419f-9139-fdf468771c45",
@@ -3908,7 +3872,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/df6df2d4-214d-419f-9139-fdf468771c45",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/df6df2d4-214d-419f-9139-fdf468771c45/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "dfc30d06-96cc-4501-9699-f8524a0b599a",
@@ -3926,7 +3890,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/dfc30d06-96cc-4501-9699-f8524a0b599a",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/dfc30d06-96cc-4501-9699-f8524a0b599a/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "e21a6310-44d2-46cc-a04f-26ad55e3be34",
@@ -3944,7 +3908,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/e21a6310-44d2-46cc-a04f-26ad55e3be34",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/e21a6310-44d2-46cc-a04f-26ad55e3be34/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "e2947e1b-7349-411d-80d3-cd407e2837a6",
@@ -3962,7 +3926,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/e2947e1b-7349-411d-80d3-cd407e2837a6",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/e2947e1b-7349-411d-80d3-cd407e2837a6/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "e33cb702-e30f-4615-bbd5-a4fd7b71e3c3",
@@ -3980,7 +3944,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/e33cb702-e30f-4615-bbd5-a4fd7b71e3c3",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/e33cb702-e30f-4615-bbd5-a4fd7b71e3c3/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "e3e78210-48da-49c4-bc3f-9ab9b4da22e4",
@@ -3998,7 +3962,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/e3e78210-48da-49c4-bc3f-9ab9b4da22e4",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/e3e78210-48da-49c4-bc3f-9ab9b4da22e4/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "e622fd18-58a7-4ba6-98de-d5196460888b",
@@ -4016,7 +3980,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/e622fd18-58a7-4ba6-98de-d5196460888b",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/e622fd18-58a7-4ba6-98de-d5196460888b/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "e7663818-9d02-4c0c-9f80-a80244145178",
@@ -4034,7 +3998,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/e7663818-9d02-4c0c-9f80-a80244145178",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/e7663818-9d02-4c0c-9f80-a80244145178/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "e8219258-c2ca-405c-85fe-f02495597560",
@@ -4052,7 +4016,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/e8219258-c2ca-405c-85fe-f02495597560",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/e8219258-c2ca-405c-85fe-f02495597560/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "e8b69635-340a-4809-919f-b109b8d85b73",
@@ -4070,7 +4034,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/e8b69635-340a-4809-919f-b109b8d85b73",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/e8b69635-340a-4809-919f-b109b8d85b73/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "e8f02a64-a0c2-4250-beb1-10d907d604f8",
@@ -4088,25 +4052,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/e8f02a64-a0c2-4250-beb1-10d907d604f8",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/e8f02a64-a0c2-4250-beb1-10d907d604f8/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
-    },
-    {
-      "id": "e9b1cdf2-038a-443f-9171-7cf35f53d2ca",
-      "title": "营运岗（商业航道杭州万象城-直管门店）",
-      "company": "华润万象生活",
-      "location": "杭州市, 浙江, 中国",
-      "remote": "unspecified",
-      "department": "杭州万象城-营运部1003522",
-      "employment_type": "FULL_TIME",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-10-12",
-      "updated": "2026-10-14",
-      "deadline": "",
-      "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/e9b1cdf2-038a-443f-9171-7cf35f53d2ca",
-      "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/e9b1cdf2-038a-443f-9171-7cf35f53d2ca/apply?pure=1",
-      "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "eaa06e26-9ef6-48d5-a18a-7838bc1ce0b2",
@@ -4124,7 +4070,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/eaa06e26-9ef6-48d5-a18a-7838bc1ce0b2",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/eaa06e26-9ef6-48d5-a18a-7838bc1ce0b2/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "ebbfc16b-aec5-48ea-bb0d-df464043d2c5",
@@ -4142,7 +4088,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/ebbfc16b-aec5-48ea-bb0d-df464043d2c5",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/ebbfc16b-aec5-48ea-bb0d-df464043d2c5/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "ec4699fa-1229-4b00-99e0-897ec66adb44",
@@ -4160,7 +4106,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/ec4699fa-1229-4b00-99e0-897ec66adb44",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/ec4699fa-1229-4b00-99e0-897ec66adb44/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "ec8c6fca-7afe-4e62-b412-b13b35799902",
@@ -4178,7 +4124,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/ec8c6fca-7afe-4e62-b412-b13b35799902",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/ec8c6fca-7afe-4e62-b412-b13b35799902/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "ecb73915-84a7-44b1-8099-531693e63b14",
@@ -4196,7 +4142,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/ecb73915-84a7-44b1-8099-531693e63b14",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/ecb73915-84a7-44b1-8099-531693e63b14/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "ed5527ba-ed98-4a70-a11d-0cabcc0377bf",
@@ -4214,7 +4160,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/ed5527ba-ed98-4a70-a11d-0cabcc0377bf",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/ed5527ba-ed98-4a70-a11d-0cabcc0377bf/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "ed64dcd4-03cc-4396-a686-2eff1034b827",
@@ -4232,7 +4178,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/ed64dcd4-03cc-4396-a686-2eff1034b827",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/ed64dcd4-03cc-4396-a686-2eff1034b827/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "ed91757a-490b-4926-add2-ae2d5482f827",
@@ -4250,7 +4196,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/ed91757a-490b-4926-add2-ae2d5482f827",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/ed91757a-490b-4926-add2-ae2d5482f827/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "ef4f765b-df31-406d-86f0-2ebf425c6b5c",
@@ -4268,7 +4214,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/ef4f765b-df31-406d-86f0-2ebf425c6b5c",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/ef4f765b-df31-406d-86f0-2ebf425c6b5c/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "ef7c39ba-4dcb-4c38-ad3d-4ae5c4f99b95",
@@ -4286,7 +4232,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/ef7c39ba-4dcb-4c38-ad3d-4ae5c4f99b95",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/ef7c39ba-4dcb-4c38-ad3d-4ae5c4f99b95/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "efb751d1-8244-4fca-a5b2-25d4f79231f0",
@@ -4304,7 +4250,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/efb751d1-8244-4fca-a5b2-25d4f79231f0",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/efb751d1-8244-4fca-a5b2-25d4f79231f0/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "f001bab2-7d54-4f79-bbe8-35d453f07ee8",
@@ -4322,7 +4268,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/f001bab2-7d54-4f79-bbe8-35d453f07ee8",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/f001bab2-7d54-4f79-bbe8-35d453f07ee8/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "f17f1181-09f6-4d0f-abc2-1bc0a729de62",
@@ -4340,7 +4286,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/f17f1181-09f6-4d0f-abc2-1bc0a729de62",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/f17f1181-09f6-4d0f-abc2-1bc0a729de62/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "f286a6cb-0efa-437d-a042-3ebc20c7fdfa",
@@ -4358,7 +4304,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/f286a6cb-0efa-437d-a042-3ebc20c7fdfa",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/f286a6cb-0efa-437d-a042-3ebc20c7fdfa/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "f42613d3-06c6-4089-8262-9fc0fe220d81",
@@ -4376,7 +4322,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/f42613d3-06c6-4089-8262-9fc0fe220d81",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/f42613d3-06c6-4089-8262-9fc0fe220d81/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "f547417d-809f-44ef-842a-783efab6d183",
@@ -4394,7 +4340,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/f547417d-809f-44ef-842a-783efab6d183",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/f547417d-809f-44ef-842a-783efab6d183/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "f56a6ad2-6f80-457c-8b54-5192fb3f82c3",
@@ -4412,7 +4358,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/f56a6ad2-6f80-457c-8b54-5192fb3f82c3",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/f56a6ad2-6f80-457c-8b54-5192fb3f82c3/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "f611fff0-cedd-4a28-bf41-380ad6827c8c",
@@ -4430,7 +4376,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/f611fff0-cedd-4a28-bf41-380ad6827c8c",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/f611fff0-cedd-4a28-bf41-380ad6827c8c/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "f8191729-16b4-47d5-8e29-ff760ba92ea7",
@@ -4448,7 +4394,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/f8191729-16b4-47d5-8e29-ff760ba92ea7",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/f8191729-16b4-47d5-8e29-ff760ba92ea7/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "f8a9938e-0897-4d09-ac41-7c26e407b729",
@@ -4466,7 +4412,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/f8a9938e-0897-4d09-ac41-7c26e407b729",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/f8a9938e-0897-4d09-ac41-7c26e407b729/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "f922828a-b0fc-4e5a-b130-966bd5b3abfe",
@@ -4484,7 +4430,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/f922828a-b0fc-4e5a-b130-966bd5b3abfe",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/f922828a-b0fc-4e5a-b130-966bd5b3abfe/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "f987eaab-634d-4396-beae-3edebfb29de7",
@@ -4502,7 +4448,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/f987eaab-634d-4396-beae-3edebfb29de7",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/f987eaab-634d-4396-beae-3edebfb29de7/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "fb1d3880-cc67-4383-b20d-be33694a75c5",
@@ -4520,7 +4466,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/fb1d3880-cc67-4383-b20d-be33694a75c5",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/fb1d3880-cc67-4383-b20d-be33694a75c5/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "fb3d9a03-dd3c-46fa-9826-1d80f44ac3f2",
@@ -4538,7 +4484,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/fb3d9a03-dd3c-46fa-9826-1d80f44ac3f2",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/fb3d9a03-dd3c-46fa-9826-1d80f44ac3f2/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "fbf5cc00-5054-40bf-9f27-9e9da48d8f35",
@@ -4556,7 +4502,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/fbf5cc00-5054-40bf-9f27-9e9da48d8f35",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/fbf5cc00-5054-40bf-9f27-9e9da48d8f35/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "ff13eb4d-a0e7-414b-bdf7-1b379d242e87",
@@ -4574,7 +4520,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/ff13eb4d-a0e7-414b-bdf7-1b379d242e87",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/ff13eb4d-a0e7-414b-bdf7-1b379d242e87/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "ff4c289a-e57d-4e02-9d1f-a1f3a3bc5973",
@@ -4592,7 +4538,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/ff4c289a-e57d-4e02-9d1f-a1f3a3bc5973",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/ff4c289a-e57d-4e02-9d1f-a1f3a3bc5973/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "ff6d4145-5ba4-47f8-86c1-b63a40c6d40c",
@@ -4610,7 +4556,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/crland/143066#/job/ff6d4145-5ba4-47f8-86c1-b63a40c6d40c",
       "apply_url": "https://app.mokahr.com/apply/crland/143066#/job/ff6d4145-5ba4-47f8-86c1-b63a40c6d40c/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     }
   ],
   "ats": "moka",

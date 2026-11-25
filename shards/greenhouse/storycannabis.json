@@ -1,8 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-24T17:38:09Z",
+  "checked_at": "2026-11-25T17:09:22Z",
   "failed_at": null,
-  "etag": "W/\"134acfac994ffbae139229dad89afd38\"",
+  "etag": "W/\"b855b8b0f90b001f150edb41d3a57aef\"",
   "jobs": [
     {
       "id": "5419395008",
@@ -20,7 +20,7 @@
       "source_url": "https://job-boards.greenhouse.io/storycannabis/jobs/5419395008",
       "apply_url": "https://job-boards.greenhouse.io/storycannabis/jobs/5419395008",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "5432787008",
@@ -38,7 +38,7 @@
       "source_url": "https://job-boards.greenhouse.io/storycannabis/jobs/5432787008",
       "apply_url": "https://job-boards.greenhouse.io/storycannabis/jobs/5432787008",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "5435228008",
@@ -56,7 +56,7 @@
       "source_url": "https://job-boards.greenhouse.io/storycannabis/jobs/5435228008",
       "apply_url": "https://job-boards.greenhouse.io/storycannabis/jobs/5435228008",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "5439993008",
@@ -74,7 +74,7 @@
       "source_url": "https://job-boards.greenhouse.io/storycannabis/jobs/5439993008",
       "apply_url": "https://job-boards.greenhouse.io/storycannabis/jobs/5439993008",
       "first_seen": "2026-11-24T17:38:09Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "5440873008",
@@ -92,7 +92,7 @@
       "source_url": "https://job-boards.greenhouse.io/storycannabis/jobs/5440873008",
       "apply_url": "https://job-boards.greenhouse.io/storycannabis/jobs/5440873008",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "5443650008",
@@ -110,7 +110,7 @@
       "source_url": "https://job-boards.greenhouse.io/storycannabis/jobs/5443650008",
       "apply_url": "https://job-boards.greenhouse.io/storycannabis/jobs/5443650008",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "5443789008",
@@ -128,7 +128,7 @@
       "source_url": "https://job-boards.greenhouse.io/storycannabis/jobs/5443789008",
       "apply_url": "https://job-boards.greenhouse.io/storycannabis/jobs/5443789008",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "5451503008",
@@ -146,7 +146,7 @@
       "source_url": "https://job-boards.greenhouse.io/storycannabis/jobs/5451503008",
       "apply_url": "https://job-boards.greenhouse.io/storycannabis/jobs/5451503008",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "5451511008",
@@ -164,7 +164,7 @@
       "source_url": "https://job-boards.greenhouse.io/storycannabis/jobs/5451511008",
       "apply_url": "https://job-boards.greenhouse.io/storycannabis/jobs/5451511008",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "5459276008",
@@ -182,7 +182,7 @@
       "source_url": "https://job-boards.greenhouse.io/storycannabis/jobs/5459276008",
       "apply_url": "https://job-boards.greenhouse.io/storycannabis/jobs/5459276008",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "5460378008",
@@ -200,7 +200,7 @@
       "source_url": "https://job-boards.greenhouse.io/storycannabis/jobs/5460378008",
       "apply_url": "https://job-boards.greenhouse.io/storycannabis/jobs/5460378008",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "5463998008",
@@ -218,7 +218,7 @@
       "source_url": "https://job-boards.greenhouse.io/storycannabis/jobs/5463998008",
       "apply_url": "https://job-boards.greenhouse.io/storycannabis/jobs/5463998008",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "5464639008",
@@ -236,7 +236,7 @@
       "source_url": "https://job-boards.greenhouse.io/storycannabis/jobs/5464639008",
       "apply_url": "https://job-boards.greenhouse.io/storycannabis/jobs/5464639008",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "5466596008",
@@ -254,7 +254,7 @@
       "source_url": "https://job-boards.greenhouse.io/storycannabis/jobs/5466596008",
       "apply_url": "https://job-boards.greenhouse.io/storycannabis/jobs/5466596008",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "5468836008",
@@ -272,7 +272,7 @@
       "source_url": "https://job-boards.greenhouse.io/storycannabis/jobs/5468836008",
       "apply_url": "https://job-boards.greenhouse.io/storycannabis/jobs/5468836008",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "5469703008",
@@ -290,7 +290,7 @@
       "source_url": "https://job-boards.greenhouse.io/storycannabis/jobs/5469703008",
       "apply_url": "https://job-boards.greenhouse.io/storycannabis/jobs/5469703008",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "5475466008",
@@ -308,7 +308,7 @@
       "source_url": "https://job-boards.greenhouse.io/storycannabis/jobs/5475466008",
       "apply_url": "https://job-boards.greenhouse.io/storycannabis/jobs/5475466008",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "5475695008",
@@ -326,7 +326,7 @@
       "source_url": "https://job-boards.greenhouse.io/storycannabis/jobs/5475695008",
       "apply_url": "https://job-boards.greenhouse.io/storycannabis/jobs/5475695008",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "5475705008",
@@ -344,7 +344,7 @@
       "source_url": "https://job-boards.greenhouse.io/storycannabis/jobs/5475705008",
       "apply_url": "https://job-boards.greenhouse.io/storycannabis/jobs/5475705008",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "5476005008",
@@ -362,7 +362,7 @@
       "source_url": "https://job-boards.greenhouse.io/storycannabis/jobs/5476005008",
       "apply_url": "https://job-boards.greenhouse.io/storycannabis/jobs/5476005008",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "5478867008",
@@ -380,7 +380,7 @@
       "source_url": "https://job-boards.greenhouse.io/storycannabis/jobs/5478867008",
       "apply_url": "https://job-boards.greenhouse.io/storycannabis/jobs/5478867008",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "5481721008",
@@ -398,7 +398,7 @@
       "source_url": "https://job-boards.greenhouse.io/storycannabis/jobs/5481721008",
       "apply_url": "https://job-boards.greenhouse.io/storycannabis/jobs/5481721008",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "5481765008",
@@ -416,7 +416,7 @@
       "source_url": "https://job-boards.greenhouse.io/storycannabis/jobs/5481765008",
       "apply_url": "https://job-boards.greenhouse.io/storycannabis/jobs/5481765008",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "5482213008",
@@ -434,7 +434,7 @@
       "source_url": "https://job-boards.greenhouse.io/storycannabis/jobs/5482213008",
       "apply_url": "https://job-boards.greenhouse.io/storycannabis/jobs/5482213008",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "5483222008",
@@ -452,7 +452,7 @@
       "source_url": "https://job-boards.greenhouse.io/storycannabis/jobs/5483222008",
       "apply_url": "https://job-boards.greenhouse.io/storycannabis/jobs/5483222008",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "5483236008",
@@ -470,25 +470,7 @@
       "source_url": "https://job-boards.greenhouse.io/storycannabis/jobs/5483236008",
       "apply_url": "https://job-boards.greenhouse.io/storycannabis/jobs/5483236008",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
-    },
-    {
-      "id": "5484088008",
-      "title": "Retail Associate - Part Time",
-      "company": "Story Cannabis",
-      "location": "Bullhead City, AZ",
-      "remote": "unspecified",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-11-16",
-      "updated": "2026-11-16",
-      "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/storycannabis/jobs/5484088008",
-      "apply_url": "https://job-boards.greenhouse.io/storycannabis/jobs/5484088008",
-      "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "5485400008",
@@ -506,7 +488,7 @@
       "source_url": "https://job-boards.greenhouse.io/storycannabis/jobs/5485400008",
       "apply_url": "https://job-boards.greenhouse.io/storycannabis/jobs/5485400008",
       "first_seen": "2026-11-18T15:36:26Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "5485930008",
@@ -524,7 +506,7 @@
       "source_url": "https://job-boards.greenhouse.io/storycannabis/jobs/5485930008",
       "apply_url": "https://job-boards.greenhouse.io/storycannabis/jobs/5485930008",
       "first_seen": "2026-11-18T15:36:26Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "5489451008",
@@ -542,7 +524,7 @@
       "source_url": "https://job-boards.greenhouse.io/storycannabis/jobs/5489451008",
       "apply_url": "https://job-boards.greenhouse.io/storycannabis/jobs/5489451008",
       "first_seen": "2026-11-19T15:42:04Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "5491530008",
@@ -560,25 +542,25 @@
       "source_url": "https://job-boards.greenhouse.io/storycannabis/jobs/5491530008",
       "apply_url": "https://job-boards.greenhouse.io/storycannabis/jobs/5491530008",
       "first_seen": "2026-11-21T14:37:10Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
-      "id": "5492033008",
-      "title": "Inventory Associate",
+      "id": "5494148008",
+      "title": "Story Cannabis Hiring Event – Columbus & Dublin Locations",
       "company": "Story Cannabis",
-      "location": "South Chandler, AZ",
+      "location": "Columbus, OH - Dublin Granville Road; Dublin, OH",
       "remote": "unspecified",
       "department": "",
       "employment_type": "",
       "salary_text": "",
       "salary_source": "",
-      "posted": "2026-11-23",
-      "updated": "2026-11-23",
+      "posted": "2026-11-25",
+      "updated": "2026-11-25",
       "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/storycannabis/jobs/5492033008",
-      "apply_url": "https://job-boards.greenhouse.io/storycannabis/jobs/5492033008",
-      "first_seen": "2026-11-23T18:00:07Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "source_url": "https://job-boards.greenhouse.io/storycannabis/jobs/5494148008",
+      "apply_url": "https://job-boards.greenhouse.io/storycannabis/jobs/5494148008",
+      "first_seen": "2026-11-25T17:09:22Z",
+      "last_checked": "2026-11-25T17:09:22Z"
     }
   ],
   "ats": "greenhouse",

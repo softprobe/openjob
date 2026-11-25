@@ -1,8 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-24T17:38:09Z",
+  "checked_at": "2026-11-25T17:09:22Z",
   "failed_at": null,
-  "etag": "W/\"677fc072a7952c4d13e0cb64b8c757b2\"",
+  "etag": "W/\"48b50a01923e881a22459fa2ad665aa8\"",
   "jobs": [
     {
       "id": "8336735",
@@ -20,11 +20,11 @@
       "source_url": "https://job-boards.greenhouse.io/qualia/jobs/8336735",
       "apply_url": "https://job-boards.greenhouse.io/qualia/jobs/8336735",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8336737",
-      "title": "Engineering Manager II, Cloud Security",
+      "title": "Engineering Manager 2, Cloud Security",
       "company": "Qualia",
       "location": "Austin, TX",
       "remote": "unspecified",
@@ -33,12 +33,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-03",
-      "updated": "2026-11-05",
+      "updated": "2026-11-25",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/qualia/jobs/8336737",
       "apply_url": "https://job-boards.greenhouse.io/qualia/jobs/8336737",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     }
   ],
   "ats": "greenhouse",

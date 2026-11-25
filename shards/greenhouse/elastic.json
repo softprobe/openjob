@@ -1,8 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-24T17:38:09Z",
+  "checked_at": "2026-11-25T17:09:22Z",
   "failed_at": null,
-  "etag": "W/\"4c60fd5fd31a9bdceb11f5f29f1824b0\"",
+  "etag": "W/\"0dd7d0be16d913cd73e1dfa8459eba92\"",
   "jobs": [
     {
       "id": "7349982",
@@ -20,7 +20,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=7349982&gh_jid=7349982",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=7349982&gh_jid=7349982",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "7447236",
@@ -38,7 +38,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=7447236&gh_jid=7447236",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=7447236&gh_jid=7447236",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "7447246",
@@ -56,7 +56,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=7447246&gh_jid=7447246",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=7447246&gh_jid=7447246",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "7447426",
@@ -74,7 +74,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=7447426&gh_jid=7447426",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=7447426&gh_jid=7447426",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "7602101",
@@ -92,7 +92,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=7602101&gh_jid=7602101",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=7602101&gh_jid=7602101",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "7621743",
@@ -110,11 +110,11 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=7621743&gh_jid=7621743",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=7621743&gh_jid=7621743",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "7673061",
-      "title": "Customer Architect - Barcelona",
+      "title": "Customer Architect - Barcelona (French Speaking)",
       "company": "Elastic",
       "location": "Barcelona, Spain",
       "remote": "unspecified",
@@ -123,12 +123,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-03-04",
-      "updated": "2026-11-20",
+      "updated": "2026-11-25",
       "deadline": "",
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=7673061&gh_jid=7673061",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=7673061&gh_jid=7673061",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "7712221",
@@ -146,7 +146,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=7712221&gh_jid=7712221",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=7712221&gh_jid=7712221",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "7712224",
@@ -164,7 +164,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=7712224&gh_jid=7712224",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=7712224&gh_jid=7712224",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "7723819",
@@ -182,7 +182,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=7723819&gh_jid=7723819",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=7723819&gh_jid=7723819",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "7768040",
@@ -200,7 +200,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=7768040&gh_jid=7768040",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=7768040&gh_jid=7768040",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "7769649",
@@ -218,7 +218,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=7769649&gh_jid=7769649",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=7769649&gh_jid=7769649",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "7776121",
@@ -236,7 +236,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=7776121&gh_jid=7776121",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=7776121&gh_jid=7776121",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "7784606",
@@ -254,7 +254,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=7784606&gh_jid=7784606",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=7784606&gh_jid=7784606",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "7802531",
@@ -272,7 +272,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=7802531&gh_jid=7802531",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=7802531&gh_jid=7802531",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "7812397",
@@ -290,7 +290,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=7812397&gh_jid=7812397",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=7812397&gh_jid=7812397",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "7821378",
@@ -308,7 +308,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=7821378&gh_jid=7821378",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=7821378&gh_jid=7821378",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "7960047",
@@ -326,7 +326,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=7960047&gh_jid=7960047",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=7960047&gh_jid=7960047",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "7995039",
@@ -344,7 +344,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=7995039&gh_jid=7995039",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=7995039&gh_jid=7995039",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8011801",
@@ -362,7 +362,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8011801&gh_jid=8011801",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8011801&gh_jid=8011801",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8018328",
@@ -380,7 +380,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8018328&gh_jid=8018328",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8018328&gh_jid=8018328",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8026175",
@@ -398,7 +398,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8026175&gh_jid=8026175",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8026175&gh_jid=8026175",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8028261",
@@ -416,7 +416,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8028261&gh_jid=8028261",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8028261&gh_jid=8028261",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8034945",
@@ -434,7 +434,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8034945&gh_jid=8034945",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8034945&gh_jid=8034945",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8035004",
@@ -452,7 +452,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8035004&gh_jid=8035004",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8035004&gh_jid=8035004",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8037179",
@@ -470,7 +470,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8037179&gh_jid=8037179",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8037179&gh_jid=8037179",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8040943",
@@ -488,7 +488,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8040943&gh_jid=8040943",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8040943&gh_jid=8040943",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8041202",
@@ -506,7 +506,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8041202&gh_jid=8041202",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8041202&gh_jid=8041202",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8041203",
@@ -524,7 +524,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8041203&gh_jid=8041203",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8041203&gh_jid=8041203",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8041208",
@@ -542,7 +542,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8041208&gh_jid=8041208",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8041208&gh_jid=8041208",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8041209",
@@ -560,7 +560,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8041209&gh_jid=8041209",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8041209&gh_jid=8041209",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8041211",
@@ -578,7 +578,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8041211&gh_jid=8041211",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8041211&gh_jid=8041211",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8045325",
@@ -596,7 +596,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8045325&gh_jid=8045325",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8045325&gh_jid=8045325",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8047165",
@@ -614,7 +614,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8047165&gh_jid=8047165",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8047165&gh_jid=8047165",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8053891",
@@ -632,7 +632,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8053891&gh_jid=8053891",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8053891&gh_jid=8053891",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8053905",
@@ -650,7 +650,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8053905&gh_jid=8053905",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8053905&gh_jid=8053905",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8055111",
@@ -668,7 +668,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8055111&gh_jid=8055111",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8055111&gh_jid=8055111",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8065489",
@@ -686,7 +686,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8065489&gh_jid=8065489",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8065489&gh_jid=8065489",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8066493",
@@ -704,7 +704,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8066493&gh_jid=8066493",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8066493&gh_jid=8066493",
       "first_seen": "2026-11-21T14:37:10Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8067085",
@@ -722,7 +722,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8067085&gh_jid=8067085",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8067085&gh_jid=8067085",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8067193",
@@ -740,7 +740,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8067193&gh_jid=8067193",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8067193&gh_jid=8067193",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8067200",
@@ -758,7 +758,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8067200&gh_jid=8067200",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8067200&gh_jid=8067200",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8068023",
@@ -776,7 +776,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8068023&gh_jid=8068023",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8068023&gh_jid=8068023",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8069178",
@@ -789,12 +789,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-14",
-      "updated": "2026-10-22",
+      "updated": "2026-11-25",
       "deadline": "",
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8069178&gh_jid=8069178",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8069178&gh_jid=8069178",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8070011",
@@ -812,7 +812,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8070011&gh_jid=8070011",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8070011&gh_jid=8070011",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8074285",
@@ -830,7 +830,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8074285&gh_jid=8074285",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8074285&gh_jid=8074285",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8074819",
@@ -848,7 +848,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8074819&gh_jid=8074819",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8074819&gh_jid=8074819",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8074820",
@@ -866,7 +866,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8074820&gh_jid=8074820",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8074820&gh_jid=8074820",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8075239",
@@ -884,7 +884,25 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8075239&gh_jid=8075239",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8075239&gh_jid=8075239",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
+    },
+    {
+      "id": "8079517",
+      "title": "Sr. Solutions Architect - Mid Market West (Presales)",
+      "company": "Elastic",
+      "location": "United States",
+      "remote": "unspecified",
+      "department": "",
+      "employment_type": "",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-24",
+      "updated": "2026-11-24",
+      "deadline": "",
+      "source_url": "https://jobs.elastic.co/jobs?gh_jid=8079517&gh_jid=8079517",
+      "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8079517&gh_jid=8079517",
+      "first_seen": "2026-11-25T17:09:22Z",
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8080862",
@@ -902,7 +920,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8080862&gh_jid=8080862",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8080862&gh_jid=8080862",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8082612",
@@ -920,7 +938,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8082612&gh_jid=8082612",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8082612&gh_jid=8082612",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8082617",
@@ -938,7 +956,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8082617&gh_jid=8082617",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8082617&gh_jid=8082617",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8088818",
@@ -956,7 +974,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8088818&gh_jid=8088818",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8088818&gh_jid=8088818",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8089209",
@@ -974,7 +992,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8089209&gh_jid=8089209",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8089209&gh_jid=8089209",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8089443",
@@ -992,7 +1010,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8089443&gh_jid=8089443",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8089443&gh_jid=8089443",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8092029",
@@ -1010,7 +1028,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8092029&gh_jid=8092029",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8092029&gh_jid=8092029",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8092084",
@@ -1028,7 +1046,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8092084&gh_jid=8092084",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8092084&gh_jid=8092084",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8092159",
@@ -1046,7 +1064,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8092159&gh_jid=8092159",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8092159&gh_jid=8092159",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8093275",
@@ -1064,7 +1082,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8093275&gh_jid=8093275",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8093275&gh_jid=8093275",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8093933",
@@ -1082,7 +1100,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8093933&gh_jid=8093933",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8093933&gh_jid=8093933",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8105634",
@@ -1100,7 +1118,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8105634&gh_jid=8105634",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8105634&gh_jid=8105634",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8107090",
@@ -1118,7 +1136,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8107090&gh_jid=8107090",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8107090&gh_jid=8107090",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8108689",
@@ -1136,7 +1154,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8108689&gh_jid=8108689",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8108689&gh_jid=8108689",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8111756",
@@ -1154,7 +1172,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8111756&gh_jid=8111756",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8111756&gh_jid=8111756",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8119448",
@@ -1172,7 +1190,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8119448&gh_jid=8119448",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8119448&gh_jid=8119448",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8119450",
@@ -1190,7 +1208,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8119450&gh_jid=8119450",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8119450&gh_jid=8119450",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8119454",
@@ -1203,12 +1221,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-18",
-      "updated": "2026-11-23",
+      "updated": "2026-11-24",
       "deadline": "",
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8119454&gh_jid=8119454",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8119454&gh_jid=8119454",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8121350",
@@ -1226,7 +1244,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8121350&gh_jid=8121350",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8121350&gh_jid=8121350",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8121463",
@@ -1244,7 +1262,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8121463&gh_jid=8121463",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8121463&gh_jid=8121463",
       "first_seen": "2026-11-23T18:00:07Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8121962",
@@ -1262,7 +1280,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8121962&gh_jid=8121962",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8121962&gh_jid=8121962",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8125975",
@@ -1280,7 +1298,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8125975&gh_jid=8125975",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8125975&gh_jid=8125975",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8125983",
@@ -1298,7 +1316,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8125983&gh_jid=8125983",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8125983&gh_jid=8125983",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8125987",
@@ -1316,7 +1334,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8125987&gh_jid=8125987",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8125987&gh_jid=8125987",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8126357",
@@ -1334,7 +1352,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8126357&gh_jid=8126357",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8126357&gh_jid=8126357",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8130076",
@@ -1347,12 +1365,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-14",
-      "updated": "2026-10-22",
+      "updated": "2026-11-25",
       "deadline": "",
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8130076&gh_jid=8130076",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8130076&gh_jid=8130076",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8131023",
@@ -1370,7 +1388,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8131023&gh_jid=8131023",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8131023&gh_jid=8131023",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8131024",
@@ -1388,7 +1406,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8131024&gh_jid=8131024",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8131024&gh_jid=8131024",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8131025",
@@ -1406,7 +1424,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8131025&gh_jid=8131025",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8131025&gh_jid=8131025",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8138528",
@@ -1424,7 +1442,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8138528&gh_jid=8138528",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8138528&gh_jid=8138528",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8138559",
@@ -1442,7 +1460,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8138559&gh_jid=8138559",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8138559&gh_jid=8138559",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8138565",
@@ -1460,7 +1478,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8138565&gh_jid=8138565",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8138565&gh_jid=8138565",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8138572",
@@ -1478,7 +1496,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8138572&gh_jid=8138572",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8138572&gh_jid=8138572",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8138579",
@@ -1496,7 +1514,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8138579&gh_jid=8138579",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8138579&gh_jid=8138579",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8138661",
@@ -1509,12 +1527,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-18",
-      "updated": "2026-11-23",
+      "updated": "2026-11-24",
       "deadline": "",
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8138661&gh_jid=8138661",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8138661&gh_jid=8138661",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8138683",
@@ -1527,12 +1545,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-18",
-      "updated": "2026-11-23",
+      "updated": "2026-11-24",
       "deadline": "",
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8138683&gh_jid=8138683",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8138683&gh_jid=8138683",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8138687",
@@ -1545,12 +1563,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-18",
-      "updated": "2026-11-23",
+      "updated": "2026-11-24",
       "deadline": "",
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8138687&gh_jid=8138687",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8138687&gh_jid=8138687",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8138690",
@@ -1563,12 +1581,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-18",
-      "updated": "2026-11-23",
+      "updated": "2026-11-24",
       "deadline": "",
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8138690&gh_jid=8138690",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8138690&gh_jid=8138690",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8138692",
@@ -1581,12 +1599,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-18",
-      "updated": "2026-11-23",
+      "updated": "2026-11-24",
       "deadline": "",
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8138692&gh_jid=8138692",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8138692&gh_jid=8138692",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8138694",
@@ -1599,12 +1617,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-18",
-      "updated": "2026-11-23",
+      "updated": "2026-11-24",
       "deadline": "",
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8138694&gh_jid=8138694",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8138694&gh_jid=8138694",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8138696",
@@ -1617,12 +1635,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-18",
-      "updated": "2026-11-23",
+      "updated": "2026-11-24",
       "deadline": "",
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8138696&gh_jid=8138696",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8138696&gh_jid=8138696",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8138699",
@@ -1635,12 +1653,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-18",
-      "updated": "2026-11-23",
+      "updated": "2026-11-24",
       "deadline": "",
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8138699&gh_jid=8138699",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8138699&gh_jid=8138699",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8140318",
@@ -1658,7 +1676,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8140318&gh_jid=8140318",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8140318&gh_jid=8140318",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8143969",
@@ -1676,7 +1694,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8143969&gh_jid=8143969",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8143969&gh_jid=8143969",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8148720",
@@ -1694,7 +1712,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8148720&gh_jid=8148720",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8148720&gh_jid=8148720",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8148724",
@@ -1707,12 +1725,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-08-26",
-      "updated": "2026-10-01",
+      "updated": "2026-11-24",
       "deadline": "",
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8148724&gh_jid=8148724",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8148724&gh_jid=8148724",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8153229",
@@ -1730,7 +1748,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8153229&gh_jid=8153229",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8153229&gh_jid=8153229",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8153272",
@@ -1748,7 +1766,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8153272&gh_jid=8153272",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8153272&gh_jid=8153272",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8153274",
@@ -1766,7 +1784,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8153274&gh_jid=8153274",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8153274&gh_jid=8153274",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8153277",
@@ -1784,7 +1802,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8153277&gh_jid=8153277",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8153277&gh_jid=8153277",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8156239",
@@ -1802,7 +1820,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8156239&gh_jid=8156239",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8156239&gh_jid=8156239",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8156266",
@@ -1820,7 +1838,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8156266&gh_jid=8156266",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8156266&gh_jid=8156266",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8156268",
@@ -1838,7 +1856,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8156268&gh_jid=8156268",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8156268&gh_jid=8156268",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8156295",
@@ -1856,7 +1874,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8156295&gh_jid=8156295",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8156295&gh_jid=8156295",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8156378",
@@ -1874,7 +1892,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8156378&gh_jid=8156378",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8156378&gh_jid=8156378",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8158597",
@@ -1892,7 +1910,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8158597&gh_jid=8158597",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8158597&gh_jid=8158597",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8161505",
@@ -1910,7 +1928,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8161505&gh_jid=8161505",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8161505&gh_jid=8161505",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8161819",
@@ -1928,7 +1946,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8161819&gh_jid=8161819",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8161819&gh_jid=8161819",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8161821",
@@ -1946,7 +1964,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8161821&gh_jid=8161821",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8161821&gh_jid=8161821",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8161836",
@@ -1964,7 +1982,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8161836&gh_jid=8161836",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8161836&gh_jid=8161836",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8161837",
@@ -1982,7 +2000,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8161837&gh_jid=8161837",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8161837&gh_jid=8161837",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8169102",
@@ -2000,25 +2018,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8169102&gh_jid=8169102",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8169102&gh_jid=8169102",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
-    },
-    {
-      "id": "8172138",
-      "title": "Enterprise Account Executive - West",
-      "company": "Elastic",
-      "location": "San Francisco, CA",
-      "remote": "unspecified",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-09-02",
-      "updated": "2026-10-01",
-      "deadline": "",
-      "source_url": "https://jobs.elastic.co/jobs?gh_jid=8172138&gh_jid=8172138",
-      "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8172138&gh_jid=8172138",
-      "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8173332",
@@ -2036,7 +2036,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8173332&gh_jid=8173332",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8173332&gh_jid=8173332",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8173421",
@@ -2054,7 +2054,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8173421&gh_jid=8173421",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8173421&gh_jid=8173421",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8174948",
@@ -2072,7 +2072,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8174948&gh_jid=8174948",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8174948&gh_jid=8174948",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8176627",
@@ -2090,7 +2090,25 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8176627&gh_jid=8176627",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8176627&gh_jid=8176627",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
+    },
+    {
+      "id": "8176967",
+      "title": "Site Reliability Engineer - Platform Reliability",
+      "company": "Elastic",
+      "location": "Spain",
+      "remote": "unspecified",
+      "department": "",
+      "employment_type": "",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-09-24",
+      "updated": "2026-11-24",
+      "deadline": "",
+      "source_url": "https://jobs.elastic.co/jobs?gh_jid=8176967&gh_jid=8176967",
+      "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8176967&gh_jid=8176967",
+      "first_seen": "2026-11-25T17:09:22Z",
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8177119",
@@ -2108,7 +2126,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8177119&gh_jid=8177119",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8177119&gh_jid=8177119",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8177123",
@@ -2126,7 +2144,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8177123&gh_jid=8177123",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8177123&gh_jid=8177123",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8180497",
@@ -2144,7 +2162,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8180497&gh_jid=8180497",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8180497&gh_jid=8180497",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8186104",
@@ -2162,7 +2180,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8186104&gh_jid=8186104",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8186104&gh_jid=8186104",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8187443",
@@ -2180,7 +2198,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8187443&gh_jid=8187443",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8187443&gh_jid=8187443",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8188365",
@@ -2198,7 +2216,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8188365&gh_jid=8188365",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8188365&gh_jid=8188365",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8191731",
@@ -2216,7 +2234,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8191731&gh_jid=8191731",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8191731&gh_jid=8191731",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8201974",
@@ -2234,7 +2252,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8201974&gh_jid=8201974",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8201974&gh_jid=8201974",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8204379",
@@ -2252,7 +2270,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8204379&gh_jid=8204379",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8204379&gh_jid=8204379",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8204380",
@@ -2270,7 +2288,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8204380&gh_jid=8204380",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8204380&gh_jid=8204380",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8207937",
@@ -2288,7 +2306,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8207937&gh_jid=8207937",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8207937&gh_jid=8207937",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8207939",
@@ -2306,7 +2324,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8207939&gh_jid=8207939",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8207939&gh_jid=8207939",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8209779",
@@ -2324,7 +2342,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8209779&gh_jid=8209779",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8209779&gh_jid=8209779",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8211249",
@@ -2342,7 +2360,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8211249&gh_jid=8211249",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8211249&gh_jid=8211249",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8214106",
@@ -2360,7 +2378,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8214106&gh_jid=8214106",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8214106&gh_jid=8214106",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8214187",
@@ -2378,7 +2396,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8214187&gh_jid=8214187",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8214187&gh_jid=8214187",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8214345",
@@ -2396,7 +2414,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8214345&gh_jid=8214345",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8214345&gh_jid=8214345",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8223681",
@@ -2414,7 +2432,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8223681&gh_jid=8223681",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8223681&gh_jid=8223681",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8223682",
@@ -2432,7 +2450,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8223682&gh_jid=8223682",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8223682&gh_jid=8223682",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8223688",
@@ -2450,7 +2468,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8223688&gh_jid=8223688",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8223688&gh_jid=8223688",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8224018",
@@ -2468,7 +2486,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8224018&gh_jid=8224018",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8224018&gh_jid=8224018",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8224761",
@@ -2486,7 +2504,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8224761&gh_jid=8224761",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8224761&gh_jid=8224761",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8226083",
@@ -2504,7 +2522,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8226083&gh_jid=8226083",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8226083&gh_jid=8226083",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8227060",
@@ -2522,7 +2540,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8227060&gh_jid=8227060",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8227060&gh_jid=8227060",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8227130",
@@ -2540,7 +2558,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8227130&gh_jid=8227130",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8227130&gh_jid=8227130",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8229992",
@@ -2558,7 +2576,97 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8229992&gh_jid=8229992",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8229992&gh_jid=8229992",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
+    },
+    {
+      "id": "8232032",
+      "title": "Site Reliability Engineer - Platform Reliability",
+      "company": "Elastic",
+      "location": "Portugal",
+      "remote": "unspecified",
+      "department": "",
+      "employment_type": "",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-09-24",
+      "updated": "2026-11-24",
+      "deadline": "",
+      "source_url": "https://jobs.elastic.co/jobs?gh_jid=8232032&gh_jid=8232032",
+      "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8232032&gh_jid=8232032",
+      "first_seen": "2026-11-25T17:09:22Z",
+      "last_checked": "2026-11-25T17:09:22Z"
+    },
+    {
+      "id": "8232033",
+      "title": "Site Reliability Engineer - Platform Reliability",
+      "company": "Elastic",
+      "location": "Greece",
+      "remote": "unspecified",
+      "department": "",
+      "employment_type": "",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-09-24",
+      "updated": "2026-11-24",
+      "deadline": "",
+      "source_url": "https://jobs.elastic.co/jobs?gh_jid=8232033&gh_jid=8232033",
+      "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8232033&gh_jid=8232033",
+      "first_seen": "2026-11-25T17:09:22Z",
+      "last_checked": "2026-11-25T17:09:22Z"
+    },
+    {
+      "id": "8232037",
+      "title": "Site Reliability Engineer - Platform Reliability",
+      "company": "Elastic",
+      "location": "Ireland",
+      "remote": "unspecified",
+      "department": "",
+      "employment_type": "",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-09-24",
+      "updated": "2026-11-24",
+      "deadline": "",
+      "source_url": "https://jobs.elastic.co/jobs?gh_jid=8232037&gh_jid=8232037",
+      "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8232037&gh_jid=8232037",
+      "first_seen": "2026-11-25T17:09:22Z",
+      "last_checked": "2026-11-25T17:09:22Z"
+    },
+    {
+      "id": "8232039",
+      "title": "Site Reliability Engineer - Platform Reliability",
+      "company": "Elastic",
+      "location": "United Kingdom",
+      "remote": "unspecified",
+      "department": "",
+      "employment_type": "",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-09-24",
+      "updated": "2026-11-24",
+      "deadline": "",
+      "source_url": "https://jobs.elastic.co/jobs?gh_jid=8232039&gh_jid=8232039",
+      "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8232039&gh_jid=8232039",
+      "first_seen": "2026-11-25T17:09:22Z",
+      "last_checked": "2026-11-25T17:09:22Z"
+    },
+    {
+      "id": "8232131",
+      "title": "Site Reliability Engineer - Platform Reliability",
+      "company": "Elastic",
+      "location": "Poland",
+      "remote": "unspecified",
+      "department": "",
+      "employment_type": "",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-09-24",
+      "updated": "2026-11-24",
+      "deadline": "",
+      "source_url": "https://jobs.elastic.co/jobs?gh_jid=8232131&gh_jid=8232131",
+      "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8232131&gh_jid=8232131",
+      "first_seen": "2026-11-25T17:09:22Z",
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8233841",
@@ -2576,7 +2684,25 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8233841&gh_jid=8233841",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8233841&gh_jid=8233841",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
+    },
+    {
+      "id": "8237466",
+      "title": "Sr Application Developer - Xactly",
+      "company": "Elastic",
+      "location": "United States",
+      "remote": "unspecified",
+      "department": "",
+      "employment_type": "",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-09-29",
+      "updated": "2026-11-24",
+      "deadline": "",
+      "source_url": "https://jobs.elastic.co/jobs?gh_jid=8237466&gh_jid=8237466",
+      "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8237466&gh_jid=8237466",
+      "first_seen": "2026-11-25T17:09:22Z",
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8237783",
@@ -2594,7 +2720,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8237783&gh_jid=8237783",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8237783&gh_jid=8237783",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8237962",
@@ -2612,25 +2738,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8237962&gh_jid=8237962",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8237962&gh_jid=8237962",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
-    },
-    {
-      "id": "8239266",
-      "title": "Sr. Solutions Architect, Enterprise East (Presales)",
-      "company": "Elastic",
-      "location": "United States",
-      "remote": "unspecified",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-10-01",
-      "updated": "2026-10-01",
-      "deadline": "",
-      "source_url": "https://jobs.elastic.co/jobs?gh_jid=8239266&gh_jid=8239266",
-      "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8239266&gh_jid=8239266",
-      "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8239273",
@@ -2648,7 +2756,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8239273&gh_jid=8239273",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8239273&gh_jid=8239273",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8239296",
@@ -2666,7 +2774,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8239296&gh_jid=8239296",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8239296&gh_jid=8239296",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8239653",
@@ -2684,7 +2792,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8239653&gh_jid=8239653",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8239653&gh_jid=8239653",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8239998",
@@ -2702,7 +2810,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8239998&gh_jid=8239998",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8239998&gh_jid=8239998",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8240000",
@@ -2720,7 +2828,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8240000&gh_jid=8240000",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8240000&gh_jid=8240000",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8240077",
@@ -2738,7 +2846,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8240077&gh_jid=8240077",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8240077&gh_jid=8240077",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8243234",
@@ -2756,7 +2864,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8243234&gh_jid=8243234",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8243234&gh_jid=8243234",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8244449",
@@ -2774,7 +2882,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8244449&gh_jid=8244449",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8244449&gh_jid=8244449",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8244496",
@@ -2792,7 +2900,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8244496&gh_jid=8244496",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8244496&gh_jid=8244496",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8245815",
@@ -2810,7 +2918,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8245815&gh_jid=8245815",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8245815&gh_jid=8245815",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8245817",
@@ -2828,7 +2936,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8245817&gh_jid=8245817",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8245817&gh_jid=8245817",
       "first_seen": "2026-11-19T15:42:04Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8246948",
@@ -2846,7 +2954,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8246948&gh_jid=8246948",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8246948&gh_jid=8246948",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8247144",
@@ -2864,7 +2972,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8247144&gh_jid=8247144",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8247144&gh_jid=8247144",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8249252",
@@ -2882,7 +2990,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8249252&gh_jid=8249252",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8249252&gh_jid=8249252",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8249255",
@@ -2900,7 +3008,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8249255&gh_jid=8249255",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8249255&gh_jid=8249255",
       "first_seen": "2026-11-20T15:23:49Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8249839",
@@ -2918,7 +3026,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8249839&gh_jid=8249839",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8249839&gh_jid=8249839",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8250086",
@@ -2936,7 +3044,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8250086&gh_jid=8250086",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8250086&gh_jid=8250086",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8255435",
@@ -2954,7 +3062,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8255435&gh_jid=8255435",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8255435&gh_jid=8255435",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8255436",
@@ -2972,7 +3080,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8255436&gh_jid=8255436",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8255436&gh_jid=8255436",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8255438",
@@ -2990,7 +3098,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8255438&gh_jid=8255438",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8255438&gh_jid=8255438",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8256011",
@@ -3008,7 +3116,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8256011&gh_jid=8256011",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8256011&gh_jid=8256011",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8256014",
@@ -3026,7 +3134,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8256014&gh_jid=8256014",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8256014&gh_jid=8256014",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8256188",
@@ -3044,7 +3152,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8256188&gh_jid=8256188",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8256188&gh_jid=8256188",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8258750",
@@ -3062,7 +3170,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8258750&gh_jid=8258750",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8258750&gh_jid=8258750",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8259061",
@@ -3080,7 +3188,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8259061&gh_jid=8259061",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8259061&gh_jid=8259061",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8259062",
@@ -3098,7 +3206,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8259062&gh_jid=8259062",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8259062&gh_jid=8259062",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8259063",
@@ -3116,7 +3224,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8259063&gh_jid=8259063",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8259063&gh_jid=8259063",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8259085",
@@ -3134,7 +3242,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8259085&gh_jid=8259085",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8259085&gh_jid=8259085",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8259843",
@@ -3152,7 +3260,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8259843&gh_jid=8259843",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8259843&gh_jid=8259843",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8260105",
@@ -3170,7 +3278,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8260105&gh_jid=8260105",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8260105&gh_jid=8260105",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8260391",
@@ -3188,7 +3296,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8260391&gh_jid=8260391",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8260391&gh_jid=8260391",
       "first_seen": "2026-11-18T15:36:26Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8260870",
@@ -3206,7 +3314,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8260870&gh_jid=8260870",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8260870&gh_jid=8260870",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8263255",
@@ -3224,7 +3332,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8263255&gh_jid=8263255",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8263255&gh_jid=8263255",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8266958",
@@ -3242,7 +3350,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8266958&gh_jid=8266958",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8266958&gh_jid=8266958",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8266960",
@@ -3260,7 +3368,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8266960&gh_jid=8266960",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8266960&gh_jid=8266960",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8267984",
@@ -3278,25 +3386,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8267984&gh_jid=8267984",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8267984&gh_jid=8267984",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
-    },
-    {
-      "id": "8274371",
-      "title": "Senior Incident Response Analyst - InfoSec",
-      "company": "Elastic",
-      "location": "United States",
-      "remote": "unspecified",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-10-19",
-      "updated": "2026-10-20",
-      "deadline": "",
-      "source_url": "https://jobs.elastic.co/jobs?gh_jid=8274371&gh_jid=8274371",
-      "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8274371&gh_jid=8274371",
-      "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8274383",
@@ -3314,7 +3404,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8274383&gh_jid=8274383",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8274383&gh_jid=8274383",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8274400",
@@ -3332,7 +3422,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8274400&gh_jid=8274400",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8274400&gh_jid=8274400",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8274546",
@@ -3350,7 +3440,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8274546&gh_jid=8274546",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8274546&gh_jid=8274546",
       "first_seen": "2026-11-23T18:00:07Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8276131",
@@ -3363,12 +3453,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-13",
-      "updated": "2026-10-22",
+      "updated": "2026-11-25",
       "deadline": "",
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8276131&gh_jid=8276131",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8276131&gh_jid=8276131",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8276132",
@@ -3381,12 +3471,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-13",
-      "updated": "2026-10-22",
+      "updated": "2026-11-25",
       "deadline": "",
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8276132&gh_jid=8276132",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8276132&gh_jid=8276132",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8276133",
@@ -3399,12 +3489,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-13",
-      "updated": "2026-10-22",
+      "updated": "2026-11-25",
       "deadline": "",
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8276133&gh_jid=8276133",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8276133&gh_jid=8276133",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8276134",
@@ -3417,12 +3507,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-13",
-      "updated": "2026-10-22",
+      "updated": "2026-11-25",
       "deadline": "",
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8276134&gh_jid=8276134",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8276134&gh_jid=8276134",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8276135",
@@ -3435,12 +3525,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-13",
-      "updated": "2026-10-22",
+      "updated": "2026-11-25",
       "deadline": "",
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8276135&gh_jid=8276135",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8276135&gh_jid=8276135",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8276136",
@@ -3453,12 +3543,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-13",
-      "updated": "2026-10-22",
+      "updated": "2026-11-25",
       "deadline": "",
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8276136&gh_jid=8276136",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8276136&gh_jid=8276136",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8281059",
@@ -3476,7 +3566,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8281059&gh_jid=8281059",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8281059&gh_jid=8281059",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8281119",
@@ -3494,7 +3584,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8281119&gh_jid=8281119",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8281119&gh_jid=8281119",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8281841",
@@ -3512,7 +3602,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8281841&gh_jid=8281841",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8281841&gh_jid=8281841",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8282227",
@@ -3530,7 +3620,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8282227&gh_jid=8282227",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8282227&gh_jid=8282227",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8283666",
@@ -3548,7 +3638,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8283666&gh_jid=8283666",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8283666&gh_jid=8283666",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8283694",
@@ -3566,7 +3656,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8283694&gh_jid=8283694",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8283694&gh_jid=8283694",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8283713",
@@ -3584,7 +3674,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8283713&gh_jid=8283713",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8283713&gh_jid=8283713",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8283717",
@@ -3602,7 +3692,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8283717&gh_jid=8283717",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8283717&gh_jid=8283717",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8283719",
@@ -3620,7 +3710,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8283719&gh_jid=8283719",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8283719&gh_jid=8283719",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8283720",
@@ -3638,7 +3728,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8283720&gh_jid=8283720",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8283720&gh_jid=8283720",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8285461",
@@ -3656,7 +3746,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8285461&gh_jid=8285461",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8285461&gh_jid=8285461",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8285463",
@@ -3674,7 +3764,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8285463&gh_jid=8285463",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8285463&gh_jid=8285463",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8285465",
@@ -3692,7 +3782,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8285465&gh_jid=8285465",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8285465&gh_jid=8285465",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8289151",
@@ -3710,7 +3800,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8289151&gh_jid=8289151",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8289151&gh_jid=8289151",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8301329",
@@ -3728,7 +3818,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8301329&gh_jid=8301329",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8301329&gh_jid=8301329",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8301334",
@@ -3746,7 +3836,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8301334&gh_jid=8301334",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8301334&gh_jid=8301334",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8301469",
@@ -3764,7 +3854,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8301469&gh_jid=8301469",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8301469&gh_jid=8301469",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8301472",
@@ -3782,7 +3872,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8301472&gh_jid=8301472",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8301472&gh_jid=8301472",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8301538",
@@ -3800,7 +3890,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8301538&gh_jid=8301538",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8301538&gh_jid=8301538",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8303147",
@@ -3818,7 +3908,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8303147&gh_jid=8303147",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8303147&gh_jid=8303147",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8303149",
@@ -3836,7 +3926,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8303149&gh_jid=8303149",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8303149&gh_jid=8303149",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8303377",
@@ -3854,7 +3944,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8303377&gh_jid=8303377",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8303377&gh_jid=8303377",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8303379",
@@ -3872,7 +3962,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8303379&gh_jid=8303379",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8303379&gh_jid=8303379",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8303381",
@@ -3890,7 +3980,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8303381&gh_jid=8303381",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8303381&gh_jid=8303381",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8303384",
@@ -3908,7 +3998,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8303384&gh_jid=8303384",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8303384&gh_jid=8303384",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8303741",
@@ -3926,7 +4016,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8303741&gh_jid=8303741",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8303741&gh_jid=8303741",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8303806",
@@ -3944,7 +4034,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8303806&gh_jid=8303806",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8303806&gh_jid=8303806",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8304875",
@@ -3962,7 +4052,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8304875&gh_jid=8304875",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8304875&gh_jid=8304875",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8306224",
@@ -3980,7 +4070,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8306224&gh_jid=8306224",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8306224&gh_jid=8306224",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8306227",
@@ -3998,7 +4088,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8306227&gh_jid=8306227",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8306227&gh_jid=8306227",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8306238",
@@ -4016,7 +4106,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8306238&gh_jid=8306238",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8306238&gh_jid=8306238",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8306243",
@@ -4034,7 +4124,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8306243&gh_jid=8306243",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8306243&gh_jid=8306243",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8306248",
@@ -4052,7 +4142,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8306248&gh_jid=8306248",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8306248&gh_jid=8306248",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8306249",
@@ -4070,7 +4160,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8306249&gh_jid=8306249",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8306249&gh_jid=8306249",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8311491",
@@ -4088,7 +4178,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8311491&gh_jid=8311491",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8311491&gh_jid=8311491",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8311493",
@@ -4106,7 +4196,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8311493&gh_jid=8311493",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8311493&gh_jid=8311493",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8311494",
@@ -4124,7 +4214,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8311494&gh_jid=8311494",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8311494&gh_jid=8311494",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8311496",
@@ -4142,7 +4232,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8311496&gh_jid=8311496",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8311496&gh_jid=8311496",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8312168",
@@ -4160,7 +4250,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8312168&gh_jid=8312168",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8312168&gh_jid=8312168",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8312171",
@@ -4178,7 +4268,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8312171&gh_jid=8312171",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8312171&gh_jid=8312171",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8312175",
@@ -4196,7 +4286,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8312175&gh_jid=8312175",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8312175&gh_jid=8312175",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8312178",
@@ -4214,7 +4304,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8312178&gh_jid=8312178",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8312178&gh_jid=8312178",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8312179",
@@ -4232,7 +4322,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8312179&gh_jid=8312179",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8312179&gh_jid=8312179",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8312184",
@@ -4250,7 +4340,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8312184&gh_jid=8312184",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8312184&gh_jid=8312184",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8313394",
@@ -4268,7 +4358,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8313394&gh_jid=8313394",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8313394&gh_jid=8313394",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8314209",
@@ -4286,7 +4376,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8314209&gh_jid=8314209",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8314209&gh_jid=8314209",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8314211",
@@ -4304,7 +4394,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8314211&gh_jid=8314211",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8314211&gh_jid=8314211",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8314336",
@@ -4322,7 +4412,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8314336&gh_jid=8314336",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8314336&gh_jid=8314336",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8315564",
@@ -4340,7 +4430,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8315564&gh_jid=8315564",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8315564&gh_jid=8315564",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8316745",
@@ -4358,7 +4448,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8316745&gh_jid=8316745",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8316745&gh_jid=8316745",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8317778",
@@ -4376,7 +4466,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8317778&gh_jid=8317778",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8317778&gh_jid=8317778",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8317779",
@@ -4394,7 +4484,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8317779&gh_jid=8317779",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8317779&gh_jid=8317779",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8318187",
@@ -4412,7 +4502,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8318187&gh_jid=8318187",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8318187&gh_jid=8318187",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8318197",
@@ -4430,7 +4520,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8318197&gh_jid=8318197",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8318197&gh_jid=8318197",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8318605",
@@ -4448,7 +4538,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8318605&gh_jid=8318605",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8318605&gh_jid=8318605",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8319081",
@@ -4466,7 +4556,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8319081&gh_jid=8319081",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8319081&gh_jid=8319081",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8319082",
@@ -4484,7 +4574,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8319082&gh_jid=8319082",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8319082&gh_jid=8319082",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8319140",
@@ -4502,7 +4592,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8319140&gh_jid=8319140",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8319140&gh_jid=8319140",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8319141",
@@ -4520,7 +4610,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8319141&gh_jid=8319141",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8319141&gh_jid=8319141",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8324619",
@@ -4538,7 +4628,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8324619&gh_jid=8324619",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8324619&gh_jid=8324619",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8327970",
@@ -4556,11 +4646,11 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8327970&gh_jid=8327970",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8327970&gh_jid=8327970",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8330343",
-      "title": "Consulting Architect (Canberra)",
+      "title": "Consulting Architect - Observability (Canberra)",
       "company": "Elastic",
       "location": "Australia",
       "remote": "unspecified",
@@ -4569,12 +4659,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-16",
-      "updated": "2026-11-16",
+      "updated": "2026-11-25",
       "deadline": "",
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8330343&gh_jid=8330343",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8330343&gh_jid=8330343",
       "first_seen": "2026-11-16T15:39:28Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8332655",
@@ -4592,7 +4682,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8332655&gh_jid=8332655",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8332655&gh_jid=8332655",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8336443",
@@ -4610,7 +4700,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8336443&gh_jid=8336443",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8336443&gh_jid=8336443",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8337068",
@@ -4628,7 +4718,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8337068&gh_jid=8337068",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8337068&gh_jid=8337068",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8337070",
@@ -4646,7 +4736,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8337070&gh_jid=8337070",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8337070&gh_jid=8337070",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8337827",
@@ -4664,7 +4754,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8337827&gh_jid=8337827",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8337827&gh_jid=8337827",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8344335",
@@ -4682,7 +4772,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8344335&gh_jid=8344335",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8344335&gh_jid=8344335",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8346174",
@@ -4700,7 +4790,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8346174&gh_jid=8346174",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8346174&gh_jid=8346174",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8346195",
@@ -4718,7 +4808,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8346195&gh_jid=8346195",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8346195&gh_jid=8346195",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8346196",
@@ -4736,7 +4826,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8346196&gh_jid=8346196",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8346196&gh_jid=8346196",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8346201",
@@ -4754,7 +4844,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8346201&gh_jid=8346201",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8346201&gh_jid=8346201",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8346209",
@@ -4772,7 +4862,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8346209&gh_jid=8346209",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8346209&gh_jid=8346209",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8346244",
@@ -4790,7 +4880,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8346244&gh_jid=8346244",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8346244&gh_jid=8346244",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8346463",
@@ -4808,7 +4898,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8346463&gh_jid=8346463",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8346463&gh_jid=8346463",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8346541",
@@ -4826,7 +4916,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8346541&gh_jid=8346541",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8346541&gh_jid=8346541",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8347901",
@@ -4844,7 +4934,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8347901&gh_jid=8347901",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8347901&gh_jid=8347901",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8348532",
@@ -4862,7 +4952,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8348532&gh_jid=8348532",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8348532&gh_jid=8348532",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8349732",
@@ -4880,7 +4970,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8349732&gh_jid=8349732",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8349732&gh_jid=8349732",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8352171",
@@ -4898,7 +4988,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8352171&gh_jid=8352171",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8352171&gh_jid=8352171",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8352180",
@@ -4916,7 +5006,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8352180&gh_jid=8352180",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8352180&gh_jid=8352180",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8352181",
@@ -4934,7 +5024,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8352181&gh_jid=8352181",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8352181&gh_jid=8352181",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8352182",
@@ -4952,7 +5042,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8352182&gh_jid=8352182",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8352182&gh_jid=8352182",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8352185",
@@ -4970,7 +5060,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8352185&gh_jid=8352185",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8352185&gh_jid=8352185",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8352187",
@@ -4988,7 +5078,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8352187&gh_jid=8352187",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8352187&gh_jid=8352187",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8352578",
@@ -5006,7 +5096,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8352578&gh_jid=8352578",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8352578&gh_jid=8352578",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8352581",
@@ -5024,7 +5114,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8352581&gh_jid=8352581",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8352581&gh_jid=8352581",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8352585",
@@ -5042,7 +5132,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8352585&gh_jid=8352585",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8352585&gh_jid=8352585",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8352728",
@@ -5060,7 +5150,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8352728&gh_jid=8352728",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8352728&gh_jid=8352728",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8355143",
@@ -5078,7 +5168,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8355143&gh_jid=8355143",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8355143&gh_jid=8355143",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8355152",
@@ -5096,7 +5186,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8355152&gh_jid=8355152",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8355152&gh_jid=8355152",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8355157",
@@ -5114,7 +5204,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8355157&gh_jid=8355157",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8355157&gh_jid=8355157",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8355158",
@@ -5132,7 +5222,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8355158&gh_jid=8355158",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8355158&gh_jid=8355158",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8355159",
@@ -5150,7 +5240,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8355159&gh_jid=8355159",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8355159&gh_jid=8355159",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8358973",
@@ -5168,7 +5258,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8358973&gh_jid=8358973",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8358973&gh_jid=8358973",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8359528",
@@ -5186,7 +5276,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8359528&gh_jid=8359528",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8359528&gh_jid=8359528",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8360384",
@@ -5204,7 +5294,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8360384&gh_jid=8360384",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8360384&gh_jid=8360384",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8360665",
@@ -5222,7 +5312,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8360665&gh_jid=8360665",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8360665&gh_jid=8360665",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8362973",
@@ -5240,7 +5330,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8362973&gh_jid=8362973",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8362973&gh_jid=8362973",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8365321",
@@ -5258,7 +5348,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8365321&gh_jid=8365321",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8365321&gh_jid=8365321",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8365322",
@@ -5276,7 +5366,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8365322&gh_jid=8365322",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8365322&gh_jid=8365322",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8371794",
@@ -5294,7 +5384,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8371794&gh_jid=8371794",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8371794&gh_jid=8371794",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8372378",
@@ -5312,7 +5402,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8372378&gh_jid=8372378",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8372378&gh_jid=8372378",
       "first_seen": "2026-11-20T15:23:49Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8372380",
@@ -5330,7 +5420,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8372380&gh_jid=8372380",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8372380&gh_jid=8372380",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8373192",
@@ -5348,7 +5438,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8373192&gh_jid=8373192",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8373192&gh_jid=8373192",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8374090",
@@ -5366,7 +5456,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8374090&gh_jid=8374090",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8374090&gh_jid=8374090",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8377597",
@@ -5384,7 +5474,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8377597&gh_jid=8377597",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8377597&gh_jid=8377597",
       "first_seen": "2026-11-18T15:36:26Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8377647",
@@ -5402,7 +5492,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8377647&gh_jid=8377647",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8377647&gh_jid=8377647",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8378070",
@@ -5420,7 +5510,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8378070&gh_jid=8378070",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8378070&gh_jid=8378070",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8378072",
@@ -5438,7 +5528,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8378072&gh_jid=8378072",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8378072&gh_jid=8378072",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8378074",
@@ -5456,7 +5546,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8378074&gh_jid=8378074",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8378074&gh_jid=8378074",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8378076",
@@ -5474,7 +5564,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8378076&gh_jid=8378076",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8378076&gh_jid=8378076",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8378079",
@@ -5492,7 +5582,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8378079&gh_jid=8378079",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8378079&gh_jid=8378079",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8378080",
@@ -5510,7 +5600,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8378080&gh_jid=8378080",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8378080&gh_jid=8378080",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8378081",
@@ -5528,7 +5618,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8378081&gh_jid=8378081",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8378081&gh_jid=8378081",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8378082",
@@ -5546,7 +5636,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8378082&gh_jid=8378082",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8378082&gh_jid=8378082",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8378126",
@@ -5564,7 +5654,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8378126&gh_jid=8378126",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8378126&gh_jid=8378126",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8378130",
@@ -5582,7 +5672,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8378130&gh_jid=8378130",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8378130&gh_jid=8378130",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8378131",
@@ -5600,7 +5690,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8378131&gh_jid=8378131",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8378131&gh_jid=8378131",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8378132",
@@ -5618,7 +5708,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8378132&gh_jid=8378132",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8378132&gh_jid=8378132",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8378135",
@@ -5636,7 +5726,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8378135&gh_jid=8378135",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8378135&gh_jid=8378135",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8378138",
@@ -5654,7 +5744,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8378138&gh_jid=8378138",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8378138&gh_jid=8378138",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8378139",
@@ -5672,7 +5762,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8378139&gh_jid=8378139",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8378139&gh_jid=8378139",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8378140",
@@ -5690,7 +5780,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8378140&gh_jid=8378140",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8378140&gh_jid=8378140",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8378143",
@@ -5708,7 +5798,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8378143&gh_jid=8378143",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8378143&gh_jid=8378143",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8379881",
@@ -5726,7 +5816,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8379881&gh_jid=8379881",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8379881&gh_jid=8379881",
       "first_seen": "2026-11-24T17:38:09Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8381827",
@@ -5744,7 +5834,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8381827&gh_jid=8381827",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8381827&gh_jid=8381827",
       "first_seen": "2026-11-24T17:38:09Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8382571",
@@ -5762,7 +5852,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8382571&gh_jid=8382571",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8382571&gh_jid=8382571",
       "first_seen": "2026-11-18T15:36:26Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8382573",
@@ -5780,7 +5870,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8382573&gh_jid=8382573",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8382573&gh_jid=8382573",
       "first_seen": "2026-11-23T18:00:07Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8382575",
@@ -5798,7 +5888,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8382575&gh_jid=8382575",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8382575&gh_jid=8382575",
       "first_seen": "2026-11-20T15:23:49Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8382577",
@@ -5816,7 +5906,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8382577&gh_jid=8382577",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8382577&gh_jid=8382577",
       "first_seen": "2026-11-20T15:23:49Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8382870",
@@ -5834,7 +5924,25 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8382870&gh_jid=8382870",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8382870&gh_jid=8382870",
       "first_seen": "2026-11-19T15:42:04Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
+    },
+    {
+      "id": "8382872",
+      "title": "Security Specialist Account Executive",
+      "company": "Elastic",
+      "location": "Singapore",
+      "remote": "unspecified",
+      "department": "",
+      "employment_type": "",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-24",
+      "updated": "2026-11-24",
+      "deadline": "",
+      "source_url": "https://jobs.elastic.co/jobs?gh_jid=8382872&gh_jid=8382872",
+      "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8382872&gh_jid=8382872",
+      "first_seen": "2026-11-25T17:09:22Z",
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8392706",
@@ -5852,7 +5960,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8392706&gh_jid=8392706",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8392706&gh_jid=8392706",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8393157",
@@ -5870,7 +5978,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8393157&gh_jid=8393157",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8393157&gh_jid=8393157",
       "first_seen": "2026-11-23T18:00:07Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8393700",
@@ -5888,7 +5996,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8393700&gh_jid=8393700",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8393700&gh_jid=8393700",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8395756",
@@ -5906,7 +6014,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8395756&gh_jid=8395756",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8395756&gh_jid=8395756",
       "first_seen": "2026-11-19T15:42:04Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8397002",
@@ -5924,25 +6032,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8397002&gh_jid=8397002",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8397002&gh_jid=8397002",
       "first_seen": "2026-11-18T15:36:26Z",
-      "last_checked": "2026-11-24T17:38:09Z"
-    },
-    {
-      "id": "8397324",
-      "title": "Growth Marketing Manager (Marketplaces) - Self service cloud",
-      "company": "Elastic",
-      "location": "United States",
-      "remote": "unspecified",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-11-20",
-      "updated": "2026-11-20",
-      "deadline": "",
-      "source_url": "https://jobs.elastic.co/jobs?gh_jid=8397324&gh_jid=8397324",
-      "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8397324&gh_jid=8397324",
-      "first_seen": "2026-11-21T14:37:10Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8398678",
@@ -5960,7 +6050,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8398678&gh_jid=8398678",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8398678&gh_jid=8398678",
       "first_seen": "2026-11-19T15:42:04Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8400853",
@@ -5978,7 +6068,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8400853&gh_jid=8400853",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8400853&gh_jid=8400853",
       "first_seen": "2026-11-19T15:42:04Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8402308",
@@ -5996,7 +6086,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8402308&gh_jid=8402308",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8402308&gh_jid=8402308",
       "first_seen": "2026-11-19T15:42:04Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8405578",
@@ -6014,7 +6104,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8405578&gh_jid=8405578",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8405578&gh_jid=8405578",
       "first_seen": "2026-11-20T15:23:49Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8405579",
@@ -6032,7 +6122,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8405579&gh_jid=8405579",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8405579&gh_jid=8405579",
       "first_seen": "2026-11-20T15:23:49Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8406163",
@@ -6050,7 +6140,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8406163&gh_jid=8406163",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8406163&gh_jid=8406163",
       "first_seen": "2026-11-21T14:37:10Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8406164",
@@ -6068,7 +6158,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8406164&gh_jid=8406164",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8406164&gh_jid=8406164",
       "first_seen": "2026-11-21T14:37:10Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8406165",
@@ -6086,7 +6176,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8406165&gh_jid=8406165",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8406165&gh_jid=8406165",
       "first_seen": "2026-11-21T14:37:10Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8406166",
@@ -6104,7 +6194,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8406166&gh_jid=8406166",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8406166&gh_jid=8406166",
       "first_seen": "2026-11-21T14:37:10Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8406167",
@@ -6122,7 +6212,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8406167&gh_jid=8406167",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8406167&gh_jid=8406167",
       "first_seen": "2026-11-21T14:37:10Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8406168",
@@ -6140,7 +6230,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8406168&gh_jid=8406168",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8406168&gh_jid=8406168",
       "first_seen": "2026-11-21T14:37:10Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8406169",
@@ -6158,7 +6248,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8406169&gh_jid=8406169",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8406169&gh_jid=8406169",
       "first_seen": "2026-11-21T14:37:10Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8406170",
@@ -6176,7 +6266,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8406170&gh_jid=8406170",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8406170&gh_jid=8406170",
       "first_seen": "2026-11-21T14:37:10Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8406171",
@@ -6194,7 +6284,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8406171&gh_jid=8406171",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8406171&gh_jid=8406171",
       "first_seen": "2026-11-21T14:37:10Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8406173",
@@ -6212,7 +6302,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8406173&gh_jid=8406173",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8406173&gh_jid=8406173",
       "first_seen": "2026-11-21T14:37:10Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8406174",
@@ -6230,7 +6320,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8406174&gh_jid=8406174",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8406174&gh_jid=8406174",
       "first_seen": "2026-11-21T14:37:10Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8407503",
@@ -6248,7 +6338,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8407503&gh_jid=8407503",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8407503&gh_jid=8407503",
       "first_seen": "2026-11-21T14:37:10Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8407510",
@@ -6266,7 +6356,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8407510&gh_jid=8407510",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8407510&gh_jid=8407510",
       "first_seen": "2026-11-21T14:37:10Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8407511",
@@ -6284,7 +6374,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8407511&gh_jid=8407511",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8407511&gh_jid=8407511",
       "first_seen": "2026-11-21T14:37:10Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8407512",
@@ -6302,7 +6392,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8407512&gh_jid=8407512",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8407512&gh_jid=8407512",
       "first_seen": "2026-11-21T14:37:10Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8407513",
@@ -6320,7 +6410,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8407513&gh_jid=8407513",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8407513&gh_jid=8407513",
       "first_seen": "2026-11-21T14:37:10Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8407516",
@@ -6338,7 +6428,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8407516&gh_jid=8407516",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8407516&gh_jid=8407516",
       "first_seen": "2026-11-21T14:37:10Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8407519",
@@ -6356,7 +6446,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8407519&gh_jid=8407519",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8407519&gh_jid=8407519",
       "first_seen": "2026-11-21T14:37:10Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8407520",
@@ -6374,7 +6464,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8407520&gh_jid=8407520",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8407520&gh_jid=8407520",
       "first_seen": "2026-11-21T14:37:10Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8407521",
@@ -6392,7 +6482,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8407521&gh_jid=8407521",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8407521&gh_jid=8407521",
       "first_seen": "2026-11-21T14:37:10Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8407522",
@@ -6410,7 +6500,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8407522&gh_jid=8407522",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8407522&gh_jid=8407522",
       "first_seen": "2026-11-21T14:37:10Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8407525",
@@ -6428,7 +6518,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8407525&gh_jid=8407525",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8407525&gh_jid=8407525",
       "first_seen": "2026-11-21T14:37:10Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8407526",
@@ -6446,7 +6536,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8407526&gh_jid=8407526",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8407526&gh_jid=8407526",
       "first_seen": "2026-11-21T14:37:10Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8407549",
@@ -6464,7 +6554,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8407549&gh_jid=8407549",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8407549&gh_jid=8407549",
       "first_seen": "2026-11-21T14:37:10Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8407550",
@@ -6482,7 +6572,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8407550&gh_jid=8407550",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8407550&gh_jid=8407550",
       "first_seen": "2026-11-21T14:37:10Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8407551",
@@ -6500,7 +6590,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8407551&gh_jid=8407551",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8407551&gh_jid=8407551",
       "first_seen": "2026-11-21T14:37:10Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8407552",
@@ -6518,7 +6608,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8407552&gh_jid=8407552",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8407552&gh_jid=8407552",
       "first_seen": "2026-11-21T14:37:10Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8407553",
@@ -6536,7 +6626,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8407553&gh_jid=8407553",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8407553&gh_jid=8407553",
       "first_seen": "2026-11-21T14:37:10Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8407554",
@@ -6554,7 +6644,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8407554&gh_jid=8407554",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8407554&gh_jid=8407554",
       "first_seen": "2026-11-21T14:37:10Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8407555",
@@ -6572,7 +6662,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8407555&gh_jid=8407555",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8407555&gh_jid=8407555",
       "first_seen": "2026-11-21T14:37:10Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8407556",
@@ -6590,7 +6680,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8407556&gh_jid=8407556",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8407556&gh_jid=8407556",
       "first_seen": "2026-11-21T14:37:10Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8407565",
@@ -6608,7 +6698,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8407565&gh_jid=8407565",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8407565&gh_jid=8407565",
       "first_seen": "2026-11-21T14:37:10Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8407566",
@@ -6626,7 +6716,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8407566&gh_jid=8407566",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8407566&gh_jid=8407566",
       "first_seen": "2026-11-21T14:37:10Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8407567",
@@ -6644,7 +6734,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8407567&gh_jid=8407567",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8407567&gh_jid=8407567",
       "first_seen": "2026-11-21T14:37:10Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8407578",
@@ -6662,7 +6752,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8407578&gh_jid=8407578",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8407578&gh_jid=8407578",
       "first_seen": "2026-11-21T14:37:10Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8411234",
@@ -6680,7 +6770,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8411234&gh_jid=8411234",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8411234&gh_jid=8411234",
       "first_seen": "2026-11-23T18:00:07Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8411235",
@@ -6698,7 +6788,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8411235&gh_jid=8411235",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8411235&gh_jid=8411235",
       "first_seen": "2026-11-23T18:00:07Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8411238",
@@ -6716,7 +6806,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8411238&gh_jid=8411238",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8411238&gh_jid=8411238",
       "first_seen": "2026-11-23T18:00:07Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8411239",
@@ -6734,7 +6824,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8411239&gh_jid=8411239",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8411239&gh_jid=8411239",
       "first_seen": "2026-11-23T18:00:07Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8411240",
@@ -6752,7 +6842,43 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8411240&gh_jid=8411240",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8411240&gh_jid=8411240",
       "first_seen": "2026-11-23T18:00:07Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
+    },
+    {
+      "id": "8412811",
+      "title": "VP Tax",
+      "company": "Elastic",
+      "location": "United States",
+      "remote": "unspecified",
+      "department": "",
+      "employment_type": "",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-24",
+      "updated": "2026-11-25",
+      "deadline": "",
+      "source_url": "https://jobs.elastic.co/jobs?gh_jid=8412811&gh_jid=8412811",
+      "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8412811&gh_jid=8412811",
+      "first_seen": "2026-11-25T17:09:22Z",
+      "last_checked": "2026-11-25T17:09:22Z"
+    },
+    {
+      "id": "8413464",
+      "title": "Senior Solutions Architect - Public Sector",
+      "company": "Elastic",
+      "location": "Australia",
+      "remote": "unspecified",
+      "department": "",
+      "employment_type": "",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-25",
+      "updated": "2026-11-25",
+      "deadline": "",
+      "source_url": "https://jobs.elastic.co/jobs?gh_jid=8413464&gh_jid=8413464",
+      "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8413464&gh_jid=8413464",
+      "first_seen": "2026-11-25T17:09:22Z",
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8414169",
@@ -6770,7 +6896,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8414169&gh_jid=8414169",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8414169&gh_jid=8414169",
       "first_seen": "2026-11-24T17:38:09Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8414170",
@@ -6788,7 +6914,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8414170&gh_jid=8414170",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8414170&gh_jid=8414170",
       "first_seen": "2026-11-24T17:38:09Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8414179",
@@ -6806,7 +6932,7 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8414179&gh_jid=8414179",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8414179&gh_jid=8414179",
       "first_seen": "2026-11-24T17:38:09Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8414184",
@@ -6824,7 +6950,97 @@
       "source_url": "https://jobs.elastic.co/jobs?gh_jid=8414184&gh_jid=8414184",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8414184&gh_jid=8414184",
       "first_seen": "2026-11-24T17:38:09Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
+    },
+    {
+      "id": "8414777",
+      "title": "Sr. Solutions Architect, Enterprise West (Presales)",
+      "company": "Elastic",
+      "location": "United States",
+      "remote": "unspecified",
+      "department": "",
+      "employment_type": "",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-24",
+      "updated": "2026-11-24",
+      "deadline": "",
+      "source_url": "https://jobs.elastic.co/jobs?gh_jid=8414777&gh_jid=8414777",
+      "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8414777&gh_jid=8414777",
+      "first_seen": "2026-11-25T17:09:22Z",
+      "last_checked": "2026-11-25T17:09:22Z"
+    },
+    {
+      "id": "8414808",
+      "title": "Manager, Salesforce Revenue Cloud",
+      "company": "Elastic",
+      "location": "Bangalore, India",
+      "remote": "unspecified",
+      "department": "",
+      "employment_type": "",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-24",
+      "updated": "2026-11-24",
+      "deadline": "",
+      "source_url": "https://jobs.elastic.co/jobs?gh_jid=8414808&gh_jid=8414808",
+      "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8414808&gh_jid=8414808",
+      "first_seen": "2026-11-25T17:09:22Z",
+      "last_checked": "2026-11-25T17:09:22Z"
+    },
+    {
+      "id": "8414873",
+      "title": "Sr. Solutions Architect, Enterprise East (Presales)",
+      "company": "Elastic",
+      "location": "United States",
+      "remote": "unspecified",
+      "department": "",
+      "employment_type": "",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-24",
+      "updated": "2026-11-24",
+      "deadline": "",
+      "source_url": "https://jobs.elastic.co/jobs?gh_jid=8414873&gh_jid=8414873",
+      "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8414873&gh_jid=8414873",
+      "first_seen": "2026-11-25T17:09:22Z",
+      "last_checked": "2026-11-25T17:09:22Z"
+    },
+    {
+      "id": "8416373",
+      "title": "Sales Development Representative",
+      "company": "Elastic",
+      "location": "Tokyo, Japan",
+      "remote": "unspecified",
+      "department": "",
+      "employment_type": "",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-25",
+      "updated": "2026-11-25",
+      "deadline": "",
+      "source_url": "https://jobs.elastic.co/jobs?gh_jid=8416373&gh_jid=8416373",
+      "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8416373&gh_jid=8416373",
+      "first_seen": "2026-11-25T17:09:22Z",
+      "last_checked": "2026-11-25T17:09:22Z"
+    },
+    {
+      "id": "8416659",
+      "title": "Senior Growth Marketing Manager (Paid Media) - Self Service Cloud",
+      "company": "Elastic",
+      "location": "United States",
+      "remote": "unspecified",
+      "department": "",
+      "employment_type": "",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-25",
+      "updated": "2026-11-25",
+      "deadline": "",
+      "source_url": "https://jobs.elastic.co/jobs?gh_jid=8416659&gh_jid=8416659",
+      "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8416659&gh_jid=8416659",
+      "first_seen": "2026-11-25T17:09:22Z",
+      "last_checked": "2026-11-25T17:09:22Z"
     }
   ],
   "ats": "greenhouse",

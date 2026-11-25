@@ -1,8 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-24T17:38:09Z",
+  "checked_at": "2026-11-25T17:09:22Z",
   "failed_at": null,
-  "etag": "W/\"65904-xJKAzLMupkzatQBvPmGC36qMhJw\"",
+  "etag": "W/\"64d24-z3V6DMTIuBElzgzHuBvTSZBLkDc\"",
   "jobs": [
     {
       "id": "098f68b8-1e11-492f-847e-7f7326fbaa10",
@@ -20,7 +20,7 @@
       "source_url": "https://jobs.lever.co/amarbank/098f68b8-1e11-492f-847e-7f7326fbaa10",
       "apply_url": "https://jobs.lever.co/amarbank/098f68b8-1e11-492f-847e-7f7326fbaa10/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "0f2205ff-7f62-4bc9-9152-164f1a77ccb4",
@@ -38,7 +38,7 @@
       "source_url": "https://jobs.lever.co/amarbank/0f2205ff-7f62-4bc9-9152-164f1a77ccb4",
       "apply_url": "https://jobs.lever.co/amarbank/0f2205ff-7f62-4bc9-9152-164f1a77ccb4/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "10b19a7e-6f30-43a1-ac81-d1c9d48de645",
@@ -56,7 +56,7 @@
       "source_url": "https://jobs.lever.co/amarbank/10b19a7e-6f30-43a1-ac81-d1c9d48de645",
       "apply_url": "https://jobs.lever.co/amarbank/10b19a7e-6f30-43a1-ac81-d1c9d48de645/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "128a4317-0e10-4e64-bbf4-5e54f58d0134",
@@ -74,7 +74,7 @@
       "source_url": "https://jobs.lever.co/amarbank/128a4317-0e10-4e64-bbf4-5e54f58d0134",
       "apply_url": "https://jobs.lever.co/amarbank/128a4317-0e10-4e64-bbf4-5e54f58d0134/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "14d9b925-acbb-4572-a5c6-468429349a1f",
@@ -92,7 +92,7 @@
       "source_url": "https://jobs.lever.co/amarbank/14d9b925-acbb-4572-a5c6-468429349a1f",
       "apply_url": "https://jobs.lever.co/amarbank/14d9b925-acbb-4572-a5c6-468429349a1f/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "161c5328-a81f-45de-b3b9-ef51e9a1eaca",
@@ -110,7 +110,7 @@
       "source_url": "https://jobs.lever.co/amarbank/161c5328-a81f-45de-b3b9-ef51e9a1eaca",
       "apply_url": "https://jobs.lever.co/amarbank/161c5328-a81f-45de-b3b9-ef51e9a1eaca/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "1685f823-66df-4fdf-988b-b99fd39a21b1",
@@ -128,7 +128,7 @@
       "source_url": "https://jobs.lever.co/amarbank/1685f823-66df-4fdf-988b-b99fd39a21b1",
       "apply_url": "https://jobs.lever.co/amarbank/1685f823-66df-4fdf-988b-b99fd39a21b1/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "19606818-0a85-468a-a0ef-8fd6be382069",
@@ -146,7 +146,7 @@
       "source_url": "https://jobs.lever.co/amarbank/19606818-0a85-468a-a0ef-8fd6be382069",
       "apply_url": "https://jobs.lever.co/amarbank/19606818-0a85-468a-a0ef-8fd6be382069/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "1f8583cb-c18b-4934-bde5-772bfa933033",
@@ -164,7 +164,7 @@
       "source_url": "https://jobs.lever.co/amarbank/1f8583cb-c18b-4934-bde5-772bfa933033",
       "apply_url": "https://jobs.lever.co/amarbank/1f8583cb-c18b-4934-bde5-772bfa933033/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "2b4895d2-ec2f-44db-9140-d7662d733b21",
@@ -182,7 +182,7 @@
       "source_url": "https://jobs.lever.co/amarbank/2b4895d2-ec2f-44db-9140-d7662d733b21",
       "apply_url": "https://jobs.lever.co/amarbank/2b4895d2-ec2f-44db-9140-d7662d733b21/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "2bac0e1f-adb5-46e4-b2dd-3cbdbc6c6430",
@@ -200,7 +200,7 @@
       "source_url": "https://jobs.lever.co/amarbank/2bac0e1f-adb5-46e4-b2dd-3cbdbc6c6430",
       "apply_url": "https://jobs.lever.co/amarbank/2bac0e1f-adb5-46e4-b2dd-3cbdbc6c6430/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "2d581907-e2a0-477a-b219-d0eb5b41a089",
@@ -218,7 +218,7 @@
       "source_url": "https://jobs.lever.co/amarbank/2d581907-e2a0-477a-b219-d0eb5b41a089",
       "apply_url": "https://jobs.lever.co/amarbank/2d581907-e2a0-477a-b219-d0eb5b41a089/apply",
       "first_seen": "2026-11-24T17:38:09Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "2e7a142c-d9bb-4e59-8573-a3733499d126",
@@ -236,29 +236,11 @@
       "source_url": "https://jobs.lever.co/amarbank/2e7a142c-d9bb-4e59-8573-a3733499d126",
       "apply_url": "https://jobs.lever.co/amarbank/2e7a142c-d9bb-4e59-8573-a3733499d126/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
-    },
-    {
-      "id": "35b216cc-db0c-4fa8-b408-6c85ff4d00a9",
-      "title": "Recruitment Intern",
-      "company": "Amar Bank",
-      "location": "Jakarta",
-      "remote": "onsite",
-      "department": "Recruitment",
-      "employment_type": "INTERN",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-02-19",
-      "updated": "",
-      "deadline": "",
-      "source_url": "https://jobs.lever.co/amarbank/35b216cc-db0c-4fa8-b408-6c85ff4d00a9",
-      "apply_url": "https://jobs.lever.co/amarbank/35b216cc-db0c-4fa8-b408-6c85ff4d00a9/apply",
-      "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "35b99f32-d7c7-4203-a57f-39d8add36ed3",
-      "title": "Compliance Department Head (Circle Lead)",
+      "title": "Compliance Circle Lead",
       "company": "Amar Bank",
       "location": "Jakarta",
       "remote": "onsite",
@@ -272,7 +254,7 @@
       "source_url": "https://jobs.lever.co/amarbank/35b99f32-d7c7-4203-a57f-39d8add36ed3",
       "apply_url": "https://jobs.lever.co/amarbank/35b99f32-d7c7-4203-a57f-39d8add36ed3/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "35eb91a3-8c8d-475a-8635-0e9f43ca0594",
@@ -290,7 +272,7 @@
       "source_url": "https://jobs.lever.co/amarbank/35eb91a3-8c8d-475a-8635-0e9f43ca0594",
       "apply_url": "https://jobs.lever.co/amarbank/35eb91a3-8c8d-475a-8635-0e9f43ca0594/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "3814806f-6ac1-4782-8316-0c98fa005ba0",
@@ -308,7 +290,7 @@
       "source_url": "https://jobs.lever.co/amarbank/3814806f-6ac1-4782-8316-0c98fa005ba0",
       "apply_url": "https://jobs.lever.co/amarbank/3814806f-6ac1-4782-8316-0c98fa005ba0/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "3c69d72d-b6c5-422d-b02a-326291d69dd8",
@@ -326,7 +308,7 @@
       "source_url": "https://jobs.lever.co/amarbank/3c69d72d-b6c5-422d-b02a-326291d69dd8",
       "apply_url": "https://jobs.lever.co/amarbank/3c69d72d-b6c5-422d-b02a-326291d69dd8/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "3d92f86c-67f3-4e55-bece-36d3082c5d70",
@@ -344,7 +326,7 @@
       "source_url": "https://jobs.lever.co/amarbank/3d92f86c-67f3-4e55-bece-36d3082c5d70",
       "apply_url": "https://jobs.lever.co/amarbank/3d92f86c-67f3-4e55-bece-36d3082c5d70/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "3fc8dd54-3af0-4b27-a7b4-e7762bf1c9af",
@@ -362,7 +344,7 @@
       "source_url": "https://jobs.lever.co/amarbank/3fc8dd54-3af0-4b27-a7b4-e7762bf1c9af",
       "apply_url": "https://jobs.lever.co/amarbank/3fc8dd54-3af0-4b27-a7b4-e7762bf1c9af/apply",
       "first_seen": "2026-11-18T15:36:26Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "424289ff-794b-446e-90a8-ad619912df3f",
@@ -380,7 +362,7 @@
       "source_url": "https://jobs.lever.co/amarbank/424289ff-794b-446e-90a8-ad619912df3f",
       "apply_url": "https://jobs.lever.co/amarbank/424289ff-794b-446e-90a8-ad619912df3f/apply",
       "first_seen": "2026-11-23T18:00:07Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "47203704-ab8d-4aa9-9032-deb0f601b4f7",
@@ -398,7 +380,7 @@
       "source_url": "https://jobs.lever.co/amarbank/47203704-ab8d-4aa9-9032-deb0f601b4f7",
       "apply_url": "https://jobs.lever.co/amarbank/47203704-ab8d-4aa9-9032-deb0f601b4f7/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "4c202850-e1d2-4eab-87ab-36d81ea66a71",
@@ -416,7 +398,7 @@
       "source_url": "https://jobs.lever.co/amarbank/4c202850-e1d2-4eab-87ab-36d81ea66a71",
       "apply_url": "https://jobs.lever.co/amarbank/4c202850-e1d2-4eab-87ab-36d81ea66a71/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "513e0476-6f97-4bbd-9061-185e589173fa",
@@ -434,7 +416,7 @@
       "source_url": "https://jobs.lever.co/amarbank/513e0476-6f97-4bbd-9061-185e589173fa",
       "apply_url": "https://jobs.lever.co/amarbank/513e0476-6f97-4bbd-9061-185e589173fa/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "5bcf0eb6-6d77-4ef2-864f-d99f81ff606e",
@@ -452,7 +434,7 @@
       "source_url": "https://jobs.lever.co/amarbank/5bcf0eb6-6d77-4ef2-864f-d99f81ff606e",
       "apply_url": "https://jobs.lever.co/amarbank/5bcf0eb6-6d77-4ef2-864f-d99f81ff606e/apply",
       "first_seen": "2026-11-18T15:36:26Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "64b63331-8bf6-4cf6-8aca-730e38c48993",
@@ -470,7 +452,7 @@
       "source_url": "https://jobs.lever.co/amarbank/64b63331-8bf6-4cf6-8aca-730e38c48993",
       "apply_url": "https://jobs.lever.co/amarbank/64b63331-8bf6-4cf6-8aca-730e38c48993/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "68574062-69f4-482c-8aac-ebcd149db655",
@@ -488,7 +470,7 @@
       "source_url": "https://jobs.lever.co/amarbank/68574062-69f4-482c-8aac-ebcd149db655",
       "apply_url": "https://jobs.lever.co/amarbank/68574062-69f4-482c-8aac-ebcd149db655/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "6ee982de-ae04-426e-93fd-a458380ed382",
@@ -506,7 +488,7 @@
       "source_url": "https://jobs.lever.co/amarbank/6ee982de-ae04-426e-93fd-a458380ed382",
       "apply_url": "https://jobs.lever.co/amarbank/6ee982de-ae04-426e-93fd-a458380ed382/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "75c6b77d-45c3-44ca-927b-0988de0a1f22",
@@ -524,7 +506,7 @@
       "source_url": "https://jobs.lever.co/amarbank/75c6b77d-45c3-44ca-927b-0988de0a1f22",
       "apply_url": "https://jobs.lever.co/amarbank/75c6b77d-45c3-44ca-927b-0988de0a1f22/apply",
       "first_seen": "2026-11-21T14:37:10Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "75ee6036-0a35-4425-b034-708ce284870b",
@@ -542,7 +524,7 @@
       "source_url": "https://jobs.lever.co/amarbank/75ee6036-0a35-4425-b034-708ce284870b",
       "apply_url": "https://jobs.lever.co/amarbank/75ee6036-0a35-4425-b034-708ce284870b/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "7674532d-73b9-44cb-ad3d-971b3e87cbb2",
@@ -560,7 +542,7 @@
       "source_url": "https://jobs.lever.co/amarbank/7674532d-73b9-44cb-ad3d-971b3e87cbb2",
       "apply_url": "https://jobs.lever.co/amarbank/7674532d-73b9-44cb-ad3d-971b3e87cbb2/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "7721c615-a9f2-41be-af18-6a45ffc03ab5",
@@ -578,11 +560,11 @@
       "source_url": "https://jobs.lever.co/amarbank/7721c615-a9f2-41be-af18-6a45ffc03ab5",
       "apply_url": "https://jobs.lever.co/amarbank/7721c615-a9f2-41be-af18-6a45ffc03ab5/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "79eb9f68-13b9-4ffe-b8b3-99816c9ae65b",
-      "title": "Regional Operation & Collection Circle Lead",
+      "title": "Regional Collection and Operational Circle Lead (Manager)",
       "company": "Amar Bank",
       "location": "Surabaya",
       "remote": "onsite",
@@ -596,7 +578,7 @@
       "source_url": "https://jobs.lever.co/amarbank/79eb9f68-13b9-4ffe-b8b3-99816c9ae65b",
       "apply_url": "https://jobs.lever.co/amarbank/79eb9f68-13b9-4ffe-b8b3-99816c9ae65b/apply",
       "first_seen": "2026-11-18T15:36:26Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "7d41d687-b8b4-4097-bbd4-fcbf41f76723",
@@ -614,7 +596,7 @@
       "source_url": "https://jobs.lever.co/amarbank/7d41d687-b8b4-4097-bbd4-fcbf41f76723",
       "apply_url": "https://jobs.lever.co/amarbank/7d41d687-b8b4-4097-bbd4-fcbf41f76723/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "7de23e98-517f-43f1-bb0a-009013fca21e",
@@ -632,7 +614,7 @@
       "source_url": "https://jobs.lever.co/amarbank/7de23e98-517f-43f1-bb0a-009013fca21e",
       "apply_url": "https://jobs.lever.co/amarbank/7de23e98-517f-43f1-bb0a-009013fca21e/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "81e9aa0f-8372-4028-baf9-aab2ed9a99d7",
@@ -650,7 +632,7 @@
       "source_url": "https://jobs.lever.co/amarbank/81e9aa0f-8372-4028-baf9-aab2ed9a99d7",
       "apply_url": "https://jobs.lever.co/amarbank/81e9aa0f-8372-4028-baf9-aab2ed9a99d7/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "906a35b0-9002-4f7a-a1ac-18e3c6209973",
@@ -668,7 +650,7 @@
       "source_url": "https://jobs.lever.co/amarbank/906a35b0-9002-4f7a-a1ac-18e3c6209973",
       "apply_url": "https://jobs.lever.co/amarbank/906a35b0-9002-4f7a-a1ac-18e3c6209973/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "91a81e5a-f48d-4398-80d6-77cec98fb94b",
@@ -686,7 +668,7 @@
       "source_url": "https://jobs.lever.co/amarbank/91a81e5a-f48d-4398-80d6-77cec98fb94b",
       "apply_url": "https://jobs.lever.co/amarbank/91a81e5a-f48d-4398-80d6-77cec98fb94b/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "95b17bc2-d5ef-4b9d-8fdf-f8ce3f6d3d1b",
@@ -704,7 +686,7 @@
       "source_url": "https://jobs.lever.co/amarbank/95b17bc2-d5ef-4b9d-8fdf-f8ce3f6d3d1b",
       "apply_url": "https://jobs.lever.co/amarbank/95b17bc2-d5ef-4b9d-8fdf-f8ce3f6d3d1b/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "96bf8362-0895-4bed-9c58-6a7365fd7877",
@@ -722,7 +704,7 @@
       "source_url": "https://jobs.lever.co/amarbank/96bf8362-0895-4bed-9c58-6a7365fd7877",
       "apply_url": "https://jobs.lever.co/amarbank/96bf8362-0895-4bed-9c58-6a7365fd7877/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "ad7f4db9-5754-4db7-81e2-4cf26e5acc47",
@@ -740,7 +722,7 @@
       "source_url": "https://jobs.lever.co/amarbank/ad7f4db9-5754-4db7-81e2-4cf26e5acc47",
       "apply_url": "https://jobs.lever.co/amarbank/ad7f4db9-5754-4db7-81e2-4cf26e5acc47/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "b3d0f8de-3bd1-4be6-8a3d-5655f433d922",
@@ -758,7 +740,7 @@
       "source_url": "https://jobs.lever.co/amarbank/b3d0f8de-3bd1-4be6-8a3d-5655f433d922",
       "apply_url": "https://jobs.lever.co/amarbank/b3d0f8de-3bd1-4be6-8a3d-5655f433d922/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "b74fb58c-5a99-4130-ba85-2baa460779c3",
@@ -776,7 +758,7 @@
       "source_url": "https://jobs.lever.co/amarbank/b74fb58c-5a99-4130-ba85-2baa460779c3",
       "apply_url": "https://jobs.lever.co/amarbank/b74fb58c-5a99-4130-ba85-2baa460779c3/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "bf0273de-bee6-4bc9-9c55-0105aab774fe",
@@ -794,7 +776,7 @@
       "source_url": "https://jobs.lever.co/amarbank/bf0273de-bee6-4bc9-9c55-0105aab774fe",
       "apply_url": "https://jobs.lever.co/amarbank/bf0273de-bee6-4bc9-9c55-0105aab774fe/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "c80110dd-0936-40d1-8da2-1971526bed83",
@@ -812,7 +794,7 @@
       "source_url": "https://jobs.lever.co/amarbank/c80110dd-0936-40d1-8da2-1971526bed83",
       "apply_url": "https://jobs.lever.co/amarbank/c80110dd-0936-40d1-8da2-1971526bed83/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "cba4e910-dcf1-4732-8110-15bd7b210f39",
@@ -830,7 +812,7 @@
       "source_url": "https://jobs.lever.co/amarbank/cba4e910-dcf1-4732-8110-15bd7b210f39",
       "apply_url": "https://jobs.lever.co/amarbank/cba4e910-dcf1-4732-8110-15bd7b210f39/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "d161cbb2-3478-49f0-bb5c-e84febac1f4c",
@@ -848,7 +830,7 @@
       "source_url": "https://jobs.lever.co/amarbank/d161cbb2-3478-49f0-bb5c-e84febac1f4c",
       "apply_url": "https://jobs.lever.co/amarbank/d161cbb2-3478-49f0-bb5c-e84febac1f4c/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "d223604e-2723-488f-b274-0081f7ca3a57",
@@ -866,7 +848,7 @@
       "source_url": "https://jobs.lever.co/amarbank/d223604e-2723-488f-b274-0081f7ca3a57",
       "apply_url": "https://jobs.lever.co/amarbank/d223604e-2723-488f-b274-0081f7ca3a57/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "d7b70d26-0089-42a7-a2d9-fef20f73c381",
@@ -884,7 +866,7 @@
       "source_url": "https://jobs.lever.co/amarbank/d7b70d26-0089-42a7-a2d9-fef20f73c381",
       "apply_url": "https://jobs.lever.co/amarbank/d7b70d26-0089-42a7-a2d9-fef20f73c381/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "e362d493-8fe7-4899-bf08-c4d0c1abbe24",
@@ -902,7 +884,7 @@
       "source_url": "https://jobs.lever.co/amarbank/e362d493-8fe7-4899-bf08-c4d0c1abbe24",
       "apply_url": "https://jobs.lever.co/amarbank/e362d493-8fe7-4899-bf08-c4d0c1abbe24/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "e78ca204-1cf0-422f-b222-0f57aecd2358",
@@ -920,7 +902,7 @@
       "source_url": "https://jobs.lever.co/amarbank/e78ca204-1cf0-422f-b222-0f57aecd2358",
       "apply_url": "https://jobs.lever.co/amarbank/e78ca204-1cf0-422f-b222-0f57aecd2358/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "e7f26ee8-bd75-4864-87a7-fa8f1b312fce",
@@ -938,7 +920,7 @@
       "source_url": "https://jobs.lever.co/amarbank/e7f26ee8-bd75-4864-87a7-fa8f1b312fce",
       "apply_url": "https://jobs.lever.co/amarbank/e7f26ee8-bd75-4864-87a7-fa8f1b312fce/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "f411f76e-c721-4067-af5b-08cb928ac00f",
@@ -956,7 +938,7 @@
       "source_url": "https://jobs.lever.co/amarbank/f411f76e-c721-4067-af5b-08cb928ac00f",
       "apply_url": "https://jobs.lever.co/amarbank/f411f76e-c721-4067-af5b-08cb928ac00f/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "fe1773c8-3ab7-47d4-a5be-03871d16cb95",
@@ -974,7 +956,7 @@
       "source_url": "https://jobs.lever.co/amarbank/fe1773c8-3ab7-47d4-a5be-03871d16cb95",
       "apply_url": "https://jobs.lever.co/amarbank/fe1773c8-3ab7-47d4-a5be-03871d16cb95/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "ff704db5-7435-4aec-8209-e0239fb2397c",
@@ -992,7 +974,7 @@
       "source_url": "https://jobs.lever.co/amarbank/ff704db5-7435-4aec-8209-e0239fb2397c",
       "apply_url": "https://jobs.lever.co/amarbank/ff704db5-7435-4aec-8209-e0239fb2397c/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     }
   ],
   "ats": "lever",

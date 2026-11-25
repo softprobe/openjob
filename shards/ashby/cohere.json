@@ -1,8 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-24T17:38:09Z",
+  "checked_at": "2026-11-25T17:09:22Z",
   "failed_at": null,
-  "etag": "W/\"job-board:d84d29425625537c7c9bd1e973699e75e71f8e3432a80a65f758c74a1843660b\"",
+  "etag": "W/\"job-board:1bf87ad2c080dc48d36221aecc5e66e2dd6c16bbd9c337102739ef3a324a0244\"",
   "jobs": [
     {
       "id": "0067eb76-92af-497e-a5f8-7521716552f9",
@@ -20,7 +20,7 @@
       "source_url": "https://jobs.ashbyhq.com/cohere/0067eb76-92af-497e-a5f8-7521716552f9",
       "apply_url": "https://jobs.ashbyhq.com/cohere/0067eb76-92af-497e-a5f8-7521716552f9/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "01a34bc3-6421-4af2-bf5b-f42e98155dda",
@@ -38,7 +38,7 @@
       "source_url": "https://jobs.ashbyhq.com/cohere/01a34bc3-6421-4af2-bf5b-f42e98155dda",
       "apply_url": "https://jobs.ashbyhq.com/cohere/01a34bc3-6421-4af2-bf5b-f42e98155dda/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "031c2335-db85-4265-8a88-a54b911be36a",
@@ -56,25 +56,25 @@
       "source_url": "https://jobs.ashbyhq.com/cohere/031c2335-db85-4265-8a88-a54b911be36a",
       "apply_url": "https://jobs.ashbyhq.com/cohere/031c2335-db85-4265-8a88-a54b911be36a/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
-      "id": "0342fd5f-3760-4dcb-b026-333c7b63fc8d",
-      "title": "Head of Corporate Development",
+      "id": "03cd844a-ab8d-42f0-b1f6-4b933ee7859e",
+      "title": "Accounts Payable Manager",
       "company": "Cohere",
       "location": "United States",
       "remote": "remote",
       "department": "Business Operations",
       "employment_type": "FULL_TIME",
-      "salary_text": "CA$375K - CA$465K",
+      "salary_text": "CA$200K - CA$240K",
       "salary_source": "ashby",
-      "posted": "2026-09-01",
+      "posted": "2026-11-24",
       "updated": "",
       "deadline": "",
-      "source_url": "https://jobs.ashbyhq.com/cohere/0342fd5f-3760-4dcb-b026-333c7b63fc8d",
-      "apply_url": "https://jobs.ashbyhq.com/cohere/0342fd5f-3760-4dcb-b026-333c7b63fc8d/application",
-      "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "source_url": "https://jobs.ashbyhq.com/cohere/03cd844a-ab8d-42f0-b1f6-4b933ee7859e",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/03cd844a-ab8d-42f0-b1f6-4b933ee7859e/application",
+      "first_seen": "2026-11-25T17:09:22Z",
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "068e9b49-e22b-493c-824f-0cc52840c80c",
@@ -92,7 +92,7 @@
       "source_url": "https://jobs.ashbyhq.com/cohere/068e9b49-e22b-493c-824f-0cc52840c80c",
       "apply_url": "https://jobs.ashbyhq.com/cohere/068e9b49-e22b-493c-824f-0cc52840c80c/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "0cf19dbd-bfa9-425f-a357-e2bd874bb489",
@@ -110,7 +110,7 @@
       "source_url": "https://jobs.ashbyhq.com/cohere/0cf19dbd-bfa9-425f-a357-e2bd874bb489",
       "apply_url": "https://jobs.ashbyhq.com/cohere/0cf19dbd-bfa9-425f-a357-e2bd874bb489/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "10306789-4fd5-4f1d-90aa-8132c2df2848",
@@ -128,7 +128,7 @@
       "source_url": "https://jobs.ashbyhq.com/cohere/10306789-4fd5-4f1d-90aa-8132c2df2848",
       "apply_url": "https://jobs.ashbyhq.com/cohere/10306789-4fd5-4f1d-90aa-8132c2df2848/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "14a286d9-e415-4198-8d3b-8e0a7882a5b6",
@@ -146,7 +146,7 @@
       "source_url": "https://jobs.ashbyhq.com/cohere/14a286d9-e415-4198-8d3b-8e0a7882a5b6",
       "apply_url": "https://jobs.ashbyhq.com/cohere/14a286d9-e415-4198-8d3b-8e0a7882a5b6/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "14aef6d9-763e-4f56-a498-206fb31dd0c6",
@@ -164,7 +164,7 @@
       "source_url": "https://jobs.ashbyhq.com/cohere/14aef6d9-763e-4f56-a498-206fb31dd0c6",
       "apply_url": "https://jobs.ashbyhq.com/cohere/14aef6d9-763e-4f56-a498-206fb31dd0c6/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "1a31d80f-0d8b-475a-a60a-b13393ba8687",
@@ -182,7 +182,7 @@
       "source_url": "https://jobs.ashbyhq.com/cohere/1a31d80f-0d8b-475a-a60a-b13393ba8687",
       "apply_url": "https://jobs.ashbyhq.com/cohere/1a31d80f-0d8b-475a-a60a-b13393ba8687/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "1a765f7b-ba66-43b1-8b17-86467a897ac4",
@@ -200,7 +200,7 @@
       "source_url": "https://jobs.ashbyhq.com/cohere/1a765f7b-ba66-43b1-8b17-86467a897ac4",
       "apply_url": "https://jobs.ashbyhq.com/cohere/1a765f7b-ba66-43b1-8b17-86467a897ac4/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "1b909aeb-1221-476f-88fe-8300a2065975",
@@ -218,7 +218,7 @@
       "source_url": "https://jobs.ashbyhq.com/cohere/1b909aeb-1221-476f-88fe-8300a2065975",
       "apply_url": "https://jobs.ashbyhq.com/cohere/1b909aeb-1221-476f-88fe-8300a2065975/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "1c011283-34f3-4461-bb65-455d65a3ec84",
@@ -236,7 +236,7 @@
       "source_url": "https://jobs.ashbyhq.com/cohere/1c011283-34f3-4461-bb65-455d65a3ec84",
       "apply_url": "https://jobs.ashbyhq.com/cohere/1c011283-34f3-4461-bb65-455d65a3ec84/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "1d1b300d-254b-48c4-958f-99c6b907f295",
@@ -254,7 +254,7 @@
       "source_url": "https://jobs.ashbyhq.com/cohere/1d1b300d-254b-48c4-958f-99c6b907f295",
       "apply_url": "https://jobs.ashbyhq.com/cohere/1d1b300d-254b-48c4-958f-99c6b907f295/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "1f7cc5e6-5f31-40d8-ad49-fe22c98a3ea4",
@@ -272,7 +272,7 @@
       "source_url": "https://jobs.ashbyhq.com/cohere/1f7cc5e6-5f31-40d8-ad49-fe22c98a3ea4",
       "apply_url": "https://jobs.ashbyhq.com/cohere/1f7cc5e6-5f31-40d8-ad49-fe22c98a3ea4/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "247a481a-21cc-4829-94c7-8447b692c89e",
@@ -290,7 +290,7 @@
       "source_url": "https://jobs.ashbyhq.com/cohere/247a481a-21cc-4829-94c7-8447b692c89e",
       "apply_url": "https://jobs.ashbyhq.com/cohere/247a481a-21cc-4829-94c7-8447b692c89e/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "291e5dee-dcda-49e6-a1b6-dae0d48f80af",
@@ -308,7 +308,7 @@
       "source_url": "https://jobs.ashbyhq.com/cohere/291e5dee-dcda-49e6-a1b6-dae0d48f80af",
       "apply_url": "https://jobs.ashbyhq.com/cohere/291e5dee-dcda-49e6-a1b6-dae0d48f80af/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "2a989030-6d14-4924-88c1-d878911e26fa",
@@ -326,7 +326,7 @@
       "source_url": "https://jobs.ashbyhq.com/cohere/2a989030-6d14-4924-88c1-d878911e26fa",
       "apply_url": "https://jobs.ashbyhq.com/cohere/2a989030-6d14-4924-88c1-d878911e26fa/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "2a9a9b65-4f1b-4387-aa7f-d58c78e738c4",
@@ -344,7 +344,7 @@
       "source_url": "https://jobs.ashbyhq.com/cohere/2a9a9b65-4f1b-4387-aa7f-d58c78e738c4",
       "apply_url": "https://jobs.ashbyhq.com/cohere/2a9a9b65-4f1b-4387-aa7f-d58c78e738c4/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "2d256112-b336-4539-8133-a0bf7f6698f0",
@@ -362,7 +362,7 @@
       "source_url": "https://jobs.ashbyhq.com/cohere/2d256112-b336-4539-8133-a0bf7f6698f0",
       "apply_url": "https://jobs.ashbyhq.com/cohere/2d256112-b336-4539-8133-a0bf7f6698f0/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "2d4d224f-94d4-40ce-88d5-5d340bc0da4e",
@@ -380,7 +380,7 @@
       "source_url": "https://jobs.ashbyhq.com/cohere/2d4d224f-94d4-40ce-88d5-5d340bc0da4e",
       "apply_url": "https://jobs.ashbyhq.com/cohere/2d4d224f-94d4-40ce-88d5-5d340bc0da4e/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "2dc422bb-6759-4867-afb6-dc074af9ae58",
@@ -398,7 +398,7 @@
       "source_url": "https://jobs.ashbyhq.com/cohere/2dc422bb-6759-4867-afb6-dc074af9ae58",
       "apply_url": "https://jobs.ashbyhq.com/cohere/2dc422bb-6759-4867-afb6-dc074af9ae58/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "2dc8b505-128a-4bc8-b8c1-7084e7d26530",
@@ -416,7 +416,7 @@
       "source_url": "https://jobs.ashbyhq.com/cohere/2dc8b505-128a-4bc8-b8c1-7084e7d26530",
       "apply_url": "https://jobs.ashbyhq.com/cohere/2dc8b505-128a-4bc8-b8c1-7084e7d26530/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "3136a5a5-06fd-4c82-8b72-a43467e6b128",
@@ -434,7 +434,7 @@
       "source_url": "https://jobs.ashbyhq.com/cohere/3136a5a5-06fd-4c82-8b72-a43467e6b128",
       "apply_url": "https://jobs.ashbyhq.com/cohere/3136a5a5-06fd-4c82-8b72-a43467e6b128/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "334b2a07-0c6a-4764-b4a8-c8bf68513cde",
@@ -452,7 +452,7 @@
       "source_url": "https://jobs.ashbyhq.com/cohere/334b2a07-0c6a-4764-b4a8-c8bf68513cde",
       "apply_url": "https://jobs.ashbyhq.com/cohere/334b2a07-0c6a-4764-b4a8-c8bf68513cde/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "33dfe3cc-1fd2-4ba3-8c7c-e7e19cd477d7",
@@ -470,7 +470,7 @@
       "source_url": "https://jobs.ashbyhq.com/cohere/33dfe3cc-1fd2-4ba3-8c7c-e7e19cd477d7",
       "apply_url": "https://jobs.ashbyhq.com/cohere/33dfe3cc-1fd2-4ba3-8c7c-e7e19cd477d7/application",
       "first_seen": "2026-11-24T17:38:09Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "36135ef8-0064-4445-88aa-6ab31ac03a33",
@@ -488,7 +488,7 @@
       "source_url": "https://jobs.ashbyhq.com/cohere/36135ef8-0064-4445-88aa-6ab31ac03a33",
       "apply_url": "https://jobs.ashbyhq.com/cohere/36135ef8-0064-4445-88aa-6ab31ac03a33/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "36d1f52f-8270-4652-adf5-5303a0ff341b",
@@ -506,7 +506,7 @@
       "source_url": "https://jobs.ashbyhq.com/cohere/36d1f52f-8270-4652-adf5-5303a0ff341b",
       "apply_url": "https://jobs.ashbyhq.com/cohere/36d1f52f-8270-4652-adf5-5303a0ff341b/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "3898333d-fcbe-4d3f-afad-8be721b08319",
@@ -524,7 +524,7 @@
       "source_url": "https://jobs.ashbyhq.com/cohere/3898333d-fcbe-4d3f-afad-8be721b08319",
       "apply_url": "https://jobs.ashbyhq.com/cohere/3898333d-fcbe-4d3f-afad-8be721b08319/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "39cab400-c976-41d9-9002-880ac6985b64",
@@ -542,7 +542,7 @@
       "source_url": "https://jobs.ashbyhq.com/cohere/39cab400-c976-41d9-9002-880ac6985b64",
       "apply_url": "https://jobs.ashbyhq.com/cohere/39cab400-c976-41d9-9002-880ac6985b64/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "40060bf5-5fb1-4969-ba7b-da27ce4a9e38",
@@ -560,7 +560,7 @@
       "source_url": "https://jobs.ashbyhq.com/cohere/40060bf5-5fb1-4969-ba7b-da27ce4a9e38",
       "apply_url": "https://jobs.ashbyhq.com/cohere/40060bf5-5fb1-4969-ba7b-da27ce4a9e38/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "41cb2a12-e33a-4368-a9f8-0ae0d19c023e",
@@ -578,7 +578,7 @@
       "source_url": "https://jobs.ashbyhq.com/cohere/41cb2a12-e33a-4368-a9f8-0ae0d19c023e",
       "apply_url": "https://jobs.ashbyhq.com/cohere/41cb2a12-e33a-4368-a9f8-0ae0d19c023e/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "41f23dad-9da2-451a-bd1e-a1800437cb64",
@@ -596,7 +596,7 @@
       "source_url": "https://jobs.ashbyhq.com/cohere/41f23dad-9da2-451a-bd1e-a1800437cb64",
       "apply_url": "https://jobs.ashbyhq.com/cohere/41f23dad-9da2-451a-bd1e-a1800437cb64/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "4232d337-fbc7-4e8c-81d5-2903ab0eb6e8",
@@ -614,7 +614,7 @@
       "source_url": "https://jobs.ashbyhq.com/cohere/4232d337-fbc7-4e8c-81d5-2903ab0eb6e8",
       "apply_url": "https://jobs.ashbyhq.com/cohere/4232d337-fbc7-4e8c-81d5-2903ab0eb6e8/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "443368a3-6276-4b90-9671-27fed40fd6d2",
@@ -632,7 +632,7 @@
       "source_url": "https://jobs.ashbyhq.com/cohere/443368a3-6276-4b90-9671-27fed40fd6d2",
       "apply_url": "https://jobs.ashbyhq.com/cohere/443368a3-6276-4b90-9671-27fed40fd6d2/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "481389bc-49c1-4cea-bc68-9e67c7ca4dd9",
@@ -650,7 +650,7 @@
       "source_url": "https://jobs.ashbyhq.com/cohere/481389bc-49c1-4cea-bc68-9e67c7ca4dd9",
       "apply_url": "https://jobs.ashbyhq.com/cohere/481389bc-49c1-4cea-bc68-9e67c7ca4dd9/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "49a6485c-c449-4e07-8001-cafc97a39a13",
@@ -668,7 +668,7 @@
       "source_url": "https://jobs.ashbyhq.com/cohere/49a6485c-c449-4e07-8001-cafc97a39a13",
       "apply_url": "https://jobs.ashbyhq.com/cohere/49a6485c-c449-4e07-8001-cafc97a39a13/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "4e3694ee-d051-497f-bb3b-8cff3d7f578f",
@@ -686,7 +686,7 @@
       "source_url": "https://jobs.ashbyhq.com/cohere/4e3694ee-d051-497f-bb3b-8cff3d7f578f",
       "apply_url": "https://jobs.ashbyhq.com/cohere/4e3694ee-d051-497f-bb3b-8cff3d7f578f/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "4ef5101e-b083-49cd-808a-54c754d159e5",
@@ -704,7 +704,7 @@
       "source_url": "https://jobs.ashbyhq.com/cohere/4ef5101e-b083-49cd-808a-54c754d159e5",
       "apply_url": "https://jobs.ashbyhq.com/cohere/4ef5101e-b083-49cd-808a-54c754d159e5/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "529b2dd6-4be3-49db-97cd-781f4897540b",
@@ -722,7 +722,7 @@
       "source_url": "https://jobs.ashbyhq.com/cohere/529b2dd6-4be3-49db-97cd-781f4897540b",
       "apply_url": "https://jobs.ashbyhq.com/cohere/529b2dd6-4be3-49db-97cd-781f4897540b/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "52a2b83b-7537-4e88-af7b-e4e9630a96e0",
@@ -740,25 +740,7 @@
       "source_url": "https://jobs.ashbyhq.com/cohere/52a2b83b-7537-4e88-af7b-e4e9630a96e0",
       "apply_url": "https://jobs.ashbyhq.com/cohere/52a2b83b-7537-4e88-af7b-e4e9630a96e0/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
-    },
-    {
-      "id": "53c89232-1de7-42b5-ab9d-b5290451c7e8",
-      "title": "Financial Analyst, G&A",
-      "company": "Cohere",
-      "location": "United States",
-      "remote": "remote",
-      "department": "Business Operations",
-      "employment_type": "FULL_TIME",
-      "salary_text": "$100K - $155K",
-      "salary_source": "ashby",
-      "posted": "2026-11-19",
-      "updated": "",
-      "deadline": "",
-      "source_url": "https://jobs.ashbyhq.com/cohere/53c89232-1de7-42b5-ab9d-b5290451c7e8",
-      "apply_url": "https://jobs.ashbyhq.com/cohere/53c89232-1de7-42b5-ab9d-b5290451c7e8/application",
-      "first_seen": "2026-11-20T15:23:49Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "554a9380-ab50-4338-88a9-c6b8ab19d92e",
@@ -776,7 +758,7 @@
       "source_url": "https://jobs.ashbyhq.com/cohere/554a9380-ab50-4338-88a9-c6b8ab19d92e",
       "apply_url": "https://jobs.ashbyhq.com/cohere/554a9380-ab50-4338-88a9-c6b8ab19d92e/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "556467eb-3dc8-46e2-b015-277872210997",
@@ -794,7 +776,7 @@
       "source_url": "https://jobs.ashbyhq.com/cohere/556467eb-3dc8-46e2-b015-277872210997",
       "apply_url": "https://jobs.ashbyhq.com/cohere/556467eb-3dc8-46e2-b015-277872210997/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "582c4a60-14a2-49d5-b4d3-24c4ec50508d",
@@ -812,7 +794,7 @@
       "source_url": "https://jobs.ashbyhq.com/cohere/582c4a60-14a2-49d5-b4d3-24c4ec50508d",
       "apply_url": "https://jobs.ashbyhq.com/cohere/582c4a60-14a2-49d5-b4d3-24c4ec50508d/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "5831a16f-745b-4d49-bc7a-a371b4686ab4",
@@ -830,7 +812,7 @@
       "source_url": "https://jobs.ashbyhq.com/cohere/5831a16f-745b-4d49-bc7a-a371b4686ab4",
       "apply_url": "https://jobs.ashbyhq.com/cohere/5831a16f-745b-4d49-bc7a-a371b4686ab4/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "58c1bb1d-2a19-42af-84e2-e6d276591ef6",
@@ -848,7 +830,7 @@
       "source_url": "https://jobs.ashbyhq.com/cohere/58c1bb1d-2a19-42af-84e2-e6d276591ef6",
       "apply_url": "https://jobs.ashbyhq.com/cohere/58c1bb1d-2a19-42af-84e2-e6d276591ef6/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "597e18f5-c33c-4350-8bcd-05a751cece3a",
@@ -866,17 +848,17 @@
       "source_url": "https://jobs.ashbyhq.com/cohere/597e18f5-c33c-4350-8bcd-05a751cece3a",
       "apply_url": "https://jobs.ashbyhq.com/cohere/597e18f5-c33c-4350-8bcd-05a751cece3a/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "5a61f4d2-5a52-4c98-a8a9-71fbfd67e485",
-      "title": "Tech Compensation Business Partner",
+      "title": "Lead Tech Compensation Business Partner",
       "company": "Cohere",
       "location": "New York",
       "remote": "remote",
       "department": "People Operations",
       "employment_type": "FULL_TIME",
-      "salary_text": "$105K - $150K",
+      "salary_text": "$150K - $195K",
       "salary_source": "ashby",
       "posted": "2026-11-16",
       "updated": "",
@@ -884,7 +866,7 @@
       "source_url": "https://jobs.ashbyhq.com/cohere/5a61f4d2-5a52-4c98-a8a9-71fbfd67e485",
       "apply_url": "https://jobs.ashbyhq.com/cohere/5a61f4d2-5a52-4c98-a8a9-71fbfd67e485/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "5cfb3495-e33f-4cf2-a54d-fa9a5ca3cc3e",
@@ -902,7 +884,7 @@
       "source_url": "https://jobs.ashbyhq.com/cohere/5cfb3495-e33f-4cf2-a54d-fa9a5ca3cc3e",
       "apply_url": "https://jobs.ashbyhq.com/cohere/5cfb3495-e33f-4cf2-a54d-fa9a5ca3cc3e/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "5e344658-f721-4f4a-b4df-b4052b6a0393",
@@ -920,7 +902,7 @@
       "source_url": "https://jobs.ashbyhq.com/cohere/5e344658-f721-4f4a-b4df-b4052b6a0393",
       "apply_url": "https://jobs.ashbyhq.com/cohere/5e344658-f721-4f4a-b4df-b4052b6a0393/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "653e8ebb-bed4-4dae-b4bf-e936d6422a72",
@@ -938,7 +920,7 @@
       "source_url": "https://jobs.ashbyhq.com/cohere/653e8ebb-bed4-4dae-b4bf-e936d6422a72",
       "apply_url": "https://jobs.ashbyhq.com/cohere/653e8ebb-bed4-4dae-b4bf-e936d6422a72/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "691982e3-9357-42e4-b4c3-a65cae906935",
@@ -956,7 +938,7 @@
       "source_url": "https://jobs.ashbyhq.com/cohere/691982e3-9357-42e4-b4c3-a65cae906935",
       "apply_url": "https://jobs.ashbyhq.com/cohere/691982e3-9357-42e4-b4c3-a65cae906935/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "6aa3cb2b-ee8b-4c92-b505-3a7509f80d7f",
@@ -974,7 +956,7 @@
       "source_url": "https://jobs.ashbyhq.com/cohere/6aa3cb2b-ee8b-4c92-b505-3a7509f80d7f",
       "apply_url": "https://jobs.ashbyhq.com/cohere/6aa3cb2b-ee8b-4c92-b505-3a7509f80d7f/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "6d0f0753-ff22-46fd-90e9-08998914a8e7",
@@ -992,7 +974,7 @@
       "source_url": "https://jobs.ashbyhq.com/cohere/6d0f0753-ff22-46fd-90e9-08998914a8e7",
       "apply_url": "https://jobs.ashbyhq.com/cohere/6d0f0753-ff22-46fd-90e9-08998914a8e7/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "6d2d5e2e-46bd-4da5-9e03-573578424976",
@@ -1010,7 +992,7 @@
       "source_url": "https://jobs.ashbyhq.com/cohere/6d2d5e2e-46bd-4da5-9e03-573578424976",
       "apply_url": "https://jobs.ashbyhq.com/cohere/6d2d5e2e-46bd-4da5-9e03-573578424976/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "7069b63c-f0cf-4e53-9ad2-3dfa7dc79c80",
@@ -1028,7 +1010,7 @@
       "source_url": "https://jobs.ashbyhq.com/cohere/7069b63c-f0cf-4e53-9ad2-3dfa7dc79c80",
       "apply_url": "https://jobs.ashbyhq.com/cohere/7069b63c-f0cf-4e53-9ad2-3dfa7dc79c80/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "70a8dc77-ac84-4790-aff6-13b4dcd4554a",
@@ -1046,7 +1028,7 @@
       "source_url": "https://jobs.ashbyhq.com/cohere/70a8dc77-ac84-4790-aff6-13b4dcd4554a",
       "apply_url": "https://jobs.ashbyhq.com/cohere/70a8dc77-ac84-4790-aff6-13b4dcd4554a/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "7133d205-5421-4336-a8e2-6037b5f55073",
@@ -1064,7 +1046,7 @@
       "source_url": "https://jobs.ashbyhq.com/cohere/7133d205-5421-4336-a8e2-6037b5f55073",
       "apply_url": "https://jobs.ashbyhq.com/cohere/7133d205-5421-4336-a8e2-6037b5f55073/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "735f26a3-9456-49e2-8f84-23804534cfe4",
@@ -1082,7 +1064,7 @@
       "source_url": "https://jobs.ashbyhq.com/cohere/735f26a3-9456-49e2-8f84-23804534cfe4",
       "apply_url": "https://jobs.ashbyhq.com/cohere/735f26a3-9456-49e2-8f84-23804534cfe4/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "73bd3e2b-6597-4124-b64b-1e5dbc32e785",
@@ -1100,7 +1082,7 @@
       "source_url": "https://jobs.ashbyhq.com/cohere/73bd3e2b-6597-4124-b64b-1e5dbc32e785",
       "apply_url": "https://jobs.ashbyhq.com/cohere/73bd3e2b-6597-4124-b64b-1e5dbc32e785/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "74373c60-3ce9-48fd-ae8d-5235fa24c682",
@@ -1118,7 +1100,7 @@
       "source_url": "https://jobs.ashbyhq.com/cohere/74373c60-3ce9-48fd-ae8d-5235fa24c682",
       "apply_url": "https://jobs.ashbyhq.com/cohere/74373c60-3ce9-48fd-ae8d-5235fa24c682/application",
       "first_seen": "2026-11-17T15:56:57Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "75765a04-82cb-4d17-ac53-09b156656a7d",
@@ -1136,7 +1118,7 @@
       "source_url": "https://jobs.ashbyhq.com/cohere/75765a04-82cb-4d17-ac53-09b156656a7d",
       "apply_url": "https://jobs.ashbyhq.com/cohere/75765a04-82cb-4d17-ac53-09b156656a7d/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "75c0032c-7200-48bf-9d6d-355880dd93d9",
@@ -1154,7 +1136,7 @@
       "source_url": "https://jobs.ashbyhq.com/cohere/75c0032c-7200-48bf-9d6d-355880dd93d9",
       "apply_url": "https://jobs.ashbyhq.com/cohere/75c0032c-7200-48bf-9d6d-355880dd93d9/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "77885bc2-a88a-421b-a2d6-ae209a8fa758",
@@ -1172,7 +1154,7 @@
       "source_url": "https://jobs.ashbyhq.com/cohere/77885bc2-a88a-421b-a2d6-ae209a8fa758",
       "apply_url": "https://jobs.ashbyhq.com/cohere/77885bc2-a88a-421b-a2d6-ae209a8fa758/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "789f7d5f-d829-45b6-a1ed-b9cff0c92389",
@@ -1190,7 +1172,25 @@
       "source_url": "https://jobs.ashbyhq.com/cohere/789f7d5f-d829-45b6-a1ed-b9cff0c92389",
       "apply_url": "https://jobs.ashbyhq.com/cohere/789f7d5f-d829-45b6-a1ed-b9cff0c92389/application",
       "first_seen": "2026-11-18T15:36:26Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
+    },
+    {
+      "id": "7c05d8d1-f288-404b-8142-1be372ae6354",
+      "title": "Senior Manager, Talent Development",
+      "company": "Cohere",
+      "location": "Toronto",
+      "remote": "remote",
+      "department": "People Operations",
+      "employment_type": "FULL_TIME",
+      "salary_text": "$180K - $235K",
+      "salary_source": "ashby",
+      "posted": "2026-11-25",
+      "updated": "",
+      "deadline": "",
+      "source_url": "https://jobs.ashbyhq.com/cohere/7c05d8d1-f288-404b-8142-1be372ae6354",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/7c05d8d1-f288-404b-8142-1be372ae6354/application",
+      "first_seen": "2026-11-25T17:09:22Z",
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "7e0e08ed-4b12-4aaa-8dda-ad6292992061",
@@ -1208,7 +1208,7 @@
       "source_url": "https://jobs.ashbyhq.com/cohere/7e0e08ed-4b12-4aaa-8dda-ad6292992061",
       "apply_url": "https://jobs.ashbyhq.com/cohere/7e0e08ed-4b12-4aaa-8dda-ad6292992061/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "830c613b-d4bf-4673-ab33-46ccc12cc415",
@@ -1226,7 +1226,7 @@
       "source_url": "https://jobs.ashbyhq.com/cohere/830c613b-d4bf-4673-ab33-46ccc12cc415",
       "apply_url": "https://jobs.ashbyhq.com/cohere/830c613b-d4bf-4673-ab33-46ccc12cc415/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "859e2e47-02fb-4afe-bb8a-e83bf4d8c265",
@@ -1244,7 +1244,7 @@
       "source_url": "https://jobs.ashbyhq.com/cohere/859e2e47-02fb-4afe-bb8a-e83bf4d8c265",
       "apply_url": "https://jobs.ashbyhq.com/cohere/859e2e47-02fb-4afe-bb8a-e83bf4d8c265/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "85e808ab-ee45-4944-bedc-832bf933d0b6",
@@ -1262,7 +1262,7 @@
       "source_url": "https://jobs.ashbyhq.com/cohere/85e808ab-ee45-4944-bedc-832bf933d0b6",
       "apply_url": "https://jobs.ashbyhq.com/cohere/85e808ab-ee45-4944-bedc-832bf933d0b6/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8878b0d0-7d88-4ee9-bc17-b0dd237e39a0",
@@ -1280,7 +1280,7 @@
       "source_url": "https://jobs.ashbyhq.com/cohere/8878b0d0-7d88-4ee9-bc17-b0dd237e39a0",
       "apply_url": "https://jobs.ashbyhq.com/cohere/8878b0d0-7d88-4ee9-bc17-b0dd237e39a0/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8a73f59d-41b7-42ed-8cc8-99afa0a2ba5f",
@@ -1298,7 +1298,7 @@
       "source_url": "https://jobs.ashbyhq.com/cohere/8a73f59d-41b7-42ed-8cc8-99afa0a2ba5f",
       "apply_url": "https://jobs.ashbyhq.com/cohere/8a73f59d-41b7-42ed-8cc8-99afa0a2ba5f/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8ac3ed85-e315-443b-bc13-e7a0b900b922",
@@ -1316,7 +1316,7 @@
       "source_url": "https://jobs.ashbyhq.com/cohere/8ac3ed85-e315-443b-bc13-e7a0b900b922",
       "apply_url": "https://jobs.ashbyhq.com/cohere/8ac3ed85-e315-443b-bc13-e7a0b900b922/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8df498e9-aba8-487f-80ba-362b492bad09",
@@ -1334,7 +1334,7 @@
       "source_url": "https://jobs.ashbyhq.com/cohere/8df498e9-aba8-487f-80ba-362b492bad09",
       "apply_url": "https://jobs.ashbyhq.com/cohere/8df498e9-aba8-487f-80ba-362b492bad09/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8f60b8e2-55b9-4258-a4cc-813273161f97",
@@ -1352,7 +1352,7 @@
       "source_url": "https://jobs.ashbyhq.com/cohere/8f60b8e2-55b9-4258-a4cc-813273161f97",
       "apply_url": "https://jobs.ashbyhq.com/cohere/8f60b8e2-55b9-4258-a4cc-813273161f97/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "9845c80d-95ba-4769-94a7-62408d73d603",
@@ -1370,7 +1370,7 @@
       "source_url": "https://jobs.ashbyhq.com/cohere/9845c80d-95ba-4769-94a7-62408d73d603",
       "apply_url": "https://jobs.ashbyhq.com/cohere/9845c80d-95ba-4769-94a7-62408d73d603/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "98f69f63-2f54-4813-86ea-13d67336326e",
@@ -1388,7 +1388,7 @@
       "source_url": "https://jobs.ashbyhq.com/cohere/98f69f63-2f54-4813-86ea-13d67336326e",
       "apply_url": "https://jobs.ashbyhq.com/cohere/98f69f63-2f54-4813-86ea-13d67336326e/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "9b596ab8-0df4-41aa-85da-e07578c082b2",
@@ -1406,7 +1406,7 @@
       "source_url": "https://jobs.ashbyhq.com/cohere/9b596ab8-0df4-41aa-85da-e07578c082b2",
       "apply_url": "https://jobs.ashbyhq.com/cohere/9b596ab8-0df4-41aa-85da-e07578c082b2/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "9be116c1-c1df-49bd-8e90-31d41b62645f",
@@ -1424,7 +1424,7 @@
       "source_url": "https://jobs.ashbyhq.com/cohere/9be116c1-c1df-49bd-8e90-31d41b62645f",
       "apply_url": "https://jobs.ashbyhq.com/cohere/9be116c1-c1df-49bd-8e90-31d41b62645f/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "9f8d2b51-7fe9-470d-8108-fe5fb48c8a89",
@@ -1442,7 +1442,7 @@
       "source_url": "https://jobs.ashbyhq.com/cohere/9f8d2b51-7fe9-470d-8108-fe5fb48c8a89",
       "apply_url": "https://jobs.ashbyhq.com/cohere/9f8d2b51-7fe9-470d-8108-fe5fb48c8a89/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "a10a96b5-f772-466d-9297-f021f78ca9c0",
@@ -1460,7 +1460,7 @@
       "source_url": "https://jobs.ashbyhq.com/cohere/a10a96b5-f772-466d-9297-f021f78ca9c0",
       "apply_url": "https://jobs.ashbyhq.com/cohere/a10a96b5-f772-466d-9297-f021f78ca9c0/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "a13207e7-dc82-473f-8ca4-e832452fe8c3",
@@ -1478,7 +1478,7 @@
       "source_url": "https://jobs.ashbyhq.com/cohere/a13207e7-dc82-473f-8ca4-e832452fe8c3",
       "apply_url": "https://jobs.ashbyhq.com/cohere/a13207e7-dc82-473f-8ca4-e832452fe8c3/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "a3a69960-3c85-4b11-b9b7-d4056d406c2e",
@@ -1496,7 +1496,7 @@
       "source_url": "https://jobs.ashbyhq.com/cohere/a3a69960-3c85-4b11-b9b7-d4056d406c2e",
       "apply_url": "https://jobs.ashbyhq.com/cohere/a3a69960-3c85-4b11-b9b7-d4056d406c2e/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "a42976d7-0ae5-4892-b3ba-bf5510c6cecd",
@@ -1514,7 +1514,7 @@
       "source_url": "https://jobs.ashbyhq.com/cohere/a42976d7-0ae5-4892-b3ba-bf5510c6cecd",
       "apply_url": "https://jobs.ashbyhq.com/cohere/a42976d7-0ae5-4892-b3ba-bf5510c6cecd/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "a7321948-288c-4e9f-9fbe-2f9ccda07ffa",
@@ -1532,7 +1532,7 @@
       "source_url": "https://jobs.ashbyhq.com/cohere/a7321948-288c-4e9f-9fbe-2f9ccda07ffa",
       "apply_url": "https://jobs.ashbyhq.com/cohere/a7321948-288c-4e9f-9fbe-2f9ccda07ffa/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "ab45a550-14a2-4a74-abfb-83688d4508c1",
@@ -1550,7 +1550,7 @@
       "source_url": "https://jobs.ashbyhq.com/cohere/ab45a550-14a2-4a74-abfb-83688d4508c1",
       "apply_url": "https://jobs.ashbyhq.com/cohere/ab45a550-14a2-4a74-abfb-83688d4508c1/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "abd68512-a6e1-4221-bc60-dec83623408a",
@@ -1568,7 +1568,7 @@
       "source_url": "https://jobs.ashbyhq.com/cohere/abd68512-a6e1-4221-bc60-dec83623408a",
       "apply_url": "https://jobs.ashbyhq.com/cohere/abd68512-a6e1-4221-bc60-dec83623408a/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "acec6038-117b-400b-92e3-0745fbb4cf53",
@@ -1586,7 +1586,7 @@
       "source_url": "https://jobs.ashbyhq.com/cohere/acec6038-117b-400b-92e3-0745fbb4cf53",
       "apply_url": "https://jobs.ashbyhq.com/cohere/acec6038-117b-400b-92e3-0745fbb4cf53/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "ada41b39-21a9-467c-a22c-9e907524af40",
@@ -1604,7 +1604,7 @@
       "source_url": "https://jobs.ashbyhq.com/cohere/ada41b39-21a9-467c-a22c-9e907524af40",
       "apply_url": "https://jobs.ashbyhq.com/cohere/ada41b39-21a9-467c-a22c-9e907524af40/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "b04cf265-c4f7-48bf-88ec-d4d71f3bdfaa",
@@ -1622,7 +1622,7 @@
       "source_url": "https://jobs.ashbyhq.com/cohere/b04cf265-c4f7-48bf-88ec-d4d71f3bdfaa",
       "apply_url": "https://jobs.ashbyhq.com/cohere/b04cf265-c4f7-48bf-88ec-d4d71f3bdfaa/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "b0bcef37-1d20-414f-aade-c54942d63df9",
@@ -1640,7 +1640,7 @@
       "source_url": "https://jobs.ashbyhq.com/cohere/b0bcef37-1d20-414f-aade-c54942d63df9",
       "apply_url": "https://jobs.ashbyhq.com/cohere/b0bcef37-1d20-414f-aade-c54942d63df9/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "b9306620-a110-46b5-b4c4-7363e1d03a8d",
@@ -1658,7 +1658,7 @@
       "source_url": "https://jobs.ashbyhq.com/cohere/b9306620-a110-46b5-b4c4-7363e1d03a8d",
       "apply_url": "https://jobs.ashbyhq.com/cohere/b9306620-a110-46b5-b4c4-7363e1d03a8d/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "baa0f719-86bf-4378-83c9-c8c8609357f0",
@@ -1676,7 +1676,7 @@
       "source_url": "https://jobs.ashbyhq.com/cohere/baa0f719-86bf-4378-83c9-c8c8609357f0",
       "apply_url": "https://jobs.ashbyhq.com/cohere/baa0f719-86bf-4378-83c9-c8c8609357f0/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "bb10d507-b8ca-4c48-a137-333b710b6908",
@@ -1694,7 +1694,7 @@
       "source_url": "https://jobs.ashbyhq.com/cohere/bb10d507-b8ca-4c48-a137-333b710b6908",
       "apply_url": "https://jobs.ashbyhq.com/cohere/bb10d507-b8ca-4c48-a137-333b710b6908/application",
       "first_seen": "2026-11-24T17:38:09Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "bdcdc6d1-2379-40fe-bfb6-d61768043b37",
@@ -1712,7 +1712,7 @@
       "source_url": "https://jobs.ashbyhq.com/cohere/bdcdc6d1-2379-40fe-bfb6-d61768043b37",
       "apply_url": "https://jobs.ashbyhq.com/cohere/bdcdc6d1-2379-40fe-bfb6-d61768043b37/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "be48aafc-9610-4ebd-8414-a0722a3cd59a",
@@ -1730,7 +1730,7 @@
       "source_url": "https://jobs.ashbyhq.com/cohere/be48aafc-9610-4ebd-8414-a0722a3cd59a",
       "apply_url": "https://jobs.ashbyhq.com/cohere/be48aafc-9610-4ebd-8414-a0722a3cd59a/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "c0cab8c2-7215-449b-92c8-44b48c313514",
@@ -1748,7 +1748,7 @@
       "source_url": "https://jobs.ashbyhq.com/cohere/c0cab8c2-7215-449b-92c8-44b48c313514",
       "apply_url": "https://jobs.ashbyhq.com/cohere/c0cab8c2-7215-449b-92c8-44b48c313514/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "c12e3636-ed16-47e7-ba1f-82860f88d340",
@@ -1766,7 +1766,7 @@
       "source_url": "https://jobs.ashbyhq.com/cohere/c12e3636-ed16-47e7-ba1f-82860f88d340",
       "apply_url": "https://jobs.ashbyhq.com/cohere/c12e3636-ed16-47e7-ba1f-82860f88d340/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "c21c76f0-4a2f-4666-a256-01f454d1d479",
@@ -1784,7 +1784,7 @@
       "source_url": "https://jobs.ashbyhq.com/cohere/c21c76f0-4a2f-4666-a256-01f454d1d479",
       "apply_url": "https://jobs.ashbyhq.com/cohere/c21c76f0-4a2f-4666-a256-01f454d1d479/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "c4192057-43fa-45c9-a40e-6f29131bf11d",
@@ -1802,7 +1802,7 @@
       "source_url": "https://jobs.ashbyhq.com/cohere/c4192057-43fa-45c9-a40e-6f29131bf11d",
       "apply_url": "https://jobs.ashbyhq.com/cohere/c4192057-43fa-45c9-a40e-6f29131bf11d/application",
       "first_seen": "2026-11-16T15:39:28Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "cb981ecd-a161-482c-8d8e-5f19bb6e7fdd",
@@ -1820,7 +1820,7 @@
       "source_url": "https://jobs.ashbyhq.com/cohere/cb981ecd-a161-482c-8d8e-5f19bb6e7fdd",
       "apply_url": "https://jobs.ashbyhq.com/cohere/cb981ecd-a161-482c-8d8e-5f19bb6e7fdd/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "d164d567-58d9-42fc-9e14-68d1dd2cb5a7",
@@ -1838,7 +1838,7 @@
       "source_url": "https://jobs.ashbyhq.com/cohere/d164d567-58d9-42fc-9e14-68d1dd2cb5a7",
       "apply_url": "https://jobs.ashbyhq.com/cohere/d164d567-58d9-42fc-9e14-68d1dd2cb5a7/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "d28fbc03-cb09-49da-84b9-e12c16182695",
@@ -1856,7 +1856,7 @@
       "source_url": "https://jobs.ashbyhq.com/cohere/d28fbc03-cb09-49da-84b9-e12c16182695",
       "apply_url": "https://jobs.ashbyhq.com/cohere/d28fbc03-cb09-49da-84b9-e12c16182695/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "d42f5fd4-1ffc-45b9-957c-f09862db6af6",
@@ -1874,7 +1874,7 @@
       "source_url": "https://jobs.ashbyhq.com/cohere/d42f5fd4-1ffc-45b9-957c-f09862db6af6",
       "apply_url": "https://jobs.ashbyhq.com/cohere/d42f5fd4-1ffc-45b9-957c-f09862db6af6/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "d4c55e53-850e-4bf9-bd34-de86ab27ebc2",
@@ -1892,7 +1892,7 @@
       "source_url": "https://jobs.ashbyhq.com/cohere/d4c55e53-850e-4bf9-bd34-de86ab27ebc2",
       "apply_url": "https://jobs.ashbyhq.com/cohere/d4c55e53-850e-4bf9-bd34-de86ab27ebc2/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "d5cc437c-2397-4c1a-9d12-3a2bf64d98ea",
@@ -1910,7 +1910,7 @@
       "source_url": "https://jobs.ashbyhq.com/cohere/d5cc437c-2397-4c1a-9d12-3a2bf64d98ea",
       "apply_url": "https://jobs.ashbyhq.com/cohere/d5cc437c-2397-4c1a-9d12-3a2bf64d98ea/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "dbe76343-a8ae-445c-b2f9-c5a304d54f6a",
@@ -1928,7 +1928,7 @@
       "source_url": "https://jobs.ashbyhq.com/cohere/dbe76343-a8ae-445c-b2f9-c5a304d54f6a",
       "apply_url": "https://jobs.ashbyhq.com/cohere/dbe76343-a8ae-445c-b2f9-c5a304d54f6a/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "dc523c5b-9477-46c4-a122-4f3b2b8f4b67",
@@ -1946,7 +1946,7 @@
       "source_url": "https://jobs.ashbyhq.com/cohere/dc523c5b-9477-46c4-a122-4f3b2b8f4b67",
       "apply_url": "https://jobs.ashbyhq.com/cohere/dc523c5b-9477-46c4-a122-4f3b2b8f4b67/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "dc881634-ca66-46e5-90ff-43ad83080de2",
@@ -1964,7 +1964,7 @@
       "source_url": "https://jobs.ashbyhq.com/cohere/dc881634-ca66-46e5-90ff-43ad83080de2",
       "apply_url": "https://jobs.ashbyhq.com/cohere/dc881634-ca66-46e5-90ff-43ad83080de2/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "dca93d1a-9ab8-442b-aa76-950595e8b9c3",
@@ -1982,7 +1982,7 @@
       "source_url": "https://jobs.ashbyhq.com/cohere/dca93d1a-9ab8-442b-aa76-950595e8b9c3",
       "apply_url": "https://jobs.ashbyhq.com/cohere/dca93d1a-9ab8-442b-aa76-950595e8b9c3/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "e2489771-1c24-4ca2-ab5b-03fc961b18b7",
@@ -2000,7 +2000,7 @@
       "source_url": "https://jobs.ashbyhq.com/cohere/e2489771-1c24-4ca2-ab5b-03fc961b18b7",
       "apply_url": "https://jobs.ashbyhq.com/cohere/e2489771-1c24-4ca2-ab5b-03fc961b18b7/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "e49063ea-b829-4718-be74-02f36fa3d983",
@@ -2018,7 +2018,7 @@
       "source_url": "https://jobs.ashbyhq.com/cohere/e49063ea-b829-4718-be74-02f36fa3d983",
       "apply_url": "https://jobs.ashbyhq.com/cohere/e49063ea-b829-4718-be74-02f36fa3d983/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "e588a0ac-6a84-42fd-808f-6474fd8ff6f0",
@@ -2036,25 +2036,7 @@
       "source_url": "https://jobs.ashbyhq.com/cohere/e588a0ac-6a84-42fd-808f-6474fd8ff6f0",
       "apply_url": "https://jobs.ashbyhq.com/cohere/e588a0ac-6a84-42fd-808f-6474fd8ff6f0/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
-    },
-    {
-      "id": "e645a8bc-73de-47e6-9600-3f418e6f5c8b",
-      "title": "Executive Producer, Executive Communications",
-      "company": "Cohere",
-      "location": "San Francisco",
-      "remote": "remote",
-      "department": "Marketing",
-      "employment_type": "FULL_TIME",
-      "salary_text": "$150K - $210K",
-      "salary_source": "ashby",
-      "posted": "2026-09-18",
-      "updated": "",
-      "deadline": "",
-      "source_url": "https://jobs.ashbyhq.com/cohere/e645a8bc-73de-47e6-9600-3f418e6f5c8b",
-      "apply_url": "https://jobs.ashbyhq.com/cohere/e645a8bc-73de-47e6-9600-3f418e6f5c8b/application",
-      "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "e824f0bd-72e6-4a9b-aecb-e604e3ca8ac2",
@@ -2072,7 +2054,7 @@
       "source_url": "https://jobs.ashbyhq.com/cohere/e824f0bd-72e6-4a9b-aecb-e604e3ca8ac2",
       "apply_url": "https://jobs.ashbyhq.com/cohere/e824f0bd-72e6-4a9b-aecb-e604e3ca8ac2/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "e9ef9420-88e5-403b-82e8-1c36fa010d4d",
@@ -2090,7 +2072,7 @@
       "source_url": "https://jobs.ashbyhq.com/cohere/e9ef9420-88e5-403b-82e8-1c36fa010d4d",
       "apply_url": "https://jobs.ashbyhq.com/cohere/e9ef9420-88e5-403b-82e8-1c36fa010d4d/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "eef82766-7e31-430f-a102-bc33a5022597",
@@ -2108,7 +2090,7 @@
       "source_url": "https://jobs.ashbyhq.com/cohere/eef82766-7e31-430f-a102-bc33a5022597",
       "apply_url": "https://jobs.ashbyhq.com/cohere/eef82766-7e31-430f-a102-bc33a5022597/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "f74933db-e97f-41c9-97ab-daa57880a12b",
@@ -2126,7 +2108,7 @@
       "source_url": "https://jobs.ashbyhq.com/cohere/f74933db-e97f-41c9-97ab-daa57880a12b",
       "apply_url": "https://jobs.ashbyhq.com/cohere/f74933db-e97f-41c9-97ab-daa57880a12b/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "fc5cb642-23df-430e-ae84-67215384be1c",
@@ -2144,7 +2126,7 @@
       "source_url": "https://jobs.ashbyhq.com/cohere/fc5cb642-23df-430e-ae84-67215384be1c",
       "apply_url": "https://jobs.ashbyhq.com/cohere/fc5cb642-23df-430e-ae84-67215384be1c/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "fd92000d-241c-4cf6-86b1-2d9ab796bcbf",
@@ -2162,7 +2144,7 @@
       "source_url": "https://jobs.ashbyhq.com/cohere/fd92000d-241c-4cf6-86b1-2d9ab796bcbf",
       "apply_url": "https://jobs.ashbyhq.com/cohere/fd92000d-241c-4cf6-86b1-2d9ab796bcbf/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "fdf2e205-0c85-4940-9450-aa024379746a",
@@ -2180,7 +2162,7 @@
       "source_url": "https://jobs.ashbyhq.com/cohere/fdf2e205-0c85-4940-9450-aa024379746a",
       "apply_url": "https://jobs.ashbyhq.com/cohere/fdf2e205-0c85-4940-9450-aa024379746a/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "fe2e2971-e2c0-43fd-9ab1-187571776a5d",
@@ -2190,7 +2172,7 @@
       "remote": "remote",
       "department": "Product & Design",
       "employment_type": "FULL_TIME",
-      "salary_text": "$205K - $320K",
+      "salary_text": "$205K - $375K",
       "salary_source": "ashby",
       "posted": "2026-11-05",
       "updated": "",
@@ -2198,7 +2180,7 @@
       "source_url": "https://jobs.ashbyhq.com/cohere/fe2e2971-e2c0-43fd-9ab1-187571776a5d",
       "apply_url": "https://jobs.ashbyhq.com/cohere/fe2e2971-e2c0-43fd-9ab1-187571776a5d/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "fee0951d-8f8a-41ad-a7d5-4b0083bbe777",
@@ -2216,7 +2198,7 @@
       "source_url": "https://jobs.ashbyhq.com/cohere/fee0951d-8f8a-41ad-a7d5-4b0083bbe777",
       "apply_url": "https://jobs.ashbyhq.com/cohere/fee0951d-8f8a-41ad-a7d5-4b0083bbe777/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     }
   ],
   "ats": "ashby",

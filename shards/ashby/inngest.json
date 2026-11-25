@@ -1,8 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-24T17:38:09Z",
+  "checked_at": "2026-11-25T17:09:22Z",
   "failed_at": null,
-  "etag": "W/\"job-board:6ea3436cde4f678ac5ef6ff926369482eebd88bcd0c1c2f5ca4be2505259a7c3\"",
+  "etag": "W/\"job-board:26a1e1e879bc49bdb79b6cfaf0dc3b3592e3132eb2bca0322d5d546c771cbb74\"",
   "jobs": [
     {
       "id": "33b9f4ae-3be8-4a00-8548-8a00c276fd88",
@@ -20,25 +20,7 @@
       "source_url": "https://jobs.ashbyhq.com/inngest/33b9f4ae-3be8-4a00-8548-8a00c276fd88",
       "apply_url": "https://jobs.ashbyhq.com/inngest/33b9f4ae-3be8-4a00-8548-8a00c276fd88/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
-    },
-    {
-      "id": "ae72d036-b98b-4abb-8454-a687870cf0ca",
-      "title": "Distributed Systems Engineer - Platform",
-      "company": "Inngest",
-      "location": "US/Remote",
-      "remote": "remote",
-      "department": "Engineering",
-      "employment_type": "FULL_TIME",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2025-04-15",
-      "updated": "",
-      "deadline": "",
-      "source_url": "https://jobs.ashbyhq.com/inngest/ae72d036-b98b-4abb-8454-a687870cf0ca",
-      "apply_url": "https://jobs.ashbyhq.com/inngest/ae72d036-b98b-4abb-8454-a687870cf0ca/application",
-      "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     }
   ],
   "ats": "ashby",

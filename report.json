@@ -1,29 +1,23 @@
 {
-  "generated": "2026-11-24T17:38:09Z",
+  "generated": "2026-11-25T17:09:22Z",
   "publish": true,
   "companies": 369,
-  "jobs": 33415,
+  "jobs": 33315,
   "before": {
     "greenhouse": 12985,
     "workable": 10,
-    "lever": 1967,
-    "ashby": 3634,
-    "moka": 14811
+    "lever": 1968,
+    "ashby": 3653,
+    "moka": 14799
   },
   "after": {
-    "greenhouse": 12985,
-    "ashby": 3653,
-    "lever": 1968,
-    "moka": 14799,
+    "greenhouse": 12953,
+    "ashby": 3668,
+    "lever": 1962,
+    "moka": 14722,
     "workable": 10
   },
   "dropped": [],
   "hidden": [],
-  "stale": [
-    {
-      "ats": "lever",
-      "board": "brightonjones",
-      "slug": "brighton-jones"
-    }
-  ]
+  "stale": []
 }

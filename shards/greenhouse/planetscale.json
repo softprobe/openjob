@@ -1,27 +1,9 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-24T17:38:09Z",
+  "checked_at": "2026-11-25T17:09:22Z",
   "failed_at": null,
-  "etag": "W/\"80336aa88e01490c027822fcc582ce34\"",
+  "etag": "W/\"2e3ec9d8c195d5dd77ee3837f093f1b4\"",
   "jobs": [
-    {
-      "id": "4009926009",
-      "title": "Enterprise Support Engineer",
-      "company": "PlanetScale",
-      "location": "Remote - NA, APAC, EMEA",
-      "remote": "remote",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2025-07-24",
-      "updated": "2026-11-12",
-      "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/planetscale/jobs/4009926009",
-      "apply_url": "https://job-boards.greenhouse.io/planetscale/jobs/4009926009",
-      "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
-    },
     {
       "id": "4052805009",
       "title": "Solutions Engineer",
@@ -38,29 +20,11 @@
       "source_url": "https://job-boards.greenhouse.io/planetscale/jobs/4052805009",
       "apply_url": "https://job-boards.greenhouse.io/planetscale/jobs/4052805009",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
-    },
-    {
-      "id": "4251150009",
-      "title": "Software Engineer - PlanetScale Postgres",
-      "company": "PlanetScale",
-      "location": "Remote",
-      "remote": "remote",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-05-19",
-      "updated": "2026-11-12",
-      "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/planetscale/jobs/4251150009",
-      "apply_url": "https://job-boards.greenhouse.io/planetscale/jobs/4251150009",
-      "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "4339796009",
-      "title": "Field Marketing Manager",
+      "title": "Experiential Marketing Manager",
       "company": "PlanetScale",
       "location": "San Francisco, CA",
       "remote": "unspecified",
@@ -69,12 +33,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-07-30",
-      "updated": "2026-10-19",
+      "updated": "2026-11-24",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/planetscale/jobs/4339796009",
       "apply_url": "https://job-boards.greenhouse.io/planetscale/jobs/4339796009",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "4389100009",
@@ -92,43 +56,7 @@
       "source_url": "https://job-boards.greenhouse.io/planetscale/jobs/4389100009",
       "apply_url": "https://job-boards.greenhouse.io/planetscale/jobs/4389100009",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
-    },
-    {
-      "id": "4391516009",
-      "title": "Customer Support Engineer",
-      "company": "PlanetScale",
-      "location": "EMEA or NA",
-      "remote": "unspecified",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-09-01",
-      "updated": "2026-11-12",
-      "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/planetscale/jobs/4391516009",
-      "apply_url": "https://job-boards.greenhouse.io/planetscale/jobs/4391516009",
-      "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
-    },
-    {
-      "id": "4396843009",
-      "title": "Brand Designer",
-      "company": "PlanetScale",
-      "location": "Remote - USA",
-      "remote": "remote",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-09-05",
-      "updated": "2026-11-12",
-      "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/planetscale/jobs/4396843009",
-      "apply_url": "https://job-boards.greenhouse.io/planetscale/jobs/4396843009",
-      "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "4417171009",
@@ -146,7 +74,7 @@
       "source_url": "https://job-boards.greenhouse.io/planetscale/jobs/4417171009",
       "apply_url": "https://job-boards.greenhouse.io/planetscale/jobs/4417171009",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "4434574009",
@@ -164,11 +92,11 @@
       "source_url": "https://job-boards.greenhouse.io/planetscale/jobs/4434574009",
       "apply_url": "https://job-boards.greenhouse.io/planetscale/jobs/4434574009",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "4458342009",
-      "title": "Video Editor",
+      "title": "Video Production Lead",
       "company": "PlanetScale",
       "location": "Remote US",
       "remote": "remote",
@@ -177,12 +105,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-10-19",
-      "updated": "2026-11-12",
+      "updated": "2026-11-24",
       "deadline": "",
       "source_url": "https://job-boards.greenhouse.io/planetscale/jobs/4458342009",
       "apply_url": "https://job-boards.greenhouse.io/planetscale/jobs/4458342009",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "4463390009",
@@ -200,7 +128,7 @@
       "source_url": "https://job-boards.greenhouse.io/planetscale/jobs/4463390009",
       "apply_url": "https://job-boards.greenhouse.io/planetscale/jobs/4463390009",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "4473491009",
@@ -218,7 +146,7 @@
       "source_url": "https://job-boards.greenhouse.io/planetscale/jobs/4473491009",
       "apply_url": "https://job-boards.greenhouse.io/planetscale/jobs/4473491009",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     }
   ],
   "ats": "greenhouse",

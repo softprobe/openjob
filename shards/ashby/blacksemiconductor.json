@@ -1,8 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-24T17:38:09Z",
+  "checked_at": "2026-11-25T17:09:22Z",
   "failed_at": null,
-  "etag": "W/\"job-board:eba8c1bf1c8397ca6e5d3e1e0602f7f57ca5f16dc36f1b2edc48915476b072b6\"",
+  "etag": "W/\"job-board:d7d6a9d05602d8433b95f82feb54a69e0285b59110d90c30c7aa006336a75dc3\"",
   "jobs": [
     {
       "id": "0aeacd2e-911c-4b6e-bf8a-4e2de4119314",
@@ -20,7 +20,7 @@
       "source_url": "https://jobs.ashbyhq.com/blacksemiconductor/0aeacd2e-911c-4b6e-bf8a-4e2de4119314",
       "apply_url": "https://jobs.ashbyhq.com/blacksemiconductor/0aeacd2e-911c-4b6e-bf8a-4e2de4119314/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "0b587b63-2222-4eb1-89a0-79862d37e114",
@@ -38,7 +38,7 @@
       "source_url": "https://jobs.ashbyhq.com/blacksemiconductor/0b587b63-2222-4eb1-89a0-79862d37e114",
       "apply_url": "https://jobs.ashbyhq.com/blacksemiconductor/0b587b63-2222-4eb1-89a0-79862d37e114/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "11c60e98-036a-4ef2-aba9-3f49552b6d95",
@@ -56,7 +56,7 @@
       "source_url": "https://jobs.ashbyhq.com/blacksemiconductor/11c60e98-036a-4ef2-aba9-3f49552b6d95",
       "apply_url": "https://jobs.ashbyhq.com/blacksemiconductor/11c60e98-036a-4ef2-aba9-3f49552b6d95/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "24bbeade-9b77-48ee-905d-d5968edc1ba7",
@@ -74,11 +74,11 @@
       "source_url": "https://jobs.ashbyhq.com/blacksemiconductor/24bbeade-9b77-48ee-905d-d5968edc1ba7",
       "apply_url": "https://jobs.ashbyhq.com/blacksemiconductor/24bbeade-9b77-48ee-905d-d5968edc1ba7/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "2769f7a4-0d43-45fe-b6ad-b714c6363100",
-      "title": "SAP S/4HANA Key User / Fachbereichskoordinator",
+      "title": "SAP S/4HANA Key User / Fachbereichskoordinator (f/m/d)",
       "company": "Black Semiconductor GmbH",
       "location": "Aachen, Germany",
       "remote": "hybrid",
@@ -92,7 +92,7 @@
       "source_url": "https://jobs.ashbyhq.com/blacksemiconductor/2769f7a4-0d43-45fe-b6ad-b714c6363100",
       "apply_url": "https://jobs.ashbyhq.com/blacksemiconductor/2769f7a4-0d43-45fe-b6ad-b714c6363100/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "2a8897e7-bbb2-408f-ad16-136d2523017a",
@@ -110,7 +110,7 @@
       "source_url": "https://jobs.ashbyhq.com/blacksemiconductor/2a8897e7-bbb2-408f-ad16-136d2523017a",
       "apply_url": "https://jobs.ashbyhq.com/blacksemiconductor/2a8897e7-bbb2-408f-ad16-136d2523017a/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "2bb2985b-7bc9-4648-a6f3-bdc73c490bd4",
@@ -128,7 +128,7 @@
       "source_url": "https://jobs.ashbyhq.com/blacksemiconductor/2bb2985b-7bc9-4648-a6f3-bdc73c490bd4",
       "apply_url": "https://jobs.ashbyhq.com/blacksemiconductor/2bb2985b-7bc9-4648-a6f3-bdc73c490bd4/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "32273b1b-b9e1-452a-9ba9-d349888160fc",
@@ -146,7 +146,7 @@
       "source_url": "https://jobs.ashbyhq.com/blacksemiconductor/32273b1b-b9e1-452a-9ba9-d349888160fc",
       "apply_url": "https://jobs.ashbyhq.com/blacksemiconductor/32273b1b-b9e1-452a-9ba9-d349888160fc/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "3a8100d4-f788-4130-bb82-21b49ed2966a",
@@ -164,7 +164,7 @@
       "source_url": "https://jobs.ashbyhq.com/blacksemiconductor/3a8100d4-f788-4130-bb82-21b49ed2966a",
       "apply_url": "https://jobs.ashbyhq.com/blacksemiconductor/3a8100d4-f788-4130-bb82-21b49ed2966a/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "428c043e-eb9b-409c-b5d2-52d5a7a288f8",
@@ -182,7 +182,7 @@
       "source_url": "https://jobs.ashbyhq.com/blacksemiconductor/428c043e-eb9b-409c-b5d2-52d5a7a288f8",
       "apply_url": "https://jobs.ashbyhq.com/blacksemiconductor/428c043e-eb9b-409c-b5d2-52d5a7a288f8/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "4bfe7e1b-e94e-49e7-aef9-60d00846b1b5",
@@ -200,7 +200,7 @@
       "source_url": "https://jobs.ashbyhq.com/blacksemiconductor/4bfe7e1b-e94e-49e7-aef9-60d00846b1b5",
       "apply_url": "https://jobs.ashbyhq.com/blacksemiconductor/4bfe7e1b-e94e-49e7-aef9-60d00846b1b5/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "4f066f6c-276a-404c-95ac-abe434f911a1",
@@ -218,7 +218,7 @@
       "source_url": "https://jobs.ashbyhq.com/blacksemiconductor/4f066f6c-276a-404c-95ac-abe434f911a1",
       "apply_url": "https://jobs.ashbyhq.com/blacksemiconductor/4f066f6c-276a-404c-95ac-abe434f911a1/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "5388e634-3041-4964-aa02-271da327dd93",
@@ -236,7 +236,7 @@
       "source_url": "https://jobs.ashbyhq.com/blacksemiconductor/5388e634-3041-4964-aa02-271da327dd93",
       "apply_url": "https://jobs.ashbyhq.com/blacksemiconductor/5388e634-3041-4964-aa02-271da327dd93/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "54c165d9-fd87-40a1-b13c-3ffa2253db7d",
@@ -254,7 +254,7 @@
       "source_url": "https://jobs.ashbyhq.com/blacksemiconductor/54c165d9-fd87-40a1-b13c-3ffa2253db7d",
       "apply_url": "https://jobs.ashbyhq.com/blacksemiconductor/54c165d9-fd87-40a1-b13c-3ffa2253db7d/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "5a445a4d-3646-47ff-ba37-4a5aed64e298",
@@ -272,7 +272,7 @@
       "source_url": "https://jobs.ashbyhq.com/blacksemiconductor/5a445a4d-3646-47ff-ba37-4a5aed64e298",
       "apply_url": "https://jobs.ashbyhq.com/blacksemiconductor/5a445a4d-3646-47ff-ba37-4a5aed64e298/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "5ee52aaa-1206-433a-b85c-f7d63b05bb88",
@@ -290,7 +290,7 @@
       "source_url": "https://jobs.ashbyhq.com/blacksemiconductor/5ee52aaa-1206-433a-b85c-f7d63b05bb88",
       "apply_url": "https://jobs.ashbyhq.com/blacksemiconductor/5ee52aaa-1206-433a-b85c-f7d63b05bb88/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "68fa8b21-6b25-4846-9578-52373a60280b",
@@ -308,7 +308,7 @@
       "source_url": "https://jobs.ashbyhq.com/blacksemiconductor/68fa8b21-6b25-4846-9578-52373a60280b",
       "apply_url": "https://jobs.ashbyhq.com/blacksemiconductor/68fa8b21-6b25-4846-9578-52373a60280b/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "77ef36d1-53cd-4948-833f-732009c12d59",
@@ -326,7 +326,7 @@
       "source_url": "https://jobs.ashbyhq.com/blacksemiconductor/77ef36d1-53cd-4948-833f-732009c12d59",
       "apply_url": "https://jobs.ashbyhq.com/blacksemiconductor/77ef36d1-53cd-4948-833f-732009c12d59/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "7ff6efe1-6f33-4b69-8d0d-7a3278a3bc03",
@@ -344,7 +344,7 @@
       "source_url": "https://jobs.ashbyhq.com/blacksemiconductor/7ff6efe1-6f33-4b69-8d0d-7a3278a3bc03",
       "apply_url": "https://jobs.ashbyhq.com/blacksemiconductor/7ff6efe1-6f33-4b69-8d0d-7a3278a3bc03/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "801e33f1-c247-44c6-b1ef-f2c78f19e3a0",
@@ -362,7 +362,7 @@
       "source_url": "https://jobs.ashbyhq.com/blacksemiconductor/801e33f1-c247-44c6-b1ef-f2c78f19e3a0",
       "apply_url": "https://jobs.ashbyhq.com/blacksemiconductor/801e33f1-c247-44c6-b1ef-f2c78f19e3a0/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "80204795-85bd-4562-9641-46f0821bd3d7",
@@ -380,7 +380,7 @@
       "source_url": "https://jobs.ashbyhq.com/blacksemiconductor/80204795-85bd-4562-9641-46f0821bd3d7",
       "apply_url": "https://jobs.ashbyhq.com/blacksemiconductor/80204795-85bd-4562-9641-46f0821bd3d7/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8784fddf-d9d2-4274-9986-1eb4c1f06097",
@@ -398,7 +398,7 @@
       "source_url": "https://jobs.ashbyhq.com/blacksemiconductor/8784fddf-d9d2-4274-9986-1eb4c1f06097",
       "apply_url": "https://jobs.ashbyhq.com/blacksemiconductor/8784fddf-d9d2-4274-9986-1eb4c1f06097/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8a18c7e4-5a2f-4c50-8e03-5257d9d6b19c",
@@ -416,7 +416,7 @@
       "source_url": "https://jobs.ashbyhq.com/blacksemiconductor/8a18c7e4-5a2f-4c50-8e03-5257d9d6b19c",
       "apply_url": "https://jobs.ashbyhq.com/blacksemiconductor/8a18c7e4-5a2f-4c50-8e03-5257d9d6b19c/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "9264c702-cc7d-4e40-a222-1a91441bf26b",
@@ -434,7 +434,7 @@
       "source_url": "https://jobs.ashbyhq.com/blacksemiconductor/9264c702-cc7d-4e40-a222-1a91441bf26b",
       "apply_url": "https://jobs.ashbyhq.com/blacksemiconductor/9264c702-cc7d-4e40-a222-1a91441bf26b/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "9322dac1-306f-476c-8421-d4765325e9c6",
@@ -452,7 +452,7 @@
       "source_url": "https://jobs.ashbyhq.com/blacksemiconductor/9322dac1-306f-476c-8421-d4765325e9c6",
       "apply_url": "https://jobs.ashbyhq.com/blacksemiconductor/9322dac1-306f-476c-8421-d4765325e9c6/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "93ab8962-7354-4603-9231-28f05a64fe94",
@@ -470,7 +470,7 @@
       "source_url": "https://jobs.ashbyhq.com/blacksemiconductor/93ab8962-7354-4603-9231-28f05a64fe94",
       "apply_url": "https://jobs.ashbyhq.com/blacksemiconductor/93ab8962-7354-4603-9231-28f05a64fe94/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "9b8142e8-b24f-4267-8408-047ec76a7667",
@@ -488,7 +488,7 @@
       "source_url": "https://jobs.ashbyhq.com/blacksemiconductor/9b8142e8-b24f-4267-8408-047ec76a7667",
       "apply_url": "https://jobs.ashbyhq.com/blacksemiconductor/9b8142e8-b24f-4267-8408-047ec76a7667/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "a06a59f9-1a4c-49e6-9f77-8f26c55964ab",
@@ -506,7 +506,7 @@
       "source_url": "https://jobs.ashbyhq.com/blacksemiconductor/a06a59f9-1a4c-49e6-9f77-8f26c55964ab",
       "apply_url": "https://jobs.ashbyhq.com/blacksemiconductor/a06a59f9-1a4c-49e6-9f77-8f26c55964ab/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "ab9408dd-134e-489c-91b6-348fb74246b3",
@@ -524,11 +524,11 @@
       "source_url": "https://jobs.ashbyhq.com/blacksemiconductor/ab9408dd-134e-489c-91b6-348fb74246b3",
       "apply_url": "https://jobs.ashbyhq.com/blacksemiconductor/ab9408dd-134e-489c-91b6-348fb74246b3/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "b50f3b06-c225-4608-b204-7a33118234d6",
-      "title": "SAP S/4Hana Key User / Fachbereichskoordinator",
+      "title": "SAP S/4Hana Key User / Fachbereichskoordinator (m/w/d)",
       "company": "Black Semiconductor GmbH",
       "location": "Aachen, Germany",
       "remote": "hybrid",
@@ -542,7 +542,7 @@
       "source_url": "https://jobs.ashbyhq.com/blacksemiconductor/b50f3b06-c225-4608-b204-7a33118234d6",
       "apply_url": "https://jobs.ashbyhq.com/blacksemiconductor/b50f3b06-c225-4608-b204-7a33118234d6/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "bf059343-9516-4ff5-a4bb-c7d4d48bac93",
@@ -560,7 +560,7 @@
       "source_url": "https://jobs.ashbyhq.com/blacksemiconductor/bf059343-9516-4ff5-a4bb-c7d4d48bac93",
       "apply_url": "https://jobs.ashbyhq.com/blacksemiconductor/bf059343-9516-4ff5-a4bb-c7d4d48bac93/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "cca2f41c-1b48-40b3-baf5-31baf258b321",
@@ -578,11 +578,11 @@
       "source_url": "https://jobs.ashbyhq.com/blacksemiconductor/cca2f41c-1b48-40b3-baf5-31baf258b321",
       "apply_url": "https://jobs.ashbyhq.com/blacksemiconductor/cca2f41c-1b48-40b3-baf5-31baf258b321/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "d6cb9b80-1e60-4ccc-b6c9-0c1a5cc17508",
-      "title": "Maintenance Technician",
+      "title": "Maintenance Technician (m/v/x)",
       "company": "Black Semiconductor GmbH",
       "location": "Zoetermeer, Netherlands",
       "remote": "unspecified",
@@ -596,7 +596,7 @@
       "source_url": "https://jobs.ashbyhq.com/blacksemiconductor/d6cb9b80-1e60-4ccc-b6c9-0c1a5cc17508",
       "apply_url": "https://jobs.ashbyhq.com/blacksemiconductor/d6cb9b80-1e60-4ccc-b6c9-0c1a5cc17508/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "e15a326c-46f8-46d8-a4d8-5ae48dd18d8c",
@@ -614,7 +614,7 @@
       "source_url": "https://jobs.ashbyhq.com/blacksemiconductor/e15a326c-46f8-46d8-a4d8-5ae48dd18d8c",
       "apply_url": "https://jobs.ashbyhq.com/blacksemiconductor/e15a326c-46f8-46d8-a4d8-5ae48dd18d8c/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "e4155ed1-8e09-4933-9a94-5d02d3bcb3d1",
@@ -632,7 +632,7 @@
       "source_url": "https://jobs.ashbyhq.com/blacksemiconductor/e4155ed1-8e09-4933-9a94-5d02d3bcb3d1",
       "apply_url": "https://jobs.ashbyhq.com/blacksemiconductor/e4155ed1-8e09-4933-9a94-5d02d3bcb3d1/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "e437c3b0-656c-4782-92db-bc973aabe652",
@@ -650,11 +650,11 @@
       "source_url": "https://jobs.ashbyhq.com/blacksemiconductor/e437c3b0-656c-4782-92db-bc973aabe652",
       "apply_url": "https://jobs.ashbyhq.com/blacksemiconductor/e437c3b0-656c-4782-92db-bc973aabe652/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "e80d72c5-ed0f-47ff-8d9e-d8fc20fcc1af",
-      "title": "Maintenance Technician",
+      "title": "Maintenance Technician (f/m/d)",
       "company": "Black Semiconductor GmbH",
       "location": "Zoetermeer, Netherlands",
       "remote": "unspecified",
@@ -668,7 +668,7 @@
       "source_url": "https://jobs.ashbyhq.com/blacksemiconductor/e80d72c5-ed0f-47ff-8d9e-d8fc20fcc1af",
       "apply_url": "https://jobs.ashbyhq.com/blacksemiconductor/e80d72c5-ed0f-47ff-8d9e-d8fc20fcc1af/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "e93d9c7c-c988-42a0-b6d1-423aa5924d5a",
@@ -686,7 +686,7 @@
       "source_url": "https://jobs.ashbyhq.com/blacksemiconductor/e93d9c7c-c988-42a0-b6d1-423aa5924d5a",
       "apply_url": "https://jobs.ashbyhq.com/blacksemiconductor/e93d9c7c-c988-42a0-b6d1-423aa5924d5a/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "edebd7dd-0564-4f5f-9f5a-3bd8dd151f46",
@@ -704,7 +704,7 @@
       "source_url": "https://jobs.ashbyhq.com/blacksemiconductor/edebd7dd-0564-4f5f-9f5a-3bd8dd151f46",
       "apply_url": "https://jobs.ashbyhq.com/blacksemiconductor/edebd7dd-0564-4f5f-9f5a-3bd8dd151f46/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "f7c128ad-debf-427b-823f-5053fa2122c5",
@@ -722,7 +722,7 @@
       "source_url": "https://jobs.ashbyhq.com/blacksemiconductor/f7c128ad-debf-427b-823f-5053fa2122c5",
       "apply_url": "https://jobs.ashbyhq.com/blacksemiconductor/f7c128ad-debf-427b-823f-5053fa2122c5/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     }
   ],
   "ats": "ashby",

@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-24T17:38:09Z",
+  "checked_at": "2026-11-25T17:09:22Z",
   "failed_at": null,
   "etag": "W/\"d6d4160c4ae05c7b77583cdd73d52857\"",
   "jobs": [
@@ -20,7 +20,7 @@
       "source_url": "https://job-boards.greenhouse.io/massarcapital/jobs/4749356008",
       "apply_url": "https://job-boards.greenhouse.io/massarcapital/jobs/4749356008",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "4935227008",
@@ -38,7 +38,7 @@
       "source_url": "https://job-boards.greenhouse.io/massarcapital/jobs/4935227008",
       "apply_url": "https://job-boards.greenhouse.io/massarcapital/jobs/4935227008",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "5024481008",
@@ -56,7 +56,7 @@
       "source_url": "https://job-boards.greenhouse.io/massarcapital/jobs/5024481008",
       "apply_url": "https://job-boards.greenhouse.io/massarcapital/jobs/5024481008",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "5099359008",
@@ -74,7 +74,7 @@
       "source_url": "https://job-boards.greenhouse.io/massarcapital/jobs/5099359008",
       "apply_url": "https://job-boards.greenhouse.io/massarcapital/jobs/5099359008",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "5490553008",
@@ -92,7 +92,7 @@
       "source_url": "https://job-boards.greenhouse.io/massarcapital/jobs/5490553008",
       "apply_url": "https://job-boards.greenhouse.io/massarcapital/jobs/5490553008",
       "first_seen": "2026-11-20T15:23:49Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     }
   ],
   "ats": "greenhouse",

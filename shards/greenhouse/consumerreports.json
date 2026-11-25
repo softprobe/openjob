@@ -1,8 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-24T17:38:09Z",
+  "checked_at": "2026-11-25T17:09:22Z",
   "failed_at": null,
-  "etag": "W/\"83cc6b73129114598eae12579c13017e\"",
+  "etag": "W/\"88862f0c580f3ec64fa1bd54f19ba96d\"",
   "jobs": [
     {
       "id": "5113268007",
@@ -20,7 +20,7 @@
       "source_url": "https://job-boards.greenhouse.io/consumerreports/jobs/5113268007",
       "apply_url": "https://job-boards.greenhouse.io/consumerreports/jobs/5113268007",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "5125371007",
@@ -38,7 +38,7 @@
       "source_url": "https://job-boards.greenhouse.io/consumerreports/jobs/5125371007",
       "apply_url": "https://job-boards.greenhouse.io/consumerreports/jobs/5125371007",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "5283513007",
@@ -56,7 +56,25 @@
       "source_url": "https://job-boards.greenhouse.io/consumerreports/jobs/5283513007",
       "apply_url": "https://job-boards.greenhouse.io/consumerreports/jobs/5283513007",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
+    },
+    {
+      "id": "5297820007",
+      "title": "Sr. Director, AI & Tech Policy",
+      "company": "Consumer Reports",
+      "location": "Yonkers, NY",
+      "remote": "unspecified",
+      "department": "",
+      "employment_type": "",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-25",
+      "updated": "2026-11-25",
+      "deadline": "",
+      "source_url": "https://job-boards.greenhouse.io/consumerreports/jobs/5297820007",
+      "apply_url": "https://job-boards.greenhouse.io/consumerreports/jobs/5297820007",
+      "first_seen": "2026-11-25T17:09:22Z",
+      "last_checked": "2026-11-25T17:09:22Z"
     }
   ],
   "ats": "greenhouse",

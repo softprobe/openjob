@@ -1,8 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-24T17:38:09Z",
+  "checked_at": "2026-11-25T17:09:22Z",
   "failed_at": null,
-  "etag": "W/\"4e72f-ZVGcZnrVmplWpzr+hze2sg\"",
+  "etag": "W/\"50dfa-5lK4MDQuTB4vxjXA158cFw\"",
   "jobs": [
     {
       "id": "007c14cd-e586-4b5a-a45c-9ccd3e73f4aa",
@@ -20,7 +20,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/007c14cd-e586-4b5a-a45c-9ccd3e73f4aa",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/007c14cd-e586-4b5a-a45c-9ccd3e73f4aa/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "011aab19-6129-40a5-8083-1b0de24467ff",
@@ -38,7 +38,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/011aab19-6129-40a5-8083-1b0de24467ff",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/011aab19-6129-40a5-8083-1b0de24467ff/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "02b85784-ca30-47ab-9e51-950ffe1bd533",
@@ -56,7 +56,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/02b85784-ca30-47ab-9e51-950ffe1bd533",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/02b85784-ca30-47ab-9e51-950ffe1bd533/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "02dacf27-562e-458a-a7bd-8a88883a7074",
@@ -74,7 +74,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/02dacf27-562e-458a-a7bd-8a88883a7074",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/02dacf27-562e-458a-a7bd-8a88883a7074/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "0318bd42-48b5-4273-98f0-05eb67179793",
@@ -92,7 +92,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/0318bd42-48b5-4273-98f0-05eb67179793",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/0318bd42-48b5-4273-98f0-05eb67179793/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "03d9a144-f1f5-4b03-a9b0-605a44c59262",
@@ -110,7 +110,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/03d9a144-f1f5-4b03-a9b0-605a44c59262",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/03d9a144-f1f5-4b03-a9b0-605a44c59262/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "0496acd5-c72c-4fb5-9dc7-41646e91e390",
@@ -128,7 +128,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/0496acd5-c72c-4fb5-9dc7-41646e91e390",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/0496acd5-c72c-4fb5-9dc7-41646e91e390/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "053caf93-8764-49ab-9cee-c28d8a454dcd",
@@ -146,7 +146,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/053caf93-8764-49ab-9cee-c28d8a454dcd",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/053caf93-8764-49ab-9cee-c28d8a454dcd/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "06a89fdc-6954-438e-8f09-72a89f9d46b3",
@@ -164,7 +164,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/06a89fdc-6954-438e-8f09-72a89f9d46b3",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/06a89fdc-6954-438e-8f09-72a89f9d46b3/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "06cce7b1-2844-4847-8e78-6b77cbd06c10",
@@ -182,7 +182,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/06cce7b1-2844-4847-8e78-6b77cbd06c10",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/06cce7b1-2844-4847-8e78-6b77cbd06c10/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "0b650135-c114-407b-9691-b63eff7c6f5c",
@@ -200,7 +200,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/0b650135-c114-407b-9691-b63eff7c6f5c",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/0b650135-c114-407b-9691-b63eff7c6f5c/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "0bdd1e30-88a1-490b-a243-f97f5f1bb0db",
@@ -218,7 +218,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/0bdd1e30-88a1-490b-a243-f97f5f1bb0db",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/0bdd1e30-88a1-490b-a243-f97f5f1bb0db/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "0ccba088-41c7-4d4b-9f27-8821cf6fb188",
@@ -236,7 +236,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/0ccba088-41c7-4d4b-9f27-8821cf6fb188",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/0ccba088-41c7-4d4b-9f27-8821cf6fb188/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "0d296f7e-5345-402c-8d7e-f9cfd37357ec",
@@ -254,7 +254,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/0d296f7e-5345-402c-8d7e-f9cfd37357ec",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/0d296f7e-5345-402c-8d7e-f9cfd37357ec/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "0e43f538-931c-42b2-a7ae-bb532db22262",
@@ -272,7 +272,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/0e43f538-931c-42b2-a7ae-bb532db22262",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/0e43f538-931c-42b2-a7ae-bb532db22262/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "0f0a5d09-6371-4931-8ae7-c4991bb320da",
@@ -290,7 +290,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/0f0a5d09-6371-4931-8ae7-c4991bb320da",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/0f0a5d09-6371-4931-8ae7-c4991bb320da/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "0f51992a-34e6-4170-b65e-362d4a78fdcf",
@@ -308,7 +308,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/0f51992a-34e6-4170-b65e-362d4a78fdcf",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/0f51992a-34e6-4170-b65e-362d4a78fdcf/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "0fc91376-cc92-47ff-adc5-2beb1973db48",
@@ -326,7 +326,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/0fc91376-cc92-47ff-adc5-2beb1973db48",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/0fc91376-cc92-47ff-adc5-2beb1973db48/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "1083f84f-ebea-4440-8351-25d349c25f5e",
@@ -344,7 +344,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/1083f84f-ebea-4440-8351-25d349c25f5e",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/1083f84f-ebea-4440-8351-25d349c25f5e/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "11043ebf-ec0e-4058-ac51-6acdda085f49",
@@ -362,7 +362,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/11043ebf-ec0e-4058-ac51-6acdda085f49",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/11043ebf-ec0e-4058-ac51-6acdda085f49/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "119f5c74-1590-4795-aae6-dc239be64731",
@@ -380,7 +380,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/119f5c74-1590-4795-aae6-dc239be64731",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/119f5c74-1590-4795-aae6-dc239be64731/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "11ae7e32-8e4b-4eda-8377-a241de0d70b1",
@@ -398,7 +398,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/11ae7e32-8e4b-4eda-8377-a241de0d70b1",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/11ae7e32-8e4b-4eda-8377-a241de0d70b1/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "121aa0f0-99ab-4277-b9a2-5a16a61bd17b",
@@ -416,7 +416,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/121aa0f0-99ab-4277-b9a2-5a16a61bd17b",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/121aa0f0-99ab-4277-b9a2-5a16a61bd17b/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "136c66eb-c5ff-4dc5-8afa-e87c2666d7c2",
@@ -434,7 +434,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/136c66eb-c5ff-4dc5-8afa-e87c2666d7c2",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/136c66eb-c5ff-4dc5-8afa-e87c2666d7c2/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "14501262-afe6-44fc-934d-2f98f569a666",
@@ -452,7 +452,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/14501262-afe6-44fc-934d-2f98f569a666",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/14501262-afe6-44fc-934d-2f98f569a666/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "1605b552-5183-4a2b-938f-969cccf012ba",
@@ -470,7 +470,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/1605b552-5183-4a2b-938f-969cccf012ba",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/1605b552-5183-4a2b-938f-969cccf012ba/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "16b37416-79eb-4db2-9140-66204c92d2f0",
@@ -488,7 +488,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/16b37416-79eb-4db2-9140-66204c92d2f0",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/16b37416-79eb-4db2-9140-66204c92d2f0/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "171b4473-d1b2-4786-b3a8-45be6433a236",
@@ -506,7 +506,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/171b4473-d1b2-4786-b3a8-45be6433a236",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/171b4473-d1b2-4786-b3a8-45be6433a236/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "173b7159-af71-42c4-93c9-ed4a34be3394",
@@ -524,7 +524,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/173b7159-af71-42c4-93c9-ed4a34be3394",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/173b7159-af71-42c4-93c9-ed4a34be3394/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "17786c7a-818e-4476-9e27-f2cd1325eb21",
@@ -542,7 +542,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/17786c7a-818e-4476-9e27-f2cd1325eb21",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/17786c7a-818e-4476-9e27-f2cd1325eb21/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "1860ec47-2732-480d-86c1-618ceb704bc5",
@@ -560,7 +560,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/1860ec47-2732-480d-86c1-618ceb704bc5",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/1860ec47-2732-480d-86c1-618ceb704bc5/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "18b527dc-67c4-4bab-bdc6-19244f72584b",
@@ -578,7 +578,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/18b527dc-67c4-4bab-bdc6-19244f72584b",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/18b527dc-67c4-4bab-bdc6-19244f72584b/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "195daea2-552d-4991-b6d4-d237b9f56de5",
@@ -596,7 +596,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/195daea2-552d-4991-b6d4-d237b9f56de5",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/195daea2-552d-4991-b6d4-d237b9f56de5/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "1a1f0171-bdeb-4fae-bd85-0635035979d5",
@@ -614,7 +614,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/1a1f0171-bdeb-4fae-bd85-0635035979d5",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/1a1f0171-bdeb-4fae-bd85-0635035979d5/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "1c90e047-129a-483b-ba33-30d472b66bed",
@@ -632,7 +632,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/1c90e047-129a-483b-ba33-30d472b66bed",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/1c90e047-129a-483b-ba33-30d472b66bed/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "1cfe6776-4693-4598-8f9a-d53cce444388",
@@ -650,7 +650,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/1cfe6776-4693-4598-8f9a-d53cce444388",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/1cfe6776-4693-4598-8f9a-d53cce444388/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "1d4522ee-1f97-4d7f-8b7d-2d30f1aecb91",
@@ -668,7 +668,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/1d4522ee-1f97-4d7f-8b7d-2d30f1aecb91",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/1d4522ee-1f97-4d7f-8b7d-2d30f1aecb91/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "1d540cfb-6c3f-4258-8c11-2db04df0cb4c",
@@ -686,7 +686,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/1d540cfb-6c3f-4258-8c11-2db04df0cb4c",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/1d540cfb-6c3f-4258-8c11-2db04df0cb4c/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "1f0359a5-d97a-4f7a-a4b3-648a79344531",
@@ -704,7 +704,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/1f0359a5-d97a-4f7a-a4b3-648a79344531",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/1f0359a5-d97a-4f7a-a4b3-648a79344531/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "1f3572e2-2efe-442a-8bc8-73b3c9aeed91",
@@ -722,7 +722,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/1f3572e2-2efe-442a-8bc8-73b3c9aeed91",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/1f3572e2-2efe-442a-8bc8-73b3c9aeed91/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "1f4e701c-18f5-412b-b19f-92672d584cdd",
@@ -740,7 +740,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/1f4e701c-18f5-412b-b19f-92672d584cdd",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/1f4e701c-18f5-412b-b19f-92672d584cdd/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "1fe1dd96-fc2e-4657-9416-4ef08d5a401b",
@@ -758,7 +758,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/1fe1dd96-fc2e-4657-9416-4ef08d5a401b",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/1fe1dd96-fc2e-4657-9416-4ef08d5a401b/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "202104c5-87d5-4148-8823-f9812881bee5",
@@ -776,7 +776,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/202104c5-87d5-4148-8823-f9812881bee5",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/202104c5-87d5-4148-8823-f9812881bee5/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "21437b16-f4fe-4ed1-a250-62168bd52012",
@@ -794,7 +794,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/21437b16-f4fe-4ed1-a250-62168bd52012",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/21437b16-f4fe-4ed1-a250-62168bd52012/apply?pure=1",
       "first_seen": "2026-11-20T15:23:49Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "21da9863-9a82-458d-aa02-9177131bb8d5",
@@ -812,7 +812,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/21da9863-9a82-458d-aa02-9177131bb8d5",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/21da9863-9a82-458d-aa02-9177131bb8d5/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "23231514-3a55-488f-bc32-a20509afac08",
@@ -830,7 +830,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/23231514-3a55-488f-bc32-a20509afac08",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/23231514-3a55-488f-bc32-a20509afac08/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "24be08c8-b321-4ed8-809c-1cdff7127385",
@@ -848,7 +848,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/24be08c8-b321-4ed8-809c-1cdff7127385",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/24be08c8-b321-4ed8-809c-1cdff7127385/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "27803ba3-4da6-4236-955f-d0dd33980c7f",
@@ -866,7 +866,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/27803ba3-4da6-4236-955f-d0dd33980c7f",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/27803ba3-4da6-4236-955f-d0dd33980c7f/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "2959ba48-4594-4436-864c-74859e8cec5a",
@@ -884,7 +884,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/2959ba48-4594-4436-864c-74859e8cec5a",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/2959ba48-4594-4436-864c-74859e8cec5a/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "2d7ac126-65de-4502-886b-becee9ffc40a",
@@ -902,7 +902,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/2d7ac126-65de-4502-886b-becee9ffc40a",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/2d7ac126-65de-4502-886b-becee9ffc40a/apply?pure=1",
       "first_seen": "2026-11-19T15:42:04Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "30e2c6d0-15e2-4cbf-a92d-b33ee287d1e8",
@@ -920,11 +920,11 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/30e2c6d0-15e2-4cbf-a92d-b33ee287d1e8",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/30e2c6d0-15e2-4cbf-a92d-b33ee287d1e8/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "319396b6-e015-416f-8ea1-c251170e06f6",
-      "title": "BSP软件开发工程师",
+      "title": "软件开发工程师",
       "company": "均胜集团",
       "location": "宁波市, 浙江, 中国; 大连市, 辽宁, 中国",
       "remote": "unspecified",
@@ -933,12 +933,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-06-02",
-      "updated": "2026-09-01",
+      "updated": "2026-11-25",
       "deadline": "",
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/319396b6-e015-416f-8ea1-c251170e06f6",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/319396b6-e015-416f-8ea1-c251170e06f6/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "342d9617-d3da-4ade-b652-c20f5be3fc8e",
@@ -956,7 +956,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/342d9617-d3da-4ade-b652-c20f5be3fc8e",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/342d9617-d3da-4ade-b652-c20f5be3fc8e/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "356e89cc-f3ac-4272-9fb3-aa2d1f6db15e",
@@ -974,7 +974,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/356e89cc-f3ac-4272-9fb3-aa2d1f6db15e",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/356e89cc-f3ac-4272-9fb3-aa2d1f6db15e/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "35ace8b6-2efa-49ee-b4d1-9d42315e30e6",
@@ -992,7 +992,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/35ace8b6-2efa-49ee-b4d1-9d42315e30e6",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/35ace8b6-2efa-49ee-b4d1-9d42315e30e6/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "35d38dc6-e645-4fea-9f69-16b32675ab0a",
@@ -1010,7 +1010,25 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/35d38dc6-e645-4fea-9f69-16b32675ab0a",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/35d38dc6-e645-4fea-9f69-16b32675ab0a/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
+    },
+    {
+      "id": "3717faa7-26c8-412f-b034-c8f664cc898e",
+      "title": "财务经理",
+      "company": "均胜集团",
+      "location": "宁波市, 浙江, 中国",
+      "remote": "unspecified",
+      "department": "总部职能-均胜电子",
+      "employment_type": "FULL_TIME",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-25",
+      "updated": "2026-11-25",
+      "deadline": "",
+      "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/3717faa7-26c8-412f-b034-c8f664cc898e",
+      "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/3717faa7-26c8-412f-b034-c8f664cc898e/apply?pure=1",
+      "first_seen": "2026-11-25T17:09:22Z",
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "3722cdef-0245-4b36-b189-3e9216a8c85e",
@@ -1028,7 +1046,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/3722cdef-0245-4b36-b189-3e9216a8c85e",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/3722cdef-0245-4b36-b189-3e9216a8c85e/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "375d256c-4ab4-44ec-accf-16678c8a1260",
@@ -1046,7 +1064,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/375d256c-4ab4-44ec-accf-16678c8a1260",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/375d256c-4ab4-44ec-accf-16678c8a1260/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "38075218-b41f-4ec2-bc7f-937ca83b0e3c",
@@ -1064,7 +1082,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/38075218-b41f-4ec2-bc7f-937ca83b0e3c",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/38075218-b41f-4ec2-bc7f-937ca83b0e3c/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "3a5fde00-75d1-4b93-9bba-2bae5a6f4688",
@@ -1082,7 +1100,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/3a5fde00-75d1-4b93-9bba-2bae5a6f4688",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/3a5fde00-75d1-4b93-9bba-2bae5a6f4688/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "3c872071-a82b-4911-813d-257761bf4076",
@@ -1100,7 +1118,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/3c872071-a82b-4911-813d-257761bf4076",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/3c872071-a82b-4911-813d-257761bf4076/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "3cdeea88-f95a-4477-8758-20418b0c3ec3",
@@ -1118,7 +1136,25 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/3cdeea88-f95a-4477-8758-20418b0c3ec3",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/3cdeea88-f95a-4477-8758-20418b0c3ec3/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
+    },
+    {
+      "id": "3d530a0f-8e6f-489e-b2f7-abb260bf1338",
+      "title": "电子皮肤柔性电子研发工程师",
+      "company": "均胜集团",
+      "location": "宁波市, 浙江, 中国",
+      "remote": "unspecified",
+      "department": "宁波均胜群英汽车系统股份有限公司",
+      "employment_type": "FULL_TIME",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-25",
+      "updated": "2026-11-25",
+      "deadline": "",
+      "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/3d530a0f-8e6f-489e-b2f7-abb260bf1338",
+      "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/3d530a0f-8e6f-489e-b2f7-abb260bf1338/apply?pure=1",
+      "first_seen": "2026-11-25T17:09:22Z",
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "414ae2ca-f4ac-48d1-89a0-2f9738564e32",
@@ -1136,7 +1172,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/414ae2ca-f4ac-48d1-89a0-2f9738564e32",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/414ae2ca-f4ac-48d1-89a0-2f9738564e32/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "42758cbf-9913-4522-944f-f8b6642b8000",
@@ -1154,7 +1190,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/42758cbf-9913-4522-944f-f8b6642b8000",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/42758cbf-9913-4522-944f-f8b6642b8000/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "427cb1e7-e54d-4ab2-9c1e-1a9df558f8ca",
@@ -1172,7 +1208,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/427cb1e7-e54d-4ab2-9c1e-1a9df558f8ca",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/427cb1e7-e54d-4ab2-9c1e-1a9df558f8ca/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "4294b583-c704-445c-ac5a-028c0db08403",
@@ -1190,7 +1226,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/4294b583-c704-445c-ac5a-028c0db08403",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/4294b583-c704-445c-ac5a-028c0db08403/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "4347e5d4-8c3a-458b-af68-e13fe326b94c",
@@ -1208,7 +1244,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/4347e5d4-8c3a-458b-af68-e13fe326b94c",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/4347e5d4-8c3a-458b-af68-e13fe326b94c/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "4643ff0c-9d90-496a-9158-e427961aeffd",
@@ -1226,7 +1262,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/4643ff0c-9d90-496a-9158-e427961aeffd",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/4643ff0c-9d90-496a-9158-e427961aeffd/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "4713167c-5189-4e08-a62a-7dc50afa568d",
@@ -1244,7 +1280,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/4713167c-5189-4e08-a62a-7dc50afa568d",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/4713167c-5189-4e08-a62a-7dc50afa568d/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "47b39af0-449b-4bc8-bf65-a7b5429d70c9",
@@ -1262,7 +1298,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/47b39af0-449b-4bc8-bf65-a7b5429d70c9",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/47b39af0-449b-4bc8-bf65-a7b5429d70c9/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "48ddb071-85d6-4d10-8b01-813f8f7ae781",
@@ -1280,7 +1316,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/48ddb071-85d6-4d10-8b01-813f8f7ae781",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/48ddb071-85d6-4d10-8b01-813f8f7ae781/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "490219c9-973d-45e2-9b4c-65ecf2298a72",
@@ -1298,7 +1334,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/490219c9-973d-45e2-9b4c-65ecf2298a72",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/490219c9-973d-45e2-9b4c-65ecf2298a72/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "4a7f3400-5dda-40fa-b464-ff12bcb806bf",
@@ -1316,7 +1352,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/4a7f3400-5dda-40fa-b464-ff12bcb806bf",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/4a7f3400-5dda-40fa-b464-ff12bcb806bf/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "4afb3e11-e107-40da-a1c5-e2cef6a9807b",
@@ -1334,7 +1370,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/4afb3e11-e107-40da-a1c5-e2cef6a9807b",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/4afb3e11-e107-40da-a1c5-e2cef6a9807b/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "4b80a5bb-cdaf-48a2-9ea9-771e971d4df7",
@@ -1352,7 +1388,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/4b80a5bb-cdaf-48a2-9ea9-771e971d4df7",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/4b80a5bb-cdaf-48a2-9ea9-771e971d4df7/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "4d62d351-ffff-495b-b3ce-99fda94077b3",
@@ -1370,7 +1406,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/4d62d351-ffff-495b-b3ce-99fda94077b3",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/4d62d351-ffff-495b-b3ce-99fda94077b3/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "4f641e81-37f1-4cf3-87f4-3b37d7b79460",
@@ -1388,7 +1424,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/4f641e81-37f1-4cf3-87f4-3b37d7b79460",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/4f641e81-37f1-4cf3-87f4-3b37d7b79460/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "4fa9a968-d48e-4d22-a84d-b21ed1f1ec85",
@@ -1406,7 +1442,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/4fa9a968-d48e-4d22-a84d-b21ed1f1ec85",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/4fa9a968-d48e-4d22-a84d-b21ed1f1ec85/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "500cb26c-e907-4168-be4c-854464fafed6",
@@ -1424,7 +1460,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/500cb26c-e907-4168-be4c-854464fafed6",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/500cb26c-e907-4168-be4c-854464fafed6/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "506e6b08-6b17-4c60-8542-ede8cfe4172b",
@@ -1442,7 +1478,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/506e6b08-6b17-4c60-8542-ede8cfe4172b",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/506e6b08-6b17-4c60-8542-ede8cfe4172b/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "5132aff1-7e09-440f-94bc-6d0da638f478",
@@ -1460,7 +1496,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/5132aff1-7e09-440f-94bc-6d0da638f478",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/5132aff1-7e09-440f-94bc-6d0da638f478/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "532eec59-fea5-4932-966e-c86b42e48b56",
@@ -1478,7 +1514,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/532eec59-fea5-4932-966e-c86b42e48b56",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/532eec59-fea5-4932-966e-c86b42e48b56/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "57f162e9-ea45-4c03-abff-e0f0b58ddcf8",
@@ -1496,7 +1532,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/57f162e9-ea45-4c03-abff-e0f0b58ddcf8",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/57f162e9-ea45-4c03-abff-e0f0b58ddcf8/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "586db56b-67d4-4bbd-b739-2a989b6c757c",
@@ -1514,7 +1550,25 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/586db56b-67d4-4bbd-b739-2a989b6c757c",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/586db56b-67d4-4bbd-b739-2a989b6c757c/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
+    },
+    {
+      "id": "5bc89f72-12b3-4864-b342-303458fc81b0",
+      "title": "财务管培生（税务方向）",
+      "company": "均胜集团",
+      "location": "宁波市, 浙江, 中国",
+      "remote": "unspecified",
+      "department": "总部职能-均胜电子",
+      "employment_type": "FULL_TIME",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-25",
+      "updated": "2026-11-25",
+      "deadline": "",
+      "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/5bc89f72-12b3-4864-b342-303458fc81b0",
+      "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/5bc89f72-12b3-4864-b342-303458fc81b0/apply?pure=1",
+      "first_seen": "2026-11-25T17:09:22Z",
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "5c1d071a-7309-400f-9827-3adc347dce88",
@@ -1532,7 +1586,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/5c1d071a-7309-400f-9827-3adc347dce88",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/5c1d071a-7309-400f-9827-3adc347dce88/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "5cd4a7e7-4d33-4dc2-b045-c79a2d5e4fe6",
@@ -1550,7 +1604,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/5cd4a7e7-4d33-4dc2-b045-c79a2d5e4fe6",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/5cd4a7e7-4d33-4dc2-b045-c79a2d5e4fe6/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "5cf10586-abe3-470e-9758-db6f75fd849b",
@@ -1568,7 +1622,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/5cf10586-abe3-470e-9758-db6f75fd849b",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/5cf10586-abe3-470e-9758-db6f75fd849b/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "5dba4f33-398b-4cb3-9955-e283a33d48f1",
@@ -1586,7 +1640,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/5dba4f33-398b-4cb3-9955-e283a33d48f1",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/5dba4f33-398b-4cb3-9955-e283a33d48f1/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "600f0e5c-fa99-43cd-a38f-8aa947958263",
@@ -1604,7 +1658,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/600f0e5c-fa99-43cd-a38f-8aa947958263",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/600f0e5c-fa99-43cd-a38f-8aa947958263/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "61c810b6-b8de-4256-ab1d-f531a88964a4",
@@ -1622,7 +1676,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/61c810b6-b8de-4256-ab1d-f531a88964a4",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/61c810b6-b8de-4256-ab1d-f531a88964a4/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "6202485f-7a29-48b8-9a01-a50fd8f7bdc5",
@@ -1640,7 +1694,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/6202485f-7a29-48b8-9a01-a50fd8f7bdc5",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/6202485f-7a29-48b8-9a01-a50fd8f7bdc5/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "6227d27a-b6f5-4cea-b378-6ca1d4a9cdbd",
@@ -1658,7 +1712,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/6227d27a-b6f5-4cea-b378-6ca1d4a9cdbd",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/6227d27a-b6f5-4cea-b378-6ca1d4a9cdbd/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "62fc2e9b-e83e-4862-aea5-5b0bfbc91bac",
@@ -1676,7 +1730,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/62fc2e9b-e83e-4862-aea5-5b0bfbc91bac",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/62fc2e9b-e83e-4862-aea5-5b0bfbc91bac/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "632cf186-0617-4d51-b61b-bf42d3fa43e3",
@@ -1694,7 +1748,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/632cf186-0617-4d51-b61b-bf42d3fa43e3",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/632cf186-0617-4d51-b61b-bf42d3fa43e3/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "63b06b69-c0c3-48f9-b4d9-d0843227edcf",
@@ -1712,7 +1766,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/63b06b69-c0c3-48f9-b4d9-d0843227edcf",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/63b06b69-c0c3-48f9-b4d9-d0843227edcf/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "63da7b53-45a3-4f07-87f8-471229581e5e",
@@ -1730,7 +1784,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/63da7b53-45a3-4f07-87f8-471229581e5e",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/63da7b53-45a3-4f07-87f8-471229581e5e/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "649c03b9-9845-4edd-bfe4-f1ffe18f0cf2",
@@ -1748,7 +1802,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/649c03b9-9845-4edd-bfe4-f1ffe18f0cf2",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/649c03b9-9845-4edd-bfe4-f1ffe18f0cf2/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "64a78b67-c5a4-4407-9aba-c05368782de9",
@@ -1766,7 +1820,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/64a78b67-c5a4-4407-9aba-c05368782de9",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/64a78b67-c5a4-4407-9aba-c05368782de9/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "6642d25d-5a83-428b-aab9-2234a28d4657",
@@ -1784,7 +1838,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/6642d25d-5a83-428b-aab9-2234a28d4657",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/6642d25d-5a83-428b-aab9-2234a28d4657/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "6af14386-fa29-469b-a245-d4d247b891a4",
@@ -1802,7 +1856,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/6af14386-fa29-469b-a245-d4d247b891a4",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/6af14386-fa29-469b-a245-d4d247b891a4/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "6bcb1866-50d2-4ef1-aeeb-7d3669e62b0b",
@@ -1820,7 +1874,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/6bcb1866-50d2-4ef1-aeeb-7d3669e62b0b",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/6bcb1866-50d2-4ef1-aeeb-7d3669e62b0b/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "6e76cbad-550a-4f89-9ca2-f837a604ddd0",
@@ -1838,7 +1892,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/6e76cbad-550a-4f89-9ca2-f837a604ddd0",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/6e76cbad-550a-4f89-9ca2-f837a604ddd0/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "6f55d300-fc86-4678-a9ef-770403aca7a9",
@@ -1856,7 +1910,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/6f55d300-fc86-4678-a9ef-770403aca7a9",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/6f55d300-fc86-4678-a9ef-770403aca7a9/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "711855b8-54d5-4ff2-b54b-cbbd4a4862c0",
@@ -1874,7 +1928,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/711855b8-54d5-4ff2-b54b-cbbd4a4862c0",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/711855b8-54d5-4ff2-b54b-cbbd4a4862c0/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "71a85a60-6369-4a7d-ba60-9c683cf7c15b",
@@ -1892,7 +1946,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/71a85a60-6369-4a7d-ba60-9c683cf7c15b",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/71a85a60-6369-4a7d-ba60-9c683cf7c15b/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "73456307-cad6-44f7-bba7-cd34f0ced49a",
@@ -1910,7 +1964,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/73456307-cad6-44f7-bba7-cd34f0ced49a",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/73456307-cad6-44f7-bba7-cd34f0ced49a/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "73db4b26-900c-4a05-a86e-c3375fb498bb",
@@ -1928,7 +1982,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/73db4b26-900c-4a05-a86e-c3375fb498bb",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/73db4b26-900c-4a05-a86e-c3375fb498bb/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "75db4989-05a1-455f-aeb5-d267802becf5",
@@ -1946,7 +2000,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/75db4989-05a1-455f-aeb5-d267802becf5",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/75db4989-05a1-455f-aeb5-d267802becf5/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "7aa94233-4ac1-4bf3-8967-49687fedc751",
@@ -1964,7 +2018,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/7aa94233-4ac1-4bf3-8967-49687fedc751",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/7aa94233-4ac1-4bf3-8967-49687fedc751/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "7c12d5e7-2428-439e-99c4-fd92b1b336a4",
@@ -1982,7 +2036,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/7c12d5e7-2428-439e-99c4-fd92b1b336a4",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/7c12d5e7-2428-439e-99c4-fd92b1b336a4/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "7d6b31e2-0c7a-41ca-b6f1-d9339404e018",
@@ -2000,7 +2054,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/7d6b31e2-0c7a-41ca-b6f1-d9339404e018",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/7d6b31e2-0c7a-41ca-b6f1-d9339404e018/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "7dcdafef-49b5-4c69-b946-64773f107373",
@@ -2018,7 +2072,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/7dcdafef-49b5-4c69-b946-64773f107373",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/7dcdafef-49b5-4c69-b946-64773f107373/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "7e3ec7ab-496d-462f-89a7-c7187cf88607",
@@ -2036,7 +2090,25 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/7e3ec7ab-496d-462f-89a7-c7187cf88607",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/7e3ec7ab-496d-462f-89a7-c7187cf88607/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
+    },
+    {
+      "id": "7ed229d8-c593-44d9-88cf-7d0cf07c89f7",
+      "title": "全球内审内控经理",
+      "company": "均胜集团",
+      "location": "宁波市, 浙江, 中国",
+      "remote": "unspecified",
+      "department": "总部职能-均胜电子",
+      "employment_type": "FULL_TIME",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-25",
+      "updated": "2026-11-25",
+      "deadline": "",
+      "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/7ed229d8-c593-44d9-88cf-7d0cf07c89f7",
+      "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/7ed229d8-c593-44d9-88cf-7d0cf07c89f7/apply?pure=1",
+      "first_seen": "2026-11-25T17:09:22Z",
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "7f627bc2-c718-40e2-bbc5-72382edf50f2",
@@ -2054,7 +2126,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/7f627bc2-c718-40e2-bbc5-72382edf50f2",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/7f627bc2-c718-40e2-bbc5-72382edf50f2/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "82822808-bd1d-497d-80e4-5204c3a79fd6",
@@ -2072,7 +2144,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/82822808-bd1d-497d-80e4-5204c3a79fd6",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/82822808-bd1d-497d-80e4-5204c3a79fd6/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "82e5d7e2-fdee-49ff-bf07-2de577754bdb",
@@ -2090,7 +2162,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/82e5d7e2-fdee-49ff-bf07-2de577754bdb",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/82e5d7e2-fdee-49ff-bf07-2de577754bdb/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "845ff067-40d5-4f48-afe7-60612c3876a2",
@@ -2108,7 +2180,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/845ff067-40d5-4f48-afe7-60612c3876a2",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/845ff067-40d5-4f48-afe7-60612c3876a2/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "847bcc93-4400-44f6-986f-331ee17e5da0",
@@ -2126,7 +2198,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/847bcc93-4400-44f6-986f-331ee17e5da0",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/847bcc93-4400-44f6-986f-331ee17e5da0/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8599dbdb-a133-4028-8f95-ac50faede0f6",
@@ -2144,7 +2216,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/8599dbdb-a133-4028-8f95-ac50faede0f6",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/8599dbdb-a133-4028-8f95-ac50faede0f6/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "86208051-e7ee-4f80-b3fe-02a097e7a2d3",
@@ -2162,7 +2234,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/86208051-e7ee-4f80-b3fe-02a097e7a2d3",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/86208051-e7ee-4f80-b3fe-02a097e7a2d3/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "867a6584-d2d7-493d-806f-142bce5b6ac9",
@@ -2180,7 +2252,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/867a6584-d2d7-493d-806f-142bce5b6ac9",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/867a6584-d2d7-493d-806f-142bce5b6ac9/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "867e0024-1664-4696-b3c2-a81d9118cc36",
@@ -2198,7 +2270,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/867e0024-1664-4696-b3c2-a81d9118cc36",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/867e0024-1664-4696-b3c2-a81d9118cc36/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "86bfafa6-9a0f-449f-b909-4619615d0bec",
@@ -2216,7 +2288,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/86bfafa6-9a0f-449f-b909-4619615d0bec",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/86bfafa6-9a0f-449f-b909-4619615d0bec/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "87ad0308-9837-47e0-934c-bb97788703e4",
@@ -2234,7 +2306,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/87ad0308-9837-47e0-934c-bb97788703e4",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/87ad0308-9837-47e0-934c-bb97788703e4/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "88a7bf4e-4e11-4e03-8f2b-46a751564957",
@@ -2252,25 +2324,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/88a7bf4e-4e11-4e03-8f2b-46a751564957",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/88a7bf4e-4e11-4e03-8f2b-46a751564957/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
-    },
-    {
-      "id": "8a4906fd-c3fb-408a-9128-4464aa4506fd",
-      "title": "IT审计经理 IT Audit & Data Analytics Manager",
-      "company": "均胜集团",
-      "location": "宁波市, 浙江, 中国",
-      "remote": "unspecified",
-      "department": "总部职能-均胜电子",
-      "employment_type": "FULL_TIME",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-04-02",
-      "updated": "2026-07-20",
-      "deadline": "",
-      "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/8a4906fd-c3fb-408a-9128-4464aa4506fd",
-      "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/8a4906fd-c3fb-408a-9128-4464aa4506fd/apply?pure=1",
-      "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8aef69ee-6740-4c6e-bfee-c47213b70576",
@@ -2288,7 +2342,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/8aef69ee-6740-4c6e-bfee-c47213b70576",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/8aef69ee-6740-4c6e-bfee-c47213b70576/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8c66aa0e-2770-4a31-af9a-4b1d05f8f837",
@@ -2306,7 +2360,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/8c66aa0e-2770-4a31-af9a-4b1d05f8f837",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/8c66aa0e-2770-4a31-af9a-4b1d05f8f837/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8d5699d4-f7a4-4a47-acc0-289e349fd9d4",
@@ -2324,7 +2378,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/8d5699d4-f7a4-4a47-acc0-289e349fd9d4",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/8d5699d4-f7a4-4a47-acc0-289e349fd9d4/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8df17859-4d34-4b6a-92bb-c91d32920185",
@@ -2342,7 +2396,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/8df17859-4d34-4b6a-92bb-c91d32920185",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/8df17859-4d34-4b6a-92bb-c91d32920185/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8e1b75cf-25b7-4295-90ba-6288cf98c113",
@@ -2360,7 +2414,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/8e1b75cf-25b7-4295-90ba-6288cf98c113",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/8e1b75cf-25b7-4295-90ba-6288cf98c113/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8f788e41-05ae-4c89-89f1-182138d00548",
@@ -2378,7 +2432,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/8f788e41-05ae-4c89-89f1-182138d00548",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/8f788e41-05ae-4c89-89f1-182138d00548/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "8f846fa8-aa56-40c3-bfac-a9e67bb99a48",
@@ -2396,7 +2450,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/8f846fa8-aa56-40c3-bfac-a9e67bb99a48",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/8f846fa8-aa56-40c3-bfac-a9e67bb99a48/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "909c3134-a4cf-4efd-b3da-39a56b34e1c6",
@@ -2414,7 +2468,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/909c3134-a4cf-4efd-b3da-39a56b34e1c6",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/909c3134-a4cf-4efd-b3da-39a56b34e1c6/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "91ba4b62-714b-4f31-a56d-ee5c61d2d138",
@@ -2432,7 +2486,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/91ba4b62-714b-4f31-a56d-ee5c61d2d138",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/91ba4b62-714b-4f31-a56d-ee5c61d2d138/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "91c1de58-bdaf-413f-beae-68dd87e1b85d",
@@ -2450,7 +2504,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/91c1de58-bdaf-413f-beae-68dd87e1b85d",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/91c1de58-bdaf-413f-beae-68dd87e1b85d/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "9322fd3d-dc8c-4a83-99ef-abd7be3a22f9",
@@ -2468,7 +2522,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/9322fd3d-dc8c-4a83-99ef-abd7be3a22f9",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/9322fd3d-dc8c-4a83-99ef-abd7be3a22f9/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "94c368dd-4020-4315-ad4b-32939d0b70d3",
@@ -2486,25 +2540,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/94c368dd-4020-4315-ad4b-32939d0b70d3",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/94c368dd-4020-4315-ad4b-32939d0b70d3/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
-    },
-    {
-      "id": "9508911c-132d-4992-8a8a-043a82b0b06b",
-      "title": "合规经理",
-      "company": "均胜集团",
-      "location": "宁波市, 浙江, 中国",
-      "remote": "unspecified",
-      "department": "总部职能-均胜电子",
-      "employment_type": "FULL_TIME",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-02-03",
-      "updated": "2026-07-20",
-      "deadline": "",
-      "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/9508911c-132d-4992-8a8a-043a82b0b06b",
-      "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/9508911c-132d-4992-8a8a-043a82b0b06b/apply?pure=1",
-      "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "97cdd0f6-423a-4665-a262-030049947e34",
@@ -2522,7 +2558,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/97cdd0f6-423a-4665-a262-030049947e34",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/97cdd0f6-423a-4665-a262-030049947e34/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "993c6216-ef3a-4393-be51-7696fd8fa88a",
@@ -2540,7 +2576,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/993c6216-ef3a-4393-be51-7696fd8fa88a",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/993c6216-ef3a-4393-be51-7696fd8fa88a/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "99d7e7c1-fa6c-4328-99de-440b3488105e",
@@ -2558,7 +2594,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/99d7e7c1-fa6c-4328-99de-440b3488105e",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/99d7e7c1-fa6c-4328-99de-440b3488105e/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "9ab013da-9fa4-4cdc-a842-0ebe7b6f9bf1",
@@ -2576,7 +2612,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/9ab013da-9fa4-4cdc-a842-0ebe7b6f9bf1",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/9ab013da-9fa4-4cdc-a842-0ebe7b6f9bf1/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "9b06ff68-1c49-4cf2-8589-f0c6565dbd8d",
@@ -2594,7 +2630,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/9b06ff68-1c49-4cf2-8589-f0c6565dbd8d",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/9b06ff68-1c49-4cf2-8589-f0c6565dbd8d/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "9dc1c4d9-66d3-4d98-964b-7d0fa5673be2",
@@ -2612,7 +2648,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/9dc1c4d9-66d3-4d98-964b-7d0fa5673be2",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/9dc1c4d9-66d3-4d98-964b-7d0fa5673be2/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "9de7e88f-9816-46cd-bbaa-44fed4af3170",
@@ -2630,7 +2666,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/9de7e88f-9816-46cd-bbaa-44fed4af3170",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/9de7e88f-9816-46cd-bbaa-44fed4af3170/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "a10aeaa2-bd4b-444a-8125-19c79842afc0",
@@ -2648,7 +2684,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/a10aeaa2-bd4b-444a-8125-19c79842afc0",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/a10aeaa2-bd4b-444a-8125-19c79842afc0/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "a30eb57a-c647-4712-a1d9-83efd83251e8",
@@ -2666,7 +2702,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/a30eb57a-c647-4712-a1d9-83efd83251e8",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/a30eb57a-c647-4712-a1d9-83efd83251e8/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "a42237db-2b74-4aeb-bb9c-145ac316e554",
@@ -2684,7 +2720,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/a42237db-2b74-4aeb-bb9c-145ac316e554",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/a42237db-2b74-4aeb-bb9c-145ac316e554/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "a4254fea-f2e8-484a-be26-37a64153f321",
@@ -2702,7 +2738,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/a4254fea-f2e8-484a-be26-37a64153f321",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/a4254fea-f2e8-484a-be26-37a64153f321/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "a5e03c85-5a66-4cd1-8db8-5a1f4ace864a",
@@ -2720,7 +2756,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/a5e03c85-5a66-4cd1-8db8-5a1f4ace864a",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/a5e03c85-5a66-4cd1-8db8-5a1f4ace864a/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "a694b821-c57f-4a46-960e-eb5d9756891e",
@@ -2738,7 +2774,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/a694b821-c57f-4a46-960e-eb5d9756891e",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/a694b821-c57f-4a46-960e-eb5d9756891e/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "a7983295-fc63-4d24-a727-fd3339f3ae7d",
@@ -2756,7 +2792,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/a7983295-fc63-4d24-a727-fd3339f3ae7d",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/a7983295-fc63-4d24-a727-fd3339f3ae7d/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "a847fee1-12e2-457c-a855-76af5393ccdc",
@@ -2774,7 +2810,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/a847fee1-12e2-457c-a855-76af5393ccdc",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/a847fee1-12e2-457c-a855-76af5393ccdc/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "a8ae0e9f-2d77-4281-b7d2-a1c56bbe4267",
@@ -2792,7 +2828,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/a8ae0e9f-2d77-4281-b7d2-a1c56bbe4267",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/a8ae0e9f-2d77-4281-b7d2-a1c56bbe4267/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "a8f247d1-f82d-488f-a27e-dd4e376cc995",
@@ -2810,7 +2846,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/a8f247d1-f82d-488f-a27e-dd4e376cc995",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/a8f247d1-f82d-488f-a27e-dd4e376cc995/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "a970cd5d-4017-47f7-8334-10b477e0b702",
@@ -2828,7 +2864,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/a970cd5d-4017-47f7-8334-10b477e0b702",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/a970cd5d-4017-47f7-8334-10b477e0b702/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "a975c46d-971d-45b3-bb20-28471166e669",
@@ -2846,7 +2882,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/a975c46d-971d-45b3-bb20-28471166e669",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/a975c46d-971d-45b3-bb20-28471166e669/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "aa8ec162-fa99-47a0-9500-e5bf16f1bd15",
@@ -2864,7 +2900,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/aa8ec162-fa99-47a0-9500-e5bf16f1bd15",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/aa8ec162-fa99-47a0-9500-e5bf16f1bd15/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "abef1f90-10cf-464e-8232-9e93c009ab00",
@@ -2882,7 +2918,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/abef1f90-10cf-464e-8232-9e93c009ab00",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/abef1f90-10cf-464e-8232-9e93c009ab00/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "ac16fb86-34e0-4012-926e-24c6c0b7feb4",
@@ -2900,7 +2936,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/ac16fb86-34e0-4012-926e-24c6c0b7feb4",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/ac16fb86-34e0-4012-926e-24c6c0b7feb4/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "accbfe23-5ae0-4f29-acc6-649fc6506658",
@@ -2918,7 +2954,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/accbfe23-5ae0-4f29-acc6-649fc6506658",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/accbfe23-5ae0-4f29-acc6-649fc6506658/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "ace89068-28a9-442a-9de0-f9762bd0685d",
@@ -2936,7 +2972,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/ace89068-28a9-442a-9de0-f9762bd0685d",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/ace89068-28a9-442a-9de0-f9762bd0685d/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "ae412edd-e05a-4272-837b-cd7018c4b821",
@@ -2954,7 +2990,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/ae412edd-e05a-4272-837b-cd7018c4b821",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/ae412edd-e05a-4272-837b-cd7018c4b821/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "af13af08-0c4e-498d-939c-3646626992c2",
@@ -2972,7 +3008,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/af13af08-0c4e-498d-939c-3646626992c2",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/af13af08-0c4e-498d-939c-3646626992c2/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "afb8e523-0dcb-4324-b992-09bef7419423",
@@ -2990,7 +3026,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/afb8e523-0dcb-4324-b992-09bef7419423",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/afb8e523-0dcb-4324-b992-09bef7419423/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "b1080639-0c92-4de4-abea-bf3e3cafc37e",
@@ -3008,7 +3044,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/b1080639-0c92-4de4-abea-bf3e3cafc37e",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/b1080639-0c92-4de4-abea-bf3e3cafc37e/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "b1282f9f-8a2f-4772-a573-ef718fa4c370",
@@ -3026,7 +3062,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/b1282f9f-8a2f-4772-a573-ef718fa4c370",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/b1282f9f-8a2f-4772-a573-ef718fa4c370/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "b271db6c-2f14-49a9-9f1e-b5039302e856",
@@ -3044,7 +3080,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/b271db6c-2f14-49a9-9f1e-b5039302e856",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/b271db6c-2f14-49a9-9f1e-b5039302e856/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "b2d2c20a-6187-416f-a8fe-55956787cd43",
@@ -3062,7 +3098,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/b2d2c20a-6187-416f-a8fe-55956787cd43",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/b2d2c20a-6187-416f-a8fe-55956787cd43/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "b3a4fa20-8925-49c4-97ad-bae6928e4ed8",
@@ -3080,7 +3116,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/b3a4fa20-8925-49c4-97ad-bae6928e4ed8",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/b3a4fa20-8925-49c4-97ad-bae6928e4ed8/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "b73fb065-c987-48ac-a1f7-5d641c3e88f8",
@@ -3098,7 +3134,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/b73fb065-c987-48ac-a1f7-5d641c3e88f8",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/b73fb065-c987-48ac-a1f7-5d641c3e88f8/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "b88b1c3f-95ae-4631-8730-2d619a02a6db",
@@ -3116,7 +3152,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/b88b1c3f-95ae-4631-8730-2d619a02a6db",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/b88b1c3f-95ae-4631-8730-2d619a02a6db/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "b8e938a0-9667-4ba0-8b92-5472560933d9",
@@ -3134,7 +3170,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/b8e938a0-9667-4ba0-8b92-5472560933d9",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/b8e938a0-9667-4ba0-8b92-5472560933d9/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "b94f0ab3-05d1-45ef-8c29-9cac6fc988bf",
@@ -3152,7 +3188,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/b94f0ab3-05d1-45ef-8c29-9cac6fc988bf",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/b94f0ab3-05d1-45ef-8c29-9cac6fc988bf/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "ba48bb44-63f7-47ee-931d-dbae192738cf",
@@ -3170,25 +3206,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/ba48bb44-63f7-47ee-931d-dbae192738cf",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/ba48bb44-63f7-47ee-931d-dbae192738cf/apply?pure=1",
       "first_seen": "2026-11-20T15:23:49Z",
-      "last_checked": "2026-11-24T17:38:09Z"
-    },
-    {
-      "id": "ba7ce020-2d38-4ebc-94a4-ddc9c6dc5170",
-      "title": "SAP 顾问",
-      "company": "均胜集团",
-      "location": "宁波市, 浙江, 中国",
-      "remote": "unspecified",
-      "department": "宁波均胜群英汽车系统股份有限公司",
-      "employment_type": "FULL_TIME",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-10-27",
-      "updated": "2026-11-19",
-      "deadline": "",
-      "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/ba7ce020-2d38-4ebc-94a4-ddc9c6dc5170",
-      "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/ba7ce020-2d38-4ebc-94a4-ddc9c6dc5170/apply?pure=1",
-      "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "bb68c18e-8f6e-4d6e-9485-9737d7299c75",
@@ -3206,7 +3224,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/bb68c18e-8f6e-4d6e-9485-9737d7299c75",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/bb68c18e-8f6e-4d6e-9485-9737d7299c75/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "bcaadbc0-c790-4191-8076-07c52e998cca",
@@ -3224,7 +3242,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/bcaadbc0-c790-4191-8076-07c52e998cca",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/bcaadbc0-c790-4191-8076-07c52e998cca/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "bcc923c9-bedf-48c9-a195-d6522522bf13",
@@ -3242,7 +3260,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/bcc923c9-bedf-48c9-a195-d6522522bf13",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/bcc923c9-bedf-48c9-a195-d6522522bf13/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "bdbe0e72-7bab-472a-8346-896f6d3c8d09",
@@ -3260,7 +3278,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/bdbe0e72-7bab-472a-8346-896f6d3c8d09",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/bdbe0e72-7bab-472a-8346-896f6d3c8d09/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "be5a9f15-58f4-44a6-b220-eb511ca432d8",
@@ -3278,7 +3296,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/be5a9f15-58f4-44a6-b220-eb511ca432d8",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/be5a9f15-58f4-44a6-b220-eb511ca432d8/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "c11ed865-38d5-471b-8994-ca54ff41d8b8",
@@ -3296,7 +3314,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/c11ed865-38d5-471b-8994-ca54ff41d8b8",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/c11ed865-38d5-471b-8994-ca54ff41d8b8/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "c2a3e49c-fa6a-495b-a48b-0ed0b162e6fa",
@@ -3314,7 +3332,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/c2a3e49c-fa6a-495b-a48b-0ed0b162e6fa",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/c2a3e49c-fa6a-495b-a48b-0ed0b162e6fa/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "c3480ab8-8f18-4bcc-b9b6-e99286134cb1",
@@ -3332,7 +3350,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/c3480ab8-8f18-4bcc-b9b6-e99286134cb1",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/c3480ab8-8f18-4bcc-b9b6-e99286134cb1/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "c34bbcd4-12ed-4745-b5b7-4070a5ae6d13",
@@ -3350,7 +3368,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/c34bbcd4-12ed-4745-b5b7-4070a5ae6d13",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/c34bbcd4-12ed-4745-b5b7-4070a5ae6d13/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "c43d9b11-e55e-4f1e-9538-47ef6c78dd5d",
@@ -3368,7 +3386,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/c43d9b11-e55e-4f1e-9538-47ef6c78dd5d",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/c43d9b11-e55e-4f1e-9538-47ef6c78dd5d/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "c44cdaac-4661-4eba-8891-6935b3edd62e",
@@ -3386,7 +3404,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/c44cdaac-4661-4eba-8891-6935b3edd62e",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/c44cdaac-4661-4eba-8891-6935b3edd62e/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "c579ba52-2327-416c-94c5-0cce8f03226d",
@@ -3404,7 +3422,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/c579ba52-2327-416c-94c5-0cce8f03226d",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/c579ba52-2327-416c-94c5-0cce8f03226d/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "c67d6d07-58ad-48ce-9f66-51da0b01821b",
@@ -3422,7 +3440,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/c67d6d07-58ad-48ce-9f66-51da0b01821b",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/c67d6d07-58ad-48ce-9f66-51da0b01821b/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "c6a15ffc-8ca0-4fbb-880b-089458b07f65",
@@ -3440,7 +3458,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/c6a15ffc-8ca0-4fbb-880b-089458b07f65",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/c6a15ffc-8ca0-4fbb-880b-089458b07f65/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "c77fc418-6046-4385-89df-c41a125e0cbd",
@@ -3458,7 +3476,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/c77fc418-6046-4385-89df-c41a125e0cbd",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/c77fc418-6046-4385-89df-c41a125e0cbd/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "c80f9a7f-a164-4f7a-973a-f22dd9b1b941",
@@ -3476,7 +3494,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/c80f9a7f-a164-4f7a-973a-f22dd9b1b941",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/c80f9a7f-a164-4f7a-973a-f22dd9b1b941/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "c8ed190c-f7c8-4659-af66-8b891c5f4134",
@@ -3494,7 +3512,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/c8ed190c-f7c8-4659-af66-8b891c5f4134",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/c8ed190c-f7c8-4659-af66-8b891c5f4134/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "c8f4d385-2569-4cdf-9f10-962a1e777e24",
@@ -3512,7 +3530,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/c8f4d385-2569-4cdf-9f10-962a1e777e24",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/c8f4d385-2569-4cdf-9f10-962a1e777e24/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "cb4dcc65-b7e1-40b4-90e7-15921020598a",
@@ -3530,7 +3548,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/cb4dcc65-b7e1-40b4-90e7-15921020598a",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/cb4dcc65-b7e1-40b4-90e7-15921020598a/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "cb87f59c-7fc3-4a15-bbe8-5615eee6c82a",
@@ -3548,7 +3566,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/cb87f59c-7fc3-4a15-bbe8-5615eee6c82a",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/cb87f59c-7fc3-4a15-bbe8-5615eee6c82a/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "cb9f9bcf-3d15-4f7e-affe-83d30dbb6667",
@@ -3566,7 +3584,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/cb9f9bcf-3d15-4f7e-affe-83d30dbb6667",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/cb9f9bcf-3d15-4f7e-affe-83d30dbb6667/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "cc5a85bc-818e-4a4c-80a5-1361bfba2ab0",
@@ -3584,7 +3602,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/cc5a85bc-818e-4a4c-80a5-1361bfba2ab0",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/cc5a85bc-818e-4a4c-80a5-1361bfba2ab0/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "cca9228c-c6e4-4a8e-8897-2370ffa2c634",
@@ -3602,7 +3620,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/cca9228c-c6e4-4a8e-8897-2370ffa2c634",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/cca9228c-c6e4-4a8e-8897-2370ffa2c634/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "cd31eb4d-3eff-4fb1-ac2a-7e6056d8df84",
@@ -3620,7 +3638,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/cd31eb4d-3eff-4fb1-ac2a-7e6056d8df84",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/cd31eb4d-3eff-4fb1-ac2a-7e6056d8df84/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "cd370b30-6992-408a-b61c-0f45def98e40",
@@ -3638,7 +3656,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/cd370b30-6992-408a-b61c-0f45def98e40",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/cd370b30-6992-408a-b61c-0f45def98e40/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "cd457dbf-523a-499a-8d85-68176355825c",
@@ -3656,7 +3674,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/cd457dbf-523a-499a-8d85-68176355825c",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/cd457dbf-523a-499a-8d85-68176355825c/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "cf3cfee2-5243-4311-ab42-e6504c9a1005",
@@ -3674,7 +3692,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/cf3cfee2-5243-4311-ab42-e6504c9a1005",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/cf3cfee2-5243-4311-ab42-e6504c9a1005/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "d1abfa07-c299-4a3a-9221-f656f875c550",
@@ -3692,7 +3710,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/d1abfa07-c299-4a3a-9221-f656f875c550",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/d1abfa07-c299-4a3a-9221-f656f875c550/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "d1c6c266-1da0-4c48-b96b-6bffc6d0e791",
@@ -3710,7 +3728,25 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/d1c6c266-1da0-4c48-b96b-6bffc6d0e791",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/d1c6c266-1da0-4c48-b96b-6bffc6d0e791/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
+    },
+    {
+      "id": "d2e675a0-a327-4dae-bb18-7e7286aa7bc5",
+      "title": "高级税务会计",
+      "company": "均胜集团",
+      "location": "上海市, 中国",
+      "remote": "unspecified",
+      "department": "技术&税务 Technical & Tax",
+      "employment_type": "FULL_TIME",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-25",
+      "updated": "2026-11-25",
+      "deadline": "",
+      "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/d2e675a0-a327-4dae-bb18-7e7286aa7bc5",
+      "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/d2e675a0-a327-4dae-bb18-7e7286aa7bc5/apply?pure=1",
+      "first_seen": "2026-11-25T17:09:22Z",
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "d2ea8079-4553-4646-a6e9-a755a128e777",
@@ -3728,7 +3764,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/d2ea8079-4553-4646-a6e9-a755a128e777",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/d2ea8079-4553-4646-a6e9-a755a128e777/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "d39f3021-df75-4c3f-a41d-e898f6bab670",
@@ -3746,7 +3782,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/d39f3021-df75-4c3f-a41d-e898f6bab670",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/d39f3021-df75-4c3f-a41d-e898f6bab670/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "d4c4ae3a-6c9c-4b2c-a6a1-b393570ee970",
@@ -3764,7 +3800,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/d4c4ae3a-6c9c-4b2c-a6a1-b393570ee970",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/d4c4ae3a-6c9c-4b2c-a6a1-b393570ee970/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "d592e68c-2b30-49df-be20-2f08b6a402a2",
@@ -3782,7 +3818,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/d592e68c-2b30-49df-be20-2f08b6a402a2",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/d592e68c-2b30-49df-be20-2f08b6a402a2/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "d90ef570-8592-4c23-8116-cc7efeb37cee",
@@ -3800,7 +3836,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/d90ef570-8592-4c23-8116-cc7efeb37cee",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/d90ef570-8592-4c23-8116-cc7efeb37cee/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "d95e358a-1028-4670-9a87-cdd0eadb2d28",
@@ -3818,7 +3854,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/d95e358a-1028-4670-9a87-cdd0eadb2d28",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/d95e358a-1028-4670-9a87-cdd0eadb2d28/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "db4419e2-9af5-41c9-81c4-b6bc5d242272",
@@ -3836,7 +3872,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/db4419e2-9af5-41c9-81c4-b6bc5d242272",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/db4419e2-9af5-41c9-81c4-b6bc5d242272/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "dbf78197-5417-4782-9e14-ecaef1d82d75",
@@ -3854,7 +3890,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/dbf78197-5417-4782-9e14-ecaef1d82d75",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/dbf78197-5417-4782-9e14-ecaef1d82d75/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "dd6a0b74-8f83-4c9e-a12f-d152a06e3502",
@@ -3872,7 +3908,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/dd6a0b74-8f83-4c9e-a12f-d152a06e3502",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/dd6a0b74-8f83-4c9e-a12f-d152a06e3502/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "dd75c2ca-e250-4bd8-8f34-08ad3575aabc",
@@ -3890,7 +3926,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/dd75c2ca-e250-4bd8-8f34-08ad3575aabc",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/dd75c2ca-e250-4bd8-8f34-08ad3575aabc/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "de256536-e299-4987-8aaa-7e41ac50ebc7",
@@ -3908,7 +3944,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/de256536-e299-4987-8aaa-7e41ac50ebc7",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/de256536-e299-4987-8aaa-7e41ac50ebc7/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "df23d4aa-cdfc-47b2-87f5-c61071fece1b",
@@ -3926,7 +3962,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/df23d4aa-cdfc-47b2-87f5-c61071fece1b",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/df23d4aa-cdfc-47b2-87f5-c61071fece1b/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "e0738349-07de-421b-9012-fc76e1fa865c",
@@ -3944,7 +3980,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/e0738349-07de-421b-9012-fc76e1fa865c",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/e0738349-07de-421b-9012-fc76e1fa865c/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "e0ed88a4-f695-46bb-a8a7-172eba8f3baa",
@@ -3962,7 +3998,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/e0ed88a4-f695-46bb-a8a7-172eba8f3baa",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/e0ed88a4-f695-46bb-a8a7-172eba8f3baa/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "e243be11-ff99-421f-be79-6a3c76d63da1",
@@ -3980,7 +4016,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/e243be11-ff99-421f-be79-6a3c76d63da1",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/e243be11-ff99-421f-be79-6a3c76d63da1/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "e26c1b31-41fd-4258-b345-abd586add550",
@@ -3998,7 +4034,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/e26c1b31-41fd-4258-b345-abd586add550",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/e26c1b31-41fd-4258-b345-abd586add550/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "e2a0019f-fd4c-4bc4-b143-a7171bdaea05",
@@ -4016,7 +4052,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/e2a0019f-fd4c-4bc4-b143-a7171bdaea05",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/e2a0019f-fd4c-4bc4-b143-a7171bdaea05/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "e343b0e0-a98e-4091-aa95-018dc433f49c",
@@ -4034,7 +4070,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/e343b0e0-a98e-4091-aa95-018dc433f49c",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/e343b0e0-a98e-4091-aa95-018dc433f49c/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "e4d3728e-93d5-498e-99da-b43f41038f68",
@@ -4052,7 +4088,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/e4d3728e-93d5-498e-99da-b43f41038f68",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/e4d3728e-93d5-498e-99da-b43f41038f68/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "e505166e-fb25-440c-8846-a301a572d841",
@@ -4070,7 +4106,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/e505166e-fb25-440c-8846-a301a572d841",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/e505166e-fb25-440c-8846-a301a572d841/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "e6b5a271-f532-439a-aced-24057909c0ea",
@@ -4088,7 +4124,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/e6b5a271-f532-439a-aced-24057909c0ea",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/e6b5a271-f532-439a-aced-24057909c0ea/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "e70ca6a0-ba26-4fd1-ab7e-43e9e548ff15",
@@ -4106,7 +4142,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/e70ca6a0-ba26-4fd1-ab7e-43e9e548ff15",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/e70ca6a0-ba26-4fd1-ab7e-43e9e548ff15/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "e8059556-fdcd-4f54-9ba6-d9c5e4d03759",
@@ -4124,7 +4160,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/e8059556-fdcd-4f54-9ba6-d9c5e4d03759",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/e8059556-fdcd-4f54-9ba6-d9c5e4d03759/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "e896cad2-d021-4d9f-80c3-5a84c0cf9dd8",
@@ -4142,7 +4178,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/e896cad2-d021-4d9f-80c3-5a84c0cf9dd8",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/e896cad2-d021-4d9f-80c3-5a84c0cf9dd8/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "e91fa718-f26a-4103-a1c1-a7467fbdde2a",
@@ -4160,7 +4196,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/e91fa718-f26a-4103-a1c1-a7467fbdde2a",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/e91fa718-f26a-4103-a1c1-a7467fbdde2a/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "e9556d7a-8a58-45ab-b1f6-436c2c7c6974",
@@ -4178,7 +4214,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/e9556d7a-8a58-45ab-b1f6-436c2c7c6974",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/e9556d7a-8a58-45ab-b1f6-436c2c7c6974/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "eb731631-b953-4386-96dd-f32d00f8878b",
@@ -4196,7 +4232,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/eb731631-b953-4386-96dd-f32d00f8878b",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/eb731631-b953-4386-96dd-f32d00f8878b/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "ee8c42f5-3532-40c5-a0fd-11761159efd7",
@@ -4214,7 +4250,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/ee8c42f5-3532-40c5-a0fd-11761159efd7",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/ee8c42f5-3532-40c5-a0fd-11761159efd7/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "f0d92102-5470-4c4b-b0bf-2345bffe9d23",
@@ -4232,7 +4268,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/f0d92102-5470-4c4b-b0bf-2345bffe9d23",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/f0d92102-5470-4c4b-b0bf-2345bffe9d23/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "f1cfa121-2075-4178-9d91-0802455ec4f8",
@@ -4250,7 +4286,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/f1cfa121-2075-4178-9d91-0802455ec4f8",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/f1cfa121-2075-4178-9d91-0802455ec4f8/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "f1e0e716-8dab-49cc-a371-68791790aae0",
@@ -4268,7 +4304,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/f1e0e716-8dab-49cc-a371-68791790aae0",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/f1e0e716-8dab-49cc-a371-68791790aae0/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "f2013efd-1002-4c15-908d-17f87a99082b",
@@ -4286,7 +4322,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/f2013efd-1002-4c15-908d-17f87a99082b",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/f2013efd-1002-4c15-908d-17f87a99082b/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "f2282ac0-64fd-4e2b-b813-4c9e93ed47a8",
@@ -4304,7 +4340,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/f2282ac0-64fd-4e2b-b813-4c9e93ed47a8",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/f2282ac0-64fd-4e2b-b813-4c9e93ed47a8/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "f3aec7c1-91b8-439a-be6c-80e6f4e606c2",
@@ -4322,7 +4358,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/f3aec7c1-91b8-439a-be6c-80e6f4e606c2",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/f3aec7c1-91b8-439a-be6c-80e6f4e606c2/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "f53e18cf-f7df-485f-8765-77fec4ea10c8",
@@ -4340,7 +4376,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/f53e18cf-f7df-485f-8765-77fec4ea10c8",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/f53e18cf-f7df-485f-8765-77fec4ea10c8/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "f608fb66-77e9-4b68-a212-1cb8ea939a0c",
@@ -4358,7 +4394,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/f608fb66-77e9-4b68-a212-1cb8ea939a0c",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/f608fb66-77e9-4b68-a212-1cb8ea939a0c/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "f6251a75-460a-4572-b585-50168c9b72d5",
@@ -4376,7 +4412,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/f6251a75-460a-4572-b585-50168c9b72d5",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/f6251a75-460a-4572-b585-50168c9b72d5/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "f69eb316-8103-45a6-a159-c0aee0f51430",
@@ -4394,7 +4430,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/f69eb316-8103-45a6-a159-c0aee0f51430",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/f69eb316-8103-45a6-a159-c0aee0f51430/apply?pure=1",
       "first_seen": "2026-11-20T15:23:49Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "f9b2c6c6-1860-48b9-bcc2-f94bed069ae8",
@@ -4412,7 +4448,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/f9b2c6c6-1860-48b9-bcc2-f94bed069ae8",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/f9b2c6c6-1860-48b9-bcc2-f94bed069ae8/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "f9f0b67d-06cd-4e5c-a330-0e545fec1899",
@@ -4430,7 +4466,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/f9f0b67d-06cd-4e5c-a330-0e545fec1899",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/f9f0b67d-06cd-4e5c-a330-0e545fec1899/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "fabf3085-bc09-4b6e-a0be-5ce1f690ae22",
@@ -4448,7 +4484,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/fabf3085-bc09-4b6e-a0be-5ce1f690ae22",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/fabf3085-bc09-4b6e-a0be-5ce1f690ae22/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "fb09b66a-d5f5-41a9-8fbb-ca731ba45c30",
@@ -4466,7 +4502,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/fb09b66a-d5f5-41a9-8fbb-ca731ba45c30",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/fb09b66a-d5f5-41a9-8fbb-ca731ba45c30/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "fb77df13-0068-4443-a2bd-daa169554dce",
@@ -4484,7 +4520,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/fb77df13-0068-4443-a2bd-daa169554dce",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/fb77df13-0068-4443-a2bd-daa169554dce/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "fcab9341-35aa-4aca-896d-8b997b648dcf",
@@ -4502,7 +4538,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/fcab9341-35aa-4aca-896d-8b997b648dcf",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/fcab9341-35aa-4aca-896d-8b997b648dcf/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     },
     {
       "id": "fe2d839d-7e37-41fd-ae61-9fa4de851a0e",
@@ -4520,7 +4556,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/joyson/94310#/job/fe2d839d-7e37-41fd-ae61-9fa4de851a0e",
       "apply_url": "https://app.mokahr.com/apply/joyson/94310#/job/fe2d839d-7e37-41fd-ae61-9fa4de851a0e/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-24T17:38:09Z"
+      "last_checked": "2026-11-25T17:09:22Z"
     }
   ],
   "ats": "moka",
