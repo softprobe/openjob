@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" type="image/svg+xml" href="../../favicon.svg">
+  <title>Why our listings expire: the 60-day rule that keeps the board honest — OpenJob</title>
+  <meta name="description" content="A job on OpenJob lasts 60 days and a talent profile 180, unless the owner renews it. The expiry rule is why the board never fills up with stale posts — and why the ~14,000 fresh roles are real.">
+  <link rel="canonical" href="https://openjob.softprobe.ai/articles/listings-expire/">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="OpenJob">
+  <meta property="og:title" content="Why our listings expire: the 60-day rule that keeps the board honest — OpenJob">
+  <meta property="og:description" content="A job on OpenJob lasts 60 days and a talent profile 180, unless the owner renews it. The expiry rule is why the board never fills up with stale posts — and why the ~14,000 fresh roles are real.">
+  <meta property="og:url" content="https://openjob.softprobe.ai/articles/listings-expire/">
+  <!-- openjob:social -->
+  <meta property="og:image" content="https://openjob.softprobe.ai/og.png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="OpenJob. Open, privacy-first job board on GitHub">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:image" content="https://openjob.softprobe.ai/og.png">
+  <meta name="twitter:image:alt" content="OpenJob. Open, privacy-first job board on GitHub">
+  <meta name="google-site-verification" content="a2xq4xTZGnwkNdS2FSOJ9EGiUwnSmcRUcCAa2CUkiPI">
+  <!-- /openjob:social -->
+  <meta name="twitter:title" content="Why our listings expire: the 60-day rule that keeps the board honest — OpenJob">
+  <meta name="twitter:description" content="A job on OpenJob lasts 60 days and a talent profile 180, unless the owner renews it. The expiry rule is why the board never fills up with stale posts — and why the ~14,000 fresh roles are real.">
+  <link rel="stylesheet" href="../../style.css">
+</head>
+<body class="entry">
+  <div class="wrap">
+    <header class="mast">
+      <div>
+        <div class="brand-row"><img class="brand-mark" src="../../favicon.svg" alt="OpenJob logo" width="40" height="40"><p class="kicker">OpenJob</p></div>
+        <h1>Why our listings expire: the 60-day rule that keeps the board honest</h1>
+        <p class="sub">OpenJob · November 25, 2026</p>
+      </div>
+      <div class="mast-side">
+        <button type="button" class="text-button" data-lang-toggle aria-pressed="false">中文</button>
+        <a href="https://openjob.softprobe.ai/" data-i18n="board">Board</a>
+      </div>
+    </header>
+    <article>
+      <p><em>I maintain OpenJob — and I put an expiry date on every listing on purpose.</em></p>
+      <p>The rule is short: <strong>a job on OpenJob lasts 60 days</strong> from the day it was posted, or from the day it was last renewed. <strong>A talent profile lasts 180 days.</strong> Company pages never expire. After that, the listing's time is up unless its owner renews it — and renewal is a deliberate act, not a refresh button: the owner opens a pull request that edits the existing file, keeps the original posted date, and sets <code>renewed</code> to the day the pull request opens.</p>
+      <p>That is a feature, not a limitation. Most job boards accumulate. A posting goes up, the role fills or the budget moves, and the post sits there for years, collecting applications nobody will ever read. On OpenJob, a listing that nobody stands behind any more simply leaves the board. What you see is what an employer or a person is still willing to put their name to, this quarter.</p>
+      <h2>Renewal is a signal, not a formality</h2>
+      <p>Renewal means something because only the owner can do it. A job can only be added, edited, or closed by the owners of its company page, and a talent profile only by the person it belongs to. A pull request that touches a post auto-merges only when its author owns every file it changes. So when a job shows a recent <code>renewed</code> date, it means the employer came back and said, yes, we are still hiring for this — not that a scraper re-fetched the page.</p>
+      <p>Owners can also set a post to expire sooner than the cap — a 30-day posting for a role that needs filling fast, for example — but never later. The 60-day and 180-day caps are the ceiling, not a suggestion: the board's rules do not let a listing promise more shelf life than that.</p>
+      <h2>The same rule, for people</h2>
+      <p>Talent profiles get the longer clock — 180 days — because a person's availability changes more slowly than a single requisition. The same principle applies: after 180 days without renewal, the profile expires. Profiles published through the anonymous API come with a private deletion token, shown once when the profile is created; the owner can delete the profile with that token at any time. One honest limit, stated up front: deleting a profile removes it from the board, but it cannot recall copies that were already downloaded.</p>
+      <p>Publishing a profile needs no account and no API key — the API and the remote MCP endpoint accept it, and the GitHub pull-request workflow is the alternative. No email and no phone number ever appear in a profile, and a job may show at most one hiring address, and only when its domain matches the company's own website.</p>
+      <h2>What expiry does — and does not — cover</h2>
+      <p>Here is the honest boundary. The expiry rule governs the native board: the jobs and profiles posted to OpenJob itself, where 26 companies have pages today. It does not govern the indexed dataset — the <strong>33,440 rows</strong> pulled from employer ATS boards (manifest generated 2026-11-24T23:22:20Z), which carry the posted dates the employers themselves state. Some of those dates go back to 2019, and we do not rewrite them.</p>
+      <p>So we measure the indexed half honestly instead of pretending the rule covers it. Our November 23 re-run — same six shards, same definitions, 5,438 sampled rows — found <strong>42.1% fresh</strong> (2,290 rows posted in the last 60 days), <strong>40.8% on the ATS-weighted estimate, about 13,650 roles</strong> — the honest live figure we quote as <strong>about 14,000</strong>. The native half expires by rule; the indexed half is counted in the open. Either way, the number a job seeker should plan around is ~14,000, never 33,440. The full count is in <a href="https://openjob.softprobe.ai/articles/honest-count/">We counted our own index honestly</a> and its <a href="https://openjob.softprobe.ai/articles/zh-honest-count/">Chinese version</a>, and the shape of the fresh half is in <a href="https://openjob.softprobe.ai/articles/fresh-half/">The live half of the index</a>.</p>
+      <p>The point of the expiry rule is that the board cannot quietly become an archive. Every listing on it is either recent, or recently renewed by someone who owns it. That is a small rule with a large effect: it is the mechanism that keeps the live half honest.</p>
+      <h2>How it works, in brief</h2>
+      <ul>
+        <li><strong>Jobs:</strong> 60 days from <code>posted</code> or <code>renewed</code>. Renew by editing the existing file in a new pull request; keep <code>posted</code> unchanged and set <code>renewed</code> to the day you open the pull request.</li>
+        <li><strong>Talent profiles:</strong> 180 days. API profiles return a private deletion token once — save it; it is the way to delete the profile later.</li>
+        <li><strong>Company pages:</strong> no expiry. A new company page is reviewed once; after that, only its owners can edit it.</li>
+        <li><strong>Caps:</strong> you may set <code>expires</code> sooner on a job or talent post, never later than the cap. <code>posted</code> and <code>expires</code> are dates in <code>YYYY-MM-DD</code> form.</li>
+        <li><strong>Sources:</strong> the rules above are from <code>https://openjob.softprobe.ai/llms.txt</code> and the repository's <code>AGENTS.md</code> (both read November 25, 2026). The freshness figures are from the November 23 snapshot recompute — sample 5,438 rows from shards 0, 7, 14, 20, 27, 33, both SHA-256 checksums verified; full method in <a href="https://openjob.softprobe.ai/articles/how-we-count/">How we count</a>.</li>
+        <li><strong>Indexed ≠ recruited.</strong> Every dataset number describes rows indexed from employer ATS boards. OpenJob did not recruit these employers; the employers own the text.</li>
+      </ul>
+      <p><em>Try it yourself: paste "Read https://openjob.softprobe.ai/llms.txt and follow it. Find me a job posted in the last 30 days." into the agent you already use — Muse, ChatGPT/Codex, Cursor, Hermes, or Instinct — and see what it finds. The board is at <a href="https://openjob.softprobe.ai">openjob.softprobe.ai</a>; the source is <a href="https://github.com/softprobe/openjob">github.com/softprobe/openjob</a>. To post a job or a profile, start at <a href="https://openjob.softprobe.ai/llms.txt">llms.txt</a> — it is written for your agent to follow.</em></p>
+    </article>
+    <footer>
+      <p><a href="https://openjob.softprobe.ai/">OpenJob</a> · <a href="https://github.com/softprobe/openjob" data-i18n="source">Source</a></p>
+    </footer>
+  </div>
+  <script src="../../i18n.js?v=a850439327b7cac9ea924be99d3a9fa43b4fa01d"></script>
+</body>
+</html>
