@@ -1,23 +1,29 @@
 {
-  "generated": "2026-11-25T17:09:22Z",
+  "generated": "2026-11-26T16:50:55Z",
   "publish": true,
   "companies": 369,
-  "jobs": 33315,
+  "jobs": 33279,
   "before": {
-    "greenhouse": 12985,
+    "greenhouse": 12953,
     "workable": 10,
-    "lever": 1968,
-    "ashby": 3653,
-    "moka": 14799
+    "lever": 1962,
+    "ashby": 3668,
+    "moka": 14722
   },
   "after": {
-    "greenhouse": 12953,
-    "ashby": 3668,
-    "lever": 1962,
-    "moka": 14722,
-    "workable": 10
+    "greenhouse": 12960,
+    "ashby": 3671,
+    "lever": 1970,
+    "moka": 14669,
+    "workable": 9
   },
   "dropped": [],
   "hidden": [],
-  "stale": []
+  "stale": [
+    {
+      "ats": "moka",
+      "board": "eyugame",
+      "slug": "eyugame"
+    }
+  ]
 }

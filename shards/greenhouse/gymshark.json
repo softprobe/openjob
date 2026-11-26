@@ -1,8 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-25T17:09:22Z",
+  "checked_at": "2026-11-26T16:50:55Z",
   "failed_at": null,
-  "etag": "W/\"0a3b46fee329b64c83575e6cff166839\"",
+  "etag": "W/\"18c8fc5def098111937ecd141dc3a8c3\"",
   "jobs": [
     {
       "id": "4974208101",
@@ -20,25 +20,25 @@
       "source_url": "https://job-boards.eu.greenhouse.io/gymshark/jobs/4974208101",
       "apply_url": "https://job-boards.eu.greenhouse.io/gymshark/jobs/4974208101",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "4978978101",
       "title": "Senior Executive, Creator Marketing",
       "company": "Gymshark",
-      "location": "Solihull, England, United Kingdom",
+      "location": "London; Solihull, England, United Kingdom",
       "remote": "unspecified",
       "department": "",
       "employment_type": "",
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-09-24",
-      "updated": "2026-11-20",
+      "updated": "2026-11-26",
       "deadline": "2026-11-30",
       "source_url": "https://job-boards.eu.greenhouse.io/gymshark/jobs/4978978101",
       "apply_url": "https://job-boards.eu.greenhouse.io/gymshark/jobs/4978978101",
       "first_seen": "2026-11-20T15:23:49Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "4981295101",
@@ -56,7 +56,7 @@
       "source_url": "https://job-boards.eu.greenhouse.io/gymshark/jobs/4981295101",
       "apply_url": "https://job-boards.eu.greenhouse.io/gymshark/jobs/4981295101",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "5042226101",
@@ -74,7 +74,7 @@
       "source_url": "https://job-boards.eu.greenhouse.io/gymshark/jobs/5042226101",
       "apply_url": "https://job-boards.eu.greenhouse.io/gymshark/jobs/5042226101",
       "first_seen": "2026-11-19T15:42:04Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "5042541101",
@@ -92,7 +92,7 @@
       "source_url": "https://job-boards.eu.greenhouse.io/gymshark/jobs/5042541101",
       "apply_url": "https://job-boards.eu.greenhouse.io/gymshark/jobs/5042541101",
       "first_seen": "2026-11-19T15:42:04Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "5043202101",
@@ -110,7 +110,7 @@
       "source_url": "https://job-boards.eu.greenhouse.io/gymshark/jobs/5043202101",
       "apply_url": "https://job-boards.eu.greenhouse.io/gymshark/jobs/5043202101",
       "first_seen": "2026-11-20T15:23:49Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "5043211101",
@@ -128,7 +128,7 @@
       "source_url": "https://job-boards.eu.greenhouse.io/gymshark/jobs/5043211101",
       "apply_url": "https://job-boards.eu.greenhouse.io/gymshark/jobs/5043211101",
       "first_seen": "2026-11-20T15:23:49Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "5044086101",
@@ -146,7 +146,7 @@
       "source_url": "https://job-boards.eu.greenhouse.io/gymshark/jobs/5044086101",
       "apply_url": "https://job-boards.eu.greenhouse.io/gymshark/jobs/5044086101",
       "first_seen": "2026-11-23T18:00:07Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     }
   ],
   "ats": "greenhouse",

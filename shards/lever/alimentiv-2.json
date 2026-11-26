@@ -1,8 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-25T17:09:22Z",
+  "checked_at": "2026-11-26T16:50:55Z",
   "failed_at": null,
-  "etag": "W/\"e642a-qxa4MWKsAp4Vol9+e+gNyD8YmwI\"",
+  "etag": "W/\"e64fd-bDZo/hvJHlB1batMTAdTD7egSn0\"",
   "jobs": [
     {
       "id": "0253fd80-4090-4b39-b3e9-2c4b2e264547",
@@ -20,7 +20,7 @@
       "source_url": "https://jobs.lever.co/alimentiv-2/0253fd80-4090-4b39-b3e9-2c4b2e264547",
       "apply_url": "https://jobs.lever.co/alimentiv-2/0253fd80-4090-4b39-b3e9-2c4b2e264547/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "042225fd-d9dc-4cce-80c7-3c4a7ffcda09",
@@ -38,7 +38,7 @@
       "source_url": "https://jobs.lever.co/alimentiv-2/042225fd-d9dc-4cce-80c7-3c4a7ffcda09",
       "apply_url": "https://jobs.lever.co/alimentiv-2/042225fd-d9dc-4cce-80c7-3c4a7ffcda09/apply",
       "first_seen": "2026-11-18T15:36:26Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "0474e743-c0d8-40fa-bb80-b5b8fe9426e2",
@@ -56,7 +56,7 @@
       "source_url": "https://jobs.lever.co/alimentiv-2/0474e743-c0d8-40fa-bb80-b5b8fe9426e2",
       "apply_url": "https://jobs.lever.co/alimentiv-2/0474e743-c0d8-40fa-bb80-b5b8fe9426e2/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "163b279d-b50a-42d6-918d-5a6ddbe8273d",
@@ -74,7 +74,7 @@
       "source_url": "https://jobs.lever.co/alimentiv-2/163b279d-b50a-42d6-918d-5a6ddbe8273d",
       "apply_url": "https://jobs.lever.co/alimentiv-2/163b279d-b50a-42d6-918d-5a6ddbe8273d/apply",
       "first_seen": "2026-11-23T18:00:07Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "19dccca3-c434-442f-bafe-05d4fa109dce",
@@ -92,7 +92,7 @@
       "source_url": "https://jobs.lever.co/alimentiv-2/19dccca3-c434-442f-bafe-05d4fa109dce",
       "apply_url": "https://jobs.lever.co/alimentiv-2/19dccca3-c434-442f-bafe-05d4fa109dce/apply",
       "first_seen": "2026-11-18T15:36:26Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "1bb32412-b8c0-4269-9e9e-873886eded58",
@@ -110,7 +110,7 @@
       "source_url": "https://jobs.lever.co/alimentiv-2/1bb32412-b8c0-4269-9e9e-873886eded58",
       "apply_url": "https://jobs.lever.co/alimentiv-2/1bb32412-b8c0-4269-9e9e-873886eded58/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "205ad099-7618-43bf-a40b-25bcfc685aa1",
@@ -128,7 +128,7 @@
       "source_url": "https://jobs.lever.co/alimentiv-2/205ad099-7618-43bf-a40b-25bcfc685aa1",
       "apply_url": "https://jobs.lever.co/alimentiv-2/205ad099-7618-43bf-a40b-25bcfc685aa1/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "244864d3-b99c-44c0-8ac5-c56f6c9c5ae4",
@@ -146,7 +146,7 @@
       "source_url": "https://jobs.lever.co/alimentiv-2/244864d3-b99c-44c0-8ac5-c56f6c9c5ae4",
       "apply_url": "https://jobs.lever.co/alimentiv-2/244864d3-b99c-44c0-8ac5-c56f6c9c5ae4/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "24bd9e09-c725-4708-a0bb-0ada007d1aeb",
@@ -164,7 +164,7 @@
       "source_url": "https://jobs.lever.co/alimentiv-2/24bd9e09-c725-4708-a0bb-0ada007d1aeb",
       "apply_url": "https://jobs.lever.co/alimentiv-2/24bd9e09-c725-4708-a0bb-0ada007d1aeb/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "2e4e6d30-db68-42f3-952f-44f6d7cf9e93",
@@ -182,7 +182,7 @@
       "source_url": "https://jobs.lever.co/alimentiv-2/2e4e6d30-db68-42f3-952f-44f6d7cf9e93",
       "apply_url": "https://jobs.lever.co/alimentiv-2/2e4e6d30-db68-42f3-952f-44f6d7cf9e93/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "2f362335-1df7-4f2f-a951-7a3ba885c5c2",
@@ -200,7 +200,7 @@
       "source_url": "https://jobs.lever.co/alimentiv-2/2f362335-1df7-4f2f-a951-7a3ba885c5c2",
       "apply_url": "https://jobs.lever.co/alimentiv-2/2f362335-1df7-4f2f-a951-7a3ba885c5c2/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "31ce3213-3bdc-4c28-b852-4867c6c5f108",
@@ -218,7 +218,7 @@
       "source_url": "https://jobs.lever.co/alimentiv-2/31ce3213-3bdc-4c28-b852-4867c6c5f108",
       "apply_url": "https://jobs.lever.co/alimentiv-2/31ce3213-3bdc-4c28-b852-4867c6c5f108/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "3529f5db-5472-4cf0-8ee7-41829db39107",
@@ -236,7 +236,7 @@
       "source_url": "https://jobs.lever.co/alimentiv-2/3529f5db-5472-4cf0-8ee7-41829db39107",
       "apply_url": "https://jobs.lever.co/alimentiv-2/3529f5db-5472-4cf0-8ee7-41829db39107/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "3be0784c-7bdd-456f-9691-d6224a568ada",
@@ -254,7 +254,7 @@
       "source_url": "https://jobs.lever.co/alimentiv-2/3be0784c-7bdd-456f-9691-d6224a568ada",
       "apply_url": "https://jobs.lever.co/alimentiv-2/3be0784c-7bdd-456f-9691-d6224a568ada/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "3ec75ff0-8b9f-4c1f-a87f-b4667d779d82",
@@ -272,7 +272,7 @@
       "source_url": "https://jobs.lever.co/alimentiv-2/3ec75ff0-8b9f-4c1f-a87f-b4667d779d82",
       "apply_url": "https://jobs.lever.co/alimentiv-2/3ec75ff0-8b9f-4c1f-a87f-b4667d779d82/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "4069c1d8-ef09-4842-9464-743c14899b69",
@@ -290,7 +290,7 @@
       "source_url": "https://jobs.lever.co/alimentiv-2/4069c1d8-ef09-4842-9464-743c14899b69",
       "apply_url": "https://jobs.lever.co/alimentiv-2/4069c1d8-ef09-4842-9464-743c14899b69/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "519ee827-edd5-4ec8-a7be-a99d1a3e6863",
@@ -308,7 +308,7 @@
       "source_url": "https://jobs.lever.co/alimentiv-2/519ee827-edd5-4ec8-a7be-a99d1a3e6863",
       "apply_url": "https://jobs.lever.co/alimentiv-2/519ee827-edd5-4ec8-a7be-a99d1a3e6863/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "541c8522-db74-4f5d-bcaa-09f989456a67",
@@ -326,7 +326,7 @@
       "source_url": "https://jobs.lever.co/alimentiv-2/541c8522-db74-4f5d-bcaa-09f989456a67",
       "apply_url": "https://jobs.lever.co/alimentiv-2/541c8522-db74-4f5d-bcaa-09f989456a67/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "587c4c22-c8b3-418a-a8a9-ba5e177dbe63",
@@ -344,7 +344,7 @@
       "source_url": "https://jobs.lever.co/alimentiv-2/587c4c22-c8b3-418a-a8a9-ba5e177dbe63",
       "apply_url": "https://jobs.lever.co/alimentiv-2/587c4c22-c8b3-418a-a8a9-ba5e177dbe63/apply",
       "first_seen": "2026-11-23T18:00:07Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "5945b958-3987-40e4-94be-37daf4ed4046",
@@ -362,7 +362,25 @@
       "source_url": "https://jobs.lever.co/alimentiv-2/5945b958-3987-40e4-94be-37daf4ed4046",
       "apply_url": "https://jobs.lever.co/alimentiv-2/5945b958-3987-40e4-94be-37daf4ed4046/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
+    },
+    {
+      "id": "5a4af2eb-a016-46bf-9a2d-2e4b56f0768f",
+      "title": "TMF Specialist",
+      "company": "Alimentiv",
+      "location": "Warsaw",
+      "remote": "remote",
+      "department": "Clinical Services - TMF Operations",
+      "employment_type": "FULL_TIME",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-25",
+      "updated": "",
+      "deadline": "",
+      "source_url": "https://jobs.lever.co/alimentiv-2/5a4af2eb-a016-46bf-9a2d-2e4b56f0768f",
+      "apply_url": "https://jobs.lever.co/alimentiv-2/5a4af2eb-a016-46bf-9a2d-2e4b56f0768f/apply",
+      "first_seen": "2026-11-26T16:50:55Z",
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "5ad458f9-9d70-4b07-b5f8-88137bcc400b",
@@ -380,7 +398,7 @@
       "source_url": "https://jobs.lever.co/alimentiv-2/5ad458f9-9d70-4b07-b5f8-88137bcc400b",
       "apply_url": "https://jobs.lever.co/alimentiv-2/5ad458f9-9d70-4b07-b5f8-88137bcc400b/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "5fd3d510-51da-43d0-a130-e7405a78624b",
@@ -398,7 +416,7 @@
       "source_url": "https://jobs.lever.co/alimentiv-2/5fd3d510-51da-43d0-a130-e7405a78624b",
       "apply_url": "https://jobs.lever.co/alimentiv-2/5fd3d510-51da-43d0-a130-e7405a78624b/apply",
       "first_seen": "2026-11-21T14:37:10Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "647a6286-285c-4697-b502-510585dda581",
@@ -416,7 +434,7 @@
       "source_url": "https://jobs.lever.co/alimentiv-2/647a6286-285c-4697-b502-510585dda581",
       "apply_url": "https://jobs.lever.co/alimentiv-2/647a6286-285c-4697-b502-510585dda581/apply",
       "first_seen": "2026-11-23T18:00:07Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "679f832e-90d3-4519-88c3-0e5e4a310a0e",
@@ -434,7 +452,7 @@
       "source_url": "https://jobs.lever.co/alimentiv-2/679f832e-90d3-4519-88c3-0e5e4a310a0e",
       "apply_url": "https://jobs.lever.co/alimentiv-2/679f832e-90d3-4519-88c3-0e5e4a310a0e/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "68e7f64f-78c8-4d4a-be44-7f4d74ac27bb",
@@ -452,7 +470,7 @@
       "source_url": "https://jobs.lever.co/alimentiv-2/68e7f64f-78c8-4d4a-be44-7f4d74ac27bb",
       "apply_url": "https://jobs.lever.co/alimentiv-2/68e7f64f-78c8-4d4a-be44-7f4d74ac27bb/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "694fe6bb-f297-4260-a3ef-a96e5b57f96c",
@@ -470,7 +488,7 @@
       "source_url": "https://jobs.lever.co/alimentiv-2/694fe6bb-f297-4260-a3ef-a96e5b57f96c",
       "apply_url": "https://jobs.lever.co/alimentiv-2/694fe6bb-f297-4260-a3ef-a96e5b57f96c/apply",
       "first_seen": "2026-11-21T14:37:10Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "6fe746b9-5e51-499e-b4b0-15acd8beb1b0",
@@ -488,7 +506,7 @@
       "source_url": "https://jobs.lever.co/alimentiv-2/6fe746b9-5e51-499e-b4b0-15acd8beb1b0",
       "apply_url": "https://jobs.lever.co/alimentiv-2/6fe746b9-5e51-499e-b4b0-15acd8beb1b0/apply",
       "first_seen": "2026-11-24T17:38:09Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "72c0c774-22cf-4c06-863e-63e41ad6e180",
@@ -506,7 +524,7 @@
       "source_url": "https://jobs.lever.co/alimentiv-2/72c0c774-22cf-4c06-863e-63e41ad6e180",
       "apply_url": "https://jobs.lever.co/alimentiv-2/72c0c774-22cf-4c06-863e-63e41ad6e180/apply",
       "first_seen": "2026-11-19T15:42:04Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "772d5040-96c5-4617-b4a0-aa04b485d406",
@@ -524,7 +542,7 @@
       "source_url": "https://jobs.lever.co/alimentiv-2/772d5040-96c5-4617-b4a0-aa04b485d406",
       "apply_url": "https://jobs.lever.co/alimentiv-2/772d5040-96c5-4617-b4a0-aa04b485d406/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "7733c5f5-421a-4e58-b6af-ac9de6e12df9",
@@ -542,7 +560,7 @@
       "source_url": "https://jobs.lever.co/alimentiv-2/7733c5f5-421a-4e58-b6af-ac9de6e12df9",
       "apply_url": "https://jobs.lever.co/alimentiv-2/7733c5f5-421a-4e58-b6af-ac9de6e12df9/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "7aef54d9-8075-480c-8f43-926812648a82",
@@ -560,7 +578,7 @@
       "source_url": "https://jobs.lever.co/alimentiv-2/7aef54d9-8075-480c-8f43-926812648a82",
       "apply_url": "https://jobs.lever.co/alimentiv-2/7aef54d9-8075-480c-8f43-926812648a82/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "7e5ef243-570c-4b99-88a2-f320220e319b",
@@ -578,7 +596,7 @@
       "source_url": "https://jobs.lever.co/alimentiv-2/7e5ef243-570c-4b99-88a2-f320220e319b",
       "apply_url": "https://jobs.lever.co/alimentiv-2/7e5ef243-570c-4b99-88a2-f320220e319b/apply",
       "first_seen": "2026-11-20T15:23:49Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "8130d5fe-8dc0-4d88-9a12-5c1c0f4efb0e",
@@ -596,7 +614,7 @@
       "source_url": "https://jobs.lever.co/alimentiv-2/8130d5fe-8dc0-4d88-9a12-5c1c0f4efb0e",
       "apply_url": "https://jobs.lever.co/alimentiv-2/8130d5fe-8dc0-4d88-9a12-5c1c0f4efb0e/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "922b7985-258b-4a85-9bf6-2288b4a2bd24",
@@ -614,7 +632,7 @@
       "source_url": "https://jobs.lever.co/alimentiv-2/922b7985-258b-4a85-9bf6-2288b4a2bd24",
       "apply_url": "https://jobs.lever.co/alimentiv-2/922b7985-258b-4a85-9bf6-2288b4a2bd24/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "9231884b-7ba4-41e7-9b64-7fa076849a7c",
@@ -632,7 +650,7 @@
       "source_url": "https://jobs.lever.co/alimentiv-2/9231884b-7ba4-41e7-9b64-7fa076849a7c",
       "apply_url": "https://jobs.lever.co/alimentiv-2/9231884b-7ba4-41e7-9b64-7fa076849a7c/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "9409ef51-1110-4d46-b9ee-1a4c74aa15a6",
@@ -650,7 +668,7 @@
       "source_url": "https://jobs.lever.co/alimentiv-2/9409ef51-1110-4d46-b9ee-1a4c74aa15a6",
       "apply_url": "https://jobs.lever.co/alimentiv-2/9409ef51-1110-4d46-b9ee-1a4c74aa15a6/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "9de7c2a8-d69f-4f24-b839-10f40d25ff51",
@@ -668,7 +686,7 @@
       "source_url": "https://jobs.lever.co/alimentiv-2/9de7c2a8-d69f-4f24-b839-10f40d25ff51",
       "apply_url": "https://jobs.lever.co/alimentiv-2/9de7c2a8-d69f-4f24-b839-10f40d25ff51/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "a1cee069-529d-435e-a5d7-1e7c29168914",
@@ -686,7 +704,7 @@
       "source_url": "https://jobs.lever.co/alimentiv-2/a1cee069-529d-435e-a5d7-1e7c29168914",
       "apply_url": "https://jobs.lever.co/alimentiv-2/a1cee069-529d-435e-a5d7-1e7c29168914/apply",
       "first_seen": "2026-11-21T14:37:10Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "a9797027-08db-4fa9-aad3-555fe70e7c4b",
@@ -704,7 +722,7 @@
       "source_url": "https://jobs.lever.co/alimentiv-2/a9797027-08db-4fa9-aad3-555fe70e7c4b",
       "apply_url": "https://jobs.lever.co/alimentiv-2/a9797027-08db-4fa9-aad3-555fe70e7c4b/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "ad26a2f4-829f-4670-b222-c060527f37b8",
@@ -722,7 +740,7 @@
       "source_url": "https://jobs.lever.co/alimentiv-2/ad26a2f4-829f-4670-b222-c060527f37b8",
       "apply_url": "https://jobs.lever.co/alimentiv-2/ad26a2f4-829f-4670-b222-c060527f37b8/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "b17c391b-aa82-44a5-a411-01d09ffb8c12",
@@ -740,7 +758,7 @@
       "source_url": "https://jobs.lever.co/alimentiv-2/b17c391b-aa82-44a5-a411-01d09ffb8c12",
       "apply_url": "https://jobs.lever.co/alimentiv-2/b17c391b-aa82-44a5-a411-01d09ffb8c12/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "ba6e61dd-3d89-455a-999f-71b557b9dd21",
@@ -758,7 +776,7 @@
       "source_url": "https://jobs.lever.co/alimentiv-2/ba6e61dd-3d89-455a-999f-71b557b9dd21",
       "apply_url": "https://jobs.lever.co/alimentiv-2/ba6e61dd-3d89-455a-999f-71b557b9dd21/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "c3566624-1c5e-4a07-b445-65fb7c40969c",
@@ -776,7 +794,7 @@
       "source_url": "https://jobs.lever.co/alimentiv-2/c3566624-1c5e-4a07-b445-65fb7c40969c",
       "apply_url": "https://jobs.lever.co/alimentiv-2/c3566624-1c5e-4a07-b445-65fb7c40969c/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "c528939e-e784-42ce-909b-fe2fa04b6747",
@@ -794,7 +812,7 @@
       "source_url": "https://jobs.lever.co/alimentiv-2/c528939e-e784-42ce-909b-fe2fa04b6747",
       "apply_url": "https://jobs.lever.co/alimentiv-2/c528939e-e784-42ce-909b-fe2fa04b6747/apply",
       "first_seen": "2026-11-23T18:00:07Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "d81d7f7b-d452-4058-b8ca-5a7b64607bb5",
@@ -812,7 +830,7 @@
       "source_url": "https://jobs.lever.co/alimentiv-2/d81d7f7b-d452-4058-b8ca-5a7b64607bb5",
       "apply_url": "https://jobs.lever.co/alimentiv-2/d81d7f7b-d452-4058-b8ca-5a7b64607bb5/apply",
       "first_seen": "2026-11-21T14:37:10Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "d94dc476-10e5-4a79-8b36-d26e1c836b03",
@@ -830,7 +848,7 @@
       "source_url": "https://jobs.lever.co/alimentiv-2/d94dc476-10e5-4a79-8b36-d26e1c836b03",
       "apply_url": "https://jobs.lever.co/alimentiv-2/d94dc476-10e5-4a79-8b36-d26e1c836b03/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "e02bd050-c1a1-4bd3-8247-b685e4cfe2dd",
@@ -848,25 +866,7 @@
       "source_url": "https://jobs.lever.co/alimentiv-2/e02bd050-c1a1-4bd3-8247-b685e4cfe2dd",
       "apply_url": "https://jobs.lever.co/alimentiv-2/e02bd050-c1a1-4bd3-8247-b685e4cfe2dd/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-25T17:09:22Z"
-    },
-    {
-      "id": "eb998ca5-2c9a-4b74-b478-fdae8da15763",
-      "title": "TMF Associate",
-      "company": "Alimentiv",
-      "location": "Warsaw",
-      "remote": "remote",
-      "department": "Clinical Services - TMF Operations",
-      "employment_type": "FULL_TIME",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-11-06",
-      "updated": "",
-      "deadline": "",
-      "source_url": "https://jobs.lever.co/alimentiv-2/eb998ca5-2c9a-4b74-b478-fdae8da15763",
-      "apply_url": "https://jobs.lever.co/alimentiv-2/eb998ca5-2c9a-4b74-b478-fdae8da15763/apply",
-      "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "ebb1f1e6-87a2-42ab-808c-04415b9a4c9c",
@@ -884,7 +884,7 @@
       "source_url": "https://jobs.lever.co/alimentiv-2/ebb1f1e6-87a2-42ab-808c-04415b9a4c9c",
       "apply_url": "https://jobs.lever.co/alimentiv-2/ebb1f1e6-87a2-42ab-808c-04415b9a4c9c/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "fb119158-91f3-43ab-bbd6-ded09b35fab9",
@@ -902,7 +902,7 @@
       "source_url": "https://jobs.lever.co/alimentiv-2/fb119158-91f3-43ab-bbd6-ded09b35fab9",
       "apply_url": "https://jobs.lever.co/alimentiv-2/fb119158-91f3-43ab-bbd6-ded09b35fab9/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     }
   ],
   "ats": "lever",

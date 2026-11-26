@@ -1,8 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-25T17:09:22Z",
+  "checked_at": "2026-11-26T16:50:55Z",
   "failed_at": null,
-  "etag": "W/\"job-board:a48242b69f5eebe97300056e8c2b908b694bc3bb880836ad8516788e6c09864c\"",
+  "etag": "W/\"job-board:589ed8d50fd33ac2b2abc3fe1417641f704e497f6efaba6a8446d1aed26887c5\"",
   "jobs": [
     {
       "id": "0f4712f5-1887-430e-afe1-e407c6c9248c",
@@ -20,7 +20,7 @@
       "source_url": "https://jobs.ashbyhq.com/annaautismcare/0f4712f5-1887-430e-afe1-e407c6c9248c",
       "apply_url": "https://jobs.ashbyhq.com/annaautismcare/0f4712f5-1887-430e-afe1-e407c6c9248c/application",
       "first_seen": "2026-11-24T17:38:09Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "115d6515-3604-4671-8639-776664a9fca5",
@@ -38,7 +38,7 @@
       "source_url": "https://jobs.ashbyhq.com/annaautismcare/115d6515-3604-4671-8639-776664a9fca5",
       "apply_url": "https://jobs.ashbyhq.com/annaautismcare/115d6515-3604-4671-8639-776664a9fca5/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "214a07ba-484a-4103-90e3-3fc36b1433cd",
@@ -56,7 +56,7 @@
       "source_url": "https://jobs.ashbyhq.com/annaautismcare/214a07ba-484a-4103-90e3-3fc36b1433cd",
       "apply_url": "https://jobs.ashbyhq.com/annaautismcare/214a07ba-484a-4103-90e3-3fc36b1433cd/application",
       "first_seen": "2026-11-17T15:56:57Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "26d13bc6-b007-4131-bf1d-64f39d161953",
@@ -74,7 +74,7 @@
       "source_url": "https://jobs.ashbyhq.com/annaautismcare/26d13bc6-b007-4131-bf1d-64f39d161953",
       "apply_url": "https://jobs.ashbyhq.com/annaautismcare/26d13bc6-b007-4131-bf1d-64f39d161953/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "2e83fbfe-8792-47ec-a2b3-db10480c8bc5",
@@ -92,7 +92,25 @@
       "source_url": "https://jobs.ashbyhq.com/annaautismcare/2e83fbfe-8792-47ec-a2b3-db10480c8bc5",
       "apply_url": "https://jobs.ashbyhq.com/annaautismcare/2e83fbfe-8792-47ec-a2b3-db10480c8bc5/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
+    },
+    {
+      "id": "3187f7c6-b744-4b87-9cdf-5fd8192178f4",
+      "title": "Behavior Therapist",
+      "company": "Anna Autism Care",
+      "location": "Foxborough",
+      "remote": "onsite",
+      "department": "Clinical",
+      "employment_type": "FULL_TIME",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-25",
+      "updated": "",
+      "deadline": "",
+      "source_url": "https://jobs.ashbyhq.com/annaautismcare/3187f7c6-b744-4b87-9cdf-5fd8192178f4",
+      "apply_url": "https://jobs.ashbyhq.com/annaautismcare/3187f7c6-b744-4b87-9cdf-5fd8192178f4/application",
+      "first_seen": "2026-11-26T16:50:55Z",
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "35d61f62-36fe-4ccb-a35d-3148c39b90e8",
@@ -110,7 +128,7 @@
       "source_url": "https://jobs.ashbyhq.com/annaautismcare/35d61f62-36fe-4ccb-a35d-3148c39b90e8",
       "apply_url": "https://jobs.ashbyhq.com/annaautismcare/35d61f62-36fe-4ccb-a35d-3148c39b90e8/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "4179897c-40cc-454f-a751-cbb087e447e3",
@@ -128,7 +146,7 @@
       "source_url": "https://jobs.ashbyhq.com/annaautismcare/4179897c-40cc-454f-a751-cbb087e447e3",
       "apply_url": "https://jobs.ashbyhq.com/annaautismcare/4179897c-40cc-454f-a751-cbb087e447e3/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "470ec347-97c4-429b-b443-7aec76e0697c",
@@ -146,7 +164,7 @@
       "source_url": "https://jobs.ashbyhq.com/annaautismcare/470ec347-97c4-429b-b443-7aec76e0697c",
       "apply_url": "https://jobs.ashbyhq.com/annaautismcare/470ec347-97c4-429b-b443-7aec76e0697c/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "4fe47bac-e260-44b5-b6d3-cdabe062f468",
@@ -164,7 +182,7 @@
       "source_url": "https://jobs.ashbyhq.com/annaautismcare/4fe47bac-e260-44b5-b6d3-cdabe062f468",
       "apply_url": "https://jobs.ashbyhq.com/annaautismcare/4fe47bac-e260-44b5-b6d3-cdabe062f468/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "53d3d9b5-12f9-49b3-affd-5d100d3b5af9",
@@ -182,25 +200,7 @@
       "source_url": "https://jobs.ashbyhq.com/annaautismcare/53d3d9b5-12f9-49b3-affd-5d100d3b5af9",
       "apply_url": "https://jobs.ashbyhq.com/annaautismcare/53d3d9b5-12f9-49b3-affd-5d100d3b5af9/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-25T17:09:22Z"
-    },
-    {
-      "id": "59837b7b-481e-4545-adfc-1c8d89c3d3e7",
-      "title": "Behavior Therapist",
-      "company": "Anna Autism Care",
-      "location": "Foxborough",
-      "remote": "onsite",
-      "department": "Clinical",
-      "employment_type": "FULL_TIME",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-10-20",
-      "updated": "",
-      "deadline": "",
-      "source_url": "https://jobs.ashbyhq.com/annaautismcare/59837b7b-481e-4545-adfc-1c8d89c3d3e7",
-      "apply_url": "https://jobs.ashbyhq.com/annaautismcare/59837b7b-481e-4545-adfc-1c8d89c3d3e7/application",
-      "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "641648b6-cbf0-495e-9f22-20c87e6fe8e5",
@@ -218,7 +218,25 @@
       "source_url": "https://jobs.ashbyhq.com/annaautismcare/641648b6-cbf0-495e-9f22-20c87e6fe8e5",
       "apply_url": "https://jobs.ashbyhq.com/annaautismcare/641648b6-cbf0-495e-9f22-20c87e6fe8e5/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
+    },
+    {
+      "id": "7364a5a2-f838-4658-88e7-c4b72ccabbf7",
+      "title": "Clinical Director, Braintree",
+      "company": "Anna Autism Care",
+      "location": "Braintree",
+      "remote": "onsite",
+      "department": "Clinical",
+      "employment_type": "FULL_TIME",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-25",
+      "updated": "",
+      "deadline": "",
+      "source_url": "https://jobs.ashbyhq.com/annaautismcare/7364a5a2-f838-4658-88e7-c4b72ccabbf7",
+      "apply_url": "https://jobs.ashbyhq.com/annaautismcare/7364a5a2-f838-4658-88e7-c4b72ccabbf7/application",
+      "first_seen": "2026-11-26T16:50:55Z",
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "7d3d3316-1c3a-4f73-84a9-dbbac8251485",
@@ -236,7 +254,25 @@
       "source_url": "https://jobs.ashbyhq.com/annaautismcare/7d3d3316-1c3a-4f73-84a9-dbbac8251485",
       "apply_url": "https://jobs.ashbyhq.com/annaautismcare/7d3d3316-1c3a-4f73-84a9-dbbac8251485/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
+    },
+    {
+      "id": "7f641470-2bdf-4a2b-9c6e-8c0441a8f5a1",
+      "title": "Copy of Clinical Director, Woburn",
+      "company": "Anna Autism Care",
+      "location": "Woburn",
+      "remote": "onsite",
+      "department": "Clinical",
+      "employment_type": "FULL_TIME",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-25",
+      "updated": "",
+      "deadline": "",
+      "source_url": "https://jobs.ashbyhq.com/annaautismcare/7f641470-2bdf-4a2b-9c6e-8c0441a8f5a1",
+      "apply_url": "https://jobs.ashbyhq.com/annaautismcare/7f641470-2bdf-4a2b-9c6e-8c0441a8f5a1/application",
+      "first_seen": "2026-11-26T16:50:55Z",
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "83d04e89-00d4-4c4c-9f54-18d64c30d359",
@@ -254,7 +290,7 @@
       "source_url": "https://jobs.ashbyhq.com/annaautismcare/83d04e89-00d4-4c4c-9f54-18d64c30d359",
       "apply_url": "https://jobs.ashbyhq.com/annaautismcare/83d04e89-00d4-4c4c-9f54-18d64c30d359/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "863a7ec6-40e0-4602-942c-320f45de85a5",
@@ -272,43 +308,7 @@
       "source_url": "https://jobs.ashbyhq.com/annaautismcare/863a7ec6-40e0-4602-942c-320f45de85a5",
       "apply_url": "https://jobs.ashbyhq.com/annaautismcare/863a7ec6-40e0-4602-942c-320f45de85a5/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-25T17:09:22Z"
-    },
-    {
-      "id": "86e905e4-0e3e-4856-96fe-23147ea5c8dd",
-      "title": "Behavior Therapist",
-      "company": "Anna Autism Care",
-      "location": "Wayland",
-      "remote": "onsite",
-      "department": "Clinical",
-      "employment_type": "FULL_TIME",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-11-02",
-      "updated": "",
-      "deadline": "",
-      "source_url": "https://jobs.ashbyhq.com/annaautismcare/86e905e4-0e3e-4856-96fe-23147ea5c8dd",
-      "apply_url": "https://jobs.ashbyhq.com/annaautismcare/86e905e4-0e3e-4856-96fe-23147ea5c8dd/application",
-      "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-25T17:09:22Z"
-    },
-    {
-      "id": "90fef876-93ba-452e-90f7-4598f90c5b17",
-      "title": "Clinical Director, Woburn",
-      "company": "Anna Autism Care",
-      "location": "Woburn",
-      "remote": "onsite",
-      "department": "Clinical",
-      "employment_type": "FULL_TIME",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-11-06",
-      "updated": "",
-      "deadline": "",
-      "source_url": "https://jobs.ashbyhq.com/annaautismcare/90fef876-93ba-452e-90f7-4598f90c5b17",
-      "apply_url": "https://jobs.ashbyhq.com/annaautismcare/90fef876-93ba-452e-90f7-4598f90c5b17/application",
-      "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "a3f4fa8d-27b2-4494-bea0-1c504119f74b",
@@ -326,7 +326,25 @@
       "source_url": "https://jobs.ashbyhq.com/annaautismcare/a3f4fa8d-27b2-4494-bea0-1c504119f74b",
       "apply_url": "https://jobs.ashbyhq.com/annaautismcare/a3f4fa8d-27b2-4494-bea0-1c504119f74b/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
+    },
+    {
+      "id": "ad89be40-5791-4f13-9d20-d5eb134f788a",
+      "title": "Behavior Therapist",
+      "company": "Anna Autism Care",
+      "location": "Wayland",
+      "remote": "onsite",
+      "department": "Clinical",
+      "employment_type": "FULL_TIME",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-25",
+      "updated": "",
+      "deadline": "",
+      "source_url": "https://jobs.ashbyhq.com/annaautismcare/ad89be40-5791-4f13-9d20-d5eb134f788a",
+      "apply_url": "https://jobs.ashbyhq.com/annaautismcare/ad89be40-5791-4f13-9d20-d5eb134f788a/application",
+      "first_seen": "2026-11-26T16:50:55Z",
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "bdf855a8-9b5b-4d41-acde-ad27bd269c68",
@@ -344,7 +362,7 @@
       "source_url": "https://jobs.ashbyhq.com/annaautismcare/bdf855a8-9b5b-4d41-acde-ad27bd269c68",
       "apply_url": "https://jobs.ashbyhq.com/annaautismcare/bdf855a8-9b5b-4d41-acde-ad27bd269c68/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "be215fb1-b6e5-4034-a40a-bda50ee53ef2",
@@ -362,7 +380,7 @@
       "source_url": "https://jobs.ashbyhq.com/annaautismcare/be215fb1-b6e5-4034-a40a-bda50ee53ef2",
       "apply_url": "https://jobs.ashbyhq.com/annaautismcare/be215fb1-b6e5-4034-a40a-bda50ee53ef2/application",
       "first_seen": "2026-11-18T15:36:26Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "c1d7de29-9720-45a1-bb8a-5d7ee5a5d7eb",
@@ -380,25 +398,7 @@
       "source_url": "https://jobs.ashbyhq.com/annaautismcare/c1d7de29-9720-45a1-bb8a-5d7ee5a5d7eb",
       "apply_url": "https://jobs.ashbyhq.com/annaautismcare/c1d7de29-9720-45a1-bb8a-5d7ee5a5d7eb/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-25T17:09:22Z"
-    },
-    {
-      "id": "c26708b2-80e2-4879-a902-6bbfd0d18fd7",
-      "title": "Clinical Director, Braintree",
-      "company": "Anna Autism Care",
-      "location": "Braintree",
-      "remote": "onsite",
-      "department": "Clinical",
-      "employment_type": "FULL_TIME",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-11-05",
-      "updated": "",
-      "deadline": "",
-      "source_url": "https://jobs.ashbyhq.com/annaautismcare/c26708b2-80e2-4879-a902-6bbfd0d18fd7",
-      "apply_url": "https://jobs.ashbyhq.com/annaautismcare/c26708b2-80e2-4879-a902-6bbfd0d18fd7/application",
-      "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "d78546b8-bb78-4b3a-9519-348e274a7e6a",
@@ -416,7 +416,7 @@
       "source_url": "https://jobs.ashbyhq.com/annaautismcare/d78546b8-bb78-4b3a-9519-348e274a7e6a",
       "apply_url": "https://jobs.ashbyhq.com/annaautismcare/d78546b8-bb78-4b3a-9519-348e274a7e6a/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "d8b7c39d-11ec-44f4-80a4-f88ad396cd01",
@@ -434,7 +434,25 @@
       "source_url": "https://jobs.ashbyhq.com/annaautismcare/d8b7c39d-11ec-44f4-80a4-f88ad396cd01",
       "apply_url": "https://jobs.ashbyhq.com/annaautismcare/d8b7c39d-11ec-44f4-80a4-f88ad396cd01/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
+    },
+    {
+      "id": "d9ed34e2-4a77-487e-a277-d811c70d56fb",
+      "title": "Board Certified Behavior Analyst (BCBA)",
+      "company": "Anna Autism Care",
+      "location": "Weston",
+      "remote": "onsite",
+      "department": "Clinical",
+      "employment_type": "FULL_TIME",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-25",
+      "updated": "",
+      "deadline": "",
+      "source_url": "https://jobs.ashbyhq.com/annaautismcare/d9ed34e2-4a77-487e-a277-d811c70d56fb",
+      "apply_url": "https://jobs.ashbyhq.com/annaautismcare/d9ed34e2-4a77-487e-a277-d811c70d56fb/application",
+      "first_seen": "2026-11-26T16:50:55Z",
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "db84f301-b2ca-4f54-b53c-39dcd32da130",
@@ -452,7 +470,7 @@
       "source_url": "https://jobs.ashbyhq.com/annaautismcare/db84f301-b2ca-4f54-b53c-39dcd32da130",
       "apply_url": "https://jobs.ashbyhq.com/annaautismcare/db84f301-b2ca-4f54-b53c-39dcd32da130/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "e090ae01-0862-4dc3-a333-f026c96b60a6",
@@ -470,7 +488,7 @@
       "source_url": "https://jobs.ashbyhq.com/annaautismcare/e090ae01-0862-4dc3-a333-f026c96b60a6",
       "apply_url": "https://jobs.ashbyhq.com/annaautismcare/e090ae01-0862-4dc3-a333-f026c96b60a6/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     }
   ],
   "ats": "ashby",

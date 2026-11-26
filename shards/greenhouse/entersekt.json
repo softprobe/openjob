@@ -1,8 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-25T17:09:22Z",
+  "checked_at": "2026-11-26T16:50:55Z",
   "failed_at": null,
-  "etag": "W/\"8e851aad64c157832eb151910a382c1a\"",
+  "etag": "W/\"be1985fe771bf7ff14ce14487293f184\"",
   "jobs": [
     {
       "id": "6008895004",
@@ -20,7 +20,7 @@
       "source_url": "https://job-boards.greenhouse.io/entersekt/jobs/6008895004",
       "apply_url": "https://job-boards.greenhouse.io/entersekt/jobs/6008895004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "6218069004",
@@ -38,7 +38,7 @@
       "source_url": "https://job-boards.greenhouse.io/entersekt/jobs/6218069004",
       "apply_url": "https://job-boards.greenhouse.io/entersekt/jobs/6218069004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "6225246004",
@@ -56,7 +56,25 @@
       "source_url": "https://job-boards.greenhouse.io/entersekt/jobs/6225246004",
       "apply_url": "https://job-boards.greenhouse.io/entersekt/jobs/6225246004",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
+    },
+    {
+      "id": "6270040004",
+      "title": "Senior DevSecOps Engineer",
+      "company": "Entersekt",
+      "location": "Fully Remote, South Africa",
+      "remote": "remote",
+      "department": "",
+      "employment_type": "",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-26",
+      "updated": "2026-11-26",
+      "deadline": "",
+      "source_url": "https://job-boards.greenhouse.io/entersekt/jobs/6270040004",
+      "apply_url": "https://job-boards.greenhouse.io/entersekt/jobs/6270040004",
+      "first_seen": "2026-11-26T16:50:55Z",
+      "last_checked": "2026-11-26T16:50:55Z"
     }
   ],
   "ats": "greenhouse",

@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-25T17:09:22Z",
+  "checked_at": "2026-11-26T16:50:55Z",
   "failed_at": null,
   "etag": "W/\"job-board:5538e6019749f9863722768a256f6764b3230c07d9b874e75055c7f3c18e9fc2\"",
   "jobs": [
@@ -20,7 +20,7 @@
       "source_url": "https://jobs.ashbyhq.com/andercore/01971917-51f1-4834-b8a0-fef660e7da10",
       "apply_url": "https://jobs.ashbyhq.com/andercore/01971917-51f1-4834-b8a0-fef660e7da10/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "0a50f140-ec3b-4447-ab77-eb35b0b11a2b",
@@ -38,7 +38,7 @@
       "source_url": "https://jobs.ashbyhq.com/andercore/0a50f140-ec3b-4447-ab77-eb35b0b11a2b",
       "apply_url": "https://jobs.ashbyhq.com/andercore/0a50f140-ec3b-4447-ab77-eb35b0b11a2b/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "0c69ea64-1ae2-4c5a-a3c8-5408e3a8f4a7",
@@ -56,7 +56,7 @@
       "source_url": "https://jobs.ashbyhq.com/andercore/0c69ea64-1ae2-4c5a-a3c8-5408e3a8f4a7",
       "apply_url": "https://jobs.ashbyhq.com/andercore/0c69ea64-1ae2-4c5a-a3c8-5408e3a8f4a7/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "1606f5ff-f57d-4870-acdc-b3d15ee2a970",
@@ -74,7 +74,7 @@
       "source_url": "https://jobs.ashbyhq.com/andercore/1606f5ff-f57d-4870-acdc-b3d15ee2a970",
       "apply_url": "https://jobs.ashbyhq.com/andercore/1606f5ff-f57d-4870-acdc-b3d15ee2a970/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "16f41550-705a-416e-beed-bf13b5822712",
@@ -92,7 +92,7 @@
       "source_url": "https://jobs.ashbyhq.com/andercore/16f41550-705a-416e-beed-bf13b5822712",
       "apply_url": "https://jobs.ashbyhq.com/andercore/16f41550-705a-416e-beed-bf13b5822712/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "1c400aca-d835-49f7-b11c-643b829d8b03",
@@ -110,7 +110,7 @@
       "source_url": "https://jobs.ashbyhq.com/andercore/1c400aca-d835-49f7-b11c-643b829d8b03",
       "apply_url": "https://jobs.ashbyhq.com/andercore/1c400aca-d835-49f7-b11c-643b829d8b03/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "2206235c-28c6-40e6-99fe-49d4845236b2",
@@ -128,7 +128,7 @@
       "source_url": "https://jobs.ashbyhq.com/andercore/2206235c-28c6-40e6-99fe-49d4845236b2",
       "apply_url": "https://jobs.ashbyhq.com/andercore/2206235c-28c6-40e6-99fe-49d4845236b2/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "3087e730-5fa4-4083-bd29-37c6ebace2a4",
@@ -146,7 +146,7 @@
       "source_url": "https://jobs.ashbyhq.com/andercore/3087e730-5fa4-4083-bd29-37c6ebace2a4",
       "apply_url": "https://jobs.ashbyhq.com/andercore/3087e730-5fa4-4083-bd29-37c6ebace2a4/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "45818155-f9f2-46f5-b5ae-f9d72bcc3a86",
@@ -164,7 +164,7 @@
       "source_url": "https://jobs.ashbyhq.com/andercore/45818155-f9f2-46f5-b5ae-f9d72bcc3a86",
       "apply_url": "https://jobs.ashbyhq.com/andercore/45818155-f9f2-46f5-b5ae-f9d72bcc3a86/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "58afb560-a863-4135-9859-459ff990c3bb",
@@ -182,7 +182,7 @@
       "source_url": "https://jobs.ashbyhq.com/andercore/58afb560-a863-4135-9859-459ff990c3bb",
       "apply_url": "https://jobs.ashbyhq.com/andercore/58afb560-a863-4135-9859-459ff990c3bb/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "62581e4f-a29a-4ba1-8eac-32c1b8101d26",
@@ -200,7 +200,7 @@
       "source_url": "https://jobs.ashbyhq.com/andercore/62581e4f-a29a-4ba1-8eac-32c1b8101d26",
       "apply_url": "https://jobs.ashbyhq.com/andercore/62581e4f-a29a-4ba1-8eac-32c1b8101d26/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "6523ef75-1e1d-4193-afe5-0114e40a1868",
@@ -218,7 +218,7 @@
       "source_url": "https://jobs.ashbyhq.com/andercore/6523ef75-1e1d-4193-afe5-0114e40a1868",
       "apply_url": "https://jobs.ashbyhq.com/andercore/6523ef75-1e1d-4193-afe5-0114e40a1868/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "69941f4a-ef0f-4640-9c73-da1a3facac9c",
@@ -236,7 +236,7 @@
       "source_url": "https://jobs.ashbyhq.com/andercore/69941f4a-ef0f-4640-9c73-da1a3facac9c",
       "apply_url": "https://jobs.ashbyhq.com/andercore/69941f4a-ef0f-4640-9c73-da1a3facac9c/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "6d98142f-74df-46e6-9bf3-8173e17fd895",
@@ -254,7 +254,7 @@
       "source_url": "https://jobs.ashbyhq.com/andercore/6d98142f-74df-46e6-9bf3-8173e17fd895",
       "apply_url": "https://jobs.ashbyhq.com/andercore/6d98142f-74df-46e6-9bf3-8173e17fd895/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "78788164-909b-4db9-a8b5-c063281d6514",
@@ -272,7 +272,7 @@
       "source_url": "https://jobs.ashbyhq.com/andercore/78788164-909b-4db9-a8b5-c063281d6514",
       "apply_url": "https://jobs.ashbyhq.com/andercore/78788164-909b-4db9-a8b5-c063281d6514/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "8048b78f-596e-42c9-a60c-e30f2ac29d87",
@@ -290,7 +290,7 @@
       "source_url": "https://jobs.ashbyhq.com/andercore/8048b78f-596e-42c9-a60c-e30f2ac29d87",
       "apply_url": "https://jobs.ashbyhq.com/andercore/8048b78f-596e-42c9-a60c-e30f2ac29d87/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "8187226b-cff3-47ee-9827-7efbcdf02e6b",
@@ -308,7 +308,7 @@
       "source_url": "https://jobs.ashbyhq.com/andercore/8187226b-cff3-47ee-9827-7efbcdf02e6b",
       "apply_url": "https://jobs.ashbyhq.com/andercore/8187226b-cff3-47ee-9827-7efbcdf02e6b/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "950f918d-5f8d-4840-93f9-14a8babe89d6",
@@ -326,7 +326,7 @@
       "source_url": "https://jobs.ashbyhq.com/andercore/950f918d-5f8d-4840-93f9-14a8babe89d6",
       "apply_url": "https://jobs.ashbyhq.com/andercore/950f918d-5f8d-4840-93f9-14a8babe89d6/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "9d54bef1-0746-44e2-b8c0-72c80989cf13",
@@ -344,7 +344,7 @@
       "source_url": "https://jobs.ashbyhq.com/andercore/9d54bef1-0746-44e2-b8c0-72c80989cf13",
       "apply_url": "https://jobs.ashbyhq.com/andercore/9d54bef1-0746-44e2-b8c0-72c80989cf13/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "b06cba09-b0f8-4008-9543-6480927ff1ca",
@@ -362,7 +362,7 @@
       "source_url": "https://jobs.ashbyhq.com/andercore/b06cba09-b0f8-4008-9543-6480927ff1ca",
       "apply_url": "https://jobs.ashbyhq.com/andercore/b06cba09-b0f8-4008-9543-6480927ff1ca/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "b0b95dc0-067c-43b0-8867-8197f6119705",
@@ -380,7 +380,7 @@
       "source_url": "https://jobs.ashbyhq.com/andercore/b0b95dc0-067c-43b0-8867-8197f6119705",
       "apply_url": "https://jobs.ashbyhq.com/andercore/b0b95dc0-067c-43b0-8867-8197f6119705/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "b0d2e6fe-00e1-4bac-b151-3bb0e40ecb23",
@@ -398,7 +398,7 @@
       "source_url": "https://jobs.ashbyhq.com/andercore/b0d2e6fe-00e1-4bac-b151-3bb0e40ecb23",
       "apply_url": "https://jobs.ashbyhq.com/andercore/b0d2e6fe-00e1-4bac-b151-3bb0e40ecb23/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "b12a81ff-d37f-447e-9ce6-8bd8abb75ac7",
@@ -416,7 +416,7 @@
       "source_url": "https://jobs.ashbyhq.com/andercore/b12a81ff-d37f-447e-9ce6-8bd8abb75ac7",
       "apply_url": "https://jobs.ashbyhq.com/andercore/b12a81ff-d37f-447e-9ce6-8bd8abb75ac7/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "b15cb082-d302-42aa-b6e0-6c883b6043c6",
@@ -434,7 +434,7 @@
       "source_url": "https://jobs.ashbyhq.com/andercore/b15cb082-d302-42aa-b6e0-6c883b6043c6",
       "apply_url": "https://jobs.ashbyhq.com/andercore/b15cb082-d302-42aa-b6e0-6c883b6043c6/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "b4f942b9-202f-4243-9a53-181279c9cc14",
@@ -452,7 +452,7 @@
       "source_url": "https://jobs.ashbyhq.com/andercore/b4f942b9-202f-4243-9a53-181279c9cc14",
       "apply_url": "https://jobs.ashbyhq.com/andercore/b4f942b9-202f-4243-9a53-181279c9cc14/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "b69af682-6cd2-4098-97cf-b613286d0779",
@@ -470,7 +470,7 @@
       "source_url": "https://jobs.ashbyhq.com/andercore/b69af682-6cd2-4098-97cf-b613286d0779",
       "apply_url": "https://jobs.ashbyhq.com/andercore/b69af682-6cd2-4098-97cf-b613286d0779/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "c40a37b7-2558-4ab6-bb63-dd44673f12e9",
@@ -488,7 +488,7 @@
       "source_url": "https://jobs.ashbyhq.com/andercore/c40a37b7-2558-4ab6-bb63-dd44673f12e9",
       "apply_url": "https://jobs.ashbyhq.com/andercore/c40a37b7-2558-4ab6-bb63-dd44673f12e9/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "cb8921cb-b65e-4fcb-a2a2-c63561586680",
@@ -506,7 +506,7 @@
       "source_url": "https://jobs.ashbyhq.com/andercore/cb8921cb-b65e-4fcb-a2a2-c63561586680",
       "apply_url": "https://jobs.ashbyhq.com/andercore/cb8921cb-b65e-4fcb-a2a2-c63561586680/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "ce56ba50-b037-4262-9c8b-bca695a65a12",
@@ -524,7 +524,7 @@
       "source_url": "https://jobs.ashbyhq.com/andercore/ce56ba50-b037-4262-9c8b-bca695a65a12",
       "apply_url": "https://jobs.ashbyhq.com/andercore/ce56ba50-b037-4262-9c8b-bca695a65a12/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "d0fa0d7b-c5a4-4ff5-a3a3-61b70ac2f410",
@@ -542,7 +542,7 @@
       "source_url": "https://jobs.ashbyhq.com/andercore/d0fa0d7b-c5a4-4ff5-a3a3-61b70ac2f410",
       "apply_url": "https://jobs.ashbyhq.com/andercore/d0fa0d7b-c5a4-4ff5-a3a3-61b70ac2f410/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "dba2ca0c-7b99-4f09-ba6e-f59cc7ae9775",
@@ -560,7 +560,7 @@
       "source_url": "https://jobs.ashbyhq.com/andercore/dba2ca0c-7b99-4f09-ba6e-f59cc7ae9775",
       "apply_url": "https://jobs.ashbyhq.com/andercore/dba2ca0c-7b99-4f09-ba6e-f59cc7ae9775/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "e5b705a6-f7ce-4db5-8c81-6f8c0374f6e9",
@@ -578,7 +578,7 @@
       "source_url": "https://jobs.ashbyhq.com/andercore/e5b705a6-f7ce-4db5-8c81-6f8c0374f6e9",
       "apply_url": "https://jobs.ashbyhq.com/andercore/e5b705a6-f7ce-4db5-8c81-6f8c0374f6e9/application",
       "first_seen": "2026-11-18T15:36:26Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "e9fc9f0c-0f82-49ab-84f1-cfa09e15648d",
@@ -596,7 +596,7 @@
       "source_url": "https://jobs.ashbyhq.com/andercore/e9fc9f0c-0f82-49ab-84f1-cfa09e15648d",
       "apply_url": "https://jobs.ashbyhq.com/andercore/e9fc9f0c-0f82-49ab-84f1-cfa09e15648d/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "f1824e8d-3d68-4f6c-b5a9-ddf5bccbad62",
@@ -614,7 +614,7 @@
       "source_url": "https://jobs.ashbyhq.com/andercore/f1824e8d-3d68-4f6c-b5a9-ddf5bccbad62",
       "apply_url": "https://jobs.ashbyhq.com/andercore/f1824e8d-3d68-4f6c-b5a9-ddf5bccbad62/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "f1b9bd3f-3b1c-4fc9-8764-972ae9088a67",
@@ -632,7 +632,7 @@
       "source_url": "https://jobs.ashbyhq.com/andercore/f1b9bd3f-3b1c-4fc9-8764-972ae9088a67",
       "apply_url": "https://jobs.ashbyhq.com/andercore/f1b9bd3f-3b1c-4fc9-8764-972ae9088a67/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "fb5db22b-aa9a-4f41-b1cb-47627335e58d",
@@ -650,7 +650,7 @@
       "source_url": "https://jobs.ashbyhq.com/andercore/fb5db22b-aa9a-4f41-b1cb-47627335e58d",
       "apply_url": "https://jobs.ashbyhq.com/andercore/fb5db22b-aa9a-4f41-b1cb-47627335e58d/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     }
   ],
   "ats": "ashby",

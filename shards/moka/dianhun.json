@@ -1,9 +1,27 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-25T17:09:22Z",
+  "checked_at": "2026-11-26T16:50:55Z",
   "failed_at": null,
-  "etag": "W/\"5196-eoqy0k5sxaUYycuzs822gg\"",
+  "etag": "W/\"5c0f-Oj4NzDql+S7A6aYPm6Z0fg\"",
   "jobs": [
+    {
+      "id": "1dd5a141-2536-444b-ae46-fc8c743fc0fb",
+      "title": "游戏美术设计师-Q版国风方向",
+      "company": "电魂网络",
+      "location": "杭州市, 浙江, 中国",
+      "remote": "unspecified",
+      "department": "光年工作室",
+      "employment_type": "FULL_TIME",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-26",
+      "updated": "2026-11-26",
+      "deadline": "",
+      "source_url": "https://app.mokahr.com/social-recruitment/dianhun/55952#/job/1dd5a141-2536-444b-ae46-fc8c743fc0fb",
+      "apply_url": "https://app.mokahr.com/apply/dianhun/55952#/job/1dd5a141-2536-444b-ae46-fc8c743fc0fb/apply?pure=1",
+      "first_seen": "2026-11-26T16:50:55Z",
+      "last_checked": "2026-11-26T16:50:55Z"
+    },
     {
       "id": "2d180726-0ab1-4bd4-adb9-ff8384a8ec3f",
       "title": "高级产品运营-moba内容运营方向",
@@ -20,7 +38,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/dianhun/55952#/job/2d180726-0ab1-4bd4-adb9-ff8384a8ec3f",
       "apply_url": "https://app.mokahr.com/apply/dianhun/55952#/job/2d180726-0ab1-4bd4-adb9-ff8384a8ec3f/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "2e3b6569-2d4b-47d4-8920-5f4e25d07630",
@@ -38,7 +56,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/dianhun/55952#/job/2e3b6569-2d4b-47d4-8920-5f4e25d07630",
       "apply_url": "https://app.mokahr.com/apply/dianhun/55952#/job/2e3b6569-2d4b-47d4-8920-5f4e25d07630/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "31bb3d88-d359-467f-99e7-7c2077445213",
@@ -56,7 +74,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/dianhun/55952#/job/31bb3d88-d359-467f-99e7-7c2077445213",
       "apply_url": "https://app.mokahr.com/apply/dianhun/55952#/job/31bb3d88-d359-467f-99e7-7c2077445213/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "4112bf16-d031-4276-bab8-ed47d1fbc34d",
@@ -74,7 +92,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/dianhun/55952#/job/4112bf16-d031-4276-bab8-ed47d1fbc34d",
       "apply_url": "https://app.mokahr.com/apply/dianhun/55952#/job/4112bf16-d031-4276-bab8-ed47d1fbc34d/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "ab38094e-3a28-4a18-90a7-06b4fb48a397",
@@ -92,7 +110,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/dianhun/55952#/job/ab38094e-3a28-4a18-90a7-06b4fb48a397",
       "apply_url": "https://app.mokahr.com/apply/dianhun/55952#/job/ab38094e-3a28-4a18-90a7-06b4fb48a397/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "b8cb2e59-a5b4-44ba-b477-5bc2c176ed2d",
@@ -110,25 +128,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/dianhun/55952#/job/b8cb2e59-a5b4-44ba-b477-5bc2c176ed2d",
       "apply_url": "https://app.mokahr.com/apply/dianhun/55952#/job/b8cb2e59-a5b4-44ba-b477-5bc2c176ed2d/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-25T17:09:22Z"
-    },
-    {
-      "id": "c876d498-d06d-4cfd-b328-faeb264dfba5",
-      "title": "高级/资深系统策划-修仙RPG方向",
-      "company": "电魂网络",
-      "location": "杭州市, 浙江, 中国",
-      "remote": "unspecified",
-      "department": "我的封神项目",
-      "employment_type": "FULL_TIME",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-06-02",
-      "updated": "2026-06-02",
-      "deadline": "",
-      "source_url": "https://app.mokahr.com/social-recruitment/dianhun/55952#/job/c876d498-d06d-4cfd-b328-faeb264dfba5",
-      "apply_url": "https://app.mokahr.com/apply/dianhun/55952#/job/c876d498-d06d-4cfd-b328-faeb264dfba5/apply?pure=1",
-      "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "f9f16fb1-decd-4cde-a850-3eee2beeaebd",
@@ -146,7 +146,25 @@
       "source_url": "https://app.mokahr.com/social-recruitment/dianhun/55952#/job/f9f16fb1-decd-4cde-a850-3eee2beeaebd",
       "apply_url": "https://app.mokahr.com/apply/dianhun/55952#/job/f9f16fb1-decd-4cde-a850-3eee2beeaebd/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
+    },
+    {
+      "id": "fe16e902-5c12-4ac2-9324-bdb3fdc72b91",
+      "title": "高级多媒体设计师-小游戏买量视频方向",
+      "company": "电魂网络",
+      "location": "杭州市, 浙江, 中国",
+      "remote": "unspecified",
+      "department": "视频组",
+      "employment_type": "FULL_TIME",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-26",
+      "updated": "2026-11-26",
+      "deadline": "",
+      "source_url": "https://app.mokahr.com/social-recruitment/dianhun/55952#/job/fe16e902-5c12-4ac2-9324-bdb3fdc72b91",
+      "apply_url": "https://app.mokahr.com/apply/dianhun/55952#/job/fe16e902-5c12-4ac2-9324-bdb3fdc72b91/apply?pure=1",
+      "first_seen": "2026-11-26T16:50:55Z",
+      "last_checked": "2026-11-26T16:50:55Z"
     }
   ],
   "ats": "moka",

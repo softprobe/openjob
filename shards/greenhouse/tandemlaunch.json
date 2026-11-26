@@ -1,9 +1,27 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-25T17:09:22Z",
+  "checked_at": "2026-11-26T16:50:55Z",
   "failed_at": null,
-  "etag": "W/\"7f8e1bb2e9217cad1c8db8e1182d7800\"",
+  "etag": "W/\"6402c4ae389cddc3bdcfbb96c053ab23\"",
   "jobs": [
+    {
+      "id": "8136220002",
+      "title": "Co-Founder & VP of Engineering Smart Textiles Venture",
+      "company": "TandemLaunch",
+      "location": "Montréal, Québec",
+      "remote": "unspecified",
+      "department": "",
+      "employment_type": "",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2025-08-25",
+      "updated": "2026-11-25",
+      "deadline": "",
+      "source_url": "https://job-boards.greenhouse.io/tandemlaunch/jobs/8136220002",
+      "apply_url": "https://job-boards.greenhouse.io/tandemlaunch/jobs/8136220002",
+      "first_seen": "2026-11-26T16:50:55Z",
+      "last_checked": "2026-11-26T16:50:55Z"
+    },
     {
       "id": "8750610002",
       "title": "Directeur ou directrice du développement des affaires | Technical Business Development Director",
@@ -20,25 +38,7 @@
       "source_url": "https://job-boards.greenhouse.io/tandemlaunch/jobs/8750610002",
       "apply_url": "https://job-boards.greenhouse.io/tandemlaunch/jobs/8750610002",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-25T17:09:22Z"
-    },
-    {
-      "id": "8822340002",
-      "title": "Cofondateur - Technologie de refroidissement / Product Co-Founder - Next-Generation Cooling Technology",
-      "company": "TandemLaunch",
-      "location": "Montréal, Quebec, Canada",
-      "remote": "unspecified",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-09-18",
-      "updated": "2026-09-18",
-      "deadline": "",
-      "source_url": "https://job-boards.greenhouse.io/tandemlaunch/jobs/8822340002",
-      "apply_url": "https://job-boards.greenhouse.io/tandemlaunch/jobs/8822340002",
-      "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "8882270002",
@@ -56,7 +56,7 @@
       "source_url": "https://job-boards.greenhouse.io/tandemlaunch/jobs/8882270002",
       "apply_url": "https://job-boards.greenhouse.io/tandemlaunch/jobs/8882270002",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "8917125002",
@@ -74,7 +74,7 @@
       "source_url": "https://job-boards.greenhouse.io/tandemlaunch/jobs/8917125002",
       "apply_url": "https://job-boards.greenhouse.io/tandemlaunch/jobs/8917125002",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "8922672002",
@@ -92,7 +92,7 @@
       "source_url": "https://job-boards.greenhouse.io/tandemlaunch/jobs/8922672002",
       "apply_url": "https://job-boards.greenhouse.io/tandemlaunch/jobs/8922672002",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "8949013002",
@@ -110,7 +110,7 @@
       "source_url": "https://job-boards.greenhouse.io/tandemlaunch/jobs/8949013002",
       "apply_url": "https://job-boards.greenhouse.io/tandemlaunch/jobs/8949013002",
       "first_seen": "2026-11-18T15:36:26Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     }
   ],
   "ats": "greenhouse",

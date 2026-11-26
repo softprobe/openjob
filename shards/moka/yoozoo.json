@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-25T17:09:22Z",
+  "checked_at": "2026-11-26T16:50:55Z",
   "failed_at": null,
   "etag": "W/\"25be-tVyo5QZVxAsoV+2QOfJnVg\"",
   "jobs": [
@@ -20,7 +20,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/yoozoo/91950#/job/0b41d89a-47d7-4a06-857a-76153f7d6be6",
       "apply_url": "https://app.mokahr.com/apply/yoozoo/91950#/job/0b41d89a-47d7-4a06-857a-76153f7d6be6/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "37d5bd92-31d7-48eb-a53f-5418c71b563f",
@@ -38,7 +38,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/yoozoo/91950#/job/37d5bd92-31d7-48eb-a53f-5418c71b563f",
       "apply_url": "https://app.mokahr.com/apply/yoozoo/91950#/job/37d5bd92-31d7-48eb-a53f-5418c71b563f/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "983c3bac-dd8c-4bd8-a1bf-d8265739732b",
@@ -56,7 +56,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/yoozoo/91950#/job/983c3bac-dd8c-4bd8-a1bf-d8265739732b",
       "apply_url": "https://app.mokahr.com/apply/yoozoo/91950#/job/983c3bac-dd8c-4bd8-a1bf-d8265739732b/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "ea63d0b9-657f-46c2-930b-6dc63e14503b",
@@ -74,7 +74,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/yoozoo/91950#/job/ea63d0b9-657f-46c2-930b-6dc63e14503b",
       "apply_url": "https://app.mokahr.com/apply/yoozoo/91950#/job/ea63d0b9-657f-46c2-930b-6dc63e14503b/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     }
   ],
   "ats": "moka",

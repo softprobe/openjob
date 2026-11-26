@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-25T17:09:22Z",
+  "checked_at": "2026-11-26T16:50:55Z",
   "failed_at": null,
   "etag": "W/\"job-board:1c0c2e5d7496a164141af7936bd0867510ba7ffb7adb3e5c3c3ba83128658bb5\"",
   "jobs": [
@@ -20,7 +20,7 @@
       "source_url": "https://jobs.ashbyhq.com/Neon/244b2337-7b43-4be7-9ef1-f7659ba7b0af",
       "apply_url": "https://jobs.ashbyhq.com/Neon/244b2337-7b43-4be7-9ef1-f7659ba7b0af/application",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     }
   ],
   "ats": "ashby",

@@ -1,8 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-25T17:09:22Z",
+  "checked_at": "2026-11-26T16:50:55Z",
   "failed_at": null,
-  "etag": "W/\"88862f0c580f3ec64fa1bd54f19ba96d\"",
+  "etag": "W/\"0722bfd64002d7b306d38d1b6fdcd52e\"",
   "jobs": [
     {
       "id": "5113268007",
@@ -20,7 +20,7 @@
       "source_url": "https://job-boards.greenhouse.io/consumerreports/jobs/5113268007",
       "apply_url": "https://job-boards.greenhouse.io/consumerreports/jobs/5113268007",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "5125371007",
@@ -38,7 +38,7 @@
       "source_url": "https://job-boards.greenhouse.io/consumerreports/jobs/5125371007",
       "apply_url": "https://job-boards.greenhouse.io/consumerreports/jobs/5125371007",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "5283513007",
@@ -56,13 +56,13 @@
       "source_url": "https://job-boards.greenhouse.io/consumerreports/jobs/5283513007",
       "apply_url": "https://job-boards.greenhouse.io/consumerreports/jobs/5283513007",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     },
     {
       "id": "5297820007",
-      "title": "Sr. Director, AI & Tech Policy",
+      "title": "Sr. Director, AI & Digital Rights",
       "company": "Consumer Reports",
-      "location": "Yonkers, NY",
+      "location": "Yonkers, New York",
       "remote": "unspecified",
       "department": "",
       "employment_type": "",
@@ -74,7 +74,7 @@
       "source_url": "https://job-boards.greenhouse.io/consumerreports/jobs/5297820007",
       "apply_url": "https://job-boards.greenhouse.io/consumerreports/jobs/5297820007",
       "first_seen": "2026-11-25T17:09:22Z",
-      "last_checked": "2026-11-25T17:09:22Z"
+      "last_checked": "2026-11-26T16:50:55Z"
     }
   ],
   "ats": "greenhouse",
