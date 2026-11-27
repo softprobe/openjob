@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-26T16:50:55Z",
+  "checked_at": "2026-11-27T16:35:48Z",
   "failed_at": null,
   "etag": "W/\"ecc0b-wSLMl7yMvZPaXIWiy+FTgHDzfhc\"",
   "jobs": [
@@ -20,7 +20,7 @@
       "source_url": "https://jobs.lever.co/arootah/0cd74e8e-b972-466a-b665-f94f7ab5c5a9",
       "apply_url": "https://jobs.lever.co/arootah/0cd74e8e-b972-466a-b665-f94f7ab5c5a9/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "0d6b7e72-8791-479f-9bc2-45aebdbf7d6b",
@@ -38,7 +38,7 @@
       "source_url": "https://jobs.lever.co/arootah/0d6b7e72-8791-479f-9bc2-45aebdbf7d6b",
       "apply_url": "https://jobs.lever.co/arootah/0d6b7e72-8791-479f-9bc2-45aebdbf7d6b/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "26d64832-eefa-4eb9-95c1-cb5a89466a26",
@@ -56,7 +56,7 @@
       "source_url": "https://jobs.lever.co/arootah/26d64832-eefa-4eb9-95c1-cb5a89466a26",
       "apply_url": "https://jobs.lever.co/arootah/26d64832-eefa-4eb9-95c1-cb5a89466a26/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "29c35c75-5536-427d-8fbe-7c51cf256e7f",
@@ -74,7 +74,7 @@
       "source_url": "https://jobs.lever.co/arootah/29c35c75-5536-427d-8fbe-7c51cf256e7f",
       "apply_url": "https://jobs.lever.co/arootah/29c35c75-5536-427d-8fbe-7c51cf256e7f/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "2a875f6a-c1d9-4d3c-be0f-64b3195824c1",
@@ -92,7 +92,7 @@
       "source_url": "https://jobs.lever.co/arootah/2a875f6a-c1d9-4d3c-be0f-64b3195824c1",
       "apply_url": "https://jobs.lever.co/arootah/2a875f6a-c1d9-4d3c-be0f-64b3195824c1/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "2bd37256-6dd8-4d9e-8ce4-3ce411387e4c",
@@ -110,7 +110,7 @@
       "source_url": "https://jobs.lever.co/arootah/2bd37256-6dd8-4d9e-8ce4-3ce411387e4c",
       "apply_url": "https://jobs.lever.co/arootah/2bd37256-6dd8-4d9e-8ce4-3ce411387e4c/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "30eaf793-6d27-4d75-b469-721cb98c75c0",
@@ -128,7 +128,7 @@
       "source_url": "https://jobs.lever.co/arootah/30eaf793-6d27-4d75-b469-721cb98c75c0",
       "apply_url": "https://jobs.lever.co/arootah/30eaf793-6d27-4d75-b469-721cb98c75c0/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "321cd165-944a-40b8-875d-415be5f9ac09",
@@ -146,7 +146,7 @@
       "source_url": "https://jobs.lever.co/arootah/321cd165-944a-40b8-875d-415be5f9ac09",
       "apply_url": "https://jobs.lever.co/arootah/321cd165-944a-40b8-875d-415be5f9ac09/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "36065010-41c2-44d1-9957-9f151ba69b5f",
@@ -164,7 +164,7 @@
       "source_url": "https://jobs.lever.co/arootah/36065010-41c2-44d1-9957-9f151ba69b5f",
       "apply_url": "https://jobs.lever.co/arootah/36065010-41c2-44d1-9957-9f151ba69b5f/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "361f13aa-51d6-4e32-8a30-3937437a07f8",
@@ -182,7 +182,7 @@
       "source_url": "https://jobs.lever.co/arootah/361f13aa-51d6-4e32-8a30-3937437a07f8",
       "apply_url": "https://jobs.lever.co/arootah/361f13aa-51d6-4e32-8a30-3937437a07f8/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "38e6c4c4-b622-47ac-80bf-8147a2be27ae",
@@ -200,7 +200,7 @@
       "source_url": "https://jobs.lever.co/arootah/38e6c4c4-b622-47ac-80bf-8147a2be27ae",
       "apply_url": "https://jobs.lever.co/arootah/38e6c4c4-b622-47ac-80bf-8147a2be27ae/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "3acadf79-e8db-437a-be94-c05cab843530",
@@ -218,7 +218,7 @@
       "source_url": "https://jobs.lever.co/arootah/3acadf79-e8db-437a-be94-c05cab843530",
       "apply_url": "https://jobs.lever.co/arootah/3acadf79-e8db-437a-be94-c05cab843530/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "3b43f503-7adc-40ea-867e-0e235ea37247",
@@ -236,7 +236,7 @@
       "source_url": "https://jobs.lever.co/arootah/3b43f503-7adc-40ea-867e-0e235ea37247",
       "apply_url": "https://jobs.lever.co/arootah/3b43f503-7adc-40ea-867e-0e235ea37247/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "3b56acf4-471d-407a-b8c7-692568eb736e",
@@ -254,7 +254,7 @@
       "source_url": "https://jobs.lever.co/arootah/3b56acf4-471d-407a-b8c7-692568eb736e",
       "apply_url": "https://jobs.lever.co/arootah/3b56acf4-471d-407a-b8c7-692568eb736e/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "3d229cf0-ba09-4c6c-845b-7d6b2a10aebf",
@@ -272,7 +272,7 @@
       "source_url": "https://jobs.lever.co/arootah/3d229cf0-ba09-4c6c-845b-7d6b2a10aebf",
       "apply_url": "https://jobs.lever.co/arootah/3d229cf0-ba09-4c6c-845b-7d6b2a10aebf/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "440c3dfa-6112-4c09-a483-dee6fcef3c63",
@@ -290,7 +290,7 @@
       "source_url": "https://jobs.lever.co/arootah/440c3dfa-6112-4c09-a483-dee6fcef3c63",
       "apply_url": "https://jobs.lever.co/arootah/440c3dfa-6112-4c09-a483-dee6fcef3c63/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "48620ba3-8cd9-4252-8e29-86408a6df302",
@@ -308,7 +308,7 @@
       "source_url": "https://jobs.lever.co/arootah/48620ba3-8cd9-4252-8e29-86408a6df302",
       "apply_url": "https://jobs.lever.co/arootah/48620ba3-8cd9-4252-8e29-86408a6df302/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "48f0e8dd-7904-4e5e-979e-0162fe60e71f",
@@ -326,7 +326,7 @@
       "source_url": "https://jobs.lever.co/arootah/48f0e8dd-7904-4e5e-979e-0162fe60e71f",
       "apply_url": "https://jobs.lever.co/arootah/48f0e8dd-7904-4e5e-979e-0162fe60e71f/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "4b9fd201-8023-4bfb-835b-438de8bebd1a",
@@ -344,7 +344,7 @@
       "source_url": "https://jobs.lever.co/arootah/4b9fd201-8023-4bfb-835b-438de8bebd1a",
       "apply_url": "https://jobs.lever.co/arootah/4b9fd201-8023-4bfb-835b-438de8bebd1a/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "4c19e264-cb1d-4636-a102-eceb401e154f",
@@ -362,7 +362,7 @@
       "source_url": "https://jobs.lever.co/arootah/4c19e264-cb1d-4636-a102-eceb401e154f",
       "apply_url": "https://jobs.lever.co/arootah/4c19e264-cb1d-4636-a102-eceb401e154f/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "4e1dffc2-fd04-4930-8109-363af6df61ea",
@@ -380,7 +380,7 @@
       "source_url": "https://jobs.lever.co/arootah/4e1dffc2-fd04-4930-8109-363af6df61ea",
       "apply_url": "https://jobs.lever.co/arootah/4e1dffc2-fd04-4930-8109-363af6df61ea/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "50a55270-4aca-4016-9bdb-5e97c7df5e0e",
@@ -398,7 +398,7 @@
       "source_url": "https://jobs.lever.co/arootah/50a55270-4aca-4016-9bdb-5e97c7df5e0e",
       "apply_url": "https://jobs.lever.co/arootah/50a55270-4aca-4016-9bdb-5e97c7df5e0e/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "593c2018-b01c-4541-a50c-3867f1772387",
@@ -416,7 +416,7 @@
       "source_url": "https://jobs.lever.co/arootah/593c2018-b01c-4541-a50c-3867f1772387",
       "apply_url": "https://jobs.lever.co/arootah/593c2018-b01c-4541-a50c-3867f1772387/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "5b7d11d3-20ef-46db-a277-dbdab7dfe2d4",
@@ -434,7 +434,7 @@
       "source_url": "https://jobs.lever.co/arootah/5b7d11d3-20ef-46db-a277-dbdab7dfe2d4",
       "apply_url": "https://jobs.lever.co/arootah/5b7d11d3-20ef-46db-a277-dbdab7dfe2d4/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "610d25bd-3b21-46ac-99d1-87f2bce19b30",
@@ -452,7 +452,7 @@
       "source_url": "https://jobs.lever.co/arootah/610d25bd-3b21-46ac-99d1-87f2bce19b30",
       "apply_url": "https://jobs.lever.co/arootah/610d25bd-3b21-46ac-99d1-87f2bce19b30/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "62aebf0a-4ee5-4563-b974-5c4e28a43165",
@@ -470,7 +470,7 @@
       "source_url": "https://jobs.lever.co/arootah/62aebf0a-4ee5-4563-b974-5c4e28a43165",
       "apply_url": "https://jobs.lever.co/arootah/62aebf0a-4ee5-4563-b974-5c4e28a43165/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "66d810c7-342e-455f-a15f-39178f420a32",
@@ -488,7 +488,7 @@
       "source_url": "https://jobs.lever.co/arootah/66d810c7-342e-455f-a15f-39178f420a32",
       "apply_url": "https://jobs.lever.co/arootah/66d810c7-342e-455f-a15f-39178f420a32/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "6bac5e0b-61d5-4eab-86e0-72b45f42a34a",
@@ -506,7 +506,7 @@
       "source_url": "https://jobs.lever.co/arootah/6bac5e0b-61d5-4eab-86e0-72b45f42a34a",
       "apply_url": "https://jobs.lever.co/arootah/6bac5e0b-61d5-4eab-86e0-72b45f42a34a/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "7016d5ad-b312-48d4-b786-77b6175db6bc",
@@ -524,7 +524,7 @@
       "source_url": "https://jobs.lever.co/arootah/7016d5ad-b312-48d4-b786-77b6175db6bc",
       "apply_url": "https://jobs.lever.co/arootah/7016d5ad-b312-48d4-b786-77b6175db6bc/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "76948139-2f64-4fec-82da-1da6fdbd881b",
@@ -542,7 +542,7 @@
       "source_url": "https://jobs.lever.co/arootah/76948139-2f64-4fec-82da-1da6fdbd881b",
       "apply_url": "https://jobs.lever.co/arootah/76948139-2f64-4fec-82da-1da6fdbd881b/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "81068492-4aaf-4a4c-9004-f10236d8941c",
@@ -560,7 +560,7 @@
       "source_url": "https://jobs.lever.co/arootah/81068492-4aaf-4a4c-9004-f10236d8941c",
       "apply_url": "https://jobs.lever.co/arootah/81068492-4aaf-4a4c-9004-f10236d8941c/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "82150680-3b22-4fbe-be04-b6cdcbea7fcc",
@@ -578,7 +578,7 @@
       "source_url": "https://jobs.lever.co/arootah/82150680-3b22-4fbe-be04-b6cdcbea7fcc",
       "apply_url": "https://jobs.lever.co/arootah/82150680-3b22-4fbe-be04-b6cdcbea7fcc/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8faace0f-9027-4305-b2f4-46b4ff99815d",
@@ -596,7 +596,7 @@
       "source_url": "https://jobs.lever.co/arootah/8faace0f-9027-4305-b2f4-46b4ff99815d",
       "apply_url": "https://jobs.lever.co/arootah/8faace0f-9027-4305-b2f4-46b4ff99815d/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "9188fde1-e78c-4c8b-8504-0c6f2d8c1294",
@@ -614,7 +614,7 @@
       "source_url": "https://jobs.lever.co/arootah/9188fde1-e78c-4c8b-8504-0c6f2d8c1294",
       "apply_url": "https://jobs.lever.co/arootah/9188fde1-e78c-4c8b-8504-0c6f2d8c1294/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "9a3d47a1-4e50-4b5c-914f-8b2f011891b5",
@@ -632,7 +632,7 @@
       "source_url": "https://jobs.lever.co/arootah/9a3d47a1-4e50-4b5c-914f-8b2f011891b5",
       "apply_url": "https://jobs.lever.co/arootah/9a3d47a1-4e50-4b5c-914f-8b2f011891b5/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "a71330c1-d201-43a9-b980-fbfff5b9aa35",
@@ -650,7 +650,7 @@
       "source_url": "https://jobs.lever.co/arootah/a71330c1-d201-43a9-b980-fbfff5b9aa35",
       "apply_url": "https://jobs.lever.co/arootah/a71330c1-d201-43a9-b980-fbfff5b9aa35/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "a905c464-896d-4a01-ba7b-66a68044bbde",
@@ -668,7 +668,7 @@
       "source_url": "https://jobs.lever.co/arootah/a905c464-896d-4a01-ba7b-66a68044bbde",
       "apply_url": "https://jobs.lever.co/arootah/a905c464-896d-4a01-ba7b-66a68044bbde/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "b754b2ba-52fd-4791-a6c4-54a926c25713",
@@ -686,7 +686,7 @@
       "source_url": "https://jobs.lever.co/arootah/b754b2ba-52fd-4791-a6c4-54a926c25713",
       "apply_url": "https://jobs.lever.co/arootah/b754b2ba-52fd-4791-a6c4-54a926c25713/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "c0cb57fa-5d10-4400-88a1-0deba734c57a",
@@ -704,7 +704,7 @@
       "source_url": "https://jobs.lever.co/arootah/c0cb57fa-5d10-4400-88a1-0deba734c57a",
       "apply_url": "https://jobs.lever.co/arootah/c0cb57fa-5d10-4400-88a1-0deba734c57a/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "c6e07b2e-8548-41b7-804e-6db6307b8d6a",
@@ -722,7 +722,7 @@
       "source_url": "https://jobs.lever.co/arootah/c6e07b2e-8548-41b7-804e-6db6307b8d6a",
       "apply_url": "https://jobs.lever.co/arootah/c6e07b2e-8548-41b7-804e-6db6307b8d6a/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "de314239-e05c-4707-a7ce-e5340d69d19c",
@@ -740,7 +740,7 @@
       "source_url": "https://jobs.lever.co/arootah/de314239-e05c-4707-a7ce-e5340d69d19c",
       "apply_url": "https://jobs.lever.co/arootah/de314239-e05c-4707-a7ce-e5340d69d19c/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "e20487af-b40a-45ef-938c-8e4252cd3eae",
@@ -758,7 +758,7 @@
       "source_url": "https://jobs.lever.co/arootah/e20487af-b40a-45ef-938c-8e4252cd3eae",
       "apply_url": "https://jobs.lever.co/arootah/e20487af-b40a-45ef-938c-8e4252cd3eae/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "e5c9bf57-b611-4c57-9969-a4530d9fafa7",
@@ -776,7 +776,7 @@
       "source_url": "https://jobs.lever.co/arootah/e5c9bf57-b611-4c57-9969-a4530d9fafa7",
       "apply_url": "https://jobs.lever.co/arootah/e5c9bf57-b611-4c57-9969-a4530d9fafa7/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "e88d98a3-d8a2-4f55-9bd2-01e19fd033ed",
@@ -794,7 +794,7 @@
       "source_url": "https://jobs.lever.co/arootah/e88d98a3-d8a2-4f55-9bd2-01e19fd033ed",
       "apply_url": "https://jobs.lever.co/arootah/e88d98a3-d8a2-4f55-9bd2-01e19fd033ed/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "f50b44c4-0220-4e1d-906e-983f303fb4b2",
@@ -812,7 +812,7 @@
       "source_url": "https://jobs.lever.co/arootah/f50b44c4-0220-4e1d-906e-983f303fb4b2",
       "apply_url": "https://jobs.lever.co/arootah/f50b44c4-0220-4e1d-906e-983f303fb4b2/apply",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     }
   ],
   "ats": "lever",

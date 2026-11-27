@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-26T16:50:55Z",
+  "checked_at": "2026-11-27T16:35:48Z",
   "failed_at": null,
   "etag": "W/\"job-board:9c0b367a2a9eb0ed5dde309692e5b9dcc9d6e6dc71f9114322c0ee0c94368dcc\"",
   "jobs": [
@@ -20,7 +20,7 @@
       "source_url": "https://jobs.ashbyhq.com/astera/08fbbf21-96ec-47fa-9fec-5509e2fdb3a8",
       "apply_url": "https://jobs.ashbyhq.com/astera/08fbbf21-96ec-47fa-9fec-5509e2fdb3a8/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "0b7ed96c-9a41-4027-8664-1c5ed6369ea9",
@@ -38,7 +38,7 @@
       "source_url": "https://jobs.ashbyhq.com/astera/0b7ed96c-9a41-4027-8664-1c5ed6369ea9",
       "apply_url": "https://jobs.ashbyhq.com/astera/0b7ed96c-9a41-4027-8664-1c5ed6369ea9/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "0bc2da27-2d0b-46b1-bfa5-81ed092752a0",
@@ -56,7 +56,7 @@
       "source_url": "https://jobs.ashbyhq.com/astera/0bc2da27-2d0b-46b1-bfa5-81ed092752a0",
       "apply_url": "https://jobs.ashbyhq.com/astera/0bc2da27-2d0b-46b1-bfa5-81ed092752a0/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "0bd392b4-d14a-462c-98ae-6730629579e7",
@@ -74,7 +74,7 @@
       "source_url": "https://jobs.ashbyhq.com/astera/0bd392b4-d14a-462c-98ae-6730629579e7",
       "apply_url": "https://jobs.ashbyhq.com/astera/0bd392b4-d14a-462c-98ae-6730629579e7/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "10a4a88a-bc02-4893-924d-90f873458a36",
@@ -92,7 +92,7 @@
       "source_url": "https://jobs.ashbyhq.com/astera/10a4a88a-bc02-4893-924d-90f873458a36",
       "apply_url": "https://jobs.ashbyhq.com/astera/10a4a88a-bc02-4893-924d-90f873458a36/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "110f9208-6f4e-4b76-a114-c210c75463ac",
@@ -110,7 +110,7 @@
       "source_url": "https://jobs.ashbyhq.com/astera/110f9208-6f4e-4b76-a114-c210c75463ac",
       "apply_url": "https://jobs.ashbyhq.com/astera/110f9208-6f4e-4b76-a114-c210c75463ac/application",
       "first_seen": "2026-11-26T16:50:55Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "1dd75b2d-8562-4411-9d22-ac35415debcf",
@@ -128,7 +128,7 @@
       "source_url": "https://jobs.ashbyhq.com/astera/1dd75b2d-8562-4411-9d22-ac35415debcf",
       "apply_url": "https://jobs.ashbyhq.com/astera/1dd75b2d-8562-4411-9d22-ac35415debcf/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "210f4f48-4d5c-41e6-8331-ba33514c9465",
@@ -146,7 +146,7 @@
       "source_url": "https://jobs.ashbyhq.com/astera/210f4f48-4d5c-41e6-8331-ba33514c9465",
       "apply_url": "https://jobs.ashbyhq.com/astera/210f4f48-4d5c-41e6-8331-ba33514c9465/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "2e65a347-1685-44f9-8bb8-dc66176b8e93",
@@ -164,7 +164,7 @@
       "source_url": "https://jobs.ashbyhq.com/astera/2e65a347-1685-44f9-8bb8-dc66176b8e93",
       "apply_url": "https://jobs.ashbyhq.com/astera/2e65a347-1685-44f9-8bb8-dc66176b8e93/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "387a65a4-5b77-49df-b6ca-58c07d01f925",
@@ -182,7 +182,7 @@
       "source_url": "https://jobs.ashbyhq.com/astera/387a65a4-5b77-49df-b6ca-58c07d01f925",
       "apply_url": "https://jobs.ashbyhq.com/astera/387a65a4-5b77-49df-b6ca-58c07d01f925/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "3b33f0ff-719f-4dc3-9f1f-bd4b5317b0e9",
@@ -200,7 +200,7 @@
       "source_url": "https://jobs.ashbyhq.com/astera/3b33f0ff-719f-4dc3-9f1f-bd4b5317b0e9",
       "apply_url": "https://jobs.ashbyhq.com/astera/3b33f0ff-719f-4dc3-9f1f-bd4b5317b0e9/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "3d8f5a73-1f76-4b87-8fbe-16f4fa1b1ce5",
@@ -218,7 +218,7 @@
       "source_url": "https://jobs.ashbyhq.com/astera/3d8f5a73-1f76-4b87-8fbe-16f4fa1b1ce5",
       "apply_url": "https://jobs.ashbyhq.com/astera/3d8f5a73-1f76-4b87-8fbe-16f4fa1b1ce5/application",
       "first_seen": "2026-11-24T17:38:09Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "4031c1ed-7e4b-464a-ae26-ca311521857b",
@@ -236,7 +236,7 @@
       "source_url": "https://jobs.ashbyhq.com/astera/4031c1ed-7e4b-464a-ae26-ca311521857b",
       "apply_url": "https://jobs.ashbyhq.com/astera/4031c1ed-7e4b-464a-ae26-ca311521857b/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "464a974c-3c1a-41eb-94d0-480c9946ff35",
@@ -254,7 +254,7 @@
       "source_url": "https://jobs.ashbyhq.com/astera/464a974c-3c1a-41eb-94d0-480c9946ff35",
       "apply_url": "https://jobs.ashbyhq.com/astera/464a974c-3c1a-41eb-94d0-480c9946ff35/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "4ec16c9a-7a4e-4fd9-bebf-8a92ab35ac3f",
@@ -272,7 +272,7 @@
       "source_url": "https://jobs.ashbyhq.com/astera/4ec16c9a-7a4e-4fd9-bebf-8a92ab35ac3f",
       "apply_url": "https://jobs.ashbyhq.com/astera/4ec16c9a-7a4e-4fd9-bebf-8a92ab35ac3f/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "5596f24e-bf75-4bf3-8027-4dcd6c4b4f31",
@@ -290,7 +290,7 @@
       "source_url": "https://jobs.ashbyhq.com/astera/5596f24e-bf75-4bf3-8027-4dcd6c4b4f31",
       "apply_url": "https://jobs.ashbyhq.com/astera/5596f24e-bf75-4bf3-8027-4dcd6c4b4f31/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "59578b73-571f-462d-a3d2-5f19b1ee6ed8",
@@ -308,7 +308,7 @@
       "source_url": "https://jobs.ashbyhq.com/astera/59578b73-571f-462d-a3d2-5f19b1ee6ed8",
       "apply_url": "https://jobs.ashbyhq.com/astera/59578b73-571f-462d-a3d2-5f19b1ee6ed8/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "600f1aad-2c27-4b82-bf6c-c171713bcd22",
@@ -326,7 +326,7 @@
       "source_url": "https://jobs.ashbyhq.com/astera/600f1aad-2c27-4b82-bf6c-c171713bcd22",
       "apply_url": "https://jobs.ashbyhq.com/astera/600f1aad-2c27-4b82-bf6c-c171713bcd22/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "642a99d7-8cbd-4568-ae86-8844d3db5f48",
@@ -344,7 +344,7 @@
       "source_url": "https://jobs.ashbyhq.com/astera/642a99d7-8cbd-4568-ae86-8844d3db5f48",
       "apply_url": "https://jobs.ashbyhq.com/astera/642a99d7-8cbd-4568-ae86-8844d3db5f48/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "6574807b-68f1-4eab-89d7-302467b5c77c",
@@ -362,7 +362,7 @@
       "source_url": "https://jobs.ashbyhq.com/astera/6574807b-68f1-4eab-89d7-302467b5c77c",
       "apply_url": "https://jobs.ashbyhq.com/astera/6574807b-68f1-4eab-89d7-302467b5c77c/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "6fa7a859-2bdd-4d29-aad0-0004c9caee2d",
@@ -380,7 +380,7 @@
       "source_url": "https://jobs.ashbyhq.com/astera/6fa7a859-2bdd-4d29-aad0-0004c9caee2d",
       "apply_url": "https://jobs.ashbyhq.com/astera/6fa7a859-2bdd-4d29-aad0-0004c9caee2d/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "70773abe-c4d9-464c-9b34-76401877927a",
@@ -398,7 +398,7 @@
       "source_url": "https://jobs.ashbyhq.com/astera/70773abe-c4d9-464c-9b34-76401877927a",
       "apply_url": "https://jobs.ashbyhq.com/astera/70773abe-c4d9-464c-9b34-76401877927a/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "76ca6730-1afc-4fbf-b701-a5e122137559",
@@ -416,7 +416,7 @@
       "source_url": "https://jobs.ashbyhq.com/astera/76ca6730-1afc-4fbf-b701-a5e122137559",
       "apply_url": "https://jobs.ashbyhq.com/astera/76ca6730-1afc-4fbf-b701-a5e122137559/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "80e3f654-0be6-431f-8c1e-7a7d317b7591",
@@ -434,7 +434,7 @@
       "source_url": "https://jobs.ashbyhq.com/astera/80e3f654-0be6-431f-8c1e-7a7d317b7591",
       "apply_url": "https://jobs.ashbyhq.com/astera/80e3f654-0be6-431f-8c1e-7a7d317b7591/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "86898e53-39d2-444a-a869-9a3b1b455b61",
@@ -452,7 +452,7 @@
       "source_url": "https://jobs.ashbyhq.com/astera/86898e53-39d2-444a-a869-9a3b1b455b61",
       "apply_url": "https://jobs.ashbyhq.com/astera/86898e53-39d2-444a-a869-9a3b1b455b61/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "961e401e-a633-408c-85d2-af9cdf529d6a",
@@ -470,7 +470,7 @@
       "source_url": "https://jobs.ashbyhq.com/astera/961e401e-a633-408c-85d2-af9cdf529d6a",
       "apply_url": "https://jobs.ashbyhq.com/astera/961e401e-a633-408c-85d2-af9cdf529d6a/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "968b4dbf-4944-402c-8233-343410a73c86",
@@ -488,7 +488,7 @@
       "source_url": "https://jobs.ashbyhq.com/astera/968b4dbf-4944-402c-8233-343410a73c86",
       "apply_url": "https://jobs.ashbyhq.com/astera/968b4dbf-4944-402c-8233-343410a73c86/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "aa21faf2-6494-4dcf-9857-6eeaa84e5865",
@@ -506,7 +506,7 @@
       "source_url": "https://jobs.ashbyhq.com/astera/aa21faf2-6494-4dcf-9857-6eeaa84e5865",
       "apply_url": "https://jobs.ashbyhq.com/astera/aa21faf2-6494-4dcf-9857-6eeaa84e5865/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "ab153a34-5959-4f26-bd51-118616802e4e",
@@ -524,7 +524,7 @@
       "source_url": "https://jobs.ashbyhq.com/astera/ab153a34-5959-4f26-bd51-118616802e4e",
       "apply_url": "https://jobs.ashbyhq.com/astera/ab153a34-5959-4f26-bd51-118616802e4e/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "b13d16fa-415c-42fc-b624-7228c65ed0d3",
@@ -542,7 +542,7 @@
       "source_url": "https://jobs.ashbyhq.com/astera/b13d16fa-415c-42fc-b624-7228c65ed0d3",
       "apply_url": "https://jobs.ashbyhq.com/astera/b13d16fa-415c-42fc-b624-7228c65ed0d3/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "b5272d53-8833-4840-8b8b-eb13c858b6ea",
@@ -560,7 +560,7 @@
       "source_url": "https://jobs.ashbyhq.com/astera/b5272d53-8833-4840-8b8b-eb13c858b6ea",
       "apply_url": "https://jobs.ashbyhq.com/astera/b5272d53-8833-4840-8b8b-eb13c858b6ea/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "b8ec96a5-ca02-449c-b35c-3f775ac6b324",
@@ -578,7 +578,7 @@
       "source_url": "https://jobs.ashbyhq.com/astera/b8ec96a5-ca02-449c-b35c-3f775ac6b324",
       "apply_url": "https://jobs.ashbyhq.com/astera/b8ec96a5-ca02-449c-b35c-3f775ac6b324/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "bb7496f8-3342-4d8f-a5c6-e891fefa3b0e",
@@ -596,7 +596,7 @@
       "source_url": "https://jobs.ashbyhq.com/astera/bb7496f8-3342-4d8f-a5c6-e891fefa3b0e",
       "apply_url": "https://jobs.ashbyhq.com/astera/bb7496f8-3342-4d8f-a5c6-e891fefa3b0e/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "c3ebd007-cf6c-4c2c-9618-9365d71ca5e9",
@@ -614,7 +614,7 @@
       "source_url": "https://jobs.ashbyhq.com/astera/c3ebd007-cf6c-4c2c-9618-9365d71ca5e9",
       "apply_url": "https://jobs.ashbyhq.com/astera/c3ebd007-cf6c-4c2c-9618-9365d71ca5e9/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "d10d72c9-34ce-43dc-9e75-24a4b1941fcf",
@@ -632,7 +632,7 @@
       "source_url": "https://jobs.ashbyhq.com/astera/d10d72c9-34ce-43dc-9e75-24a4b1941fcf",
       "apply_url": "https://jobs.ashbyhq.com/astera/d10d72c9-34ce-43dc-9e75-24a4b1941fcf/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "da1f2782-4125-4161-ad86-ff87d8445802",
@@ -650,7 +650,7 @@
       "source_url": "https://jobs.ashbyhq.com/astera/da1f2782-4125-4161-ad86-ff87d8445802",
       "apply_url": "https://jobs.ashbyhq.com/astera/da1f2782-4125-4161-ad86-ff87d8445802/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "ddd85583-1890-42c0-9505-775c03606789",
@@ -668,7 +668,7 @@
       "source_url": "https://jobs.ashbyhq.com/astera/ddd85583-1890-42c0-9505-775c03606789",
       "apply_url": "https://jobs.ashbyhq.com/astera/ddd85583-1890-42c0-9505-775c03606789/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "e1de781c-d06b-43be-8f1a-358db2507e33",
@@ -686,7 +686,7 @@
       "source_url": "https://jobs.ashbyhq.com/astera/e1de781c-d06b-43be-8f1a-358db2507e33",
       "apply_url": "https://jobs.ashbyhq.com/astera/e1de781c-d06b-43be-8f1a-358db2507e33/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "e26a9337-518d-4dfa-b07d-48fdad33f026",
@@ -704,7 +704,7 @@
       "source_url": "https://jobs.ashbyhq.com/astera/e26a9337-518d-4dfa-b07d-48fdad33f026",
       "apply_url": "https://jobs.ashbyhq.com/astera/e26a9337-518d-4dfa-b07d-48fdad33f026/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "e5d4b653-f5d9-4dd9-8f3e-19e5648b80c4",
@@ -722,7 +722,7 @@
       "source_url": "https://jobs.ashbyhq.com/astera/e5d4b653-f5d9-4dd9-8f3e-19e5648b80c4",
       "apply_url": "https://jobs.ashbyhq.com/astera/e5d4b653-f5d9-4dd9-8f3e-19e5648b80c4/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "ebc8e7a5-9eb2-466a-8091-6e581d76a77a",
@@ -740,7 +740,7 @@
       "source_url": "https://jobs.ashbyhq.com/astera/ebc8e7a5-9eb2-466a-8091-6e581d76a77a",
       "apply_url": "https://jobs.ashbyhq.com/astera/ebc8e7a5-9eb2-466a-8091-6e581d76a77a/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "f3c34b54-d4c1-4520-b313-c3e0a6565115",
@@ -758,7 +758,7 @@
       "source_url": "https://jobs.ashbyhq.com/astera/f3c34b54-d4c1-4520-b313-c3e0a6565115",
       "apply_url": "https://jobs.ashbyhq.com/astera/f3c34b54-d4c1-4520-b313-c3e0a6565115/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "f54b342a-b634-472e-b3e1-19970430ae53",
@@ -776,7 +776,7 @@
       "source_url": "https://jobs.ashbyhq.com/astera/f54b342a-b634-472e-b3e1-19970430ae53",
       "apply_url": "https://jobs.ashbyhq.com/astera/f54b342a-b634-472e-b3e1-19970430ae53/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     }
   ],
   "ats": "ashby",

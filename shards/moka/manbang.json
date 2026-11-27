@@ -1,8 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-26T16:50:55Z",
+  "checked_at": "2026-11-27T16:35:48Z",
   "failed_at": null,
-  "etag": "W/\"17cf-A4yeUEmiX/1Q4O5fTpVt+Q\"",
+  "etag": "W/\"17cf-wHvGHKAlcdPLjFO8PQCsRQ\"",
   "jobs": [
     {
       "id": "2641bac7-6432-4764-b40a-305577f3a3f6",
@@ -15,12 +15,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-07-28",
-      "updated": "2026-11-26",
+      "updated": "2026-11-27",
       "deadline": "",
       "source_url": "https://app.mokahr.com/social-recruitment/manbang/46269#/job/2641bac7-6432-4764-b40a-305577f3a3f6",
       "apply_url": "https://app.mokahr.com/apply/manbang/46269#/job/2641bac7-6432-4764-b40a-305577f3a3f6/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "7f855d1b-1868-417f-9301-513c6e791a07",
@@ -33,12 +33,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-07-28",
-      "updated": "2026-11-26",
+      "updated": "2026-11-27",
       "deadline": "",
       "source_url": "https://app.mokahr.com/social-recruitment/manbang/46269#/job/7f855d1b-1868-417f-9301-513c6e791a07",
       "apply_url": "https://app.mokahr.com/apply/manbang/46269#/job/7f855d1b-1868-417f-9301-513c6e791a07/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     }
   ],
   "ats": "moka",

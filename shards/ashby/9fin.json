@@ -1,8 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-26T16:50:55Z",
+  "checked_at": "2026-11-27T16:35:48Z",
   "failed_at": null,
-  "etag": "W/\"job-board:2dd782333867094e42800f5c328005919dc7bea4dc21039a4742d6c6d6134dec\"",
+  "etag": "W/\"job-board:74aafc17ebafb0872cd86731df9d98d65b4146cd6576126da18ab3400eff19dd\"",
   "jobs": [
     {
       "id": "00d51225-d7b6-49e3-91fd-70a440beaed3",
@@ -20,7 +20,7 @@
       "source_url": "https://jobs.ashbyhq.com/9fin/00d51225-d7b6-49e3-91fd-70a440beaed3",
       "apply_url": "https://jobs.ashbyhq.com/9fin/00d51225-d7b6-49e3-91fd-70a440beaed3/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "052666f7-e368-43cd-8c94-0457675e0940",
@@ -38,7 +38,7 @@
       "source_url": "https://jobs.ashbyhq.com/9fin/052666f7-e368-43cd-8c94-0457675e0940",
       "apply_url": "https://jobs.ashbyhq.com/9fin/052666f7-e368-43cd-8c94-0457675e0940/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "06038f70-eddf-4b6b-8fa9-5dbf34e237d0",
@@ -56,7 +56,7 @@
       "source_url": "https://jobs.ashbyhq.com/9fin/06038f70-eddf-4b6b-8fa9-5dbf34e237d0",
       "apply_url": "https://jobs.ashbyhq.com/9fin/06038f70-eddf-4b6b-8fa9-5dbf34e237d0/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "11f9052e-3437-486d-93ef-52879dee871b",
@@ -74,7 +74,7 @@
       "source_url": "https://jobs.ashbyhq.com/9fin/11f9052e-3437-486d-93ef-52879dee871b",
       "apply_url": "https://jobs.ashbyhq.com/9fin/11f9052e-3437-486d-93ef-52879dee871b/application",
       "first_seen": "2026-11-19T15:42:04Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "176c938f-a4de-43ef-8009-af7b6e95f853",
@@ -92,7 +92,7 @@
       "source_url": "https://jobs.ashbyhq.com/9fin/176c938f-a4de-43ef-8009-af7b6e95f853",
       "apply_url": "https://jobs.ashbyhq.com/9fin/176c938f-a4de-43ef-8009-af7b6e95f853/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "1f5ddc12-dd79-4b82-afc4-89a63d4fabda",
@@ -110,7 +110,7 @@
       "source_url": "https://jobs.ashbyhq.com/9fin/1f5ddc12-dd79-4b82-afc4-89a63d4fabda",
       "apply_url": "https://jobs.ashbyhq.com/9fin/1f5ddc12-dd79-4b82-afc4-89a63d4fabda/application",
       "first_seen": "2026-11-23T18:00:07Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "1fd48034-f648-49ec-9a80-de7743be227f",
@@ -128,7 +128,7 @@
       "source_url": "https://jobs.ashbyhq.com/9fin/1fd48034-f648-49ec-9a80-de7743be227f",
       "apply_url": "https://jobs.ashbyhq.com/9fin/1fd48034-f648-49ec-9a80-de7743be227f/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "2ea78c9f-0159-49f4-ad8a-c80b8a47592b",
@@ -146,7 +146,25 @@
       "source_url": "https://jobs.ashbyhq.com/9fin/2ea78c9f-0159-49f4-ad8a-c80b8a47592b",
       "apply_url": "https://jobs.ashbyhq.com/9fin/2ea78c9f-0159-49f4-ad8a-c80b8a47592b/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
+    },
+    {
+      "id": "30ade76c-d741-4acd-95c7-2374d45cebc7",
+      "title": "Data Domain Expert – Data Operations",
+      "company": "9fin",
+      "location": "Belfast",
+      "remote": "unspecified",
+      "department": "Data Operations",
+      "employment_type": "FULL_TIME",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-27",
+      "updated": "",
+      "deadline": "",
+      "source_url": "https://jobs.ashbyhq.com/9fin/30ade76c-d741-4acd-95c7-2374d45cebc7",
+      "apply_url": "https://jobs.ashbyhq.com/9fin/30ade76c-d741-4acd-95c7-2374d45cebc7/application",
+      "first_seen": "2026-11-27T16:35:48Z",
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "33913f63-d531-488b-9c11-648a9e95e3a5",
@@ -164,7 +182,7 @@
       "source_url": "https://jobs.ashbyhq.com/9fin/33913f63-d531-488b-9c11-648a9e95e3a5",
       "apply_url": "https://jobs.ashbyhq.com/9fin/33913f63-d531-488b-9c11-648a9e95e3a5/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "39f53248-1eb6-47fe-a95a-031073f85c70",
@@ -182,7 +200,7 @@
       "source_url": "https://jobs.ashbyhq.com/9fin/39f53248-1eb6-47fe-a95a-031073f85c70",
       "apply_url": "https://jobs.ashbyhq.com/9fin/39f53248-1eb6-47fe-a95a-031073f85c70/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "3ac122ab-6466-4477-9511-2913786a1420",
@@ -200,7 +218,7 @@
       "source_url": "https://jobs.ashbyhq.com/9fin/3ac122ab-6466-4477-9511-2913786a1420",
       "apply_url": "https://jobs.ashbyhq.com/9fin/3ac122ab-6466-4477-9511-2913786a1420/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "46bfcfc4-2d6a-4056-8c5f-b3b1218db84e",
@@ -218,7 +236,7 @@
       "source_url": "https://jobs.ashbyhq.com/9fin/46bfcfc4-2d6a-4056-8c5f-b3b1218db84e",
       "apply_url": "https://jobs.ashbyhq.com/9fin/46bfcfc4-2d6a-4056-8c5f-b3b1218db84e/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "4f7394d3-ee8f-4bb5-99e9-28b9d2859428",
@@ -236,7 +254,7 @@
       "source_url": "https://jobs.ashbyhq.com/9fin/4f7394d3-ee8f-4bb5-99e9-28b9d2859428",
       "apply_url": "https://jobs.ashbyhq.com/9fin/4f7394d3-ee8f-4bb5-99e9-28b9d2859428/application",
       "first_seen": "2026-11-19T15:42:04Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "51d1e31b-28c5-4f53-8c95-6e5d36a3817e",
@@ -254,7 +272,7 @@
       "source_url": "https://jobs.ashbyhq.com/9fin/51d1e31b-28c5-4f53-8c95-6e5d36a3817e",
       "apply_url": "https://jobs.ashbyhq.com/9fin/51d1e31b-28c5-4f53-8c95-6e5d36a3817e/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "5e5808da-1d09-4b05-8d2f-9cc29c88a814",
@@ -272,7 +290,7 @@
       "source_url": "https://jobs.ashbyhq.com/9fin/5e5808da-1d09-4b05-8d2f-9cc29c88a814",
       "apply_url": "https://jobs.ashbyhq.com/9fin/5e5808da-1d09-4b05-8d2f-9cc29c88a814/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "6e285348-5384-4fc2-8176-a36b50e69b4f",
@@ -290,7 +308,7 @@
       "source_url": "https://jobs.ashbyhq.com/9fin/6e285348-5384-4fc2-8176-a36b50e69b4f",
       "apply_url": "https://jobs.ashbyhq.com/9fin/6e285348-5384-4fc2-8176-a36b50e69b4f/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "70f6522b-1ce2-445e-857f-bc71b49b914a",
@@ -308,7 +326,7 @@
       "source_url": "https://jobs.ashbyhq.com/9fin/70f6522b-1ce2-445e-857f-bc71b49b914a",
       "apply_url": "https://jobs.ashbyhq.com/9fin/70f6522b-1ce2-445e-857f-bc71b49b914a/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "7dbed4f2-c857-4ec3-b1de-1cf885ae7ee4",
@@ -326,7 +344,7 @@
       "source_url": "https://jobs.ashbyhq.com/9fin/7dbed4f2-c857-4ec3-b1de-1cf885ae7ee4",
       "apply_url": "https://jobs.ashbyhq.com/9fin/7dbed4f2-c857-4ec3-b1de-1cf885ae7ee4/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "839c010e-79f7-4d30-97a1-dbf409eeac79",
@@ -344,7 +362,7 @@
       "source_url": "https://jobs.ashbyhq.com/9fin/839c010e-79f7-4d30-97a1-dbf409eeac79",
       "apply_url": "https://jobs.ashbyhq.com/9fin/839c010e-79f7-4d30-97a1-dbf409eeac79/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8f9cdb50-adc7-4079-9ba6-923c4e381b99",
@@ -362,7 +380,7 @@
       "source_url": "https://jobs.ashbyhq.com/9fin/8f9cdb50-adc7-4079-9ba6-923c4e381b99",
       "apply_url": "https://jobs.ashbyhq.com/9fin/8f9cdb50-adc7-4079-9ba6-923c4e381b99/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "997e7069-c843-4fd8-9361-3220e0e2a471",
@@ -380,7 +398,7 @@
       "source_url": "https://jobs.ashbyhq.com/9fin/997e7069-c843-4fd8-9361-3220e0e2a471",
       "apply_url": "https://jobs.ashbyhq.com/9fin/997e7069-c843-4fd8-9361-3220e0e2a471/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "9a8a5318-6116-408f-82d2-54302c636b5d",
@@ -398,7 +416,7 @@
       "source_url": "https://jobs.ashbyhq.com/9fin/9a8a5318-6116-408f-82d2-54302c636b5d",
       "apply_url": "https://jobs.ashbyhq.com/9fin/9a8a5318-6116-408f-82d2-54302c636b5d/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "9b631c55-3d7d-4848-9eff-04f5edf2e41c",
@@ -416,7 +434,7 @@
       "source_url": "https://jobs.ashbyhq.com/9fin/9b631c55-3d7d-4848-9eff-04f5edf2e41c",
       "apply_url": "https://jobs.ashbyhq.com/9fin/9b631c55-3d7d-4848-9eff-04f5edf2e41c/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "a0cd267f-321d-431a-9cc7-2cd98fe0a7a0",
@@ -434,7 +452,7 @@
       "source_url": "https://jobs.ashbyhq.com/9fin/a0cd267f-321d-431a-9cc7-2cd98fe0a7a0",
       "apply_url": "https://jobs.ashbyhq.com/9fin/a0cd267f-321d-431a-9cc7-2cd98fe0a7a0/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "ac889c0e-ea71-4509-b0a5-db4f076204b7",
@@ -452,7 +470,7 @@
       "source_url": "https://jobs.ashbyhq.com/9fin/ac889c0e-ea71-4509-b0a5-db4f076204b7",
       "apply_url": "https://jobs.ashbyhq.com/9fin/ac889c0e-ea71-4509-b0a5-db4f076204b7/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "b2123beb-80a6-4335-9566-ba6c6dffd28e",
@@ -470,7 +488,7 @@
       "source_url": "https://jobs.ashbyhq.com/9fin/b2123beb-80a6-4335-9566-ba6c6dffd28e",
       "apply_url": "https://jobs.ashbyhq.com/9fin/b2123beb-80a6-4335-9566-ba6c6dffd28e/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "c08b0eaa-26be-44e7-ad42-d3fd3e2c7e00",
@@ -488,7 +506,7 @@
       "source_url": "https://jobs.ashbyhq.com/9fin/c08b0eaa-26be-44e7-ad42-d3fd3e2c7e00",
       "apply_url": "https://jobs.ashbyhq.com/9fin/c08b0eaa-26be-44e7-ad42-d3fd3e2c7e00/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "c1c85d7e-d7cc-477a-87e4-9543e253d355",
@@ -506,7 +524,7 @@
       "source_url": "https://jobs.ashbyhq.com/9fin/c1c85d7e-d7cc-477a-87e4-9543e253d355",
       "apply_url": "https://jobs.ashbyhq.com/9fin/c1c85d7e-d7cc-477a-87e4-9543e253d355/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "e63425d2-ee06-48ed-ad3e-73c6a33f184c",
@@ -524,7 +542,7 @@
       "source_url": "https://jobs.ashbyhq.com/9fin/e63425d2-ee06-48ed-ad3e-73c6a33f184c",
       "apply_url": "https://jobs.ashbyhq.com/9fin/e63425d2-ee06-48ed-ad3e-73c6a33f184c/application",
       "first_seen": "2026-11-19T15:42:04Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "e732a001-02b2-4405-a945-5e59a6aac7b4",
@@ -542,7 +560,7 @@
       "source_url": "https://jobs.ashbyhq.com/9fin/e732a001-02b2-4405-a945-5e59a6aac7b4",
       "apply_url": "https://jobs.ashbyhq.com/9fin/e732a001-02b2-4405-a945-5e59a6aac7b4/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "f19f80c7-fadb-4e77-9087-6ab15a8de8bf",
@@ -560,25 +578,7 @@
       "source_url": "https://jobs.ashbyhq.com/9fin/f19f80c7-fadb-4e77-9087-6ab15a8de8bf",
       "apply_url": "https://jobs.ashbyhq.com/9fin/f19f80c7-fadb-4e77-9087-6ab15a8de8bf/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
-    },
-    {
-      "id": "f559826f-0735-49d3-b141-eb45056c5dd1",
-      "title": "Director of Engineering - Customer Workflows",
-      "company": "9fin",
-      "location": "London",
-      "remote": "unspecified",
-      "department": "Engineering Leadership",
-      "employment_type": "FULL_TIME",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-11-24",
-      "updated": "",
-      "deadline": "",
-      "source_url": "https://jobs.ashbyhq.com/9fin/f559826f-0735-49d3-b141-eb45056c5dd1",
-      "apply_url": "https://jobs.ashbyhq.com/9fin/f559826f-0735-49d3-b141-eb45056c5dd1/application",
-      "first_seen": "2026-11-25T17:09:22Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "f585cf19-142f-4eea-8dc2-d2c312bc4fa4",
@@ -596,7 +596,7 @@
       "source_url": "https://jobs.ashbyhq.com/9fin/f585cf19-142f-4eea-8dc2-d2c312bc4fa4",
       "apply_url": "https://jobs.ashbyhq.com/9fin/f585cf19-142f-4eea-8dc2-d2c312bc4fa4/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "f639fa77-e413-45b4-a1a9-7d9d714afbf7",
@@ -614,25 +614,7 @@
       "source_url": "https://jobs.ashbyhq.com/9fin/f639fa77-e413-45b4-a1a9-7d9d714afbf7",
       "apply_url": "https://jobs.ashbyhq.com/9fin/f639fa77-e413-45b4-a1a9-7d9d714afbf7/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
-    },
-    {
-      "id": "f65b2045-0d33-4058-94f7-3ef661fa7614",
-      "title": "Director of Engineering - Product Foundations",
-      "company": "9fin",
-      "location": "London",
-      "remote": "hybrid",
-      "department": "Confidential",
-      "employment_type": "FULL_TIME",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-11-25",
-      "updated": "",
-      "deadline": "",
-      "source_url": "https://jobs.ashbyhq.com/9fin/f65b2045-0d33-4058-94f7-3ef661fa7614",
-      "apply_url": "https://jobs.ashbyhq.com/9fin/f65b2045-0d33-4058-94f7-3ef661fa7614/application",
-      "first_seen": "2026-11-25T17:09:22Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "fbfb0578-11c7-46bd-b935-33fd1e6db7d0",
@@ -650,7 +632,7 @@
       "source_url": "https://jobs.ashbyhq.com/9fin/fbfb0578-11c7-46bd-b935-33fd1e6db7d0",
       "apply_url": "https://jobs.ashbyhq.com/9fin/fbfb0578-11c7-46bd-b935-33fd1e6db7d0/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     }
   ],
   "ats": "ashby",

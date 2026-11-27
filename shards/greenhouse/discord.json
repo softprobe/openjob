@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-26T16:50:55Z",
+  "checked_at": "2026-11-27T16:35:48Z",
   "failed_at": null,
   "etag": "W/\"9ff6c2192f3c2cee53f1f421656f73e4\"",
   "jobs": [
@@ -20,7 +20,7 @@
       "source_url": "https://job-boards.greenhouse.io/discord/jobs/8299493002",
       "apply_url": "https://job-boards.greenhouse.io/discord/jobs/8299493002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8649856002",
@@ -38,7 +38,7 @@
       "source_url": "https://job-boards.greenhouse.io/discord/jobs/8649856002",
       "apply_url": "https://job-boards.greenhouse.io/discord/jobs/8649856002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8652853002",
@@ -56,7 +56,7 @@
       "source_url": "https://job-boards.greenhouse.io/discord/jobs/8652853002",
       "apply_url": "https://job-boards.greenhouse.io/discord/jobs/8652853002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8652914002",
@@ -74,7 +74,7 @@
       "source_url": "https://job-boards.greenhouse.io/discord/jobs/8652914002",
       "apply_url": "https://job-boards.greenhouse.io/discord/jobs/8652914002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8691572002",
@@ -92,7 +92,7 @@
       "source_url": "https://job-boards.greenhouse.io/discord/jobs/8691572002",
       "apply_url": "https://job-boards.greenhouse.io/discord/jobs/8691572002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8703614002",
@@ -110,7 +110,7 @@
       "source_url": "https://job-boards.greenhouse.io/discord/jobs/8703614002",
       "apply_url": "https://job-boards.greenhouse.io/discord/jobs/8703614002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8731320002",
@@ -128,7 +128,7 @@
       "source_url": "https://job-boards.greenhouse.io/discord/jobs/8731320002",
       "apply_url": "https://job-boards.greenhouse.io/discord/jobs/8731320002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8731898002",
@@ -146,7 +146,7 @@
       "source_url": "https://job-boards.greenhouse.io/discord/jobs/8731898002",
       "apply_url": "https://job-boards.greenhouse.io/discord/jobs/8731898002",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8761356002",
@@ -164,7 +164,7 @@
       "source_url": "https://job-boards.greenhouse.io/discord/jobs/8761356002",
       "apply_url": "https://job-boards.greenhouse.io/discord/jobs/8761356002",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8769799002",
@@ -182,7 +182,7 @@
       "source_url": "https://job-boards.greenhouse.io/discord/jobs/8769799002",
       "apply_url": "https://job-boards.greenhouse.io/discord/jobs/8769799002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8771034002",
@@ -200,7 +200,7 @@
       "source_url": "https://job-boards.greenhouse.io/discord/jobs/8771034002",
       "apply_url": "https://job-boards.greenhouse.io/discord/jobs/8771034002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8802354002",
@@ -218,7 +218,7 @@
       "source_url": "https://job-boards.greenhouse.io/discord/jobs/8802354002",
       "apply_url": "https://job-boards.greenhouse.io/discord/jobs/8802354002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8822683002",
@@ -236,7 +236,7 @@
       "source_url": "https://job-boards.greenhouse.io/discord/jobs/8822683002",
       "apply_url": "https://job-boards.greenhouse.io/discord/jobs/8822683002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8846330002",
@@ -254,7 +254,7 @@
       "source_url": "https://job-boards.greenhouse.io/discord/jobs/8846330002",
       "apply_url": "https://job-boards.greenhouse.io/discord/jobs/8846330002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8847080002",
@@ -272,7 +272,7 @@
       "source_url": "https://job-boards.greenhouse.io/discord/jobs/8847080002",
       "apply_url": "https://job-boards.greenhouse.io/discord/jobs/8847080002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8871293002",
@@ -290,7 +290,7 @@
       "source_url": "https://job-boards.greenhouse.io/discord/jobs/8871293002",
       "apply_url": "https://job-boards.greenhouse.io/discord/jobs/8871293002",
       "first_seen": "2026-11-25T17:09:22Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8881544002",
@@ -308,7 +308,7 @@
       "source_url": "https://job-boards.greenhouse.io/discord/jobs/8881544002",
       "apply_url": "https://job-boards.greenhouse.io/discord/jobs/8881544002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8904389002",
@@ -326,7 +326,7 @@
       "source_url": "https://job-boards.greenhouse.io/discord/jobs/8904389002",
       "apply_url": "https://job-boards.greenhouse.io/discord/jobs/8904389002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8907804002",
@@ -344,7 +344,7 @@
       "source_url": "https://job-boards.greenhouse.io/discord/jobs/8907804002",
       "apply_url": "https://job-boards.greenhouse.io/discord/jobs/8907804002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8910013002",
@@ -362,7 +362,7 @@
       "source_url": "https://job-boards.greenhouse.io/discord/jobs/8910013002",
       "apply_url": "https://job-boards.greenhouse.io/discord/jobs/8910013002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8917177002",
@@ -380,7 +380,7 @@
       "source_url": "https://job-boards.greenhouse.io/discord/jobs/8917177002",
       "apply_url": "https://job-boards.greenhouse.io/discord/jobs/8917177002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8927168002",
@@ -398,7 +398,7 @@
       "source_url": "https://job-boards.greenhouse.io/discord/jobs/8927168002",
       "apply_url": "https://job-boards.greenhouse.io/discord/jobs/8927168002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8933480002",
@@ -416,7 +416,7 @@
       "source_url": "https://job-boards.greenhouse.io/discord/jobs/8933480002",
       "apply_url": "https://job-boards.greenhouse.io/discord/jobs/8933480002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8935135002",
@@ -434,7 +434,7 @@
       "source_url": "https://job-boards.greenhouse.io/discord/jobs/8935135002",
       "apply_url": "https://job-boards.greenhouse.io/discord/jobs/8935135002",
       "first_seen": "2026-11-18T15:36:26Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8942144002",
@@ -452,7 +452,7 @@
       "source_url": "https://job-boards.greenhouse.io/discord/jobs/8942144002",
       "apply_url": "https://job-boards.greenhouse.io/discord/jobs/8942144002",
       "first_seen": "2026-11-26T16:50:55Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8945798002",
@@ -470,7 +470,7 @@
       "source_url": "https://job-boards.greenhouse.io/discord/jobs/8945798002",
       "apply_url": "https://job-boards.greenhouse.io/discord/jobs/8945798002",
       "first_seen": "2026-11-20T15:23:49Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8945979002",
@@ -488,7 +488,7 @@
       "source_url": "https://job-boards.greenhouse.io/discord/jobs/8945979002",
       "apply_url": "https://job-boards.greenhouse.io/discord/jobs/8945979002",
       "first_seen": "2026-11-19T15:42:04Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8948573002",
@@ -506,7 +506,7 @@
       "source_url": "https://job-boards.greenhouse.io/discord/jobs/8948573002",
       "apply_url": "https://job-boards.greenhouse.io/discord/jobs/8948573002",
       "first_seen": "2026-11-19T15:42:04Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8950137002",
@@ -524,7 +524,7 @@
       "source_url": "https://job-boards.greenhouse.io/discord/jobs/8950137002",
       "apply_url": "https://job-boards.greenhouse.io/discord/jobs/8950137002",
       "first_seen": "2026-11-20T15:23:49Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8958889002",
@@ -542,7 +542,7 @@
       "source_url": "https://job-boards.greenhouse.io/discord/jobs/8958889002",
       "apply_url": "https://job-boards.greenhouse.io/discord/jobs/8958889002",
       "first_seen": "2026-11-26T16:50:55Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     }
   ],
   "ats": "greenhouse",

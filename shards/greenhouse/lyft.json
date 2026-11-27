@@ -1,8 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-26T16:50:55Z",
+  "checked_at": "2026-11-27T16:35:48Z",
   "failed_at": null,
-  "etag": "W/\"ab37d3aac34778a70b6ae862418f05b1\"",
+  "etag": "W/\"7b78b848fa88a66df7f40ebf2cf39657\"",
   "jobs": [
     {
       "id": "8430552002",
@@ -20,7 +20,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8430552002?gh_jid=8430552002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8430552002?gh_jid=8430552002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8445493002",
@@ -38,7 +38,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8445493002?gh_jid=8445493002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8445493002?gh_jid=8445493002",
       "first_seen": "2026-11-21T14:37:10Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8503985002",
@@ -56,7 +56,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8503985002?gh_jid=8503985002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8503985002?gh_jid=8503985002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8599054002",
@@ -74,7 +74,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8599054002?gh_jid=8599054002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8599054002?gh_jid=8599054002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8603653002",
@@ -92,7 +92,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8603653002?gh_jid=8603653002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8603653002?gh_jid=8603653002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8614717002",
@@ -110,7 +110,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8614717002?gh_jid=8614717002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8614717002?gh_jid=8614717002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8620998002",
@@ -128,7 +128,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8620998002?gh_jid=8620998002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8620998002?gh_jid=8620998002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8621789002",
@@ -146,7 +146,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8621789002?gh_jid=8621789002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8621789002?gh_jid=8621789002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8623113002",
@@ -164,7 +164,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8623113002?gh_jid=8623113002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8623113002?gh_jid=8623113002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8623242002",
@@ -182,7 +182,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8623242002?gh_jid=8623242002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8623242002?gh_jid=8623242002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8627439002",
@@ -200,7 +200,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8627439002?gh_jid=8627439002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8627439002?gh_jid=8627439002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8638164002",
@@ -218,7 +218,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8638164002?gh_jid=8638164002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8638164002?gh_jid=8638164002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8648040002",
@@ -236,7 +236,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8648040002?gh_jid=8648040002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8648040002?gh_jid=8648040002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8657497002",
@@ -254,7 +254,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8657497002?gh_jid=8657497002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8657497002?gh_jid=8657497002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8662205002",
@@ -272,7 +272,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8662205002?gh_jid=8662205002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8662205002?gh_jid=8662205002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8662388002",
@@ -290,7 +290,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8662388002?gh_jid=8662388002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8662388002?gh_jid=8662388002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8675426002",
@@ -308,7 +308,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8675426002?gh_jid=8675426002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8675426002?gh_jid=8675426002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8684440002",
@@ -326,7 +326,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8684440002?gh_jid=8684440002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8684440002?gh_jid=8684440002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8688631002",
@@ -344,7 +344,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8688631002?gh_jid=8688631002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8688631002?gh_jid=8688631002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8693500002",
@@ -362,7 +362,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8693500002?gh_jid=8693500002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8693500002?gh_jid=8693500002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8716218002",
@@ -380,7 +380,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8716218002?gh_jid=8716218002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8716218002?gh_jid=8716218002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8733597002",
@@ -398,7 +398,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8733597002?gh_jid=8733597002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8733597002?gh_jid=8733597002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8733655002",
@@ -416,7 +416,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8733655002?gh_jid=8733655002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8733655002?gh_jid=8733655002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8734166002",
@@ -434,7 +434,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8734166002?gh_jid=8734166002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8734166002?gh_jid=8734166002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8743132002",
@@ -452,7 +452,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8743132002?gh_jid=8743132002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8743132002?gh_jid=8743132002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8743231002",
@@ -470,7 +470,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8743231002?gh_jid=8743231002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8743231002?gh_jid=8743231002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8743513002",
@@ -488,7 +488,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8743513002?gh_jid=8743513002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8743513002?gh_jid=8743513002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8743515002",
@@ -506,7 +506,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8743515002?gh_jid=8743515002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8743515002?gh_jid=8743515002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8767534002",
@@ -524,7 +524,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8767534002?gh_jid=8767534002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8767534002?gh_jid=8767534002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8767536002",
@@ -542,7 +542,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8767536002?gh_jid=8767536002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8767536002?gh_jid=8767536002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8767697002",
@@ -560,7 +560,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8767697002?gh_jid=8767697002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8767697002?gh_jid=8767697002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8767710002",
@@ -578,7 +578,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8767710002?gh_jid=8767710002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8767710002?gh_jid=8767710002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8767715002",
@@ -596,7 +596,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8767715002?gh_jid=8767715002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8767715002?gh_jid=8767715002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8767723002",
@@ -614,7 +614,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8767726002",
@@ -632,7 +632,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8767726002?gh_jid=8767726002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8767726002?gh_jid=8767726002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8777403002",
@@ -650,7 +650,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8777403002?gh_jid=8777403002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8777403002?gh_jid=8777403002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8780012002",
@@ -668,7 +668,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8780012002?gh_jid=8780012002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8780012002?gh_jid=8780012002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8790623002",
@@ -686,25 +686,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8790623002?gh_jid=8790623002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8790623002?gh_jid=8790623002",
       "first_seen": "2026-11-18T15:36:26Z",
-      "last_checked": "2026-11-26T16:50:55Z"
-    },
-    {
-      "id": "8792126002",
-      "title": "Legal Operations Specialist",
-      "company": "Lyft",
-      "location": "Nashville, TN",
-      "remote": "unspecified",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-09-10",
-      "updated": "2026-11-10",
-      "deadline": "",
-      "source_url": "https://app.careerpuck.com/job-board/lyft/job/8792126002?gh_jid=8792126002",
-      "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8792126002?gh_jid=8792126002",
-      "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8795875002",
@@ -722,7 +704,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8795875002?gh_jid=8795875002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8795875002?gh_jid=8795875002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8796052002",
@@ -740,7 +722,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8796052002?gh_jid=8796052002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8796052002?gh_jid=8796052002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8796054002",
@@ -758,7 +740,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8796054002?gh_jid=8796054002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8796054002?gh_jid=8796054002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8796124002",
@@ -776,7 +758,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8797069002",
@@ -794,7 +776,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8797069002?gh_jid=8797069002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8797069002?gh_jid=8797069002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8797376002",
@@ -812,7 +794,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8797376002?gh_jid=8797376002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8797376002?gh_jid=8797376002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8797819002",
@@ -830,7 +812,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8797819002?gh_jid=8797819002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8797819002?gh_jid=8797819002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8797859002",
@@ -848,7 +830,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8797859002?gh_jid=8797859002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8797859002?gh_jid=8797859002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8802222002",
@@ -866,7 +848,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8802222002?gh_jid=8802222002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8802222002?gh_jid=8802222002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8802332002",
@@ -884,7 +866,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8802332002?gh_jid=8802332002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8802332002?gh_jid=8802332002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8806580002",
@@ -902,7 +884,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8806580002?gh_jid=8806580002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8806580002?gh_jid=8806580002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8806969002",
@@ -920,7 +902,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8806969002?gh_jid=8806969002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8806969002?gh_jid=8806969002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8811738002",
@@ -938,7 +920,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8811738002?gh_jid=8811738002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8811738002?gh_jid=8811738002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8817900002",
@@ -956,7 +938,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8817900002?gh_jid=8817900002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8817900002?gh_jid=8817900002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8817930002",
@@ -974,7 +956,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8817930002?gh_jid=8817930002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8817930002?gh_jid=8817930002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8817932002",
@@ -992,7 +974,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8817932002?gh_jid=8817932002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8817932002?gh_jid=8817932002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8817974002",
@@ -1010,7 +992,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8817974002?gh_jid=8817974002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8817974002?gh_jid=8817974002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8828273002",
@@ -1028,7 +1010,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8828273002?gh_jid=8828273002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8828273002?gh_jid=8828273002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8831430002",
@@ -1046,7 +1028,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8831430002?gh_jid=8831430002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8831430002?gh_jid=8831430002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8834157002",
@@ -1064,7 +1046,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8834157002?gh_jid=8834157002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8834157002?gh_jid=8834157002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8840187002",
@@ -1082,7 +1064,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8840187002?gh_jid=8840187002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8840187002?gh_jid=8840187002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8843341002",
@@ -1100,7 +1082,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8843341002?gh_jid=8843341002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8843341002?gh_jid=8843341002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8852959002",
@@ -1118,7 +1100,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8852959002?gh_jid=8852959002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8852959002?gh_jid=8852959002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8853037002",
@@ -1136,7 +1118,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8853037002?gh_jid=8853037002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8853037002?gh_jid=8853037002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8856440002",
@@ -1154,7 +1136,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8856440002?gh_jid=8856440002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8856440002?gh_jid=8856440002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8856443002",
@@ -1172,7 +1154,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8856443002?gh_jid=8856443002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8856443002?gh_jid=8856443002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8857056002",
@@ -1190,7 +1172,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8857056002?gh_jid=8857056002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8857056002?gh_jid=8857056002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8862007002",
@@ -1208,7 +1190,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8862007002?gh_jid=8862007002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8862007002?gh_jid=8862007002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8862215002",
@@ -1226,7 +1208,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8862215002?gh_jid=8862215002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8862215002?gh_jid=8862215002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8872142002",
@@ -1244,7 +1226,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8872142002?gh_jid=8872142002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8872142002?gh_jid=8872142002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8872198002",
@@ -1262,7 +1244,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8872198002?gh_jid=8872198002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8872198002?gh_jid=8872198002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8872290002",
@@ -1280,7 +1262,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8872290002?gh_jid=8872290002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8872290002?gh_jid=8872290002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8880066002",
@@ -1298,7 +1280,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8880066002?gh_jid=8880066002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8880066002?gh_jid=8880066002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8888739002",
@@ -1316,7 +1298,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8888739002?gh_jid=8888739002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8888739002?gh_jid=8888739002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8894912002",
@@ -1334,7 +1316,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8894912002?gh_jid=8894912002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8894912002?gh_jid=8894912002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8900188002",
@@ -1352,7 +1334,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8900188002?gh_jid=8900188002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8900188002?gh_jid=8900188002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8900191002",
@@ -1370,7 +1352,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8900191002?gh_jid=8900191002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8900191002?gh_jid=8900191002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8900349002",
@@ -1388,7 +1370,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8900349002?gh_jid=8900349002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8900349002?gh_jid=8900349002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8902979002",
@@ -1406,7 +1388,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8902979002?gh_jid=8902979002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8902979002?gh_jid=8902979002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8903751002",
@@ -1424,7 +1406,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8903751002?gh_jid=8903751002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8903751002?gh_jid=8903751002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8908002002",
@@ -1442,7 +1424,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8908002002?gh_jid=8908002002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8908002002?gh_jid=8908002002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8908003002",
@@ -1460,7 +1442,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8908003002?gh_jid=8908003002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8908003002?gh_jid=8908003002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8908005002",
@@ -1478,7 +1460,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8908005002?gh_jid=8908005002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8908005002?gh_jid=8908005002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8908913002",
@@ -1496,7 +1478,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8908913002?gh_jid=8908913002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8908913002?gh_jid=8908913002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8908930002",
@@ -1514,7 +1496,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8908930002?gh_jid=8908930002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8908930002?gh_jid=8908930002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8910495002",
@@ -1532,7 +1514,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8910495002?gh_jid=8910495002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8910495002?gh_jid=8910495002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8916916002",
@@ -1550,7 +1532,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8916916002?gh_jid=8916916002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8916916002?gh_jid=8916916002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8916924002",
@@ -1568,7 +1550,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8916924002?gh_jid=8916924002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8916924002?gh_jid=8916924002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8916976002",
@@ -1586,7 +1568,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8916976002?gh_jid=8916976002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8916976002?gh_jid=8916976002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8916983002",
@@ -1604,7 +1586,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8916983002?gh_jid=8916983002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8916983002?gh_jid=8916983002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8917063002",
@@ -1622,7 +1604,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8917063002?gh_jid=8917063002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8917063002?gh_jid=8917063002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8917426002",
@@ -1640,7 +1622,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8917426002?gh_jid=8917426002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8917426002?gh_jid=8917426002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8917641002",
@@ -1658,7 +1640,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8917641002?gh_jid=8917641002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8917641002?gh_jid=8917641002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8917801002",
@@ -1676,7 +1658,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8917801002?gh_jid=8917801002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8917801002?gh_jid=8917801002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8921758002",
@@ -1694,7 +1676,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8921758002?gh_jid=8921758002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8921758002?gh_jid=8921758002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8921760002",
@@ -1712,7 +1694,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8921760002?gh_jid=8921760002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8921760002?gh_jid=8921760002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8921966002",
@@ -1730,7 +1712,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8921966002?gh_jid=8921966002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8921966002?gh_jid=8921966002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8922068002",
@@ -1748,7 +1730,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8922068002?gh_jid=8922068002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8922068002?gh_jid=8922068002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8922198002",
@@ -1766,7 +1748,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8922198002?gh_jid=8922198002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8922198002?gh_jid=8922198002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8922700002",
@@ -1784,7 +1766,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8922700002?gh_jid=8922700002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8922700002?gh_jid=8922700002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8923735002",
@@ -1802,7 +1784,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8923735002?gh_jid=8923735002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8923735002?gh_jid=8923735002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8925465002",
@@ -1820,7 +1802,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8925465002?gh_jid=8925465002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8925465002?gh_jid=8925465002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8925486002",
@@ -1838,7 +1820,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8925486002?gh_jid=8925486002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8925486002?gh_jid=8925486002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8925493002",
@@ -1856,7 +1838,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8925493002?gh_jid=8925493002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8925493002?gh_jid=8925493002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8925496002",
@@ -1874,7 +1856,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8925496002?gh_jid=8925496002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8925496002?gh_jid=8925496002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8927146002",
@@ -1892,7 +1874,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8927146002?gh_jid=8927146002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8927146002?gh_jid=8927146002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8927242002",
@@ -1910,7 +1892,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8927242002?gh_jid=8927242002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8927242002?gh_jid=8927242002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8927244002",
@@ -1928,7 +1910,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8927244002?gh_jid=8927244002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8927244002?gh_jid=8927244002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8927263002",
@@ -1946,7 +1928,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8927263002?gh_jid=8927263002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8927263002?gh_jid=8927263002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8927340002",
@@ -1964,7 +1946,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8927340002?gh_jid=8927340002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8927340002?gh_jid=8927340002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8927736002",
@@ -1982,7 +1964,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8927736002?gh_jid=8927736002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8927736002?gh_jid=8927736002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8927794002",
@@ -2000,7 +1982,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8927794002?gh_jid=8927794002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8927794002?gh_jid=8927794002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8927798002",
@@ -2018,7 +2000,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8927798002?gh_jid=8927798002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8927798002?gh_jid=8927798002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8927801002",
@@ -2036,7 +2018,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8927801002?gh_jid=8927801002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8927801002?gh_jid=8927801002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8930438002",
@@ -2054,7 +2036,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8930438002?gh_jid=8930438002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8930438002?gh_jid=8930438002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8931413002",
@@ -2072,7 +2054,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8931413002?gh_jid=8931413002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8931413002?gh_jid=8931413002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8935229002",
@@ -2090,7 +2072,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8935229002?gh_jid=8935229002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8935229002?gh_jid=8935229002",
       "first_seen": "2026-11-18T15:36:26Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8936180002",
@@ -2108,7 +2090,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8936180002?gh_jid=8936180002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8936180002?gh_jid=8936180002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8938458002",
@@ -2126,7 +2108,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8938458002?gh_jid=8938458002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8938458002?gh_jid=8938458002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8938484002",
@@ -2144,7 +2126,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8938484002?gh_jid=8938484002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8938484002?gh_jid=8938484002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8938558002",
@@ -2162,7 +2144,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8938558002?gh_jid=8938558002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8938558002?gh_jid=8938558002",
       "first_seen": "2026-11-19T15:42:04Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8938561002",
@@ -2180,7 +2162,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8938561002?gh_jid=8938561002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8938561002?gh_jid=8938561002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8938627002",
@@ -2198,7 +2180,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8938627002?gh_jid=8938627002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8938627002?gh_jid=8938627002",
       "first_seen": "2026-11-19T15:42:04Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8940409002",
@@ -2216,7 +2198,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8940409002?gh_jid=8940409002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8940409002?gh_jid=8940409002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8943100002",
@@ -2234,7 +2216,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8943100002?gh_jid=8943100002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8943100002?gh_jid=8943100002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8943123002",
@@ -2252,7 +2234,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8943123002?gh_jid=8943123002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8943123002?gh_jid=8943123002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8943182002",
@@ -2270,7 +2252,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8943182002?gh_jid=8943182002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8943182002?gh_jid=8943182002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8944658002",
@@ -2288,7 +2270,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8944658002?gh_jid=8944658002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8944658002?gh_jid=8944658002",
       "first_seen": "2026-11-18T15:36:26Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8944659002",
@@ -2306,7 +2288,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8944659002?gh_jid=8944659002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8944659002?gh_jid=8944659002",
       "first_seen": "2026-11-18T15:36:26Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8948514002",
@@ -2324,7 +2306,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8948514002?gh_jid=8948514002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8948514002?gh_jid=8948514002",
       "first_seen": "2026-11-18T15:36:26Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8948517002",
@@ -2342,7 +2324,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8948517002?gh_jid=8948517002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8948517002?gh_jid=8948517002",
       "first_seen": "2026-11-18T15:36:26Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8948519002",
@@ -2360,7 +2342,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8948519002?gh_jid=8948519002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8948519002?gh_jid=8948519002",
       "first_seen": "2026-11-18T15:36:26Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8948757002",
@@ -2378,7 +2360,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8948757002?gh_jid=8948757002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8948757002?gh_jid=8948757002",
       "first_seen": "2026-11-18T15:36:26Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8948773002",
@@ -2396,7 +2378,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8948773002?gh_jid=8948773002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8948773002?gh_jid=8948773002",
       "first_seen": "2026-11-18T15:36:26Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8948820002",
@@ -2414,7 +2396,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8948820002?gh_jid=8948820002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8948820002?gh_jid=8948820002",
       "first_seen": "2026-11-19T15:42:04Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8948822002",
@@ -2432,7 +2414,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8948822002?gh_jid=8948822002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8948822002?gh_jid=8948822002",
       "first_seen": "2026-11-19T15:42:04Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8950102002",
@@ -2450,7 +2432,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8950102002?gh_jid=8950102002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8950102002?gh_jid=8950102002",
       "first_seen": "2026-11-19T15:42:04Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8950105002",
@@ -2468,7 +2450,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8950105002?gh_jid=8950105002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8950105002?gh_jid=8950105002",
       "first_seen": "2026-11-19T15:42:04Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8952091002",
@@ -2486,7 +2468,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8952091002?gh_jid=8952091002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8952091002?gh_jid=8952091002",
       "first_seen": "2026-11-20T15:23:49Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8952093002",
@@ -2504,7 +2486,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8952093002?gh_jid=8952093002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8952093002?gh_jid=8952093002",
       "first_seen": "2026-11-20T15:23:49Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8952130002",
@@ -2522,7 +2504,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8952130002?gh_jid=8952130002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8952130002?gh_jid=8952130002",
       "first_seen": "2026-11-26T16:50:55Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8952244002",
@@ -2540,7 +2522,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8952244002?gh_jid=8952244002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8952244002?gh_jid=8952244002",
       "first_seen": "2026-11-20T15:23:49Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8952328002",
@@ -2558,7 +2540,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8952328002?gh_jid=8952328002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8952328002?gh_jid=8952328002",
       "first_seen": "2026-11-21T14:37:10Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8957556002",
@@ -2576,7 +2558,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8957556002?gh_jid=8957556002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8957556002?gh_jid=8957556002",
       "first_seen": "2026-11-21T14:37:10Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8957597002",
@@ -2594,7 +2576,7 @@
       "source_url": "https://app.careerpuck.com/job-board/lyft/job/8957597002?gh_jid=8957597002",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8957597002?gh_jid=8957597002",
       "first_seen": "2026-11-21T14:37:10Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     }
   ],
   "ats": "greenhouse",

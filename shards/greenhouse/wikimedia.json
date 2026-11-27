@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-26T16:50:55Z",
+  "checked_at": "2026-11-27T16:35:48Z",
   "failed_at": null,
   "etag": "W/\"ed46a351662b4a67009a8c553deee5bd\"",
   "jobs": [
@@ -20,7 +20,7 @@
       "source_url": "https://job-boards.greenhouse.io/wikimedia/jobs/8127761",
       "apply_url": "https://job-boards.greenhouse.io/wikimedia/jobs/8127761",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8138079",
@@ -38,7 +38,7 @@
       "source_url": "https://job-boards.greenhouse.io/wikimedia/jobs/8138079",
       "apply_url": "https://job-boards.greenhouse.io/wikimedia/jobs/8138079",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8210560",
@@ -56,7 +56,7 @@
       "source_url": "https://job-boards.greenhouse.io/wikimedia/jobs/8210560",
       "apply_url": "https://job-boards.greenhouse.io/wikimedia/jobs/8210560",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8248898",
@@ -74,7 +74,7 @@
       "source_url": "https://job-boards.greenhouse.io/wikimedia/jobs/8248898",
       "apply_url": "https://job-boards.greenhouse.io/wikimedia/jobs/8248898",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8268142",
@@ -92,7 +92,7 @@
       "source_url": "https://job-boards.greenhouse.io/wikimedia/jobs/8268142",
       "apply_url": "https://job-boards.greenhouse.io/wikimedia/jobs/8268142",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8280142",
@@ -110,7 +110,7 @@
       "source_url": "https://job-boards.greenhouse.io/wikimedia/jobs/8280142",
       "apply_url": "https://job-boards.greenhouse.io/wikimedia/jobs/8280142",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8287113",
@@ -128,7 +128,7 @@
       "source_url": "https://job-boards.greenhouse.io/wikimedia/jobs/8287113",
       "apply_url": "https://job-boards.greenhouse.io/wikimedia/jobs/8287113",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8319366",
@@ -146,7 +146,7 @@
       "source_url": "https://job-boards.greenhouse.io/wikimedia/jobs/8319366",
       "apply_url": "https://job-boards.greenhouse.io/wikimedia/jobs/8319366",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8346045",
@@ -164,7 +164,7 @@
       "source_url": "https://job-boards.greenhouse.io/wikimedia/jobs/8346045",
       "apply_url": "https://job-boards.greenhouse.io/wikimedia/jobs/8346045",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8356208",
@@ -182,7 +182,7 @@
       "source_url": "https://job-boards.greenhouse.io/wikimedia/jobs/8356208",
       "apply_url": "https://job-boards.greenhouse.io/wikimedia/jobs/8356208",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8367429",
@@ -200,7 +200,7 @@
       "source_url": "https://job-boards.greenhouse.io/wikimedia/jobs/8367429",
       "apply_url": "https://job-boards.greenhouse.io/wikimedia/jobs/8367429",
       "first_seen": "2026-11-25T17:09:22Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8397050",
@@ -218,7 +218,7 @@
       "source_url": "https://job-boards.greenhouse.io/wikimedia/jobs/8397050",
       "apply_url": "https://job-boards.greenhouse.io/wikimedia/jobs/8397050",
       "first_seen": "2026-11-18T15:36:26Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8405468",
@@ -236,7 +236,7 @@
       "source_url": "https://job-boards.greenhouse.io/wikimedia/jobs/8405468",
       "apply_url": "https://job-boards.greenhouse.io/wikimedia/jobs/8405468",
       "first_seen": "2026-11-23T18:00:07Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     }
   ],
   "ats": "greenhouse",

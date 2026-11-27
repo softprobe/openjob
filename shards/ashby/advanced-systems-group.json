@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-26T16:50:55Z",
+  "checked_at": "2026-11-27T16:35:48Z",
   "failed_at": null,
   "etag": "W/\"job-board:d59a473b161867c12a347157e631f57d85e4bd13a637b2d3b4cb2bda37197895\"",
   "jobs": [
@@ -20,7 +20,7 @@
       "source_url": "https://jobs.ashbyhq.com/advanced-systems-group/03ed60cd-152c-467e-aee6-9b3c7d1cd704",
       "apply_url": "https://jobs.ashbyhq.com/advanced-systems-group/03ed60cd-152c-467e-aee6-9b3c7d1cd704/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "0424d5e9-2d45-4b2c-bd3f-76a9ed867de4",
@@ -38,7 +38,7 @@
       "source_url": "https://jobs.ashbyhq.com/advanced-systems-group/0424d5e9-2d45-4b2c-bd3f-76a9ed867de4",
       "apply_url": "https://jobs.ashbyhq.com/advanced-systems-group/0424d5e9-2d45-4b2c-bd3f-76a9ed867de4/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "0c22e52e-7baf-4415-be01-f60504fe895b",
@@ -56,7 +56,7 @@
       "source_url": "https://jobs.ashbyhq.com/advanced-systems-group/0c22e52e-7baf-4415-be01-f60504fe895b",
       "apply_url": "https://jobs.ashbyhq.com/advanced-systems-group/0c22e52e-7baf-4415-be01-f60504fe895b/application",
       "first_seen": "2026-11-19T15:42:04Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "0fca15e3-073d-492d-ba23-faaaf5837587",
@@ -74,7 +74,7 @@
       "source_url": "https://jobs.ashbyhq.com/advanced-systems-group/0fca15e3-073d-492d-ba23-faaaf5837587",
       "apply_url": "https://jobs.ashbyhq.com/advanced-systems-group/0fca15e3-073d-492d-ba23-faaaf5837587/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "27dd9536-9843-43b8-b1c5-a7e0d9aacea6",
@@ -92,7 +92,7 @@
       "source_url": "https://jobs.ashbyhq.com/advanced-systems-group/27dd9536-9843-43b8-b1c5-a7e0d9aacea6",
       "apply_url": "https://jobs.ashbyhq.com/advanced-systems-group/27dd9536-9843-43b8-b1c5-a7e0d9aacea6/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "2fa0a6fd-efca-4ff8-b382-a67869d83c84",
@@ -110,7 +110,7 @@
       "source_url": "https://jobs.ashbyhq.com/advanced-systems-group/2fa0a6fd-efca-4ff8-b382-a67869d83c84",
       "apply_url": "https://jobs.ashbyhq.com/advanced-systems-group/2fa0a6fd-efca-4ff8-b382-a67869d83c84/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "518da581-abae-4b0f-a544-1f69db26dae1",
@@ -128,7 +128,7 @@
       "source_url": "https://jobs.ashbyhq.com/advanced-systems-group/518da581-abae-4b0f-a544-1f69db26dae1",
       "apply_url": "https://jobs.ashbyhq.com/advanced-systems-group/518da581-abae-4b0f-a544-1f69db26dae1/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "56273871-6f33-45e0-a6b1-db8388ccc0f4",
@@ -146,7 +146,7 @@
       "source_url": "https://jobs.ashbyhq.com/advanced-systems-group/56273871-6f33-45e0-a6b1-db8388ccc0f4",
       "apply_url": "https://jobs.ashbyhq.com/advanced-systems-group/56273871-6f33-45e0-a6b1-db8388ccc0f4/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "65d8a80d-65ad-41a9-bba3-a9055959edd0",
@@ -164,7 +164,7 @@
       "source_url": "https://jobs.ashbyhq.com/advanced-systems-group/65d8a80d-65ad-41a9-bba3-a9055959edd0",
       "apply_url": "https://jobs.ashbyhq.com/advanced-systems-group/65d8a80d-65ad-41a9-bba3-a9055959edd0/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "6f804754-0610-4371-ac38-999aed01dab6",
@@ -182,7 +182,7 @@
       "source_url": "https://jobs.ashbyhq.com/advanced-systems-group/6f804754-0610-4371-ac38-999aed01dab6",
       "apply_url": "https://jobs.ashbyhq.com/advanced-systems-group/6f804754-0610-4371-ac38-999aed01dab6/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "72c59e14-b95a-49dd-813d-5b5971f4ef1f",
@@ -200,7 +200,7 @@
       "source_url": "https://jobs.ashbyhq.com/advanced-systems-group/72c59e14-b95a-49dd-813d-5b5971f4ef1f",
       "apply_url": "https://jobs.ashbyhq.com/advanced-systems-group/72c59e14-b95a-49dd-813d-5b5971f4ef1f/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8db3089e-96e6-4f33-a82e-4d8dc417cfc3",
@@ -218,7 +218,7 @@
       "source_url": "https://jobs.ashbyhq.com/advanced-systems-group/8db3089e-96e6-4f33-a82e-4d8dc417cfc3",
       "apply_url": "https://jobs.ashbyhq.com/advanced-systems-group/8db3089e-96e6-4f33-a82e-4d8dc417cfc3/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "9ba069d9-7daa-4ef8-98ee-2658e25782a5",
@@ -236,7 +236,7 @@
       "source_url": "https://jobs.ashbyhq.com/advanced-systems-group/9ba069d9-7daa-4ef8-98ee-2658e25782a5",
       "apply_url": "https://jobs.ashbyhq.com/advanced-systems-group/9ba069d9-7daa-4ef8-98ee-2658e25782a5/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "9d0e5d6f-a721-44a5-8216-3a610c7f223e",
@@ -254,7 +254,7 @@
       "source_url": "https://jobs.ashbyhq.com/advanced-systems-group/9d0e5d6f-a721-44a5-8216-3a610c7f223e",
       "apply_url": "https://jobs.ashbyhq.com/advanced-systems-group/9d0e5d6f-a721-44a5-8216-3a610c7f223e/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "9d23ee77-b657-447d-b6c0-a5f346e1cf53",
@@ -272,7 +272,7 @@
       "source_url": "https://jobs.ashbyhq.com/advanced-systems-group/9d23ee77-b657-447d-b6c0-a5f346e1cf53",
       "apply_url": "https://jobs.ashbyhq.com/advanced-systems-group/9d23ee77-b657-447d-b6c0-a5f346e1cf53/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "a0d0253a-4512-4481-8de9-b2bf1129de26",
@@ -290,7 +290,7 @@
       "source_url": "https://jobs.ashbyhq.com/advanced-systems-group/a0d0253a-4512-4481-8de9-b2bf1129de26",
       "apply_url": "https://jobs.ashbyhq.com/advanced-systems-group/a0d0253a-4512-4481-8de9-b2bf1129de26/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "a22e7fde-e418-4884-a3e7-1b3ceed38342",
@@ -308,7 +308,7 @@
       "source_url": "https://jobs.ashbyhq.com/advanced-systems-group/a22e7fde-e418-4884-a3e7-1b3ceed38342",
       "apply_url": "https://jobs.ashbyhq.com/advanced-systems-group/a22e7fde-e418-4884-a3e7-1b3ceed38342/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "a4223175-1288-4156-992e-d6bc8fdb76f4",
@@ -326,7 +326,7 @@
       "source_url": "https://jobs.ashbyhq.com/advanced-systems-group/a4223175-1288-4156-992e-d6bc8fdb76f4",
       "apply_url": "https://jobs.ashbyhq.com/advanced-systems-group/a4223175-1288-4156-992e-d6bc8fdb76f4/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "aa45e3e4-fcf1-4a04-92ad-da02fa0680c0",
@@ -344,7 +344,7 @@
       "source_url": "https://jobs.ashbyhq.com/advanced-systems-group/aa45e3e4-fcf1-4a04-92ad-da02fa0680c0",
       "apply_url": "https://jobs.ashbyhq.com/advanced-systems-group/aa45e3e4-fcf1-4a04-92ad-da02fa0680c0/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "af4bcf7f-6a91-442e-befc-d84d629f4ac3",
@@ -362,7 +362,7 @@
       "source_url": "https://jobs.ashbyhq.com/advanced-systems-group/af4bcf7f-6a91-442e-befc-d84d629f4ac3",
       "apply_url": "https://jobs.ashbyhq.com/advanced-systems-group/af4bcf7f-6a91-442e-befc-d84d629f4ac3/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "b94f4b15-cd51-4aef-9075-e319ff001018",
@@ -380,7 +380,7 @@
       "source_url": "https://jobs.ashbyhq.com/advanced-systems-group/b94f4b15-cd51-4aef-9075-e319ff001018",
       "apply_url": "https://jobs.ashbyhq.com/advanced-systems-group/b94f4b15-cd51-4aef-9075-e319ff001018/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "b9774506-54d4-45ac-8924-52dc8846ac77",
@@ -398,7 +398,7 @@
       "source_url": "https://jobs.ashbyhq.com/advanced-systems-group/b9774506-54d4-45ac-8924-52dc8846ac77",
       "apply_url": "https://jobs.ashbyhq.com/advanced-systems-group/b9774506-54d4-45ac-8924-52dc8846ac77/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "c35cea3a-9bc5-4065-bcca-73db6bcae4db",
@@ -416,7 +416,7 @@
       "source_url": "https://jobs.ashbyhq.com/advanced-systems-group/c35cea3a-9bc5-4065-bcca-73db6bcae4db",
       "apply_url": "https://jobs.ashbyhq.com/advanced-systems-group/c35cea3a-9bc5-4065-bcca-73db6bcae4db/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "c94ba05d-1b2a-492d-8a2c-0ea683a28919",
@@ -434,7 +434,7 @@
       "source_url": "https://jobs.ashbyhq.com/advanced-systems-group/c94ba05d-1b2a-492d-8a2c-0ea683a28919",
       "apply_url": "https://jobs.ashbyhq.com/advanced-systems-group/c94ba05d-1b2a-492d-8a2c-0ea683a28919/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "cbeec92a-2973-42c1-89fb-66d1899c5ceb",
@@ -452,7 +452,7 @@
       "source_url": "https://jobs.ashbyhq.com/advanced-systems-group/cbeec92a-2973-42c1-89fb-66d1899c5ceb",
       "apply_url": "https://jobs.ashbyhq.com/advanced-systems-group/cbeec92a-2973-42c1-89fb-66d1899c5ceb/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "cc71da55-c15c-4758-ac85-59625376385c",
@@ -470,7 +470,7 @@
       "source_url": "https://jobs.ashbyhq.com/advanced-systems-group/cc71da55-c15c-4758-ac85-59625376385c",
       "apply_url": "https://jobs.ashbyhq.com/advanced-systems-group/cc71da55-c15c-4758-ac85-59625376385c/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "d269b45a-fb49-415e-9c35-b8057413130c",
@@ -488,7 +488,7 @@
       "source_url": "https://jobs.ashbyhq.com/advanced-systems-group/d269b45a-fb49-415e-9c35-b8057413130c",
       "apply_url": "https://jobs.ashbyhq.com/advanced-systems-group/d269b45a-fb49-415e-9c35-b8057413130c/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "db3bb428-cbff-4676-80f7-98015f433411",
@@ -506,7 +506,7 @@
       "source_url": "https://jobs.ashbyhq.com/advanced-systems-group/db3bb428-cbff-4676-80f7-98015f433411",
       "apply_url": "https://jobs.ashbyhq.com/advanced-systems-group/db3bb428-cbff-4676-80f7-98015f433411/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "e311aed9-dedf-4e0f-97e9-f9b9d745244f",
@@ -524,7 +524,7 @@
       "source_url": "https://jobs.ashbyhq.com/advanced-systems-group/e311aed9-dedf-4e0f-97e9-f9b9d745244f",
       "apply_url": "https://jobs.ashbyhq.com/advanced-systems-group/e311aed9-dedf-4e0f-97e9-f9b9d745244f/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "e85f3529-b0a7-4af2-a092-75528bee7ae8",
@@ -542,7 +542,7 @@
       "source_url": "https://jobs.ashbyhq.com/advanced-systems-group/e85f3529-b0a7-4af2-a092-75528bee7ae8",
       "apply_url": "https://jobs.ashbyhq.com/advanced-systems-group/e85f3529-b0a7-4af2-a092-75528bee7ae8/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     }
   ],
   "ats": "ashby",

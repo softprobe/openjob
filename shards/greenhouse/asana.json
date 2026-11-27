@@ -1,8 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-26T16:50:55Z",
+  "checked_at": "2026-11-27T16:35:48Z",
   "failed_at": null,
-  "etag": "W/\"dc26aa5fb1874a3724b94e7174a6fa9f\"",
+  "etag": "W/\"0f3b4dbc27d5f70f5398775cc951fff1\"",
   "jobs": [
     {
       "id": "6352958",
@@ -20,7 +20,7 @@
       "source_url": "https://www.asana.com/jobs/apply/6352958?gh_jid=6352958",
       "apply_url": "https://www.asana.com/jobs/apply/6352958?gh_jid=6352958",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "6981655",
@@ -38,7 +38,7 @@
       "source_url": "https://www.asana.com/jobs/apply/6981655?gh_jid=6981655",
       "apply_url": "https://www.asana.com/jobs/apply/6981655?gh_jid=6981655",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "7350641",
@@ -56,7 +56,7 @@
       "source_url": "https://www.asana.com/jobs/apply/7350641?gh_jid=7350641",
       "apply_url": "https://www.asana.com/jobs/apply/7350641?gh_jid=7350641",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "7380414",
@@ -74,7 +74,7 @@
       "source_url": "https://www.asana.com/jobs/apply/7380414?gh_jid=7380414",
       "apply_url": "https://www.asana.com/jobs/apply/7380414?gh_jid=7380414",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "7586914",
@@ -92,7 +92,7 @@
       "source_url": "https://www.asana.com/jobs/apply/7586914?gh_jid=7586914",
       "apply_url": "https://www.asana.com/jobs/apply/7586914?gh_jid=7586914",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "7586966",
@@ -110,7 +110,7 @@
       "source_url": "https://www.asana.com/jobs/apply/7586966?gh_jid=7586966",
       "apply_url": "https://www.asana.com/jobs/apply/7586966?gh_jid=7586966",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "7587002",
@@ -128,7 +128,7 @@
       "source_url": "https://www.asana.com/jobs/apply/7587002?gh_jid=7587002",
       "apply_url": "https://www.asana.com/jobs/apply/7587002?gh_jid=7587002",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "7594694",
@@ -146,7 +146,7 @@
       "source_url": "https://www.asana.com/jobs/apply/7594694?gh_jid=7594694",
       "apply_url": "https://www.asana.com/jobs/apply/7594694?gh_jid=7594694",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "7629129",
@@ -164,7 +164,7 @@
       "source_url": "https://www.asana.com/jobs/apply/7629129?gh_jid=7629129",
       "apply_url": "https://www.asana.com/jobs/apply/7629129?gh_jid=7629129",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "7776446",
@@ -182,7 +182,7 @@
       "source_url": "https://www.asana.com/jobs/apply/7776446?gh_jid=7776446",
       "apply_url": "https://www.asana.com/jobs/apply/7776446?gh_jid=7776446",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "7821585",
@@ -200,7 +200,7 @@
       "source_url": "https://www.asana.com/jobs/apply/7821585?gh_jid=7821585",
       "apply_url": "https://www.asana.com/jobs/apply/7821585?gh_jid=7821585",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "7867211",
@@ -218,7 +218,7 @@
       "source_url": "https://www.asana.com/jobs/apply/7867211?gh_jid=7867211",
       "apply_url": "https://www.asana.com/jobs/apply/7867211?gh_jid=7867211",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "7961454",
@@ -236,7 +236,7 @@
       "source_url": "https://www.asana.com/jobs/apply/7961454?gh_jid=7961454",
       "apply_url": "https://www.asana.com/jobs/apply/7961454?gh_jid=7961454",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "7962306",
@@ -254,25 +254,7 @@
       "source_url": "https://www.asana.com/jobs/apply/7962306?gh_jid=7962306",
       "apply_url": "https://www.asana.com/jobs/apply/7962306?gh_jid=7962306",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
-    },
-    {
-      "id": "7962348",
-      "title": "Senior Software Engineer, AI",
-      "company": "Asana",
-      "location": "Vancouver, BC",
-      "remote": "unspecified",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-05-29",
-      "updated": "2026-11-09",
-      "deadline": "",
-      "source_url": "https://www.asana.com/jobs/apply/7962348?gh_jid=7962348",
-      "apply_url": "https://www.asana.com/jobs/apply/7962348?gh_jid=7962348",
-      "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "7964157",
@@ -290,7 +272,7 @@
       "source_url": "https://www.asana.com/jobs/apply/7964157?gh_jid=7964157",
       "apply_url": "https://www.asana.com/jobs/apply/7964157?gh_jid=7964157",
       "first_seen": "2026-11-18T15:36:26Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "7964297",
@@ -308,7 +290,7 @@
       "source_url": "https://www.asana.com/jobs/apply/7964297?gh_jid=7964297",
       "apply_url": "https://www.asana.com/jobs/apply/7964297?gh_jid=7964297",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "7964316",
@@ -326,7 +308,7 @@
       "source_url": "https://www.asana.com/jobs/apply/7964316?gh_jid=7964316",
       "apply_url": "https://www.asana.com/jobs/apply/7964316?gh_jid=7964316",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "7964317",
@@ -344,7 +326,7 @@
       "source_url": "https://www.asana.com/jobs/apply/7964317?gh_jid=7964317",
       "apply_url": "https://www.asana.com/jobs/apply/7964317?gh_jid=7964317",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "7964361",
@@ -362,7 +344,7 @@
       "source_url": "https://www.asana.com/jobs/apply/7964361?gh_jid=7964361",
       "apply_url": "https://www.asana.com/jobs/apply/7964361?gh_jid=7964361",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "7964388",
@@ -380,7 +362,7 @@
       "source_url": "https://www.asana.com/jobs/apply/7964388?gh_jid=7964388",
       "apply_url": "https://www.asana.com/jobs/apply/7964388?gh_jid=7964388",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "7964420",
@@ -398,7 +380,7 @@
       "source_url": "https://www.asana.com/jobs/apply/7964420?gh_jid=7964420",
       "apply_url": "https://www.asana.com/jobs/apply/7964420?gh_jid=7964420",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "7964484",
@@ -416,7 +398,7 @@
       "source_url": "https://www.asana.com/jobs/apply/7964484?gh_jid=7964484",
       "apply_url": "https://www.asana.com/jobs/apply/7964484?gh_jid=7964484",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "7968157",
@@ -434,7 +416,7 @@
       "source_url": "https://www.asana.com/jobs/apply/7968157?gh_jid=7968157",
       "apply_url": "https://www.asana.com/jobs/apply/7968157?gh_jid=7968157",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "7977717",
@@ -452,7 +434,7 @@
       "source_url": "https://www.asana.com/jobs/apply/7977717?gh_jid=7977717",
       "apply_url": "https://www.asana.com/jobs/apply/7977717?gh_jid=7977717",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "7979918",
@@ -470,7 +452,7 @@
       "source_url": "https://www.asana.com/jobs/apply/7979918?gh_jid=7979918",
       "apply_url": "https://www.asana.com/jobs/apply/7979918?gh_jid=7979918",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8017552",
@@ -488,7 +470,7 @@
       "source_url": "https://www.asana.com/jobs/apply/8017552?gh_jid=8017552",
       "apply_url": "https://www.asana.com/jobs/apply/8017552?gh_jid=8017552",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8027399",
@@ -506,7 +488,7 @@
       "source_url": "https://www.asana.com/jobs/apply/8027399?gh_jid=8027399",
       "apply_url": "https://www.asana.com/jobs/apply/8027399?gh_jid=8027399",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8044811",
@@ -524,7 +506,7 @@
       "source_url": "https://www.asana.com/jobs/apply/8044811?gh_jid=8044811",
       "apply_url": "https://www.asana.com/jobs/apply/8044811?gh_jid=8044811",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8092044",
@@ -542,7 +524,7 @@
       "source_url": "https://www.asana.com/jobs/apply/8092044?gh_jid=8092044",
       "apply_url": "https://www.asana.com/jobs/apply/8092044?gh_jid=8092044",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8095555",
@@ -560,7 +542,7 @@
       "source_url": "https://www.asana.com/jobs/apply/8095555?gh_jid=8095555",
       "apply_url": "https://www.asana.com/jobs/apply/8095555?gh_jid=8095555",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8098020",
@@ -578,7 +560,7 @@
       "source_url": "https://www.asana.com/jobs/apply/8098020?gh_jid=8098020",
       "apply_url": "https://www.asana.com/jobs/apply/8098020?gh_jid=8098020",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8121619",
@@ -596,7 +578,7 @@
       "source_url": "https://www.asana.com/jobs/apply/8121619?gh_jid=8121619",
       "apply_url": "https://www.asana.com/jobs/apply/8121619?gh_jid=8121619",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8137748",
@@ -614,7 +596,7 @@
       "source_url": "https://www.asana.com/jobs/apply/8137748?gh_jid=8137748",
       "apply_url": "https://www.asana.com/jobs/apply/8137748?gh_jid=8137748",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8137817",
@@ -632,7 +614,7 @@
       "source_url": "https://www.asana.com/jobs/apply/8137817?gh_jid=8137817",
       "apply_url": "https://www.asana.com/jobs/apply/8137817?gh_jid=8137817",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8140029",
@@ -650,7 +632,7 @@
       "source_url": "https://www.asana.com/jobs/apply/8140029?gh_jid=8140029",
       "apply_url": "https://www.asana.com/jobs/apply/8140029?gh_jid=8140029",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8154796",
@@ -668,7 +650,7 @@
       "source_url": "https://www.asana.com/jobs/apply/8154796?gh_jid=8154796",
       "apply_url": "https://www.asana.com/jobs/apply/8154796?gh_jid=8154796",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8163416",
@@ -686,7 +668,7 @@
       "source_url": "https://www.asana.com/jobs/apply/8163416?gh_jid=8163416",
       "apply_url": "https://www.asana.com/jobs/apply/8163416?gh_jid=8163416",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8177854",
@@ -704,7 +686,7 @@
       "source_url": "https://www.asana.com/jobs/apply/8177854?gh_jid=8177854",
       "apply_url": "https://www.asana.com/jobs/apply/8177854?gh_jid=8177854",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8180874",
@@ -722,7 +704,7 @@
       "source_url": "https://www.asana.com/jobs/apply/8180874?gh_jid=8180874",
       "apply_url": "https://www.asana.com/jobs/apply/8180874?gh_jid=8180874",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8188918",
@@ -740,7 +722,7 @@
       "source_url": "https://www.asana.com/jobs/apply/8188918?gh_jid=8188918",
       "apply_url": "https://www.asana.com/jobs/apply/8188918?gh_jid=8188918",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8189734",
@@ -758,7 +740,7 @@
       "source_url": "https://www.asana.com/jobs/apply/8189734?gh_jid=8189734",
       "apply_url": "https://www.asana.com/jobs/apply/8189734?gh_jid=8189734",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8194380",
@@ -776,7 +758,7 @@
       "source_url": "https://www.asana.com/jobs/apply/8194380?gh_jid=8194380",
       "apply_url": "https://www.asana.com/jobs/apply/8194380?gh_jid=8194380",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8194410",
@@ -794,7 +776,7 @@
       "source_url": "https://www.asana.com/jobs/apply/8194410?gh_jid=8194410",
       "apply_url": "https://www.asana.com/jobs/apply/8194410?gh_jid=8194410",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8194506",
@@ -812,7 +794,7 @@
       "source_url": "https://www.asana.com/jobs/apply/8194506?gh_jid=8194506",
       "apply_url": "https://www.asana.com/jobs/apply/8194506?gh_jid=8194506",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8212172",
@@ -830,7 +812,7 @@
       "source_url": "https://www.asana.com/jobs/apply/8212172?gh_jid=8212172",
       "apply_url": "https://www.asana.com/jobs/apply/8212172?gh_jid=8212172",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8213887",
@@ -848,7 +830,7 @@
       "source_url": "https://www.asana.com/jobs/apply/8213887?gh_jid=8213887",
       "apply_url": "https://www.asana.com/jobs/apply/8213887?gh_jid=8213887",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8214792",
@@ -866,7 +848,7 @@
       "source_url": "https://www.asana.com/jobs/apply/8214792?gh_jid=8214792",
       "apply_url": "https://www.asana.com/jobs/apply/8214792?gh_jid=8214792",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8214906",
@@ -884,7 +866,7 @@
       "source_url": "https://www.asana.com/jobs/apply/8214906?gh_jid=8214906",
       "apply_url": "https://www.asana.com/jobs/apply/8214906?gh_jid=8214906",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8221174",
@@ -902,7 +884,7 @@
       "source_url": "https://www.asana.com/jobs/apply/8221174?gh_jid=8221174",
       "apply_url": "https://www.asana.com/jobs/apply/8221174?gh_jid=8221174",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8226969",
@@ -920,7 +902,7 @@
       "source_url": "https://www.asana.com/jobs/apply/8226969?gh_jid=8226969",
       "apply_url": "https://www.asana.com/jobs/apply/8226969?gh_jid=8226969",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8227150",
@@ -938,7 +920,7 @@
       "source_url": "https://www.asana.com/jobs/apply/8227150?gh_jid=8227150",
       "apply_url": "https://www.asana.com/jobs/apply/8227150?gh_jid=8227150",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8244205",
@@ -956,7 +938,7 @@
       "source_url": "https://www.asana.com/jobs/apply/8244205?gh_jid=8244205",
       "apply_url": "https://www.asana.com/jobs/apply/8244205?gh_jid=8244205",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8244347",
@@ -974,7 +956,7 @@
       "source_url": "https://www.asana.com/jobs/apply/8244347?gh_jid=8244347",
       "apply_url": "https://www.asana.com/jobs/apply/8244347?gh_jid=8244347",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8244380",
@@ -992,7 +974,7 @@
       "source_url": "https://www.asana.com/jobs/apply/8244380?gh_jid=8244380",
       "apply_url": "https://www.asana.com/jobs/apply/8244380?gh_jid=8244380",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8257464",
@@ -1010,7 +992,7 @@
       "source_url": "https://www.asana.com/jobs/apply/8257464?gh_jid=8257464",
       "apply_url": "https://www.asana.com/jobs/apply/8257464?gh_jid=8257464",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8262890",
@@ -1028,7 +1010,7 @@
       "source_url": "https://www.asana.com/jobs/apply/8262890?gh_jid=8262890",
       "apply_url": "https://www.asana.com/jobs/apply/8262890?gh_jid=8262890",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8264089",
@@ -1046,7 +1028,7 @@
       "source_url": "https://www.asana.com/jobs/apply/8264089?gh_jid=8264089",
       "apply_url": "https://www.asana.com/jobs/apply/8264089?gh_jid=8264089",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8264096",
@@ -1064,7 +1046,7 @@
       "source_url": "https://www.asana.com/jobs/apply/8264096?gh_jid=8264096",
       "apply_url": "https://www.asana.com/jobs/apply/8264096?gh_jid=8264096",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8268877",
@@ -1082,7 +1064,7 @@
       "source_url": "https://www.asana.com/jobs/apply/8268877?gh_jid=8268877",
       "apply_url": "https://www.asana.com/jobs/apply/8268877?gh_jid=8268877",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8275101",
@@ -1100,7 +1082,7 @@
       "source_url": "https://www.asana.com/jobs/apply/8275101?gh_jid=8275101",
       "apply_url": "https://www.asana.com/jobs/apply/8275101?gh_jid=8275101",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8275149",
@@ -1118,7 +1100,7 @@
       "source_url": "https://www.asana.com/jobs/apply/8275149?gh_jid=8275149",
       "apply_url": "https://www.asana.com/jobs/apply/8275149?gh_jid=8275149",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8275152",
@@ -1136,7 +1118,7 @@
       "source_url": "https://www.asana.com/jobs/apply/8275152?gh_jid=8275152",
       "apply_url": "https://www.asana.com/jobs/apply/8275152?gh_jid=8275152",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8279050",
@@ -1154,7 +1136,7 @@
       "source_url": "https://www.asana.com/jobs/apply/8279050?gh_jid=8279050",
       "apply_url": "https://www.asana.com/jobs/apply/8279050?gh_jid=8279050",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8282422",
@@ -1172,7 +1154,7 @@
       "source_url": "https://www.asana.com/jobs/apply/8282422?gh_jid=8282422",
       "apply_url": "https://www.asana.com/jobs/apply/8282422?gh_jid=8282422",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8282518",
@@ -1190,7 +1172,7 @@
       "source_url": "https://www.asana.com/jobs/apply/8282518?gh_jid=8282518",
       "apply_url": "https://www.asana.com/jobs/apply/8282518?gh_jid=8282518",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8282522",
@@ -1208,7 +1190,7 @@
       "source_url": "https://www.asana.com/jobs/apply/8282522?gh_jid=8282522",
       "apply_url": "https://www.asana.com/jobs/apply/8282522?gh_jid=8282522",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8282574",
@@ -1226,7 +1208,7 @@
       "source_url": "https://www.asana.com/jobs/apply/8282574?gh_jid=8282574",
       "apply_url": "https://www.asana.com/jobs/apply/8282574?gh_jid=8282574",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8282814",
@@ -1244,7 +1226,7 @@
       "source_url": "https://www.asana.com/jobs/apply/8282814?gh_jid=8282814",
       "apply_url": "https://www.asana.com/jobs/apply/8282814?gh_jid=8282814",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8293698",
@@ -1262,7 +1244,7 @@
       "source_url": "https://www.asana.com/jobs/apply/8293698?gh_jid=8293698",
       "apply_url": "https://www.asana.com/jobs/apply/8293698?gh_jid=8293698",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8304535",
@@ -1280,7 +1262,7 @@
       "source_url": "https://www.asana.com/jobs/apply/8304535?gh_jid=8304535",
       "apply_url": "https://www.asana.com/jobs/apply/8304535?gh_jid=8304535",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8304591",
@@ -1298,7 +1280,7 @@
       "source_url": "https://www.asana.com/jobs/apply/8304591?gh_jid=8304591",
       "apply_url": "https://www.asana.com/jobs/apply/8304591?gh_jid=8304591",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8304597",
@@ -1316,7 +1298,7 @@
       "source_url": "https://www.asana.com/jobs/apply/8304597?gh_jid=8304597",
       "apply_url": "https://www.asana.com/jobs/apply/8304597?gh_jid=8304597",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8305286",
@@ -1334,7 +1316,7 @@
       "source_url": "https://www.asana.com/jobs/apply/8305286?gh_jid=8305286",
       "apply_url": "https://www.asana.com/jobs/apply/8305286?gh_jid=8305286",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8311197",
@@ -1352,7 +1334,7 @@
       "source_url": "https://www.asana.com/jobs/apply/8311197?gh_jid=8311197",
       "apply_url": "https://www.asana.com/jobs/apply/8311197?gh_jid=8311197",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8311577",
@@ -1370,7 +1352,7 @@
       "source_url": "https://www.asana.com/jobs/apply/8311577?gh_jid=8311577",
       "apply_url": "https://www.asana.com/jobs/apply/8311577?gh_jid=8311577",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8311992",
@@ -1388,7 +1370,7 @@
       "source_url": "https://www.asana.com/jobs/apply/8311992?gh_jid=8311992",
       "apply_url": "https://www.asana.com/jobs/apply/8311992?gh_jid=8311992",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8315830",
@@ -1406,7 +1388,7 @@
       "source_url": "https://www.asana.com/jobs/apply/8315830?gh_jid=8315830",
       "apply_url": "https://www.asana.com/jobs/apply/8315830?gh_jid=8315830",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8317270",
@@ -1424,7 +1406,7 @@
       "source_url": "https://www.asana.com/jobs/apply/8317270?gh_jid=8317270",
       "apply_url": "https://www.asana.com/jobs/apply/8317270?gh_jid=8317270",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8318046",
@@ -1442,7 +1424,7 @@
       "source_url": "https://www.asana.com/jobs/apply/8318046?gh_jid=8318046",
       "apply_url": "https://www.asana.com/jobs/apply/8318046?gh_jid=8318046",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8318674",
@@ -1460,7 +1442,7 @@
       "source_url": "https://www.asana.com/jobs/apply/8318674?gh_jid=8318674",
       "apply_url": "https://www.asana.com/jobs/apply/8318674?gh_jid=8318674",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8318702",
@@ -1478,7 +1460,7 @@
       "source_url": "https://www.asana.com/jobs/apply/8318702?gh_jid=8318702",
       "apply_url": "https://www.asana.com/jobs/apply/8318702?gh_jid=8318702",
       "first_seen": "2026-11-19T15:42:04Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8318739",
@@ -1496,25 +1478,7 @@
       "source_url": "https://www.asana.com/jobs/apply/8318739?gh_jid=8318739",
       "apply_url": "https://www.asana.com/jobs/apply/8318739?gh_jid=8318739",
       "first_seen": "2026-11-16T15:39:28Z",
-      "last_checked": "2026-11-26T16:50:55Z"
-    },
-    {
-      "id": "8319678",
-      "title": "Senior Software Engineer, AI",
-      "company": "Asana",
-      "location": "Vancouver, BC",
-      "remote": "unspecified",
-      "department": "",
-      "employment_type": "",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-10-23",
-      "updated": "2026-10-23",
-      "deadline": "",
-      "source_url": "https://www.asana.com/jobs/apply/8319678?gh_jid=8319678",
-      "apply_url": "https://www.asana.com/jobs/apply/8319678?gh_jid=8319678",
-      "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8326299",
@@ -1532,7 +1496,7 @@
       "source_url": "https://www.asana.com/jobs/apply/8326299?gh_jid=8326299",
       "apply_url": "https://www.asana.com/jobs/apply/8326299?gh_jid=8326299",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8326988",
@@ -1550,7 +1514,7 @@
       "source_url": "https://www.asana.com/jobs/apply/8326988?gh_jid=8326988",
       "apply_url": "https://www.asana.com/jobs/apply/8326988?gh_jid=8326988",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8331605",
@@ -1568,7 +1532,7 @@
       "source_url": "https://www.asana.com/jobs/apply/8331605?gh_jid=8331605",
       "apply_url": "https://www.asana.com/jobs/apply/8331605?gh_jid=8331605",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8335920",
@@ -1586,7 +1550,7 @@
       "source_url": "https://www.asana.com/jobs/apply/8335920?gh_jid=8335920",
       "apply_url": "https://www.asana.com/jobs/apply/8335920?gh_jid=8335920",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8335947",
@@ -1604,7 +1568,7 @@
       "source_url": "https://www.asana.com/jobs/apply/8335947?gh_jid=8335947",
       "apply_url": "https://www.asana.com/jobs/apply/8335947?gh_jid=8335947",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8337386",
@@ -1622,7 +1586,7 @@
       "source_url": "https://www.asana.com/jobs/apply/8337386?gh_jid=8337386",
       "apply_url": "https://www.asana.com/jobs/apply/8337386?gh_jid=8337386",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8338198",
@@ -1640,7 +1604,7 @@
       "source_url": "https://www.asana.com/jobs/apply/8338198?gh_jid=8338198",
       "apply_url": "https://www.asana.com/jobs/apply/8338198?gh_jid=8338198",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8338202",
@@ -1658,7 +1622,7 @@
       "source_url": "https://www.asana.com/jobs/apply/8338202?gh_jid=8338202",
       "apply_url": "https://www.asana.com/jobs/apply/8338202?gh_jid=8338202",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8338204",
@@ -1676,7 +1640,7 @@
       "source_url": "https://www.asana.com/jobs/apply/8338204?gh_jid=8338204",
       "apply_url": "https://www.asana.com/jobs/apply/8338204?gh_jid=8338204",
       "first_seen": "2026-11-23T18:00:07Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8349347",
@@ -1694,7 +1658,7 @@
       "source_url": "https://www.asana.com/jobs/apply/8349347?gh_jid=8349347",
       "apply_url": "https://www.asana.com/jobs/apply/8349347?gh_jid=8349347",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8350054",
@@ -1712,7 +1676,7 @@
       "source_url": "https://www.asana.com/jobs/apply/8350054?gh_jid=8350054",
       "apply_url": "https://www.asana.com/jobs/apply/8350054?gh_jid=8350054",
       "first_seen": "2026-11-24T17:38:09Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8355820",
@@ -1730,7 +1694,7 @@
       "source_url": "https://www.asana.com/jobs/apply/8355820?gh_jid=8355820",
       "apply_url": "https://www.asana.com/jobs/apply/8355820?gh_jid=8355820",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8357119",
@@ -1748,7 +1712,7 @@
       "source_url": "https://www.asana.com/jobs/apply/8357119?gh_jid=8357119",
       "apply_url": "https://www.asana.com/jobs/apply/8357119?gh_jid=8357119",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8357334",
@@ -1766,7 +1730,7 @@
       "source_url": "https://www.asana.com/jobs/apply/8357334?gh_jid=8357334",
       "apply_url": "https://www.asana.com/jobs/apply/8357334?gh_jid=8357334",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8367544",
@@ -1784,7 +1748,7 @@
       "source_url": "https://www.asana.com/jobs/apply/8367544?gh_jid=8367544",
       "apply_url": "https://www.asana.com/jobs/apply/8367544?gh_jid=8367544",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8369132",
@@ -1802,7 +1766,7 @@
       "source_url": "https://www.asana.com/jobs/apply/8369132?gh_jid=8369132",
       "apply_url": "https://www.asana.com/jobs/apply/8369132?gh_jid=8369132",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8369137",
@@ -1820,7 +1784,7 @@
       "source_url": "https://www.asana.com/jobs/apply/8369137?gh_jid=8369137",
       "apply_url": "https://www.asana.com/jobs/apply/8369137?gh_jid=8369137",
       "first_seen": "2026-11-25T17:09:22Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8370078",
@@ -1838,7 +1802,7 @@
       "source_url": "https://www.asana.com/jobs/apply/8370078?gh_jid=8370078",
       "apply_url": "https://www.asana.com/jobs/apply/8370078?gh_jid=8370078",
       "first_seen": "2026-11-16T15:39:28Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8375265",
@@ -1856,7 +1820,7 @@
       "source_url": "https://www.asana.com/jobs/apply/8375265?gh_jid=8375265",
       "apply_url": "https://www.asana.com/jobs/apply/8375265?gh_jid=8375265",
       "first_seen": "2026-11-19T15:42:04Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8375451",
@@ -1874,7 +1838,7 @@
       "source_url": "https://www.asana.com/jobs/apply/8375451?gh_jid=8375451",
       "apply_url": "https://www.asana.com/jobs/apply/8375451?gh_jid=8375451",
       "first_seen": "2026-11-16T15:39:28Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8379094",
@@ -1892,7 +1856,7 @@
       "source_url": "https://www.asana.com/jobs/apply/8379094?gh_jid=8379094",
       "apply_url": "https://www.asana.com/jobs/apply/8379094?gh_jid=8379094",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8383867",
@@ -1910,7 +1874,7 @@
       "source_url": "https://www.asana.com/jobs/apply/8383867?gh_jid=8383867",
       "apply_url": "https://www.asana.com/jobs/apply/8383867?gh_jid=8383867",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8383870",
@@ -1928,7 +1892,7 @@
       "source_url": "https://www.asana.com/jobs/apply/8383870?gh_jid=8383870",
       "apply_url": "https://www.asana.com/jobs/apply/8383870?gh_jid=8383870",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8386666",
@@ -1946,7 +1910,7 @@
       "source_url": "https://www.asana.com/jobs/apply/8386666?gh_jid=8386666",
       "apply_url": "https://www.asana.com/jobs/apply/8386666?gh_jid=8386666",
       "first_seen": "2026-11-25T17:09:22Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8411739",
@@ -1964,7 +1928,7 @@
       "source_url": "https://www.asana.com/jobs/apply/8411739?gh_jid=8411739",
       "apply_url": "https://www.asana.com/jobs/apply/8411739?gh_jid=8411739",
       "first_seen": "2026-11-24T17:38:09Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     }
   ],
   "ats": "greenhouse",

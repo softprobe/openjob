@@ -1,8 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-26T16:50:55Z",
+  "checked_at": "2026-11-27T16:35:48Z",
   "failed_at": null,
-  "etag": "W/\"7bbd-KrZXOyGXhgkrztqtpZd5DQ\"",
+  "etag": "W/\"89ba-TESeIEIJ/c0IuMQhnNrgKg\"",
   "jobs": [
     {
       "id": "2761259f-5784-499e-a2cf-27bce67272c4",
@@ -20,7 +20,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/oocl/44732#/job/2761259f-5784-499e-a2cf-27bce67272c4",
       "apply_url": "https://app.mokahr.com/apply/oocl/44732#/job/2761259f-5784-499e-a2cf-27bce67272c4/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "2f9eb574-230b-4dda-9761-d5e3e0991f8b",
@@ -38,7 +38,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/oocl/44732#/job/2f9eb574-230b-4dda-9761-d5e3e0991f8b",
       "apply_url": "https://app.mokahr.com/apply/oocl/44732#/job/2f9eb574-230b-4dda-9761-d5e3e0991f8b/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "44372b19-c4ac-4482-9896-25621043e08a",
@@ -56,7 +56,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/oocl/44732#/job/44372b19-c4ac-4482-9896-25621043e08a",
       "apply_url": "https://app.mokahr.com/apply/oocl/44732#/job/44372b19-c4ac-4482-9896-25621043e08a/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "5b1a736c-6e64-42f4-9486-bc522cfd9cd8",
@@ -74,7 +74,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/oocl/44732#/job/5b1a736c-6e64-42f4-9486-bc522cfd9cd8",
       "apply_url": "https://app.mokahr.com/apply/oocl/44732#/job/5b1a736c-6e64-42f4-9486-bc522cfd9cd8/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "74deaab3-33a5-472f-9e89-40dade93e5d4",
@@ -92,7 +92,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/oocl/44732#/job/74deaab3-33a5-472f-9e89-40dade93e5d4",
       "apply_url": "https://app.mokahr.com/apply/oocl/44732#/job/74deaab3-33a5-472f-9e89-40dade93e5d4/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8f2aa4d9-6171-48e6-8fa7-56cffff25bf2",
@@ -110,7 +110,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/oocl/44732#/job/8f2aa4d9-6171-48e6-8fa7-56cffff25bf2",
       "apply_url": "https://app.mokahr.com/apply/oocl/44732#/job/8f2aa4d9-6171-48e6-8fa7-56cffff25bf2/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "931dcb9c-b67e-4032-896b-b6506a73c082",
@@ -128,7 +128,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/oocl/44732#/job/931dcb9c-b67e-4032-896b-b6506a73c082",
       "apply_url": "https://app.mokahr.com/apply/oocl/44732#/job/931dcb9c-b67e-4032-896b-b6506a73c082/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "ecb322fe-fa2d-433c-bb5b-6225ad673e65",
@@ -146,7 +146,25 @@
       "source_url": "https://app.mokahr.com/social-recruitment/oocl/44732#/job/ecb322fe-fa2d-433c-bb5b-6225ad673e65",
       "apply_url": "https://app.mokahr.com/apply/oocl/44732#/job/ecb322fe-fa2d-433c-bb5b-6225ad673e65/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
+    },
+    {
+      "id": "ee65cf8d-3e0f-4fb2-9fa5-980267138ddf",
+      "title": "安全运维工程师（轮班制）",
+      "company": "东方海外",
+      "location": "珠海市, 广东, 中国",
+      "remote": "unspecified",
+      "department": "STMC",
+      "employment_type": "FULL_TIME",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-27",
+      "updated": "2026-11-27",
+      "deadline": "",
+      "source_url": "https://app.mokahr.com/social-recruitment/oocl/44732#/job/ee65cf8d-3e0f-4fb2-9fa5-980267138ddf",
+      "apply_url": "https://app.mokahr.com/apply/oocl/44732#/job/ee65cf8d-3e0f-4fb2-9fa5-980267138ddf/apply?pure=1",
+      "first_seen": "2026-11-27T16:35:48Z",
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "f7026801-2200-4b14-baad-33aa38654883",
@@ -164,7 +182,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/oocl/44732#/job/f7026801-2200-4b14-baad-33aa38654883",
       "apply_url": "https://app.mokahr.com/apply/oocl/44732#/job/f7026801-2200-4b14-baad-33aa38654883/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "ff4ba91a-abd8-46bf-baeb-9fc1104ebc20",
@@ -182,7 +200,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/oocl/44732#/job/ff4ba91a-abd8-46bf-baeb-9fc1104ebc20",
       "apply_url": "https://app.mokahr.com/apply/oocl/44732#/job/ff4ba91a-abd8-46bf-baeb-9fc1104ebc20/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     }
   ],
   "ats": "moka",

@@ -1,8 +1,8 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-26T16:50:55Z",
+  "checked_at": "2026-11-27T16:35:48Z",
   "failed_at": null,
-  "etag": "W/\"3f614-nF/fw7bRBeFywH2pHewhgQ\"",
+  "etag": "W/\"39b19-f5E0IcdCT6GmO9aQXSEo6w\"",
   "jobs": [
     {
       "id": "02d5a817-f71c-4c78-bab0-93abf2ab94de",
@@ -20,25 +20,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/lining/166080#/job/02d5a817-f71c-4c78-bab0-93abf2ab94de",
       "apply_url": "https://app.mokahr.com/apply/lining/166080#/job/02d5a817-f71c-4c78-bab0-93abf2ab94de/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
-    },
-    {
-      "id": "040ab80e-4829-433e-b963-a32d544b180b",
-      "title": "深圳-急聘销售-公明天虹",
-      "company": "Li-Ning",
-      "location": "深圳市, 广东, 中国",
-      "remote": "unspecified",
-      "department": "RA0C-深圳市宝安区公明天虹店",
-      "employment_type": "FULL_TIME",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-11-10",
-      "updated": "2026-11-20",
-      "deadline": "",
-      "source_url": "https://app.mokahr.com/social-recruitment/lining/166080#/job/040ab80e-4829-433e-b963-a32d544b180b",
-      "apply_url": "https://app.mokahr.com/apply/lining/166080#/job/040ab80e-4829-433e-b963-a32d544b180b/apply?pure=1",
-      "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "066ad27b-e205-4b3c-8c7d-8a39d24c0a78",
@@ -56,7 +38,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/lining/166080#/job/066ad27b-e205-4b3c-8c7d-8a39d24c0a78",
       "apply_url": "https://app.mokahr.com/apply/lining/166080#/job/066ad27b-e205-4b3c-8c7d-8a39d24c0a78/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "092db485-4074-41dd-b129-54759ed446e5",
@@ -74,7 +56,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/lining/166080#/job/092db485-4074-41dd-b129-54759ed446e5",
       "apply_url": "https://app.mokahr.com/apply/lining/166080#/job/092db485-4074-41dd-b129-54759ed446e5/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "0a565b85-bdaa-4fdb-a3ee-cc5f108ceef9",
@@ -92,7 +74,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/lining/166080#/job/0a565b85-bdaa-4fdb-a3ee-cc5f108ceef9",
       "apply_url": "https://app.mokahr.com/apply/lining/166080#/job/0a565b85-bdaa-4fdb-a3ee-cc5f108ceef9/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "0a9b42b6-5da0-4ac0-b84e-e114797941fd",
@@ -110,7 +92,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/lining/166080#/job/0a9b42b6-5da0-4ac0-b84e-e114797941fd",
       "apply_url": "https://app.mokahr.com/apply/lining/166080#/job/0a9b42b6-5da0-4ac0-b84e-e114797941fd/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "0adf68bf-bcfb-4fbd-833c-6c9fe7810be4",
@@ -128,25 +110,61 @@
       "source_url": "https://app.mokahr.com/social-recruitment/lining/166080#/job/0adf68bf-bcfb-4fbd-833c-6c9fe7810be4",
       "apply_url": "https://app.mokahr.com/apply/lining/166080#/job/0adf68bf-bcfb-4fbd-833c-6c9fe7810be4/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
-      "id": "16183d49-d432-4e34-bae6-91392f38f8ec",
-      "title": "莆田城厢万达李宁店导购",
+      "id": "0e293703-3614-4a0d-9e09-9c844de1027c",
+      "title": "李宁童装店长-铜梁万达",
       "company": "Li-Ning",
-      "location": "",
+      "location": "重庆市, 中国",
       "remote": "unspecified",
-      "department": "TG0H-莆田万达标杆店",
+      "department": "LFKY-铜梁万达广场店",
       "employment_type": "FULL_TIME",
       "salary_text": "",
       "salary_source": "",
-      "posted": "2026-10-22",
-      "updated": "2026-11-13",
+      "posted": "2026-11-27",
+      "updated": "2026-11-27",
       "deadline": "",
-      "source_url": "https://app.mokahr.com/social-recruitment/lining/166080#/job/16183d49-d432-4e34-bae6-91392f38f8ec",
-      "apply_url": "https://app.mokahr.com/apply/lining/166080#/job/16183d49-d432-4e34-bae6-91392f38f8ec/apply?pure=1",
-      "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "source_url": "https://app.mokahr.com/social-recruitment/lining/166080#/job/0e293703-3614-4a0d-9e09-9c844de1027c",
+      "apply_url": "https://app.mokahr.com/apply/lining/166080#/job/0e293703-3614-4a0d-9e09-9c844de1027c/apply?pure=1",
+      "first_seen": "2026-11-27T16:35:48Z",
+      "last_checked": "2026-11-27T16:35:48Z"
+    },
+    {
+      "id": "1057f53f-b1da-413c-804b-8e3a66aa3974",
+      "title": "李宁童装店长-綦江万达",
+      "company": "Li-Ning",
+      "location": "重庆市, 中国",
+      "remote": "unspecified",
+      "department": "LFC6-綦江万达劲浪店",
+      "employment_type": "FULL_TIME",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-27",
+      "updated": "2026-11-27",
+      "deadline": "",
+      "source_url": "https://app.mokahr.com/social-recruitment/lining/166080#/job/1057f53f-b1da-413c-804b-8e3a66aa3974",
+      "apply_url": "https://app.mokahr.com/apply/lining/166080#/job/1057f53f-b1da-413c-804b-8e3a66aa3974/apply?pure=1",
+      "first_seen": "2026-11-27T16:35:48Z",
+      "last_checked": "2026-11-27T16:35:48Z"
+    },
+    {
+      "id": "125056fa-d69f-493a-a4e5-5348ad31f74e",
+      "title": "李宁童装导购-綦江万达",
+      "company": "Li-Ning",
+      "location": "重庆市, 中国",
+      "remote": "unspecified",
+      "department": "LFC6-綦江万达劲浪店",
+      "employment_type": "FULL_TIME",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-27",
+      "updated": "2026-11-27",
+      "deadline": "",
+      "source_url": "https://app.mokahr.com/social-recruitment/lining/166080#/job/125056fa-d69f-493a-a4e5-5348ad31f74e",
+      "apply_url": "https://app.mokahr.com/apply/lining/166080#/job/125056fa-d69f-493a-a4e5-5348ad31f74e/apply?pure=1",
+      "first_seen": "2026-11-27T16:35:48Z",
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "18130dbf-e51b-41a4-ad27-ee29efdc8052",
@@ -164,7 +182,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/lining/166080#/job/18130dbf-e51b-41a4-ad27-ee29efdc8052",
       "apply_url": "https://app.mokahr.com/apply/lining/166080#/job/18130dbf-e51b-41a4-ad27-ee29efdc8052/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "21111180-43a6-4ce8-a18d-38b2973dcb20",
@@ -182,25 +200,25 @@
       "source_url": "https://app.mokahr.com/social-recruitment/lining/166080#/job/21111180-43a6-4ce8-a18d-38b2973dcb20",
       "apply_url": "https://app.mokahr.com/apply/lining/166080#/job/21111180-43a6-4ce8-a18d-38b2973dcb20/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
-      "id": "24c32575-6509-44c3-86f6-c75b1ed6bcd8",
-      "title": "武商梦时代李宁户外店，服装导购",
+      "id": "21163da6-6e2d-4273-a19e-c2003ef24bcf",
+      "title": "福清利桥导购",
       "company": "Li-Ning",
-      "location": "武汉市, 湖北, 中国",
+      "location": "福州市, 福建, 中国",
       "remote": "unspecified",
-      "department": "QGDN-湖北省武汉市武昌区武商梦时代户外店",
+      "department": "TG64-福建省福州市福清市福清东百利桥古街工厂店",
       "employment_type": "FULL_TIME",
       "salary_text": "",
       "salary_source": "",
-      "posted": "2026-10-22",
-      "updated": "2026-10-22",
+      "posted": "2026-11-13",
+      "updated": "2026-11-27",
       "deadline": "",
-      "source_url": "https://app.mokahr.com/social-recruitment/lining/166080#/job/24c32575-6509-44c3-86f6-c75b1ed6bcd8",
-      "apply_url": "https://app.mokahr.com/apply/lining/166080#/job/24c32575-6509-44c3-86f6-c75b1ed6bcd8/apply?pure=1",
-      "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "source_url": "https://app.mokahr.com/social-recruitment/lining/166080#/job/21163da6-6e2d-4273-a19e-c2003ef24bcf",
+      "apply_url": "https://app.mokahr.com/apply/lining/166080#/job/21163da6-6e2d-4273-a19e-c2003ef24bcf/apply?pure=1",
+      "first_seen": "2026-11-27T16:35:48Z",
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "2d36ff89-5000-41c3-b39a-0290cb3d26c9",
@@ -218,7 +236,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/lining/166080#/job/2d36ff89-5000-41c3-b39a-0290cb3d26c9",
       "apply_url": "https://app.mokahr.com/apply/lining/166080#/job/2d36ff89-5000-41c3-b39a-0290cb3d26c9/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "2dafd17d-d80c-426b-a686-1d16ff91fa2c",
@@ -236,25 +254,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/lining/166080#/job/2dafd17d-d80c-426b-a686-1d16ff91fa2c",
       "apply_url": "https://app.mokahr.com/apply/lining/166080#/job/2dafd17d-d80c-426b-a686-1d16ff91fa2c/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
-    },
-    {
-      "id": "3503113f-b2ba-4166-a878-a8a00baecff0",
-      "title": "深-销售顾问（西乡天虹）",
-      "company": "Li-Ning",
-      "location": "深圳市, 广东, 中国",
-      "remote": "unspecified",
-      "department": "RGGM-广东省深圳市宝安区深圳宝安天虹购物中心店",
-      "employment_type": "FULL_TIME",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-10-22",
-      "updated": "2026-10-22",
-      "deadline": "",
-      "source_url": "https://app.mokahr.com/social-recruitment/lining/166080#/job/3503113f-b2ba-4166-a878-a8a00baecff0",
-      "apply_url": "https://app.mokahr.com/apply/lining/166080#/job/3503113f-b2ba-4166-a878-a8a00baecff0/apply?pure=1",
-      "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "35449d70-590a-41c9-b4a0-0702307d10f5",
@@ -272,7 +272,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/lining/166080#/job/35449d70-590a-41c9-b4a0-0702307d10f5",
       "apply_url": "https://app.mokahr.com/apply/lining/166080#/job/35449d70-590a-41c9-b4a0-0702307d10f5/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "378eba5e-27fa-4cc0-aa4b-78f0f703c1c6",
@@ -290,7 +290,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/lining/166080#/job/378eba5e-27fa-4cc0-aa4b-78f0f703c1c6",
       "apply_url": "https://app.mokahr.com/apply/lining/166080#/job/378eba5e-27fa-4cc0-aa4b-78f0f703c1c6/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "38cf3b5c-5250-46d8-a0c8-d97fc6a28fac",
@@ -308,7 +308,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/lining/166080#/job/38cf3b5c-5250-46d8-a0c8-d97fc6a28fac",
       "apply_url": "https://app.mokahr.com/apply/lining/166080#/job/38cf3b5c-5250-46d8-a0c8-d97fc6a28fac/apply?pure=1",
       "first_seen": "2026-11-20T15:23:49Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "39581534-7681-41f9-95ce-6efa7da7bbc5",
@@ -326,7 +326,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/lining/166080#/job/39581534-7681-41f9-95ce-6efa7da7bbc5",
       "apply_url": "https://app.mokahr.com/apply/lining/166080#/job/39581534-7681-41f9-95ce-6efa7da7bbc5/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "39c36efa-0b40-43dd-b7e4-011598d9d650",
@@ -344,7 +344,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/lining/166080#/job/39c36efa-0b40-43dd-b7e4-011598d9d650",
       "apply_url": "https://app.mokahr.com/apply/lining/166080#/job/39c36efa-0b40-43dd-b7e4-011598d9d650/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "3f44d12e-4e3d-45bd-8e6a-180181c823b5",
@@ -362,7 +362,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/lining/166080#/job/3f44d12e-4e3d-45bd-8e6a-180181c823b5",
       "apply_url": "https://app.mokahr.com/apply/lining/166080#/job/3f44d12e-4e3d-45bd-8e6a-180181c823b5/apply?pure=1",
       "first_seen": "2026-11-24T17:38:09Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "409b092f-d3a9-43fe-ada5-bc55ffde28de",
@@ -380,25 +380,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/lining/166080#/job/409b092f-d3a9-43fe-ada5-bc55ffde28de",
       "apply_url": "https://app.mokahr.com/apply/lining/166080#/job/409b092f-d3a9-43fe-ada5-bc55ffde28de/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
-    },
-    {
-      "id": "440369d9-764d-43bf-9a87-b852339a8175",
-      "title": "厦门同安现代城销售顾问",
-      "company": "Li-Ning",
-      "location": "厦门市, 福建, 中国",
-      "remote": "unspecified",
-      "department": "TF7Q-同安舜弘现代城店",
-      "employment_type": "FULL_TIME",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-11-13",
-      "updated": "2026-11-13",
-      "deadline": "",
-      "source_url": "https://app.mokahr.com/social-recruitment/lining/166080#/job/440369d9-764d-43bf-9a87-b852339a8175",
-      "apply_url": "https://app.mokahr.com/apply/lining/166080#/job/440369d9-764d-43bf-9a87-b852339a8175/apply?pure=1",
-      "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "4561d68e-fdef-44c2-a762-65a8db3a1334",
@@ -416,43 +398,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/lining/166080#/job/4561d68e-fdef-44c2-a762-65a8db3a1334",
       "apply_url": "https://app.mokahr.com/apply/lining/166080#/job/4561d68e-fdef-44c2-a762-65a8db3a1334/apply?pure=1",
       "first_seen": "2026-11-25T17:09:22Z",
-      "last_checked": "2026-11-26T16:50:55Z"
-    },
-    {
-      "id": "483b8f32-678f-4c06-8ed5-94985c4025a0",
-      "title": "李宁武昌万象城-导购",
-      "company": "Li-Ning",
-      "location": "武汉市, 湖北, 中国",
-      "remote": "unspecified",
-      "department": "QG7U-武昌万象城店",
-      "employment_type": "FULL_TIME",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-10-22",
-      "updated": "2026-10-22",
-      "deadline": "",
-      "source_url": "https://app.mokahr.com/social-recruitment/lining/166080#/job/483b8f32-678f-4c06-8ed5-94985c4025a0",
-      "apply_url": "https://app.mokahr.com/apply/lining/166080#/job/483b8f32-678f-4c06-8ed5-94985c4025a0/apply?pure=1",
-      "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
-    },
-    {
-      "id": "495e0394-3159-426b-ab9f-4c23a481c842",
-      "title": "（导购）西北旺万象汇",
-      "company": "Li-Ning",
-      "location": "北京市, 中国",
-      "remote": "unspecified",
-      "department": "AGD8-北京市海淀区北京西北旺万象汇店",
-      "employment_type": "FULL_TIME",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-11-20",
-      "updated": "2026-11-20",
-      "deadline": "",
-      "source_url": "https://app.mokahr.com/social-recruitment/lining/166080#/job/495e0394-3159-426b-ab9f-4c23a481c842",
-      "apply_url": "https://app.mokahr.com/apply/lining/166080#/job/495e0394-3159-426b-ab9f-4c23a481c842/apply?pure=1",
-      "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "49ad8640-9f72-4403-a5bb-d7844522e19e",
@@ -470,7 +416,25 @@
       "source_url": "https://app.mokahr.com/social-recruitment/lining/166080#/job/49ad8640-9f72-4403-a5bb-d7844522e19e",
       "apply_url": "https://app.mokahr.com/apply/lining/166080#/job/49ad8640-9f72-4403-a5bb-d7844522e19e/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
+    },
+    {
+      "id": "4bba33e0-3758-40b7-bbfe-cf960ba8d9c3",
+      "title": "衡阳杉杉童装，招导购",
+      "company": "Li-Ning",
+      "location": "衡阳市, 湖南, 中国",
+      "remote": "unspecified",
+      "department": "PGAC-湖南省衡阳市蒸湘区衡阳杉杉奥特莱斯广场李宁YOUNG工厂2店",
+      "employment_type": "FULL_TIME",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-27",
+      "updated": "2026-11-27",
+      "deadline": "",
+      "source_url": "https://app.mokahr.com/social-recruitment/lining/166080#/job/4bba33e0-3758-40b7-bbfe-cf960ba8d9c3",
+      "apply_url": "https://app.mokahr.com/apply/lining/166080#/job/4bba33e0-3758-40b7-bbfe-cf960ba8d9c3/apply?pure=1",
+      "first_seen": "2026-11-27T16:35:48Z",
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "4c7dd513-213b-4e0d-8df5-c21dd9649a57",
@@ -488,7 +452,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/lining/166080#/job/4c7dd513-213b-4e0d-8df5-c21dd9649a57",
       "apply_url": "https://app.mokahr.com/apply/lining/166080#/job/4c7dd513-213b-4e0d-8df5-c21dd9649a57/apply?pure=1",
       "first_seen": "2026-11-26T16:50:55Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "4e09208c-6411-4d96-830c-f81265f530d3",
@@ -506,7 +470,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/lining/166080#/job/4e09208c-6411-4d96-830c-f81265f530d3",
       "apply_url": "https://app.mokahr.com/apply/lining/166080#/job/4e09208c-6411-4d96-830c-f81265f530d3/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "50e1ddba-e757-4cbc-8749-e065f727f7f5",
@@ -524,7 +488,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/lining/166080#/job/50e1ddba-e757-4cbc-8749-e065f727f7f5",
       "apply_url": "https://app.mokahr.com/apply/lining/166080#/job/50e1ddba-e757-4cbc-8749-e065f727f7f5/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "517351df-8613-4901-8ce7-0ac2b38ac268",
@@ -542,7 +506,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/lining/166080#/job/517351df-8613-4901-8ce7-0ac2b38ac268",
       "apply_url": "https://app.mokahr.com/apply/lining/166080#/job/517351df-8613-4901-8ce7-0ac2b38ac268/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "54520a3e-5aa3-41be-ab5b-32e1fba83aa4",
@@ -560,7 +524,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/lining/166080#/job/54520a3e-5aa3-41be-ab5b-32e1fba83aa4",
       "apply_url": "https://app.mokahr.com/apply/lining/166080#/job/54520a3e-5aa3-41be-ab5b-32e1fba83aa4/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "560dadb8-a02d-41b1-be94-ce7fc5c43472",
@@ -578,7 +542,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/lining/166080#/job/560dadb8-a02d-41b1-be94-ce7fc5c43472",
       "apply_url": "https://app.mokahr.com/apply/lining/166080#/job/560dadb8-a02d-41b1-be94-ce7fc5c43472/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "57798afa-dd88-4228-99d8-342cc8cc701f",
@@ -596,7 +560,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/lining/166080#/job/57798afa-dd88-4228-99d8-342cc8cc701f",
       "apply_url": "https://app.mokahr.com/apply/lining/166080#/job/57798afa-dd88-4228-99d8-342cc8cc701f/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "58e9a455-df12-43db-be4f-c07a8387c5b5",
@@ -614,7 +578,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/lining/166080#/job/58e9a455-df12-43db-be4f-c07a8387c5b5",
       "apply_url": "https://app.mokahr.com/apply/lining/166080#/job/58e9a455-df12-43db-be4f-c07a8387c5b5/apply?pure=1",
       "first_seen": "2026-11-26T16:50:55Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "594bf7d2-3b53-4566-bf8b-a31eb207a5f8",
@@ -632,25 +596,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/lining/166080#/job/594bf7d2-3b53-4566-bf8b-a31eb207a5f8",
       "apply_url": "https://app.mokahr.com/apply/lining/166080#/job/594bf7d2-3b53-4566-bf8b-a31eb207a5f8/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
-    },
-    {
-      "id": "5eea64c8-fb16-4b40-97bb-45f2ec5b6f89",
-      "title": "贵阳遵义吾悦销售顾问",
-      "company": "Li-Ning",
-      "location": "",
-      "remote": "unspecified",
-      "department": "NG12-贵州遵义新城吾悦",
-      "employment_type": "FULL_TIME",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-11-13",
-      "updated": "2026-11-13",
-      "deadline": "",
-      "source_url": "https://app.mokahr.com/social-recruitment/lining/166080#/job/5eea64c8-fb16-4b40-97bb-45f2ec5b6f89",
-      "apply_url": "https://app.mokahr.com/apply/lining/166080#/job/5eea64c8-fb16-4b40-97bb-45f2ec5b6f89/apply?pure=1",
-      "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "60d34175-eeaf-4819-b294-e7b0b2000dcd",
@@ -668,7 +614,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/lining/166080#/job/60d34175-eeaf-4819-b294-e7b0b2000dcd",
       "apply_url": "https://app.mokahr.com/apply/lining/166080#/job/60d34175-eeaf-4819-b294-e7b0b2000dcd/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "61d943bc-6628-47e7-bb02-ea8d7c6bc500",
@@ -686,7 +632,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/lining/166080#/job/61d943bc-6628-47e7-bb02-ea8d7c6bc500",
       "apply_url": "https://app.mokahr.com/apply/lining/166080#/job/61d943bc-6628-47e7-bb02-ea8d7c6bc500/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "62b577d8-a1dc-4cdb-acf0-c9c397b99360",
@@ -704,25 +650,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/lining/166080#/job/62b577d8-a1dc-4cdb-acf0-c9c397b99360",
       "apply_url": "https://app.mokahr.com/apply/lining/166080#/job/62b577d8-a1dc-4cdb-acf0-c9c397b99360/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
-    },
-    {
-      "id": "6622028c-1abb-4149-aa32-a661b921a98b",
-      "title": "武胜路凯德，招店长",
-      "company": "Li-Ning",
-      "location": "武汉市, 湖北, 中国",
-      "remote": "unspecified",
-      "department": "QG5I-武胜路凯德",
-      "employment_type": "FULL_TIME",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-09-17",
-      "updated": "2026-09-17",
-      "deadline": "",
-      "source_url": "https://app.mokahr.com/social-recruitment/lining/166080#/job/6622028c-1abb-4149-aa32-a661b921a98b",
-      "apply_url": "https://app.mokahr.com/apply/lining/166080#/job/6622028c-1abb-4149-aa32-a661b921a98b/apply?pure=1",
-      "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "6a66163c-7e34-430f-9489-c080152d00e2",
@@ -740,7 +668,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/lining/166080#/job/6a66163c-7e34-430f-9489-c080152d00e2",
       "apply_url": "https://app.mokahr.com/apply/lining/166080#/job/6a66163c-7e34-430f-9489-c080152d00e2/apply?pure=1",
       "first_seen": "2026-11-25T17:09:22Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "71fd7b9c-9a83-4f04-8a53-c72198761b9c",
@@ -758,7 +686,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/lining/166080#/job/71fd7b9c-9a83-4f04-8a53-c72198761b9c",
       "apply_url": "https://app.mokahr.com/apply/lining/166080#/job/71fd7b9c-9a83-4f04-8a53-c72198761b9c/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "77355b5b-178d-4b31-9b6a-2df9cacc8a1b",
@@ -776,61 +704,25 @@
       "source_url": "https://app.mokahr.com/social-recruitment/lining/166080#/job/77355b5b-178d-4b31-9b6a-2df9cacc8a1b",
       "apply_url": "https://app.mokahr.com/apply/lining/166080#/job/77355b5b-178d-4b31-9b6a-2df9cacc8a1b/apply?pure=1",
       "first_seen": "2026-11-26T16:50:55Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
-      "id": "78fc8253-ef8e-4728-9ca2-6c7c353e3218",
-      "title": "李宁长期兼职-重庆来福士",
+      "id": "7747510a-967d-4b6b-bb37-e54d731ff370",
+      "title": "昆明顺城招百万店服装店长",
       "company": "Li-Ning",
-      "location": "重庆市, 中国",
+      "location": "昆明市, 云南, 中国",
       "remote": "unspecified",
-      "department": "LFGD-来福士店",
-      "employment_type": "PART_TIME",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-11-17",
-      "updated": "2026-11-17",
-      "deadline": "",
-      "source_url": "https://app.mokahr.com/social-recruitment/lining/166080#/job/78fc8253-ef8e-4728-9ca2-6c7c353e3218",
-      "apply_url": "https://app.mokahr.com/apply/lining/166080#/job/78fc8253-ef8e-4728-9ca2-6c7c353e3218/apply?pure=1",
-      "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
-    },
-    {
-      "id": "79951f1e-c6f9-49f9-9685-2d85627ce502",
-      "title": "深圳-急聘销售-宝安万达",
-      "company": "Li-Ning",
-      "location": "深圳市, 广东, 中国",
-      "remote": "unspecified",
-      "department": "RG05-宝安万达店",
+      "department": "NGGH-云南省昆明市五华区昆明顺城购物中心Loong Store店",
       "employment_type": "FULL_TIME",
       "salary_text": "",
       "salary_source": "",
-      "posted": "2026-11-10",
-      "updated": "2026-11-10",
+      "posted": "2026-11-27",
+      "updated": "2026-11-27",
       "deadline": "",
-      "source_url": "https://app.mokahr.com/social-recruitment/lining/166080#/job/79951f1e-c6f9-49f9-9685-2d85627ce502",
-      "apply_url": "https://app.mokahr.com/apply/lining/166080#/job/79951f1e-c6f9-49f9-9685-2d85627ce502/apply?pure=1",
-      "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
-    },
-    {
-      "id": "79c3e065-d92d-4005-9d15-484c41ac9a63",
-      "title": "李宁长期兼职-鸳鸯月光之城",
-      "company": "Li-Ning",
-      "location": "重庆市, 中国",
-      "remote": "unspecified",
-      "department": "LFGQ-N37月光之城店",
-      "employment_type": "PART_TIME",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-11-02",
-      "updated": "2026-11-02",
-      "deadline": "",
-      "source_url": "https://app.mokahr.com/social-recruitment/lining/166080#/job/79c3e065-d92d-4005-9d15-484c41ac9a63",
-      "apply_url": "https://app.mokahr.com/apply/lining/166080#/job/79c3e065-d92d-4005-9d15-484c41ac9a63/apply?pure=1",
-      "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "source_url": "https://app.mokahr.com/social-recruitment/lining/166080#/job/7747510a-967d-4b6b-bb37-e54d731ff370",
+      "apply_url": "https://app.mokahr.com/apply/lining/166080#/job/7747510a-967d-4b6b-bb37-e54d731ff370/apply?pure=1",
+      "first_seen": "2026-11-27T16:35:48Z",
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "7a66096b-7c00-454f-bbb8-a290fe6e3c4b",
@@ -843,12 +735,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-13",
-      "updated": "2026-11-13",
+      "updated": "2026-11-27",
       "deadline": "",
       "source_url": "https://app.mokahr.com/social-recruitment/lining/166080#/job/7a66096b-7c00-454f-bbb8-a290fe6e3c4b",
       "apply_url": "https://app.mokahr.com/apply/lining/166080#/job/7a66096b-7c00-454f-bbb8-a290fe6e3c4b/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "7a9e4d41-d5da-4007-b357-4e4a03e37c2b",
@@ -866,7 +758,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/lining/166080#/job/7a9e4d41-d5da-4007-b357-4e4a03e37c2b",
       "apply_url": "https://app.mokahr.com/apply/lining/166080#/job/7a9e4d41-d5da-4007-b357-4e4a03e37c2b/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "83250db6-d689-4896-87b0-d4b4d01007fa",
@@ -884,7 +776,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/lining/166080#/job/83250db6-d689-4896-87b0-d4b4d01007fa",
       "apply_url": "https://app.mokahr.com/apply/lining/166080#/job/83250db6-d689-4896-87b0-d4b4d01007fa/apply?pure=1",
       "first_seen": "2026-11-19T15:42:04Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "85c3a014-9087-4eaa-8afe-1f1eb2aaf91b",
@@ -902,7 +794,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/lining/166080#/job/85c3a014-9087-4eaa-8afe-1f1eb2aaf91b",
       "apply_url": "https://app.mokahr.com/apply/lining/166080#/job/85c3a014-9087-4eaa-8afe-1f1eb2aaf91b/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "85f7c06c-160b-403e-b245-b412265d4c98",
@@ -920,7 +812,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/lining/166080#/job/85f7c06c-160b-403e-b245-b412265d4c98",
       "apply_url": "https://app.mokahr.com/apply/lining/166080#/job/85f7c06c-160b-403e-b245-b412265d4c98/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "86999867-80f4-4c89-8f6c-0e1146b1ca34",
@@ -938,7 +830,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/lining/166080#/job/86999867-80f4-4c89-8f6c-0e1146b1ca34",
       "apply_url": "https://app.mokahr.com/apply/lining/166080#/job/86999867-80f4-4c89-8f6c-0e1146b1ca34/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "8c1a6364-3037-4c10-ab28-d191dfd934f6",
@@ -956,25 +848,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/lining/166080#/job/8c1a6364-3037-4c10-ab28-d191dfd934f6",
       "apply_url": "https://app.mokahr.com/apply/lining/166080#/job/8c1a6364-3037-4c10-ab28-d191dfd934f6/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
-    },
-    {
-      "id": "95cb81f5-4a10-473a-b915-b7e9a069a66b",
-      "title": "李宁襄阳童装民发，招导购",
-      "company": "Li-Ning",
-      "location": "襄阳市, 湖北, 中国",
-      "remote": "unspecified",
-      "department": "QG16-樊城区襄阳万达广场李宁时尚店",
-      "employment_type": "FULL_TIME",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-11-05",
-      "updated": "2026-11-05",
-      "deadline": "",
-      "source_url": "https://app.mokahr.com/social-recruitment/lining/166080#/job/95cb81f5-4a10-473a-b915-b7e9a069a66b",
-      "apply_url": "https://app.mokahr.com/apply/lining/166080#/job/95cb81f5-4a10-473a-b915-b7e9a069a66b/apply?pure=1",
-      "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "963f1478-9ac4-417c-a54a-7e7e12524787",
@@ -992,7 +866,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/lining/166080#/job/963f1478-9ac4-417c-a54a-7e7e12524787",
       "apply_url": "https://app.mokahr.com/apply/lining/166080#/job/963f1478-9ac4-417c-a54a-7e7e12524787/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "98067dfd-85d3-4ada-9713-cc75e8c0e433",
@@ -1010,7 +884,25 @@
       "source_url": "https://app.mokahr.com/social-recruitment/lining/166080#/job/98067dfd-85d3-4ada-9713-cc75e8c0e433",
       "apply_url": "https://app.mokahr.com/apply/lining/166080#/job/98067dfd-85d3-4ada-9713-cc75e8c0e433/apply?pure=1",
       "first_seen": "2026-11-20T15:23:49Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
+    },
+    {
+      "id": "98ada348-1cc4-4690-8473-228bc13de625",
+      "title": "销品茂童装招店长",
+      "company": "Li-Ning",
+      "location": "武汉市, 湖北, 中国",
+      "remote": "unspecified",
+      "department": "QG73-武汉中商团结销品茂店",
+      "employment_type": "FULL_TIME",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-27",
+      "updated": "2026-11-27",
+      "deadline": "",
+      "source_url": "https://app.mokahr.com/social-recruitment/lining/166080#/job/98ada348-1cc4-4690-8473-228bc13de625",
+      "apply_url": "https://app.mokahr.com/apply/lining/166080#/job/98ada348-1cc4-4690-8473-228bc13de625/apply?pure=1",
+      "first_seen": "2026-11-27T16:35:48Z",
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "9bfa00d2-3275-45ff-992b-cf12405dec35",
@@ -1028,7 +920,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/lining/166080#/job/9bfa00d2-3275-45ff-992b-cf12405dec35",
       "apply_url": "https://app.mokahr.com/apply/lining/166080#/job/9bfa00d2-3275-45ff-992b-cf12405dec35/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "9cd21020-186b-42ff-9021-1c9f3fb043f2",
@@ -1046,25 +938,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/lining/166080#/job/9cd21020-186b-42ff-9021-1c9f3fb043f2",
       "apply_url": "https://app.mokahr.com/apply/lining/166080#/job/9cd21020-186b-42ff-9021-1c9f3fb043f2/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
-    },
-    {
-      "id": "9d31fe39-51ad-45d4-9140-b4baf8d93852",
-      "title": "长春欧亚三环导购",
-      "company": "Li-Ning",
-      "location": "长春市, 吉林, 中国",
-      "remote": "unspecified",
-      "department": "CFEK-欧亚新星宇李宁",
-      "employment_type": "FULL_TIME",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-11-24",
-      "updated": "2026-11-24",
-      "deadline": "",
-      "source_url": "https://app.mokahr.com/social-recruitment/lining/166080#/job/9d31fe39-51ad-45d4-9140-b4baf8d93852",
-      "apply_url": "https://app.mokahr.com/apply/lining/166080#/job/9d31fe39-51ad-45d4-9140-b4baf8d93852/apply?pure=1",
-      "first_seen": "2026-11-24T17:38:09Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "9e67df24-8932-4d76-b5b0-f8c1db0d7af9",
@@ -1082,7 +956,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/lining/166080#/job/9e67df24-8932-4d76-b5b0-f8c1db0d7af9",
       "apply_url": "https://app.mokahr.com/apply/lining/166080#/job/9e67df24-8932-4d76-b5b0-f8c1db0d7af9/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "9e988309-e133-432e-824a-18265e589e67",
@@ -1100,7 +974,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/lining/166080#/job/9e988309-e133-432e-824a-18265e589e67",
       "apply_url": "https://app.mokahr.com/apply/lining/166080#/job/9e988309-e133-432e-824a-18265e589e67/apply?pure=1",
       "first_seen": "2026-11-24T17:38:09Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "9f01c4f6-cb5a-4bac-aabe-79289741f9a7",
@@ -1118,7 +992,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/lining/166080#/job/9f01c4f6-cb5a-4bac-aabe-79289741f9a7",
       "apply_url": "https://app.mokahr.com/apply/lining/166080#/job/9f01c4f6-cb5a-4bac-aabe-79289741f9a7/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "a0bac2db-bed9-4758-b89a-f2608d2ae253",
@@ -1136,7 +1010,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/lining/166080#/job/a0bac2db-bed9-4758-b89a-f2608d2ae253",
       "apply_url": "https://app.mokahr.com/apply/lining/166080#/job/a0bac2db-bed9-4758-b89a-f2608d2ae253/apply?pure=1",
       "first_seen": "2026-11-24T17:38:09Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "a523259e-0747-41ac-b4e4-82beb8db6722",
@@ -1154,7 +1028,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/lining/166080#/job/a523259e-0747-41ac-b4e4-82beb8db6722",
       "apply_url": "https://app.mokahr.com/apply/lining/166080#/job/a523259e-0747-41ac-b4e4-82beb8db6722/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "a5a868d7-f91e-4950-95cd-a2634dd3eb93",
@@ -1172,7 +1046,25 @@
       "source_url": "https://app.mokahr.com/social-recruitment/lining/166080#/job/a5a868d7-f91e-4950-95cd-a2634dd3eb93",
       "apply_url": "https://app.mokahr.com/apply/lining/166080#/job/a5a868d7-f91e-4950-95cd-a2634dd3eb93/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
+    },
+    {
+      "id": "a779ed7a-d0ea-4312-a7b4-90d9e3ca2434",
+      "title": "（店长）天安门咖啡店",
+      "company": "Li-Ning",
+      "location": "北京市, 中国",
+      "remote": "unspecified",
+      "department": "A9ZK-园区样板间",
+      "employment_type": "FULL_TIME",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-27",
+      "updated": "2026-11-27",
+      "deadline": "",
+      "source_url": "https://app.mokahr.com/social-recruitment/lining/166080#/job/a779ed7a-d0ea-4312-a7b4-90d9e3ca2434",
+      "apply_url": "https://app.mokahr.com/apply/lining/166080#/job/a779ed7a-d0ea-4312-a7b4-90d9e3ca2434/apply?pure=1",
+      "first_seen": "2026-11-27T16:35:48Z",
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "aa302ceb-a648-4541-9737-196efc71f339",
@@ -1190,7 +1082,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/lining/166080#/job/aa302ceb-a648-4541-9737-196efc71f339",
       "apply_url": "https://app.mokahr.com/apply/lining/166080#/job/aa302ceb-a648-4541-9737-196efc71f339/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "ac0d48de-b13c-449b-82cb-c7f9d5cff28c",
@@ -1208,7 +1100,25 @@
       "source_url": "https://app.mokahr.com/social-recruitment/lining/166080#/job/ac0d48de-b13c-449b-82cb-c7f9d5cff28c",
       "apply_url": "https://app.mokahr.com/apply/lining/166080#/job/ac0d48de-b13c-449b-82cb-c7f9d5cff28c/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
+    },
+    {
+      "id": "ac20fb5e-0102-48bd-83ca-f538b198a1b8",
+      "title": "（店长）新开龙德广场店",
+      "company": "Li-Ning",
+      "location": "北京市, 中国",
+      "remote": "unspecified",
+      "department": "AG20-北京龙德广场店",
+      "employment_type": "FULL_TIME",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-27",
+      "updated": "2026-11-27",
+      "deadline": "",
+      "source_url": "https://app.mokahr.com/social-recruitment/lining/166080#/job/ac20fb5e-0102-48bd-83ca-f538b198a1b8",
+      "apply_url": "https://app.mokahr.com/apply/lining/166080#/job/ac20fb5e-0102-48bd-83ca-f538b198a1b8/apply?pure=1",
+      "first_seen": "2026-11-27T16:35:48Z",
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "b048a074-9bac-48f9-ab7d-b2f6b5e2eb2a",
@@ -1226,7 +1136,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/lining/166080#/job/b048a074-9bac-48f9-ab7d-b2f6b5e2eb2a",
       "apply_url": "https://app.mokahr.com/apply/lining/166080#/job/b048a074-9bac-48f9-ab7d-b2f6b5e2eb2a/apply?pure=1",
       "first_seen": "2026-11-26T16:50:55Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "b1cd67b7-8140-4b2d-8c35-da1cc03e4fe5",
@@ -1244,7 +1154,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/lining/166080#/job/b1cd67b7-8140-4b2d-8c35-da1cc03e4fe5",
       "apply_url": "https://app.mokahr.com/apply/lining/166080#/job/b1cd67b7-8140-4b2d-8c35-da1cc03e4fe5/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "b23591d8-9d3a-4a43-a7b2-9347057baac2",
@@ -1257,30 +1167,12 @@
       "salary_text": "",
       "salary_source": "",
       "posted": "2026-11-13",
-      "updated": "2026-11-13",
+      "updated": "2026-11-27",
       "deadline": "",
       "source_url": "https://app.mokahr.com/social-recruitment/lining/166080#/job/b23591d8-9d3a-4a43-a7b2-9347057baac2",
       "apply_url": "https://app.mokahr.com/apply/lining/166080#/job/b23591d8-9d3a-4a43-a7b2-9347057baac2/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
-    },
-    {
-      "id": "b35f36f5-2fc3-4610-ba17-ef352afde858",
-      "title": "李宁导购-成都西宸天街",
-      "company": "Li-Ning",
-      "location": "成都市, 四川, 中国",
-      "remote": "unspecified",
-      "department": "LGKE-四川省成都市金牛区首开龙湖成都西宸天街2店",
-      "employment_type": "FULL_TIME",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-11-06",
-      "updated": "2026-11-17",
-      "deadline": "",
-      "source_url": "https://app.mokahr.com/social-recruitment/lining/166080#/job/b35f36f5-2fc3-4610-ba17-ef352afde858",
-      "apply_url": "https://app.mokahr.com/apply/lining/166080#/job/b35f36f5-2fc3-4610-ba17-ef352afde858/apply?pure=1",
-      "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "b5afbc73-d816-4c80-8054-40ed024704c0",
@@ -1298,7 +1190,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/lining/166080#/job/b5afbc73-d816-4c80-8054-40ed024704c0",
       "apply_url": "https://app.mokahr.com/apply/lining/166080#/job/b5afbc73-d816-4c80-8054-40ed024704c0/apply?pure=1",
       "first_seen": "2026-11-18T15:36:26Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "be61eda5-5b75-4ae8-96bf-6a035ad53262",
@@ -1316,25 +1208,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/lining/166080#/job/be61eda5-5b75-4ae8-96bf-6a035ad53262",
       "apply_url": "https://app.mokahr.com/apply/lining/166080#/job/be61eda5-5b75-4ae8-96bf-6a035ad53262/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
-    },
-    {
-      "id": "bfe61028-05b9-42ce-9305-335abccd7546",
-      "title": "李宁导购-观音桥阳光世纪奥莱",
-      "company": "Li-Ning",
-      "location": "重庆市, 中国",
-      "remote": "unspecified",
-      "department": "LFCN-世纪奥莱店",
-      "employment_type": "FULL_TIME",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-11-16",
-      "updated": "2026-11-21",
-      "deadline": "",
-      "source_url": "https://app.mokahr.com/social-recruitment/lining/166080#/job/bfe61028-05b9-42ce-9305-335abccd7546",
-      "apply_url": "https://app.mokahr.com/apply/lining/166080#/job/bfe61028-05b9-42ce-9305-335abccd7546/apply?pure=1",
-      "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "c35a320b-a759-4486-926f-747c22dcb0f8",
@@ -1352,43 +1226,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/lining/166080#/job/c35a320b-a759-4486-926f-747c22dcb0f8",
       "apply_url": "https://app.mokahr.com/apply/lining/166080#/job/c35a320b-a759-4486-926f-747c22dcb0f8/apply?pure=1",
       "first_seen": "2026-11-20T15:23:49Z",
-      "last_checked": "2026-11-26T16:50:55Z"
-    },
-    {
-      "id": "c366857c-b7d4-4a68-9066-d5037a52c977",
-      "title": "店长-白云万达",
-      "company": "Li-Ning",
-      "location": "广州市, 广东, 中国",
-      "remote": "unspecified",
-      "department": "RGG5-白云万达softland",
-      "employment_type": "FULL_TIME",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-10-23",
-      "updated": "2026-10-27",
-      "deadline": "",
-      "source_url": "https://app.mokahr.com/social-recruitment/lining/166080#/job/c366857c-b7d4-4a68-9066-d5037a52c977",
-      "apply_url": "https://app.mokahr.com/apply/lining/166080#/job/c366857c-b7d4-4a68-9066-d5037a52c977/apply?pure=1",
-      "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
-    },
-    {
-      "id": "d00eaa90-bccd-4f47-9c95-4cba10cddbab",
-      "title": "昆-急聘服装销售（欣都龙城）",
-      "company": "Li-Ning",
-      "location": "昆明市, 云南, 中国",
-      "remote": "unspecified",
-      "department": "NG2Y-昆明欣都龙城李宁店",
-      "employment_type": "FULL_TIME",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-11-05",
-      "updated": "2026-11-05",
-      "deadline": "",
-      "source_url": "https://app.mokahr.com/social-recruitment/lining/166080#/job/d00eaa90-bccd-4f47-9c95-4cba10cddbab",
-      "apply_url": "https://app.mokahr.com/apply/lining/166080#/job/d00eaa90-bccd-4f47-9c95-4cba10cddbab/apply?pure=1",
-      "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "d0743760-7c34-42fb-aea6-9b28e792cbd6",
@@ -1406,7 +1244,43 @@
       "source_url": "https://app.mokahr.com/social-recruitment/lining/166080#/job/d0743760-7c34-42fb-aea6-9b28e792cbd6",
       "apply_url": "https://app.mokahr.com/apply/lining/166080#/job/d0743760-7c34-42fb-aea6-9b28e792cbd6/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
+    },
+    {
+      "id": "d19a03f8-54cb-4d86-a03c-37e28d026a77",
+      "title": "宜家荟聚招导购",
+      "company": "Li-Ning",
+      "location": "武汉市, 湖北, 中国",
+      "remote": "unspecified",
+      "department": "QF6H-宜家汇聚店",
+      "employment_type": "FULL_TIME",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-27",
+      "updated": "2026-11-27",
+      "deadline": "",
+      "source_url": "https://app.mokahr.com/social-recruitment/lining/166080#/job/d19a03f8-54cb-4d86-a03c-37e28d026a77",
+      "apply_url": "https://app.mokahr.com/apply/lining/166080#/job/d19a03f8-54cb-4d86-a03c-37e28d026a77/apply?pure=1",
+      "first_seen": "2026-11-27T16:35:48Z",
+      "last_checked": "2026-11-27T16:35:48Z"
+    },
+    {
+      "id": "d5ca5384-46dd-4f2f-be88-b2ecdd6826b7",
+      "title": "深圳-李宁急聘销售（壹方天地c区）",
+      "company": "Li-Ning",
+      "location": "深圳市, 广东, 中国",
+      "remote": "unspecified",
+      "department": "RGKA-广东省深圳市龙华区深圳壹方天地C区店",
+      "employment_type": "FULL_TIME",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-27",
+      "updated": "2026-11-27",
+      "deadline": "",
+      "source_url": "https://app.mokahr.com/social-recruitment/lining/166080#/job/d5ca5384-46dd-4f2f-be88-b2ecdd6826b7",
+      "apply_url": "https://app.mokahr.com/apply/lining/166080#/job/d5ca5384-46dd-4f2f-be88-b2ecdd6826b7/apply?pure=1",
+      "first_seen": "2026-11-27T16:35:48Z",
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "d60f9a10-fa9e-4ec6-84a8-3f97adb4dec5",
@@ -1424,7 +1298,25 @@
       "source_url": "https://app.mokahr.com/social-recruitment/lining/166080#/job/d60f9a10-fa9e-4ec6-84a8-3f97adb4dec5",
       "apply_url": "https://app.mokahr.com/apply/lining/166080#/job/d60f9a10-fa9e-4ec6-84a8-3f97adb4dec5/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
+    },
+    {
+      "id": "d73a0bcf-adbc-459a-92fe-08e88fdceb4b",
+      "title": "李宁童装导购-铜梁万达",
+      "company": "Li-Ning",
+      "location": "重庆市, 中国",
+      "remote": "unspecified",
+      "department": "LFKY-铜梁万达广场店",
+      "employment_type": "FULL_TIME",
+      "salary_text": "",
+      "salary_source": "",
+      "posted": "2026-11-27",
+      "updated": "2026-11-27",
+      "deadline": "",
+      "source_url": "https://app.mokahr.com/social-recruitment/lining/166080#/job/d73a0bcf-adbc-459a-92fe-08e88fdceb4b",
+      "apply_url": "https://app.mokahr.com/apply/lining/166080#/job/d73a0bcf-adbc-459a-92fe-08e88fdceb4b/apply?pure=1",
+      "first_seen": "2026-11-27T16:35:48Z",
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "d831b38f-86c9-4053-819c-2c399261ac89",
@@ -1442,43 +1334,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/lining/166080#/job/d831b38f-86c9-4053-819c-2c399261ac89",
       "apply_url": "https://app.mokahr.com/apply/lining/166080#/job/d831b38f-86c9-4053-819c-2c399261ac89/apply?pure=1",
       "first_seen": "2026-11-24T17:38:09Z",
-      "last_checked": "2026-11-26T16:50:55Z"
-    },
-    {
-      "id": "d839e61b-8ce5-4a17-8b4d-70491739aeb6",
-      "title": "襄阳童装-航空路民发-招店长",
-      "company": "Li-Ning",
-      "location": "",
-      "remote": "unspecified",
-      "department": "QG16-樊城区襄阳万达广场李宁时尚店",
-      "employment_type": "FULL_TIME",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-11-05",
-      "updated": "2026-11-05",
-      "deadline": "",
-      "source_url": "https://app.mokahr.com/social-recruitment/lining/166080#/job/d839e61b-8ce5-4a17-8b4d-70491739aeb6",
-      "apply_url": "https://app.mokahr.com/apply/lining/166080#/job/d839e61b-8ce5-4a17-8b4d-70491739aeb6/apply?pure=1",
-      "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
-    },
-    {
-      "id": "dc9ac5f2-3b72-4f57-be74-0fbecc384411",
-      "title": "领班-砂之船奥莱",
-      "company": "Li-Ning",
-      "location": "广州市, 广东, 中国",
-      "remote": "unspecified",
-      "department": "RGA5-万国奥特莱斯工厂店",
-      "employment_type": "FULL_TIME",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-10-15",
-      "updated": "2026-10-23",
-      "deadline": "",
-      "source_url": "https://app.mokahr.com/social-recruitment/lining/166080#/job/dc9ac5f2-3b72-4f57-be74-0fbecc384411",
-      "apply_url": "https://app.mokahr.com/apply/lining/166080#/job/dc9ac5f2-3b72-4f57-be74-0fbecc384411/apply?pure=1",
-      "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "ddec13a7-964d-4530-8c08-8754b31164dc",
@@ -1496,7 +1352,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/lining/166080#/job/ddec13a7-964d-4530-8c08-8754b31164dc",
       "apply_url": "https://app.mokahr.com/apply/lining/166080#/job/ddec13a7-964d-4530-8c08-8754b31164dc/apply?pure=1",
       "first_seen": "2026-11-24T17:38:09Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "de908d75-f231-45cc-b626-c18dd3f498d3",
@@ -1514,7 +1370,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/lining/166080#/job/de908d75-f231-45cc-b626-c18dd3f498d3",
       "apply_url": "https://app.mokahr.com/apply/lining/166080#/job/de908d75-f231-45cc-b626-c18dd3f498d3/apply?pure=1",
       "first_seen": "2026-11-24T17:38:09Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "e6b4d0db-ca9d-44d2-91ee-95085c218a25",
@@ -1532,7 +1388,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/lining/166080#/job/e6b4d0db-ca9d-44d2-91ee-95085c218a25",
       "apply_url": "https://app.mokahr.com/apply/lining/166080#/job/e6b4d0db-ca9d-44d2-91ee-95085c218a25/apply?pure=1",
       "first_seen": "2026-11-20T15:23:49Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "e894776a-7e78-4d9f-8f64-d0b660590a60",
@@ -1550,7 +1406,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/lining/166080#/job/e894776a-7e78-4d9f-8f64-d0b660590a60",
       "apply_url": "https://app.mokahr.com/apply/lining/166080#/job/e894776a-7e78-4d9f-8f64-d0b660590a60/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "ead36f3c-9129-4fc4-8561-e818810626a6",
@@ -1568,7 +1424,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/lining/166080#/job/ead36f3c-9129-4fc4-8561-e818810626a6",
       "apply_url": "https://app.mokahr.com/apply/lining/166080#/job/ead36f3c-9129-4fc4-8561-e818810626a6/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "eb744265-5c67-42a1-833b-ecc02c026d88",
@@ -1586,7 +1442,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/lining/166080#/job/eb744265-5c67-42a1-833b-ecc02c026d88",
       "apply_url": "https://app.mokahr.com/apply/lining/166080#/job/eb744265-5c67-42a1-833b-ecc02c026d88/apply?pure=1",
       "first_seen": "2026-11-24T17:38:09Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "ecad1e04-0075-4e1b-8d82-fdcdabbfa949",
@@ -1604,61 +1460,25 @@
       "source_url": "https://app.mokahr.com/social-recruitment/lining/166080#/job/ecad1e04-0075-4e1b-8d82-fdcdabbfa949",
       "apply_url": "https://app.mokahr.com/apply/lining/166080#/job/ecad1e04-0075-4e1b-8d82-fdcdabbfa949/apply?pure=1",
       "first_seen": "2026-11-25T17:09:22Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
-      "id": "ef13f2ec-a7f0-4674-aa79-99750d6b2b08",
-      "title": "李宁1990导购-重庆来福士",
+      "id": "f47f033c-8aad-49d2-9608-d2ec996709f4",
+      "title": "金茂览秀城招服装导购",
       "company": "Li-Ning",
-      "location": "重庆市, 中国",
+      "location": "长沙市, 湖南, 中国",
       "remote": "unspecified",
-      "department": "LG5R-重庆经典标店",
+      "department": "PG4D-长沙金茂览秀城店",
       "employment_type": "FULL_TIME",
       "salary_text": "",
       "salary_source": "",
-      "posted": "2026-11-06",
-      "updated": "2026-11-06",
+      "posted": "2026-11-27",
+      "updated": "2026-11-27",
       "deadline": "",
-      "source_url": "https://app.mokahr.com/social-recruitment/lining/166080#/job/ef13f2ec-a7f0-4674-aa79-99750d6b2b08",
-      "apply_url": "https://app.mokahr.com/apply/lining/166080#/job/ef13f2ec-a7f0-4674-aa79-99750d6b2b08/apply?pure=1",
-      "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
-    },
-    {
-      "id": "f45e8569-8145-4cc3-aa00-783eaf2eeaa6",
-      "title": "李宁武汉新荣天街-店长岗",
-      "company": "Li-Ning",
-      "location": "武汉市, 湖北, 中国",
-      "remote": "unspecified",
-      "department": "QGBL-湖北省武汉市江岸区龙湖新荣天街店",
-      "employment_type": "FULL_TIME",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-11-06",
-      "updated": "2026-11-06",
-      "deadline": "",
-      "source_url": "https://app.mokahr.com/social-recruitment/lining/166080#/job/f45e8569-8145-4cc3-aa00-783eaf2eeaa6",
-      "apply_url": "https://app.mokahr.com/apply/lining/166080#/job/f45e8569-8145-4cc3-aa00-783eaf2eeaa6/apply?pure=1",
-      "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
-    },
-    {
-      "id": "f467fc92-e72c-4f36-98ae-eae1b12c3667",
-      "title": "导购 三里屯中国李宁",
-      "company": "Li-Ning",
-      "location": "北京市, 中国",
-      "remote": "unspecified",
-      "department": "AFQF-朝北大悦城中国李宁",
-      "employment_type": "FULL_TIME",
-      "salary_text": "",
-      "salary_source": "",
-      "posted": "2026-11-20",
-      "updated": "2026-11-20",
-      "deadline": "",
-      "source_url": "https://app.mokahr.com/social-recruitment/lining/166080#/job/f467fc92-e72c-4f36-98ae-eae1b12c3667",
-      "apply_url": "https://app.mokahr.com/apply/lining/166080#/job/f467fc92-e72c-4f36-98ae-eae1b12c3667/apply?pure=1",
-      "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "source_url": "https://app.mokahr.com/social-recruitment/lining/166080#/job/f47f033c-8aad-49d2-9608-d2ec996709f4",
+      "apply_url": "https://app.mokahr.com/apply/lining/166080#/job/f47f033c-8aad-49d2-9608-d2ec996709f4/apply?pure=1",
+      "first_seen": "2026-11-27T16:35:48Z",
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "fb3b7e63-3540-4b71-b2fa-7df980c294bf",
@@ -1676,7 +1496,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/lining/166080#/job/fb3b7e63-3540-4b71-b2fa-7df980c294bf",
       "apply_url": "https://app.mokahr.com/apply/lining/166080#/job/fb3b7e63-3540-4b71-b2fa-7df980c294bf/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "fb97c18d-251d-4f26-ad9b-fd48539e657c",
@@ -1694,7 +1514,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/lining/166080#/job/fb97c18d-251d-4f26-ad9b-fd48539e657c",
       "apply_url": "https://app.mokahr.com/apply/lining/166080#/job/fb97c18d-251d-4f26-ad9b-fd48539e657c/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "fcd25396-b83f-4a9f-958f-b99b54564a7c",
@@ -1712,7 +1532,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/lining/166080#/job/fcd25396-b83f-4a9f-958f-b99b54564a7c",
       "apply_url": "https://app.mokahr.com/apply/lining/166080#/job/fcd25396-b83f-4a9f-958f-b99b54564a7c/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     },
     {
       "id": "fd0087d9-c840-4ee0-a1e4-fd4b8fe07711",
@@ -1730,7 +1550,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/lining/166080#/job/fd0087d9-c840-4ee0-a1e4-fd4b8fe07711",
       "apply_url": "https://app.mokahr.com/apply/lining/166080#/job/fd0087d9-c840-4ee0-a1e4-fd4b8fe07711/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-26T16:50:55Z"
+      "last_checked": "2026-11-27T16:35:48Z"
     }
   ],
   "ats": "moka",
