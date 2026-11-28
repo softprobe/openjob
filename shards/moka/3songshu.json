@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-27T16:35:48Z",
+  "checked_at": "2026-11-28T15:27:45Z",
   "failed_at": null,
   "etag": "W/\"16cf-EeLcb0P6Vs85X/Q/Bj9rug\"",
   "jobs": [
@@ -20,7 +20,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/3songshu/457#/job/1b2e9601-c727-441c-a37c-db8b9c689188",
       "apply_url": "https://app.mokahr.com/campus_apply/3songshu/457#/job/1b2e9601-c727-441c-a37c-db8b9c689188/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-27T16:35:48Z"
+      "last_checked": "2026-11-28T15:27:45Z"
     },
     {
       "id": "9339cf38-8aca-4946-b0a9-c7d8ec5ea8d9",
@@ -38,7 +38,7 @@
       "source_url": "https://app.mokahr.com/campus-recruitment/3songshu/457#/job/9339cf38-8aca-4946-b0a9-c7d8ec5ea8d9",
       "apply_url": "https://app.mokahr.com/campus_apply/3songshu/457#/job/9339cf38-8aca-4946-b0a9-c7d8ec5ea8d9/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-27T16:35:48Z"
+      "last_checked": "2026-11-28T15:27:45Z"
     }
   ],
   "ats": "moka",

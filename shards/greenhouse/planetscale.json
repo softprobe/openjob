@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-27T16:35:48Z",
+  "checked_at": "2026-11-28T15:27:45Z",
   "failed_at": null,
   "etag": "W/\"1a42761ab8682dea99e702ae9319db3b\"",
   "jobs": [
@@ -20,7 +20,7 @@
       "source_url": "https://job-boards.greenhouse.io/planetscale/jobs/4052805009",
       "apply_url": "https://job-boards.greenhouse.io/planetscale/jobs/4052805009",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-27T16:35:48Z"
+      "last_checked": "2026-11-28T15:27:45Z"
     },
     {
       "id": "4389100009",
@@ -38,7 +38,7 @@
       "source_url": "https://job-boards.greenhouse.io/planetscale/jobs/4389100009",
       "apply_url": "https://job-boards.greenhouse.io/planetscale/jobs/4389100009",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-27T16:35:48Z"
+      "last_checked": "2026-11-28T15:27:45Z"
     },
     {
       "id": "4417171009",
@@ -56,7 +56,7 @@
       "source_url": "https://job-boards.greenhouse.io/planetscale/jobs/4417171009",
       "apply_url": "https://job-boards.greenhouse.io/planetscale/jobs/4417171009",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-27T16:35:48Z"
+      "last_checked": "2026-11-28T15:27:45Z"
     },
     {
       "id": "4434574009",
@@ -74,7 +74,7 @@
       "source_url": "https://job-boards.greenhouse.io/planetscale/jobs/4434574009",
       "apply_url": "https://job-boards.greenhouse.io/planetscale/jobs/4434574009",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-27T16:35:48Z"
+      "last_checked": "2026-11-28T15:27:45Z"
     },
     {
       "id": "4458342009",
@@ -92,7 +92,7 @@
       "source_url": "https://job-boards.greenhouse.io/planetscale/jobs/4458342009",
       "apply_url": "https://job-boards.greenhouse.io/planetscale/jobs/4458342009",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-27T16:35:48Z"
+      "last_checked": "2026-11-28T15:27:45Z"
     },
     {
       "id": "4463390009",
@@ -110,7 +110,7 @@
       "source_url": "https://job-boards.greenhouse.io/planetscale/jobs/4463390009",
       "apply_url": "https://job-boards.greenhouse.io/planetscale/jobs/4463390009",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-27T16:35:48Z"
+      "last_checked": "2026-11-28T15:27:45Z"
     },
     {
       "id": "4473491009",
@@ -128,7 +128,7 @@
       "source_url": "https://job-boards.greenhouse.io/planetscale/jobs/4473491009",
       "apply_url": "https://job-boards.greenhouse.io/planetscale/jobs/4473491009",
       "first_seen": "2026-11-15T07:11:53Z",
-      "last_checked": "2026-11-27T16:35:48Z"
+      "last_checked": "2026-11-28T15:27:45Z"
     }
   ],
   "ats": "greenhouse",

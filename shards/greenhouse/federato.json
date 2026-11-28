@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-27T16:35:48Z",
+  "checked_at": "2026-11-28T15:27:45Z",
   "failed_at": null,
   "etag": "W/\"2d5ab6c5a1702527c019e5c720b58958\"",
   "jobs": [
@@ -20,7 +20,7 @@
       "source_url": "https://job-boards.greenhouse.io/federato/jobs/5212552008",
       "apply_url": "https://job-boards.greenhouse.io/federato/jobs/5212552008",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-27T16:35:48Z"
+      "last_checked": "2026-11-28T15:27:45Z"
     },
     {
       "id": "5422324008",
@@ -38,7 +38,7 @@
       "source_url": "https://job-boards.greenhouse.io/federato/jobs/5422324008",
       "apply_url": "https://job-boards.greenhouse.io/federato/jobs/5422324008",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-27T16:35:48Z"
+      "last_checked": "2026-11-28T15:27:45Z"
     },
     {
       "id": "5423888008",
@@ -56,7 +56,7 @@
       "source_url": "https://job-boards.greenhouse.io/federato/jobs/5423888008",
       "apply_url": "https://job-boards.greenhouse.io/federato/jobs/5423888008",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-27T16:35:48Z"
+      "last_checked": "2026-11-28T15:27:45Z"
     },
     {
       "id": "5430208008",
@@ -74,7 +74,7 @@
       "source_url": "https://job-boards.greenhouse.io/federato/jobs/5430208008",
       "apply_url": "https://job-boards.greenhouse.io/federato/jobs/5430208008",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-27T16:35:48Z"
+      "last_checked": "2026-11-28T15:27:45Z"
     },
     {
       "id": "5444353008",
@@ -92,7 +92,7 @@
       "source_url": "https://job-boards.greenhouse.io/federato/jobs/5444353008",
       "apply_url": "https://job-boards.greenhouse.io/federato/jobs/5444353008",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-27T16:35:48Z"
+      "last_checked": "2026-11-28T15:27:45Z"
     },
     {
       "id": "5447036008",
@@ -110,7 +110,7 @@
       "source_url": "https://job-boards.greenhouse.io/federato/jobs/5447036008",
       "apply_url": "https://job-boards.greenhouse.io/federato/jobs/5447036008",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-27T16:35:48Z"
+      "last_checked": "2026-11-28T15:27:45Z"
     },
     {
       "id": "5462609008",
@@ -128,7 +128,7 @@
       "source_url": "https://job-boards.greenhouse.io/federato/jobs/5462609008",
       "apply_url": "https://job-boards.greenhouse.io/federato/jobs/5462609008",
       "first_seen": "2026-11-26T16:50:55Z",
-      "last_checked": "2026-11-27T16:35:48Z"
+      "last_checked": "2026-11-28T15:27:45Z"
     },
     {
       "id": "5465127008",
@@ -146,7 +146,7 @@
       "source_url": "https://job-boards.greenhouse.io/federato/jobs/5465127008",
       "apply_url": "https://job-boards.greenhouse.io/federato/jobs/5465127008",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-27T16:35:48Z"
+      "last_checked": "2026-11-28T15:27:45Z"
     },
     {
       "id": "5485542008",
@@ -164,7 +164,7 @@
       "source_url": "https://job-boards.greenhouse.io/federato/jobs/5485542008",
       "apply_url": "https://job-boards.greenhouse.io/federato/jobs/5485542008",
       "first_seen": "2026-11-18T15:36:26Z",
-      "last_checked": "2026-11-27T16:35:48Z"
+      "last_checked": "2026-11-28T15:27:45Z"
     }
   ],
   "ats": "greenhouse",

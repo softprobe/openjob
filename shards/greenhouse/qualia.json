@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-27T16:35:48Z",
+  "checked_at": "2026-11-28T15:27:45Z",
   "failed_at": null,
   "etag": "W/\"48b50a01923e881a22459fa2ad665aa8\"",
   "jobs": [
@@ -20,7 +20,7 @@
       "source_url": "https://job-boards.greenhouse.io/qualia/jobs/8336735",
       "apply_url": "https://job-boards.greenhouse.io/qualia/jobs/8336735",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-27T16:35:48Z"
+      "last_checked": "2026-11-28T15:27:45Z"
     },
     {
       "id": "8336737",
@@ -38,7 +38,7 @@
       "source_url": "https://job-boards.greenhouse.io/qualia/jobs/8336737",
       "apply_url": "https://job-boards.greenhouse.io/qualia/jobs/8336737",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-27T16:35:48Z"
+      "last_checked": "2026-11-28T15:27:45Z"
     }
   ],
   "ats": "greenhouse",

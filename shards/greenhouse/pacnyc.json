@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-27T16:35:48Z",
+  "checked_at": "2026-11-28T15:27:45Z",
   "failed_at": null,
   "etag": "W/\"383f3a0177026e024d07eb25887b5cbe\"",
   "jobs": [
@@ -20,7 +20,7 @@
       "source_url": "https://job-boards.greenhouse.io/pacnyc/jobs/4701378006",
       "apply_url": "https://job-boards.greenhouse.io/pacnyc/jobs/4701378006",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-27T16:35:48Z"
+      "last_checked": "2026-11-28T15:27:45Z"
     },
     {
       "id": "4717142006",
@@ -38,7 +38,7 @@
       "source_url": "https://job-boards.greenhouse.io/pacnyc/jobs/4717142006",
       "apply_url": "https://job-boards.greenhouse.io/pacnyc/jobs/4717142006",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-27T16:35:48Z"
+      "last_checked": "2026-11-28T15:27:45Z"
     },
     {
       "id": "4719367006",
@@ -56,7 +56,7 @@
       "source_url": "https://job-boards.greenhouse.io/pacnyc/jobs/4719367006",
       "apply_url": "https://job-boards.greenhouse.io/pacnyc/jobs/4719367006",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-27T16:35:48Z"
+      "last_checked": "2026-11-28T15:27:45Z"
     },
     {
       "id": "4728048006",
@@ -74,7 +74,7 @@
       "source_url": "https://job-boards.greenhouse.io/pacnyc/jobs/4728048006",
       "apply_url": "https://job-boards.greenhouse.io/pacnyc/jobs/4728048006",
       "first_seen": "2026-11-15T13:53:32Z",
-      "last_checked": "2026-11-27T16:35:48Z"
+      "last_checked": "2026-11-28T15:27:45Z"
     }
   ],
   "ats": "greenhouse",

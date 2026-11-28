@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-27T16:35:48Z",
+  "checked_at": "2026-11-28T15:27:45Z",
   "failed_at": null,
   "etag": "W/\"job-board:b2e44b2d8fd12e7f7198c1b82ab719e0b08a70bdf13afa39d07a7659513ba796\"",
   "jobs": [
@@ -20,7 +20,7 @@
       "source_url": "https://jobs.ashbyhq.com/airbound/23a31220-97e1-494a-a2ef-a4eab004509a",
       "apply_url": "https://jobs.ashbyhq.com/airbound/23a31220-97e1-494a-a2ef-a4eab004509a/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-27T16:35:48Z"
+      "last_checked": "2026-11-28T15:27:45Z"
     },
     {
       "id": "259cbc71-366a-4bce-82c1-a0f1d1b6edf9",
@@ -38,7 +38,7 @@
       "source_url": "https://jobs.ashbyhq.com/airbound/259cbc71-366a-4bce-82c1-a0f1d1b6edf9",
       "apply_url": "https://jobs.ashbyhq.com/airbound/259cbc71-366a-4bce-82c1-a0f1d1b6edf9/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-27T16:35:48Z"
+      "last_checked": "2026-11-28T15:27:45Z"
     },
     {
       "id": "25b390f1-6cf8-4ea1-891b-75b9d3eb01dc",
@@ -56,7 +56,7 @@
       "source_url": "https://jobs.ashbyhq.com/airbound/25b390f1-6cf8-4ea1-891b-75b9d3eb01dc",
       "apply_url": "https://jobs.ashbyhq.com/airbound/25b390f1-6cf8-4ea1-891b-75b9d3eb01dc/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-27T16:35:48Z"
+      "last_checked": "2026-11-28T15:27:45Z"
     },
     {
       "id": "2a3adc59-0362-43bb-95af-eef7d104ac3c",
@@ -74,7 +74,7 @@
       "source_url": "https://jobs.ashbyhq.com/airbound/2a3adc59-0362-43bb-95af-eef7d104ac3c",
       "apply_url": "https://jobs.ashbyhq.com/airbound/2a3adc59-0362-43bb-95af-eef7d104ac3c/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-27T16:35:48Z"
+      "last_checked": "2026-11-28T15:27:45Z"
     },
     {
       "id": "2c28661a-aa4f-40e0-aafa-1ca6202e0ad8",
@@ -92,7 +92,7 @@
       "source_url": "https://jobs.ashbyhq.com/airbound/2c28661a-aa4f-40e0-aafa-1ca6202e0ad8",
       "apply_url": "https://jobs.ashbyhq.com/airbound/2c28661a-aa4f-40e0-aafa-1ca6202e0ad8/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-27T16:35:48Z"
+      "last_checked": "2026-11-28T15:27:45Z"
     },
     {
       "id": "38c55140-3d62-4a69-94f3-e14a69148fd1",
@@ -110,7 +110,7 @@
       "source_url": "https://jobs.ashbyhq.com/airbound/38c55140-3d62-4a69-94f3-e14a69148fd1",
       "apply_url": "https://jobs.ashbyhq.com/airbound/38c55140-3d62-4a69-94f3-e14a69148fd1/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-27T16:35:48Z"
+      "last_checked": "2026-11-28T15:27:45Z"
     },
     {
       "id": "434abcce-a7e4-4bf3-8bec-43b6e853c911",
@@ -128,7 +128,7 @@
       "source_url": "https://jobs.ashbyhq.com/airbound/434abcce-a7e4-4bf3-8bec-43b6e853c911",
       "apply_url": "https://jobs.ashbyhq.com/airbound/434abcce-a7e4-4bf3-8bec-43b6e853c911/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-27T16:35:48Z"
+      "last_checked": "2026-11-28T15:27:45Z"
     },
     {
       "id": "46cbd4d0-e92e-494b-bad2-5410e59e1b41",
@@ -146,7 +146,7 @@
       "source_url": "https://jobs.ashbyhq.com/airbound/46cbd4d0-e92e-494b-bad2-5410e59e1b41",
       "apply_url": "https://jobs.ashbyhq.com/airbound/46cbd4d0-e92e-494b-bad2-5410e59e1b41/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-27T16:35:48Z"
+      "last_checked": "2026-11-28T15:27:45Z"
     },
     {
       "id": "4f2bb774-8bad-466b-aa3f-4c0207c433a4",
@@ -164,7 +164,7 @@
       "source_url": "https://jobs.ashbyhq.com/airbound/4f2bb774-8bad-466b-aa3f-4c0207c433a4",
       "apply_url": "https://jobs.ashbyhq.com/airbound/4f2bb774-8bad-466b-aa3f-4c0207c433a4/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-27T16:35:48Z"
+      "last_checked": "2026-11-28T15:27:45Z"
     },
     {
       "id": "550a4525-45dd-4a2d-83b8-bc5d3ad75f2b",
@@ -182,7 +182,7 @@
       "source_url": "https://jobs.ashbyhq.com/airbound/550a4525-45dd-4a2d-83b8-bc5d3ad75f2b",
       "apply_url": "https://jobs.ashbyhq.com/airbound/550a4525-45dd-4a2d-83b8-bc5d3ad75f2b/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-27T16:35:48Z"
+      "last_checked": "2026-11-28T15:27:45Z"
     },
     {
       "id": "725a71d2-d210-4666-8e8e-15106dea1ab9",
@@ -200,7 +200,7 @@
       "source_url": "https://jobs.ashbyhq.com/airbound/725a71d2-d210-4666-8e8e-15106dea1ab9",
       "apply_url": "https://jobs.ashbyhq.com/airbound/725a71d2-d210-4666-8e8e-15106dea1ab9/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-27T16:35:48Z"
+      "last_checked": "2026-11-28T15:27:45Z"
     },
     {
       "id": "7613bd2c-f8a9-4890-aa1a-67065a1a2132",
@@ -218,7 +218,7 @@
       "source_url": "https://jobs.ashbyhq.com/airbound/7613bd2c-f8a9-4890-aa1a-67065a1a2132",
       "apply_url": "https://jobs.ashbyhq.com/airbound/7613bd2c-f8a9-4890-aa1a-67065a1a2132/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-27T16:35:48Z"
+      "last_checked": "2026-11-28T15:27:45Z"
     },
     {
       "id": "830e7a04-df76-4f82-894b-a299ad247769",
@@ -236,7 +236,7 @@
       "source_url": "https://jobs.ashbyhq.com/airbound/830e7a04-df76-4f82-894b-a299ad247769",
       "apply_url": "https://jobs.ashbyhq.com/airbound/830e7a04-df76-4f82-894b-a299ad247769/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-27T16:35:48Z"
+      "last_checked": "2026-11-28T15:27:45Z"
     },
     {
       "id": "83414b63-7bfd-4825-b8e6-cc14065e10a1",
@@ -254,7 +254,7 @@
       "source_url": "https://jobs.ashbyhq.com/airbound/83414b63-7bfd-4825-b8e6-cc14065e10a1",
       "apply_url": "https://jobs.ashbyhq.com/airbound/83414b63-7bfd-4825-b8e6-cc14065e10a1/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-27T16:35:48Z"
+      "last_checked": "2026-11-28T15:27:45Z"
     },
     {
       "id": "88683246-88ba-4398-8c84-0294c314915f",
@@ -272,7 +272,7 @@
       "source_url": "https://jobs.ashbyhq.com/airbound/88683246-88ba-4398-8c84-0294c314915f",
       "apply_url": "https://jobs.ashbyhq.com/airbound/88683246-88ba-4398-8c84-0294c314915f/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-27T16:35:48Z"
+      "last_checked": "2026-11-28T15:27:45Z"
     },
     {
       "id": "93efe944-aabd-4c7f-ae42-14302783da0d",
@@ -290,7 +290,7 @@
       "source_url": "https://jobs.ashbyhq.com/airbound/93efe944-aabd-4c7f-ae42-14302783da0d",
       "apply_url": "https://jobs.ashbyhq.com/airbound/93efe944-aabd-4c7f-ae42-14302783da0d/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-27T16:35:48Z"
+      "last_checked": "2026-11-28T15:27:45Z"
     },
     {
       "id": "953d420d-2ced-4d4e-9125-bb0d2b40113a",
@@ -308,7 +308,7 @@
       "source_url": "https://jobs.ashbyhq.com/airbound/953d420d-2ced-4d4e-9125-bb0d2b40113a",
       "apply_url": "https://jobs.ashbyhq.com/airbound/953d420d-2ced-4d4e-9125-bb0d2b40113a/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-27T16:35:48Z"
+      "last_checked": "2026-11-28T15:27:45Z"
     },
     {
       "id": "a4e90a0d-10a9-4d09-888e-bfce3d938f48",
@@ -326,7 +326,7 @@
       "source_url": "https://jobs.ashbyhq.com/airbound/a4e90a0d-10a9-4d09-888e-bfce3d938f48",
       "apply_url": "https://jobs.ashbyhq.com/airbound/a4e90a0d-10a9-4d09-888e-bfce3d938f48/application",
       "first_seen": "2026-11-25T17:09:22Z",
-      "last_checked": "2026-11-27T16:35:48Z"
+      "last_checked": "2026-11-28T15:27:45Z"
     },
     {
       "id": "a8eeaac9-c412-4a9c-8463-8538cf809067",
@@ -344,7 +344,7 @@
       "source_url": "https://jobs.ashbyhq.com/airbound/a8eeaac9-c412-4a9c-8463-8538cf809067",
       "apply_url": "https://jobs.ashbyhq.com/airbound/a8eeaac9-c412-4a9c-8463-8538cf809067/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-27T16:35:48Z"
+      "last_checked": "2026-11-28T15:27:45Z"
     },
     {
       "id": "c46cfe6e-4db4-4265-8e14-04a3c24be83a",
@@ -362,7 +362,7 @@
       "source_url": "https://jobs.ashbyhq.com/airbound/c46cfe6e-4db4-4265-8e14-04a3c24be83a",
       "apply_url": "https://jobs.ashbyhq.com/airbound/c46cfe6e-4db4-4265-8e14-04a3c24be83a/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-27T16:35:48Z"
+      "last_checked": "2026-11-28T15:27:45Z"
     },
     {
       "id": "df605e16-5a70-4078-8db9-64cb69ca3ac4",
@@ -380,7 +380,7 @@
       "source_url": "https://jobs.ashbyhq.com/airbound/df605e16-5a70-4078-8db9-64cb69ca3ac4",
       "apply_url": "https://jobs.ashbyhq.com/airbound/df605e16-5a70-4078-8db9-64cb69ca3ac4/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-27T16:35:48Z"
+      "last_checked": "2026-11-28T15:27:45Z"
     },
     {
       "id": "e11026cb-e2db-4b0c-8792-8c40fd545fb7",
@@ -398,7 +398,7 @@
       "source_url": "https://jobs.ashbyhq.com/airbound/e11026cb-e2db-4b0c-8792-8c40fd545fb7",
       "apply_url": "https://jobs.ashbyhq.com/airbound/e11026cb-e2db-4b0c-8792-8c40fd545fb7/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-27T16:35:48Z"
+      "last_checked": "2026-11-28T15:27:45Z"
     },
     {
       "id": "ecf5c5a9-32a5-486d-b447-85d89f9f7117",
@@ -416,7 +416,7 @@
       "source_url": "https://jobs.ashbyhq.com/airbound/ecf5c5a9-32a5-486d-b447-85d89f9f7117",
       "apply_url": "https://jobs.ashbyhq.com/airbound/ecf5c5a9-32a5-486d-b447-85d89f9f7117/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-27T16:35:48Z"
+      "last_checked": "2026-11-28T15:27:45Z"
     },
     {
       "id": "edfbc92b-d565-4848-bd04-622294135c10",
@@ -434,7 +434,7 @@
       "source_url": "https://jobs.ashbyhq.com/airbound/edfbc92b-d565-4848-bd04-622294135c10",
       "apply_url": "https://jobs.ashbyhq.com/airbound/edfbc92b-d565-4848-bd04-622294135c10/application",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-27T16:35:48Z"
+      "last_checked": "2026-11-28T15:27:45Z"
     }
   ],
   "ats": "ashby",

@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "checked_at": "2026-11-27T16:35:48Z",
+  "checked_at": "2026-11-28T15:27:45Z",
   "failed_at": null,
   "etag": "W/\"1909-SDRLWUHjVa9MkY9N/BHNKg\"",
   "jobs": [
@@ -20,7 +20,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/4paradigm/102013#/job/27640206-04ac-4afb-8153-b8f424b08d0e",
       "apply_url": "https://app.mokahr.com/apply/4paradigm/102013#/job/27640206-04ac-4afb-8153-b8f424b08d0e/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-27T16:35:48Z"
+      "last_checked": "2026-11-28T15:27:45Z"
     },
     {
       "id": "733c2666-1b8d-4ad4-bf80-5635647f13a9",
@@ -38,7 +38,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/4paradigm/102013#/job/733c2666-1b8d-4ad4-bf80-5635647f13a9",
       "apply_url": "https://app.mokahr.com/apply/4paradigm/102013#/job/733c2666-1b8d-4ad4-bf80-5635647f13a9/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-27T16:35:48Z"
+      "last_checked": "2026-11-28T15:27:45Z"
     },
     {
       "id": "863e05ea-0126-435d-964e-147e379df6cf",
@@ -56,7 +56,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/4paradigm/102013#/job/863e05ea-0126-435d-964e-147e379df6cf",
       "apply_url": "https://app.mokahr.com/apply/4paradigm/102013#/job/863e05ea-0126-435d-964e-147e379df6cf/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-27T16:35:48Z"
+      "last_checked": "2026-11-28T15:27:45Z"
     },
     {
       "id": "94eb9fe0-99b2-4d8e-959d-b036df46cf0a",
@@ -74,7 +74,7 @@
       "source_url": "https://app.mokahr.com/social-recruitment/4paradigm/102013#/job/94eb9fe0-99b2-4d8e-959d-b036df46cf0a",
       "apply_url": "https://app.mokahr.com/apply/4paradigm/102013#/job/94eb9fe0-99b2-4d8e-959d-b036df46cf0a/apply?pure=1",
       "first_seen": "2026-11-17T11:59:50Z",
-      "last_checked": "2026-11-27T16:35:48Z"
+      "last_checked": "2026-11-28T15:27:45Z"
     }
   ],
   "ats": "moka",
