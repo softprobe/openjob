@@ -37,6 +37,18 @@ Claude Code users can install the OpenJob plugin in one step (Claude Code 2.1.27
 /plugin install openjob --marketplace softprobe/openjob
 ```
 
+## Connect your agent
+
+Point your agent at the OpenJob MCP server (Streamable HTTP): `https://openjob.softprobe.ai/api/mcp`. One line per agent, in each agent's own config format:
+
+- **Hermes** — in `~/.hermes/config.yaml`: `mcp_servers: {openjob: {url: "https://openjob.softprobe.ai/api/mcp"}}`
+- **OpenClaw** — `openclaw mcp add openjob --url https://openjob.softprobe.ai/api/mcp --transport streamable-http`
+- **OpenCode** — in `opencode.json`: `"mcp": {"servers": {"openjob": {"type": "remote", "url": "https://openjob.softprobe.ai/api/mcp"}}}`
+- **Goose** — in `~/.config/goose/config.yaml`, under `extensions:`: `openjob: {name: OpenJob, type: streamable_http, uri: "https://openjob.softprobe.ai/api/mcp", enabled: true}`
+- **Zed** — in `settings.json`: `"context_servers": {"openjob": {"url": "https://openjob.softprobe.ai/api/mcp"}}`
+
+No MCP setup? **Instinct** has no plugin system, so paste this prompt instead: `Read https://openjob.softprobe.ai/llms.txt and follow it.`
+
 Paste one prompt. The agent reads [llms.txt](https://openjob.softprobe.ai/llms.txt) and [AGENTS.md](AGENTS.md).
 
 ### Find me a job
